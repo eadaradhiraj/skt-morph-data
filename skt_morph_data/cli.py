@@ -254,7 +254,7 @@ def build_parser() -> argparse.ArgumentParser:
         """),
     )
     p.add_argument("--db", help="path to skt_morph.db (default auto location)", default=None)
-    p.add_argument("--version", action="version", version="skt-morph-data 0.2.0")
+    p.add_argument("--version", action="version", version="skt-morph-data 0.1.0")
 
     sub = p.add_subparsers(dest="cmd", required=True)
 

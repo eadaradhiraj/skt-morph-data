@@ -1,0 +1,40 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+.venv/
+venv/
+env/
+*.tmp
+
+# db (large) – keep data/*.json, ignore built db
+data/skt_morph.db
+data/skt_morph.db-*
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.gz
+
+# scraper artefacts
+output/
+data/completed.txt
+data/failed.txt
+data/dhatu_ids.txt
+completed.txt
+failed.txt
+dhatu_ids.txt
+chromedriver.exe
+chromedriver
+*.log
+
+# os
+.DS_Store
+Thumbs.db
+
+# cache dir for tests
+.local/

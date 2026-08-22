@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "skt-morph-data"
+version = "0.1.0"
+description = "Sanskrit dhatu morphology database — searchable SQLite backed by ashtadhyayi.com data"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "eadaradhiraj", email = "eadaradhiraj@example.com"}]
+keywords = ["sanskrit", "morphology", "dhatu", "panini", "ashtadhyayi"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = ["certifi>=2024.0.0"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.urls]
+Homepage = "https://github.com/eadaradhiraj/skt-morph-data"
+Repository = "https://github.com/eadaradhiraj/skt-morph-data"
+
+[project.scripts]
+skt-morph = "skt_morph_data.cli:main"
+skt-morph-data = "skt_morph_data.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["skt_morph_data*"]
+
+[tool.setuptools.package-data]
+skt_morph_data = ["py.typed"]
+

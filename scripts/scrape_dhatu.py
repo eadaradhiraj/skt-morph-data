@@ -5,7 +5,9 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import platform
 import re
+import shutil
 import ssl
 import sys
 import time
@@ -22,14 +24,15 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.remote.webdriver import WebDriver
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-# chromedriver may live next to script or at repo root
+# chromedriver may live next to script or at repo root (exe on Windows, no ext on Linux/macOS)
 _CANDIDATES = [
     SCRIPT_DIR / "chromedriver.exe",
     SCRIPT_DIR.parent / "chromedriver.exe",
     SCRIPT_DIR / "chromedriver",
     SCRIPT_DIR.parent / "chromedriver",
 ]
-LOCAL_CHROMEDRIVER = next((p for p in _CANDIDATES if p.is_file()), SCRIPT_DIR / "chromedriver.exe")
+_CHROMEDRIVER_FALLBACK = "chromedriver.exe" if os.name == "nt" else "chromedriver"
+LOCAL_CHROMEDRIVER = next((p for p in _CANDIDATES if p.is_file()), SCRIPT_DIR / _CHROMEDRIVER_FALLBACK)
 
 BASE_URL = "https://ashtadhyayi.com/dhatu"
 DHATU_LIST_URL = (
@@ -316,12 +319,53 @@ def strip_html(text: str) -> str:
 
 
 def _chrome_binary_candidates() -> list[str]:
-    local = os.environ.get("LOCALAPPDATA", "")
-    return [
-        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
-        r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-        os.path.join(local, r"Google\Chrome\Application\chrome.exe"),
-    ]
+    """Return Chrome/Chromium binary candidates for all OSes."""
+    candidates: list[str] = []
+    # 1. Whatever is on PATH
+    for name in (
+        "google-chrome",
+        "google-chrome-stable",
+        "chromium",
+        "chromium-browser",
+        "chrome",
+        "google-chrome-beta",
+    ):
+        which = shutil.which(name)
+        if which:
+            candidates.append(which)
+    system = platform.system()
+    if system == "Windows":
+        local = os.environ.get("LOCALAPPDATA", "")
+        candidates.extend([
+            r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+            r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+            os.path.join(local, r"Google\Chrome\Application\chrome.exe"),
+        ])
+    elif system == "Darwin":
+        candidates.extend([
+            "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+            "/Applications/Chromium.app/Contents/MacOS/Chromium",
+            os.path.expanduser("~/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"),
+            os.path.expanduser("~/Applications/Chromium.app/Contents/MacOS/Chromium"),
+        ])
+    else:  # Linux / other Unix
+        candidates.extend([
+            "/usr/bin/google-chrome",
+            "/usr/bin/google-chrome-stable",
+            "/usr/bin/chromium",
+            "/usr/bin/chromium-browser",
+            "/snap/bin/chromium",
+            "/opt/google/chrome/chrome",
+            "/opt/google/chrome/google-chrome",
+        ])
+    # de-duplicate preserving order
+    seen: set[str] = set()
+    deduped: list[str] = []
+    for p in candidates:
+        if p and p not in seen:
+            seen.add(p)
+            deduped.append(p)
+    return deduped
 
 
 def _apply_common_options(options: ChromeOptions, headless: bool) -> None:
@@ -342,20 +386,21 @@ def _apply_common_options(options: ChromeOptions, headless: bool) -> None:
 
 
 def create_driver(headless: bool = True) -> WebDriver:
-    """Create a silent headless Chrome session using local chromedriver.exe."""
+    """Create a silent headless Chrome session using local chromedriver."""
     if not LOCAL_CHROMEDRIVER.is_file():
-        raise FileNotFoundError(f"chromedriver.exe not found at {LOCAL_CHROMEDRIVER}")
-
-    chrome_bin = next((p for p in _chrome_binary_candidates() if os.path.isfile(p)), None)
-    if not chrome_bin:
         raise FileNotFoundError(
-            "Google Chrome browser binary not found. "
-            "Please install Chrome to use this scraper."
+            f"{LOCAL_CHROMEDRIVER.name} not found at {LOCAL_CHROMEDRIVER}. "
+            f"Download chromedriver for your OS/Chrome version and place it at "
+            f"{SCRIPT_DIR / _CHROMEDRIVER_FALLBACK} or {SCRIPT_DIR.parent / _CHROMEDRIVER_FALLBACK}"
         )
+
+    chrome_bin = next((p for p in _chrome_binary_candidates() if p and os.path.isfile(p)), None)
 
     options = ChromeOptions()
     _apply_common_options(options, headless)
-    options.binary_location = chrome_bin
+    if chrome_bin:
+        options.binary_location = chrome_bin
+    # else: let Selenium discover Chrome/Chromium on PATH (useful on Linux/macOS)
     service = ChromeService(str(LOCAL_CHROMEDRIVER), log_output=os.devnull)
     return webdriver.Chrome(service=service, options=options)
 

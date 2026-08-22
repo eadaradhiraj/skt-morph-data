@@ -17,7 +17,9 @@ skt.get_chandrika("01.0001")
 skt.get_prayoga("01.0001")
 skt.get_upasarga_forms("01.0001")
 skt.list_dhatus(gana="01", limit=50, offset=0, include_skipped=True)
-skt.search_dhatus("BU", gana="01", limit=20)
+skt.search_dhatus("BU", gana="01", limit=20)  # legacy: returns dhatu rows
+skt.search_forms("AdAra", exact=True, gana="06", limit=20)  # detailed: prefix, pratyaya, dhatu, id
+skt.find("BUta", exact=True)  # alias for search_forms
 skt.query("SELECT * FROM dhatus LIMIT 5")
 ```
 
@@ -30,7 +32,8 @@ skt-morph download [--force --url URL --output PATH]
 skt-morph info <id> [--json]
 skt-morph show <id> [--json]
 skt-morph list [--gana 01 --limit 50 --offset 0 --no-skipped --json]
-skt-morph search <text> [--gana 01 --limit 20 --json]
+skt-morph search <text> [--exact --gana 01 --limit 20 --json]  # exact or substring, returns prefix/pratyaya/dhatu/id
+skt-morph find <text> [--exact --gana 01 --limit 20 --json]  # alias
 skt-morph conjugations <id> [--category ting --prefix pra --json]
 skt-morph participles <id> [--category krut --prefix sam --json]
 skt-morph upasarga <id> [--chandrika --with-forms --json]

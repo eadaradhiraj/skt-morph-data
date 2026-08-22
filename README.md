@@ -34,6 +34,11 @@ for row in skt.list_dhatus(gana="01", limit=5):
 for row in skt.search_dhatus("BU", gana="01", limit=5):
     print(row)
 
+# detailed exact search: returns prefix, pratyaya, dhatu, id, etc.
+for hit in skt.search_forms("AdAra", exact=True, limit=5):
+    print(hit["dhatu_id"], hit["dhatu"], hit["prefix"], hit["pratyaya"], hit["matched_value"])
+hits = skt.find("BUta", exact=True)  # alias
+
 # low-level
 print(skt.get_conjugations("01.0001", category="ting"))
 print(skt.get_participles("01.0001", category="krut"))
@@ -65,7 +70,8 @@ skt-morph show 01.0001 --json > /tmp/dhatu.json
 # list / search
 skt-morph list --gana 01 --limit 20
 skt-morph list --gana 06 --limit 50 --json
-skt-morph search BU --gana 01 --limit 10
+skt-morph search BU --gana 01 --limit 10      # substring
+skt-morph search AdAra --exact --json        # exact: shows prefix/pratyaya/dhatu/id
 skt-morph search "sattAyAm" --limit 5
 
 # conjugations / participles (prefix = upasarga)

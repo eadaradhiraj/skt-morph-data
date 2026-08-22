@@ -20,6 +20,7 @@ from .query import (
     list_dhatus,
     query,
     search_dhatus,
+    search_forms,
 )
 
 # ---------- pretty helpers ----------
@@ -107,6 +108,27 @@ def cmd_list(args: argparse.Namespace) -> int:
 
 
 def cmd_search(args: argparse.Namespace) -> int:
+    # New detailed search (exact or substring) across all forms
+    # Use search_forms which returns prefix, pratyaya, dhatu, id, etc.
+    # Keep --exact flag for exact equality, otherwise substring LIKE
+    if args.detailed or args.exact or True:  # default to detailed
+        rows = search_forms(args.text, exact=args.exact, gana=args.gana, limit=args.limit, db_path=args.db)
+        if args.json:
+            _print_json(rows)
+        else:
+            if not rows:
+                print("(no matches)")
+                return 0
+            # pretty table: show most useful columns
+            headers = ["dhatu_id","dhatu","artha","match_type","prefix","category","pratyaya","matched_field","matched_value"]
+            # shorten artha/english for table
+            display = []
+            for r in rows:
+                display.append({k: (str(v)[:20] if k in ("artha","english") else v) for k,v in r.items() if k in headers})
+            _print_table(display, headers=headers)
+            print(f"\n{len(rows)} hits (exact={args.exact}) — use --json for full dhatu/english fields")
+        return 0
+    # fallback legacy (not used)
     rows = search_dhatus(args.text, gana=args.gana, limit=args.limit, db_path=args.db)
     if args.json:
         _print_json(rows)
@@ -222,7 +244,9 @@ def build_parser() -> argparse.ArgumentParser:
           skt-morph participles 01.0001 --category krut
           skt-morph upasarga 01.0001
           skt-morph prayoga 01.0001
-          skt-morph search BU --gana 01
+          skt-morph search Bavati --exact        # exact match
+          skt-morph search BU --gana 01            # substring
+          skt-morph search AdAra --exact --json    # detailed JSON with prefix/pratyaya/dhatu/id
           skt-morph query "SELECT id, gana FROM dhatus WHERE gana='01' LIMIT 5"
 
         DB location: ~/.local/share/skt_morph_data/skt_morph.db
@@ -230,7 +254,7 @@ def build_parser() -> argparse.ArgumentParser:
         """),
     )
     p.add_argument("--db", help="path to skt_morph.db (default auto location)", default=None)
-    p.add_argument("--version", action="version", version="skt-morph-data 0.1.0")
+    p.add_argument("--version", action="version", version="skt-morph-data 0.2.0")
 
     sub = p.add_subparsers(dest="cmd", required=True)
 
@@ -262,11 +286,13 @@ def build_parser() -> argparse.ArgumentParser:
     ls.add_argument("--json", action="store_true")
     ls.set_defaults(func=cmd_list)
 
-    # search
-    se = sub.add_parser("search", help="LIKE search over id/info/forms")
-    se.add_argument("text", help="search text (SLP1)")
+    # search (detailed, exact or substring)
+    se = sub.add_parser("search", aliases=["find"], help="search forms (conjugation/participle) — returns prefix, pratyaya, dhatu, id")
+    se.add_argument("text", help="search text (SLP1), e.g. Bavati, BUta, AdAra")
     se.add_argument("--gana", help="filter gana")
     se.add_argument("--limit", type=int, default=20)
+    se.add_argument("--exact", action="store_true", help="exact equality (=) instead of substring LIKE (%%text%%)")
+    se.add_argument("--detailed", action="store_true", help="(default) show detailed hits")
     se.add_argument("--json", action="store_true")
     se.set_defaults(func=cmd_search)
 

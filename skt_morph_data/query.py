@@ -199,7 +199,7 @@ def search_dhatus(
     limit: int = 20,
     db_path: Path | str | None = None,
 ) -> list[dict[str, Any]]:
-    """Simple LIKE search over info values, dhatu forms, etc."""
+    """Simple LIKE search over info values, dhatu forms, etc. (legacy, returns dhatu rows only)."""
     con = connect(db_path)
     like = f"%{text}%"
     # search in info values, conjugation forms, and dhatu id
@@ -220,6 +220,175 @@ def search_dhatus(
     params.append(limit)
     cur = con.execute(sql, params)
     return _dict_rows(cur)
+
+
+def search_forms(
+    text: str,
+    exact: bool = False,
+    gana: str | None = None,
+    limit: int = 50,
+    db_path: Path | str | None = None,
+) -> list[dict[str, Any]]:
+    """Exact or substring search across all forms.
+
+    Returns detailed hits so caller knows *where* the form occurs:
+      - dhatu_id, gana, dhatu (OpadeSikasvarUpam), artha, english
+      - match_type: 'conjugation' | 'participle'
+      - prefix (upasarga, '' if none)
+      - category (ting/yak/... or krut/san_krut/...)
+      - for conjugations: form_type (plat/plang/...), form_value
+      - for participles: variant (kta/ktavatu/.../tavya etc), base/m/f/n and which field matched
+    Example: search_forms("BUta", exact=True) -> hits for kta participle etc.
+    """
+    con = connect(db_path)
+    # ensure indexes for speed (no-op if already exists)
+    try:
+        con.execute("CREATE INDEX IF NOT EXISTS idx_conj_form_value ON conjugation_forms(form_value)")
+        con.execute("CREATE INDEX IF NOT EXISTS idx_part_base ON participle_forms(base)")
+        con.execute("CREATE INDEX IF NOT EXISTS idx_part_m ON participle_forms(m)")
+        con.execute("CREATE INDEX IF NOT EXISTS idx_part_f ON participle_forms(f)")
+        con.execute("CREATE INDEX IF NOT EXISTS idx_part_n ON participle_forms(n)")
+    except Exception:
+        pass
+
+    text = text.strip()
+    if not text:
+        return []
+    gana_filter = gana.zfill(2) if gana and gana.isdigit() else gana
+
+    # helper to fetch dhatu string / artha for display (correlated subquery in SELECT)
+    # we include them directly in SQL to avoid N+1
+    dhatu_expr = "(SELECT value FROM dhatu_info WHERE dhatu_id = d.id AND name='OpadeSikasvarUpam' LIMIT 1)"
+    artha_expr = "(SELECT value FROM dhatu_info WHERE dhatu_id = d.id AND name='arTaH' LIMIT 1)"
+    eng_expr = "(SELECT value FROM dhatu_info WHERE dhatu_id = d.id AND name='English Meaning' LIMIT 1)"
+
+    hits: list[dict[str, Any]] = []
+
+    # --- conjugations ---
+    if exact:
+        conj_sql = f"""
+        SELECT c.dhatu_id as dhatu_id, d.gana as gana, c.prefix as prefix,
+               c.category as category, c.form_type as form_type, c.form_value as form_value,
+               c.position as position,
+               {dhatu_expr} as dhatu, {artha_expr} as artha, {eng_expr} as english,
+               'conjugation' as match_type
+        FROM conjugation_forms c JOIN dhatus d ON d.id = c.dhatu_id
+        WHERE c.form_value = ?
+        """
+        conj_params: list[Any] = [text]
+    else:
+        conj_sql = f"""
+        SELECT c.dhatu_id as dhatu_id, d.gana as gana, c.prefix as prefix,
+               c.category as category, c.form_type as form_type, c.form_value as form_value,
+               c.position as position,
+               {dhatu_expr} as dhatu, {artha_expr} as artha, {eng_expr} as english,
+               'conjugation' as match_type
+        FROM conjugation_forms c JOIN dhatus d ON d.id = c.dhatu_id
+        WHERE c.form_value LIKE ?
+        """
+        conj_params = [f"%{text}%"]
+    if gana_filter:
+        conj_sql += " AND d.gana = ?"
+        conj_params.append(gana_filter)
+    conj_sql += " ORDER BY dhatu_id, prefix, category, form_type LIMIT ?"
+    conj_params.append(limit)
+    cur = con.execute(conj_sql, conj_params)
+    for r in cur.fetchall():
+        hits.append({
+            "dhatu_id": r["dhatu_id"],
+            "gana": r["gana"],
+            "dhatu": r["dhatu"] or "",
+            "artha": r["artha"] or "",
+            "english": r["english"] or "",
+            "match_type": "conjugation",
+            "prefix": r["prefix"] or "",
+            "category": r["category"],
+            "pratyaya": r["form_type"],  # alias for uniformity
+            "form_type": r["form_type"],
+            "form_value": r["form_value"],
+            "matched_field": "form_value",
+            "matched_value": r["form_value"],
+        })
+
+    # --- participles ---
+    # search across base/m/f/n
+    if exact:
+        part_where = "(p.base = ? OR p.m = ? OR p.f = ? OR p.n = ?)"
+        part_params: list[Any] = [text, text, text, text]
+    else:
+        part_where = "(p.base LIKE ? OR p.m LIKE ? OR p.f LIKE ? OR p.n LIKE ?)"
+        like = f"%{text}%"
+        part_params = [like, like, like, like]
+    part_sql = f"""
+        SELECT p.dhatu_id as dhatu_id, d.gana as gana, p.prefix as prefix,
+               p.category as category, p.variant as variant,
+               p.base as base, p.m as m, p.f as f, p.n as n,
+               {dhatu_expr} as dhatu, {artha_expr} as artha, {eng_expr} as english,
+               'participle' as match_type
+        FROM participle_forms p JOIN dhatus d ON d.id = p.dhatu_id
+        WHERE {part_where}
+    """
+    if gana_filter:
+        part_sql += " AND d.gana = ?"
+        part_params.append(gana_filter)
+    part_sql += " ORDER BY dhatu_id, prefix, category, variant LIMIT ?"
+    part_params.append(limit)
+    cur2 = con.execute(part_sql, part_params)
+    for r in cur2.fetchall():
+        # determine which field(s) exactly matched
+        matched_fields = []
+        if exact:
+            if r["base"] == text:
+                matched_fields.append("base")
+            if r["m"] == text:
+                matched_fields.append("m")
+            if r["f"] == text:
+                matched_fields.append("f")
+            if r["n"] == text:
+                matched_fields.append("n")
+        else:
+            if text in (r["base"] or ""):
+                matched_fields.append("base")
+            if text in (r["m"] or ""):
+                matched_fields.append("m")
+            if text in (r["f"] or ""):
+                matched_fields.append("f")
+            if text in (r["n"] or ""):
+                matched_fields.append("n")
+        # emit one hit per matched field so caller sees the field
+        for mf in matched_fields or ["base"]:
+            hits.append({
+                "dhatu_id": r["dhatu_id"],
+                "gana": r["gana"],
+                "dhatu": r["dhatu"] or "",
+                "artha": r["artha"] or "",
+                "english": r["english"] or "",
+                "match_type": "participle",
+                "prefix": r["prefix"] or "",
+                "category": r["category"],
+                "pratyaya": r["variant"],
+                "variant": r["variant"],
+                "base": r["base"] or "",
+                "m": r["m"] or "",
+                "f": r["f"] or "",
+                "n": r["n"] or "",
+                "matched_field": mf,
+                "matched_value": r[mf] if mf in ("base","m","f","n") else "",
+            })
+
+    # sort: exact matches first, then by dhatu_id
+    # for substring search, prioritize exact equality if any
+    def sort_key(h):
+        exact_hit = 1 if h.get("matched_value") == text else 0
+        # exact hits first
+        return (-exact_hit, h["dhatu_id"], h["prefix"], h["category"], h.get("pratyaya",""))
+    hits.sort(key=sort_key)
+    return hits[:limit]
+
+
+def find(text: str, exact: bool = False, gana: str | None = None, limit: int = 50, db_path: Path | str | None = None) -> list[dict[str, Any]]:
+    """Alias for search_forms."""
+    return search_forms(text, exact=exact, gana=gana, limit=limit, db_path=db_path)
 
 
 def query(sql: str, params: tuple | dict | None = None, db_path: Path | str | None = None) -> list[dict[str, Any]]:

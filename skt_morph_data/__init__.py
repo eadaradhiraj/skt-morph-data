@@ -20,6 +20,7 @@ from .db import (
     get_db_path,
 )
 from .query import (
+    find,
     get_chandrika,
     get_conjugations,
     get_dhatu,
@@ -31,6 +32,7 @@ from .query import (
     list_dhatus,
     query,
     search_dhatus,
+    search_forms,
 )
 
 __all__ = [
@@ -47,7 +49,9 @@ __all__ = [
     "get_upasarga_forms",
     "list_dhatus",
     "search_dhatus",
+    "search_forms",
+    "find",
     "query",
 ]
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

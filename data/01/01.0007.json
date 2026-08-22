@@ -1,0 +1,5518 @@
+{
+  "id": "01.0007",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "nATf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "yAcYopatApESvaryASIzzu"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to seek help, to beg, to irritate, to bless, to master"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "yAcanA karanA, rogI honA, SrImAn honA, ASIrvAda denA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "upatApaH- jvaraprayuktA pIqA . ESvaryam - sampattiH . ASIH - ASAsanam . 'ASizi nATaH ' iti vArtikena ASIrarTe Atmanepadam . yAYcopatApESvaryArTezu parasmEpadam . dvikarmakoyaM yAYcArTe ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI",
+      "note": "kevalam 'ASIH' ityasmin arTe eva Atmanepadam . anyezu arTezu parasmEpadameva . aDikasandarBArTaM krIqo'nusampariByaSca 1.3.21 ityatra ASizi nATaH iti vArttikam drazwavyam ."
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "6"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "6"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2259",
+      "ext_link": "/sutraani/sk2259?scroll=sutra-commentary-kaumudi-region&highlight=naATaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "nATizIzwa",
+        "nATizIyAstAm",
+        "nATizIran",
+        "nATizIzWAH",
+        "nATizIyAsTAm",
+        "nATizIDvam",
+        "nATizIya",
+        "nATizIvahi",
+        "nATizImahi"
+      ],
+      "alang": [
+        "anATata",
+        "anATetAm",
+        "anATanta",
+        "anATaTAH",
+        "anATeTAm",
+        "anATaDvam",
+        "anATe",
+        "anATAvahi",
+        "anATAmahi"
+      ],
+      "alat": [
+        "nATate",
+        "nATete",
+        "nATante",
+        "nATase",
+        "nATeTe",
+        "nATaDve",
+        "nATe",
+        "nATAvahe",
+        "nATAmahe"
+      ],
+      "alit": [
+        "nanATe",
+        "nanATAte",
+        "nanATire",
+        "nanATize",
+        "nanATATe",
+        "nanATiDve",
+        "nanATe",
+        "nanATivahe",
+        "nanATimahe"
+      ],
+      "alot": [
+        "nATatAm",
+        "nATetAm",
+        "nATantAm",
+        "nATasva",
+        "nATeTAm",
+        "nATaDvam",
+        "nATE",
+        "nATAvahE",
+        "nATAmahE"
+      ],
+      "alrung": [
+        "anATizyata",
+        "anATizyetAm",
+        "anATizyanta",
+        "anATizyaTAH",
+        "anATizyeTAm",
+        "anATizyaDvam",
+        "anATizye",
+        "anATizyAvahi",
+        "anATizyAmahi"
+      ],
+      "alrut": [
+        "nATizyate",
+        "nATizyete",
+        "nATizyante",
+        "nATizyase",
+        "nATizyeTe",
+        "nATizyaDve",
+        "nATizye",
+        "nATizyAvahe",
+        "nATizyAmahe"
+      ],
+      "alung": [
+        "anATizwa",
+        "anATizAtAm",
+        "anATizata",
+        "anATizWAH",
+        "anATizATAm",
+        "anATiDvam",
+        "anATizi",
+        "anATizvahi",
+        "anATizmahi"
+      ],
+      "alut": [
+        "nATitA",
+        "nATitArO",
+        "nATitAraH",
+        "nATitAse",
+        "nATitAsATe",
+        "nATitADve",
+        "nATitAhe",
+        "nATitAsvahe",
+        "nATitAsmahe"
+      ],
+      "avidhiling": [
+        "nATeta",
+        "nATeyAtAm",
+        "nATeran",
+        "nATeTAH",
+        "nATeyATAm",
+        "nATeDvam",
+        "nATeya",
+        "nATevahi",
+        "nATemahi"
+      ],
+      "pashirling": [
+        "nATyAt",
+        "nATyAd",
+        "nATyAstAm",
+        "nATyAsuH",
+        "nATyAH",
+        "nATyAstam",
+        "nATyAsta",
+        "nATyAsam",
+        "nATyAsva",
+        "nATyAsma"
+      ],
+      "plang": [
+        "anATat",
+        "anATad",
+        "anATatAm",
+        "anATan",
+        "anATaH",
+        "anATatam",
+        "anATata",
+        "anATam",
+        "anATAva",
+        "anATAma"
+      ],
+      "plat": [
+        "nATati",
+        "nATataH",
+        "nATanti",
+        "nATasi",
+        "nATaTaH",
+        "nATaTa",
+        "nATAmi",
+        "nATAvaH",
+        "nATAmaH"
+      ],
+      "plit": [
+        "nanATa",
+        "nanATatuH",
+        "nanATuH",
+        "nanATiTa",
+        "nanATaTuH",
+        "nanATa",
+        "nanATa",
+        "nanATiva",
+        "nanATima"
+      ],
+      "plot": [
+        "nATatAt",
+        "nATatAd",
+        "nATatu",
+        "nATatAm",
+        "nATantu",
+        "nATa",
+        "nATatAt",
+        "nATatAd",
+        "nATatam",
+        "nATata",
+        "nATAni",
+        "nATAva",
+        "nATAma"
+      ],
+      "plrung": [
+        "anATizyat",
+        "anATizyad",
+        "anATizyatAm",
+        "anATizyan",
+        "anATizyaH",
+        "anATizyatam",
+        "anATizyata",
+        "anATizyam",
+        "anATizyAva",
+        "anATizyAma"
+      ],
+      "plrut": [
+        "nATizyati",
+        "nATizyataH",
+        "nATizyanti",
+        "nATizyasi",
+        "nATizyaTaH",
+        "nATizyaTa",
+        "nATizyAmi",
+        "nATizyAvaH",
+        "nATizyAmaH"
+      ],
+      "plung": [
+        "anATIt",
+        "anATId",
+        "anATizwAm",
+        "anATizuH",
+        "anATIH",
+        "anATizwam",
+        "anATizwa",
+        "anATizam",
+        "anATizva",
+        "anATizma"
+      ],
+      "plut": [
+        "nATitA",
+        "nATitArO",
+        "nATitAraH",
+        "nATitAsi",
+        "nATitAsTaH",
+        "nATitAsTa",
+        "nATitAsmi",
+        "nATitAsvaH",
+        "nATitAsmaH"
+      ],
+      "pvidhiling": [
+        "nATet",
+        "nATed",
+        "nATetAm",
+        "nATeyuH",
+        "nATeH",
+        "nATetam",
+        "nATeta",
+        "nATeyam",
+        "nATeva",
+        "nATema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "nATizIzwa",
+        "nATizIyAstAm",
+        "nATizIran",
+        "nATizIzWAH",
+        "nATizIyAsTAm",
+        "nATizIDvam",
+        "nATizIya",
+        "nATizIvahi",
+        "nATizImahi"
+      ],
+      "alang": [
+        "anATyata",
+        "anATyetAm",
+        "anATyanta",
+        "anATyaTAH",
+        "anATyeTAm",
+        "anATyaDvam",
+        "anATye",
+        "anATyAvahi",
+        "anATyAmahi"
+      ],
+      "alat": [
+        "nATyate",
+        "nATyete",
+        "nATyante",
+        "nATyase",
+        "nATyeTe",
+        "nATyaDve",
+        "nATye",
+        "nATyAvahe",
+        "nATyAmahe"
+      ],
+      "alit": [
+        "nanATe",
+        "nanATAte",
+        "nanATire",
+        "nanATize",
+        "nanATATe",
+        "nanATiDve",
+        "nanATe",
+        "nanATivahe",
+        "nanATimahe"
+      ],
+      "alot": [
+        "nATyatAm",
+        "nATyetAm",
+        "nATyantAm",
+        "nATyasva",
+        "nATyeTAm",
+        "nATyaDvam",
+        "nATyE",
+        "nATyAvahE",
+        "nATyAmahE"
+      ],
+      "alrung": [
+        "anATizyata",
+        "anATizyetAm",
+        "anATizyanta",
+        "anATizyaTAH",
+        "anATizyeTAm",
+        "anATizyaDvam",
+        "anATizye",
+        "anATizyAvahi",
+        "anATizyAmahi"
+      ],
+      "alrut": [
+        "nATizyate",
+        "nATizyete",
+        "nATizyante",
+        "nATizyase",
+        "nATizyeTe",
+        "nATizyaDve",
+        "nATizye",
+        "nATizyAvahe",
+        "nATizyAmahe"
+      ],
+      "alung": [
+        "anATi",
+        "anATizAtAm",
+        "anATizata",
+        "anATizWAH",
+        "anATizATAm",
+        "anATiDvam",
+        "anATizi",
+        "anATizvahi",
+        "anATizmahi"
+      ],
+      "alut": [
+        "nATitA",
+        "nATitArO",
+        "nATitAraH",
+        "nATitAse",
+        "nATitAsATe",
+        "nATitADve",
+        "nATitAhe",
+        "nATitAsvahe",
+        "nATitAsmahe"
+      ],
+      "avidhiling": [
+        "nATyeta",
+        "nATyeyAtAm",
+        "nATyeran",
+        "nATyeTAH",
+        "nATyeyATAm",
+        "nATyeDvam",
+        "nATyeya",
+        "nATyevahi",
+        "nATyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "ninATizizIzwa",
+        "ninATizizIyAstAm",
+        "ninATizizIran",
+        "ninATizizIzWAH",
+        "ninATizizIyAsTAm",
+        "ninATizizIDvam",
+        "ninATizizIya",
+        "ninATizizIvahi",
+        "ninATizizImahi"
+      ],
+      "alang": [
+        "aninATizata",
+        "aninATizetAm",
+        "aninATizanta",
+        "aninATizaTAH",
+        "aninATizeTAm",
+        "aninATizaDvam",
+        "aninATize",
+        "aninATizAvahi",
+        "aninATizAmahi"
+      ],
+      "alat": [
+        "ninATizate",
+        "ninATizete",
+        "ninATizante",
+        "ninATizase",
+        "ninATizeTe",
+        "ninATizaDve",
+        "ninATize",
+        "ninATizAvahe",
+        "ninATizAmahe"
+      ],
+      "alit": [
+        "ninATizAYcakre",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakrAte",
+        "ninATizAmAsatuH",
+        "ninATizAmbaBUvatuH",
+        "ninATizAYcakrire",
+        "ninATizAmAsuH",
+        "ninATizAmbaBUvuH",
+        "ninATizAYcakfze",
+        "ninATizAmAsiTa",
+        "ninATizAmbaBUviTa",
+        "ninATizAYcakrATe",
+        "ninATizAmAsaTuH",
+        "ninATizAmbaBUvaTuH",
+        "ninATizAYcakfQve",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakre",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakfvahe",
+        "ninATizAmAsiva",
+        "ninATizAmbaBUviva",
+        "ninATizAYcakfmahe",
+        "ninATizAmAsima",
+        "ninATizAmbaBUvima"
+      ],
+      "alot": [
+        "ninATizatAm",
+        "ninATizetAm",
+        "ninATizantAm",
+        "ninATizasva",
+        "ninATizeTAm",
+        "ninATizaDvam",
+        "ninATizE",
+        "ninATizAvahE",
+        "ninATizAmahE"
+      ],
+      "alrung": [
+        "aninATizizyata",
+        "aninATizizyetAm",
+        "aninATizizyanta",
+        "aninATizizyaTAH",
+        "aninATizizyeTAm",
+        "aninATizizyaDvam",
+        "aninATizizye",
+        "aninATizizyAvahi",
+        "aninATizizyAmahi"
+      ],
+      "alrut": [
+        "ninATizizyate",
+        "ninATizizyete",
+        "ninATizizyante",
+        "ninATizizyase",
+        "ninATizizyeTe",
+        "ninATizizyaDve",
+        "ninATizizye",
+        "ninATizizyAvahe",
+        "ninATizizyAmahe"
+      ],
+      "alung": [
+        "aninATizizwa",
+        "aninATizizAtAm",
+        "aninATizizata",
+        "aninATizizWAH",
+        "aninATizizATAm",
+        "aninATiziDvam",
+        "aninATizizi",
+        "aninATizizvahi",
+        "aninATizizmahi"
+      ],
+      "alut": [
+        "ninATizitA",
+        "ninATizitArO",
+        "ninATizitAraH",
+        "ninATizitAse",
+        "ninATizitAsATe",
+        "ninATizitADve",
+        "ninATizitAhe",
+        "ninATizitAsvahe",
+        "ninATizitAsmahe"
+      ],
+      "avidhiling": [
+        "ninATizeta",
+        "ninATizeyAtAm",
+        "ninATizeran",
+        "ninATizeTAH",
+        "ninATizeyATAm",
+        "ninATizeDvam",
+        "ninATizeya",
+        "ninATizevahi",
+        "ninATizemahi"
+      ],
+      "pashirling": [
+        "ninATizyAt",
+        "ninATizyAd",
+        "ninATizyAstAm",
+        "ninATizyAsuH",
+        "ninATizyAH",
+        "ninATizyAstam",
+        "ninATizyAsta",
+        "ninATizyAsam",
+        "ninATizyAsva",
+        "ninATizyAsma"
+      ],
+      "plang": [
+        "aninATizat",
+        "aninATizad",
+        "aninATizatAm",
+        "aninATizan",
+        "aninATizaH",
+        "aninATizatam",
+        "aninATizata",
+        "aninATizam",
+        "aninATizAva",
+        "aninATizAma"
+      ],
+      "plat": [
+        "ninATizati",
+        "ninATizataH",
+        "ninATizanti",
+        "ninATizasi",
+        "ninATizaTaH",
+        "ninATizaTa",
+        "ninATizAmi",
+        "ninATizAvaH",
+        "ninATizAmaH"
+      ],
+      "plit": [
+        "ninATizAYcakAra",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakratuH",
+        "ninATizAmAsatuH",
+        "ninATizAmbaBUvatuH",
+        "ninATizAYcakruH",
+        "ninATizAmAsuH",
+        "ninATizAmbaBUvuH",
+        "ninATizAYcakarTa",
+        "ninATizAmAsiTa",
+        "ninATizAmbaBUviTa",
+        "ninATizAYcakraTuH",
+        "ninATizAmAsaTuH",
+        "ninATizAmbaBUvaTuH",
+        "ninATizAYcakra",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakara",
+        "ninATizAYcakAra",
+        "ninATizAmAsa",
+        "ninATizAmbaBUva",
+        "ninATizAYcakfva",
+        "ninATizAmAsiva",
+        "ninATizAmbaBUviva",
+        "ninATizAYcakfma",
+        "ninATizAmAsima",
+        "ninATizAmbaBUvima"
+      ],
+      "plot": [
+        "ninATizatAt",
+        "ninATizatAd",
+        "ninATizatu",
+        "ninATizatAm",
+        "ninATizantu",
+        "ninATiza",
+        "ninATizatAt",
+        "ninATizatAd",
+        "ninATizatam",
+        "ninATizata",
+        "ninATizARi",
+        "ninATizAva",
+        "ninATizAma"
+      ],
+      "plrung": [
+        "aninATizizyat",
+        "aninATizizyad",
+        "aninATizizyatAm",
+        "aninATizizyan",
+        "aninATizizyaH",
+        "aninATizizyatam",
+        "aninATizizyata",
+        "aninATizizyam",
+        "aninATizizyAva",
+        "aninATizizyAma"
+      ],
+      "plrut": [
+        "ninATizizyati",
+        "ninATizizyataH",
+        "ninATizizyanti",
+        "ninATizizyasi",
+        "ninATizizyaTaH",
+        "ninATizizyaTa",
+        "ninATizizyAmi",
+        "ninATizizyAvaH",
+        "ninATizizyAmaH"
+      ],
+      "plung": [
+        "aninATizIt",
+        "aninATizId",
+        "aninATizizwAm",
+        "aninATizizuH",
+        "aninATizIH",
+        "aninATizizwam",
+        "aninATizizwa",
+        "aninATizizam",
+        "aninATizizva",
+        "aninATizizma"
+      ],
+      "plut": [
+        "ninATizitA",
+        "ninATizitArO",
+        "ninATizitAraH",
+        "ninATizitAsi",
+        "ninATizitAsTaH",
+        "ninATizitAsTa",
+        "ninATizitAsmi",
+        "ninATizitAsvaH",
+        "ninATizitAsmaH"
+      ],
+      "pvidhiling": [
+        "ninATizet",
+        "ninATized",
+        "ninATizetAm",
+        "ninATizeyuH",
+        "ninATizeH",
+        "ninATizetam",
+        "ninATizeta",
+        "ninATizeyam",
+        "ninATizeva",
+        "ninATizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ninATizizIzwa",
+        "ninATizizIyAstAm",
+        "ninATizizIran",
+        "ninATizizIzWAH",
+        "ninATizizIyAsTAm",
+        "ninATizizIDvam",
+        "ninATizizIya",
+        "ninATizizIvahi",
+        "ninATizizImahi"
+      ],
+      "alang": [
+        "aninATizyata",
+        "aninATizyetAm",
+        "aninATizyanta",
+        "aninATizyaTAH",
+        "aninATizyeTAm",
+        "aninATizyaDvam",
+        "aninATizye",
+        "aninATizyAvahi",
+        "aninATizyAmahi"
+      ],
+      "alat": [
+        "ninATizyate",
+        "ninATizyete",
+        "ninATizyante",
+        "ninATizyase",
+        "ninATizyeTe",
+        "ninATizyaDve",
+        "ninATizye",
+        "ninATizyAvahe",
+        "ninATizyAmahe"
+      ],
+      "alit": [
+        "ninATizAYcakre",
+        "ninATizAmAse",
+        "ninATizAmbaBUve",
+        "ninATizAYcakrAte",
+        "ninATizAmAsAte",
+        "ninATizAmbaBUvAte",
+        "ninATizAYcakrire",
+        "ninATizAmAsire",
+        "ninATizAmbaBUvire",
+        "ninATizAYcakfze",
+        "ninATizAmAsize",
+        "ninATizAmbaBUvize",
+        "ninATizAYcakrATe",
+        "ninATizAmAsATe",
+        "ninATizAmbaBUvATe",
+        "ninATizAYcakfQve",
+        "ninATizAmAsiDve",
+        "ninATizAmbaBUviQve",
+        "ninATizAYcakre",
+        "ninATizAmAhe",
+        "ninATizAmbaBUve",
+        "ninATizAYcakfvahe",
+        "ninATizAmAsivahe",
+        "ninATizAmbaBUvivahe",
+        "ninATizAYcakfmahe",
+        "ninATizAmAsimahe",
+        "ninATizAmbaBUvimahe"
+      ],
+      "alot": [
+        "ninATizyatAm",
+        "ninATizyetAm",
+        "ninATizyantAm",
+        "ninATizyasva",
+        "ninATizyeTAm",
+        "ninATizyaDvam",
+        "ninATizyE",
+        "ninATizyAvahE",
+        "ninATizyAmahE"
+      ],
+      "alrung": [
+        "aninATizizyata",
+        "aninATizizyetAm",
+        "aninATizizyanta",
+        "aninATizizyaTAH",
+        "aninATizizyeTAm",
+        "aninATizizyaDvam",
+        "aninATizizye",
+        "aninATizizyAvahi",
+        "aninATizizyAmahi"
+      ],
+      "alrut": [
+        "ninATizizyate",
+        "ninATizizyete",
+        "ninATizizyante",
+        "ninATizizyase",
+        "ninATizizyeTe",
+        "ninATizizyaDve",
+        "ninATizizye",
+        "ninATizizyAvahe",
+        "ninATizizyAmahe"
+      ],
+      "alung": [
+        "aninATizi",
+        "aninATizizAtAm",
+        "aninATizizata",
+        "aninATizizWAH",
+        "aninATizizATAm",
+        "aninATiziDvam",
+        "aninATizizi",
+        "aninATizizvahi",
+        "aninATizizmahi"
+      ],
+      "alut": [
+        "ninATizitA",
+        "ninATizitArO",
+        "ninATizitAraH",
+        "ninATizitAse",
+        "ninATizitAsATe",
+        "ninATizitADve",
+        "ninATizitAhe",
+        "ninATizitAsvahe",
+        "ninATizitAsmahe"
+      ],
+      "avidhiling": [
+        "ninATizyeta",
+        "ninATizyeyAtAm",
+        "ninATizyeran",
+        "ninATizyeTAH",
+        "ninATizyeyATAm",
+        "ninATizyeDvam",
+        "ninATizyeya",
+        "ninATizyevahi",
+        "ninATizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "nATayizIzwa",
+        "nATayizIyAstAm",
+        "nATayizIran",
+        "nATayizIzWAH",
+        "nATayizIyAsTAm",
+        "nATayizIQvam",
+        "nATayizIDvam",
+        "nATayizIya",
+        "nATayizIvahi",
+        "nATayizImahi"
+      ],
+      "alang": [
+        "anATayata",
+        "anATayetAm",
+        "anATayanta",
+        "anATayaTAH",
+        "anATayeTAm",
+        "anATayaDvam",
+        "anATaye",
+        "anATayAvahi",
+        "anATayAmahi"
+      ],
+      "alat": [
+        "nATayate",
+        "nATayete",
+        "nATayante",
+        "nATayase",
+        "nATayeTe",
+        "nATayaDve",
+        "nATaye",
+        "nATayAvahe",
+        "nATayAmahe"
+      ],
+      "alit": [
+        "nATayAYcakre",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakrAte",
+        "nATayAmAsatuH",
+        "nATayAmbaBUvatuH",
+        "nATayAYcakrire",
+        "nATayAmAsuH",
+        "nATayAmbaBUvuH",
+        "nATayAYcakfze",
+        "nATayAmAsiTa",
+        "nATayAmbaBUviTa",
+        "nATayAYcakrATe",
+        "nATayAmAsaTuH",
+        "nATayAmbaBUvaTuH",
+        "nATayAYcakfQve",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakre",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakfvahe",
+        "nATayAmAsiva",
+        "nATayAmbaBUviva",
+        "nATayAYcakfmahe",
+        "nATayAmAsima",
+        "nATayAmbaBUvima"
+      ],
+      "alot": [
+        "nATayatAm",
+        "nATayetAm",
+        "nATayantAm",
+        "nATayasva",
+        "nATayeTAm",
+        "nATayaDvam",
+        "nATayE",
+        "nATayAvahE",
+        "nATayAmahE"
+      ],
+      "alrung": [
+        "anATayizyata",
+        "anATayizyetAm",
+        "anATayizyanta",
+        "anATayizyaTAH",
+        "anATayizyeTAm",
+        "anATayizyaDvam",
+        "anATayizye",
+        "anATayizyAvahi",
+        "anATayizyAmahi"
+      ],
+      "alrut": [
+        "nATayizyate",
+        "nATayizyete",
+        "nATayizyante",
+        "nATayizyase",
+        "nATayizyeTe",
+        "nATayizyaDve",
+        "nATayizye",
+        "nATayizyAvahe",
+        "nATayizyAmahe"
+      ],
+      "alung": [
+        "ananATata",
+        "ananATetAm",
+        "ananATanta",
+        "ananATaTAH",
+        "ananATeTAm",
+        "ananATaDvam",
+        "ananATe",
+        "ananATAvahi",
+        "ananATAmahi"
+      ],
+      "alut": [
+        "nATayitA",
+        "nATayitArO",
+        "nATayitAraH",
+        "nATayitAse",
+        "nATayitAsATe",
+        "nATayitADve",
+        "nATayitAhe",
+        "nATayitAsvahe",
+        "nATayitAsmahe"
+      ],
+      "avidhiling": [
+        "nATayeta",
+        "nATayeyAtAm",
+        "nATayeran",
+        "nATayeTAH",
+        "nATayeyATAm",
+        "nATayeDvam",
+        "nATayeya",
+        "nATayevahi",
+        "nATayemahi"
+      ],
+      "pashirling": [
+        "nATyAt",
+        "nATyAd",
+        "nATyAstAm",
+        "nATyAsuH",
+        "nATyAH",
+        "nATyAstam",
+        "nATyAsta",
+        "nATyAsam",
+        "nATyAsva",
+        "nATyAsma"
+      ],
+      "plang": [
+        "anATayat",
+        "anATayad",
+        "anATayatAm",
+        "anATayan",
+        "anATayaH",
+        "anATayatam",
+        "anATayata",
+        "anATayam",
+        "anATayAva",
+        "anATayAma"
+      ],
+      "plat": [
+        "nATayati",
+        "nATayataH",
+        "nATayanti",
+        "nATayasi",
+        "nATayaTaH",
+        "nATayaTa",
+        "nATayAmi",
+        "nATayAvaH",
+        "nATayAmaH"
+      ],
+      "plit": [
+        "nATayAYcakAra",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakratuH",
+        "nATayAmAsatuH",
+        "nATayAmbaBUvatuH",
+        "nATayAYcakruH",
+        "nATayAmAsuH",
+        "nATayAmbaBUvuH",
+        "nATayAYcakarTa",
+        "nATayAmAsiTa",
+        "nATayAmbaBUviTa",
+        "nATayAYcakraTuH",
+        "nATayAmAsaTuH",
+        "nATayAmbaBUvaTuH",
+        "nATayAYcakra",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakara",
+        "nATayAYcakAra",
+        "nATayAmAsa",
+        "nATayAmbaBUva",
+        "nATayAYcakfva",
+        "nATayAmAsiva",
+        "nATayAmbaBUviva",
+        "nATayAYcakfma",
+        "nATayAmAsima",
+        "nATayAmbaBUvima"
+      ],
+      "plot": [
+        "nATayatAt",
+        "nATayatAd",
+        "nATayatu",
+        "nATayatAm",
+        "nATayantu",
+        "nATaya",
+        "nATayatAt",
+        "nATayatAd",
+        "nATayatam",
+        "nATayata",
+        "nATayAni",
+        "nATayAva",
+        "nATayAma"
+      ],
+      "plrung": [
+        "anATayizyat",
+        "anATayizyad",
+        "anATayizyatAm",
+        "anATayizyan",
+        "anATayizyaH",
+        "anATayizyatam",
+        "anATayizyata",
+        "anATayizyam",
+        "anATayizyAva",
+        "anATayizyAma"
+      ],
+      "plrut": [
+        "nATayizyati",
+        "nATayizyataH",
+        "nATayizyanti",
+        "nATayizyasi",
+        "nATayizyaTaH",
+        "nATayizyaTa",
+        "nATayizyAmi",
+        "nATayizyAvaH",
+        "nATayizyAmaH"
+      ],
+      "plung": [
+        "ananATat",
+        "ananATad",
+        "ananATatAm",
+        "ananATan",
+        "ananATaH",
+        "ananATatam",
+        "ananATata",
+        "ananATam",
+        "ananATAva",
+        "ananATAma"
+      ],
+      "plut": [
+        "nATayitA",
+        "nATayitArO",
+        "nATayitAraH",
+        "nATayitAsi",
+        "nATayitAsTaH",
+        "nATayitAsTa",
+        "nATayitAsmi",
+        "nATayitAsvaH",
+        "nATayitAsmaH"
+      ],
+      "pvidhiling": [
+        "nATayet",
+        "nATayed",
+        "nATayetAm",
+        "nATayeyuH",
+        "nATayeH",
+        "nATayetam",
+        "nATayeta",
+        "nATayeyam",
+        "nATayeva",
+        "nATayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "nATayizIzwa",
+        "nATizIzwa",
+        "nATayizIyAstAm",
+        "nATizIyAstAm",
+        "nATayizIran",
+        "nATizIran",
+        "nATayizIzWAH",
+        "nATizIzWAH",
+        "nATayizIyAsTAm",
+        "nATizIyAsTAm",
+        "nATayizIQvam",
+        "nATayizIDvam",
+        "nATizIDvam",
+        "nATayizIya",
+        "nATizIya",
+        "nATayizIvahi",
+        "nATizIvahi",
+        "nATayizImahi",
+        "nATizImahi"
+      ],
+      "alang": [
+        "anATyata",
+        "anATyetAm",
+        "anATyanta",
+        "anATyaTAH",
+        "anATyeTAm",
+        "anATyaDvam",
+        "anATye",
+        "anATyAvahi",
+        "anATyAmahi"
+      ],
+      "alat": [
+        "nATyate",
+        "nATyete",
+        "nATyante",
+        "nATyase",
+        "nATyeTe",
+        "nATyaDve",
+        "nATye",
+        "nATyAvahe",
+        "nATyAmahe"
+      ],
+      "alit": [
+        "nATayAYcakre",
+        "nATayAmAse",
+        "nATayAmbaBUve",
+        "nATayAYcakrAte",
+        "nATayAmAsAte",
+        "nATayAmbaBUvAte",
+        "nATayAYcakrire",
+        "nATayAmAsire",
+        "nATayAmbaBUvire",
+        "nATayAYcakfze",
+        "nATayAmAsize",
+        "nATayAmbaBUvize",
+        "nATayAYcakrATe",
+        "nATayAmAsATe",
+        "nATayAmbaBUvATe",
+        "nATayAYcakfQve",
+        "nATayAmAsiDve",
+        "nATayAmbaBUviQve",
+        "nATayAYcakre",
+        "nATayAmAhe",
+        "nATayAmbaBUve",
+        "nATayAYcakfvahe",
+        "nATayAmAsivahe",
+        "nATayAmbaBUvivahe",
+        "nATayAYcakfmahe",
+        "nATayAmAsimahe",
+        "nATayAmbaBUvimahe"
+      ],
+      "alot": [
+        "nATyatAm",
+        "nATyetAm",
+        "nATyantAm",
+        "nATyasva",
+        "nATyeTAm",
+        "nATyaDvam",
+        "nATyE",
+        "nATyAvahE",
+        "nATyAmahE"
+      ],
+      "alrung": [
+        "anATayizyata",
+        "anATizyata",
+        "anATayizyetAm",
+        "anATizyetAm",
+        "anATayizyanta",
+        "anATizyanta",
+        "anATayizyaTAH",
+        "anATizyaTAH",
+        "anATayizyeTAm",
+        "anATizyeTAm",
+        "anATayizyaDvam",
+        "anATizyaDvam",
+        "anATayizye",
+        "anATizye",
+        "anATayizyAvahi",
+        "anATizyAvahi",
+        "anATayizyAmahi",
+        "anATizyAmahi"
+      ],
+      "alrut": [
+        "nATayizyate",
+        "nATizyate",
+        "nATayizyete",
+        "nATizyete",
+        "nATayizyante",
+        "nATizyante",
+        "nATayizyase",
+        "nATizyase",
+        "nATayizyeTe",
+        "nATizyeTe",
+        "nATayizyaDve",
+        "nATizyaDve",
+        "nATayizye",
+        "nATizye",
+        "nATayizyAvahe",
+        "nATizyAvahe",
+        "nATayizyAmahe",
+        "nATizyAmahe"
+      ],
+      "alung": [
+        "anATi",
+        "anATayizAtAm",
+        "anATizAtAm",
+        "anATayizata",
+        "anATizata",
+        "anATayizWAH",
+        "anATizWAH",
+        "anATayizATAm",
+        "anATizATAm",
+        "anATayiQvam",
+        "anATayiDvam",
+        "anATiDvam",
+        "anATayizi",
+        "anATizi",
+        "anATayizvahi",
+        "anATizvahi",
+        "anATayizmahi",
+        "anATizmahi"
+      ],
+      "alut": [
+        "nATayitA",
+        "nATitA",
+        "nATayitArO",
+        "nATitArO",
+        "nATayitAraH",
+        "nATitAraH",
+        "nATayitAse",
+        "nATitAse",
+        "nATayitAsATe",
+        "nATitAsATe",
+        "nATayitADve",
+        "nATitADve",
+        "nATayitAhe",
+        "nATitAhe",
+        "nATayitAsvahe",
+        "nATitAsvahe",
+        "nATayitAsmahe",
+        "nATitAsmahe"
+      ],
+      "avidhiling": [
+        "nATyeta",
+        "nATyeyAtAm",
+        "nATyeran",
+        "nATyeTAH",
+        "nATyeyATAm",
+        "nATyeDvam",
+        "nATyeya",
+        "nATyevahi",
+        "nATyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "nAnATizIzwa",
+        "nAnATizIyAstAm",
+        "nAnATizIran",
+        "nAnATizIzWAH",
+        "nAnATizIyAsTAm",
+        "nAnATizIDvam",
+        "nAnATizIya",
+        "nAnATizIvahi",
+        "nAnATizImahi"
+      ],
+      "alang": [
+        "anAnATyata",
+        "anAnATyetAm",
+        "anAnATyanta",
+        "anAnATyaTAH",
+        "anAnATyeTAm",
+        "anAnATyaDvam",
+        "anAnATye",
+        "anAnATyAvahi",
+        "anAnATyAmahi"
+      ],
+      "alat": [
+        "nAnATyate",
+        "nAnATyete",
+        "nAnATyante",
+        "nAnATyase",
+        "nAnATyeTe",
+        "nAnATyaDve",
+        "nAnATye",
+        "nAnATyAvahe",
+        "nAnATyAmahe"
+      ],
+      "alit": [
+        "nAnATAYcakre",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakrAte",
+        "nAnATAmAsatuH",
+        "nAnATAmbaBUvatuH",
+        "nAnATAYcakrire",
+        "nAnATAmAsuH",
+        "nAnATAmbaBUvuH",
+        "nAnATAYcakfze",
+        "nAnATAmAsiTa",
+        "nAnATAmbaBUviTa",
+        "nAnATAYcakrATe",
+        "nAnATAmAsaTuH",
+        "nAnATAmbaBUvaTuH",
+        "nAnATAYcakfQve",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakre",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakfvahe",
+        "nAnATAmAsiva",
+        "nAnATAmbaBUviva",
+        "nAnATAYcakfmahe",
+        "nAnATAmAsima",
+        "nAnATAmbaBUvima"
+      ],
+      "alot": [
+        "nAnATyatAm",
+        "nAnATyetAm",
+        "nAnATyantAm",
+        "nAnATyasva",
+        "nAnATyeTAm",
+        "nAnATyaDvam",
+        "nAnATyE",
+        "nAnATyAvahE",
+        "nAnATyAmahE"
+      ],
+      "alrung": [
+        "anAnATizyata",
+        "anAnATizyetAm",
+        "anAnATizyanta",
+        "anAnATizyaTAH",
+        "anAnATizyeTAm",
+        "anAnATizyaDvam",
+        "anAnATizye",
+        "anAnATizyAvahi",
+        "anAnATizyAmahi"
+      ],
+      "alrut": [
+        "nAnATizyate",
+        "nAnATizyete",
+        "nAnATizyante",
+        "nAnATizyase",
+        "nAnATizyeTe",
+        "nAnATizyaDve",
+        "nAnATizye",
+        "nAnATizyAvahe",
+        "nAnATizyAmahe"
+      ],
+      "alung": [
+        "anAnATizwa",
+        "anAnATizAtAm",
+        "anAnATizata",
+        "anAnATizWAH",
+        "anAnATizATAm",
+        "anAnATiDvam",
+        "anAnATizi",
+        "anAnATizvahi",
+        "anAnATizmahi"
+      ],
+      "alut": [
+        "nAnATitA",
+        "nAnATitArO",
+        "nAnATitAraH",
+        "nAnATitAse",
+        "nAnATitAsATe",
+        "nAnATitADve",
+        "nAnATitAhe",
+        "nAnATitAsvahe",
+        "nAnATitAsmahe"
+      ],
+      "avidhiling": [
+        "nAnATyeta",
+        "nAnATyeyAtAm",
+        "nAnATyeran",
+        "nAnATyeTAH",
+        "nAnATyeyATAm",
+        "nAnATyeDvam",
+        "nAnATyeya",
+        "nAnATyevahi",
+        "nAnATyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "nAnATizIzwa",
+        "nAnATizIyAstAm",
+        "nAnATizIran",
+        "nAnATizIzWAH",
+        "nAnATizIyAsTAm",
+        "nAnATizIDvam",
+        "nAnATizIya",
+        "nAnATizIvahi",
+        "nAnATizImahi"
+      ],
+      "alang": [
+        "anAnATyata",
+        "anAnATyetAm",
+        "anAnATyanta",
+        "anAnATyaTAH",
+        "anAnATyeTAm",
+        "anAnATyaDvam",
+        "anAnATye",
+        "anAnATyAvahi",
+        "anAnATyAmahi"
+      ],
+      "alat": [
+        "nAnATyate",
+        "nAnATyete",
+        "nAnATyante",
+        "nAnATyase",
+        "nAnATyeTe",
+        "nAnATyaDve",
+        "nAnATye",
+        "nAnATyAvahe",
+        "nAnATyAmahe"
+      ],
+      "alit": [
+        "nAnATAYcakre",
+        "nAnATAmAse",
+        "nAnATAmbaBUve",
+        "nAnATAYcakrAte",
+        "nAnATAmAsAte",
+        "nAnATAmbaBUvAte",
+        "nAnATAYcakrire",
+        "nAnATAmAsire",
+        "nAnATAmbaBUvire",
+        "nAnATAYcakfze",
+        "nAnATAmAsize",
+        "nAnATAmbaBUvize",
+        "nAnATAYcakrATe",
+        "nAnATAmAsATe",
+        "nAnATAmbaBUvATe",
+        "nAnATAYcakfQve",
+        "nAnATAmAsiDve",
+        "nAnATAmbaBUviQve",
+        "nAnATAYcakre",
+        "nAnATAmAhe",
+        "nAnATAmbaBUve",
+        "nAnATAYcakfvahe",
+        "nAnATAmAsivahe",
+        "nAnATAmbaBUvivahe",
+        "nAnATAYcakfmahe",
+        "nAnATAmAsimahe",
+        "nAnATAmbaBUvimahe"
+      ],
+      "alot": [
+        "nAnATyatAm",
+        "nAnATyetAm",
+        "nAnATyantAm",
+        "nAnATyasva",
+        "nAnATyeTAm",
+        "nAnATyaDvam",
+        "nAnATyE",
+        "nAnATyAvahE",
+        "nAnATyAmahE"
+      ],
+      "alrung": [
+        "anAnATizyata",
+        "anAnATizyetAm",
+        "anAnATizyanta",
+        "anAnATizyaTAH",
+        "anAnATizyeTAm",
+        "anAnATizyaDvam",
+        "anAnATizye",
+        "anAnATizyAvahi",
+        "anAnATizyAmahi"
+      ],
+      "alrut": [
+        "nAnATizyate",
+        "nAnATizyete",
+        "nAnATizyante",
+        "nAnATizyase",
+        "nAnATizyeTe",
+        "nAnATizyaDve",
+        "nAnATizye",
+        "nAnATizyAvahe",
+        "nAnATizyAmahe"
+      ],
+      "alung": [
+        "anAnATi",
+        "anAnATizAtAm",
+        "anAnATizata",
+        "anAnATizWAH",
+        "anAnATizATAm",
+        "anAnATiDvam",
+        "anAnATizi",
+        "anAnATizvahi",
+        "anAnATizmahi"
+      ],
+      "alut": [
+        "nAnATitA",
+        "nAnATitArO",
+        "nAnATitAraH",
+        "nAnATitAse",
+        "nAnATitAsATe",
+        "nAnATitADve",
+        "nAnATitAhe",
+        "nAnATitAsvahe",
+        "nAnATitAsmahe"
+      ],
+      "avidhiling": [
+        "nAnATyeta",
+        "nAnATyeyAtAm",
+        "nAnATyeran",
+        "nAnATyeTAH",
+        "nAnATyeyATAm",
+        "nAnATyeDvam",
+        "nAnATyeya",
+        "nAnATyevahi",
+        "nAnATyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "nAnATyAt",
+        "nAnATyAd",
+        "nAnATyAstAm",
+        "nAnATyAsuH",
+        "nAnATyAH",
+        "nAnATyAstam",
+        "nAnATyAsta",
+        "nAnATyAsam",
+        "nAnATyAsva",
+        "nAnATyAsma"
+      ],
+      "plang": [
+        "anAnAt",
+        "anAnATIt",
+        "anAnATId",
+        "anAnAd",
+        "anAnAttAm",
+        "anAnATuH",
+        "anAnAH",
+        "anAnAt",
+        "anAnATIH",
+        "anAnAd",
+        "anAnAttam",
+        "anAnAtta",
+        "anAnATam",
+        "anAnATva",
+        "anAnATma"
+      ],
+      "plat": [
+        "nAnAtti",
+        "nAnATIti",
+        "nAnAttaH",
+        "nAnATati",
+        "nAnAtsi",
+        "nAnATIzi",
+        "nAnAtTaH",
+        "nAnAtTa",
+        "nAnATImi",
+        "nAnATmi",
+        "nAnATvaH",
+        "nAnATmaH"
+      ],
+      "plit": [
+        "nAnATAYcakAra",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakratuH",
+        "nAnATAmAsatuH",
+        "nAnATAmbaBUvatuH",
+        "nAnATAYcakruH",
+        "nAnATAmAsuH",
+        "nAnATAmbaBUvuH",
+        "nAnATAYcakarTa",
+        "nAnATAmAsiTa",
+        "nAnATAmbaBUviTa",
+        "nAnATAYcakraTuH",
+        "nAnATAmAsaTuH",
+        "nAnATAmbaBUvaTuH",
+        "nAnATAYcakra",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakara",
+        "nAnATAYcakAra",
+        "nAnATAmAsa",
+        "nAnATAmbaBUva",
+        "nAnATAYcakfva",
+        "nAnATAmAsiva",
+        "nAnATAmbaBUviva",
+        "nAnATAYcakfma",
+        "nAnATAmAsima",
+        "nAnATAmbaBUvima"
+      ],
+      "plot": [
+        "nAnAttAt",
+        "nAnAttAd",
+        "nAnAttu",
+        "nAnATItu",
+        "nAnAttAm",
+        "nAnATatu",
+        "nAnAttAt",
+        "nAnAttAd",
+        "nAnAdDi",
+        "nAnAttam",
+        "nAnAtta",
+        "nAnATAni",
+        "nAnATAva",
+        "nAnATAma"
+      ],
+      "plrung": [
+        "anAnATizyat",
+        "anAnATizyad",
+        "anAnATizyatAm",
+        "anAnATizyan",
+        "anAnATizyaH",
+        "anAnATizyatam",
+        "anAnATizyata",
+        "anAnATizyam",
+        "anAnATizyAva",
+        "anAnATizyAma"
+      ],
+      "plrut": [
+        "nAnATizyati",
+        "nAnATizyataH",
+        "nAnATizyanti",
+        "nAnATizyasi",
+        "nAnATizyaTaH",
+        "nAnATizyaTa",
+        "nAnATizyAmi",
+        "nAnATizyAvaH",
+        "nAnATizyAmaH"
+      ],
+      "plung": [
+        "anAnATIt",
+        "anAnATId",
+        "anAnATizwAm",
+        "anAnATizuH",
+        "anAnATIH",
+        "anAnATizwam",
+        "anAnATizwa",
+        "anAnATizam",
+        "anAnATizva",
+        "anAnATizma"
+      ],
+      "plut": [
+        "nAnATitA",
+        "nAnATitArO",
+        "nAnATitAraH",
+        "nAnATitAsi",
+        "nAnATitAsTaH",
+        "nAnATitAsTa",
+        "nAnATitAsmi",
+        "nAnATitAsvaH",
+        "nAnATitAsmaH"
+      ],
+      "pvidhiling": [
+        "nAnATyAt",
+        "nAnATyAd",
+        "nAnATyAtAm",
+        "nAnATyuH",
+        "nAnATyAH",
+        "nAnATyAtam",
+        "nAnATyAta",
+        "nAnATyAm",
+        "nAnATyAva",
+        "nAnATyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "nAnATizIzwa",
+        "nAnATizIyAstAm",
+        "nAnATizIran",
+        "nAnATizIzWAH",
+        "nAnATizIyAsTAm",
+        "nAnATizIDvam",
+        "nAnATizIya",
+        "nAnATizIvahi",
+        "nAnATizImahi"
+      ],
+      "alang": [
+        "anAnATyata",
+        "anAnATyetAm",
+        "anAnATyanta",
+        "anAnATyaTAH",
+        "anAnATyeTAm",
+        "anAnATyaDvam",
+        "anAnATye",
+        "anAnATyAvahi",
+        "anAnATyAmahi"
+      ],
+      "alat": [
+        "nAnATyate",
+        "nAnATyete",
+        "nAnATyante",
+        "nAnATyase",
+        "nAnATyeTe",
+        "nAnATyaDve",
+        "nAnATye",
+        "nAnATyAvahe",
+        "nAnATyAmahe"
+      ],
+      "alit": [
+        "nAnATAYcakre",
+        "nAnATAmAse",
+        "nAnATAmbaBUve",
+        "nAnATAYcakrAte",
+        "nAnATAmAsAte",
+        "nAnATAmbaBUvAte",
+        "nAnATAYcakrire",
+        "nAnATAmAsire",
+        "nAnATAmbaBUvire",
+        "nAnATAYcakfze",
+        "nAnATAmAsize",
+        "nAnATAmbaBUvize",
+        "nAnATAYcakrATe",
+        "nAnATAmAsATe",
+        "nAnATAmbaBUvATe",
+        "nAnATAYcakfQve",
+        "nAnATAmAsiDve",
+        "nAnATAmbaBUviQve",
+        "nAnATAYcakre",
+        "nAnATAmAhe",
+        "nAnATAmbaBUve",
+        "nAnATAYcakfvahe",
+        "nAnATAmAsivahe",
+        "nAnATAmbaBUvivahe",
+        "nAnATAYcakfmahe",
+        "nAnATAmAsimahe",
+        "nAnATAmbaBUvimahe"
+      ],
+      "alot": [
+        "nAnATyatAm",
+        "nAnATyetAm",
+        "nAnATyantAm",
+        "nAnATyasva",
+        "nAnATyeTAm",
+        "nAnATyaDvam",
+        "nAnATyE",
+        "nAnATyAvahE",
+        "nAnATyAmahE"
+      ],
+      "alrung": [
+        "anAnATizyata",
+        "anAnATizyetAm",
+        "anAnATizyanta",
+        "anAnATizyaTAH",
+        "anAnATizyeTAm",
+        "anAnATizyaDvam",
+        "anAnATizye",
+        "anAnATizyAvahi",
+        "anAnATizyAmahi"
+      ],
+      "alrut": [
+        "nAnATizyate",
+        "nAnATizyete",
+        "nAnATizyante",
+        "nAnATizyase",
+        "nAnATizyeTe",
+        "nAnATizyaDve",
+        "nAnATizye",
+        "nAnATizyAvahe",
+        "nAnATizyAmahe"
+      ],
+      "alung": [
+        "anAnATi",
+        "anAnATizAtAm",
+        "anAnATizata",
+        "anAnATizWAH",
+        "anAnATizATAm",
+        "anAnATiDvam",
+        "anAnATizi",
+        "anAnATizvahi",
+        "anAnATizmahi"
+      ],
+      "alut": [
+        "nAnATitA",
+        "nAnATitArO",
+        "nAnATitAraH",
+        "nAnATitAse",
+        "nAnATitAsATe",
+        "nAnATitADve",
+        "nAnATitAhe",
+        "nAnATitAsvahe",
+        "nAnATitAsmahe"
+      ],
+      "avidhiling": [
+        "nAnATyeta",
+        "nAnATyeyAtAm",
+        "nAnATyeran",
+        "nAnATyeTAH",
+        "nAnATyeyATAm",
+        "nAnATyeDvam",
+        "nAnATyeya",
+        "nAnATyevahi",
+        "nAnATyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "nATA",
+          "m": "",
+          "f": "nATA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "nATa",
+          "m": "nATaH",
+          "f": "nATA",
+          "n": "nATam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nATanIya",
+          "m": "nATanIyaH",
+          "f": "nATanIyA",
+          "n": "nATanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nATita",
+          "m": "nATitaH",
+          "f": "nATitA",
+          "n": "nATitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nATitavat",
+          "m": "nATitavAn",
+          "f": "nATitavatI",
+          "n": "nATitavat/nATitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nAtti",
+          "m": "",
+          "f": "nAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nATitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nanATvas",
+          "m": "nanATvAn",
+          "f": "nanATuzI",
+          "n": "nanATvat/nanATvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nATa",
+          "m": "nATaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nATamAna",
+          "m": "nATamAnaH",
+          "f": "nATamAnA",
+          "n": "nATamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nATam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "nATya",
+          "m": "nATyaH",
+          "f": "nATyA",
+          "n": "nATyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nATaka",
+          "m": "nATakaH",
+          "f": "nATikA",
+          "n": "nATakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nATitavya",
+          "m": "nATitavyaH",
+          "f": "nATitavyA",
+          "n": "nATitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nATitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nATitf",
+          "m": "nATitA",
+          "f": "nATitrI",
+          "n": "nATitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nATyamAna",
+          "m": "nATyamAnaH",
+          "f": "nATyamAnA",
+          "n": "nATyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranATya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nATana",
+          "m": "",
+          "f": "",
+          "n": "nATanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nATaka",
+          "m": "nATakaH",
+          "f": "nATikA",
+          "n": "nATakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nATat",
+          "m": "nATan",
+          "f": "nATantI",
+          "n": "nATat/nATad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "nATamAna",
+          "m": "nATamAnaH",
+          "f": "nATamAnA",
+          "n": "nATamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nATizyamARa",
+          "m": "nATizyamARaH",
+          "f": "nATizyamARA",
+          "n": "nATizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nATizyat",
+          "m": "nATizyan",
+          "f": "nATizyatI/nATizyantI",
+          "n": "nATizyat/nATizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "nATizyamARa",
+          "m": "nATizyamARaH",
+          "f": "nATizyamARA",
+          "n": "nATizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ninATizA",
+          "m": "",
+          "f": "ninATizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ninATiza",
+          "m": "ninATizaH",
+          "f": "ninATizA",
+          "n": "ninATizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ninATizaRIya",
+          "m": "ninATizaRIyaH",
+          "f": "ninATizaRIyA",
+          "n": "ninATizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ninATizu",
+          "m": "ninATizuH",
+          "f": "ninATizuH",
+          "n": "ninATizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ninATizita",
+          "m": "ninATizitaH",
+          "f": "ninATizitA",
+          "n": "ninATizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ninATizitavat",
+          "m": "ninATizitavAn",
+          "f": "ninATizitavatI",
+          "n": "ninATizitavat/ninATizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ninATizwi",
+          "m": "",
+          "f": "ninATizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ninATizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ninATizAmbaBUvas",
+          "m": "ninATizAmbaBUvAn",
+          "f": "ninATizAmbaBUzI",
+          "n": "ninATizAmbaBUvat/ninATizAmbaBUvad"
+        },
+        {
+          "base": "ninATizAmAsivas",
+          "m": "ninATizAmAsivAn",
+          "f": "ninATizAmAsyuzI",
+          "n": "ninATizAmAsivat/ninATizAmAsivad"
+        },
+        {
+          "base": "ninATizAYcakfvas",
+          "m": "ninATizAYcakfvAn",
+          "f": "ninATizAYcakruzI",
+          "n": "ninATizAYcakfvat/ninATizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ninATiza",
+          "m": "ninATizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ninATizamARa",
+          "m": "ninATizamARaH",
+          "f": "ninATizamARA",
+          "n": "ninATizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ninATizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ninATizaka",
+          "m": "ninATizakaH",
+          "f": "ninATizikA",
+          "n": "ninATizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ninATizitavya",
+          "m": "ninATizitavyaH",
+          "f": "ninATizitavyA",
+          "n": "ninATizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ninATizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ninATizitf",
+          "m": "ninATizitA",
+          "f": "ninATizitrI",
+          "n": "ninATizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ninATizyamARa",
+          "m": "ninATizyamARaH",
+          "f": "ninATizyamARA",
+          "n": "ninATizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ninATizya",
+          "m": "ninATizyaH",
+          "f": "ninATizyA",
+          "n": "ninATizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praninATizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ninATizaRa",
+          "m": "",
+          "f": "",
+          "n": "ninATizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ninATizaka",
+          "m": "ninATizakaH",
+          "f": "ninATizikA",
+          "n": "ninATizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ninATizat",
+          "m": "ninATizan",
+          "f": "ninATizantI",
+          "n": "ninATizat/ninATizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ninATizamARa",
+          "m": "ninATizamARaH",
+          "f": "ninATizamARA",
+          "n": "ninATizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ninATizizyamARa",
+          "m": "ninATizizyamARaH",
+          "f": "ninATizizyamARA",
+          "n": "ninATizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ninATizizyat",
+          "m": "ninATizizyan",
+          "f": "ninATizizyatI/ninATizizyantI",
+          "n": "ninATizizyat/ninATizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ninATizizyamARa",
+          "m": "ninATizizyamARaH",
+          "f": "ninATizizyamARA",
+          "n": "ninATizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "nATa",
+          "m": "nATaH",
+          "f": "nATA",
+          "n": "nATam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nATanIya",
+          "m": "nATanIyaH",
+          "f": "nATanIyA",
+          "n": "nATanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nATita",
+          "m": "nATitaH",
+          "f": "nATitA",
+          "n": "nATitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nATitavat",
+          "m": "nATitavAn",
+          "f": "nATitavatI",
+          "n": "nATitavat/nATitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nAtti",
+          "m": "",
+          "f": "nAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nATayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nATayAmbaBUvas",
+          "m": "nATayAmbaBUvAn",
+          "f": "nATayAmbaBUzI",
+          "n": "nATayAmbaBUvat/nATayAmbaBUvad"
+        },
+        {
+          "base": "nATayAmAsivas",
+          "m": "nATayAmAsivAn",
+          "f": "nATayAmAsyuzI",
+          "n": "nATayAmAsivat/nATayAmAsivad"
+        },
+        {
+          "base": "nATayAYcakfvas",
+          "m": "nATayAYcakfvAn",
+          "f": "nATayAYcakruzI",
+          "n": "nATayAYcakfvat/nATayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nATayamAna",
+          "m": "nATayamAnaH",
+          "f": "nATayamAnA",
+          "n": "nATayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nATam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nATaka",
+          "m": "nATakaH",
+          "f": "nATikA",
+          "n": "nATakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nATayitavya",
+          "m": "nATayitavyaH",
+          "f": "nATayitavyA",
+          "n": "nATayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nATayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nATayitf",
+          "m": "nATayitA",
+          "f": "nATayitrI",
+          "n": "nATayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nATyamAna",
+          "m": "nATyamAnaH",
+          "f": "nATyamAnA",
+          "n": "nATyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "nATya",
+          "m": "nATyaH",
+          "f": "nATyA",
+          "n": "nATyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranATya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nATana",
+          "m": "",
+          "f": "",
+          "n": "nATanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nATaka",
+          "m": "nATakaH",
+          "f": "nATikA",
+          "n": "nATakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nATayat",
+          "m": "nATayan",
+          "f": "nATayantI",
+          "n": "nATayat/nATayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "nATayamAna",
+          "m": "nATayamAnaH",
+          "f": "nATayamAnA",
+          "n": "nATayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nATizyamARa",
+          "m": "nATizyamARaH",
+          "f": "nATizyamARA",
+          "n": "nATizyamARam"
+        },
+        {
+          "base": "nATayizyamARa",
+          "m": "nATayizyamARaH",
+          "f": "nATayizyamARA",
+          "n": "nATayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nATayizyat",
+          "m": "nATayizyan",
+          "f": "nATayizyatI/nATayizyantI",
+          "n": "nATayizyat/nATayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "nATayizyamARa",
+          "m": "nATayizyamARaH",
+          "f": "nATayizyamARA",
+          "n": "nATayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "nAnATA",
+          "m": "",
+          "f": "nAnATA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "nAnATa",
+          "m": "nAnATaH",
+          "f": "nAnATA",
+          "n": "nAnATam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nAnATanIya",
+          "m": "nAnATanIyaH",
+          "f": "nAnATanIyA",
+          "n": "nAnATanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nAnATita",
+          "m": "nAnATitaH",
+          "f": "nAnATitA",
+          "n": "nAnATitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nAnATitavat",
+          "m": "nAnATitavAn",
+          "f": "nAnATitavatI",
+          "n": "nAnATitavat/nAnATitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nAnAtti",
+          "m": "",
+          "f": "nAnAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nAnATitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nAnATAmbaBUvas",
+          "m": "nAnATAmbaBUvAn",
+          "f": "nAnATAmbaBUzI",
+          "n": "nAnATAmbaBUvat/nAnATAmbaBUvad"
+        },
+        {
+          "base": "nAnATAmAsivas",
+          "m": "nAnATAmAsivAn",
+          "f": "nAnATAmAsyuzI",
+          "n": "nAnATAmAsivat/nAnATAmAsivad"
+        },
+        {
+          "base": "nAnATAYcakfvas",
+          "m": "nAnATAYcakfvAn",
+          "f": "nAnATAYcakruzI",
+          "n": "nAnATAYcakfvat/nAnATAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nAnATa",
+          "m": "nAnATaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nAnATyamAna",
+          "m": "nAnATyamAnaH",
+          "f": "nAnATyamAnA",
+          "n": "nAnATyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nAnATam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nAnATaka",
+          "m": "nAnATakaH",
+          "f": "nAnATikA",
+          "n": "nAnATakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nAnATitavya",
+          "m": "nAnATitavyaH",
+          "f": "nAnATitavyA",
+          "n": "nAnATitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nAnATitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nAnATitf",
+          "m": "nAnATitA",
+          "f": "nAnATitrI",
+          "n": "nAnATitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nAnATyamAna",
+          "m": "nAnATyamAnaH",
+          "f": "nAnATyamAnA",
+          "n": "nAnATyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "nAnATya",
+          "m": "nAnATyaH",
+          "f": "nAnATyA",
+          "n": "nAnATyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranAnATya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nAnATana",
+          "m": "",
+          "f": "",
+          "n": "nAnATanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nAnATaka",
+          "m": "nAnATakaH",
+          "f": "nAnATikA",
+          "n": "nAnATakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "nAnATyamAna",
+          "m": "nAnATyamAnaH",
+          "f": "nAnATyamAnA",
+          "n": "nAnATyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nAnATizyamARa",
+          "m": "nAnATizyamARaH",
+          "f": "nAnATizyamARA",
+          "n": "nAnATizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "nAnATizyamARa",
+          "m": "nAnATizyamARaH",
+          "f": "nAnATizyamARA",
+          "n": "nAnATizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "nAnATA",
+          "m": "",
+          "f": "nAnATA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "nAnATa",
+          "m": "nAnATaH",
+          "f": "nAnATA",
+          "n": "nAnATam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nAnATanIya",
+          "m": "nAnATanIyaH",
+          "f": "nAnATanIyA",
+          "n": "nAnATanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nAnATita",
+          "m": "nAnATitaH",
+          "f": "nAnATitA",
+          "n": "nAnATitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nAnATitavat",
+          "m": "nAnATitavAn",
+          "f": "nAnATitavatI",
+          "n": "nAnATitavat/nAnATitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nAnAtti",
+          "m": "",
+          "f": "nAnAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nAnATitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nAnATAmbaBUvas",
+          "m": "nAnATAmbaBUvAn",
+          "f": "nAnATAmbaBUzI",
+          "n": "nAnATAmbaBUvat/nAnATAmbaBUvad"
+        },
+        {
+          "base": "nAnATAmAsivas",
+          "m": "nAnATAmAsivAn",
+          "f": "nAnATAmAsyuzI",
+          "n": "nAnATAmAsivat/nAnATAmAsivad"
+        },
+        {
+          "base": "nAnATAYcakfvas",
+          "m": "nAnATAYcakfvAn",
+          "f": "nAnATAYcakruzI",
+          "n": "nAnATAYcakfvat/nAnATAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nAnATa",
+          "m": "nAnATaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nAnATAna",
+          "m": "nAnATAnaH",
+          "f": "nAnATAnA",
+          "n": "nAnATAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nAnATam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nAnATaka",
+          "m": "nAnATakaH",
+          "f": "nAnATikA",
+          "n": "nAnATakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nAnATitavya",
+          "m": "nAnATitavyaH",
+          "f": "nAnATitavyA",
+          "n": "nAnATitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nAnATitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nAnATitf",
+          "m": "nAnATitA",
+          "f": "nAnATitrI",
+          "n": "nAnATitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nAnATyamAna",
+          "m": "nAnATyamAnaH",
+          "f": "nAnATyamAnA",
+          "n": "nAnATyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranAnATya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nAnATana",
+          "m": "",
+          "f": "",
+          "n": "nAnATanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nAnATaka",
+          "m": "nAnATakaH",
+          "f": "nAnATikA",
+          "n": "nAnATakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nAnATat",
+          "m": "nAnATat/nAnATad",
+          "f": "nAnATatI",
+          "n": "nAnATat/nAnATad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nAnATizyamARa",
+          "m": "nAnATizyamARaH",
+          "f": "nAnATizyamARA",
+          "n": "nAnATizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nAnATizyat",
+          "m": "nAnATizyan",
+          "f": "nAnATizyatI/nAnATizyantI",
+          "n": "nAnATizyat/nAnATizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "nAT",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "upa",
+      "examples": [
+        "'mARavakamupanATati, aNga putrakADIzva' (pA0 2.3.55 sUtravfttO pratyudAharaRam). upanATati yAcate upacCandayati. rAjAnamupanATati. yAcate prArTayate."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "upa": {
+      "prefix": "upa",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "upanATizIzwa",
+            "upanATizIyAstAm",
+            "upanATizIran",
+            "upanATizIzWAH",
+            "upanATizIyAsTAm",
+            "upanATizIDvam",
+            "upanATizIya",
+            "upanATizIvahi",
+            "upanATizImahi"
+          ],
+          "alang": [
+            "upAnATata",
+            "upAnATetAm",
+            "upAnATanta",
+            "upAnATaTAH",
+            "upAnATeTAm",
+            "upAnATaDvam",
+            "upAnATe",
+            "upAnATAvahi",
+            "upAnATAmahi"
+          ],
+          "alat": [
+            "upanATate",
+            "upanATete",
+            "upanATante",
+            "upanATase",
+            "upanATeTe",
+            "upanATaDve",
+            "upanATe",
+            "upanATAvahe",
+            "upanATAmahe"
+          ],
+          "alit": [
+            "upananATe",
+            "upananATAte",
+            "upananATire",
+            "upananATize",
+            "upananATATe",
+            "upananATiDve",
+            "upananATe",
+            "upananATivahe",
+            "upananATimahe"
+          ],
+          "alot": [
+            "upanATatAm",
+            "upanATetAm",
+            "upanATantAm",
+            "upanATasva",
+            "upanATeTAm",
+            "upanATaDvam",
+            "upanATE",
+            "upanATAvahE",
+            "upanATAmahE"
+          ],
+          "alrung": [
+            "upAnATizyata",
+            "upAnATizyetAm",
+            "upAnATizyanta",
+            "upAnATizyaTAH",
+            "upAnATizyeTAm",
+            "upAnATizyaDvam",
+            "upAnATizye",
+            "upAnATizyAvahi",
+            "upAnATizyAmahi"
+          ],
+          "alrut": [
+            "upanATizyate",
+            "upanATizyete",
+            "upanATizyante",
+            "upanATizyase",
+            "upanATizyeTe",
+            "upanATizyaDve",
+            "upanATizye",
+            "upanATizyAvahe",
+            "upanATizyAmahe"
+          ],
+          "alung": [
+            "upAnATizwa",
+            "upAnATizAtAm",
+            "upAnATizata",
+            "upAnATizWAH",
+            "upAnATizATAm",
+            "upAnATiDvam",
+            "upAnATizi",
+            "upAnATizvahi",
+            "upAnATizmahi"
+          ],
+          "alut": [
+            "upanATitA",
+            "upanATitArO",
+            "upanATitAraH",
+            "upanATitAse",
+            "upanATitAsATe",
+            "upanATitADve",
+            "upanATitAhe",
+            "upanATitAsvahe",
+            "upanATitAsmahe"
+          ],
+          "avidhiling": [
+            "upanATeta",
+            "upanATeyAtAm",
+            "upanATeran",
+            "upanATeTAH",
+            "upanATeyATAm",
+            "upanATeDvam",
+            "upanATeya",
+            "upanATevahi",
+            "upanATemahi"
+          ],
+          "pashirling": [
+            "upanATyAt",
+            "upanATyAd",
+            "upanATyAstAm",
+            "upanATyAsuH",
+            "upanATyAH",
+            "upanATyAstam",
+            "upanATyAsta",
+            "upanATyAsam",
+            "upanATyAsva",
+            "upanATyAsma"
+          ],
+          "plang": [
+            "upAnATat",
+            "upAnATad",
+            "upAnATatAm",
+            "upAnATan",
+            "upAnATaH",
+            "upAnATatam",
+            "upAnATata",
+            "upAnATam",
+            "upAnATAva",
+            "upAnATAma"
+          ],
+          "plat": [
+            "upanATati",
+            "upanATataH",
+            "upanATanti",
+            "upanATasi",
+            "upanATaTaH",
+            "upanATaTa",
+            "upanATAmi",
+            "upanATAvaH",
+            "upanATAmaH"
+          ],
+          "plit": [
+            "upananATa",
+            "upananATatuH",
+            "upananATuH",
+            "upananATiTa",
+            "upananATaTuH",
+            "upananATa",
+            "upananATa",
+            "upananATiva",
+            "upananATima"
+          ],
+          "plot": [
+            "upanATatAt",
+            "upanATatAd",
+            "upanATatu",
+            "upanATatAm",
+            "upanATantu",
+            "upanATatAt",
+            "upanATatAd",
+            "upanATa",
+            "upanATatam",
+            "upanATata",
+            "upanATAni",
+            "upanATAva",
+            "upanATAma"
+          ],
+          "plrung": [
+            "upAnATizyat",
+            "upAnATizyad",
+            "upAnATizyatAm",
+            "upAnATizyan",
+            "upAnATizyaH",
+            "upAnATizyatam",
+            "upAnATizyata",
+            "upAnATizyam",
+            "upAnATizyAva",
+            "upAnATizyAma"
+          ],
+          "plrut": [
+            "upanATizyati",
+            "upanATizyataH",
+            "upanATizyanti",
+            "upanATizyasi",
+            "upanATizyaTaH",
+            "upanATizyaTa",
+            "upanATizyAmi",
+            "upanATizyAvaH",
+            "upanATizyAmaH"
+          ],
+          "plung": [
+            "upAnATIt",
+            "upAnATId",
+            "upAnATizwAm",
+            "upAnATizuH",
+            "upAnATIH",
+            "upAnATizwam",
+            "upAnATizwa",
+            "upAnATizam",
+            "upAnATizva",
+            "upAnATizma"
+          ],
+          "plut": [
+            "upanATitA",
+            "upanATitArO",
+            "upanATitAraH",
+            "upanATitAsi",
+            "upanATitAsTaH",
+            "upanATitAsTa",
+            "upanATitAsmi",
+            "upanATitAsvaH",
+            "upanATitAsmaH"
+          ],
+          "pvidhiling": [
+            "upanATet",
+            "upanATed",
+            "upanATetAm",
+            "upanATeyuH",
+            "upanATeH",
+            "upanATetam",
+            "upanATeta",
+            "upanATeyam",
+            "upanATeva",
+            "upanATema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "upanATizIzwa",
+            "upanATizIyAstAm",
+            "upanATizIran",
+            "upanATizIzWAH",
+            "upanATizIyAsTAm",
+            "upanATizIDvam",
+            "upanATizIya",
+            "upanATizIvahi",
+            "upanATizImahi"
+          ],
+          "alang": [
+            "upAnATyata",
+            "upAnATyetAm",
+            "upAnATyanta",
+            "upAnATyaTAH",
+            "upAnATyeTAm",
+            "upAnATyaDvam",
+            "upAnATye",
+            "upAnATyAvahi",
+            "upAnATyAmahi"
+          ],
+          "alat": [
+            "upanATyate",
+            "upanATyete",
+            "upanATyante",
+            "upanATyase",
+            "upanATyeTe",
+            "upanATyaDve",
+            "upanATye",
+            "upanATyAvahe",
+            "upanATyAmahe"
+          ],
+          "alit": [
+            "upananATe",
+            "upananATAte",
+            "upananATire",
+            "upananATize",
+            "upananATATe",
+            "upananATiDve",
+            "upananATe",
+            "upananATivahe",
+            "upananATimahe"
+          ],
+          "alot": [
+            "upanATyatAm",
+            "upanATyetAm",
+            "upanATyantAm",
+            "upanATyasva",
+            "upanATyeTAm",
+            "upanATyaDvam",
+            "upanATyE",
+            "upanATyAvahE",
+            "upanATyAmahE"
+          ],
+          "alrung": [
+            "upAnATizyata",
+            "upAnATizyetAm",
+            "upAnATizyanta",
+            "upAnATizyaTAH",
+            "upAnATizyeTAm",
+            "upAnATizyaDvam",
+            "upAnATizye",
+            "upAnATizyAvahi",
+            "upAnATizyAmahi"
+          ],
+          "alrut": [
+            "upanATizyate",
+            "upanATizyete",
+            "upanATizyante",
+            "upanATizyase",
+            "upanATizyeTe",
+            "upanATizyaDve",
+            "upanATizye",
+            "upanATizyAvahe",
+            "upanATizyAmahe"
+          ],
+          "alung": [
+            "upAnATi",
+            "upAnATizAtAm",
+            "upAnATizata",
+            "upAnATizWAH",
+            "upAnATizATAm",
+            "upAnATiDvam",
+            "upAnATizi",
+            "upAnATizvahi",
+            "upAnATizmahi"
+          ],
+          "alut": [
+            "upanATitA",
+            "upanATitArO",
+            "upanATitAraH",
+            "upanATitAse",
+            "upanATitAsATe",
+            "upanATitADve",
+            "upanATitAhe",
+            "upanATitAsvahe",
+            "upanATitAsmahe"
+          ],
+          "avidhiling": [
+            "upanATyeta",
+            "upanATyeyAtAm",
+            "upanATyeran",
+            "upanATyeTAH",
+            "upanATyeyATAm",
+            "upanATyeDvam",
+            "upanATyeya",
+            "upanATyevahi",
+            "upanATyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "upaninATizizIzwa",
+            "upaninATizizIyAstAm",
+            "upaninATizizIran",
+            "upaninATizizIzWAH",
+            "upaninATizizIyAsTAm",
+            "upaninATizizIDvam",
+            "upaninATizizIya",
+            "upaninATizizIvahi",
+            "upaninATizizImahi"
+          ],
+          "alang": [
+            "upAninATizata",
+            "upAninATizetAm",
+            "upAninATizanta",
+            "upAninATizaTAH",
+            "upAninATizeTAm",
+            "upAninATizaDvam",
+            "upAninATize",
+            "upAninATizAvahi",
+            "upAninATizAmahi"
+          ],
+          "alat": [
+            "upaninATizate",
+            "upaninATizete",
+            "upaninATizante",
+            "upaninATizase",
+            "upaninATizeTe",
+            "upaninATizaDve",
+            "upaninATize",
+            "upaninATizAvahe",
+            "upaninATizAmahe"
+          ],
+          "alit": [
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakre",
+            "upaninATizAmbaBUvatuH",
+            "upaninATizAmAsatuH",
+            "upaninATizAYcakrAte",
+            "upaninATizAmbaBUvuH",
+            "upaninATizAmAsuH",
+            "upaninATizAYcakrire",
+            "upaninATizAmbaBUviTa",
+            "upaninATizAmAsiTa",
+            "upaninATizAYcakfze",
+            "upaninATizAmbaBUvaTuH",
+            "upaninATizAmAsaTuH",
+            "upaninATizAYcakrATe",
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakfQve",
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakre",
+            "upaninATizAmbaBUviva",
+            "upaninATizAmAsiva",
+            "upaninATizAYcakfvahe",
+            "upaninATizAmbaBUvima",
+            "upaninATizAmAsima",
+            "upaninATizAYcakfmahe"
+          ],
+          "alot": [
+            "upaninATizatAm",
+            "upaninATizetAm",
+            "upaninATizantAm",
+            "upaninATizasva",
+            "upaninATizeTAm",
+            "upaninATizaDvam",
+            "upaninATizE",
+            "upaninATizAvahE",
+            "upaninATizAmahE"
+          ],
+          "alrung": [
+            "upAninATizizyata",
+            "upAninATizizyetAm",
+            "upAninATizizyanta",
+            "upAninATizizyaTAH",
+            "upAninATizizyeTAm",
+            "upAninATizizyaDvam",
+            "upAninATizizye",
+            "upAninATizizyAvahi",
+            "upAninATizizyAmahi"
+          ],
+          "alrut": [
+            "upaninATizizyate",
+            "upaninATizizyete",
+            "upaninATizizyante",
+            "upaninATizizyase",
+            "upaninATizizyeTe",
+            "upaninATizizyaDve",
+            "upaninATizizye",
+            "upaninATizizyAvahe",
+            "upaninATizizyAmahe"
+          ],
+          "alung": [
+            "upAninATizizwa",
+            "upAninATizizAtAm",
+            "upAninATizizata",
+            "upAninATizizWAH",
+            "upAninATizizATAm",
+            "upAninATiziDvam",
+            "upAninATizizi",
+            "upAninATizizvahi",
+            "upAninATizizmahi"
+          ],
+          "alut": [
+            "upaninATizitA",
+            "upaninATizitArO",
+            "upaninATizitAraH",
+            "upaninATizitAse",
+            "upaninATizitAsATe",
+            "upaninATizitADve",
+            "upaninATizitAhe",
+            "upaninATizitAsvahe",
+            "upaninATizitAsmahe"
+          ],
+          "avidhiling": [
+            "upaninATizeta",
+            "upaninATizeyAtAm",
+            "upaninATizeran",
+            "upaninATizeTAH",
+            "upaninATizeyATAm",
+            "upaninATizeDvam",
+            "upaninATizeya",
+            "upaninATizevahi",
+            "upaninATizemahi"
+          ],
+          "pashirling": [
+            "upaninATizyAt",
+            "upaninATizyAd",
+            "upaninATizyAstAm",
+            "upaninATizyAsuH",
+            "upaninATizyAH",
+            "upaninATizyAstam",
+            "upaninATizyAsta",
+            "upaninATizyAsam",
+            "upaninATizyAsva",
+            "upaninATizyAsma"
+          ],
+          "plang": [
+            "upAninATizat",
+            "upAninATizad",
+            "upAninATizatAm",
+            "upAninATizan",
+            "upAninATizaH",
+            "upAninATizatam",
+            "upAninATizata",
+            "upAninATizam",
+            "upAninATizAva",
+            "upAninATizAma"
+          ],
+          "plat": [
+            "upaninATizati",
+            "upaninATizataH",
+            "upaninATizanti",
+            "upaninATizasi",
+            "upaninATizaTaH",
+            "upaninATizaTa",
+            "upaninATizAmi",
+            "upaninATizAvaH",
+            "upaninATizAmaH"
+          ],
+          "plit": [
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakAra",
+            "upaninATizAmbaBUvatuH",
+            "upaninATizAmAsatuH",
+            "upaninATizAYcakratuH",
+            "upaninATizAmbaBUvuH",
+            "upaninATizAmAsuH",
+            "upaninATizAYcakruH",
+            "upaninATizAmbaBUviTa",
+            "upaninATizAmAsiTa",
+            "upaninATizAYcakarTa",
+            "upaninATizAmbaBUvaTuH",
+            "upaninATizAmAsaTuH",
+            "upaninATizAYcakraTuH",
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakra",
+            "upaninATizAmbaBUva",
+            "upaninATizAmAsa",
+            "upaninATizAYcakara",
+            "upaninATizAYcakAra",
+            "upaninATizAmbaBUviva",
+            "upaninATizAmAsiva",
+            "upaninATizAYcakfva",
+            "upaninATizAmbaBUvima",
+            "upaninATizAmAsima",
+            "upaninATizAYcakfma"
+          ],
+          "plot": [
+            "upaninATizatAt",
+            "upaninATizatAd",
+            "upaninATizatu",
+            "upaninATizatAm",
+            "upaninATizantu",
+            "upaninATizatAt",
+            "upaninATizatAd",
+            "upaninATiza",
+            "upaninATizatam",
+            "upaninATizata",
+            "upaninATizARi",
+            "upaninATizAva",
+            "upaninATizAma"
+          ],
+          "plrung": [
+            "upAninATizizyat",
+            "upAninATizizyad",
+            "upAninATizizyatAm",
+            "upAninATizizyan",
+            "upAninATizizyaH",
+            "upAninATizizyatam",
+            "upAninATizizyata",
+            "upAninATizizyam",
+            "upAninATizizyAva",
+            "upAninATizizyAma"
+          ],
+          "plrut": [
+            "upaninATizizyati",
+            "upaninATizizyataH",
+            "upaninATizizyanti",
+            "upaninATizizyasi",
+            "upaninATizizyaTaH",
+            "upaninATizizyaTa",
+            "upaninATizizyAmi",
+            "upaninATizizyAvaH",
+            "upaninATizizyAmaH"
+          ],
+          "plung": [
+            "upAninATizIt",
+            "upAninATizId",
+            "upAninATizizwAm",
+            "upAninATizizuH",
+            "upAninATizIH",
+            "upAninATizizwam",
+            "upAninATizizwa",
+            "upAninATizizam",
+            "upAninATizizva",
+            "upAninATizizma"
+          ],
+          "plut": [
+            "upaninATizitA",
+            "upaninATizitArO",
+            "upaninATizitAraH",
+            "upaninATizitAsi",
+            "upaninATizitAsTaH",
+            "upaninATizitAsTa",
+            "upaninATizitAsmi",
+            "upaninATizitAsvaH",
+            "upaninATizitAsmaH"
+          ],
+          "pvidhiling": [
+            "upaninATizet",
+            "upaninATized",
+            "upaninATizetAm",
+            "upaninATizeyuH",
+            "upaninATizeH",
+            "upaninATizetam",
+            "upaninATizeta",
+            "upaninATizeyam",
+            "upaninATizeva",
+            "upaninATizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "upaninATizizIzwa",
+            "upaninATizizIyAstAm",
+            "upaninATizizIran",
+            "upaninATizizIzWAH",
+            "upaninATizizIyAsTAm",
+            "upaninATizizIDvam",
+            "upaninATizizIya",
+            "upaninATizizIvahi",
+            "upaninATizizImahi"
+          ],
+          "alang": [
+            "upAninATizyata",
+            "upAninATizyetAm",
+            "upAninATizyanta",
+            "upAninATizyaTAH",
+            "upAninATizyeTAm",
+            "upAninATizyaDvam",
+            "upAninATizye",
+            "upAninATizyAvahi",
+            "upAninATizyAmahi"
+          ],
+          "alat": [
+            "upaninATizyate",
+            "upaninATizyete",
+            "upaninATizyante",
+            "upaninATizyase",
+            "upaninATizyeTe",
+            "upaninATizyaDve",
+            "upaninATizye",
+            "upaninATizyAvahe",
+            "upaninATizyAmahe"
+          ],
+          "alit": [
+            "upaninATizAmbaBUve",
+            "upaninATizAmAse",
+            "upaninATizAYcakre",
+            "upaninATizAmbaBUvAte",
+            "upaninATizAmAsAte",
+            "upaninATizAYcakrAte",
+            "upaninATizAmbaBUvire",
+            "upaninATizAmAsire",
+            "upaninATizAYcakrire",
+            "upaninATizAmbaBUvize",
+            "upaninATizAmAsize",
+            "upaninATizAYcakfze",
+            "upaninATizAmbaBUvATe",
+            "upaninATizAmAsATe",
+            "upaninATizAYcakrATe",
+            "upaninATizAmbaBUviQve",
+            "upaninATizAmAsiDve",
+            "upaninATizAYcakfQve",
+            "upaninATizAmbaBUve",
+            "upaninATizAmAhe",
+            "upaninATizAYcakre",
+            "upaninATizAmbaBUvivahe",
+            "upaninATizAmAsivahe",
+            "upaninATizAYcakfvahe",
+            "upaninATizAmbaBUvimahe",
+            "upaninATizAmAsimahe",
+            "upaninATizAYcakfmahe"
+          ],
+          "alot": [
+            "upaninATizyatAm",
+            "upaninATizyetAm",
+            "upaninATizyantAm",
+            "upaninATizyasva",
+            "upaninATizyeTAm",
+            "upaninATizyaDvam",
+            "upaninATizyE",
+            "upaninATizyAvahE",
+            "upaninATizyAmahE"
+          ],
+          "alrung": [
+            "upAninATizizyata",
+            "upAninATizizyetAm",
+            "upAninATizizyanta",
+            "upAninATizizyaTAH",
+            "upAninATizizyeTAm",
+            "upAninATizizyaDvam",
+            "upAninATizizye",
+            "upAninATizizyAvahi",
+            "upAninATizizyAmahi"
+          ],
+          "alrut": [
+            "upaninATizizyate",
+            "upaninATizizyete",
+            "upaninATizizyante",
+            "upaninATizizyase",
+            "upaninATizizyeTe",
+            "upaninATizizyaDve",
+            "upaninATizizye",
+            "upaninATizizyAvahe",
+            "upaninATizizyAmahe"
+          ],
+          "alung": [
+            "upAninATizi",
+            "upAninATizizAtAm",
+            "upAninATizizata",
+            "upAninATizizWAH",
+            "upAninATizizATAm",
+            "upAninATiziDvam",
+            "upAninATizizi",
+            "upAninATizizvahi",
+            "upAninATizizmahi"
+          ],
+          "alut": [
+            "upaninATizitA",
+            "upaninATizitArO",
+            "upaninATizitAraH",
+            "upaninATizitAse",
+            "upaninATizitAsATe",
+            "upaninATizitADve",
+            "upaninATizitAhe",
+            "upaninATizitAsvahe",
+            "upaninATizitAsmahe"
+          ],
+          "avidhiling": [
+            "upaninATizyeta",
+            "upaninATizyeyAtAm",
+            "upaninATizyeran",
+            "upaninATizyeTAH",
+            "upaninATizyeyATAm",
+            "upaninATizyeDvam",
+            "upaninATizyeya",
+            "upaninATizyevahi",
+            "upaninATizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "upanATayizIzwa",
+            "upanATayizIyAstAm",
+            "upanATayizIran",
+            "upanATayizIzWAH",
+            "upanATayizIyAsTAm",
+            "upanATayizIQvam",
+            "upanATayizIDvam",
+            "upanATayizIya",
+            "upanATayizIvahi",
+            "upanATayizImahi"
+          ],
+          "alang": [
+            "upAnATayata",
+            "upAnATayetAm",
+            "upAnATayanta",
+            "upAnATayaTAH",
+            "upAnATayeTAm",
+            "upAnATayaDvam",
+            "upAnATaye",
+            "upAnATayAvahi",
+            "upAnATayAmahi"
+          ],
+          "alat": [
+            "upanATayate",
+            "upanATayete",
+            "upanATayante",
+            "upanATayase",
+            "upanATayeTe",
+            "upanATayaDve",
+            "upanATaye",
+            "upanATayAvahe",
+            "upanATayAmahe"
+          ],
+          "alit": [
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakre",
+            "upanATayAmbaBUvatuH",
+            "upanATayAmAsatuH",
+            "upanATayAYcakrAte",
+            "upanATayAmbaBUvuH",
+            "upanATayAmAsuH",
+            "upanATayAYcakrire",
+            "upanATayAmbaBUviTa",
+            "upanATayAmAsiTa",
+            "upanATayAYcakfze",
+            "upanATayAmbaBUvaTuH",
+            "upanATayAmAsaTuH",
+            "upanATayAYcakrATe",
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakfQve",
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakre",
+            "upanATayAmbaBUviva",
+            "upanATayAmAsiva",
+            "upanATayAYcakfvahe",
+            "upanATayAmbaBUvima",
+            "upanATayAmAsima",
+            "upanATayAYcakfmahe"
+          ],
+          "alot": [
+            "upanATayatAm",
+            "upanATayetAm",
+            "upanATayantAm",
+            "upanATayasva",
+            "upanATayeTAm",
+            "upanATayaDvam",
+            "upanATayE",
+            "upanATayAvahE",
+            "upanATayAmahE"
+          ],
+          "alrung": [
+            "upAnATayizyata",
+            "upAnATayizyetAm",
+            "upAnATayizyanta",
+            "upAnATayizyaTAH",
+            "upAnATayizyeTAm",
+            "upAnATayizyaDvam",
+            "upAnATayizye",
+            "upAnATayizyAvahi",
+            "upAnATayizyAmahi"
+          ],
+          "alrut": [
+            "upanATayizyate",
+            "upanATayizyete",
+            "upanATayizyante",
+            "upanATayizyase",
+            "upanATayizyeTe",
+            "upanATayizyaDve",
+            "upanATayizye",
+            "upanATayizyAvahe",
+            "upanATayizyAmahe"
+          ],
+          "alung": [
+            "upAnanATata",
+            "upAnanATetAm",
+            "upAnanATanta",
+            "upAnanATaTAH",
+            "upAnanATeTAm",
+            "upAnanATaDvam",
+            "upAnanATe",
+            "upAnanATAvahi",
+            "upAnanATAmahi"
+          ],
+          "alut": [
+            "upanATayitA",
+            "upanATayitArO",
+            "upanATayitAraH",
+            "upanATayitAse",
+            "upanATayitAsATe",
+            "upanATayitADve",
+            "upanATayitAhe",
+            "upanATayitAsvahe",
+            "upanATayitAsmahe"
+          ],
+          "avidhiling": [
+            "upanATayeta",
+            "upanATayeyAtAm",
+            "upanATayeran",
+            "upanATayeTAH",
+            "upanATayeyATAm",
+            "upanATayeDvam",
+            "upanATayeya",
+            "upanATayevahi",
+            "upanATayemahi"
+          ],
+          "pashirling": [
+            "upanATyAt",
+            "upanATyAd",
+            "upanATyAstAm",
+            "upanATyAsuH",
+            "upanATyAH",
+            "upanATyAstam",
+            "upanATyAsta",
+            "upanATyAsam",
+            "upanATyAsva",
+            "upanATyAsma"
+          ],
+          "plang": [
+            "upAnATayat",
+            "upAnATayad",
+            "upAnATayatAm",
+            "upAnATayan",
+            "upAnATayaH",
+            "upAnATayatam",
+            "upAnATayata",
+            "upAnATayam",
+            "upAnATayAva",
+            "upAnATayAma"
+          ],
+          "plat": [
+            "upanATayati",
+            "upanATayataH",
+            "upanATayanti",
+            "upanATayasi",
+            "upanATayaTaH",
+            "upanATayaTa",
+            "upanATayAmi",
+            "upanATayAvaH",
+            "upanATayAmaH"
+          ],
+          "plit": [
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakAra",
+            "upanATayAmbaBUvatuH",
+            "upanATayAmAsatuH",
+            "upanATayAYcakratuH",
+            "upanATayAmbaBUvuH",
+            "upanATayAmAsuH",
+            "upanATayAYcakruH",
+            "upanATayAmbaBUviTa",
+            "upanATayAmAsiTa",
+            "upanATayAYcakarTa",
+            "upanATayAmbaBUvaTuH",
+            "upanATayAmAsaTuH",
+            "upanATayAYcakraTuH",
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakra",
+            "upanATayAmbaBUva",
+            "upanATayAmAsa",
+            "upanATayAYcakara",
+            "upanATayAYcakAra",
+            "upanATayAmbaBUviva",
+            "upanATayAmAsiva",
+            "upanATayAYcakfva",
+            "upanATayAmbaBUvima",
+            "upanATayAmAsima",
+            "upanATayAYcakfma"
+          ],
+          "plot": [
+            "upanATayatAt",
+            "upanATayatAd",
+            "upanATayatu",
+            "upanATayatAm",
+            "upanATayantu",
+            "upanATayatAt",
+            "upanATayatAd",
+            "upanATaya",
+            "upanATayatam",
+            "upanATayata",
+            "upanATayAni",
+            "upanATayAva",
+            "upanATayAma"
+          ],
+          "plrung": [
+            "upAnATayizyat",
+            "upAnATayizyad",
+            "upAnATayizyatAm",
+            "upAnATayizyan",
+            "upAnATayizyaH",
+            "upAnATayizyatam",
+            "upAnATayizyata",
+            "upAnATayizyam",
+            "upAnATayizyAva",
+            "upAnATayizyAma"
+          ],
+          "plrut": [
+            "upanATayizyati",
+            "upanATayizyataH",
+            "upanATayizyanti",
+            "upanATayizyasi",
+            "upanATayizyaTaH",
+            "upanATayizyaTa",
+            "upanATayizyAmi",
+            "upanATayizyAvaH",
+            "upanATayizyAmaH"
+          ],
+          "plung": [
+            "upAnanATat",
+            "upAnanATad",
+            "upAnanATatAm",
+            "upAnanATan",
+            "upAnanATaH",
+            "upAnanATatam",
+            "upAnanATata",
+            "upAnanATam",
+            "upAnanATAva",
+            "upAnanATAma"
+          ],
+          "plut": [
+            "upanATayitA",
+            "upanATayitArO",
+            "upanATayitAraH",
+            "upanATayitAsi",
+            "upanATayitAsTaH",
+            "upanATayitAsTa",
+            "upanATayitAsmi",
+            "upanATayitAsvaH",
+            "upanATayitAsmaH"
+          ],
+          "pvidhiling": [
+            "upanATayet",
+            "upanATayed",
+            "upanATayetAm",
+            "upanATayeyuH",
+            "upanATayeH",
+            "upanATayetam",
+            "upanATayeta",
+            "upanATayeyam",
+            "upanATayeva",
+            "upanATayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "upanATizIzwa",
+            "upanATayizIzwa",
+            "upanATizIyAstAm",
+            "upanATayizIyAstAm",
+            "upanATizIran",
+            "upanATayizIran",
+            "upanATizIzWAH",
+            "upanATayizIzWAH",
+            "upanATizIyAsTAm",
+            "upanATayizIyAsTAm",
+            "upanATizIDvam",
+            "upanATayizIQvam",
+            "upanATayizIDvam",
+            "upanATizIya",
+            "upanATayizIya",
+            "upanATizIvahi",
+            "upanATayizIvahi",
+            "upanATizImahi",
+            "upanATayizImahi"
+          ],
+          "alang": [
+            "upAnATyata",
+            "upAnATyetAm",
+            "upAnATyanta",
+            "upAnATyaTAH",
+            "upAnATyeTAm",
+            "upAnATyaDvam",
+            "upAnATye",
+            "upAnATyAvahi",
+            "upAnATyAmahi"
+          ],
+          "alat": [
+            "upanATyate",
+            "upanATyete",
+            "upanATyante",
+            "upanATyase",
+            "upanATyeTe",
+            "upanATyaDve",
+            "upanATye",
+            "upanATyAvahe",
+            "upanATyAmahe"
+          ],
+          "alit": [
+            "upanATayAmbaBUve",
+            "upanATayAmAse",
+            "upanATayAYcakre",
+            "upanATayAmbaBUvAte",
+            "upanATayAmAsAte",
+            "upanATayAYcakrAte",
+            "upanATayAmbaBUvire",
+            "upanATayAmAsire",
+            "upanATayAYcakrire",
+            "upanATayAmbaBUvize",
+            "upanATayAmAsize",
+            "upanATayAYcakfze",
+            "upanATayAmbaBUvATe",
+            "upanATayAmAsATe",
+            "upanATayAYcakrATe",
+            "upanATayAmbaBUviQve",
+            "upanATayAmAsiDve",
+            "upanATayAYcakfQve",
+            "upanATayAmbaBUve",
+            "upanATayAmAhe",
+            "upanATayAYcakre",
+            "upanATayAmbaBUvivahe",
+            "upanATayAmAsivahe",
+            "upanATayAYcakfvahe",
+            "upanATayAmbaBUvimahe",
+            "upanATayAmAsimahe",
+            "upanATayAYcakfmahe"
+          ],
+          "alot": [
+            "upanATyatAm",
+            "upanATyetAm",
+            "upanATyantAm",
+            "upanATyasva",
+            "upanATyeTAm",
+            "upanATyaDvam",
+            "upanATyE",
+            "upanATyAvahE",
+            "upanATyAmahE"
+          ],
+          "alrung": [
+            "upAnATizyata",
+            "upAnATayizyata",
+            "upAnATizyetAm",
+            "upAnATayizyetAm",
+            "upAnATizyanta",
+            "upAnATayizyanta",
+            "upAnATizyaTAH",
+            "upAnATayizyaTAH",
+            "upAnATizyeTAm",
+            "upAnATayizyeTAm",
+            "upAnATizyaDvam",
+            "upAnATayizyaDvam",
+            "upAnATizye",
+            "upAnATayizye",
+            "upAnATizyAvahi",
+            "upAnATayizyAvahi",
+            "upAnATizyAmahi",
+            "upAnATayizyAmahi"
+          ],
+          "alrut": [
+            "upanATizyate",
+            "upanATayizyate",
+            "upanATizyete",
+            "upanATayizyete",
+            "upanATizyante",
+            "upanATayizyante",
+            "upanATizyase",
+            "upanATayizyase",
+            "upanATizyeTe",
+            "upanATayizyeTe",
+            "upanATizyaDve",
+            "upanATayizyaDve",
+            "upanATizye",
+            "upanATayizye",
+            "upanATizyAvahe",
+            "upanATayizyAvahe",
+            "upanATizyAmahe",
+            "upanATayizyAmahe"
+          ],
+          "alung": [
+            "upAnATi",
+            "upAnATizAtAm",
+            "upAnATayizAtAm",
+            "upAnATizata",
+            "upAnATayizata",
+            "upAnATizWAH",
+            "upAnATayizWAH",
+            "upAnATizATAm",
+            "upAnATayizATAm",
+            "upAnATiDvam",
+            "upAnATayiQvam",
+            "upAnATayiDvam",
+            "upAnATizi",
+            "upAnATayizi",
+            "upAnATizvahi",
+            "upAnATayizvahi",
+            "upAnATizmahi",
+            "upAnATayizmahi"
+          ],
+          "alut": [
+            "upanATitA",
+            "upanATayitA",
+            "upanATitArO",
+            "upanATayitArO",
+            "upanATitAraH",
+            "upanATayitAraH",
+            "upanATitAse",
+            "upanATayitAse",
+            "upanATitAsATe",
+            "upanATayitAsATe",
+            "upanATitADve",
+            "upanATayitADve",
+            "upanATitAhe",
+            "upanATayitAhe",
+            "upanATitAsvahe",
+            "upanATayitAsvahe",
+            "upanATitAsmahe",
+            "upanATayitAsmahe"
+          ],
+          "avidhiling": [
+            "upanATyeta",
+            "upanATyeyAtAm",
+            "upanATyeran",
+            "upanATyeTAH",
+            "upanATyeyATAm",
+            "upanATyeDvam",
+            "upanATyeya",
+            "upanATyevahi",
+            "upanATyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "upanAnATizIzwa",
+            "upanAnATizIyAstAm",
+            "upanAnATizIran",
+            "upanAnATizIzWAH",
+            "upanAnATizIyAsTAm",
+            "upanAnATizIDvam",
+            "upanAnATizIya",
+            "upanAnATizIvahi",
+            "upanAnATizImahi"
+          ],
+          "alang": [
+            "upAnAnATyata",
+            "upAnAnATyetAm",
+            "upAnAnATyanta",
+            "upAnAnATyaTAH",
+            "upAnAnATyeTAm",
+            "upAnAnATyaDvam",
+            "upAnAnATye",
+            "upAnAnATyAvahi",
+            "upAnAnATyAmahi"
+          ],
+          "alat": [
+            "upanAnATyate",
+            "upanAnATyete",
+            "upanAnATyante",
+            "upanAnATyase",
+            "upanAnATyeTe",
+            "upanAnATyaDve",
+            "upanAnATye",
+            "upanAnATyAvahe",
+            "upanAnATyAmahe"
+          ],
+          "alit": [
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUvatuH",
+            "upanAnATAmAsatuH",
+            "upanAnATAYcakrAte",
+            "upanAnATAmbaBUvuH",
+            "upanAnATAmAsuH",
+            "upanAnATAYcakrire",
+            "upanAnATAmbaBUviTa",
+            "upanAnATAmAsiTa",
+            "upanAnATAYcakfze",
+            "upanAnATAmbaBUvaTuH",
+            "upanAnATAmAsaTuH",
+            "upanAnATAYcakrATe",
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakfQve",
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUviva",
+            "upanAnATAmAsiva",
+            "upanAnATAYcakfvahe",
+            "upanAnATAmbaBUvima",
+            "upanAnATAmAsima",
+            "upanAnATAYcakfmahe"
+          ],
+          "alot": [
+            "upanAnATyatAm",
+            "upanAnATyetAm",
+            "upanAnATyantAm",
+            "upanAnATyasva",
+            "upanAnATyeTAm",
+            "upanAnATyaDvam",
+            "upanAnATyE",
+            "upanAnATyAvahE",
+            "upanAnATyAmahE"
+          ],
+          "alrung": [
+            "upAnAnATizyata",
+            "upAnAnATizyetAm",
+            "upAnAnATizyanta",
+            "upAnAnATizyaTAH",
+            "upAnAnATizyeTAm",
+            "upAnAnATizyaDvam",
+            "upAnAnATizye",
+            "upAnAnATizyAvahi",
+            "upAnAnATizyAmahi"
+          ],
+          "alrut": [
+            "upanAnATizyate",
+            "upanAnATizyete",
+            "upanAnATizyante",
+            "upanAnATizyase",
+            "upanAnATizyeTe",
+            "upanAnATizyaDve",
+            "upanAnATizye",
+            "upanAnATizyAvahe",
+            "upanAnATizyAmahe"
+          ],
+          "alung": [
+            "upAnAnATizwa",
+            "upAnAnATizAtAm",
+            "upAnAnATizata",
+            "upAnAnATizWAH",
+            "upAnAnATizATAm",
+            "upAnAnATiDvam",
+            "upAnAnATizi",
+            "upAnAnATizvahi",
+            "upAnAnATizmahi"
+          ],
+          "alut": [
+            "upanAnATitA",
+            "upanAnATitArO",
+            "upanAnATitAraH",
+            "upanAnATitAse",
+            "upanAnATitAsATe",
+            "upanAnATitADve",
+            "upanAnATitAhe",
+            "upanAnATitAsvahe",
+            "upanAnATitAsmahe"
+          ],
+          "avidhiling": [
+            "upanAnATyeta",
+            "upanAnATyeyAtAm",
+            "upanAnATyeran",
+            "upanAnATyeTAH",
+            "upanAnATyeyATAm",
+            "upanAnATyeDvam",
+            "upanAnATyeya",
+            "upanAnATyevahi",
+            "upanAnATyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "upanAnATizIzwa",
+            "upanAnATizIyAstAm",
+            "upanAnATizIran",
+            "upanAnATizIzWAH",
+            "upanAnATizIyAsTAm",
+            "upanAnATizIDvam",
+            "upanAnATizIya",
+            "upanAnATizIvahi",
+            "upanAnATizImahi"
+          ],
+          "alang": [
+            "upAnAnATyata",
+            "upAnAnATyetAm",
+            "upAnAnATyanta",
+            "upAnAnATyaTAH",
+            "upAnAnATyeTAm",
+            "upAnAnATyaDvam",
+            "upAnAnATye",
+            "upAnAnATyAvahi",
+            "upAnAnATyAmahi"
+          ],
+          "alat": [
+            "upanAnATyate",
+            "upanAnATyete",
+            "upanAnATyante",
+            "upanAnATyase",
+            "upanAnATyeTe",
+            "upanAnATyaDve",
+            "upanAnATye",
+            "upanAnATyAvahe",
+            "upanAnATyAmahe"
+          ],
+          "alit": [
+            "upanAnATAmbaBUve",
+            "upanAnATAmAse",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUvAte",
+            "upanAnATAmAsAte",
+            "upanAnATAYcakrAte",
+            "upanAnATAmbaBUvire",
+            "upanAnATAmAsire",
+            "upanAnATAYcakrire",
+            "upanAnATAmbaBUvize",
+            "upanAnATAmAsize",
+            "upanAnATAYcakfze",
+            "upanAnATAmbaBUvATe",
+            "upanAnATAmAsATe",
+            "upanAnATAYcakrATe",
+            "upanAnATAmbaBUviQve",
+            "upanAnATAmAsiDve",
+            "upanAnATAYcakfQve",
+            "upanAnATAmbaBUve",
+            "upanAnATAmAhe",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUvivahe",
+            "upanAnATAmAsivahe",
+            "upanAnATAYcakfvahe",
+            "upanAnATAmbaBUvimahe",
+            "upanAnATAmAsimahe",
+            "upanAnATAYcakfmahe"
+          ],
+          "alot": [
+            "upanAnATyatAm",
+            "upanAnATyetAm",
+            "upanAnATyantAm",
+            "upanAnATyasva",
+            "upanAnATyeTAm",
+            "upanAnATyaDvam",
+            "upanAnATyE",
+            "upanAnATyAvahE",
+            "upanAnATyAmahE"
+          ],
+          "alrung": [
+            "upAnAnATizyata",
+            "upAnAnATizyetAm",
+            "upAnAnATizyanta",
+            "upAnAnATizyaTAH",
+            "upAnAnATizyeTAm",
+            "upAnAnATizyaDvam",
+            "upAnAnATizye",
+            "upAnAnATizyAvahi",
+            "upAnAnATizyAmahi"
+          ],
+          "alrut": [
+            "upanAnATizyate",
+            "upanAnATizyete",
+            "upanAnATizyante",
+            "upanAnATizyase",
+            "upanAnATizyeTe",
+            "upanAnATizyaDve",
+            "upanAnATizye",
+            "upanAnATizyAvahe",
+            "upanAnATizyAmahe"
+          ],
+          "alung": [
+            "upAnAnATi",
+            "upAnAnATizAtAm",
+            "upAnAnATizata",
+            "upAnAnATizWAH",
+            "upAnAnATizATAm",
+            "upAnAnATiDvam",
+            "upAnAnATizi",
+            "upAnAnATizvahi",
+            "upAnAnATizmahi"
+          ],
+          "alut": [
+            "upanAnATitA",
+            "upanAnATitArO",
+            "upanAnATitAraH",
+            "upanAnATitAse",
+            "upanAnATitAsATe",
+            "upanAnATitADve",
+            "upanAnATitAhe",
+            "upanAnATitAsvahe",
+            "upanAnATitAsmahe"
+          ],
+          "avidhiling": [
+            "upanAnATyeta",
+            "upanAnATyeyAtAm",
+            "upanAnATyeran",
+            "upanAnATyeTAH",
+            "upanAnATyeyATAm",
+            "upanAnATyeDvam",
+            "upanAnATyeya",
+            "upanAnATyevahi",
+            "upanAnATyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "upanAnATyAt",
+            "upanAnATyAd",
+            "upanAnATyAstAm",
+            "upanAnATyAsuH",
+            "upanAnATyAH",
+            "upanAnATyAstam",
+            "upanAnATyAsta",
+            "upanAnATyAsam",
+            "upanAnATyAsva",
+            "upanAnATyAsma"
+          ],
+          "plang": [
+            "upAnAnATIt",
+            "upAnAnATId",
+            "upAnAnAt",
+            "upAnAnAd",
+            "upAnAnAttAm",
+            "upAnAnATuH",
+            "upAnAnATIH",
+            "upAnAnAH",
+            "upAnAnAt",
+            "upAnAnAd",
+            "upAnAnAttam",
+            "upAnAnAtta",
+            "upAnAnATam",
+            "upAnAnATva",
+            "upAnAnATma"
+          ],
+          "plat": [
+            "upanAnATIti",
+            "upanAnAtti",
+            "upanAnAttaH",
+            "upanAnATati",
+            "upanAnATIzi",
+            "upanAnAtsi",
+            "upanAnAtTaH",
+            "upanAnAtTa",
+            "upanAnATImi",
+            "upanAnATmi",
+            "upanAnATvaH",
+            "upanAnATmaH"
+          ],
+          "plit": [
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakAra",
+            "upanAnATAmbaBUvatuH",
+            "upanAnATAmAsatuH",
+            "upanAnATAYcakratuH",
+            "upanAnATAmbaBUvuH",
+            "upanAnATAmAsuH",
+            "upanAnATAYcakruH",
+            "upanAnATAmbaBUviTa",
+            "upanAnATAmAsiTa",
+            "upanAnATAYcakarTa",
+            "upanAnATAmbaBUvaTuH",
+            "upanAnATAmAsaTuH",
+            "upanAnATAYcakraTuH",
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakra",
+            "upanAnATAmbaBUva",
+            "upanAnATAmAsa",
+            "upanAnATAYcakara",
+            "upanAnATAYcakAra",
+            "upanAnATAmbaBUviva",
+            "upanAnATAmAsiva",
+            "upanAnATAYcakfva",
+            "upanAnATAmbaBUvima",
+            "upanAnATAmAsima",
+            "upanAnATAYcakfma"
+          ],
+          "plot": [
+            "upanAnAttAt",
+            "upanAnAttAd",
+            "upanAnATItu",
+            "upanAnAttu",
+            "upanAnAttAm",
+            "upanAnATatu",
+            "upanAnAttAt",
+            "upanAnAttAd",
+            "upanAnAdDi",
+            "upanAnAttam",
+            "upanAnAtta",
+            "upanAnATAni",
+            "upanAnATAva",
+            "upanAnATAma"
+          ],
+          "plrung": [
+            "upAnAnATizyat",
+            "upAnAnATizyad",
+            "upAnAnATizyatAm",
+            "upAnAnATizyan",
+            "upAnAnATizyaH",
+            "upAnAnATizyatam",
+            "upAnAnATizyata",
+            "upAnAnATizyam",
+            "upAnAnATizyAva",
+            "upAnAnATizyAma"
+          ],
+          "plrut": [
+            "upanAnATizyati",
+            "upanAnATizyataH",
+            "upanAnATizyanti",
+            "upanAnATizyasi",
+            "upanAnATizyaTaH",
+            "upanAnATizyaTa",
+            "upanAnATizyAmi",
+            "upanAnATizyAvaH",
+            "upanAnATizyAmaH"
+          ],
+          "plung": [
+            "upAnAnATIt",
+            "upAnAnATId",
+            "upAnAnATizwAm",
+            "upAnAnATizuH",
+            "upAnAnATIH",
+            "upAnAnATizwam",
+            "upAnAnATizwa",
+            "upAnAnATizam",
+            "upAnAnATizva",
+            "upAnAnATizma"
+          ],
+          "plut": [
+            "upanAnATitA",
+            "upanAnATitArO",
+            "upanAnATitAraH",
+            "upanAnATitAsi",
+            "upanAnATitAsTaH",
+            "upanAnATitAsTa",
+            "upanAnATitAsmi",
+            "upanAnATitAsvaH",
+            "upanAnATitAsmaH"
+          ],
+          "pvidhiling": [
+            "upanAnATyAt",
+            "upanAnATyAd",
+            "upanAnATyAtAm",
+            "upanAnATyuH",
+            "upanAnATyAH",
+            "upanAnATyAtam",
+            "upanAnATyAta",
+            "upanAnATyAm",
+            "upanAnATyAva",
+            "upanAnATyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "upanAnATizIzwa",
+            "upanAnATizIyAstAm",
+            "upanAnATizIran",
+            "upanAnATizIzWAH",
+            "upanAnATizIyAsTAm",
+            "upanAnATizIDvam",
+            "upanAnATizIya",
+            "upanAnATizIvahi",
+            "upanAnATizImahi"
+          ],
+          "alang": [
+            "upAnAnATyata",
+            "upAnAnATyetAm",
+            "upAnAnATyanta",
+            "upAnAnATyaTAH",
+            "upAnAnATyeTAm",
+            "upAnAnATyaDvam",
+            "upAnAnATye",
+            "upAnAnATyAvahi",
+            "upAnAnATyAmahi"
+          ],
+          "alat": [
+            "upanAnATyate",
+            "upanAnATyete",
+            "upanAnATyante",
+            "upanAnATyase",
+            "upanAnATyeTe",
+            "upanAnATyaDve",
+            "upanAnATye",
+            "upanAnATyAvahe",
+            "upanAnATyAmahe"
+          ],
+          "alit": [
+            "upanAnATAmbaBUve",
+            "upanAnATAmAse",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUvAte",
+            "upanAnATAmAsAte",
+            "upanAnATAYcakrAte",
+            "upanAnATAmbaBUvire",
+            "upanAnATAmAsire",
+            "upanAnATAYcakrire",
+            "upanAnATAmbaBUvize",
+            "upanAnATAmAsize",
+            "upanAnATAYcakfze",
+            "upanAnATAmbaBUvATe",
+            "upanAnATAmAsATe",
+            "upanAnATAYcakrATe",
+            "upanAnATAmbaBUviQve",
+            "upanAnATAmAsiDve",
+            "upanAnATAYcakfQve",
+            "upanAnATAmbaBUve",
+            "upanAnATAmAhe",
+            "upanAnATAYcakre",
+            "upanAnATAmbaBUvivahe",
+            "upanAnATAmAsivahe",
+            "upanAnATAYcakfvahe",
+            "upanAnATAmbaBUvimahe",
+            "upanAnATAmAsimahe",
+            "upanAnATAYcakfmahe"
+          ],
+          "alot": [
+            "upanAnATyatAm",
+            "upanAnATyetAm",
+            "upanAnATyantAm",
+            "upanAnATyasva",
+            "upanAnATyeTAm",
+            "upanAnATyaDvam",
+            "upanAnATyE",
+            "upanAnATyAvahE",
+            "upanAnATyAmahE"
+          ],
+          "alrung": [
+            "upAnAnATizyata",
+            "upAnAnATizyetAm",
+            "upAnAnATizyanta",
+            "upAnAnATizyaTAH",
+            "upAnAnATizyeTAm",
+            "upAnAnATizyaDvam",
+            "upAnAnATizye",
+            "upAnAnATizyAvahi",
+            "upAnAnATizyAmahi"
+          ],
+          "alrut": [
+            "upanAnATizyate",
+            "upanAnATizyete",
+            "upanAnATizyante",
+            "upanAnATizyase",
+            "upanAnATizyeTe",
+            "upanAnATizyaDve",
+            "upanAnATizye",
+            "upanAnATizyAvahe",
+            "upanAnATizyAmahe"
+          ],
+          "alung": [
+            "upAnAnATi",
+            "upAnAnATizAtAm",
+            "upAnAnATizata",
+            "upAnAnATizWAH",
+            "upAnAnATizATAm",
+            "upAnAnATiDvam",
+            "upAnAnATizi",
+            "upAnAnATizvahi",
+            "upAnAnATizmahi"
+          ],
+          "alut": [
+            "upanAnATitA",
+            "upanAnATitArO",
+            "upanAnATitAraH",
+            "upanAnATitAse",
+            "upanAnATitAsATe",
+            "upanAnATitADve",
+            "upanAnATitAhe",
+            "upanAnATitAsvahe",
+            "upanAnATitAsmahe"
+          ],
+          "avidhiling": [
+            "upanAnATyeta",
+            "upanAnATyeyAtAm",
+            "upanAnATyeran",
+            "upanAnATyeTAH",
+            "upanAnATyeyATAm",
+            "upanAnATyeDvam",
+            "upanAnATyeya",
+            "upanAnATyevahi",
+            "upanAnATyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "upanATA",
+              "m": "",
+              "f": "upanATA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upanATa",
+              "m": "upanATaH",
+              "f": "upanATA",
+              "n": "upanATam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upanATanIya",
+              "m": "upanATanIyaH",
+              "f": "upanATanIyA",
+              "n": "upanATanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upanATita",
+              "m": "upanATitaH",
+              "f": "upanATitA",
+              "n": "upanATitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upanATitavat",
+              "m": "upanATitavAn",
+              "f": "upanATitavatI",
+              "n": "upanATitavat/upanATitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upanAtti",
+              "m": "",
+              "f": "upanAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upananATvas",
+              "m": "upananATvAn",
+              "f": "upananATuzI",
+              "n": "upananATvat/upananATvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upanATa",
+              "m": "upanATaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upanATamAna",
+              "m": "upanATamAnaH",
+              "f": "upanATamAnA",
+              "n": "upanATamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upanATam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "upanATya",
+              "m": "upanATyaH",
+              "f": "upanATyA",
+              "n": "upanATyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upanATaka",
+              "m": "upanATakaH",
+              "f": "upanATikA",
+              "n": "upanATakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upanATitavya",
+              "m": "upanATitavyaH",
+              "f": "upanATitavyA",
+              "n": "upanATitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upanATitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upanATitf",
+              "m": "upanATitA",
+              "f": "upanATitrI",
+              "n": "upanATitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upanATamAna",
+              "m": "upanATamAnaH",
+              "f": "upanATamAnA",
+              "n": "upanATamAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upanATya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upanATana",
+              "m": "",
+              "f": "",
+              "n": "upanATanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upanATaka",
+              "m": "upanATakaH",
+              "f": "upanATikA",
+              "n": "upanATakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upanATat",
+              "m": "upanATan",
+              "f": "upanATantI",
+              "n": "upanATat/upanATad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upanATamAna",
+              "m": "upanATamAnaH",
+              "f": "upanATamAnA",
+              "n": "upanATamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upanATamAna",
+              "m": "upanATamAnaH",
+              "f": "upanATamAnA",
+              "n": "upanATamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upanATat",
+              "m": "upanATan",
+              "f": "upanATatI/upanATantI",
+              "n": "upanATat/upanATad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upanATamAna",
+              "m": "upanATamAnaH",
+              "f": "upanATamAnA",
+              "n": "upanATamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "upaninATizA",
+              "m": "",
+              "f": "upaninATizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upaninATiza",
+              "m": "upaninATizaH",
+              "f": "upaninATizA",
+              "n": "upaninATizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaninATizaRIya",
+              "m": "upaninATizaRIyaH",
+              "f": "upaninATizaRIyA",
+              "n": "upaninATizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "upaninATizu",
+              "m": "upaninATizuH",
+              "f": "upaninATizuH",
+              "n": "upaninATizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaninATizita",
+              "m": "upaninATizitaH",
+              "f": "upaninATizitA",
+              "n": "upaninATizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaninATizitavat",
+              "m": "upaninATizitavAn",
+              "f": "upaninATizitavatI",
+              "n": "upaninATizitavat/upaninATizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaninATizwi",
+              "m": "",
+              "f": "upaninATizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaninATizAmbaBUvas",
+              "m": "upaninATizAmbaBUvAn",
+              "f": "upaninATizAmbaBUzI",
+              "n": "upaninATizAmbaBUvat/upaninATizAmbaBUvad"
+            },
+            {
+              "base": "upaninATizAmAsivas",
+              "m": "upaninATizAmAsivAn",
+              "f": "upaninATizAmAsyuzI",
+              "n": "upaninATizAmAsivat/upaninATizAmAsivad"
+            },
+            {
+              "base": "upaninATizAYcakfvas",
+              "m": "upaninATizAYcakfvAn",
+              "f": "upaninATizAYcakruzI",
+              "n": "upaninATizAYcakfvat/upaninATizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upaninATiza",
+              "m": "upaninATizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaninATizamARa",
+              "m": "upaninATizamARaH",
+              "f": "upaninATizamARA",
+              "n": "upaninATizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaninATizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaninATizaka",
+              "m": "upaninATizakaH",
+              "f": "upaninATizikA",
+              "n": "upaninATizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaninATizitavya",
+              "m": "upaninATizitavyaH",
+              "f": "upaninATizitavyA",
+              "n": "upaninATizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaninATizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaninATizitf",
+              "m": "upaninATizitA",
+              "f": "upaninATizitrI",
+              "n": "upaninATizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upaninATizamARa",
+              "m": "upaninATizamARaH",
+              "f": "upaninATizamARA",
+              "n": "upaninATizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upaninATizya",
+              "m": "upaninATizyaH",
+              "f": "upaninATizyA",
+              "n": "upaninATizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaninATizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaninATizaRa",
+              "m": "",
+              "f": "",
+              "n": "upaninATizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaninATizaka",
+              "m": "upaninATizakaH",
+              "f": "upaninATizikA",
+              "n": "upaninATizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upaninATizat",
+              "m": "upaninATizan",
+              "f": "upaninATizantI",
+              "n": "upaninATizat/upaninATizad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upaninATizamARa",
+              "m": "upaninATizamARaH",
+              "f": "upaninATizamARA",
+              "n": "upaninATizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upaninATizamARa",
+              "m": "upaninATizamARaH",
+              "f": "upaninATizamARA",
+              "n": "upaninATizamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upaninATizat",
+              "m": "upaninATizan",
+              "f": "upaninATizatI/upaninATizantI",
+              "n": "upaninATizat/upaninATizad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upaninATizamARa",
+              "m": "upaninATizamARaH",
+              "f": "upaninATizamARA",
+              "n": "upaninATizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "upanATa",
+              "m": "upanATaH",
+              "f": "upanATA",
+              "n": "upanATam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upanATanIya",
+              "m": "upanATanIyaH",
+              "f": "upanATanIyA",
+              "n": "upanATanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upanATita",
+              "m": "upanATitaH",
+              "f": "upanATitA",
+              "n": "upanATitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upanATitavat",
+              "m": "upanATitavAn",
+              "f": "upanATitavatI",
+              "n": "upanATitavat/upanATitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upanAtti",
+              "m": "",
+              "f": "upanAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upanATayAmbaBUvas",
+              "m": "upanATayAmbaBUvAn",
+              "f": "upanATayAmbaBUzI",
+              "n": "upanATayAmbaBUvat/upanATayAmbaBUvad"
+            },
+            {
+              "base": "upanATayAmAsivas",
+              "m": "upanATayAmAsivAn",
+              "f": "upanATayAmAsyuzI",
+              "n": "upanATayAmAsivat/upanATayAmAsivad"
+            },
+            {
+              "base": "upanATayAYcakfvas",
+              "m": "upanATayAYcakfvAn",
+              "f": "upanATayAYcakruzI",
+              "n": "upanATayAYcakfvat/upanATayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upanATayamAna",
+              "m": "upanATayamAnaH",
+              "f": "upanATayamAnA",
+              "n": "upanATayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upanATam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upanATaka",
+              "m": "upanATakaH",
+              "f": "upanATikA",
+              "n": "upanATakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upanATayitavya",
+              "m": "upanATayitavyaH",
+              "f": "upanATayitavyA",
+              "n": "upanATayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upanATayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upanATayitf",
+              "m": "upanATayitA",
+              "f": "upanATayitrI",
+              "n": "upanATayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upanATayamAna",
+              "m": "upanATayamAnaH",
+              "f": "upanATayamAnA",
+              "n": "upanATayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upanATya",
+              "m": "upanATyaH",
+              "f": "upanATyA",
+              "n": "upanATyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upanATya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upanATana",
+              "m": "",
+              "f": "",
+              "n": "upanATanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upanATaka",
+              "m": "upanATakaH",
+              "f": "upanATikA",
+              "n": "upanATakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upanATayat",
+              "m": "upanATayan",
+              "f": "upanATayantI",
+              "n": "upanATayat/upanATayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upanATayamAna",
+              "m": "upanATayamAnaH",
+              "f": "upanATayamAnA",
+              "n": "upanATayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upanATayamAna",
+              "m": "upanATayamAnaH",
+              "f": "upanATayamAnA",
+              "n": "upanATayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upanATayat",
+              "m": "upanATayan",
+              "f": "upanATayatI/upanATayantI",
+              "n": "upanATayat/upanATayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upanATayamAna",
+              "m": "upanATayamAnaH",
+              "f": "upanATayamAnA",
+              "n": "upanATayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "upanAnATA",
+              "m": "",
+              "f": "upanAnATA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upanAnATa",
+              "m": "upanAnATaH",
+              "f": "upanAnATA",
+              "n": "upanAnATam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upanAnATanIya",
+              "m": "upanAnATanIyaH",
+              "f": "upanAnATanIyA",
+              "n": "upanAnATanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upanAnATita",
+              "m": "upanAnATitaH",
+              "f": "upanAnATitA",
+              "n": "upanAnATitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upanAnATitavat",
+              "m": "upanAnATitavAn",
+              "f": "upanAnATitavatI",
+              "n": "upanAnATitavat/upanAnATitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upanAnAtti",
+              "m": "",
+              "f": "upanAnAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upanAnATAmbaBUvas",
+              "m": "upanAnATAmbaBUvAn",
+              "f": "upanAnATAmbaBUzI",
+              "n": "upanAnATAmbaBUvat/upanAnATAmbaBUvad"
+            },
+            {
+              "base": "upanAnATAmAsivas",
+              "m": "upanAnATAmAsivAn",
+              "f": "upanAnATAmAsyuzI",
+              "n": "upanAnATAmAsivat/upanAnATAmAsivad"
+            },
+            {
+              "base": "upanAnATAYcakfvas",
+              "m": "upanAnATAYcakfvAn",
+              "f": "upanAnATAYcakruzI",
+              "n": "upanAnATAYcakfvat/upanAnATAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upanAnATa",
+              "m": "upanAnATaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upanAnATyamAna",
+              "m": "upanAnATyamAnaH",
+              "f": "upanAnATyamAnA",
+              "n": "upanAnATyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upanAnATam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upanAnATaka",
+              "m": "upanAnATakaH",
+              "f": "upanAnATikA",
+              "n": "upanAnATakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upanAnATitavya",
+              "m": "upanAnATitavyaH",
+              "f": "upanAnATitavyA",
+              "n": "upanAnATitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upanAnATitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upanAnATitf",
+              "m": "upanAnATitA",
+              "f": "upanAnATitrI",
+              "n": "upanAnATitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upanAnATyamAna",
+              "m": "upanAnATyamAnaH",
+              "f": "upanAnATyamAnA",
+              "n": "upanAnATyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upanAnATya",
+              "m": "upanAnATyaH",
+              "f": "upanAnATyA",
+              "n": "upanAnATyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upanAnATya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upanAnATana",
+              "m": "",
+              "f": "",
+              "n": "upanAnATanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upanAnATaka",
+              "m": "upanAnATakaH",
+              "f": "upanAnATikA",
+              "n": "upanAnATakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upanAnATyamAna",
+              "m": "upanAnATyamAnaH",
+              "f": "upanAnATyamAnA",
+              "n": "upanAnATyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upanAnATyamAna",
+              "m": "upanAnATyamAnaH",
+              "f": "upanAnATyamAnA",
+              "n": "upanAnATyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upanAnATyamAna",
+              "m": "upanAnATyamAnaH",
+              "f": "upanAnATyamAnA",
+              "n": "upanAnATyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "upanAnATA",
+              "m": "",
+              "f": "upanAnATA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upanAnATa",
+              "m": "upanAnATaH",
+              "f": "upanAnATA",
+              "n": "upanAnATam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upanAnATanIya",
+              "m": "upanAnATanIyaH",
+              "f": "upanAnATanIyA",
+              "n": "upanAnATanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upanAnATita",
+              "m": "upanAnATitaH",
+              "f": "upanAnATitA",
+              "n": "upanAnATitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upanAnATitavat",
+              "m": "upanAnATitavAn",
+              "f": "upanAnATitavatI",
+              "n": "upanAnATitavat/upanAnATitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upanAnAtti",
+              "m": "",
+              "f": "upanAnAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upanAnATAmbaBUvas",
+              "m": "upanAnATAmbaBUvAn",
+              "f": "upanAnATAmbaBUzI",
+              "n": "upanAnATAmbaBUvat/upanAnATAmbaBUvad"
+            },
+            {
+              "base": "upanAnATAmAsivas",
+              "m": "upanAnATAmAsivAn",
+              "f": "upanAnATAmAsyuzI",
+              "n": "upanAnATAmAsivat/upanAnATAmAsivad"
+            },
+            {
+              "base": "upanAnATAYcakfvas",
+              "m": "upanAnATAYcakfvAn",
+              "f": "upanAnATAYcakruzI",
+              "n": "upanAnATAYcakfvat/upanAnATAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upanAnATa",
+              "m": "upanAnATaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upanAnATAna",
+              "m": "upanAnATAnaH",
+              "f": "upanAnATAnA",
+              "n": "upanAnATAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upanAnATam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upanAnATaka",
+              "m": "upanAnATakaH",
+              "f": "upanAnATikA",
+              "n": "upanAnATakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upanAnATitavya",
+              "m": "upanAnATitavyaH",
+              "f": "upanAnATitavyA",
+              "n": "upanAnATitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upanAnATitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upanAnATitf",
+              "m": "upanAnATitA",
+              "f": "upanAnATitrI",
+              "n": "upanAnATitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upanAnATya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upanAnATana",
+              "m": "",
+              "f": "",
+              "n": "upanAnATanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upanAnATaka",
+              "m": "upanAnATakaH",
+              "f": "upanAnATikA",
+              "n": "upanAnATakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upanAnATat",
+              "m": "upanAnATan",
+              "f": "upanAnATatI",
+              "n": "upanAnATat/upanAnATad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upanAnATat",
+              "m": "upanAnATan",
+              "f": "upanAnATatI/upanAnATantI",
+              "n": "upanAnATat/upanAnATad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

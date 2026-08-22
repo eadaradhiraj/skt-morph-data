@@ -1,0 +1,3953 @@
+{
+  "id": "10.0249",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "divu~"
+    },
+    {
+      "name": "arTaH",
+      "value": "mardane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to rub, to massage"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "mardana karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "' ardane ' iti kzIrasvAmyAdayaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1725"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1725"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2571",
+      "ext_link": "/sutraani/sk2571?scroll=sutra-commentary-kaumudi-region&highlight=daivau"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "devayizIzwa",
+        "devayizIyAstAm",
+        "devayizIran",
+        "devayizIzWAH",
+        "devayizIyAsTAm",
+        "devayizIQvam",
+        "devayizIDvam",
+        "devayizIya",
+        "devayizIvahi",
+        "devayizImahi"
+      ],
+      "alang": [
+        "adevayata",
+        "adevayetAm",
+        "adevayanta",
+        "adevayaTAH",
+        "adevayeTAm",
+        "adevayaDvam",
+        "adevaye",
+        "adevayAvahi",
+        "adevayAmahi"
+      ],
+      "alat": [
+        "devayate",
+        "devayete",
+        "devayante",
+        "devayase",
+        "devayeTe",
+        "devayaDve",
+        "devaye",
+        "devayAvahe",
+        "devayAmahe"
+      ],
+      "alit": [
+        "devayAYcakre",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakrAte",
+        "devayAmAsatuH",
+        "devayAmbaBUvatuH",
+        "devayAYcakrire",
+        "devayAmAsuH",
+        "devayAmbaBUvuH",
+        "devayAYcakfze",
+        "devayAmAsiTa",
+        "devayAmbaBUviTa",
+        "devayAYcakrATe",
+        "devayAmAsaTuH",
+        "devayAmbaBUvaTuH",
+        "devayAYcakfQve",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakre",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakfvahe",
+        "devayAmAsiva",
+        "devayAmbaBUviva",
+        "devayAYcakfmahe",
+        "devayAmAsima",
+        "devayAmbaBUvima"
+      ],
+      "alot": [
+        "devayatAm",
+        "devayetAm",
+        "devayantAm",
+        "devayasva",
+        "devayeTAm",
+        "devayaDvam",
+        "devayE",
+        "devayAvahE",
+        "devayAmahE"
+      ],
+      "alrung": [
+        "adevayizyata",
+        "adevayizyetAm",
+        "adevayizyanta",
+        "adevayizyaTAH",
+        "adevayizyeTAm",
+        "adevayizyaDvam",
+        "adevayizye",
+        "adevayizyAvahi",
+        "adevayizyAmahi"
+      ],
+      "alrut": [
+        "devayizyate",
+        "devayizyete",
+        "devayizyante",
+        "devayizyase",
+        "devayizyeTe",
+        "devayizyaDve",
+        "devayizye",
+        "devayizyAvahe",
+        "devayizyAmahe"
+      ],
+      "alung": [
+        "adIdivata",
+        "adIdivetAm",
+        "adIdivanta",
+        "adIdivaTAH",
+        "adIdiveTAm",
+        "adIdivaDvam",
+        "adIdive",
+        "adIdivAvahi",
+        "adIdivAmahi"
+      ],
+      "alut": [
+        "devayitA",
+        "devayitArO",
+        "devayitAraH",
+        "devayitAse",
+        "devayitAsATe",
+        "devayitADve",
+        "devayitAhe",
+        "devayitAsvahe",
+        "devayitAsmahe"
+      ],
+      "avidhiling": [
+        "devayeta",
+        "devayeyAtAm",
+        "devayeran",
+        "devayeTAH",
+        "devayeyATAm",
+        "devayeDvam",
+        "devayeya",
+        "devayevahi",
+        "devayemahi"
+      ],
+      "pashirling": [
+        "dIvyAt",
+        "dIvyAd",
+        "devyAt",
+        "devyAd",
+        "dIvyAstAm",
+        "devyAstAm",
+        "dIvyAsuH",
+        "devyAsuH",
+        "dIvyAH",
+        "devyAH",
+        "dIvyAstam",
+        "devyAstam",
+        "dIvyAsta",
+        "devyAsta",
+        "dIvyAsam",
+        "devyAsam",
+        "dIvyAsva",
+        "devyAsva",
+        "dIvyAsma",
+        "devyAsma"
+      ],
+      "plang": [
+        "adevat",
+        "adevad",
+        "adevayat",
+        "adevayad",
+        "adevatAm",
+        "adevayatAm",
+        "adevan",
+        "adevayan",
+        "adevaH",
+        "adevayaH",
+        "adevatam",
+        "adevayatam",
+        "adevata",
+        "adevayata",
+        "adevam",
+        "adevayam",
+        "adevayAva",
+        "adevAva",
+        "adevayAma",
+        "adevAma"
+      ],
+      "plat": [
+        "devati",
+        "devayati",
+        "devataH",
+        "devayataH",
+        "devanti",
+        "devayanti",
+        "devayasi",
+        "devasi",
+        "devaTaH",
+        "devayaTaH",
+        "devaTa",
+        "devayaTa",
+        "devayAmi",
+        "devAmi",
+        "devayAvaH",
+        "devAvaH",
+        "devayAmaH",
+        "devAmaH"
+      ],
+      "plit": [
+        "dideva",
+        "devayAYcakAra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "didivatuH",
+        "devayAYcakratuH",
+        "devayAmAsatuH",
+        "devayAmbaBUvatuH",
+        "didivuH",
+        "devayAYcakruH",
+        "devayAmAsuH",
+        "devayAmbaBUvuH",
+        "dideviTa",
+        "devayAYcakarTa",
+        "devayAmAsiTa",
+        "devayAmbaBUviTa",
+        "didivaTuH",
+        "devayAYcakraTuH",
+        "devayAmAsaTuH",
+        "devayAmbaBUvaTuH",
+        "didiva",
+        "devayAYcakra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "dideva",
+        "devayAYcakara",
+        "devayAYcakAra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "didiviva",
+        "devayAYcakfva",
+        "devayAmAsiva",
+        "devayAmbaBUviva",
+        "didivima",
+        "devayAYcakfma",
+        "devayAmAsima",
+        "devayAmbaBUvima"
+      ],
+      "plot": [
+        "devatAt",
+        "devatAd",
+        "devatu",
+        "devayatAt",
+        "devayatAd",
+        "devayatu",
+        "devatAm",
+        "devayatAm",
+        "devantu",
+        "devayantu",
+        "deva",
+        "devatAt",
+        "devatAd",
+        "devaya",
+        "devayatAt",
+        "devayatAd",
+        "devatam",
+        "devayatam",
+        "devata",
+        "devayata",
+        "devayAni",
+        "devAni",
+        "devayAva",
+        "devAva",
+        "devayAma",
+        "devAma"
+      ],
+      "plrung": [
+        "adevayizyat",
+        "adevayizyad",
+        "adevizyat",
+        "adevizyad",
+        "adevayizyatAm",
+        "adevizyatAm",
+        "adevayizyan",
+        "adevizyan",
+        "adevayizyaH",
+        "adevizyaH",
+        "adevayizyatam",
+        "adevizyatam",
+        "adevayizyata",
+        "adevizyata",
+        "adevayizyam",
+        "adevizyam",
+        "adevayizyAva",
+        "adevizyAva",
+        "adevayizyAma",
+        "adevizyAma"
+      ],
+      "plrut": [
+        "devayizyati",
+        "devizyati",
+        "devayizyataH",
+        "devizyataH",
+        "devayizyanti",
+        "devizyanti",
+        "devayizyasi",
+        "devizyasi",
+        "devayizyaTaH",
+        "devizyaTaH",
+        "devayizyaTa",
+        "devizyaTa",
+        "devayizyAmi",
+        "devizyAmi",
+        "devayizyAvaH",
+        "devizyAvaH",
+        "devayizyAmaH",
+        "devizyAmaH"
+      ],
+      "plung": [
+        "adIdivat",
+        "adIdivad",
+        "adevIt",
+        "adevId",
+        "adIdivatAm",
+        "adevizwAm",
+        "adIdivan",
+        "adevizuH",
+        "adIdivaH",
+        "adevIH",
+        "adIdivatam",
+        "adevizwam",
+        "adIdivata",
+        "adevizwa",
+        "adIdivam",
+        "adevizam",
+        "adIdivAva",
+        "adevizva",
+        "adIdivAma",
+        "adevizma"
+      ],
+      "plut": [
+        "devayitA",
+        "devitA",
+        "devayitArO",
+        "devitArO",
+        "devayitAraH",
+        "devitAraH",
+        "devayitAsi",
+        "devitAsi",
+        "devayitAsTaH",
+        "devitAsTaH",
+        "devayitAsTa",
+        "devitAsTa",
+        "devayitAsmi",
+        "devitAsmi",
+        "devayitAsvaH",
+        "devitAsvaH",
+        "devayitAsmaH",
+        "devitAsmaH"
+      ],
+      "pvidhiling": [
+        "devayet",
+        "devayed",
+        "devet",
+        "deved",
+        "devayetAm",
+        "devetAm",
+        "devayeyuH",
+        "deveyuH",
+        "devayeH",
+        "deveH",
+        "devayetam",
+        "devetam",
+        "devayeta",
+        "deveta",
+        "devayeyam",
+        "deveyam",
+        "devayeva",
+        "deveva",
+        "devayema",
+        "devema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "devayizIzwa",
+        "devizIzwa",
+        "devayizIyAstAm",
+        "devizIyAstAm",
+        "devayizIran",
+        "devizIran",
+        "devayizIzWAH",
+        "devizIzWAH",
+        "devayizIyAsTAm",
+        "devizIyAsTAm",
+        "devayizIQvam",
+        "devayizIDvam",
+        "devizIQvam",
+        "devizIDvam",
+        "devayizIya",
+        "devizIya",
+        "devayizIvahi",
+        "devizIvahi",
+        "devayizImahi",
+        "devizImahi"
+      ],
+      "alang": [
+        "adIvyata",
+        "adevyata",
+        "adIvyetAm",
+        "adevyetAm",
+        "adIvyanta",
+        "adevyanta",
+        "adIvyaTAH",
+        "adevyaTAH",
+        "adIvyeTAm",
+        "adevyeTAm",
+        "adIvyaDvam",
+        "adevyaDvam",
+        "adIvye",
+        "adevye",
+        "adIvyAvahi",
+        "adevyAvahi",
+        "adIvyAmahi",
+        "adevyAmahi"
+      ],
+      "alat": [
+        "dIvyate",
+        "devyate",
+        "dIvyete",
+        "devyete",
+        "dIvyante",
+        "devyante",
+        "dIvyase",
+        "devyase",
+        "dIvyeTe",
+        "devyeTe",
+        "dIvyaDve",
+        "devyaDve",
+        "dIvye",
+        "devye",
+        "dIvyAvahe",
+        "devyAvahe",
+        "dIvyAmahe",
+        "devyAmahe"
+      ],
+      "alit": [
+        "didive",
+        "devayAYcakre",
+        "devayAmAse",
+        "devayAmbaBUve",
+        "didivAte",
+        "devayAYcakrAte",
+        "devayAmAsAte",
+        "devayAmbaBUvAte",
+        "didivire",
+        "devayAYcakrire",
+        "devayAmAsire",
+        "devayAmbaBUvire",
+        "didivize",
+        "devayAYcakfze",
+        "devayAmAsize",
+        "devayAmbaBUvize",
+        "didivATe",
+        "devayAYcakrATe",
+        "devayAmAsATe",
+        "devayAmbaBUvATe",
+        "didiviQve",
+        "didiviDve",
+        "devayAYcakfQve",
+        "devayAmAsiDve",
+        "devayAmbaBUviQve",
+        "didive",
+        "devayAYcakre",
+        "devayAmAhe",
+        "devayAmbaBUve",
+        "didivivahe",
+        "devayAYcakfvahe",
+        "devayAmAsivahe",
+        "devayAmbaBUvivahe",
+        "didivimahe",
+        "devayAYcakfmahe",
+        "devayAmAsimahe",
+        "devayAmbaBUvimahe"
+      ],
+      "alot": [
+        "dIvyatAm",
+        "devyatAm",
+        "dIvyetAm",
+        "devyetAm",
+        "dIvyantAm",
+        "devyantAm",
+        "dIvyasva",
+        "devyasva",
+        "dIvyeTAm",
+        "devyeTAm",
+        "dIvyaDvam",
+        "devyaDvam",
+        "dIvyE",
+        "devyE",
+        "dIvyAvahE",
+        "devyAvahE",
+        "dIvyAmahE",
+        "devyAmahE"
+      ],
+      "alrung": [
+        "adevayizyata",
+        "adevizyata",
+        "adevayizyetAm",
+        "adevizyetAm",
+        "adevayizyanta",
+        "adevizyanta",
+        "adevayizyaTAH",
+        "adevizyaTAH",
+        "adevayizyeTAm",
+        "adevizyeTAm",
+        "adevayizyaDvam",
+        "adevizyaDvam",
+        "adevayizye",
+        "adevizye",
+        "adevayizyAvahi",
+        "adevizyAvahi",
+        "adevayizyAmahi",
+        "adevizyAmahi"
+      ],
+      "alrut": [
+        "devayizyate",
+        "devizyate",
+        "devayizyete",
+        "devizyete",
+        "devayizyante",
+        "devizyante",
+        "devayizyase",
+        "devizyase",
+        "devayizyeTe",
+        "devizyeTe",
+        "devayizyaDve",
+        "devizyaDve",
+        "devayizye",
+        "devizye",
+        "devayizyAvahe",
+        "devizyAvahe",
+        "devayizyAmahe",
+        "devizyAmahe"
+      ],
+      "alung": [
+        "adevi",
+        "adevayizAtAm",
+        "adevizAtAm",
+        "adevayizata",
+        "adevizata",
+        "adevayizWAH",
+        "adevizWAH",
+        "adevayizATAm",
+        "adevizATAm",
+        "adevayiQvam",
+        "adevayiDvam",
+        "adeviQvam",
+        "adeviDvam",
+        "adevayizi",
+        "adevizi",
+        "adevayizvahi",
+        "adevizvahi",
+        "adevayizmahi",
+        "adevizmahi"
+      ],
+      "alut": [
+        "devayitA",
+        "devitA",
+        "devayitArO",
+        "devitArO",
+        "devayitAraH",
+        "devitAraH",
+        "devayitAse",
+        "devitAse",
+        "devayitAsATe",
+        "devitAsATe",
+        "devayitADve",
+        "devitADve",
+        "devayitAhe",
+        "devitAhe",
+        "devayitAsvahe",
+        "devitAsvahe",
+        "devayitAsmahe",
+        "devitAsmahe"
+      ],
+      "avidhiling": [
+        "dIvyeta",
+        "devyeta",
+        "dIvyeyAtAm",
+        "devyeyAtAm",
+        "dIvyeran",
+        "devyeran",
+        "dIvyeTAH",
+        "devyeTAH",
+        "dIvyeyATAm",
+        "devyeyATAm",
+        "dIvyeDvam",
+        "devyeDvam",
+        "dIvyeya",
+        "devyeya",
+        "dIvyevahi",
+        "devyevahi",
+        "dIvyemahi",
+        "devyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "didevayizizIzwa",
+        "didevayizizIyAstAm",
+        "didevayizizIran",
+        "didevayizizIzWAH",
+        "didevayizizIyAsTAm",
+        "didevayizizIDvam",
+        "didevayizizIya",
+        "didevayizizIvahi",
+        "didevayizizImahi"
+      ],
+      "alang": [
+        "adidevayizata",
+        "adidevayizetAm",
+        "adidevayizanta",
+        "adidevayizaTAH",
+        "adidevayizeTAm",
+        "adidevayizaDvam",
+        "adidevayize",
+        "adidevayizAvahi",
+        "adidevayizAmahi"
+      ],
+      "alat": [
+        "didevayizate",
+        "didevayizete",
+        "didevayizante",
+        "didevayizase",
+        "didevayizeTe",
+        "didevayizaDve",
+        "didevayize",
+        "didevayizAvahe",
+        "didevayizAmahe"
+      ],
+      "alit": [
+        "didevayizAYcakre",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevayizAYcakrAte",
+        "didevayizAmAsatuH",
+        "didevayizAmbaBUvatuH",
+        "didevayizAYcakrire",
+        "didevayizAmAsuH",
+        "didevayizAmbaBUvuH",
+        "didevayizAYcakfze",
+        "didevayizAmAsiTa",
+        "didevayizAmbaBUviTa",
+        "didevayizAYcakrATe",
+        "didevayizAmAsaTuH",
+        "didevayizAmbaBUvaTuH",
+        "didevayizAYcakfQve",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevayizAYcakre",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevayizAYcakfvahe",
+        "didevayizAmAsiva",
+        "didevayizAmbaBUviva",
+        "didevayizAYcakfmahe",
+        "didevayizAmAsima",
+        "didevayizAmbaBUvima"
+      ],
+      "alot": [
+        "didevayizatAm",
+        "didevayizetAm",
+        "didevayizantAm",
+        "didevayizasva",
+        "didevayizeTAm",
+        "didevayizaDvam",
+        "didevayizE",
+        "didevayizAvahE",
+        "didevayizAmahE"
+      ],
+      "alrung": [
+        "adidevayizizyata",
+        "adidevayizizyetAm",
+        "adidevayizizyanta",
+        "adidevayizizyaTAH",
+        "adidevayizizyeTAm",
+        "adidevayizizyaDvam",
+        "adidevayizizye",
+        "adidevayizizyAvahi",
+        "adidevayizizyAmahi"
+      ],
+      "alrut": [
+        "didevayizizyate",
+        "didevayizizyete",
+        "didevayizizyante",
+        "didevayizizyase",
+        "didevayizizyeTe",
+        "didevayizizyaDve",
+        "didevayizizye",
+        "didevayizizyAvahe",
+        "didevayizizyAmahe"
+      ],
+      "alung": [
+        "adidevayizizwa",
+        "adidevayizizAtAm",
+        "adidevayizizata",
+        "adidevayizizWAH",
+        "adidevayizizATAm",
+        "adidevayiziDvam",
+        "adidevayizizi",
+        "adidevayizizvahi",
+        "adidevayizizmahi"
+      ],
+      "alut": [
+        "didevayizitA",
+        "didevayizitArO",
+        "didevayizitAraH",
+        "didevayizitAse",
+        "didevayizitAsATe",
+        "didevayizitADve",
+        "didevayizitAhe",
+        "didevayizitAsvahe",
+        "didevayizitAsmahe"
+      ],
+      "avidhiling": [
+        "didevayizeta",
+        "didevayizeyAtAm",
+        "didevayizeran",
+        "didevayizeTAH",
+        "didevayizeyATAm",
+        "didevayizeDvam",
+        "didevayizeya",
+        "didevayizevahi",
+        "didevayizemahi"
+      ],
+      "pashirling": [
+        "didevayizyAt",
+        "didevayizyAd",
+        "didevizyAt",
+        "didevizyAd",
+        "dudyUzyAt",
+        "dudyUzyAd",
+        "didevayizyAstAm",
+        "didevizyAstAm",
+        "dudyUzyAstAm",
+        "didevayizyAsuH",
+        "didevizyAsuH",
+        "dudyUzyAsuH",
+        "didevayizyAH",
+        "didevizyAH",
+        "dudyUzyAH",
+        "didevayizyAstam",
+        "didevizyAstam",
+        "dudyUzyAstam",
+        "didevayizyAsta",
+        "didevizyAsta",
+        "dudyUzyAsta",
+        "didevayizyAsam",
+        "didevizyAsam",
+        "dudyUzyAsam",
+        "didevayizyAsva",
+        "didevizyAsva",
+        "dudyUzyAsva",
+        "didevayizyAsma",
+        "didevizyAsma",
+        "dudyUzyAsma"
+      ],
+      "plang": [
+        "adidevayizat",
+        "adidevayizad",
+        "adidevizat",
+        "adidevizad",
+        "adudyUzat",
+        "adudyUzad",
+        "adidevayizatAm",
+        "adidevizatAm",
+        "adudyUzatAm",
+        "adidevayizan",
+        "adidevizan",
+        "adudyUzan",
+        "adidevayizaH",
+        "adidevizaH",
+        "adudyUzaH",
+        "adidevayizatam",
+        "adidevizatam",
+        "adudyUzatam",
+        "adidevayizata",
+        "adidevizata",
+        "adudyUzata",
+        "adidevayizam",
+        "adidevizam",
+        "adudyUzam",
+        "adidevayizAva",
+        "adidevizAva",
+        "adudyUzAva",
+        "adidevayizAma",
+        "adidevizAma",
+        "adudyUzAma"
+      ],
+      "plat": [
+        "didevayizati",
+        "didevizati",
+        "dudyUzati",
+        "didevayizataH",
+        "didevizataH",
+        "dudyUzataH",
+        "didevayizanti",
+        "didevizanti",
+        "dudyUzanti",
+        "didevayizasi",
+        "didevizasi",
+        "dudyUzasi",
+        "didevayizaTaH",
+        "didevizaTaH",
+        "dudyUzaTaH",
+        "didevayizaTa",
+        "didevizaTa",
+        "dudyUzaTa",
+        "didevayizAmi",
+        "didevizAmi",
+        "dudyUzAmi",
+        "didevayizAvaH",
+        "didevizAvaH",
+        "dudyUzAvaH",
+        "didevayizAmaH",
+        "didevizAmaH",
+        "dudyUzAmaH"
+      ],
+      "plit": [
+        "didevayizAYcakAra",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevizAYcakAra",
+        "didevizAmAsa",
+        "didevizAmbaBUva",
+        "dudyUzAYcakAra",
+        "dudyUzAmAsa",
+        "dudyUzAmbaBUva",
+        "didevayizAYcakratuH",
+        "didevayizAmAsatuH",
+        "didevayizAmbaBUvatuH",
+        "didevizAYcakratuH",
+        "didevizAmAsatuH",
+        "didevizAmbaBUvatuH",
+        "dudyUzAYcakratuH",
+        "dudyUzAmAsatuH",
+        "dudyUzAmbaBUvatuH",
+        "didevayizAYcakruH",
+        "didevayizAmAsuH",
+        "didevayizAmbaBUvuH",
+        "didevizAYcakruH",
+        "didevizAmAsuH",
+        "didevizAmbaBUvuH",
+        "dudyUzAYcakruH",
+        "dudyUzAmAsuH",
+        "dudyUzAmbaBUvuH",
+        "didevayizAYcakarTa",
+        "didevayizAmAsiTa",
+        "didevayizAmbaBUviTa",
+        "didevizAYcakarTa",
+        "didevizAmAsiTa",
+        "didevizAmbaBUviTa",
+        "dudyUzAYcakarTa",
+        "dudyUzAmAsiTa",
+        "dudyUzAmbaBUviTa",
+        "didevayizAYcakraTuH",
+        "didevayizAmAsaTuH",
+        "didevayizAmbaBUvaTuH",
+        "didevizAYcakraTuH",
+        "didevizAmAsaTuH",
+        "didevizAmbaBUvaTuH",
+        "dudyUzAYcakraTuH",
+        "dudyUzAmAsaTuH",
+        "dudyUzAmbaBUvaTuH",
+        "didevayizAYcakra",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevizAYcakra",
+        "didevizAmAsa",
+        "didevizAmbaBUva",
+        "dudyUzAYcakra",
+        "dudyUzAmAsa",
+        "dudyUzAmbaBUva",
+        "didevayizAYcakara",
+        "didevayizAYcakAra",
+        "didevayizAmAsa",
+        "didevayizAmbaBUva",
+        "didevizAYcakara",
+        "didevizAYcakAra",
+        "didevizAmAsa",
+        "didevizAmbaBUva",
+        "dudyUzAYcakara",
+        "dudyUzAYcakAra",
+        "dudyUzAmAsa",
+        "dudyUzAmbaBUva",
+        "didevayizAYcakfva",
+        "didevayizAmAsiva",
+        "didevayizAmbaBUviva",
+        "didevizAYcakfva",
+        "didevizAmAsiva",
+        "didevizAmbaBUviva",
+        "dudyUzAYcakfva",
+        "dudyUzAmAsiva",
+        "dudyUzAmbaBUviva",
+        "didevayizAYcakfma",
+        "didevayizAmAsima",
+        "didevayizAmbaBUvima",
+        "didevizAYcakfma",
+        "didevizAmAsima",
+        "didevizAmbaBUvima",
+        "dudyUzAYcakfma",
+        "dudyUzAmAsima",
+        "dudyUzAmbaBUvima"
+      ],
+      "plot": [
+        "didevayizatAt",
+        "didevayizatAd",
+        "didevayizatu",
+        "didevizatAt",
+        "didevizatAd",
+        "didevizatu",
+        "dudyUzatAt",
+        "dudyUzatAd",
+        "dudyUzatu",
+        "didevayizatAm",
+        "didevizatAm",
+        "dudyUzatAm",
+        "didevayizantu",
+        "didevizantu",
+        "dudyUzantu",
+        "didevayiza",
+        "didevayizatAt",
+        "didevayizatAd",
+        "dideviza",
+        "didevizatAt",
+        "didevizatAd",
+        "dudyUza",
+        "dudyUzatAt",
+        "dudyUzatAd",
+        "didevayizatam",
+        "didevizatam",
+        "dudyUzatam",
+        "didevayizata",
+        "didevizata",
+        "dudyUzata",
+        "didevayizARi",
+        "didevizARi",
+        "dudyUzARi",
+        "didevayizAva",
+        "didevizAva",
+        "dudyUzAva",
+        "didevayizAma",
+        "didevizAma",
+        "dudyUzAma"
+      ],
+      "plrung": [
+        "adidevayizizyat",
+        "adidevayizizyad",
+        "adidevizizyat",
+        "adidevizizyad",
+        "adudyUzizyat",
+        "adudyUzizyad",
+        "adidevayizizyatAm",
+        "adidevizizyatAm",
+        "adudyUzizyatAm",
+        "adidevayizizyan",
+        "adidevizizyan",
+        "adudyUzizyan",
+        "adidevayizizyaH",
+        "adidevizizyaH",
+        "adudyUzizyaH",
+        "adidevayizizyatam",
+        "adidevizizyatam",
+        "adudyUzizyatam",
+        "adidevayizizyata",
+        "adidevizizyata",
+        "adudyUzizyata",
+        "adidevayizizyam",
+        "adidevizizyam",
+        "adudyUzizyam",
+        "adidevayizizyAva",
+        "adidevizizyAva",
+        "adudyUzizyAva",
+        "adidevayizizyAma",
+        "adidevizizyAma",
+        "adudyUzizyAma"
+      ],
+      "plrut": [
+        "didevayizizyati",
+        "didevizizyati",
+        "dudyUzizyati",
+        "didevayizizyataH",
+        "didevizizyataH",
+        "dudyUzizyataH",
+        "didevayizizyanti",
+        "didevizizyanti",
+        "dudyUzizyanti",
+        "didevayizizyasi",
+        "didevizizyasi",
+        "dudyUzizyasi",
+        "didevayizizyaTaH",
+        "didevizizyaTaH",
+        "dudyUzizyaTaH",
+        "didevayizizyaTa",
+        "didevizizyaTa",
+        "dudyUzizyaTa",
+        "didevayizizyAmi",
+        "didevizizyAmi",
+        "dudyUzizyAmi",
+        "didevayizizyAvaH",
+        "didevizizyAvaH",
+        "dudyUzizyAvaH",
+        "didevayizizyAmaH",
+        "didevizizyAmaH",
+        "dudyUzizyAmaH"
+      ],
+      "plung": [
+        "adidevayizIt",
+        "adidevayizId",
+        "adidevizIt",
+        "adidevizId",
+        "adudyUzIt",
+        "adudyUzId",
+        "adidevayizizwAm",
+        "adidevizizwAm",
+        "adudyUzizwAm",
+        "adidevayizizuH",
+        "adidevizizuH",
+        "adudyUzizuH",
+        "adidevayizIH",
+        "adidevizIH",
+        "adudyUzIH",
+        "adidevayizizwam",
+        "adidevizizwam",
+        "adudyUzizwam",
+        "adidevayizizwa",
+        "adidevizizwa",
+        "adudyUzizwa",
+        "adidevayizizam",
+        "adidevizizam",
+        "adudyUzizam",
+        "adidevayizizva",
+        "adidevizizva",
+        "adudyUzizva",
+        "adidevayizizma",
+        "adidevizizma",
+        "adudyUzizma"
+      ],
+      "plut": [
+        "didevayizitA",
+        "didevizitA",
+        "dudyUzitA",
+        "didevayizitArO",
+        "didevizitArO",
+        "dudyUzitArO",
+        "didevayizitAraH",
+        "didevizitAraH",
+        "dudyUzitAraH",
+        "didevayizitAsi",
+        "didevizitAsi",
+        "dudyUzitAsi",
+        "didevayizitAsTaH",
+        "didevizitAsTaH",
+        "dudyUzitAsTaH",
+        "didevayizitAsTa",
+        "didevizitAsTa",
+        "dudyUzitAsTa",
+        "didevayizitAsmi",
+        "didevizitAsmi",
+        "dudyUzitAsmi",
+        "didevayizitAsvaH",
+        "didevizitAsvaH",
+        "dudyUzitAsvaH",
+        "didevayizitAsmaH",
+        "didevizitAsmaH",
+        "dudyUzitAsmaH"
+      ],
+      "pvidhiling": [
+        "didevayizet",
+        "didevayized",
+        "didevizet",
+        "didevized",
+        "dudyUzet",
+        "dudyUzed",
+        "didevayizetAm",
+        "didevizetAm",
+        "dudyUzetAm",
+        "didevayizeyuH",
+        "didevizeyuH",
+        "dudyUzeyuH",
+        "didevayizeH",
+        "didevizeH",
+        "dudyUzeH",
+        "didevayizetam",
+        "didevizetam",
+        "dudyUzetam",
+        "didevayizeta",
+        "didevizeta",
+        "dudyUzeta",
+        "didevayizeyam",
+        "didevizeyam",
+        "dudyUzeyam",
+        "didevayizeva",
+        "didevizeva",
+        "dudyUzeva",
+        "didevayizema",
+        "didevizema",
+        "dudyUzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "didevayizizIzwa",
+        "didevizizIzwa",
+        "dudyUzizIzwa",
+        "didevayizizIyAstAm",
+        "didevizizIyAstAm",
+        "dudyUzizIyAstAm",
+        "didevayizizIran",
+        "didevizizIran",
+        "dudyUzizIran",
+        "didevayizizIzWAH",
+        "didevizizIzWAH",
+        "dudyUzizIzWAH",
+        "didevayizizIyAsTAm",
+        "didevizizIyAsTAm",
+        "dudyUzizIyAsTAm",
+        "didevayizizIDvam",
+        "didevizizIDvam",
+        "dudyUzizIDvam",
+        "didevayizizIya",
+        "didevizizIya",
+        "dudyUzizIya",
+        "didevayizizIvahi",
+        "didevizizIvahi",
+        "dudyUzizIvahi",
+        "didevayizizImahi",
+        "didevizizImahi",
+        "dudyUzizImahi"
+      ],
+      "alang": [
+        "adidevayizyata",
+        "adidevizyata",
+        "adudyUzyata",
+        "adidevayizyetAm",
+        "adidevizyetAm",
+        "adudyUzyetAm",
+        "adidevayizyanta",
+        "adidevizyanta",
+        "adudyUzyanta",
+        "adidevayizyaTAH",
+        "adidevizyaTAH",
+        "adudyUzyaTAH",
+        "adidevayizyeTAm",
+        "adidevizyeTAm",
+        "adudyUzyeTAm",
+        "adidevayizyaDvam",
+        "adidevizyaDvam",
+        "adudyUzyaDvam",
+        "adidevayizye",
+        "adidevizye",
+        "adudyUzye",
+        "adidevayizyAvahi",
+        "adidevizyAvahi",
+        "adudyUzyAvahi",
+        "adidevayizyAmahi",
+        "adidevizyAmahi",
+        "adudyUzyAmahi"
+      ],
+      "alat": [
+        "didevayizyate",
+        "didevizyate",
+        "dudyUzyate",
+        "didevayizyete",
+        "didevizyete",
+        "dudyUzyete",
+        "didevayizyante",
+        "didevizyante",
+        "dudyUzyante",
+        "didevayizyase",
+        "didevizyase",
+        "dudyUzyase",
+        "didevayizyeTe",
+        "didevizyeTe",
+        "dudyUzyeTe",
+        "didevayizyaDve",
+        "didevizyaDve",
+        "dudyUzyaDve",
+        "didevayizye",
+        "didevizye",
+        "dudyUzye",
+        "didevayizyAvahe",
+        "didevizyAvahe",
+        "dudyUzyAvahe",
+        "didevayizyAmahe",
+        "didevizyAmahe",
+        "dudyUzyAmahe"
+      ],
+      "alit": [
+        "didevayizAYcakre",
+        "didevayizAmAse",
+        "didevayizAmbaBUve",
+        "didevizAYcakre",
+        "didevizAmAse",
+        "didevizAmbaBUve",
+        "dudyUzAYcakre",
+        "dudyUzAmAse",
+        "dudyUzAmbaBUve",
+        "didevayizAYcakrAte",
+        "didevayizAmAsAte",
+        "didevayizAmbaBUvAte",
+        "didevizAYcakrAte",
+        "didevizAmAsAte",
+        "didevizAmbaBUvAte",
+        "dudyUzAYcakrAte",
+        "dudyUzAmAsAte",
+        "dudyUzAmbaBUvAte",
+        "didevayizAYcakrire",
+        "didevayizAmAsire",
+        "didevayizAmbaBUvire",
+        "didevizAYcakrire",
+        "didevizAmAsire",
+        "didevizAmbaBUvire",
+        "dudyUzAYcakrire",
+        "dudyUzAmAsire",
+        "dudyUzAmbaBUvire",
+        "didevayizAYcakfze",
+        "didevayizAmAsize",
+        "didevayizAmbaBUvize",
+        "didevizAYcakfze",
+        "didevizAmAsize",
+        "didevizAmbaBUvize",
+        "dudyUzAYcakfze",
+        "dudyUzAmAsize",
+        "dudyUzAmbaBUvize",
+        "didevayizAYcakrATe",
+        "didevayizAmAsATe",
+        "didevayizAmbaBUvATe",
+        "didevizAYcakrATe",
+        "didevizAmAsATe",
+        "didevizAmbaBUvATe",
+        "dudyUzAYcakrATe",
+        "dudyUzAmAsATe",
+        "dudyUzAmbaBUvATe",
+        "didevayizAYcakfQve",
+        "didevayizAmAsiDve",
+        "didevayizAmbaBUviQve",
+        "didevizAYcakfQve",
+        "didevizAmAsiDve",
+        "didevizAmbaBUviQve",
+        "dudyUzAYcakfQve",
+        "dudyUzAmAsiDve",
+        "dudyUzAmbaBUviQve",
+        "didevayizAYcakre",
+        "didevayizAmAhe",
+        "didevayizAmbaBUve",
+        "didevizAYcakre",
+        "didevizAmAhe",
+        "didevizAmbaBUve",
+        "dudyUzAYcakre",
+        "dudyUzAmAhe",
+        "dudyUzAmbaBUve",
+        "didevayizAYcakfvahe",
+        "didevayizAmAsivahe",
+        "didevayizAmbaBUvivahe",
+        "didevizAYcakfvahe",
+        "didevizAmAsivahe",
+        "didevizAmbaBUvivahe",
+        "dudyUzAYcakfvahe",
+        "dudyUzAmAsivahe",
+        "dudyUzAmbaBUvivahe",
+        "didevayizAYcakfmahe",
+        "didevayizAmAsimahe",
+        "didevayizAmbaBUvimahe",
+        "didevizAYcakfmahe",
+        "didevizAmAsimahe",
+        "didevizAmbaBUvimahe",
+        "dudyUzAYcakfmahe",
+        "dudyUzAmAsimahe",
+        "dudyUzAmbaBUvimahe"
+      ],
+      "alot": [
+        "didevayizyatAm",
+        "didevizyatAm",
+        "dudyUzyatAm",
+        "didevayizyetAm",
+        "didevizyetAm",
+        "dudyUzyetAm",
+        "didevayizyantAm",
+        "didevizyantAm",
+        "dudyUzyantAm",
+        "didevayizyasva",
+        "didevizyasva",
+        "dudyUzyasva",
+        "didevayizyeTAm",
+        "didevizyeTAm",
+        "dudyUzyeTAm",
+        "didevayizyaDvam",
+        "didevizyaDvam",
+        "dudyUzyaDvam",
+        "didevayizyE",
+        "didevizyE",
+        "dudyUzyE",
+        "didevayizyAvahE",
+        "didevizyAvahE",
+        "dudyUzyAvahE",
+        "didevayizyAmahE",
+        "didevizyAmahE",
+        "dudyUzyAmahE"
+      ],
+      "alrung": [
+        "adidevayizizyata",
+        "adidevizizyata",
+        "adudyUzizyata",
+        "adidevayizizyetAm",
+        "adidevizizyetAm",
+        "adudyUzizyetAm",
+        "adidevayizizyanta",
+        "adidevizizyanta",
+        "adudyUzizyanta",
+        "adidevayizizyaTAH",
+        "adidevizizyaTAH",
+        "adudyUzizyaTAH",
+        "adidevayizizyeTAm",
+        "adidevizizyeTAm",
+        "adudyUzizyeTAm",
+        "adidevayizizyaDvam",
+        "adidevizizyaDvam",
+        "adudyUzizyaDvam",
+        "adidevayizizye",
+        "adidevizizye",
+        "adudyUzizye",
+        "adidevayizizyAvahi",
+        "adidevizizyAvahi",
+        "adudyUzizyAvahi",
+        "adidevayizizyAmahi",
+        "adidevizizyAmahi",
+        "adudyUzizyAmahi"
+      ],
+      "alrut": [
+        "didevayizizyate",
+        "didevizizyate",
+        "dudyUzizyate",
+        "didevayizizyete",
+        "didevizizyete",
+        "dudyUzizyete",
+        "didevayizizyante",
+        "didevizizyante",
+        "dudyUzizyante",
+        "didevayizizyase",
+        "didevizizyase",
+        "dudyUzizyase",
+        "didevayizizyeTe",
+        "didevizizyeTe",
+        "dudyUzizyeTe",
+        "didevayizizyaDve",
+        "didevizizyaDve",
+        "dudyUzizyaDve",
+        "didevayizizye",
+        "didevizizye",
+        "dudyUzizye",
+        "didevayizizyAvahe",
+        "didevizizyAvahe",
+        "dudyUzizyAvahe",
+        "didevayizizyAmahe",
+        "didevizizyAmahe",
+        "dudyUzizyAmahe"
+      ],
+      "alung": [
+        "adidevayizi",
+        "adidevizi",
+        "adudyUzi",
+        "adidevayizizAtAm",
+        "adidevizizAtAm",
+        "adudyUzizAtAm",
+        "adidevayizizata",
+        "adidevizizata",
+        "adudyUzizata",
+        "adidevayizizWAH",
+        "adidevizizWAH",
+        "adudyUzizWAH",
+        "adidevayizizATAm",
+        "adidevizizATAm",
+        "adudyUzizATAm",
+        "adidevayiziDvam",
+        "adideviziDvam",
+        "adudyUziDvam",
+        "adidevayizizi",
+        "adidevizizi",
+        "adudyUzizi",
+        "adidevayizizvahi",
+        "adidevizizvahi",
+        "adudyUzizvahi",
+        "adidevayizizmahi",
+        "adidevizizmahi",
+        "adudyUzizmahi"
+      ],
+      "alut": [
+        "didevayizitA",
+        "didevizitA",
+        "dudyUzitA",
+        "didevayizitArO",
+        "didevizitArO",
+        "dudyUzitArO",
+        "didevayizitAraH",
+        "didevizitAraH",
+        "dudyUzitAraH",
+        "didevayizitAse",
+        "didevizitAse",
+        "dudyUzitAse",
+        "didevayizitAsATe",
+        "didevizitAsATe",
+        "dudyUzitAsATe",
+        "didevayizitADve",
+        "didevizitADve",
+        "dudyUzitADve",
+        "didevayizitAhe",
+        "didevizitAhe",
+        "dudyUzitAhe",
+        "didevayizitAsvahe",
+        "didevizitAsvahe",
+        "dudyUzitAsvahe",
+        "didevayizitAsmahe",
+        "didevizitAsmahe",
+        "dudyUzitAsmahe"
+      ],
+      "avidhiling": [
+        "didevayizyeta",
+        "didevizyeta",
+        "dudyUzyeta",
+        "didevayizyeyAtAm",
+        "didevizyeyAtAm",
+        "dudyUzyeyAtAm",
+        "didevayizyeran",
+        "didevizyeran",
+        "dudyUzyeran",
+        "didevayizyeTAH",
+        "didevizyeTAH",
+        "dudyUzyeTAH",
+        "didevayizyeyATAm",
+        "didevizyeyATAm",
+        "dudyUzyeyATAm",
+        "didevayizyeDvam",
+        "didevizyeDvam",
+        "dudyUzyeDvam",
+        "didevayizyeya",
+        "didevizyeya",
+        "dudyUzyeya",
+        "didevayizyevahi",
+        "didevizyevahi",
+        "dudyUzyevahi",
+        "didevayizyemahi",
+        "didevizyemahi",
+        "dudyUzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "devayizIzwa",
+        "devayizIyAstAm",
+        "devayizIran",
+        "devayizIzWAH",
+        "devayizIyAsTAm",
+        "devayizIQvam",
+        "devayizIDvam",
+        "devayizIya",
+        "devayizIvahi",
+        "devayizImahi"
+      ],
+      "alang": [
+        "adevayata",
+        "adevayetAm",
+        "adevayanta",
+        "adevayaTAH",
+        "adevayeTAm",
+        "adevayaDvam",
+        "adevaye",
+        "adevayAvahi",
+        "adevayAmahi"
+      ],
+      "alat": [
+        "devayate",
+        "devayete",
+        "devayante",
+        "devayase",
+        "devayeTe",
+        "devayaDve",
+        "devaye",
+        "devayAvahe",
+        "devayAmahe"
+      ],
+      "alit": [
+        "devayAYcakre",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakrAte",
+        "devayAmAsatuH",
+        "devayAmbaBUvatuH",
+        "devayAYcakrire",
+        "devayAmAsuH",
+        "devayAmbaBUvuH",
+        "devayAYcakfze",
+        "devayAmAsiTa",
+        "devayAmbaBUviTa",
+        "devayAYcakrATe",
+        "devayAmAsaTuH",
+        "devayAmbaBUvaTuH",
+        "devayAYcakfQve",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakre",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakfvahe",
+        "devayAmAsiva",
+        "devayAmbaBUviva",
+        "devayAYcakfmahe",
+        "devayAmAsima",
+        "devayAmbaBUvima"
+      ],
+      "alot": [
+        "devayatAm",
+        "devayetAm",
+        "devayantAm",
+        "devayasva",
+        "devayeTAm",
+        "devayaDvam",
+        "devayE",
+        "devayAvahE",
+        "devayAmahE"
+      ],
+      "alrung": [
+        "adevayizyata",
+        "adevayizyetAm",
+        "adevayizyanta",
+        "adevayizyaTAH",
+        "adevayizyeTAm",
+        "adevayizyaDvam",
+        "adevayizye",
+        "adevayizyAvahi",
+        "adevayizyAmahi"
+      ],
+      "alrut": [
+        "devayizyate",
+        "devayizyete",
+        "devayizyante",
+        "devayizyase",
+        "devayizyeTe",
+        "devayizyaDve",
+        "devayizye",
+        "devayizyAvahe",
+        "devayizyAmahe"
+      ],
+      "alung": [
+        "adIdivata",
+        "adIdivetAm",
+        "adIdivanta",
+        "adIdivaTAH",
+        "adIdiveTAm",
+        "adIdivaDvam",
+        "adIdive",
+        "adIdivAvahi",
+        "adIdivAmahi"
+      ],
+      "alut": [
+        "devayitA",
+        "devayitArO",
+        "devayitAraH",
+        "devayitAse",
+        "devayitAsATe",
+        "devayitADve",
+        "devayitAhe",
+        "devayitAsvahe",
+        "devayitAsmahe"
+      ],
+      "avidhiling": [
+        "devayeta",
+        "devayeyAtAm",
+        "devayeran",
+        "devayeTAH",
+        "devayeyATAm",
+        "devayeDvam",
+        "devayeya",
+        "devayevahi",
+        "devayemahi"
+      ],
+      "pashirling": [
+        "devyAt",
+        "devyAd",
+        "devyAstAm",
+        "devyAsuH",
+        "devyAH",
+        "devyAstam",
+        "devyAsta",
+        "devyAsam",
+        "devyAsva",
+        "devyAsma"
+      ],
+      "plang": [
+        "adevayat",
+        "adevayad",
+        "adevayatAm",
+        "adevayan",
+        "adevayaH",
+        "adevayatam",
+        "adevayata",
+        "adevayam",
+        "adevayAva",
+        "adevayAma"
+      ],
+      "plat": [
+        "devayati",
+        "devayataH",
+        "devayanti",
+        "devayasi",
+        "devayaTaH",
+        "devayaTa",
+        "devayAmi",
+        "devayAvaH",
+        "devayAmaH"
+      ],
+      "plit": [
+        "devayAYcakAra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakratuH",
+        "devayAmAsatuH",
+        "devayAmbaBUvatuH",
+        "devayAYcakruH",
+        "devayAmAsuH",
+        "devayAmbaBUvuH",
+        "devayAYcakarTa",
+        "devayAmAsiTa",
+        "devayAmbaBUviTa",
+        "devayAYcakraTuH",
+        "devayAmAsaTuH",
+        "devayAmbaBUvaTuH",
+        "devayAYcakra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakara",
+        "devayAYcakAra",
+        "devayAmAsa",
+        "devayAmbaBUva",
+        "devayAYcakfva",
+        "devayAmAsiva",
+        "devayAmbaBUviva",
+        "devayAYcakfma",
+        "devayAmAsima",
+        "devayAmbaBUvima"
+      ],
+      "plot": [
+        "devayatAt",
+        "devayatAd",
+        "devayatu",
+        "devayatAm",
+        "devayantu",
+        "devaya",
+        "devayatAt",
+        "devayatAd",
+        "devayatam",
+        "devayata",
+        "devayAni",
+        "devayAva",
+        "devayAma"
+      ],
+      "plrung": [
+        "adevayizyat",
+        "adevayizyad",
+        "adevayizyatAm",
+        "adevayizyan",
+        "adevayizyaH",
+        "adevayizyatam",
+        "adevayizyata",
+        "adevayizyam",
+        "adevayizyAva",
+        "adevayizyAma"
+      ],
+      "plrut": [
+        "devayizyati",
+        "devayizyataH",
+        "devayizyanti",
+        "devayizyasi",
+        "devayizyaTaH",
+        "devayizyaTa",
+        "devayizyAmi",
+        "devayizyAvaH",
+        "devayizyAmaH"
+      ],
+      "plung": [
+        "adIdivat",
+        "adIdivad",
+        "adIdivatAm",
+        "adIdivan",
+        "adIdivaH",
+        "adIdivatam",
+        "adIdivata",
+        "adIdivam",
+        "adIdivAva",
+        "adIdivAma"
+      ],
+      "plut": [
+        "devayitA",
+        "devayitArO",
+        "devayitAraH",
+        "devayitAsi",
+        "devayitAsTaH",
+        "devayitAsTa",
+        "devayitAsmi",
+        "devayitAsvaH",
+        "devayitAsmaH"
+      ],
+      "pvidhiling": [
+        "devayet",
+        "devayed",
+        "devayetAm",
+        "devayeyuH",
+        "devayeH",
+        "devayetam",
+        "devayeta",
+        "devayeyam",
+        "devayeva",
+        "devayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "devayizIzwa",
+        "devizIzwa",
+        "devayizIyAstAm",
+        "devizIyAstAm",
+        "devayizIran",
+        "devizIran",
+        "devayizIzWAH",
+        "devizIzWAH",
+        "devayizIyAsTAm",
+        "devizIyAsTAm",
+        "devayizIQvam",
+        "devayizIDvam",
+        "devizIQvam",
+        "devayizIya",
+        "devizIya",
+        "devayizIvahi",
+        "devizIvahi",
+        "devayizImahi",
+        "devizImahi"
+      ],
+      "alang": [
+        "adevyata",
+        "adevyetAm",
+        "adevyanta",
+        "adevyaTAH",
+        "adevyeTAm",
+        "adevyaDvam",
+        "adevye",
+        "adevyAvahi",
+        "adevyAmahi"
+      ],
+      "alat": [
+        "devyate",
+        "devyete",
+        "devyante",
+        "devyase",
+        "devyeTe",
+        "devyaDve",
+        "devye",
+        "devyAvahe",
+        "devyAmahe"
+      ],
+      "alit": [
+        "devayAYcakre",
+        "devayAmAse",
+        "devayAmbaBUve",
+        "devayAYcakrAte",
+        "devayAmAsAte",
+        "devayAmbaBUvAte",
+        "devayAYcakrire",
+        "devayAmAsire",
+        "devayAmbaBUvire",
+        "devayAYcakfze",
+        "devayAmAsize",
+        "devayAmbaBUvize",
+        "devayAYcakrATe",
+        "devayAmAsATe",
+        "devayAmbaBUvATe",
+        "devayAYcakfQve",
+        "devayAmAsiDve",
+        "devayAmbaBUviQve",
+        "devayAYcakre",
+        "devayAmAhe",
+        "devayAmbaBUve",
+        "devayAYcakfvahe",
+        "devayAmAsivahe",
+        "devayAmbaBUvivahe",
+        "devayAYcakfmahe",
+        "devayAmAsimahe",
+        "devayAmbaBUvimahe"
+      ],
+      "alot": [
+        "devyatAm",
+        "devyetAm",
+        "devyantAm",
+        "devyasva",
+        "devyeTAm",
+        "devyaDvam",
+        "devyE",
+        "devyAvahE",
+        "devyAmahE"
+      ],
+      "alrung": [
+        "adevayizyata",
+        "adevizyata",
+        "adevayizyetAm",
+        "adevizyetAm",
+        "adevayizyanta",
+        "adevizyanta",
+        "adevayizyaTAH",
+        "adevizyaTAH",
+        "adevayizyeTAm",
+        "adevizyeTAm",
+        "adevayizyaDvam",
+        "adevizyaDvam",
+        "adevayizye",
+        "adevizye",
+        "adevayizyAvahi",
+        "adevizyAvahi",
+        "adevayizyAmahi",
+        "adevizyAmahi"
+      ],
+      "alrut": [
+        "devayizyate",
+        "devizyate",
+        "devayizyete",
+        "devizyete",
+        "devayizyante",
+        "devizyante",
+        "devayizyase",
+        "devizyase",
+        "devayizyeTe",
+        "devizyeTe",
+        "devayizyaDve",
+        "devizyaDve",
+        "devayizye",
+        "devizye",
+        "devayizyAvahe",
+        "devizyAvahe",
+        "devayizyAmahe",
+        "devizyAmahe"
+      ],
+      "alung": [
+        "adevi",
+        "adevayizAtAm",
+        "adevizAtAm",
+        "adevayizata",
+        "adevizata",
+        "adevayizWAH",
+        "adevizWAH",
+        "adevayizATAm",
+        "adevizATAm",
+        "adevayiQvam",
+        "adevayiDvam",
+        "adeviQvam",
+        "adevayizi",
+        "adevizi",
+        "adevayizvahi",
+        "adevizvahi",
+        "adevayizmahi",
+        "adevizmahi"
+      ],
+      "alut": [
+        "devayitA",
+        "devitA",
+        "devayitArO",
+        "devitArO",
+        "devayitAraH",
+        "devitAraH",
+        "devayitAse",
+        "devitAse",
+        "devayitAsATe",
+        "devitAsATe",
+        "devayitADve",
+        "devitADve",
+        "devayitAhe",
+        "devitAhe",
+        "devayitAsvahe",
+        "devitAsvahe",
+        "devayitAsmahe",
+        "devitAsmahe"
+      ],
+      "avidhiling": [
+        "devyeta",
+        "devyeyAtAm",
+        "devyeran",
+        "devyeTAH",
+        "devyeyATAm",
+        "devyeDvam",
+        "devyeya",
+        "devyevahi",
+        "devyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "dedivizIzwa",
+        "dedivizIyAstAm",
+        "dedivizIran",
+        "dedivizIzWAH",
+        "dedivizIyAsTAm",
+        "dedivizIQvam",
+        "dedivizIya",
+        "dedivizIvahi",
+        "dedivizImahi"
+      ],
+      "alang": [
+        "adedIvyata",
+        "adedIvyetAm",
+        "adedIvyanta",
+        "adedIvyaTAH",
+        "adedIvyeTAm",
+        "adedIvyaDvam",
+        "adedIvye",
+        "adedIvyAvahi",
+        "adedIvyAmahi"
+      ],
+      "alat": [
+        "dedIvyate",
+        "dedIvyete",
+        "dedIvyante",
+        "dedIvyase",
+        "dedIvyeTe",
+        "dedIvyaDve",
+        "dedIvye",
+        "dedIvyAvahe",
+        "dedIvyAmahe"
+      ],
+      "alit": [
+        "dedivAYcakre",
+        "dedivAmAsa",
+        "dedivAmbaBUva",
+        "dedivAYcakrAte",
+        "dedivAmAsatuH",
+        "dedivAmbaBUvatuH",
+        "dedivAYcakrire",
+        "dedivAmAsuH",
+        "dedivAmbaBUvuH",
+        "dedivAYcakfze",
+        "dedivAmAsiTa",
+        "dedivAmbaBUviTa",
+        "dedivAYcakrATe",
+        "dedivAmAsaTuH",
+        "dedivAmbaBUvaTuH",
+        "dedivAYcakfQve",
+        "dedivAmAsa",
+        "dedivAmbaBUva",
+        "dedivAYcakre",
+        "dedivAmAsa",
+        "dedivAmbaBUva",
+        "dedivAYcakfvahe",
+        "dedivAmAsiva",
+        "dedivAmbaBUviva",
+        "dedivAYcakfmahe",
+        "dedivAmAsima",
+        "dedivAmbaBUvima"
+      ],
+      "alot": [
+        "dedIvyatAm",
+        "dedIvyetAm",
+        "dedIvyantAm",
+        "dedIvyasva",
+        "dedIvyeTAm",
+        "dedIvyaDvam",
+        "dedIvyE",
+        "dedIvyAvahE",
+        "dedIvyAmahE"
+      ],
+      "alrung": [
+        "adedivizyata",
+        "adedivizyetAm",
+        "adedivizyanta",
+        "adedivizyaTAH",
+        "adedivizyeTAm",
+        "adedivizyaDvam",
+        "adedivizye",
+        "adedivizyAvahi",
+        "adedivizyAmahi"
+      ],
+      "alrut": [
+        "dedivizyate",
+        "dedivizyete",
+        "dedivizyante",
+        "dedivizyase",
+        "dedivizyeTe",
+        "dedivizyaDve",
+        "dedivizye",
+        "dedivizyAvahe",
+        "dedivizyAmahe"
+      ],
+      "alung": [
+        "adedivizwa",
+        "adedivizAtAm",
+        "adedivizata",
+        "adedivizWAH",
+        "adedivizATAm",
+        "adediviQvam",
+        "adedivizi",
+        "adedivizvahi",
+        "adedivizmahi"
+      ],
+      "alut": [
+        "dedivitA",
+        "dedivitArO",
+        "dedivitAraH",
+        "dedivitAse",
+        "dedivitAsATe",
+        "dedivitADve",
+        "dedivitAhe",
+        "dedivitAsvahe",
+        "dedivitAsmahe"
+      ],
+      "avidhiling": [
+        "dedIvyeta",
+        "dedIvyeyAtAm",
+        "dedIvyeran",
+        "dedIvyeTAH",
+        "dedIvyeyATAm",
+        "dedIvyeDvam",
+        "dedIvyeya",
+        "dedIvyevahi",
+        "dedIvyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "dedivizIzwa",
+        "dedivizIyAstAm",
+        "dedivizIran",
+        "dedivizIzWAH",
+        "dedivizIyAsTAm",
+        "dedivizIQvam",
+        "dedivizIya",
+        "dedivizIvahi",
+        "dedivizImahi"
+      ],
+      "alang": [
+        "adedIvyata",
+        "adedIvyetAm",
+        "adedIvyanta",
+        "adedIvyaTAH",
+        "adedIvyeTAm",
+        "adedIvyaDvam",
+        "adedIvye",
+        "adedIvyAvahi",
+        "adedIvyAmahi"
+      ],
+      "alat": [
+        "dedIvyate",
+        "dedIvyete",
+        "dedIvyante",
+        "dedIvyase",
+        "dedIvyeTe",
+        "dedIvyaDve",
+        "dedIvye",
+        "dedIvyAvahe",
+        "dedIvyAmahe"
+      ],
+      "alit": [
+        "dedivAYcakre",
+        "dedivAmAse",
+        "dedivAmbaBUve",
+        "dedivAYcakrAte",
+        "dedivAmAsAte",
+        "dedivAmbaBUvAte",
+        "dedivAYcakrire",
+        "dedivAmAsire",
+        "dedivAmbaBUvire",
+        "dedivAYcakfze",
+        "dedivAmAsize",
+        "dedivAmbaBUvize",
+        "dedivAYcakrATe",
+        "dedivAmAsATe",
+        "dedivAmbaBUvATe",
+        "dedivAYcakfQve",
+        "dedivAmAsiDve",
+        "dedivAmbaBUviQve",
+        "dedivAYcakre",
+        "dedivAmAhe",
+        "dedivAmbaBUve",
+        "dedivAYcakfvahe",
+        "dedivAmAsivahe",
+        "dedivAmbaBUvivahe",
+        "dedivAYcakfmahe",
+        "dedivAmAsimahe",
+        "dedivAmbaBUvimahe"
+      ],
+      "alot": [
+        "dedIvyatAm",
+        "dedIvyetAm",
+        "dedIvyantAm",
+        "dedIvyasva",
+        "dedIvyeTAm",
+        "dedIvyaDvam",
+        "dedIvyE",
+        "dedIvyAvahE",
+        "dedIvyAmahE"
+      ],
+      "alrung": [
+        "adedivizyata",
+        "adedivizyetAm",
+        "adedivizyanta",
+        "adedivizyaTAH",
+        "adedivizyeTAm",
+        "adedivizyaDvam",
+        "adedivizye",
+        "adedivizyAvahi",
+        "adedivizyAmahi"
+      ],
+      "alrut": [
+        "dedivizyate",
+        "dedivizyete",
+        "dedivizyante",
+        "dedivizyase",
+        "dedivizyeTe",
+        "dedivizyaDve",
+        "dedivizye",
+        "dedivizyAvahe",
+        "dedivizyAmahe"
+      ],
+      "alung": [
+        "adedivi",
+        "adedivizAtAm",
+        "adedivizata",
+        "adedivizWAH",
+        "adedivizATAm",
+        "adediviQvam",
+        "adedivizi",
+        "adedivizvahi",
+        "adedivizmahi"
+      ],
+      "alut": [
+        "dedivitA",
+        "dedivitArO",
+        "dedivitAraH",
+        "dedivitAse",
+        "dedivitAsATe",
+        "dedivitADve",
+        "dedivitAhe",
+        "dedivitAsvahe",
+        "dedivitAsmahe"
+      ],
+      "avidhiling": [
+        "dedIvyeta",
+        "dedIvyeyAtAm",
+        "dedIvyeran",
+        "dedIvyeTAH",
+        "dedIvyeyATAm",
+        "dedIvyeDvam",
+        "dedIvyeya",
+        "dedIvyevahi",
+        "dedIvyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "dedIvyAt",
+        "dedIvyAd",
+        "dedIvyAstAm",
+        "dedIvyAsuH",
+        "dedIvyAH",
+        "dedIvyAstam",
+        "dedIvyAsta",
+        "dedIvyAsam",
+        "dedIvyAsva",
+        "dedIvyAsma"
+      ],
+      "plang": [
+        "adedivIt",
+        "adedivId",
+        "adedet",
+        "adeded",
+        "adedyUtAm",
+        "adedivuH",
+        "adedivIH",
+        "adedeH",
+        "adedyUtam",
+        "adedyUta",
+        "adedivam",
+        "adediva",
+        "adedyUma"
+      ],
+      "plat": [
+        "dedivIti",
+        "dedeti",
+        "dedyUtaH",
+        "dedivati",
+        "dedivIzi",
+        "dedezi",
+        "dedyUTaH",
+        "dedyUTa",
+        "dedayUmi",
+        "dedivImi",
+        "dedivaH",
+        "dedyUmaH"
+      ],
+      "plit": [
+        "dedevAYcakAra",
+        "dedevAmAsa",
+        "dedevAmbaBUva",
+        "dedevAYcakratuH",
+        "dedevAmAsatuH",
+        "dedevAmbaBUvatuH",
+        "dedevAYcakruH",
+        "dedevAmAsuH",
+        "dedevAmbaBUvuH",
+        "dedevAYcakarTa",
+        "dedevAmAsiTa",
+        "dedevAmbaBUviTa",
+        "dedevAYcakraTuH",
+        "dedevAmAsaTuH",
+        "dedevAmbaBUvaTuH",
+        "dedevAYcakra",
+        "dedevAmAsa",
+        "dedevAmbaBUva",
+        "dedevAYcakara",
+        "dedevAYcakAra",
+        "dedevAmAsa",
+        "dedevAmbaBUva",
+        "dedevAYcakfva",
+        "dedevAmAsiva",
+        "dedevAmbaBUviva",
+        "dedevAYcakfma",
+        "dedevAmAsima",
+        "dedevAmbaBUvima"
+      ],
+      "plot": [
+        "dedivItu",
+        "dedetu",
+        "dedyUtAt",
+        "dedyUtAd",
+        "dedyUtAm",
+        "dedivatu",
+        "dedyUtAt",
+        "dedyUtAd",
+        "dedyUhi",
+        "dedyUtam",
+        "dedyUta",
+        "dedivAni",
+        "dedivAva",
+        "dedivAma"
+      ],
+      "plrung": [
+        "adedevizyat",
+        "adedevizyad",
+        "adedevizyatAm",
+        "adedevizyan",
+        "adedevizyaH",
+        "adedevizyatam",
+        "adedevizyata",
+        "adedevizyam",
+        "adedevizyAva",
+        "adedevizyAma"
+      ],
+      "plrut": [
+        "dedevizyati",
+        "dedevizyataH",
+        "dedevizyanti",
+        "dedevizyasi",
+        "dedevizyaTaH",
+        "dedevizyaTa",
+        "dedevizyAmi",
+        "dedevizyAvaH",
+        "dedevizyAmaH"
+      ],
+      "plung": [
+        "adedevIt",
+        "adedevId",
+        "adedevizwAm",
+        "adedevizuH",
+        "adedevIH",
+        "adedevizwam",
+        "adedevizwa",
+        "adedevizam",
+        "adedevizva",
+        "adedevizma"
+      ],
+      "plut": [
+        "dedevitA",
+        "dedevitArO",
+        "dedevitAraH",
+        "dedevitAsi",
+        "dedevitAsTaH",
+        "dedevitAsTa",
+        "dedevitAsmi",
+        "dedevitAsvaH",
+        "dedevitAsmaH"
+      ],
+      "pvidhiling": [
+        "dedIvyAt",
+        "dedIvyAd",
+        "dedIvyAtAm",
+        "dedIvyuH",
+        "dedIvyAH",
+        "dedIvyAtam",
+        "dedIvyAta",
+        "dedIvyAm",
+        "dedIvyAva",
+        "dedIvyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "dedevizIzwa",
+        "dedevizIyAstAm",
+        "dedevizIran",
+        "dedevizIzWAH",
+        "dedevizIyAsTAm",
+        "dedevizIQvam",
+        "dedevizIya",
+        "dedevizIvahi",
+        "dedevizImahi"
+      ],
+      "alang": [
+        "adedIvyata",
+        "adedIvyetAm",
+        "adedIvyanta",
+        "adedIvyaTAH",
+        "adedIvyeTAm",
+        "adedIvyaDvam",
+        "adedIvye",
+        "adedIvyAvahi",
+        "adedIvyAmahi"
+      ],
+      "alat": [
+        "dedIvyate",
+        "dedIvyete",
+        "dedIvyante",
+        "dedIvyase",
+        "dedIvyeTe",
+        "dedIvyaDve",
+        "dedIvye",
+        "dedIvyAvahe",
+        "dedIvyAmahe"
+      ],
+      "alit": [
+        "dedevAYcakre",
+        "dedevAmAse",
+        "dedevAmbaBUve",
+        "dedevAYcakrAte",
+        "dedevAmAsAte",
+        "dedevAmbaBUvAte",
+        "dedevAYcakrire",
+        "dedevAmAsire",
+        "dedevAmbaBUvire",
+        "dedevAYcakfze",
+        "dedevAmAsize",
+        "dedevAmbaBUvize",
+        "dedevAYcakrATe",
+        "dedevAmAsATe",
+        "dedevAmbaBUvATe",
+        "dedevAYcakfQve",
+        "dedevAmAsiDve",
+        "dedevAmbaBUviQve",
+        "dedevAYcakre",
+        "dedevAmAhe",
+        "dedevAmbaBUve",
+        "dedevAYcakfvahe",
+        "dedevAmAsivahe",
+        "dedevAmbaBUvivahe",
+        "dedevAYcakfmahe",
+        "dedevAmAsimahe",
+        "dedevAmbaBUvimahe"
+      ],
+      "alot": [
+        "dedIvyatAm",
+        "dedIvyetAm",
+        "dedIvyantAm",
+        "dedIvyasva",
+        "dedIvyeTAm",
+        "dedIvyaDvam",
+        "dedIvyE",
+        "dedIvyAvahE",
+        "dedIvyAmahE"
+      ],
+      "alrung": [
+        "adedevizyata",
+        "adedevizyetAm",
+        "adedevizyanta",
+        "adedevizyaTAH",
+        "adedevizyeTAm",
+        "adedevizyaDvam",
+        "adedevizye",
+        "adedevizyAvahi",
+        "adedevizyAmahi"
+      ],
+      "alrut": [
+        "dedevizyate",
+        "dedevizyete",
+        "dedevizyante",
+        "dedevizyase",
+        "dedevizyeTe",
+        "dedevizyaDve",
+        "dedevizye",
+        "dedevizyAvahe",
+        "dedevizyAmahe"
+      ],
+      "alung": [
+        "adedevi",
+        "adedevizAtAm",
+        "adedevizata",
+        "adedevizWAH",
+        "adedevizATAm",
+        "adedeviQvam",
+        "adedevizi",
+        "adedevizvahi",
+        "adedevizmahi"
+      ],
+      "alut": [
+        "dedevitA",
+        "dedevitArO",
+        "dedevitAraH",
+        "dedevitAse",
+        "dedevitAsATe",
+        "dedevitADve",
+        "dedevitAhe",
+        "dedevitAsvahe",
+        "dedevitAsmahe"
+      ],
+      "avidhiling": [
+        "dedIvyeta",
+        "dedIvyeyAtAm",
+        "dedIvyeran",
+        "dedIvyeTAH",
+        "dedIvyeyATAm",
+        "dedIvyeDvam",
+        "dedIvyeya",
+        "dedIvyevahi",
+        "dedIvyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "deva",
+          "m": "devaH",
+          "f": "devI",
+          "n": "devam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "devanIya",
+          "m": "devanIyaH",
+          "f": "devanIyA",
+          "n": "devanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "dyUna",
+          "m": "dyUnaH",
+          "f": "dyUnA",
+          "n": "dyUnam"
+        },
+        {
+          "base": "dyUta",
+          "m": "dyUtaH",
+          "f": "dyUtA",
+          "n": "dyUtam"
+        },
+        {
+          "base": "devita",
+          "m": "devitaH",
+          "f": "devitA",
+          "n": "devitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "dyUnavat",
+          "m": "dyUnavAn",
+          "f": "dyUnavatI",
+          "n": "dyUnavat/dyUnavad"
+        },
+        {
+          "base": "dyUtavat",
+          "m": "dyUtavAn",
+          "f": "dyUtavatI",
+          "n": "dyUtavat/dyUtavad"
+        },
+        {
+          "base": "devitavat",
+          "m": "devitavAn",
+          "f": "devitavatI",
+          "n": "devitavat/devitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "dyUti",
+          "m": "",
+          "f": "dyUtiH",
+          "n": ""
+        },
+        {
+          "base": "deti",
+          "m": "",
+          "f": "detiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "dyUtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "devitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "devayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "didivas",
+          "m": "didivAn",
+          "f": "diduzI",
+          "n": "didivat/didivad"
+        },
+        {
+          "base": "devayAmbaBUvas",
+          "m": "devayAmbaBUvAn",
+          "f": "devayAmbaBUzI",
+          "n": "devayAmbaBUvat/devayAmbaBUvad"
+        },
+        {
+          "base": "devayAmAsivas",
+          "m": "devayAmAsivAn",
+          "f": "devayAmAsuzI",
+          "n": "devayAmAsivat/devayAmAsivad"
+        },
+        {
+          "base": "devayAYcakfvas",
+          "m": "devayAYcakfvAn",
+          "f": "devayAYcakruzI",
+          "n": "devayAYcakfvat/devayAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "deva",
+          "m": "devaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "devamAna",
+          "m": "devamAnaH",
+          "f": "devamAnA",
+          "n": "devamAnam"
+        },
+        {
+          "base": "devayamAna",
+          "m": "devayamAnaH",
+          "f": "devayamAnA",
+          "n": "devayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "devam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "devya",
+          "m": "devyaH",
+          "f": "devyA",
+          "n": "devyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "devaka",
+          "m": "devakaH",
+          "f": "devikA",
+          "n": "devakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "devitavya",
+          "m": "devitavyaH",
+          "f": "devitavyA",
+          "n": "devitavyam"
+        },
+        {
+          "base": "devayitavya",
+          "m": "devayitavyaH",
+          "f": "devayitavyA",
+          "n": "devayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "devitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "devayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "devitf",
+          "m": "devitA",
+          "f": "devitrI",
+          "n": "devitf"
+        },
+        {
+          "base": "devayitf",
+          "m": "devayitA",
+          "f": "devayitrI",
+          "n": "devayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "dIvyamAna",
+          "m": "dIvyamAnaH",
+          "f": "dIvyamAnA",
+          "n": "dIvyamAnam"
+        },
+        {
+          "base": "devyamAna",
+          "m": "devyamAnaH",
+          "f": "devyamAnA",
+          "n": "devyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "devya",
+          "m": "devyaH",
+          "f": "devyA",
+          "n": "devyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pradIvya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pradevya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "devana",
+          "m": "",
+          "f": "",
+          "n": "devanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "devaka",
+          "m": "devakaH",
+          "f": "devikA",
+          "n": "devakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "devat",
+          "m": "devan",
+          "f": "devantI",
+          "n": "devat/devad"
+        },
+        {
+          "base": "devayat",
+          "m": "devayan",
+          "f": "devayantI",
+          "n": "devayat/devayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "devayamAna",
+          "m": "devayamAnaH",
+          "f": "devayamAnA",
+          "n": "devayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "devizyamARa",
+          "m": "devizyamARaH",
+          "f": "devizyamARA",
+          "n": "devizyamARam"
+        },
+        {
+          "base": "devayizyamARa",
+          "m": "devayizyamARaH",
+          "f": "devayizyamARA",
+          "n": "devayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "devizyat",
+          "m": "devizyan",
+          "f": "devizyatI/devizyantI",
+          "n": "devizyat/devizyad"
+        },
+        {
+          "base": "devayizyat",
+          "m": "devayizyan",
+          "f": "devayizyatI/devayizyantI",
+          "n": "devayizyat/devayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "devayizyamARa",
+          "m": "devayizyamARaH",
+          "f": "devayizyamARA",
+          "n": "devayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "didevizA",
+          "m": "",
+          "f": "didevizA",
+          "n": ""
+        },
+        {
+          "base": "dudyUzA",
+          "m": "",
+          "f": "dudyUzA",
+          "n": ""
+        },
+        {
+          "base": "didevayizA",
+          "m": "",
+          "f": "didevayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "dideviza",
+          "m": "didevizaH",
+          "f": "didevizA",
+          "n": "didevizam"
+        },
+        {
+          "base": "dudyUza",
+          "m": "dudyUzaH",
+          "f": "dudyUzA",
+          "n": "dudyUzam"
+        },
+        {
+          "base": "didevayiza",
+          "m": "didevayizaH",
+          "f": "didevayizA",
+          "n": "didevayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "didevizaRIya",
+          "m": "didevizaRIyaH",
+          "f": "didevizaRIyA",
+          "n": "didevizaRIyam"
+        },
+        {
+          "base": "dudyUzaRIya",
+          "m": "dudyUzaRIyaH",
+          "f": "dudyUzaRIyA",
+          "n": "dudyUzaRIyam"
+        },
+        {
+          "base": "didevayizaRIya",
+          "m": "didevayizaRIyaH",
+          "f": "didevayizaRIyA",
+          "n": "didevayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "didevizu",
+          "m": "didevizuH",
+          "f": "didevizuH",
+          "n": "didevizu"
+        },
+        {
+          "base": "dudyUzu",
+          "m": "dudyUzuH",
+          "f": "dudyUzuH",
+          "n": "dudyUzu"
+        },
+        {
+          "base": "didevayizu",
+          "m": "didevayizuH",
+          "f": "didevayizuH",
+          "n": "didevayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "didevizita",
+          "m": "didevizitaH",
+          "f": "didevizitA",
+          "n": "didevizitam"
+        },
+        {
+          "base": "dudyUzita",
+          "m": "dudyUzitaH",
+          "f": "dudyUzitA",
+          "n": "dudyUzitam"
+        },
+        {
+          "base": "didevayizita",
+          "m": "didevayizitaH",
+          "f": "didevayizitA",
+          "n": "didevayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "didevizitavat",
+          "m": "didevizitavAn",
+          "f": "didevizitavatI",
+          "n": "didevizitavat/didevizitavad"
+        },
+        {
+          "base": "dudyUzitavat",
+          "m": "dudyUzitavAn",
+          "f": "dudyUzitavatI",
+          "n": "dudyUzitavat/dudyUzitavad"
+        },
+        {
+          "base": "didevayizitavat",
+          "m": "didevayizitavAn",
+          "f": "didevayizitavatI",
+          "n": "didevayizitavat/didevayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "didevizwi",
+          "m": "",
+          "f": "didevizwiH",
+          "n": ""
+        },
+        {
+          "base": "dudyUzwi",
+          "m": "",
+          "f": "dudyUzwiH",
+          "n": ""
+        },
+        {
+          "base": "didevayizwi",
+          "m": "",
+          "f": "didevayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "didevizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "dudyUzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "didevayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "didevizAmbaBUvas",
+          "m": "didevizAmbaBUvAn",
+          "f": "didevizAmbaBUzI",
+          "n": "didevizAmbaBUvat/didevizAmbaBUvad"
+        },
+        {
+          "base": "didevizAmAsivas",
+          "m": "didevizAmAsivAn",
+          "f": "didevizAmAsyuzI",
+          "n": "didevizAmAsivat/didevizAmAsivad"
+        },
+        {
+          "base": "didevizAYcakfvas",
+          "m": "didevizAYcakfvAn",
+          "f": "didevizAYcakruzI",
+          "n": "didevizAYcakfvat/didevizAYcakfvad"
+        },
+        {
+          "base": "dudyUzAmbaBUvas",
+          "m": "dudyUzAmbaBUvAn",
+          "f": "dudyUzAmbaBUzI",
+          "n": "dudyUzAmbaBUvat/dudyUzAmbaBUvad"
+        },
+        {
+          "base": "dudyUzAmAsivas",
+          "m": "dudyUzAmAsivAn",
+          "f": "dudyUzAmAsyuzI",
+          "n": "dudyUzAmAsivat/dudyUzAmAsivad"
+        },
+        {
+          "base": "dudyUzAYcakfvas",
+          "m": "dudyUzAYcakfvAn",
+          "f": "dudyUzAYcakruzI",
+          "n": "dudyUzAYcakfvat/dudyUzAYcakfvad"
+        },
+        {
+          "base": "didevayizAmbaBUvas",
+          "m": "didevayizAmbaBUvAn",
+          "f": "didevayizAmbaBUzI",
+          "n": "didevayizAmbaBUvat/didevayizAmbaBUvad"
+        },
+        {
+          "base": "didevayizAmAsivas",
+          "m": "didevayizAmAsivAn",
+          "f": "didevayizAmAsyuzI",
+          "n": "didevayizAmAsivat/didevayizAmAsivad"
+        },
+        {
+          "base": "didevayizAYcakfvas",
+          "m": "didevayizAYcakfvAn",
+          "f": "didevayizAYcakruzI",
+          "n": "didevayizAYcakfvat/didevayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "dideviza",
+          "m": "didevizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "dudyUza",
+          "m": "dudyUzaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "didevayiza",
+          "m": "didevayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "didevizamARa",
+          "m": "didevizamARaH",
+          "f": "didevizamARA",
+          "n": "didevizamARam"
+        },
+        {
+          "base": "dudyUzamARa",
+          "m": "dudyUzamARaH",
+          "f": "dudyUzamARA",
+          "n": "dudyUzamARam"
+        },
+        {
+          "base": "didevayizamARa",
+          "m": "didevayizamARaH",
+          "f": "didevayizamARA",
+          "n": "didevayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "didevizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "dudyUzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "didevayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "didevizaka",
+          "m": "didevizakaH",
+          "f": "didevizikA",
+          "n": "didevizakam"
+        },
+        {
+          "base": "dudyUzaka",
+          "m": "dudyUzakaH",
+          "f": "dudyUzikA",
+          "n": "dudyUzakam"
+        },
+        {
+          "base": "didevayizaka",
+          "m": "didevayizakaH",
+          "f": "didevayizikA",
+          "n": "didevayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "didevizitavya",
+          "m": "didevizitavyaH",
+          "f": "didevizitavyA",
+          "n": "didevizitavyam"
+        },
+        {
+          "base": "dudyUzitavya",
+          "m": "dudyUzitavyaH",
+          "f": "dudyUzitavyA",
+          "n": "dudyUzitavyam"
+        },
+        {
+          "base": "didevayizitavya",
+          "m": "didevayizitavyaH",
+          "f": "didevayizitavyA",
+          "n": "didevayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "didevizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "dudyUzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "didevayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "didevizitf",
+          "m": "didevizitA",
+          "f": "didevizitrI",
+          "n": "didevizitf"
+        },
+        {
+          "base": "dudyUzitf",
+          "m": "dudyUzitA",
+          "f": "dudyUzitrI",
+          "n": "dudyUzitf"
+        },
+        {
+          "base": "didevayizitf",
+          "m": "didevayizitA",
+          "f": "didevayizitrI",
+          "n": "didevayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "didevizyamARa",
+          "m": "didevizyamARaH",
+          "f": "didevizyamARA",
+          "n": "didevizyamARam"
+        },
+        {
+          "base": "dudyUzyamARa",
+          "m": "dudyUzyamARaH",
+          "f": "dudyUzyamARA",
+          "n": "dudyUzyamARam"
+        },
+        {
+          "base": "didevayizyamARa",
+          "m": "didevayizyamARaH",
+          "f": "didevayizyamARA",
+          "n": "didevayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "didevizya",
+          "m": "didevizyaH",
+          "f": "didevizyA",
+          "n": "didevizyam"
+        },
+        {
+          "base": "dudyUzya",
+          "m": "dudyUzyaH",
+          "f": "dudyUzyA",
+          "n": "dudyUzyam"
+        },
+        {
+          "base": "didevayizya",
+          "m": "didevayizyaH",
+          "f": "didevayizyA",
+          "n": "didevayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pradidevizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pradudyUzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pradidevayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "didevizaRa",
+          "m": "",
+          "f": "",
+          "n": "didevizaRam"
+        },
+        {
+          "base": "dudyUzaRa",
+          "m": "",
+          "f": "",
+          "n": "dudyUzaRam"
+        },
+        {
+          "base": "didevayizaRa",
+          "m": "",
+          "f": "",
+          "n": "didevayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "didevizaka",
+          "m": "didevizakaH",
+          "f": "didevizikA",
+          "n": "didevizakam"
+        },
+        {
+          "base": "dudyUzaka",
+          "m": "dudyUzakaH",
+          "f": "dudyUzikA",
+          "n": "dudyUzakam"
+        },
+        {
+          "base": "didevayizaka",
+          "m": "didevayizakaH",
+          "f": "didevayizikA",
+          "n": "didevayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "didevizat",
+          "m": "didevizan",
+          "f": "didevizantI",
+          "n": "didevizat/didevizad"
+        },
+        {
+          "base": "dudyUzat",
+          "m": "dudyUzan",
+          "f": "dudyUzantI",
+          "n": "dudyUzat/dudyUzad"
+        },
+        {
+          "base": "didevayizat",
+          "m": "didevayizan",
+          "f": "didevayizantI",
+          "n": "didevayizat/didevayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "didevayizamARa",
+          "m": "didevayizamARaH",
+          "f": "didevayizamARA",
+          "n": "didevayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "didevizizyamARa",
+          "m": "didevizizyamARaH",
+          "f": "didevizizyamARA",
+          "n": "didevizizyamARam"
+        },
+        {
+          "base": "dudyUzizyamARa",
+          "m": "dudyUzizyamARaH",
+          "f": "dudyUzizyamARA",
+          "n": "dudyUzizyamARam"
+        },
+        {
+          "base": "didevayizizyamARa",
+          "m": "didevayizizyamARaH",
+          "f": "didevayizizyamARA",
+          "n": "didevayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "didevizizyat",
+          "m": "didevizizyan",
+          "f": "didevizizyatI/didevizizyantI",
+          "n": "didevizizyat/didevizizyad"
+        },
+        {
+          "base": "dudyUzizyat",
+          "m": "dudyUzizyan",
+          "f": "dudyUzizyatI/dudyUzizyantI",
+          "n": "dudyUzizyat/dudyUzizyad"
+        },
+        {
+          "base": "didevayizizyat",
+          "m": "didevayizizyan",
+          "f": "didevayizizyatI/didevayizizyantI",
+          "n": "didevayizizyat/didevayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "didevayizizyamARa",
+          "m": "didevayizizyamARaH",
+          "f": "didevayizizyamARA",
+          "n": "didevayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "deva",
+          "m": "devaH",
+          "f": "devA",
+          "n": "devam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "devanIya",
+          "m": "devanIyaH",
+          "f": "devanIyA",
+          "n": "devanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "devita",
+          "m": "devitaH",
+          "f": "devitA",
+          "n": "devitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "devitavat",
+          "m": "devitavAn",
+          "f": "devitavatI",
+          "n": "devitavat/devitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "deti",
+          "m": "",
+          "f": "detiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "devayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "devayAmbaBUvas",
+          "m": "devayAmbaBUvAn",
+          "f": "devayAmbaBUzI",
+          "n": "devayAmbaBUvat/devayAmbaBUvad"
+        },
+        {
+          "base": "devayAmAsivas",
+          "m": "devayAmAsivAn",
+          "f": "devayAmAsyuzI",
+          "n": "devayAmAsivat/devayAmAsivad"
+        },
+        {
+          "base": "devayAYcakfvas",
+          "m": "devayAYcakfvAn",
+          "f": "devayAYcakruzI",
+          "n": "devayAYcakfvat/devayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "devayamAna",
+          "m": "devayamAnaH",
+          "f": "devayamAnA",
+          "n": "devayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "devam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "devaka",
+          "m": "devakaH",
+          "f": "devikA",
+          "n": "devakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "devayitavya",
+          "m": "devayitavyaH",
+          "f": "devayitavyA",
+          "n": "devayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "devayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "devayitf",
+          "m": "devayitA",
+          "f": "devayitrI",
+          "n": "devayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "devyamAna",
+          "m": "devyamAnaH",
+          "f": "devyamAnA",
+          "n": "devyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "devya",
+          "m": "devyaH",
+          "f": "devyA",
+          "n": "devyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pradevya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "devana",
+          "m": "",
+          "f": "",
+          "n": "devanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "devaka",
+          "m": "devakaH",
+          "f": "devikA",
+          "n": "devakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "devayat",
+          "m": "devayan",
+          "f": "devayantI",
+          "n": "devayat/devayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "devayamAna",
+          "m": "devayamAnaH",
+          "f": "devayamAnA",
+          "n": "devayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "devizyamARa",
+          "m": "devizyamARaH",
+          "f": "devizyamARA",
+          "n": "devizyamARam"
+        },
+        {
+          "base": "devayizyamARa",
+          "m": "devayizyamARaH",
+          "f": "devayizyamARA",
+          "n": "devayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "devayizyat",
+          "m": "devayizyan",
+          "f": "devayizyatI/devayizyantI",
+          "n": "devayizyat/devayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "devayizyamARa",
+          "m": "devayizyamARaH",
+          "f": "devayizyamARA",
+          "n": "devayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "dedivA",
+          "m": "",
+          "f": "dedivA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "dediva",
+          "m": "dedivaH",
+          "f": "dedivA",
+          "n": "dedivam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "dedivanIya",
+          "m": "dedivanIyaH",
+          "f": "dedivanIyA",
+          "n": "dedivanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "dedivita",
+          "m": "dedivitaH",
+          "f": "dedivitA",
+          "n": "dedivitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "dedivitavat",
+          "m": "dedivitavAn",
+          "f": "dedivitavatI",
+          "n": "dedivitavat/dedivitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "dediti",
+          "m": "",
+          "f": "deditiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "dedivitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "dedivAmbaBUvas",
+          "m": "dedivAmbaBUvAn",
+          "f": "dedivAmbaBUzI",
+          "n": "dedivAmbaBUvat/dedivAmbaBUvad"
+        },
+        {
+          "base": "dedivAmAsivas",
+          "m": "dedivAmAsivAn",
+          "f": "dedivAmAsyuzI",
+          "n": "dedivAmAsivat/dedivAmAsivad"
+        },
+        {
+          "base": "dedivAYcakfvas",
+          "m": "dedivAYcakfvAn",
+          "f": "dedivAYcakruzI",
+          "n": "dedivAYcakfvat/dedivAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "dediva",
+          "m": "dedivaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "dedIvyamAna",
+          "m": "dedIvyamAnaH",
+          "f": "dedIvyamAnA",
+          "n": "dedIvyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "dedivam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "dedivaka",
+          "m": "dedivakaH",
+          "f": "dedivikA",
+          "n": "dedivakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "dedivitavya",
+          "m": "dedivitavyaH",
+          "f": "dedivitavyA",
+          "n": "dedivitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "dedivitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "dedivitf",
+          "m": "dedivitA",
+          "f": "dedivitrI",
+          "n": "dedivitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "dedIvyamAna",
+          "m": "dedIvyamAnaH",
+          "f": "dedIvyamAnA",
+          "n": "dedIvyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "dedIvya",
+          "m": "dedIvyaH",
+          "f": "dedIvyA",
+          "n": "dedIvyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pradedIvya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "dedivana",
+          "m": "",
+          "f": "",
+          "n": "dedivanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "dedivaka",
+          "m": "dedivakaH",
+          "f": "dedivikA",
+          "n": "dedivakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "dedIvyamAna",
+          "m": "dedIvyamAnaH",
+          "f": "dedIvyamAnA",
+          "n": "dedIvyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "dedivizyamARa",
+          "m": "dedivizyamARaH",
+          "f": "dedivizyamARA",
+          "n": "dedivizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "dedivizyamARa",
+          "m": "dedivizyamARaH",
+          "f": "dedivizyamARA",
+          "n": "dedivizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "dedevA",
+          "m": "",
+          "f": "dedevA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "dedeva",
+          "m": "dedevaH",
+          "f": "dedevA",
+          "n": "dedevam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "dedevanIya",
+          "m": "dedevanIyaH",
+          "f": "dedevanIyA",
+          "n": "dedevanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "dedyUta",
+          "m": "dedyUtaH",
+          "f": "dedyUtA",
+          "n": "dedyUtam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "dedyUtavat",
+          "m": "dedyUtavAn",
+          "f": "dedyUtavatI",
+          "n": "dedyUtavat/dedyUtavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "dedyUti",
+          "m": "",
+          "f": "dedyUtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "dedyUtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "dedevitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "dedevAmbaBUvas",
+          "m": "dedevAmbaBUvAn",
+          "f": "dedevAmbaBUzI",
+          "n": "dedevAmbaBUvat/dedevAmbaBUvad"
+        },
+        {
+          "base": "dedevAmAsivas",
+          "m": "dedevAmAsivAn",
+          "f": "dedevAmAsyuzI",
+          "n": "dedevAmAsivat/dedevAmAsivad"
+        },
+        {
+          "base": "dedevAYcakfvas",
+          "m": "dedevAYcakfvAn",
+          "f": "dedevAYcakruzI",
+          "n": "dedevAYcakfvat/dedevAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "dedeva",
+          "m": "dedevaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "dedivAna",
+          "m": "dedivAnaH",
+          "f": "dedivAnA",
+          "n": "dedivAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "dedevam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "dedevaka",
+          "m": "dedevakaH",
+          "f": "dedevikA",
+          "n": "dedevakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "dedevitavya",
+          "m": "dedevitavyaH",
+          "f": "dedevitavyA",
+          "n": "dedevitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "dedevitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "dedevitf",
+          "m": "dedevitA",
+          "f": "dedevitrI",
+          "n": "dedevitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "dedIvyamAna",
+          "m": "dedIvyamAnaH",
+          "f": "dedIvyamAnA",
+          "n": "dedIvyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pradedIvya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "dedevana",
+          "m": "",
+          "f": "",
+          "n": "dedevanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "dedevaka",
+          "m": "dedevakaH",
+          "f": "dedevikA",
+          "n": "dedevakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "dedivat",
+          "m": "dedivat/dedivad",
+          "f": "dedivatI",
+          "n": "dedivat/dedivad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "dedevizyamARa",
+          "m": "dedevizyamARaH",
+          "f": "dedevizyamARA",
+          "n": "dedevizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "dedevizyat",
+          "m": "dedevizyan",
+          "f": "dedevizyatI/dedevizyantI",
+          "n": "dedevizyat/dedevizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "div",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

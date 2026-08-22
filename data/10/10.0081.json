@@ -1,0 +1,5910 @@
+{
+  "id": "10.0081",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "cuda~"
+    },
+    {
+      "name": "arTaH",
+      "value": "saYcodane",
+      "note": "saYcodanam = praSnaH / preraRA"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to inspire, to question, to ask, to request"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "preraRA karanA, pUCanA, praSna karanA, prArTanA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "saYcodanam = praSnaH , preraRaM vA . praSne dvikarmakaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "BidAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH",
+      "note": "praSnArTe tu dvikarmakaH ."
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1592"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1592"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2567",
+      "ext_link": "/sutraani/sk2567?scroll=sutra-commentary-kaumudi-region&highlight=cauda"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "codayizIzwa",
+        "codayizIyAstAm",
+        "codayizIran",
+        "codayizIzWAH",
+        "codayizIyAsTAm",
+        "codayizIQvam",
+        "codayizIDvam",
+        "codayizIya",
+        "codayizIvahi",
+        "codayizImahi"
+      ],
+      "alang": [
+        "acodayata",
+        "acodayetAm",
+        "acodayanta",
+        "acodayaTAH",
+        "acodayeTAm",
+        "acodayaDvam",
+        "acodaye",
+        "acodayAvahi",
+        "acodayAmahi"
+      ],
+      "alat": [
+        "codayate",
+        "codayete",
+        "codayante",
+        "codayase",
+        "codayeTe",
+        "codayaDve",
+        "codaye",
+        "codayAvahe",
+        "codayAmahe"
+      ],
+      "alit": [
+        "codayAYcakre",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakrAte",
+        "codayAmAsatuH",
+        "codayAmbaBUvatuH",
+        "codayAYcakrire",
+        "codayAmAsuH",
+        "codayAmbaBUvuH",
+        "codayAYcakfze",
+        "codayAmAsiTa",
+        "codayAmbaBUviTa",
+        "codayAYcakrATe",
+        "codayAmAsaTuH",
+        "codayAmbaBUvaTuH",
+        "codayAYcakfQve",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakre",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakfvahe",
+        "codayAmAsiva",
+        "codayAmbaBUviva",
+        "codayAYcakfmahe",
+        "codayAmAsima",
+        "codayAmbaBUvima"
+      ],
+      "alot": [
+        "codayatAm",
+        "codayetAm",
+        "codayantAm",
+        "codayasva",
+        "codayeTAm",
+        "codayaDvam",
+        "codayE",
+        "codayAvahE",
+        "codayAmahE"
+      ],
+      "alrung": [
+        "acodayizyata",
+        "acodayizyetAm",
+        "acodayizyanta",
+        "acodayizyaTAH",
+        "acodayizyeTAm",
+        "acodayizyaDvam",
+        "acodayizye",
+        "acodayizyAvahi",
+        "acodayizyAmahi"
+      ],
+      "alrut": [
+        "codayizyate",
+        "codayizyete",
+        "codayizyante",
+        "codayizyase",
+        "codayizyeTe",
+        "codayizyaDve",
+        "codayizye",
+        "codayizyAvahe",
+        "codayizyAmahe"
+      ],
+      "alung": [
+        "acUcudata",
+        "acUcudetAm",
+        "acUcudanta",
+        "acUcudaTAH",
+        "acUcudeTAm",
+        "acUcudaDvam",
+        "acUcude",
+        "acUcudAvahi",
+        "acUcudAmahi"
+      ],
+      "alut": [
+        "codayitA",
+        "codayitArO",
+        "codayitAraH",
+        "codayitAse",
+        "codayitAsATe",
+        "codayitADve",
+        "codayitAhe",
+        "codayitAsvahe",
+        "codayitAsmahe"
+      ],
+      "avidhiling": [
+        "codayeta",
+        "codayeyAtAm",
+        "codayeran",
+        "codayeTAH",
+        "codayeyATAm",
+        "codayeDvam",
+        "codayeya",
+        "codayevahi",
+        "codayemahi"
+      ],
+      "pashirling": [
+        "codyAt",
+        "codyAd",
+        "codyAstAm",
+        "codyAsuH",
+        "codyAH",
+        "codyAstam",
+        "codyAsta",
+        "codyAsam",
+        "codyAsva",
+        "codyAsma"
+      ],
+      "plang": [
+        "acodayat",
+        "acodayad",
+        "acodayatAm",
+        "acodayan",
+        "acodayaH",
+        "acodayatam",
+        "acodayata",
+        "acodayam",
+        "acodayAva",
+        "acodayAma"
+      ],
+      "plat": [
+        "codayati",
+        "codayataH",
+        "codayanti",
+        "codayasi",
+        "codayaTaH",
+        "codayaTa",
+        "codayAmi",
+        "codayAvaH",
+        "codayAmaH"
+      ],
+      "plit": [
+        "codayAYcakAra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakratuH",
+        "codayAmAsatuH",
+        "codayAmbaBUvatuH",
+        "codayAYcakruH",
+        "codayAmAsuH",
+        "codayAmbaBUvuH",
+        "codayAYcakarTa",
+        "codayAmAsiTa",
+        "codayAmbaBUviTa",
+        "codayAYcakraTuH",
+        "codayAmAsaTuH",
+        "codayAmbaBUvaTuH",
+        "codayAYcakra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakara",
+        "codayAYcakAra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakfva",
+        "codayAmAsiva",
+        "codayAmbaBUviva",
+        "codayAYcakfma",
+        "codayAmAsima",
+        "codayAmbaBUvima"
+      ],
+      "plot": [
+        "codayatAt",
+        "codayatAd",
+        "codayatu",
+        "codayatAm",
+        "codayantu",
+        "codaya",
+        "codayatAt",
+        "codayatAd",
+        "codayatam",
+        "codayata",
+        "codayAni",
+        "codayAva",
+        "codayAma"
+      ],
+      "plrung": [
+        "acodayizyat",
+        "acodayizyad",
+        "acodayizyatAm",
+        "acodayizyan",
+        "acodayizyaH",
+        "acodayizyatam",
+        "acodayizyata",
+        "acodayizyam",
+        "acodayizyAva",
+        "acodayizyAma"
+      ],
+      "plrut": [
+        "codayizyati",
+        "codayizyataH",
+        "codayizyanti",
+        "codayizyasi",
+        "codayizyaTaH",
+        "codayizyaTa",
+        "codayizyAmi",
+        "codayizyAvaH",
+        "codayizyAmaH"
+      ],
+      "plung": [
+        "acUcudat",
+        "acUcudad",
+        "acUcudatAm",
+        "acUcudan",
+        "acUcudaH",
+        "acUcudatam",
+        "acUcudata",
+        "acUcudam",
+        "acUcudAva",
+        "acUcudAma"
+      ],
+      "plut": [
+        "codayitA",
+        "codayitArO",
+        "codayitAraH",
+        "codayitAsi",
+        "codayitAsTaH",
+        "codayitAsTa",
+        "codayitAsmi",
+        "codayitAsvaH",
+        "codayitAsmaH"
+      ],
+      "pvidhiling": [
+        "codayet",
+        "codayed",
+        "codayetAm",
+        "codayeyuH",
+        "codayeH",
+        "codayetam",
+        "codayeta",
+        "codayeyam",
+        "codayeva",
+        "codayema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "codayizIzwa",
+        "codizIzwa",
+        "codayizIyAstAm",
+        "codizIyAstAm",
+        "codayizIran",
+        "codizIran",
+        "codayizIzWAH",
+        "codizIzWAH",
+        "codayizIyAsTAm",
+        "codizIyAsTAm",
+        "codayizIQvam",
+        "codayizIDvam",
+        "codizIDvam",
+        "codayizIya",
+        "codizIya",
+        "codayizIvahi",
+        "codizIvahi",
+        "codayizImahi",
+        "codizImahi"
+      ],
+      "alang": [
+        "acodyata",
+        "acodyetAm",
+        "acodyanta",
+        "acodyaTAH",
+        "acodyeTAm",
+        "acodyaDvam",
+        "acodye",
+        "acodyAvahi",
+        "acodyAmahi"
+      ],
+      "alat": [
+        "codyate",
+        "codyete",
+        "codyante",
+        "codyase",
+        "codyeTe",
+        "codyaDve",
+        "codye",
+        "codyAvahe",
+        "codyAmahe"
+      ],
+      "alit": [
+        "codayAYcakre",
+        "codayAmAse",
+        "codayAmbaBUve",
+        "codayAYcakrAte",
+        "codayAmAsAte",
+        "codayAmbaBUvAte",
+        "codayAYcakrire",
+        "codayAmAsire",
+        "codayAmbaBUvire",
+        "codayAYcakfze",
+        "codayAmAsize",
+        "codayAmbaBUvize",
+        "codayAYcakrATe",
+        "codayAmAsATe",
+        "codayAmbaBUvATe",
+        "codayAYcakfQve",
+        "codayAmAsiDve",
+        "codayAmbaBUviQve",
+        "codayAYcakre",
+        "codayAmAhe",
+        "codayAmbaBUve",
+        "codayAYcakfvahe",
+        "codayAmAsivahe",
+        "codayAmbaBUvivahe",
+        "codayAYcakfmahe",
+        "codayAmAsimahe",
+        "codayAmbaBUvimahe"
+      ],
+      "alot": [
+        "codyatAm",
+        "codyetAm",
+        "codyantAm",
+        "codyasva",
+        "codyeTAm",
+        "codyaDvam",
+        "codyE",
+        "codyAvahE",
+        "codyAmahE"
+      ],
+      "alrung": [
+        "acodayizyata",
+        "acodizyata",
+        "acodayizyetAm",
+        "acodizyetAm",
+        "acodayizyanta",
+        "acodizyanta",
+        "acodayizyaTAH",
+        "acodizyaTAH",
+        "acodayizyeTAm",
+        "acodizyeTAm",
+        "acodayizyaDvam",
+        "acodizyaDvam",
+        "acodayizye",
+        "acodizye",
+        "acodayizyAvahi",
+        "acodizyAvahi",
+        "acodayizyAmahi",
+        "acodizyAmahi"
+      ],
+      "alrut": [
+        "codayizyate",
+        "codizyate",
+        "codayizyete",
+        "codizyete",
+        "codayizyante",
+        "codizyante",
+        "codayizyase",
+        "codizyase",
+        "codayizyeTe",
+        "codizyeTe",
+        "codayizyaDve",
+        "codizyaDve",
+        "codayizye",
+        "codizye",
+        "codayizyAvahe",
+        "codizyAvahe",
+        "codayizyAmahe",
+        "codizyAmahe"
+      ],
+      "alung": [
+        "acodi",
+        "acodayizAtAm",
+        "acodizAtAm",
+        "acodayizata",
+        "acodizata",
+        "acodayizWAH",
+        "acodizWAH",
+        "acodayizATAm",
+        "acodizATAm",
+        "acodayiQvam",
+        "acodayiDvam",
+        "acodiDvam",
+        "acodayizi",
+        "acodizi",
+        "acodayizvahi",
+        "acodizvahi",
+        "acodayizmahi",
+        "acodizmahi"
+      ],
+      "alut": [
+        "codayitA",
+        "coditA",
+        "codayitArO",
+        "coditArO",
+        "codayitAraH",
+        "coditAraH",
+        "codayitAse",
+        "coditAse",
+        "codayitAsATe",
+        "coditAsATe",
+        "codayitADve",
+        "coditADve",
+        "codayitAhe",
+        "coditAhe",
+        "codayitAsvahe",
+        "coditAsvahe",
+        "codayitAsmahe",
+        "coditAsmahe"
+      ],
+      "avidhiling": [
+        "codyeta",
+        "codyeyAtAm",
+        "codyeran",
+        "codyeTAH",
+        "codyeyATAm",
+        "codyeDvam",
+        "codyeya",
+        "codyevahi",
+        "codyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "cucodayizizIzwa",
+        "cucodayizizIyAstAm",
+        "cucodayizizIran",
+        "cucodayizizIzWAH",
+        "cucodayizizIyAsTAm",
+        "cucodayizizIDvam",
+        "cucodayizizIya",
+        "cucodayizizIvahi",
+        "cucodayizizImahi"
+      ],
+      "alang": [
+        "acucodayizata",
+        "acucodayizetAm",
+        "acucodayizanta",
+        "acucodayizaTAH",
+        "acucodayizeTAm",
+        "acucodayizaDvam",
+        "acucodayize",
+        "acucodayizAvahi",
+        "acucodayizAmahi"
+      ],
+      "alat": [
+        "cucodayizate",
+        "cucodayizete",
+        "cucodayizante",
+        "cucodayizase",
+        "cucodayizeTe",
+        "cucodayizaDve",
+        "cucodayize",
+        "cucodayizAvahe",
+        "cucodayizAmahe"
+      ],
+      "alit": [
+        "cucodayizAYcakre",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakrAte",
+        "cucodayizAmAsatuH",
+        "cucodayizAmbaBUvatuH",
+        "cucodayizAYcakrire",
+        "cucodayizAmAsuH",
+        "cucodayizAmbaBUvuH",
+        "cucodayizAYcakfze",
+        "cucodayizAmAsiTa",
+        "cucodayizAmbaBUviTa",
+        "cucodayizAYcakrATe",
+        "cucodayizAmAsaTuH",
+        "cucodayizAmbaBUvaTuH",
+        "cucodayizAYcakfQve",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakre",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakfvahe",
+        "cucodayizAmAsiva",
+        "cucodayizAmbaBUviva",
+        "cucodayizAYcakfmahe",
+        "cucodayizAmAsima",
+        "cucodayizAmbaBUvima"
+      ],
+      "alot": [
+        "cucodayizatAm",
+        "cucodayizetAm",
+        "cucodayizantAm",
+        "cucodayizasva",
+        "cucodayizeTAm",
+        "cucodayizaDvam",
+        "cucodayizE",
+        "cucodayizAvahE",
+        "cucodayizAmahE"
+      ],
+      "alrung": [
+        "acucodayizizyata",
+        "acucodayizizyetAm",
+        "acucodayizizyanta",
+        "acucodayizizyaTAH",
+        "acucodayizizyeTAm",
+        "acucodayizizyaDvam",
+        "acucodayizizye",
+        "acucodayizizyAvahi",
+        "acucodayizizyAmahi"
+      ],
+      "alrut": [
+        "cucodayizizyate",
+        "cucodayizizyete",
+        "cucodayizizyante",
+        "cucodayizizyase",
+        "cucodayizizyeTe",
+        "cucodayizizyaDve",
+        "cucodayizizye",
+        "cucodayizizyAvahe",
+        "cucodayizizyAmahe"
+      ],
+      "alung": [
+        "acucodayizizwa",
+        "acucodayizizAtAm",
+        "acucodayizizata",
+        "acucodayizizWAH",
+        "acucodayizizATAm",
+        "acucodayiziDvam",
+        "acucodayizizi",
+        "acucodayizizvahi",
+        "acucodayizizmahi"
+      ],
+      "alut": [
+        "cucodayizitA",
+        "cucodayizitArO",
+        "cucodayizitAraH",
+        "cucodayizitAse",
+        "cucodayizitAsATe",
+        "cucodayizitADve",
+        "cucodayizitAhe",
+        "cucodayizitAsvahe",
+        "cucodayizitAsmahe"
+      ],
+      "avidhiling": [
+        "cucodayizeta",
+        "cucodayizeyAtAm",
+        "cucodayizeran",
+        "cucodayizeTAH",
+        "cucodayizeyATAm",
+        "cucodayizeDvam",
+        "cucodayizeya",
+        "cucodayizevahi",
+        "cucodayizemahi"
+      ],
+      "pashirling": [
+        "cucodayizyAt",
+        "cucodayizyAd",
+        "cucodayizyAstAm",
+        "cucodayizyAsuH",
+        "cucodayizyAH",
+        "cucodayizyAstam",
+        "cucodayizyAsta",
+        "cucodayizyAsam",
+        "cucodayizyAsva",
+        "cucodayizyAsma"
+      ],
+      "plang": [
+        "acucodayizat",
+        "acucodayizad",
+        "acucodayizatAm",
+        "acucodayizan",
+        "acucodayizaH",
+        "acucodayizatam",
+        "acucodayizata",
+        "acucodayizam",
+        "acucodayizAva",
+        "acucodayizAma"
+      ],
+      "plat": [
+        "cucodayizati",
+        "cucodayizataH",
+        "cucodayizanti",
+        "cucodayizasi",
+        "cucodayizaTaH",
+        "cucodayizaTa",
+        "cucodayizAmi",
+        "cucodayizAvaH",
+        "cucodayizAmaH"
+      ],
+      "plit": [
+        "cucodayizAYcakAra",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakratuH",
+        "cucodayizAmAsatuH",
+        "cucodayizAmbaBUvatuH",
+        "cucodayizAYcakruH",
+        "cucodayizAmAsuH",
+        "cucodayizAmbaBUvuH",
+        "cucodayizAYcakarTa",
+        "cucodayizAmAsiTa",
+        "cucodayizAmbaBUviTa",
+        "cucodayizAYcakraTuH",
+        "cucodayizAmAsaTuH",
+        "cucodayizAmbaBUvaTuH",
+        "cucodayizAYcakra",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakara",
+        "cucodayizAYcakAra",
+        "cucodayizAmAsa",
+        "cucodayizAmbaBUva",
+        "cucodayizAYcakfva",
+        "cucodayizAmAsiva",
+        "cucodayizAmbaBUviva",
+        "cucodayizAYcakfma",
+        "cucodayizAmAsima",
+        "cucodayizAmbaBUvima"
+      ],
+      "plot": [
+        "cucodayizatAt",
+        "cucodayizatAd",
+        "cucodayizatu",
+        "cucodayizatAm",
+        "cucodayizantu",
+        "cucodayiza",
+        "cucodayizatAt",
+        "cucodayizatAd",
+        "cucodayizatam",
+        "cucodayizata",
+        "cucodayizARi",
+        "cucodayizAva",
+        "cucodayizAma"
+      ],
+      "plrung": [
+        "acucodayizizyat",
+        "acucodayizizyad",
+        "acucodayizizyatAm",
+        "acucodayizizyan",
+        "acucodayizizyaH",
+        "acucodayizizyatam",
+        "acucodayizizyata",
+        "acucodayizizyam",
+        "acucodayizizyAva",
+        "acucodayizizyAma"
+      ],
+      "plrut": [
+        "cucodayizizyati",
+        "cucodayizizyataH",
+        "cucodayizizyanti",
+        "cucodayizizyasi",
+        "cucodayizizyaTaH",
+        "cucodayizizyaTa",
+        "cucodayizizyAmi",
+        "cucodayizizyAvaH",
+        "cucodayizizyAmaH"
+      ],
+      "plung": [
+        "acucodayizIt",
+        "acucodayizId",
+        "acucodayizizwAm",
+        "acucodayizizuH",
+        "acucodayizIH",
+        "acucodayizizwam",
+        "acucodayizizwa",
+        "acucodayizizam",
+        "acucodayizizva",
+        "acucodayizizma"
+      ],
+      "plut": [
+        "cucodayizitA",
+        "cucodayizitArO",
+        "cucodayizitAraH",
+        "cucodayizitAsi",
+        "cucodayizitAsTaH",
+        "cucodayizitAsTa",
+        "cucodayizitAsmi",
+        "cucodayizitAsvaH",
+        "cucodayizitAsmaH"
+      ],
+      "pvidhiling": [
+        "cucodayizet",
+        "cucodayized",
+        "cucodayizetAm",
+        "cucodayizeyuH",
+        "cucodayizeH",
+        "cucodayizetam",
+        "cucodayizeta",
+        "cucodayizeyam",
+        "cucodayizeva",
+        "cucodayizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cucodayizizIzwa",
+        "cucodayizizIyAstAm",
+        "cucodayizizIran",
+        "cucodayizizIzWAH",
+        "cucodayizizIyAsTAm",
+        "cucodayizizIDvam",
+        "cucodayizizIya",
+        "cucodayizizIvahi",
+        "cucodayizizImahi"
+      ],
+      "alang": [
+        "acucodayizyata",
+        "acucodayizyetAm",
+        "acucodayizyanta",
+        "acucodayizyaTAH",
+        "acucodayizyeTAm",
+        "acucodayizyaDvam",
+        "acucodayizye",
+        "acucodayizyAvahi",
+        "acucodayizyAmahi"
+      ],
+      "alat": [
+        "cucodayizyate",
+        "cucodayizyete",
+        "cucodayizyante",
+        "cucodayizyase",
+        "cucodayizyeTe",
+        "cucodayizyaDve",
+        "cucodayizye",
+        "cucodayizyAvahe",
+        "cucodayizyAmahe"
+      ],
+      "alit": [
+        "cucodayizAYcakre",
+        "cucodayizAmAse",
+        "cucodayizAmbaBUve",
+        "cucodayizAYcakrAte",
+        "cucodayizAmAsAte",
+        "cucodayizAmbaBUvAte",
+        "cucodayizAYcakrire",
+        "cucodayizAmAsire",
+        "cucodayizAmbaBUvire",
+        "cucodayizAYcakfze",
+        "cucodayizAmAsize",
+        "cucodayizAmbaBUvize",
+        "cucodayizAYcakrATe",
+        "cucodayizAmAsATe",
+        "cucodayizAmbaBUvATe",
+        "cucodayizAYcakfQve",
+        "cucodayizAmAsiDve",
+        "cucodayizAmbaBUviQve",
+        "cucodayizAYcakre",
+        "cucodayizAmAhe",
+        "cucodayizAmbaBUve",
+        "cucodayizAYcakfvahe",
+        "cucodayizAmAsivahe",
+        "cucodayizAmbaBUvivahe",
+        "cucodayizAYcakfmahe",
+        "cucodayizAmAsimahe",
+        "cucodayizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cucodayizyatAm",
+        "cucodayizyetAm",
+        "cucodayizyantAm",
+        "cucodayizyasva",
+        "cucodayizyeTAm",
+        "cucodayizyaDvam",
+        "cucodayizyE",
+        "cucodayizyAvahE",
+        "cucodayizyAmahE"
+      ],
+      "alrung": [
+        "acucodayizizyata",
+        "acucodayizizyetAm",
+        "acucodayizizyanta",
+        "acucodayizizyaTAH",
+        "acucodayizizyeTAm",
+        "acucodayizizyaDvam",
+        "acucodayizizye",
+        "acucodayizizyAvahi",
+        "acucodayizizyAmahi"
+      ],
+      "alrut": [
+        "cucodayizizyate",
+        "cucodayizizyete",
+        "cucodayizizyante",
+        "cucodayizizyase",
+        "cucodayizizyeTe",
+        "cucodayizizyaDve",
+        "cucodayizizye",
+        "cucodayizizyAvahe",
+        "cucodayizizyAmahe"
+      ],
+      "alung": [
+        "acucodayizi",
+        "acucodayizizAtAm",
+        "acucodayizizata",
+        "acucodayizizWAH",
+        "acucodayizizATAm",
+        "acucodayiziDvam",
+        "acucodayizizi",
+        "acucodayizizvahi",
+        "acucodayizizmahi"
+      ],
+      "alut": [
+        "cucodayizitA",
+        "cucodayizitArO",
+        "cucodayizitAraH",
+        "cucodayizitAse",
+        "cucodayizitAsATe",
+        "cucodayizitADve",
+        "cucodayizitAhe",
+        "cucodayizitAsvahe",
+        "cucodayizitAsmahe"
+      ],
+      "avidhiling": [
+        "cucodayizyeta",
+        "cucodayizyeyAtAm",
+        "cucodayizyeran",
+        "cucodayizyeTAH",
+        "cucodayizyeyATAm",
+        "cucodayizyeDvam",
+        "cucodayizyeya",
+        "cucodayizyevahi",
+        "cucodayizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "codayizIzwa",
+        "codayizIyAstAm",
+        "codayizIran",
+        "codayizIzWAH",
+        "codayizIyAsTAm",
+        "codayizIQvam",
+        "codayizIDvam",
+        "codayizIya",
+        "codayizIvahi",
+        "codayizImahi"
+      ],
+      "alang": [
+        "acodayata",
+        "acodayetAm",
+        "acodayanta",
+        "acodayaTAH",
+        "acodayeTAm",
+        "acodayaDvam",
+        "acodaye",
+        "acodayAvahi",
+        "acodayAmahi"
+      ],
+      "alat": [
+        "codayate",
+        "codayete",
+        "codayante",
+        "codayase",
+        "codayeTe",
+        "codayaDve",
+        "codaye",
+        "codayAvahe",
+        "codayAmahe"
+      ],
+      "alit": [
+        "codayAYcakre",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakrAte",
+        "codayAmAsatuH",
+        "codayAmbaBUvatuH",
+        "codayAYcakrire",
+        "codayAmAsuH",
+        "codayAmbaBUvuH",
+        "codayAYcakfze",
+        "codayAmAsiTa",
+        "codayAmbaBUviTa",
+        "codayAYcakrATe",
+        "codayAmAsaTuH",
+        "codayAmbaBUvaTuH",
+        "codayAYcakfQve",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakre",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakfvahe",
+        "codayAmAsiva",
+        "codayAmbaBUviva",
+        "codayAYcakfmahe",
+        "codayAmAsima",
+        "codayAmbaBUvima"
+      ],
+      "alot": [
+        "codayatAm",
+        "codayetAm",
+        "codayantAm",
+        "codayasva",
+        "codayeTAm",
+        "codayaDvam",
+        "codayE",
+        "codayAvahE",
+        "codayAmahE"
+      ],
+      "alrung": [
+        "acodayizyata",
+        "acodayizyetAm",
+        "acodayizyanta",
+        "acodayizyaTAH",
+        "acodayizyeTAm",
+        "acodayizyaDvam",
+        "acodayizye",
+        "acodayizyAvahi",
+        "acodayizyAmahi"
+      ],
+      "alrut": [
+        "codayizyate",
+        "codayizyete",
+        "codayizyante",
+        "codayizyase",
+        "codayizyeTe",
+        "codayizyaDve",
+        "codayizye",
+        "codayizyAvahe",
+        "codayizyAmahe"
+      ],
+      "alung": [
+        "acUcudata",
+        "acUcudetAm",
+        "acUcudanta",
+        "acUcudaTAH",
+        "acUcudeTAm",
+        "acUcudaDvam",
+        "acUcude",
+        "acUcudAvahi",
+        "acUcudAmahi"
+      ],
+      "alut": [
+        "codayitA",
+        "codayitArO",
+        "codayitAraH",
+        "codayitAse",
+        "codayitAsATe",
+        "codayitADve",
+        "codayitAhe",
+        "codayitAsvahe",
+        "codayitAsmahe"
+      ],
+      "avidhiling": [
+        "codayeta",
+        "codayeyAtAm",
+        "codayeran",
+        "codayeTAH",
+        "codayeyATAm",
+        "codayeDvam",
+        "codayeya",
+        "codayevahi",
+        "codayemahi"
+      ],
+      "pashirling": [
+        "codyAt",
+        "codyAd",
+        "codyAstAm",
+        "codyAsuH",
+        "codyAH",
+        "codyAstam",
+        "codyAsta",
+        "codyAsam",
+        "codyAsva",
+        "codyAsma"
+      ],
+      "plang": [
+        "acodayat",
+        "acodayad",
+        "acodayatAm",
+        "acodayan",
+        "acodayaH",
+        "acodayatam",
+        "acodayata",
+        "acodayam",
+        "acodayAva",
+        "acodayAma"
+      ],
+      "plat": [
+        "codayati",
+        "codayataH",
+        "codayanti",
+        "codayasi",
+        "codayaTaH",
+        "codayaTa",
+        "codayAmi",
+        "codayAvaH",
+        "codayAmaH"
+      ],
+      "plit": [
+        "codayAYcakAra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakratuH",
+        "codayAmAsatuH",
+        "codayAmbaBUvatuH",
+        "codayAYcakruH",
+        "codayAmAsuH",
+        "codayAmbaBUvuH",
+        "codayAYcakarTa",
+        "codayAmAsiTa",
+        "codayAmbaBUviTa",
+        "codayAYcakraTuH",
+        "codayAmAsaTuH",
+        "codayAmbaBUvaTuH",
+        "codayAYcakra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakara",
+        "codayAYcakAra",
+        "codayAmAsa",
+        "codayAmbaBUva",
+        "codayAYcakfva",
+        "codayAmAsiva",
+        "codayAmbaBUviva",
+        "codayAYcakfma",
+        "codayAmAsima",
+        "codayAmbaBUvima"
+      ],
+      "plot": [
+        "codayatAt",
+        "codayatAd",
+        "codayatu",
+        "codayatAm",
+        "codayantu",
+        "codaya",
+        "codayatAt",
+        "codayatAd",
+        "codayatam",
+        "codayata",
+        "codayAni",
+        "codayAva",
+        "codayAma"
+      ],
+      "plrung": [
+        "acodayizyat",
+        "acodayizyad",
+        "acodayizyatAm",
+        "acodayizyan",
+        "acodayizyaH",
+        "acodayizyatam",
+        "acodayizyata",
+        "acodayizyam",
+        "acodayizyAva",
+        "acodayizyAma"
+      ],
+      "plrut": [
+        "codayizyati",
+        "codayizyataH",
+        "codayizyanti",
+        "codayizyasi",
+        "codayizyaTaH",
+        "codayizyaTa",
+        "codayizyAmi",
+        "codayizyAvaH",
+        "codayizyAmaH"
+      ],
+      "plung": [
+        "acUcudat",
+        "acUcudad",
+        "acUcudatAm",
+        "acUcudan",
+        "acUcudaH",
+        "acUcudatam",
+        "acUcudata",
+        "acUcudam",
+        "acUcudAva",
+        "acUcudAma"
+      ],
+      "plut": [
+        "codayitA",
+        "codayitArO",
+        "codayitAraH",
+        "codayitAsi",
+        "codayitAsTaH",
+        "codayitAsTa",
+        "codayitAsmi",
+        "codayitAsvaH",
+        "codayitAsmaH"
+      ],
+      "pvidhiling": [
+        "codayet",
+        "codayed",
+        "codayetAm",
+        "codayeyuH",
+        "codayeH",
+        "codayetam",
+        "codayeta",
+        "codayeyam",
+        "codayeva",
+        "codayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "codayizIzwa",
+        "codizIzwa",
+        "codayizIyAstAm",
+        "codizIyAstAm",
+        "codayizIran",
+        "codizIran",
+        "codayizIzWAH",
+        "codizIzWAH",
+        "codayizIyAsTAm",
+        "codizIyAsTAm",
+        "codayizIQvam",
+        "codayizIDvam",
+        "codizIDvam",
+        "codayizIya",
+        "codizIya",
+        "codayizIvahi",
+        "codizIvahi",
+        "codayizImahi",
+        "codizImahi"
+      ],
+      "alang": [
+        "acodyata",
+        "acodyetAm",
+        "acodyanta",
+        "acodyaTAH",
+        "acodyeTAm",
+        "acodyaDvam",
+        "acodye",
+        "acodyAvahi",
+        "acodyAmahi"
+      ],
+      "alat": [
+        "codyate",
+        "codyete",
+        "codyante",
+        "codyase",
+        "codyeTe",
+        "codyaDve",
+        "codye",
+        "codyAvahe",
+        "codyAmahe"
+      ],
+      "alit": [
+        "codayAYcakre",
+        "codayAmAse",
+        "codayAmbaBUve",
+        "codayAYcakrAte",
+        "codayAmAsAte",
+        "codayAmbaBUvAte",
+        "codayAYcakrire",
+        "codayAmAsire",
+        "codayAmbaBUvire",
+        "codayAYcakfze",
+        "codayAmAsize",
+        "codayAmbaBUvize",
+        "codayAYcakrATe",
+        "codayAmAsATe",
+        "codayAmbaBUvATe",
+        "codayAYcakfQve",
+        "codayAmAsiDve",
+        "codayAmbaBUviQve",
+        "codayAYcakre",
+        "codayAmAhe",
+        "codayAmbaBUve",
+        "codayAYcakfvahe",
+        "codayAmAsivahe",
+        "codayAmbaBUvivahe",
+        "codayAYcakfmahe",
+        "codayAmAsimahe",
+        "codayAmbaBUvimahe"
+      ],
+      "alot": [
+        "codyatAm",
+        "codyetAm",
+        "codyantAm",
+        "codyasva",
+        "codyeTAm",
+        "codyaDvam",
+        "codyE",
+        "codyAvahE",
+        "codyAmahE"
+      ],
+      "alrung": [
+        "acodayizyata",
+        "acodizyata",
+        "acodayizyetAm",
+        "acodizyetAm",
+        "acodayizyanta",
+        "acodizyanta",
+        "acodayizyaTAH",
+        "acodizyaTAH",
+        "acodayizyeTAm",
+        "acodizyeTAm",
+        "acodayizyaDvam",
+        "acodizyaDvam",
+        "acodayizye",
+        "acodizye",
+        "acodayizyAvahi",
+        "acodizyAvahi",
+        "acodayizyAmahi",
+        "acodizyAmahi"
+      ],
+      "alrut": [
+        "codayizyate",
+        "codizyate",
+        "codayizyete",
+        "codizyete",
+        "codayizyante",
+        "codizyante",
+        "codayizyase",
+        "codizyase",
+        "codayizyeTe",
+        "codizyeTe",
+        "codayizyaDve",
+        "codizyaDve",
+        "codayizye",
+        "codizye",
+        "codayizyAvahe",
+        "codizyAvahe",
+        "codayizyAmahe",
+        "codizyAmahe"
+      ],
+      "alung": [
+        "acodi",
+        "acodayizAtAm",
+        "acodizAtAm",
+        "acodayizata",
+        "acodizata",
+        "acodayizWAH",
+        "acodizWAH",
+        "acodayizATAm",
+        "acodizATAm",
+        "acodayiQvam",
+        "acodayiDvam",
+        "acodiDvam",
+        "acodayizi",
+        "acodizi",
+        "acodayizvahi",
+        "acodizvahi",
+        "acodayizmahi",
+        "acodizmahi"
+      ],
+      "alut": [
+        "codayitA",
+        "coditA",
+        "codayitArO",
+        "coditArO",
+        "codayitAraH",
+        "coditAraH",
+        "codayitAse",
+        "coditAse",
+        "codayitAsATe",
+        "coditAsATe",
+        "codayitADve",
+        "coditADve",
+        "codayitAhe",
+        "coditAhe",
+        "codayitAsvahe",
+        "coditAsvahe",
+        "codayitAsmahe",
+        "coditAsmahe"
+      ],
+      "avidhiling": [
+        "codyeta",
+        "codyeyAtAm",
+        "codyeran",
+        "codyeTAH",
+        "codyeyATAm",
+        "codyeDvam",
+        "codyeya",
+        "codyevahi",
+        "codyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "coda",
+          "m": "codaH",
+          "f": "codA",
+          "n": "codam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "codanIya",
+          "m": "codanIyaH",
+          "f": "codanIyA",
+          "n": "codanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "codita",
+          "m": "coditaH",
+          "f": "coditA",
+          "n": "coditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "coditavat",
+          "m": "coditavAn",
+          "f": "coditavatI",
+          "n": "coditavat/coditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cotti",
+          "m": "",
+          "f": "cottiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "codayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "codayAmbaBUvas",
+          "m": "codayAmbaBUvAn",
+          "f": "codayAmbaBUzI",
+          "n": "codayAmbaBUvat/codayAmbaBUvad"
+        },
+        {
+          "base": "codayAmAsivas",
+          "m": "codayAmAsivAn",
+          "f": "codayAmAsuzI",
+          "n": "codayAmAsivat/codayAmAsivad"
+        },
+        {
+          "base": "codayAYcakfvas",
+          "m": "codayAYcakfvAn",
+          "f": "codayAYcakruzI",
+          "n": "codayAYcakfvat/codayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "codayamAna",
+          "m": "codayamAnaH",
+          "f": "codayamAnA",
+          "n": "codayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "codam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "codaka",
+          "m": "codakaH",
+          "f": "codikA",
+          "n": "codakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "codayitavya",
+          "m": "codayitavyaH",
+          "f": "codayitavyA",
+          "n": "codayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "codayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "codayitf",
+          "m": "codayitA",
+          "f": "codayitrI",
+          "n": "codayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "codyamAna",
+          "m": "codyamAnaH",
+          "f": "codyamAnA",
+          "n": "codyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "codya",
+          "m": "codyaH",
+          "f": "codyA",
+          "n": "codyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracodya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "codana",
+          "m": "",
+          "f": "",
+          "n": "codanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "codaka",
+          "m": "codakaH",
+          "f": "codikA",
+          "n": "codakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "codayat",
+          "m": "codayan",
+          "f": "codayantI",
+          "n": "codayat/codayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "codayamAna",
+          "m": "codayamAnaH",
+          "f": "codayamAnA",
+          "n": "codayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "codizyamARa",
+          "m": "codizyamARaH",
+          "f": "codizyamARA",
+          "n": "codizyamARam"
+        },
+        {
+          "base": "codayizyamARa",
+          "m": "codayizyamARaH",
+          "f": "codayizyamARA",
+          "n": "codayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "codayizyat",
+          "m": "codayizyan",
+          "f": "codayizyatI/codayizyantI",
+          "n": "codayizyat/codayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "codayizyamARa",
+          "m": "codayizyamARaH",
+          "f": "codayizyamARA",
+          "n": "codayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cucodayizA",
+          "m": "",
+          "f": "cucodayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cucodayiza",
+          "m": "cucodayizaH",
+          "f": "cucodayizA",
+          "n": "cucodayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cucodayizaRIya",
+          "m": "cucodayizaRIyaH",
+          "f": "cucodayizaRIyA",
+          "n": "cucodayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cucodayizu",
+          "m": "cucodayizuH",
+          "f": "cucodayizuH",
+          "n": "cucodayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cucodayizita",
+          "m": "cucodayizitaH",
+          "f": "cucodayizitA",
+          "n": "cucodayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cucodayizitavat",
+          "m": "cucodayizitavAn",
+          "f": "cucodayizitavatI",
+          "n": "cucodayizitavat/cucodayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cucodayizwi",
+          "m": "",
+          "f": "cucodayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cucodayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cucodayizAmbaBUvas",
+          "m": "cucodayizAmbaBUvAn",
+          "f": "cucodayizAmbaBUzI",
+          "n": "cucodayizAmbaBUvat/cucodayizAmbaBUvad"
+        },
+        {
+          "base": "cucodayizAmAsivas",
+          "m": "cucodayizAmAsivAn",
+          "f": "cucodayizAmAsyuzI",
+          "n": "cucodayizAmAsivat/cucodayizAmAsivad"
+        },
+        {
+          "base": "cucodayizAYcakfvas",
+          "m": "cucodayizAYcakfvAn",
+          "f": "cucodayizAYcakruzI",
+          "n": "cucodayizAYcakfvat/cucodayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cucodayiza",
+          "m": "cucodayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cucodayizamARa",
+          "m": "cucodayizamARaH",
+          "f": "cucodayizamARA",
+          "n": "cucodayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cucodayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cucodayizaka",
+          "m": "cucodayizakaH",
+          "f": "cucodayizikA",
+          "n": "cucodayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cucodayizitavya",
+          "m": "cucodayizitavyaH",
+          "f": "cucodayizitavyA",
+          "n": "cucodayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cucodayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cucodayizitf",
+          "m": "cucodayizitA",
+          "f": "cucodayizitrI",
+          "n": "cucodayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cucodayizyamARa",
+          "m": "cucodayizyamARaH",
+          "f": "cucodayizyamARA",
+          "n": "cucodayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cucodayizya",
+          "m": "cucodayizyaH",
+          "f": "cucodayizyA",
+          "n": "cucodayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracucodayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cucodayizaRa",
+          "m": "",
+          "f": "",
+          "n": "cucodayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cucodayizaka",
+          "m": "cucodayizakaH",
+          "f": "cucodayizikA",
+          "n": "cucodayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cucodayizat",
+          "m": "cucodayizan",
+          "f": "cucodayizantI",
+          "n": "cucodayizat/cucodayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cucodayizamARa",
+          "m": "cucodayizamARaH",
+          "f": "cucodayizamARA",
+          "n": "cucodayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cucodayizizyamARa",
+          "m": "cucodayizizyamARaH",
+          "f": "cucodayizizyamARA",
+          "n": "cucodayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cucodayizizyat",
+          "m": "cucodayizizyan",
+          "f": "cucodayizizyatI/cucodayizizyantI",
+          "n": "cucodayizizyat/cucodayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cucodayizizyamARa",
+          "m": "cucodayizizyamARaH",
+          "f": "cucodayizizyamARA",
+          "n": "cucodayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "coda",
+          "m": "codaH",
+          "f": "codA",
+          "n": "codam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "codanIya",
+          "m": "codanIyaH",
+          "f": "codanIyA",
+          "n": "codanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "codita",
+          "m": "coditaH",
+          "f": "coditA",
+          "n": "coditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "coditavat",
+          "m": "coditavAn",
+          "f": "coditavatI",
+          "n": "coditavat/coditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cotti",
+          "m": "",
+          "f": "cottiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "codayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "codayAmbaBUvas",
+          "m": "codayAmbaBUvAn",
+          "f": "codayAmbaBUzI",
+          "n": "codayAmbaBUvat/codayAmbaBUvad"
+        },
+        {
+          "base": "codayAmAsivas",
+          "m": "codayAmAsivAn",
+          "f": "codayAmAsyuzI",
+          "n": "codayAmAsivat/codayAmAsivad"
+        },
+        {
+          "base": "codayAYcakfvas",
+          "m": "codayAYcakfvAn",
+          "f": "codayAYcakruzI",
+          "n": "codayAYcakfvat/codayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "codayamAna",
+          "m": "codayamAnaH",
+          "f": "codayamAnA",
+          "n": "codayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "codam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "codaka",
+          "m": "codakaH",
+          "f": "codikA",
+          "n": "codakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "codayitavya",
+          "m": "codayitavyaH",
+          "f": "codayitavyA",
+          "n": "codayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "codayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "codayitf",
+          "m": "codayitA",
+          "f": "codayitrI",
+          "n": "codayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "codyamAna",
+          "m": "codyamAnaH",
+          "f": "codyamAnA",
+          "n": "codyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "codya",
+          "m": "codyaH",
+          "f": "codyA",
+          "n": "codyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracodya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "codana",
+          "m": "",
+          "f": "",
+          "n": "codanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "codaka",
+          "m": "codakaH",
+          "f": "codikA",
+          "n": "codakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "codayat",
+          "m": "codayan",
+          "f": "codayantI",
+          "n": "codayat/codayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "codayamAna",
+          "m": "codayamAnaH",
+          "f": "codayamAnA",
+          "n": "codayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "codizyamARa",
+          "m": "codizyamARaH",
+          "f": "codizyamARA",
+          "n": "codizyamARam"
+        },
+        {
+          "base": "codayizyamARa",
+          "m": "codayizyamARaH",
+          "f": "codayizyamARA",
+          "n": "codayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "codayizyat",
+          "m": "codayizyan",
+          "f": "codayizyatI/codayizyantI",
+          "n": "codayizyat/codayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "codayizyamARa",
+          "m": "codayizyamARaH",
+          "f": "codayizyamARA",
+          "n": "codayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "cud",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "pra",
+      "examples": [
+        "'Diyo yo naH pracodayAt' (f॰3.61.10).",
+        "'pracodanaM devakftaM gavAM karmasu vartatAm' (BA॰anu॰69.9). pracodanaM pratodena pravartanaM preraRam."
+      ]
+    },
+    {
+      "prefix": "aBi",
+      "examples": [
+        "'fziH kaScidAgatya mama janmAByacodayat' (BA0 Adi0 71.19). aByacodayat=apfcCat. nArTo'BinA.",
+        "'asurAstatra mAM dfzwvA kastvamityaByacodayan' (BA0 Adi0 76.37). ukto'rTaH."
+      ]
+    }
+  ],
+  "prayoga": [
+    {
+      "form": "codayAmi",
+      "lakaar": "lawlakAraH (parasmEpadam)",
+      "purusha": "uttamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "vAlmIkirAmAyaRe sundarakARqam",
+          "reference": "1.95",
+          "text": "tasmAtsaMcodayAmi tvAmuttizWa",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=94&"
+        }
+      ]
+    },
+    {
+      "form": "codayAmAsa",
+      "lakaar": "liwlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "raGuvaMSam",
+          "reference": "4.24",
+          "text": "yAtrAyE codayAmAsa.",
+          "external": "https://sanskritsahitya.org/raghuvansham/4.24"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "55.1",
+          "text": "vasizWaScodayAmAsa kAmaDuk sfja yogataH",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=55&field_sloka_value=1&"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "77.7",
+          "text": "codayAmAsa tAM senAm",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=77&field_sloka_value=7&"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe sundarakARqam",
+          "reference": "47.1",
+          "text": "Ahave pracodayAmAsa SarEstriBi SSitEH",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=47&field_sloka_value=10&"
+        },
+        {
+          "book": "kumArasamBavam",
+          "reference": "2.29",
+          "text": "guruM netrasahasreRa codayAmAsa",
+          "external": "https://sanskritsahitya.org/kumarasambhavam/2.29"
+        }
+      ]
+    },
+    {
+      "form": "codayAmAsuH",
+      "lakaar": "liwlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "bahuvacanam",
+      "examples": [
+        {
+          "book": "kumArasamBavam",
+          "reference": "6.65",
+          "text": "fzayaScodayAmAsuH .... sa BUDaram",
+          "external": ""
+        }
+      ]
+    },
+    {
+      "form": "codayAmAsa",
+      "lakaar": "liwlakAraH (Atmanepadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "55.1",
+          "text": "vasizWaScodayAmAsa kAmaDuk sfja yogataH",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=55&field_sloka_value=1&"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "77.7",
+          "text": "codayAmAsa tAM senAm",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=77&field_sloka_value=7&"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe sundarakARqam",
+          "reference": "47.1",
+          "text": "Ahave pracodayAmAsa SarEstriBi SSitEH",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=47&field_sloka_value=10&"
+        }
+      ]
+    },
+    {
+      "form": "acodayat",
+      "lakaar": "laNlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "4.27",
+          "text": "vicitrArTapadaM samyaggAyakO tAvacodayat",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=4&field_sloka_value=27&"
+        },
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "27.25",
+          "text": "mAnasA me BavizyaDvamiti tAnaByacodayat",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=27&field_sloka_value=25&"
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {
+    "pra": {
+      "prefix": "pra",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "pracodayizIzwa",
+            "pracodayizIyAstAm",
+            "pracodayizIran",
+            "pracodayizIzWAH",
+            "pracodayizIyAsTAm",
+            "pracodayizIQvam",
+            "pracodayizIDvam",
+            "pracodayizIya",
+            "pracodayizIvahi",
+            "pracodayizImahi"
+          ],
+          "alang": [
+            "prAcodayata",
+            "prAcodayetAm",
+            "prAcodayanta",
+            "prAcodayaTAH",
+            "prAcodayeTAm",
+            "prAcodayaDvam",
+            "prAcodaye",
+            "prAcodayAvahi",
+            "prAcodayAmahi"
+          ],
+          "alat": [
+            "pracodayate",
+            "pracodayete",
+            "pracodayante",
+            "pracodayase",
+            "pracodayeTe",
+            "pracodayaDve",
+            "pracodaye",
+            "pracodayAvahe",
+            "pracodayAmahe"
+          ],
+          "alit": [
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvatuH",
+            "pracodayAmAsatuH",
+            "pracodayAYcakrAte",
+            "pracodayAmbaBUvuH",
+            "pracodayAmAsuH",
+            "pracodayAYcakrire",
+            "pracodayAmbaBUviTa",
+            "pracodayAmAsiTa",
+            "pracodayAYcakfze",
+            "pracodayAmbaBUvaTuH",
+            "pracodayAmAsaTuH",
+            "pracodayAYcakrATe",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakfQve",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakre",
+            "pracodayAmbaBUviva",
+            "pracodayAmAsiva",
+            "pracodayAYcakfvahe",
+            "pracodayAmbaBUvima",
+            "pracodayAmAsima",
+            "pracodayAYcakfmahe"
+          ],
+          "alot": [
+            "pracodayatAm",
+            "pracodayetAm",
+            "pracodayantAm",
+            "pracodayasva",
+            "pracodayeTAm",
+            "pracodayaDvam",
+            "pracodayE",
+            "pracodayAvahE",
+            "pracodayAmahE"
+          ],
+          "alrung": [
+            "prAcodayizyata",
+            "prAcodayizyetAm",
+            "prAcodayizyanta",
+            "prAcodayizyaTAH",
+            "prAcodayizyeTAm",
+            "prAcodayizyaDvam",
+            "prAcodayizye",
+            "prAcodayizyAvahi",
+            "prAcodayizyAmahi"
+          ],
+          "alrut": [
+            "pracodayizyate",
+            "pracodayizyete",
+            "pracodayizyante",
+            "pracodayizyase",
+            "pracodayizyeTe",
+            "pracodayizyaDve",
+            "pracodayizye",
+            "pracodayizyAvahe",
+            "pracodayizyAmahe"
+          ],
+          "alung": [
+            "prAcUcudata",
+            "prAcUcudetAm",
+            "prAcUcudanta",
+            "prAcUcudaTAH",
+            "prAcUcudeTAm",
+            "prAcUcudaDvam",
+            "prAcUcude",
+            "prAcUcudAvahi",
+            "prAcUcudAmahi"
+          ],
+          "alut": [
+            "pracodayitA",
+            "pracodayitArO",
+            "pracodayitAraH",
+            "pracodayitAse",
+            "pracodayitAsATe",
+            "pracodayitADve",
+            "pracodayitAhe",
+            "pracodayitAsvahe",
+            "pracodayitAsmahe"
+          ],
+          "avidhiling": [
+            "pracodayeta",
+            "pracodayeyAtAm",
+            "pracodayeran",
+            "pracodayeTAH",
+            "pracodayeyATAm",
+            "pracodayeDvam",
+            "pracodayeya",
+            "pracodayevahi",
+            "pracodayemahi"
+          ],
+          "pashirling": [
+            "pracodyAt",
+            "pracodyAd",
+            "pracodyAstAm",
+            "pracodyAsuH",
+            "pracodyAH",
+            "pracodyAstam",
+            "pracodyAsta",
+            "pracodyAsam",
+            "pracodyAsva",
+            "pracodyAsma"
+          ],
+          "plang": [
+            "prAcodayat",
+            "prAcodayad",
+            "prAcodayatAm",
+            "prAcodayan",
+            "prAcodayaH",
+            "prAcodayatam",
+            "prAcodayata",
+            "prAcodayam",
+            "prAcodayAva",
+            "prAcodayAma"
+          ],
+          "plat": [
+            "pracodayati",
+            "pracodayataH",
+            "pracodayanti",
+            "pracodayasi",
+            "pracodayaTaH",
+            "pracodayaTa",
+            "pracodayAmi",
+            "pracodayAvaH",
+            "pracodayAmaH"
+          ],
+          "plit": [
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakAra",
+            "pracodayAmbaBUvatuH",
+            "pracodayAmAsatuH",
+            "pracodayAYcakratuH",
+            "pracodayAmbaBUvuH",
+            "pracodayAmAsuH",
+            "pracodayAYcakruH",
+            "pracodayAmbaBUviTa",
+            "pracodayAmAsiTa",
+            "pracodayAYcakarTa",
+            "pracodayAmbaBUvaTuH",
+            "pracodayAmAsaTuH",
+            "pracodayAYcakraTuH",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakra",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakara",
+            "pracodayAYcakAra",
+            "pracodayAmbaBUviva",
+            "pracodayAmAsiva",
+            "pracodayAYcakfva",
+            "pracodayAmbaBUvima",
+            "pracodayAmAsima",
+            "pracodayAYcakfma"
+          ],
+          "plot": [
+            "pracodayatAt",
+            "pracodayatAd",
+            "pracodayatu",
+            "pracodayatAm",
+            "pracodayantu",
+            "pracodayatAt",
+            "pracodayatAd",
+            "pracodaya",
+            "pracodayatam",
+            "pracodayata",
+            "pracodayAni",
+            "pracodayAva",
+            "pracodayAma"
+          ],
+          "plrung": [
+            "prAcodayizyat",
+            "prAcodayizyad",
+            "prAcodayizyatAm",
+            "prAcodayizyan",
+            "prAcodayizyaH",
+            "prAcodayizyatam",
+            "prAcodayizyata",
+            "prAcodayizyam",
+            "prAcodayizyAva",
+            "prAcodayizyAma"
+          ],
+          "plrut": [
+            "pracodayizyati",
+            "pracodayizyataH",
+            "pracodayizyanti",
+            "pracodayizyasi",
+            "pracodayizyaTaH",
+            "pracodayizyaTa",
+            "pracodayizyAmi",
+            "pracodayizyAvaH",
+            "pracodayizyAmaH"
+          ],
+          "plung": [
+            "prAcUcudat",
+            "prAcUcudad",
+            "prAcUcudatAm",
+            "prAcUcudan",
+            "prAcUcudaH",
+            "prAcUcudatam",
+            "prAcUcudata",
+            "prAcUcudam",
+            "prAcUcudAva",
+            "prAcUcudAma"
+          ],
+          "plut": [
+            "pracodayitA",
+            "pracodayitArO",
+            "pracodayitAraH",
+            "pracodayitAsi",
+            "pracodayitAsTaH",
+            "pracodayitAsTa",
+            "pracodayitAsmi",
+            "pracodayitAsvaH",
+            "pracodayitAsmaH"
+          ],
+          "pvidhiling": [
+            "pracodayet",
+            "pracodayed",
+            "pracodayetAm",
+            "pracodayeyuH",
+            "pracodayeH",
+            "pracodayetam",
+            "pracodayeta",
+            "pracodayeyam",
+            "pracodayeva",
+            "pracodayema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "pracodizIzwa",
+            "pracodayizIzwa",
+            "pracodizIyAstAm",
+            "pracodayizIyAstAm",
+            "pracodizIran",
+            "pracodayizIran",
+            "pracodizIzWAH",
+            "pracodayizIzWAH",
+            "pracodizIyAsTAm",
+            "pracodayizIyAsTAm",
+            "pracodizIDvam",
+            "pracodayizIQvam",
+            "pracodayizIDvam",
+            "pracodizIya",
+            "pracodayizIya",
+            "pracodizIvahi",
+            "pracodayizIvahi",
+            "pracodizImahi",
+            "pracodayizImahi"
+          ],
+          "alang": [
+            "prAcodyata",
+            "prAcodyetAm",
+            "prAcodyanta",
+            "prAcodyaTAH",
+            "prAcodyeTAm",
+            "prAcodyaDvam",
+            "prAcodye",
+            "prAcodyAvahi",
+            "prAcodyAmahi"
+          ],
+          "alat": [
+            "pracodyate",
+            "pracodyete",
+            "pracodyante",
+            "pracodyase",
+            "pracodyeTe",
+            "pracodyaDve",
+            "pracodye",
+            "pracodyAvahe",
+            "pracodyAmahe"
+          ],
+          "alit": [
+            "pracodayAmbaBUve",
+            "pracodayAmAse",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvAte",
+            "pracodayAmAsAte",
+            "pracodayAYcakrAte",
+            "pracodayAmbaBUvire",
+            "pracodayAmAsire",
+            "pracodayAYcakrire",
+            "pracodayAmbaBUvize",
+            "pracodayAmAsize",
+            "pracodayAYcakfze",
+            "pracodayAmbaBUvATe",
+            "pracodayAmAsATe",
+            "pracodayAYcakrATe",
+            "pracodayAmbaBUviQve",
+            "pracodayAmAsiDve",
+            "pracodayAYcakfQve",
+            "pracodayAmbaBUve",
+            "pracodayAmAhe",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvivahe",
+            "pracodayAmAsivahe",
+            "pracodayAYcakfvahe",
+            "pracodayAmbaBUvimahe",
+            "pracodayAmAsimahe",
+            "pracodayAYcakfmahe"
+          ],
+          "alot": [
+            "pracodyatAm",
+            "pracodyetAm",
+            "pracodyantAm",
+            "pracodyasva",
+            "pracodyeTAm",
+            "pracodyaDvam",
+            "pracodyE",
+            "pracodyAvahE",
+            "pracodyAmahE"
+          ],
+          "alrung": [
+            "prAcodizyata",
+            "prAcodayizyata",
+            "prAcodizyetAm",
+            "prAcodayizyetAm",
+            "prAcodizyanta",
+            "prAcodayizyanta",
+            "prAcodizyaTAH",
+            "prAcodayizyaTAH",
+            "prAcodizyeTAm",
+            "prAcodayizyeTAm",
+            "prAcodizyaDvam",
+            "prAcodayizyaDvam",
+            "prAcodizye",
+            "prAcodayizye",
+            "prAcodizyAvahi",
+            "prAcodayizyAvahi",
+            "prAcodizyAmahi",
+            "prAcodayizyAmahi"
+          ],
+          "alrut": [
+            "pracodizyate",
+            "pracodayizyate",
+            "pracodizyete",
+            "pracodayizyete",
+            "pracodizyante",
+            "pracodayizyante",
+            "pracodizyase",
+            "pracodayizyase",
+            "pracodizyeTe",
+            "pracodayizyeTe",
+            "pracodizyaDve",
+            "pracodayizyaDve",
+            "pracodizye",
+            "pracodayizye",
+            "pracodizyAvahe",
+            "pracodayizyAvahe",
+            "pracodizyAmahe",
+            "pracodayizyAmahe"
+          ],
+          "alung": [
+            "prAcodi",
+            "prAcodizAtAm",
+            "prAcodayizAtAm",
+            "prAcodizata",
+            "prAcodayizata",
+            "prAcodizWAH",
+            "prAcodayizWAH",
+            "prAcodizATAm",
+            "prAcodayizATAm",
+            "prAcodiDvam",
+            "prAcodayiQvam",
+            "prAcodayiDvam",
+            "prAcodizi",
+            "prAcodayizi",
+            "prAcodizvahi",
+            "prAcodayizvahi",
+            "prAcodizmahi",
+            "prAcodayizmahi"
+          ],
+          "alut": [
+            "pracoditA",
+            "pracodayitA",
+            "pracoditArO",
+            "pracodayitArO",
+            "pracoditAraH",
+            "pracodayitAraH",
+            "pracoditAse",
+            "pracodayitAse",
+            "pracoditAsATe",
+            "pracodayitAsATe",
+            "pracoditADve",
+            "pracodayitADve",
+            "pracoditAhe",
+            "pracodayitAhe",
+            "pracoditAsvahe",
+            "pracodayitAsvahe",
+            "pracoditAsmahe",
+            "pracodayitAsmahe"
+          ],
+          "avidhiling": [
+            "pracodyeta",
+            "pracodyeyAtAm",
+            "pracodyeran",
+            "pracodyeTAH",
+            "pracodyeyATAm",
+            "pracodyeDvam",
+            "pracodyeya",
+            "pracodyevahi",
+            "pracodyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "pracucodayizizIzwa",
+            "pracucodayizizIyAstAm",
+            "pracucodayizizIran",
+            "pracucodayizizIzWAH",
+            "pracucodayizizIyAsTAm",
+            "pracucodayizizIDvam",
+            "pracucodayizizIya",
+            "pracucodayizizIvahi",
+            "pracucodayizizImahi"
+          ],
+          "alang": [
+            "prAcucodayizata",
+            "prAcucodayizetAm",
+            "prAcucodayizanta",
+            "prAcucodayizaTAH",
+            "prAcucodayizeTAm",
+            "prAcucodayizaDvam",
+            "prAcucodayize",
+            "prAcucodayizAvahi",
+            "prAcucodayizAmahi"
+          ],
+          "alat": [
+            "pracucodayizate",
+            "pracucodayizete",
+            "pracucodayizante",
+            "pracucodayizase",
+            "pracucodayizeTe",
+            "pracucodayizaDve",
+            "pracucodayize",
+            "pracucodayizAvahe",
+            "pracucodayizAmahe"
+          ],
+          "alit": [
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakre",
+            "pracucodayizAmbaBUvatuH",
+            "pracucodayizAmAsatuH",
+            "pracucodayizAYcakrAte",
+            "pracucodayizAmbaBUvuH",
+            "pracucodayizAmAsuH",
+            "pracucodayizAYcakrire",
+            "pracucodayizAmbaBUviTa",
+            "pracucodayizAmAsiTa",
+            "pracucodayizAYcakfze",
+            "pracucodayizAmbaBUvaTuH",
+            "pracucodayizAmAsaTuH",
+            "pracucodayizAYcakrATe",
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakfQve",
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakre",
+            "pracucodayizAmbaBUviva",
+            "pracucodayizAmAsiva",
+            "pracucodayizAYcakfvahe",
+            "pracucodayizAmbaBUvima",
+            "pracucodayizAmAsima",
+            "pracucodayizAYcakfmahe"
+          ],
+          "alot": [
+            "pracucodayizatAm",
+            "pracucodayizetAm",
+            "pracucodayizantAm",
+            "pracucodayizasva",
+            "pracucodayizeTAm",
+            "pracucodayizaDvam",
+            "pracucodayizE",
+            "pracucodayizAvahE",
+            "pracucodayizAmahE"
+          ],
+          "alrung": [
+            "prAcucodayizizyata",
+            "prAcucodayizizyetAm",
+            "prAcucodayizizyanta",
+            "prAcucodayizizyaTAH",
+            "prAcucodayizizyeTAm",
+            "prAcucodayizizyaDvam",
+            "prAcucodayizizye",
+            "prAcucodayizizyAvahi",
+            "prAcucodayizizyAmahi"
+          ],
+          "alrut": [
+            "pracucodayizizyate",
+            "pracucodayizizyete",
+            "pracucodayizizyante",
+            "pracucodayizizyase",
+            "pracucodayizizyeTe",
+            "pracucodayizizyaDve",
+            "pracucodayizizye",
+            "pracucodayizizyAvahe",
+            "pracucodayizizyAmahe"
+          ],
+          "alung": [
+            "prAcucodayizizwa",
+            "prAcucodayizizAtAm",
+            "prAcucodayizizata",
+            "prAcucodayizizWAH",
+            "prAcucodayizizATAm",
+            "prAcucodayiziDvam",
+            "prAcucodayizizi",
+            "prAcucodayizizvahi",
+            "prAcucodayizizmahi"
+          ],
+          "alut": [
+            "pracucodayizitA",
+            "pracucodayizitArO",
+            "pracucodayizitAraH",
+            "pracucodayizitAse",
+            "pracucodayizitAsATe",
+            "pracucodayizitADve",
+            "pracucodayizitAhe",
+            "pracucodayizitAsvahe",
+            "pracucodayizitAsmahe"
+          ],
+          "avidhiling": [
+            "pracucodayizeta",
+            "pracucodayizeyAtAm",
+            "pracucodayizeran",
+            "pracucodayizeTAH",
+            "pracucodayizeyATAm",
+            "pracucodayizeDvam",
+            "pracucodayizeya",
+            "pracucodayizevahi",
+            "pracucodayizemahi"
+          ],
+          "pashirling": [
+            "pracucodayizyAt",
+            "pracucodayizyAd",
+            "pracucodayizyAstAm",
+            "pracucodayizyAsuH",
+            "pracucodayizyAH",
+            "pracucodayizyAstam",
+            "pracucodayizyAsta",
+            "pracucodayizyAsam",
+            "pracucodayizyAsva",
+            "pracucodayizyAsma"
+          ],
+          "plang": [
+            "prAcucodayizat",
+            "prAcucodayizad",
+            "prAcucodayizatAm",
+            "prAcucodayizan",
+            "prAcucodayizaH",
+            "prAcucodayizatam",
+            "prAcucodayizata",
+            "prAcucodayizam",
+            "prAcucodayizAva",
+            "prAcucodayizAma"
+          ],
+          "plat": [
+            "pracucodayizati",
+            "pracucodayizataH",
+            "pracucodayizanti",
+            "pracucodayizasi",
+            "pracucodayizaTaH",
+            "pracucodayizaTa",
+            "pracucodayizAmi",
+            "pracucodayizAvaH",
+            "pracucodayizAmaH"
+          ],
+          "plit": [
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakAra",
+            "pracucodayizAmbaBUvatuH",
+            "pracucodayizAmAsatuH",
+            "pracucodayizAYcakratuH",
+            "pracucodayizAmbaBUvuH",
+            "pracucodayizAmAsuH",
+            "pracucodayizAYcakruH",
+            "pracucodayizAmbaBUviTa",
+            "pracucodayizAmAsiTa",
+            "pracucodayizAYcakarTa",
+            "pracucodayizAmbaBUvaTuH",
+            "pracucodayizAmAsaTuH",
+            "pracucodayizAYcakraTuH",
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakra",
+            "pracucodayizAmbaBUva",
+            "pracucodayizAmAsa",
+            "pracucodayizAYcakara",
+            "pracucodayizAYcakAra",
+            "pracucodayizAmbaBUviva",
+            "pracucodayizAmAsiva",
+            "pracucodayizAYcakfva",
+            "pracucodayizAmbaBUvima",
+            "pracucodayizAmAsima",
+            "pracucodayizAYcakfma"
+          ],
+          "plot": [
+            "pracucodayizatAt",
+            "pracucodayizatAd",
+            "pracucodayizatu",
+            "pracucodayizatAm",
+            "pracucodayizantu",
+            "pracucodayizatAt",
+            "pracucodayizatAd",
+            "pracucodayiza",
+            "pracucodayizatam",
+            "pracucodayizata",
+            "pracucodayizARi",
+            "pracucodayizAva",
+            "pracucodayizAma"
+          ],
+          "plrung": [
+            "prAcucodayizizyat",
+            "prAcucodayizizyad",
+            "prAcucodayizizyatAm",
+            "prAcucodayizizyan",
+            "prAcucodayizizyaH",
+            "prAcucodayizizyatam",
+            "prAcucodayizizyata",
+            "prAcucodayizizyam",
+            "prAcucodayizizyAva",
+            "prAcucodayizizyAma"
+          ],
+          "plrut": [
+            "pracucodayizizyati",
+            "pracucodayizizyataH",
+            "pracucodayizizyanti",
+            "pracucodayizizyasi",
+            "pracucodayizizyaTaH",
+            "pracucodayizizyaTa",
+            "pracucodayizizyAmi",
+            "pracucodayizizyAvaH",
+            "pracucodayizizyAmaH"
+          ],
+          "plung": [
+            "prAcucodayizIt",
+            "prAcucodayizId",
+            "prAcucodayizizwAm",
+            "prAcucodayizizuH",
+            "prAcucodayizIH",
+            "prAcucodayizizwam",
+            "prAcucodayizizwa",
+            "prAcucodayizizam",
+            "prAcucodayizizva",
+            "prAcucodayizizma"
+          ],
+          "plut": [
+            "pracucodayizitA",
+            "pracucodayizitArO",
+            "pracucodayizitAraH",
+            "pracucodayizitAsi",
+            "pracucodayizitAsTaH",
+            "pracucodayizitAsTa",
+            "pracucodayizitAsmi",
+            "pracucodayizitAsvaH",
+            "pracucodayizitAsmaH"
+          ],
+          "pvidhiling": [
+            "pracucodayizet",
+            "pracucodayized",
+            "pracucodayizetAm",
+            "pracucodayizeyuH",
+            "pracucodayizeH",
+            "pracucodayizetam",
+            "pracucodayizeta",
+            "pracucodayizeyam",
+            "pracucodayizeva",
+            "pracucodayizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "pracucodayizizIzwa",
+            "pracucodayizizIyAstAm",
+            "pracucodayizizIran",
+            "pracucodayizizIzWAH",
+            "pracucodayizizIyAsTAm",
+            "pracucodayizizIDvam",
+            "pracucodayizizIya",
+            "pracucodayizizIvahi",
+            "pracucodayizizImahi"
+          ],
+          "alang": [
+            "prAcucodayizyata",
+            "prAcucodayizyetAm",
+            "prAcucodayizyanta",
+            "prAcucodayizyaTAH",
+            "prAcucodayizyeTAm",
+            "prAcucodayizyaDvam",
+            "prAcucodayizye",
+            "prAcucodayizyAvahi",
+            "prAcucodayizyAmahi"
+          ],
+          "alat": [
+            "pracucodayizyate",
+            "pracucodayizyete",
+            "pracucodayizyante",
+            "pracucodayizyase",
+            "pracucodayizyeTe",
+            "pracucodayizyaDve",
+            "pracucodayizye",
+            "pracucodayizyAvahe",
+            "pracucodayizyAmahe"
+          ],
+          "alit": [
+            "pracucodayizAmbaBUve",
+            "pracucodayizAmAse",
+            "pracucodayizAYcakre",
+            "pracucodayizAmbaBUvAte",
+            "pracucodayizAmAsAte",
+            "pracucodayizAYcakrAte",
+            "pracucodayizAmbaBUvire",
+            "pracucodayizAmAsire",
+            "pracucodayizAYcakrire",
+            "pracucodayizAmbaBUvize",
+            "pracucodayizAmAsize",
+            "pracucodayizAYcakfze",
+            "pracucodayizAmbaBUvATe",
+            "pracucodayizAmAsATe",
+            "pracucodayizAYcakrATe",
+            "pracucodayizAmbaBUviQve",
+            "pracucodayizAmAsiDve",
+            "pracucodayizAYcakfQve",
+            "pracucodayizAmbaBUve",
+            "pracucodayizAmAhe",
+            "pracucodayizAYcakre",
+            "pracucodayizAmbaBUvivahe",
+            "pracucodayizAmAsivahe",
+            "pracucodayizAYcakfvahe",
+            "pracucodayizAmbaBUvimahe",
+            "pracucodayizAmAsimahe",
+            "pracucodayizAYcakfmahe"
+          ],
+          "alot": [
+            "pracucodayizyatAm",
+            "pracucodayizyetAm",
+            "pracucodayizyantAm",
+            "pracucodayizyasva",
+            "pracucodayizyeTAm",
+            "pracucodayizyaDvam",
+            "pracucodayizyE",
+            "pracucodayizyAvahE",
+            "pracucodayizyAmahE"
+          ],
+          "alrung": [
+            "prAcucodayizizyata",
+            "prAcucodayizizyetAm",
+            "prAcucodayizizyanta",
+            "prAcucodayizizyaTAH",
+            "prAcucodayizizyeTAm",
+            "prAcucodayizizyaDvam",
+            "prAcucodayizizye",
+            "prAcucodayizizyAvahi",
+            "prAcucodayizizyAmahi"
+          ],
+          "alrut": [
+            "pracucodayizizyate",
+            "pracucodayizizyete",
+            "pracucodayizizyante",
+            "pracucodayizizyase",
+            "pracucodayizizyeTe",
+            "pracucodayizizyaDve",
+            "pracucodayizizye",
+            "pracucodayizizyAvahe",
+            "pracucodayizizyAmahe"
+          ],
+          "alung": [
+            "prAcucodayizi",
+            "prAcucodayizizAtAm",
+            "prAcucodayizizata",
+            "prAcucodayizizWAH",
+            "prAcucodayizizATAm",
+            "prAcucodayiziDvam",
+            "prAcucodayizizi",
+            "prAcucodayizizvahi",
+            "prAcucodayizizmahi"
+          ],
+          "alut": [
+            "pracucodayizitA",
+            "pracucodayizitArO",
+            "pracucodayizitAraH",
+            "pracucodayizitAse",
+            "pracucodayizitAsATe",
+            "pracucodayizitADve",
+            "pracucodayizitAhe",
+            "pracucodayizitAsvahe",
+            "pracucodayizitAsmahe"
+          ],
+          "avidhiling": [
+            "pracucodayizyeta",
+            "pracucodayizyeyAtAm",
+            "pracucodayizyeran",
+            "pracucodayizyeTAH",
+            "pracucodayizyeyATAm",
+            "pracucodayizyeDvam",
+            "pracucodayizyeya",
+            "pracucodayizyevahi",
+            "pracucodayizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "pracodayizIzwa",
+            "pracodayizIyAstAm",
+            "pracodayizIran",
+            "pracodayizIzWAH",
+            "pracodayizIyAsTAm",
+            "pracodayizIQvam",
+            "pracodayizIDvam",
+            "pracodayizIya",
+            "pracodayizIvahi",
+            "pracodayizImahi"
+          ],
+          "alang": [
+            "prAcodayata",
+            "prAcodayetAm",
+            "prAcodayanta",
+            "prAcodayaTAH",
+            "prAcodayeTAm",
+            "prAcodayaDvam",
+            "prAcodaye",
+            "prAcodayAvahi",
+            "prAcodayAmahi"
+          ],
+          "alat": [
+            "pracodayate",
+            "pracodayete",
+            "pracodayante",
+            "pracodayase",
+            "pracodayeTe",
+            "pracodayaDve",
+            "pracodaye",
+            "pracodayAvahe",
+            "pracodayAmahe"
+          ],
+          "alit": [
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvatuH",
+            "pracodayAmAsatuH",
+            "pracodayAYcakrAte",
+            "pracodayAmbaBUvuH",
+            "pracodayAmAsuH",
+            "pracodayAYcakrire",
+            "pracodayAmbaBUviTa",
+            "pracodayAmAsiTa",
+            "pracodayAYcakfze",
+            "pracodayAmbaBUvaTuH",
+            "pracodayAmAsaTuH",
+            "pracodayAYcakrATe",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakfQve",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakre",
+            "pracodayAmbaBUviva",
+            "pracodayAmAsiva",
+            "pracodayAYcakfvahe",
+            "pracodayAmbaBUvima",
+            "pracodayAmAsima",
+            "pracodayAYcakfmahe"
+          ],
+          "alot": [
+            "pracodayatAm",
+            "pracodayetAm",
+            "pracodayantAm",
+            "pracodayasva",
+            "pracodayeTAm",
+            "pracodayaDvam",
+            "pracodayE",
+            "pracodayAvahE",
+            "pracodayAmahE"
+          ],
+          "alrung": [
+            "prAcodayizyata",
+            "prAcodayizyetAm",
+            "prAcodayizyanta",
+            "prAcodayizyaTAH",
+            "prAcodayizyeTAm",
+            "prAcodayizyaDvam",
+            "prAcodayizye",
+            "prAcodayizyAvahi",
+            "prAcodayizyAmahi"
+          ],
+          "alrut": [
+            "pracodayizyate",
+            "pracodayizyete",
+            "pracodayizyante",
+            "pracodayizyase",
+            "pracodayizyeTe",
+            "pracodayizyaDve",
+            "pracodayizye",
+            "pracodayizyAvahe",
+            "pracodayizyAmahe"
+          ],
+          "alung": [
+            "prAcUcudata",
+            "prAcUcudetAm",
+            "prAcUcudanta",
+            "prAcUcudaTAH",
+            "prAcUcudeTAm",
+            "prAcUcudaDvam",
+            "prAcUcude",
+            "prAcUcudAvahi",
+            "prAcUcudAmahi"
+          ],
+          "alut": [
+            "pracodayitA",
+            "pracodayitArO",
+            "pracodayitAraH",
+            "pracodayitAse",
+            "pracodayitAsATe",
+            "pracodayitADve",
+            "pracodayitAhe",
+            "pracodayitAsvahe",
+            "pracodayitAsmahe"
+          ],
+          "avidhiling": [
+            "pracodayeta",
+            "pracodayeyAtAm",
+            "pracodayeran",
+            "pracodayeTAH",
+            "pracodayeyATAm",
+            "pracodayeDvam",
+            "pracodayeya",
+            "pracodayevahi",
+            "pracodayemahi"
+          ],
+          "pashirling": [
+            "pracodyAt",
+            "pracodyAd",
+            "pracodyAstAm",
+            "pracodyAsuH",
+            "pracodyAH",
+            "pracodyAstam",
+            "pracodyAsta",
+            "pracodyAsam",
+            "pracodyAsva",
+            "pracodyAsma"
+          ],
+          "plang": [
+            "prAcodayat",
+            "prAcodayad",
+            "prAcodayatAm",
+            "prAcodayan",
+            "prAcodayaH",
+            "prAcodayatam",
+            "prAcodayata",
+            "prAcodayam",
+            "prAcodayAva",
+            "prAcodayAma"
+          ],
+          "plat": [
+            "pracodayati",
+            "pracodayataH",
+            "pracodayanti",
+            "pracodayasi",
+            "pracodayaTaH",
+            "pracodayaTa",
+            "pracodayAmi",
+            "pracodayAvaH",
+            "pracodayAmaH"
+          ],
+          "plit": [
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakAra",
+            "pracodayAmbaBUvatuH",
+            "pracodayAmAsatuH",
+            "pracodayAYcakratuH",
+            "pracodayAmbaBUvuH",
+            "pracodayAmAsuH",
+            "pracodayAYcakruH",
+            "pracodayAmbaBUviTa",
+            "pracodayAmAsiTa",
+            "pracodayAYcakarTa",
+            "pracodayAmbaBUvaTuH",
+            "pracodayAmAsaTuH",
+            "pracodayAYcakraTuH",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakra",
+            "pracodayAmbaBUva",
+            "pracodayAmAsa",
+            "pracodayAYcakara",
+            "pracodayAYcakAra",
+            "pracodayAmbaBUviva",
+            "pracodayAmAsiva",
+            "pracodayAYcakfva",
+            "pracodayAmbaBUvima",
+            "pracodayAmAsima",
+            "pracodayAYcakfma"
+          ],
+          "plot": [
+            "pracodayatAt",
+            "pracodayatAd",
+            "pracodayatu",
+            "pracodayatAm",
+            "pracodayantu",
+            "pracodayatAt",
+            "pracodayatAd",
+            "pracodaya",
+            "pracodayatam",
+            "pracodayata",
+            "pracodayAni",
+            "pracodayAva",
+            "pracodayAma"
+          ],
+          "plrung": [
+            "prAcodayizyat",
+            "prAcodayizyad",
+            "prAcodayizyatAm",
+            "prAcodayizyan",
+            "prAcodayizyaH",
+            "prAcodayizyatam",
+            "prAcodayizyata",
+            "prAcodayizyam",
+            "prAcodayizyAva",
+            "prAcodayizyAma"
+          ],
+          "plrut": [
+            "pracodayizyati",
+            "pracodayizyataH",
+            "pracodayizyanti",
+            "pracodayizyasi",
+            "pracodayizyaTaH",
+            "pracodayizyaTa",
+            "pracodayizyAmi",
+            "pracodayizyAvaH",
+            "pracodayizyAmaH"
+          ],
+          "plung": [
+            "prAcUcudat",
+            "prAcUcudad",
+            "prAcUcudatAm",
+            "prAcUcudan",
+            "prAcUcudaH",
+            "prAcUcudatam",
+            "prAcUcudata",
+            "prAcUcudam",
+            "prAcUcudAva",
+            "prAcUcudAma"
+          ],
+          "plut": [
+            "pracodayitA",
+            "pracodayitArO",
+            "pracodayitAraH",
+            "pracodayitAsi",
+            "pracodayitAsTaH",
+            "pracodayitAsTa",
+            "pracodayitAsmi",
+            "pracodayitAsvaH",
+            "pracodayitAsmaH"
+          ],
+          "pvidhiling": [
+            "pracodayet",
+            "pracodayed",
+            "pracodayetAm",
+            "pracodayeyuH",
+            "pracodayeH",
+            "pracodayetam",
+            "pracodayeta",
+            "pracodayeyam",
+            "pracodayeva",
+            "pracodayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "pracodizIzwa",
+            "pracodayizIzwa",
+            "pracodizIyAstAm",
+            "pracodayizIyAstAm",
+            "pracodizIran",
+            "pracodayizIran",
+            "pracodizIzWAH",
+            "pracodayizIzWAH",
+            "pracodizIyAsTAm",
+            "pracodayizIyAsTAm",
+            "pracodizIDvam",
+            "pracodayizIQvam",
+            "pracodayizIDvam",
+            "pracodizIya",
+            "pracodayizIya",
+            "pracodizIvahi",
+            "pracodayizIvahi",
+            "pracodizImahi",
+            "pracodayizImahi"
+          ],
+          "alang": [
+            "prAcodyata",
+            "prAcodyetAm",
+            "prAcodyanta",
+            "prAcodyaTAH",
+            "prAcodyeTAm",
+            "prAcodyaDvam",
+            "prAcodye",
+            "prAcodyAvahi",
+            "prAcodyAmahi"
+          ],
+          "alat": [
+            "pracodyate",
+            "pracodyete",
+            "pracodyante",
+            "pracodyase",
+            "pracodyeTe",
+            "pracodyaDve",
+            "pracodye",
+            "pracodyAvahe",
+            "pracodyAmahe"
+          ],
+          "alit": [
+            "pracodayAmbaBUve",
+            "pracodayAmAse",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvAte",
+            "pracodayAmAsAte",
+            "pracodayAYcakrAte",
+            "pracodayAmbaBUvire",
+            "pracodayAmAsire",
+            "pracodayAYcakrire",
+            "pracodayAmbaBUvize",
+            "pracodayAmAsize",
+            "pracodayAYcakfze",
+            "pracodayAmbaBUvATe",
+            "pracodayAmAsATe",
+            "pracodayAYcakrATe",
+            "pracodayAmbaBUviQve",
+            "pracodayAmAsiDve",
+            "pracodayAYcakfQve",
+            "pracodayAmbaBUve",
+            "pracodayAmAhe",
+            "pracodayAYcakre",
+            "pracodayAmbaBUvivahe",
+            "pracodayAmAsivahe",
+            "pracodayAYcakfvahe",
+            "pracodayAmbaBUvimahe",
+            "pracodayAmAsimahe",
+            "pracodayAYcakfmahe"
+          ],
+          "alot": [
+            "pracodyatAm",
+            "pracodyetAm",
+            "pracodyantAm",
+            "pracodyasva",
+            "pracodyeTAm",
+            "pracodyaDvam",
+            "pracodyE",
+            "pracodyAvahE",
+            "pracodyAmahE"
+          ],
+          "alrung": [
+            "prAcodizyata",
+            "prAcodayizyata",
+            "prAcodizyetAm",
+            "prAcodayizyetAm",
+            "prAcodizyanta",
+            "prAcodayizyanta",
+            "prAcodizyaTAH",
+            "prAcodayizyaTAH",
+            "prAcodizyeTAm",
+            "prAcodayizyeTAm",
+            "prAcodizyaDvam",
+            "prAcodayizyaDvam",
+            "prAcodizye",
+            "prAcodayizye",
+            "prAcodizyAvahi",
+            "prAcodayizyAvahi",
+            "prAcodizyAmahi",
+            "prAcodayizyAmahi"
+          ],
+          "alrut": [
+            "pracodizyate",
+            "pracodayizyate",
+            "pracodizyete",
+            "pracodayizyete",
+            "pracodizyante",
+            "pracodayizyante",
+            "pracodizyase",
+            "pracodayizyase",
+            "pracodizyeTe",
+            "pracodayizyeTe",
+            "pracodizyaDve",
+            "pracodayizyaDve",
+            "pracodizye",
+            "pracodayizye",
+            "pracodizyAvahe",
+            "pracodayizyAvahe",
+            "pracodizyAmahe",
+            "pracodayizyAmahe"
+          ],
+          "alung": [
+            "prAcodi",
+            "prAcodizAtAm",
+            "prAcodayizAtAm",
+            "prAcodizata",
+            "prAcodayizata",
+            "prAcodizWAH",
+            "prAcodayizWAH",
+            "prAcodizATAm",
+            "prAcodayizATAm",
+            "prAcodiDvam",
+            "prAcodayiQvam",
+            "prAcodayiDvam",
+            "prAcodizi",
+            "prAcodayizi",
+            "prAcodizvahi",
+            "prAcodayizvahi",
+            "prAcodizmahi",
+            "prAcodayizmahi"
+          ],
+          "alut": [
+            "pracoditA",
+            "pracodayitA",
+            "pracoditArO",
+            "pracodayitArO",
+            "pracoditAraH",
+            "pracodayitAraH",
+            "pracoditAse",
+            "pracodayitAse",
+            "pracoditAsATe",
+            "pracodayitAsATe",
+            "pracoditADve",
+            "pracodayitADve",
+            "pracoditAhe",
+            "pracodayitAhe",
+            "pracoditAsvahe",
+            "pracodayitAsvahe",
+            "pracoditAsmahe",
+            "pracodayitAsmahe"
+          ],
+          "avidhiling": [
+            "pracodyeta",
+            "pracodyeyAtAm",
+            "pracodyeran",
+            "pracodyeTAH",
+            "pracodyeyATAm",
+            "pracodyeDvam",
+            "pracodyeya",
+            "pracodyevahi",
+            "pracodyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "pracoda",
+              "m": "pracodaH",
+              "f": "pracodA",
+              "n": "pracodam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pracodanIya",
+              "m": "pracodanIyaH",
+              "f": "pracodanIyA",
+              "n": "pracodanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pracodita",
+              "m": "pracoditaH",
+              "f": "pracoditA",
+              "n": "pracoditam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pracoditavat",
+              "m": "pracoditavAn",
+              "f": "pracoditavatI",
+              "n": "pracoditavat/pracoditavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pracotti",
+              "m": "",
+              "f": "pracottiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pracodayAmbaBUvas",
+              "m": "pracodayAmbaBUvAn",
+              "f": "pracodayAmbaBUzI",
+              "n": "pracodayAmbaBUvat/pracodayAmbaBUvad"
+            },
+            {
+              "base": "pracodayAmAsivas",
+              "m": "pracodayAmAsivAn",
+              "f": "pracodayAmAsyuzI",
+              "n": "pracodayAmAsivat/pracodayAmAsivad"
+            },
+            {
+              "base": "pracodayAYcakfvas",
+              "m": "pracodayAYcakfvAn",
+              "f": "pracodayAYcakruzI",
+              "n": "pracodayAYcakfvat/pracodayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pracodam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pracodaka",
+              "m": "pracodakaH",
+              "f": "pracodikA",
+              "n": "pracodakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pracodayitavya",
+              "m": "pracodayitavyaH",
+              "f": "pracodayitavyA",
+              "n": "pracodayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pracodayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pracodayitf",
+              "m": "pracodayitA",
+              "f": "pracodayitrI",
+              "n": "pracodayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "pracodya",
+              "m": "pracodyaH",
+              "f": "pracodyA",
+              "n": "pracodyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pracodya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pracodana",
+              "m": "",
+              "f": "",
+              "n": "pracodanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pracodaka",
+              "m": "pracodakaH",
+              "f": "pracodikA",
+              "n": "pracodakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pracodayat",
+              "m": "pracodayan",
+              "f": "pracodayantI",
+              "n": "pracodayat/pracodayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pracodayat",
+              "m": "pracodayan",
+              "f": "pracodayatI/pracodayantI",
+              "n": "pracodayat/pracodayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "pracucodayizA",
+              "m": "",
+              "f": "pracucodayizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "pracucodayiza",
+              "m": "pracucodayizaH",
+              "f": "pracucodayizA",
+              "n": "pracucodayizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pracucodayizaRIya",
+              "m": "pracucodayizaRIyaH",
+              "f": "pracucodayizaRIyA",
+              "n": "pracucodayizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "pracucodayizu",
+              "m": "pracucodayizuH",
+              "f": "pracucodayizuH",
+              "n": "pracucodayizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pracucodayizita",
+              "m": "pracucodayizitaH",
+              "f": "pracucodayizitA",
+              "n": "pracucodayizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pracucodayizitavat",
+              "m": "pracucodayizitavAn",
+              "f": "pracucodayizitavatI",
+              "n": "pracucodayizitavat/pracucodayizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pracucodayizwi",
+              "m": "",
+              "f": "pracucodayizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pracucodayizAmbaBUvas",
+              "m": "pracucodayizAmbaBUvAn",
+              "f": "pracucodayizAmbaBUzI",
+              "n": "pracucodayizAmbaBUvat/pracucodayizAmbaBUvad"
+            },
+            {
+              "base": "pracucodayizAmAsivas",
+              "m": "pracucodayizAmAsivAn",
+              "f": "pracucodayizAmAsyuzI",
+              "n": "pracucodayizAmAsivat/pracucodayizAmAsivad"
+            },
+            {
+              "base": "pracucodayizAYcakfvas",
+              "m": "pracucodayizAYcakfvAn",
+              "f": "pracucodayizAYcakruzI",
+              "n": "pracucodayizAYcakfvat/pracucodayizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "pracucodayiza",
+              "m": "pracucodayizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pracucodayizamARa",
+              "m": "pracucodayizamARaH",
+              "f": "pracucodayizamARA",
+              "n": "pracucodayizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pracucodayizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pracucodayizaka",
+              "m": "pracucodayizakaH",
+              "f": "pracucodayizikA",
+              "n": "pracucodayizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pracucodayizitavya",
+              "m": "pracucodayizitavyaH",
+              "f": "pracucodayizitavyA",
+              "n": "pracucodayizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pracucodayizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pracucodayizitf",
+              "m": "pracucodayizitA",
+              "f": "pracucodayizitrI",
+              "n": "pracucodayizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "pracucodayizamARa",
+              "m": "pracucodayizamARaH",
+              "f": "pracucodayizamARA",
+              "n": "pracucodayizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "pracucodayizya",
+              "m": "pracucodayizyaH",
+              "f": "pracucodayizyA",
+              "n": "pracucodayizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pracucodayizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pracucodayizaRa",
+              "m": "",
+              "f": "",
+              "n": "pracucodayizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pracucodayizaka",
+              "m": "pracucodayizakaH",
+              "f": "pracucodayizikA",
+              "n": "pracucodayizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pracucodayizat",
+              "m": "pracucodayizan",
+              "f": "pracucodayizantI",
+              "n": "pracucodayizat/pracucodayizad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "pracucodayizamARa",
+              "m": "pracucodayizamARaH",
+              "f": "pracucodayizamARA",
+              "n": "pracucodayizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "pracucodayizamARa",
+              "m": "pracucodayizamARaH",
+              "f": "pracucodayizamARA",
+              "n": "pracucodayizamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pracucodayizat",
+              "m": "pracucodayizan",
+              "f": "pracucodayizatI/pracucodayizantI",
+              "n": "pracucodayizat/pracucodayizad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "pracucodayizamARa",
+              "m": "pracucodayizamARaH",
+              "f": "pracucodayizamARA",
+              "n": "pracucodayizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "pracoda",
+              "m": "pracodaH",
+              "f": "pracodA",
+              "n": "pracodam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pracodanIya",
+              "m": "pracodanIyaH",
+              "f": "pracodanIyA",
+              "n": "pracodanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pracodita",
+              "m": "pracoditaH",
+              "f": "pracoditA",
+              "n": "pracoditam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pracoditavat",
+              "m": "pracoditavAn",
+              "f": "pracoditavatI",
+              "n": "pracoditavat/pracoditavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pracotti",
+              "m": "",
+              "f": "pracottiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pracodayAmbaBUvas",
+              "m": "pracodayAmbaBUvAn",
+              "f": "pracodayAmbaBUzI",
+              "n": "pracodayAmbaBUvat/pracodayAmbaBUvad"
+            },
+            {
+              "base": "pracodayAmAsivas",
+              "m": "pracodayAmAsivAn",
+              "f": "pracodayAmAsyuzI",
+              "n": "pracodayAmAsivat/pracodayAmAsivad"
+            },
+            {
+              "base": "pracodayAYcakfvas",
+              "m": "pracodayAYcakfvAn",
+              "f": "pracodayAYcakruzI",
+              "n": "pracodayAYcakfvat/pracodayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pracodam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pracodaka",
+              "m": "pracodakaH",
+              "f": "pracodikA",
+              "n": "pracodakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pracodayitavya",
+              "m": "pracodayitavyaH",
+              "f": "pracodayitavyA",
+              "n": "pracodayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pracodayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pracodayitf",
+              "m": "pracodayitA",
+              "f": "pracodayitrI",
+              "n": "pracodayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "pracodya",
+              "m": "pracodyaH",
+              "f": "pracodyA",
+              "n": "pracodyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pracodya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pracodana",
+              "m": "",
+              "f": "",
+              "n": "pracodanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pracodaka",
+              "m": "pracodakaH",
+              "f": "pracodikA",
+              "n": "pracodakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pracodayat",
+              "m": "pracodayan",
+              "f": "pracodayantI",
+              "n": "pracodayat/pracodayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pracodayat",
+              "m": "pracodayan",
+              "f": "pracodayatI/pracodayantI",
+              "n": "pracodayat/pracodayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "pracodayamAna",
+              "m": "pracodayamAnaH",
+              "f": "pracodayamAnA",
+              "n": "pracodayamAnam"
+            }
+          ]
+        }
+      }
+    },
+    "aBi": {
+      "prefix": "aBi",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "aBicodayizIzwa",
+            "aBicodayizIyAstAm",
+            "aBicodayizIran",
+            "aBicodayizIzWAH",
+            "aBicodayizIyAsTAm",
+            "aBicodayizIQvam",
+            "aBicodayizIDvam",
+            "aBicodayizIya",
+            "aBicodayizIvahi",
+            "aBicodayizImahi"
+          ],
+          "alang": [
+            "aByacodayata",
+            "aByacodayetAm",
+            "aByacodayanta",
+            "aByacodayaTAH",
+            "aByacodayeTAm",
+            "aByacodayaDvam",
+            "aByacodaye",
+            "aByacodayAvahi",
+            "aByacodayAmahi"
+          ],
+          "alat": [
+            "aBicodayate",
+            "aBicodayete",
+            "aBicodayante",
+            "aBicodayase",
+            "aBicodayeTe",
+            "aBicodayaDve",
+            "aBicodaye",
+            "aBicodayAvahe",
+            "aBicodayAmahe"
+          ],
+          "alit": [
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvatuH",
+            "aBicodayAmAsatuH",
+            "aBicodayAYcakrAte",
+            "aBicodayAmbaBUvuH",
+            "aBicodayAmAsuH",
+            "aBicodayAYcakrire",
+            "aBicodayAmbaBUviTa",
+            "aBicodayAmAsiTa",
+            "aBicodayAYcakfze",
+            "aBicodayAmbaBUvaTuH",
+            "aBicodayAmAsaTuH",
+            "aBicodayAYcakrATe",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakfQve",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUviva",
+            "aBicodayAmAsiva",
+            "aBicodayAYcakfvahe",
+            "aBicodayAmbaBUvima",
+            "aBicodayAmAsima",
+            "aBicodayAYcakfmahe"
+          ],
+          "alot": [
+            "aBicodayatAm",
+            "aBicodayetAm",
+            "aBicodayantAm",
+            "aBicodayasva",
+            "aBicodayeTAm",
+            "aBicodayaDvam",
+            "aBicodayE",
+            "aBicodayAvahE",
+            "aBicodayAmahE"
+          ],
+          "alrung": [
+            "aByacodayizyata",
+            "aByacodayizyetAm",
+            "aByacodayizyanta",
+            "aByacodayizyaTAH",
+            "aByacodayizyeTAm",
+            "aByacodayizyaDvam",
+            "aByacodayizye",
+            "aByacodayizyAvahi",
+            "aByacodayizyAmahi"
+          ],
+          "alrut": [
+            "aBicodayizyate",
+            "aBicodayizyete",
+            "aBicodayizyante",
+            "aBicodayizyase",
+            "aBicodayizyeTe",
+            "aBicodayizyaDve",
+            "aBicodayizye",
+            "aBicodayizyAvahe",
+            "aBicodayizyAmahe"
+          ],
+          "alung": [
+            "aByacUcudata",
+            "aByacUcudetAm",
+            "aByacUcudanta",
+            "aByacUcudaTAH",
+            "aByacUcudeTAm",
+            "aByacUcudaDvam",
+            "aByacUcude",
+            "aByacUcudAvahi",
+            "aByacUcudAmahi"
+          ],
+          "alut": [
+            "aBicodayitA",
+            "aBicodayitArO",
+            "aBicodayitAraH",
+            "aBicodayitAse",
+            "aBicodayitAsATe",
+            "aBicodayitADve",
+            "aBicodayitAhe",
+            "aBicodayitAsvahe",
+            "aBicodayitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicodayeta",
+            "aBicodayeyAtAm",
+            "aBicodayeran",
+            "aBicodayeTAH",
+            "aBicodayeyATAm",
+            "aBicodayeDvam",
+            "aBicodayeya",
+            "aBicodayevahi",
+            "aBicodayemahi"
+          ],
+          "pashirling": [
+            "aBicodyAt",
+            "aBicodyAd",
+            "aBicodyAstAm",
+            "aBicodyAsuH",
+            "aBicodyAH",
+            "aBicodyAstam",
+            "aBicodyAsta",
+            "aBicodyAsam",
+            "aBicodyAsva",
+            "aBicodyAsma"
+          ],
+          "plang": [
+            "aByacodayat",
+            "aByacodayad",
+            "aByacodayatAm",
+            "aByacodayan",
+            "aByacodayaH",
+            "aByacodayatam",
+            "aByacodayata",
+            "aByacodayam",
+            "aByacodayAva",
+            "aByacodayAma"
+          ],
+          "plat": [
+            "aBicodayati",
+            "aBicodayataH",
+            "aBicodayanti",
+            "aBicodayasi",
+            "aBicodayaTaH",
+            "aBicodayaTa",
+            "aBicodayAmi",
+            "aBicodayAvaH",
+            "aBicodayAmaH"
+          ],
+          "plit": [
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakAra",
+            "aBicodayAmbaBUvatuH",
+            "aBicodayAmAsatuH",
+            "aBicodayAYcakratuH",
+            "aBicodayAmbaBUvuH",
+            "aBicodayAmAsuH",
+            "aBicodayAYcakruH",
+            "aBicodayAmbaBUviTa",
+            "aBicodayAmAsiTa",
+            "aBicodayAYcakarTa",
+            "aBicodayAmbaBUvaTuH",
+            "aBicodayAmAsaTuH",
+            "aBicodayAYcakraTuH",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakra",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakara",
+            "aBicodayAYcakAra",
+            "aBicodayAmbaBUviva",
+            "aBicodayAmAsiva",
+            "aBicodayAYcakfva",
+            "aBicodayAmbaBUvima",
+            "aBicodayAmAsima",
+            "aBicodayAYcakfma"
+          ],
+          "plot": [
+            "aBicodayatAt",
+            "aBicodayatAd",
+            "aBicodayatu",
+            "aBicodayatAm",
+            "aBicodayantu",
+            "aBicodayatAt",
+            "aBicodayatAd",
+            "aBicodaya",
+            "aBicodayatam",
+            "aBicodayata",
+            "aBicodayAni",
+            "aBicodayAva",
+            "aBicodayAma"
+          ],
+          "plrung": [
+            "aByacodayizyat",
+            "aByacodayizyad",
+            "aByacodayizyatAm",
+            "aByacodayizyan",
+            "aByacodayizyaH",
+            "aByacodayizyatam",
+            "aByacodayizyata",
+            "aByacodayizyam",
+            "aByacodayizyAva",
+            "aByacodayizyAma"
+          ],
+          "plrut": [
+            "aBicodayizyati",
+            "aBicodayizyataH",
+            "aBicodayizyanti",
+            "aBicodayizyasi",
+            "aBicodayizyaTaH",
+            "aBicodayizyaTa",
+            "aBicodayizyAmi",
+            "aBicodayizyAvaH",
+            "aBicodayizyAmaH"
+          ],
+          "plung": [
+            "aByacUcudat",
+            "aByacUcudad",
+            "aByacUcudatAm",
+            "aByacUcudan",
+            "aByacUcudaH",
+            "aByacUcudatam",
+            "aByacUcudata",
+            "aByacUcudam",
+            "aByacUcudAva",
+            "aByacUcudAma"
+          ],
+          "plut": [
+            "aBicodayitA",
+            "aBicodayitArO",
+            "aBicodayitAraH",
+            "aBicodayitAsi",
+            "aBicodayitAsTaH",
+            "aBicodayitAsTa",
+            "aBicodayitAsmi",
+            "aBicodayitAsvaH",
+            "aBicodayitAsmaH"
+          ],
+          "pvidhiling": [
+            "aBicodayet",
+            "aBicodayed",
+            "aBicodayetAm",
+            "aBicodayeyuH",
+            "aBicodayeH",
+            "aBicodayetam",
+            "aBicodayeta",
+            "aBicodayeyam",
+            "aBicodayeva",
+            "aBicodayema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "aBicodizIzwa",
+            "aBicodayizIzwa",
+            "aBicodizIyAstAm",
+            "aBicodayizIyAstAm",
+            "aBicodizIran",
+            "aBicodayizIran",
+            "aBicodizIzWAH",
+            "aBicodayizIzWAH",
+            "aBicodizIyAsTAm",
+            "aBicodayizIyAsTAm",
+            "aBicodizIDvam",
+            "aBicodayizIQvam",
+            "aBicodayizIDvam",
+            "aBicodizIya",
+            "aBicodayizIya",
+            "aBicodizIvahi",
+            "aBicodayizIvahi",
+            "aBicodizImahi",
+            "aBicodayizImahi"
+          ],
+          "alang": [
+            "aByacodyata",
+            "aByacodyetAm",
+            "aByacodyanta",
+            "aByacodyaTAH",
+            "aByacodyeTAm",
+            "aByacodyaDvam",
+            "aByacodye",
+            "aByacodyAvahi",
+            "aByacodyAmahi"
+          ],
+          "alat": [
+            "aBicodyate",
+            "aBicodyete",
+            "aBicodyante",
+            "aBicodyase",
+            "aBicodyeTe",
+            "aBicodyaDve",
+            "aBicodye",
+            "aBicodyAvahe",
+            "aBicodyAmahe"
+          ],
+          "alit": [
+            "aBicodayAmbaBUve",
+            "aBicodayAmAse",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvAte",
+            "aBicodayAmAsAte",
+            "aBicodayAYcakrAte",
+            "aBicodayAmbaBUvire",
+            "aBicodayAmAsire",
+            "aBicodayAYcakrire",
+            "aBicodayAmbaBUvize",
+            "aBicodayAmAsize",
+            "aBicodayAYcakfze",
+            "aBicodayAmbaBUvATe",
+            "aBicodayAmAsATe",
+            "aBicodayAYcakrATe",
+            "aBicodayAmbaBUviQve",
+            "aBicodayAmAsiDve",
+            "aBicodayAYcakfQve",
+            "aBicodayAmbaBUve",
+            "aBicodayAmAhe",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvivahe",
+            "aBicodayAmAsivahe",
+            "aBicodayAYcakfvahe",
+            "aBicodayAmbaBUvimahe",
+            "aBicodayAmAsimahe",
+            "aBicodayAYcakfmahe"
+          ],
+          "alot": [
+            "aBicodyatAm",
+            "aBicodyetAm",
+            "aBicodyantAm",
+            "aBicodyasva",
+            "aBicodyeTAm",
+            "aBicodyaDvam",
+            "aBicodyE",
+            "aBicodyAvahE",
+            "aBicodyAmahE"
+          ],
+          "alrung": [
+            "aByacodizyata",
+            "aByacodayizyata",
+            "aByacodizyetAm",
+            "aByacodayizyetAm",
+            "aByacodizyanta",
+            "aByacodayizyanta",
+            "aByacodizyaTAH",
+            "aByacodayizyaTAH",
+            "aByacodizyeTAm",
+            "aByacodayizyeTAm",
+            "aByacodizyaDvam",
+            "aByacodayizyaDvam",
+            "aByacodizye",
+            "aByacodayizye",
+            "aByacodizyAvahi",
+            "aByacodayizyAvahi",
+            "aByacodizyAmahi",
+            "aByacodayizyAmahi"
+          ],
+          "alrut": [
+            "aBicodizyate",
+            "aBicodayizyate",
+            "aBicodizyete",
+            "aBicodayizyete",
+            "aBicodizyante",
+            "aBicodayizyante",
+            "aBicodizyase",
+            "aBicodayizyase",
+            "aBicodizyeTe",
+            "aBicodayizyeTe",
+            "aBicodizyaDve",
+            "aBicodayizyaDve",
+            "aBicodizye",
+            "aBicodayizye",
+            "aBicodizyAvahe",
+            "aBicodayizyAvahe",
+            "aBicodizyAmahe",
+            "aBicodayizyAmahe"
+          ],
+          "alung": [
+            "aByacodi",
+            "aByacodizAtAm",
+            "aByacodayizAtAm",
+            "aByacodizata",
+            "aByacodayizata",
+            "aByacodizWAH",
+            "aByacodayizWAH",
+            "aByacodizATAm",
+            "aByacodayizATAm",
+            "aByacodiDvam",
+            "aByacodayiQvam",
+            "aByacodayiDvam",
+            "aByacodizi",
+            "aByacodayizi",
+            "aByacodizvahi",
+            "aByacodayizvahi",
+            "aByacodizmahi",
+            "aByacodayizmahi"
+          ],
+          "alut": [
+            "aBicoditA",
+            "aBicodayitA",
+            "aBicoditArO",
+            "aBicodayitArO",
+            "aBicoditAraH",
+            "aBicodayitAraH",
+            "aBicoditAse",
+            "aBicodayitAse",
+            "aBicoditAsATe",
+            "aBicodayitAsATe",
+            "aBicoditADve",
+            "aBicodayitADve",
+            "aBicoditAhe",
+            "aBicodayitAhe",
+            "aBicoditAsvahe",
+            "aBicodayitAsvahe",
+            "aBicoditAsmahe",
+            "aBicodayitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicodyeta",
+            "aBicodyeyAtAm",
+            "aBicodyeran",
+            "aBicodyeTAH",
+            "aBicodyeyATAm",
+            "aBicodyeDvam",
+            "aBicodyeya",
+            "aBicodyevahi",
+            "aBicodyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "aBicucodayizizIzwa",
+            "aBicucodayizizIyAstAm",
+            "aBicucodayizizIran",
+            "aBicucodayizizIzWAH",
+            "aBicucodayizizIyAsTAm",
+            "aBicucodayizizIDvam",
+            "aBicucodayizizIya",
+            "aBicucodayizizIvahi",
+            "aBicucodayizizImahi"
+          ],
+          "alang": [
+            "aByacucodayizata",
+            "aByacucodayizetAm",
+            "aByacucodayizanta",
+            "aByacucodayizaTAH",
+            "aByacucodayizeTAm",
+            "aByacucodayizaDvam",
+            "aByacucodayize",
+            "aByacucodayizAvahi",
+            "aByacucodayizAmahi"
+          ],
+          "alat": [
+            "aBicucodayizate",
+            "aBicucodayizete",
+            "aBicucodayizante",
+            "aBicucodayizase",
+            "aBicucodayizeTe",
+            "aBicucodayizaDve",
+            "aBicucodayize",
+            "aBicucodayizAvahe",
+            "aBicucodayizAmahe"
+          ],
+          "alit": [
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakre",
+            "aBicucodayizAmbaBUvatuH",
+            "aBicucodayizAmAsatuH",
+            "aBicucodayizAYcakrAte",
+            "aBicucodayizAmbaBUvuH",
+            "aBicucodayizAmAsuH",
+            "aBicucodayizAYcakrire",
+            "aBicucodayizAmbaBUviTa",
+            "aBicucodayizAmAsiTa",
+            "aBicucodayizAYcakfze",
+            "aBicucodayizAmbaBUvaTuH",
+            "aBicucodayizAmAsaTuH",
+            "aBicucodayizAYcakrATe",
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakfQve",
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakre",
+            "aBicucodayizAmbaBUviva",
+            "aBicucodayizAmAsiva",
+            "aBicucodayizAYcakfvahe",
+            "aBicucodayizAmbaBUvima",
+            "aBicucodayizAmAsima",
+            "aBicucodayizAYcakfmahe"
+          ],
+          "alot": [
+            "aBicucodayizatAm",
+            "aBicucodayizetAm",
+            "aBicucodayizantAm",
+            "aBicucodayizasva",
+            "aBicucodayizeTAm",
+            "aBicucodayizaDvam",
+            "aBicucodayizE",
+            "aBicucodayizAvahE",
+            "aBicucodayizAmahE"
+          ],
+          "alrung": [
+            "aByacucodayizizyata",
+            "aByacucodayizizyetAm",
+            "aByacucodayizizyanta",
+            "aByacucodayizizyaTAH",
+            "aByacucodayizizyeTAm",
+            "aByacucodayizizyaDvam",
+            "aByacucodayizizye",
+            "aByacucodayizizyAvahi",
+            "aByacucodayizizyAmahi"
+          ],
+          "alrut": [
+            "aBicucodayizizyate",
+            "aBicucodayizizyete",
+            "aBicucodayizizyante",
+            "aBicucodayizizyase",
+            "aBicucodayizizyeTe",
+            "aBicucodayizizyaDve",
+            "aBicucodayizizye",
+            "aBicucodayizizyAvahe",
+            "aBicucodayizizyAmahe"
+          ],
+          "alung": [
+            "aByacucodayizizwa",
+            "aByacucodayizizAtAm",
+            "aByacucodayizizata",
+            "aByacucodayizizWAH",
+            "aByacucodayizizATAm",
+            "aByacucodayiziDvam",
+            "aByacucodayizizi",
+            "aByacucodayizizvahi",
+            "aByacucodayizizmahi"
+          ],
+          "alut": [
+            "aBicucodayizitA",
+            "aBicucodayizitArO",
+            "aBicucodayizitAraH",
+            "aBicucodayizitAse",
+            "aBicucodayizitAsATe",
+            "aBicucodayizitADve",
+            "aBicucodayizitAhe",
+            "aBicucodayizitAsvahe",
+            "aBicucodayizitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicucodayizeta",
+            "aBicucodayizeyAtAm",
+            "aBicucodayizeran",
+            "aBicucodayizeTAH",
+            "aBicucodayizeyATAm",
+            "aBicucodayizeDvam",
+            "aBicucodayizeya",
+            "aBicucodayizevahi",
+            "aBicucodayizemahi"
+          ],
+          "pashirling": [
+            "aBicucodayizyAt",
+            "aBicucodayizyAd",
+            "aBicucodayizyAstAm",
+            "aBicucodayizyAsuH",
+            "aBicucodayizyAH",
+            "aBicucodayizyAstam",
+            "aBicucodayizyAsta",
+            "aBicucodayizyAsam",
+            "aBicucodayizyAsva",
+            "aBicucodayizyAsma"
+          ],
+          "plang": [
+            "aByacucodayizat",
+            "aByacucodayizad",
+            "aByacucodayizatAm",
+            "aByacucodayizan",
+            "aByacucodayizaH",
+            "aByacucodayizatam",
+            "aByacucodayizata",
+            "aByacucodayizam",
+            "aByacucodayizAva",
+            "aByacucodayizAma"
+          ],
+          "plat": [
+            "aBicucodayizati",
+            "aBicucodayizataH",
+            "aBicucodayizanti",
+            "aBicucodayizasi",
+            "aBicucodayizaTaH",
+            "aBicucodayizaTa",
+            "aBicucodayizAmi",
+            "aBicucodayizAvaH",
+            "aBicucodayizAmaH"
+          ],
+          "plit": [
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakAra",
+            "aBicucodayizAmbaBUvatuH",
+            "aBicucodayizAmAsatuH",
+            "aBicucodayizAYcakratuH",
+            "aBicucodayizAmbaBUvuH",
+            "aBicucodayizAmAsuH",
+            "aBicucodayizAYcakruH",
+            "aBicucodayizAmbaBUviTa",
+            "aBicucodayizAmAsiTa",
+            "aBicucodayizAYcakarTa",
+            "aBicucodayizAmbaBUvaTuH",
+            "aBicucodayizAmAsaTuH",
+            "aBicucodayizAYcakraTuH",
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakra",
+            "aBicucodayizAmbaBUva",
+            "aBicucodayizAmAsa",
+            "aBicucodayizAYcakara",
+            "aBicucodayizAYcakAra",
+            "aBicucodayizAmbaBUviva",
+            "aBicucodayizAmAsiva",
+            "aBicucodayizAYcakfva",
+            "aBicucodayizAmbaBUvima",
+            "aBicucodayizAmAsima",
+            "aBicucodayizAYcakfma"
+          ],
+          "plot": [
+            "aBicucodayizatAt",
+            "aBicucodayizatAd",
+            "aBicucodayizatu",
+            "aBicucodayizatAm",
+            "aBicucodayizantu",
+            "aBicucodayizatAt",
+            "aBicucodayizatAd",
+            "aBicucodayiza",
+            "aBicucodayizatam",
+            "aBicucodayizata",
+            "aBicucodayizARi",
+            "aBicucodayizAva",
+            "aBicucodayizAma"
+          ],
+          "plrung": [
+            "aByacucodayizizyat",
+            "aByacucodayizizyad",
+            "aByacucodayizizyatAm",
+            "aByacucodayizizyan",
+            "aByacucodayizizyaH",
+            "aByacucodayizizyatam",
+            "aByacucodayizizyata",
+            "aByacucodayizizyam",
+            "aByacucodayizizyAva",
+            "aByacucodayizizyAma"
+          ],
+          "plrut": [
+            "aBicucodayizizyati",
+            "aBicucodayizizyataH",
+            "aBicucodayizizyanti",
+            "aBicucodayizizyasi",
+            "aBicucodayizizyaTaH",
+            "aBicucodayizizyaTa",
+            "aBicucodayizizyAmi",
+            "aBicucodayizizyAvaH",
+            "aBicucodayizizyAmaH"
+          ],
+          "plung": [
+            "aByacucodayizIt",
+            "aByacucodayizId",
+            "aByacucodayizizwAm",
+            "aByacucodayizizuH",
+            "aByacucodayizIH",
+            "aByacucodayizizwam",
+            "aByacucodayizizwa",
+            "aByacucodayizizam",
+            "aByacucodayizizva",
+            "aByacucodayizizma"
+          ],
+          "plut": [
+            "aBicucodayizitA",
+            "aBicucodayizitArO",
+            "aBicucodayizitAraH",
+            "aBicucodayizitAsi",
+            "aBicucodayizitAsTaH",
+            "aBicucodayizitAsTa",
+            "aBicucodayizitAsmi",
+            "aBicucodayizitAsvaH",
+            "aBicucodayizitAsmaH"
+          ],
+          "pvidhiling": [
+            "aBicucodayizet",
+            "aBicucodayized",
+            "aBicucodayizetAm",
+            "aBicucodayizeyuH",
+            "aBicucodayizeH",
+            "aBicucodayizetam",
+            "aBicucodayizeta",
+            "aBicucodayizeyam",
+            "aBicucodayizeva",
+            "aBicucodayizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "aBicucodayizizIzwa",
+            "aBicucodayizizIyAstAm",
+            "aBicucodayizizIran",
+            "aBicucodayizizIzWAH",
+            "aBicucodayizizIyAsTAm",
+            "aBicucodayizizIDvam",
+            "aBicucodayizizIya",
+            "aBicucodayizizIvahi",
+            "aBicucodayizizImahi"
+          ],
+          "alang": [
+            "aByacucodayizyata",
+            "aByacucodayizyetAm",
+            "aByacucodayizyanta",
+            "aByacucodayizyaTAH",
+            "aByacucodayizyeTAm",
+            "aByacucodayizyaDvam",
+            "aByacucodayizye",
+            "aByacucodayizyAvahi",
+            "aByacucodayizyAmahi"
+          ],
+          "alat": [
+            "aBicucodayizyate",
+            "aBicucodayizyete",
+            "aBicucodayizyante",
+            "aBicucodayizyase",
+            "aBicucodayizyeTe",
+            "aBicucodayizyaDve",
+            "aBicucodayizye",
+            "aBicucodayizyAvahe",
+            "aBicucodayizyAmahe"
+          ],
+          "alit": [
+            "aBicucodayizAmbaBUve",
+            "aBicucodayizAmAse",
+            "aBicucodayizAYcakre",
+            "aBicucodayizAmbaBUvAte",
+            "aBicucodayizAmAsAte",
+            "aBicucodayizAYcakrAte",
+            "aBicucodayizAmbaBUvire",
+            "aBicucodayizAmAsire",
+            "aBicucodayizAYcakrire",
+            "aBicucodayizAmbaBUvize",
+            "aBicucodayizAmAsize",
+            "aBicucodayizAYcakfze",
+            "aBicucodayizAmbaBUvATe",
+            "aBicucodayizAmAsATe",
+            "aBicucodayizAYcakrATe",
+            "aBicucodayizAmbaBUviQve",
+            "aBicucodayizAmAsiDve",
+            "aBicucodayizAYcakfQve",
+            "aBicucodayizAmbaBUve",
+            "aBicucodayizAmAhe",
+            "aBicucodayizAYcakre",
+            "aBicucodayizAmbaBUvivahe",
+            "aBicucodayizAmAsivahe",
+            "aBicucodayizAYcakfvahe",
+            "aBicucodayizAmbaBUvimahe",
+            "aBicucodayizAmAsimahe",
+            "aBicucodayizAYcakfmahe"
+          ],
+          "alot": [
+            "aBicucodayizyatAm",
+            "aBicucodayizyetAm",
+            "aBicucodayizyantAm",
+            "aBicucodayizyasva",
+            "aBicucodayizyeTAm",
+            "aBicucodayizyaDvam",
+            "aBicucodayizyE",
+            "aBicucodayizyAvahE",
+            "aBicucodayizyAmahE"
+          ],
+          "alrung": [
+            "aByacucodayizizyata",
+            "aByacucodayizizyetAm",
+            "aByacucodayizizyanta",
+            "aByacucodayizizyaTAH",
+            "aByacucodayizizyeTAm",
+            "aByacucodayizizyaDvam",
+            "aByacucodayizizye",
+            "aByacucodayizizyAvahi",
+            "aByacucodayizizyAmahi"
+          ],
+          "alrut": [
+            "aBicucodayizizyate",
+            "aBicucodayizizyete",
+            "aBicucodayizizyante",
+            "aBicucodayizizyase",
+            "aBicucodayizizyeTe",
+            "aBicucodayizizyaDve",
+            "aBicucodayizizye",
+            "aBicucodayizizyAvahe",
+            "aBicucodayizizyAmahe"
+          ],
+          "alung": [
+            "aByacucodayizi",
+            "aByacucodayizizAtAm",
+            "aByacucodayizizata",
+            "aByacucodayizizWAH",
+            "aByacucodayizizATAm",
+            "aByacucodayiziDvam",
+            "aByacucodayizizi",
+            "aByacucodayizizvahi",
+            "aByacucodayizizmahi"
+          ],
+          "alut": [
+            "aBicucodayizitA",
+            "aBicucodayizitArO",
+            "aBicucodayizitAraH",
+            "aBicucodayizitAse",
+            "aBicucodayizitAsATe",
+            "aBicucodayizitADve",
+            "aBicucodayizitAhe",
+            "aBicucodayizitAsvahe",
+            "aBicucodayizitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicucodayizyeta",
+            "aBicucodayizyeyAtAm",
+            "aBicucodayizyeran",
+            "aBicucodayizyeTAH",
+            "aBicucodayizyeyATAm",
+            "aBicucodayizyeDvam",
+            "aBicucodayizyeya",
+            "aBicucodayizyevahi",
+            "aBicucodayizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "aBicodayizIzwa",
+            "aBicodayizIyAstAm",
+            "aBicodayizIran",
+            "aBicodayizIzWAH",
+            "aBicodayizIyAsTAm",
+            "aBicodayizIQvam",
+            "aBicodayizIDvam",
+            "aBicodayizIya",
+            "aBicodayizIvahi",
+            "aBicodayizImahi"
+          ],
+          "alang": [
+            "aByacodayata",
+            "aByacodayetAm",
+            "aByacodayanta",
+            "aByacodayaTAH",
+            "aByacodayeTAm",
+            "aByacodayaDvam",
+            "aByacodaye",
+            "aByacodayAvahi",
+            "aByacodayAmahi"
+          ],
+          "alat": [
+            "aBicodayate",
+            "aBicodayete",
+            "aBicodayante",
+            "aBicodayase",
+            "aBicodayeTe",
+            "aBicodayaDve",
+            "aBicodaye",
+            "aBicodayAvahe",
+            "aBicodayAmahe"
+          ],
+          "alit": [
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvatuH",
+            "aBicodayAmAsatuH",
+            "aBicodayAYcakrAte",
+            "aBicodayAmbaBUvuH",
+            "aBicodayAmAsuH",
+            "aBicodayAYcakrire",
+            "aBicodayAmbaBUviTa",
+            "aBicodayAmAsiTa",
+            "aBicodayAYcakfze",
+            "aBicodayAmbaBUvaTuH",
+            "aBicodayAmAsaTuH",
+            "aBicodayAYcakrATe",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakfQve",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUviva",
+            "aBicodayAmAsiva",
+            "aBicodayAYcakfvahe",
+            "aBicodayAmbaBUvima",
+            "aBicodayAmAsima",
+            "aBicodayAYcakfmahe"
+          ],
+          "alot": [
+            "aBicodayatAm",
+            "aBicodayetAm",
+            "aBicodayantAm",
+            "aBicodayasva",
+            "aBicodayeTAm",
+            "aBicodayaDvam",
+            "aBicodayE",
+            "aBicodayAvahE",
+            "aBicodayAmahE"
+          ],
+          "alrung": [
+            "aByacodayizyata",
+            "aByacodayizyetAm",
+            "aByacodayizyanta",
+            "aByacodayizyaTAH",
+            "aByacodayizyeTAm",
+            "aByacodayizyaDvam",
+            "aByacodayizye",
+            "aByacodayizyAvahi",
+            "aByacodayizyAmahi"
+          ],
+          "alrut": [
+            "aBicodayizyate",
+            "aBicodayizyete",
+            "aBicodayizyante",
+            "aBicodayizyase",
+            "aBicodayizyeTe",
+            "aBicodayizyaDve",
+            "aBicodayizye",
+            "aBicodayizyAvahe",
+            "aBicodayizyAmahe"
+          ],
+          "alung": [
+            "aByacUcudata",
+            "aByacUcudetAm",
+            "aByacUcudanta",
+            "aByacUcudaTAH",
+            "aByacUcudeTAm",
+            "aByacUcudaDvam",
+            "aByacUcude",
+            "aByacUcudAvahi",
+            "aByacUcudAmahi"
+          ],
+          "alut": [
+            "aBicodayitA",
+            "aBicodayitArO",
+            "aBicodayitAraH",
+            "aBicodayitAse",
+            "aBicodayitAsATe",
+            "aBicodayitADve",
+            "aBicodayitAhe",
+            "aBicodayitAsvahe",
+            "aBicodayitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicodayeta",
+            "aBicodayeyAtAm",
+            "aBicodayeran",
+            "aBicodayeTAH",
+            "aBicodayeyATAm",
+            "aBicodayeDvam",
+            "aBicodayeya",
+            "aBicodayevahi",
+            "aBicodayemahi"
+          ],
+          "pashirling": [
+            "aBicodyAt",
+            "aBicodyAd",
+            "aBicodyAstAm",
+            "aBicodyAsuH",
+            "aBicodyAH",
+            "aBicodyAstam",
+            "aBicodyAsta",
+            "aBicodyAsam",
+            "aBicodyAsva",
+            "aBicodyAsma"
+          ],
+          "plang": [
+            "aByacodayat",
+            "aByacodayad",
+            "aByacodayatAm",
+            "aByacodayan",
+            "aByacodayaH",
+            "aByacodayatam",
+            "aByacodayata",
+            "aByacodayam",
+            "aByacodayAva",
+            "aByacodayAma"
+          ],
+          "plat": [
+            "aBicodayati",
+            "aBicodayataH",
+            "aBicodayanti",
+            "aBicodayasi",
+            "aBicodayaTaH",
+            "aBicodayaTa",
+            "aBicodayAmi",
+            "aBicodayAvaH",
+            "aBicodayAmaH"
+          ],
+          "plit": [
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakAra",
+            "aBicodayAmbaBUvatuH",
+            "aBicodayAmAsatuH",
+            "aBicodayAYcakratuH",
+            "aBicodayAmbaBUvuH",
+            "aBicodayAmAsuH",
+            "aBicodayAYcakruH",
+            "aBicodayAmbaBUviTa",
+            "aBicodayAmAsiTa",
+            "aBicodayAYcakarTa",
+            "aBicodayAmbaBUvaTuH",
+            "aBicodayAmAsaTuH",
+            "aBicodayAYcakraTuH",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakra",
+            "aBicodayAmbaBUva",
+            "aBicodayAmAsa",
+            "aBicodayAYcakara",
+            "aBicodayAYcakAra",
+            "aBicodayAmbaBUviva",
+            "aBicodayAmAsiva",
+            "aBicodayAYcakfva",
+            "aBicodayAmbaBUvima",
+            "aBicodayAmAsima",
+            "aBicodayAYcakfma"
+          ],
+          "plot": [
+            "aBicodayatAt",
+            "aBicodayatAd",
+            "aBicodayatu",
+            "aBicodayatAm",
+            "aBicodayantu",
+            "aBicodayatAt",
+            "aBicodayatAd",
+            "aBicodaya",
+            "aBicodayatam",
+            "aBicodayata",
+            "aBicodayAni",
+            "aBicodayAva",
+            "aBicodayAma"
+          ],
+          "plrung": [
+            "aByacodayizyat",
+            "aByacodayizyad",
+            "aByacodayizyatAm",
+            "aByacodayizyan",
+            "aByacodayizyaH",
+            "aByacodayizyatam",
+            "aByacodayizyata",
+            "aByacodayizyam",
+            "aByacodayizyAva",
+            "aByacodayizyAma"
+          ],
+          "plrut": [
+            "aBicodayizyati",
+            "aBicodayizyataH",
+            "aBicodayizyanti",
+            "aBicodayizyasi",
+            "aBicodayizyaTaH",
+            "aBicodayizyaTa",
+            "aBicodayizyAmi",
+            "aBicodayizyAvaH",
+            "aBicodayizyAmaH"
+          ],
+          "plung": [
+            "aByacUcudat",
+            "aByacUcudad",
+            "aByacUcudatAm",
+            "aByacUcudan",
+            "aByacUcudaH",
+            "aByacUcudatam",
+            "aByacUcudata",
+            "aByacUcudam",
+            "aByacUcudAva",
+            "aByacUcudAma"
+          ],
+          "plut": [
+            "aBicodayitA",
+            "aBicodayitArO",
+            "aBicodayitAraH",
+            "aBicodayitAsi",
+            "aBicodayitAsTaH",
+            "aBicodayitAsTa",
+            "aBicodayitAsmi",
+            "aBicodayitAsvaH",
+            "aBicodayitAsmaH"
+          ],
+          "pvidhiling": [
+            "aBicodayet",
+            "aBicodayed",
+            "aBicodayetAm",
+            "aBicodayeyuH",
+            "aBicodayeH",
+            "aBicodayetam",
+            "aBicodayeta",
+            "aBicodayeyam",
+            "aBicodayeva",
+            "aBicodayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "aBicodizIzwa",
+            "aBicodayizIzwa",
+            "aBicodizIyAstAm",
+            "aBicodayizIyAstAm",
+            "aBicodizIran",
+            "aBicodayizIran",
+            "aBicodizIzWAH",
+            "aBicodayizIzWAH",
+            "aBicodizIyAsTAm",
+            "aBicodayizIyAsTAm",
+            "aBicodizIDvam",
+            "aBicodayizIQvam",
+            "aBicodayizIDvam",
+            "aBicodizIya",
+            "aBicodayizIya",
+            "aBicodizIvahi",
+            "aBicodayizIvahi",
+            "aBicodizImahi",
+            "aBicodayizImahi"
+          ],
+          "alang": [
+            "aByacodyata",
+            "aByacodyetAm",
+            "aByacodyanta",
+            "aByacodyaTAH",
+            "aByacodyeTAm",
+            "aByacodyaDvam",
+            "aByacodye",
+            "aByacodyAvahi",
+            "aByacodyAmahi"
+          ],
+          "alat": [
+            "aBicodyate",
+            "aBicodyete",
+            "aBicodyante",
+            "aBicodyase",
+            "aBicodyeTe",
+            "aBicodyaDve",
+            "aBicodye",
+            "aBicodyAvahe",
+            "aBicodyAmahe"
+          ],
+          "alit": [
+            "aBicodayAmbaBUve",
+            "aBicodayAmAse",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvAte",
+            "aBicodayAmAsAte",
+            "aBicodayAYcakrAte",
+            "aBicodayAmbaBUvire",
+            "aBicodayAmAsire",
+            "aBicodayAYcakrire",
+            "aBicodayAmbaBUvize",
+            "aBicodayAmAsize",
+            "aBicodayAYcakfze",
+            "aBicodayAmbaBUvATe",
+            "aBicodayAmAsATe",
+            "aBicodayAYcakrATe",
+            "aBicodayAmbaBUviQve",
+            "aBicodayAmAsiDve",
+            "aBicodayAYcakfQve",
+            "aBicodayAmbaBUve",
+            "aBicodayAmAhe",
+            "aBicodayAYcakre",
+            "aBicodayAmbaBUvivahe",
+            "aBicodayAmAsivahe",
+            "aBicodayAYcakfvahe",
+            "aBicodayAmbaBUvimahe",
+            "aBicodayAmAsimahe",
+            "aBicodayAYcakfmahe"
+          ],
+          "alot": [
+            "aBicodyatAm",
+            "aBicodyetAm",
+            "aBicodyantAm",
+            "aBicodyasva",
+            "aBicodyeTAm",
+            "aBicodyaDvam",
+            "aBicodyE",
+            "aBicodyAvahE",
+            "aBicodyAmahE"
+          ],
+          "alrung": [
+            "aByacodizyata",
+            "aByacodayizyata",
+            "aByacodizyetAm",
+            "aByacodayizyetAm",
+            "aByacodizyanta",
+            "aByacodayizyanta",
+            "aByacodizyaTAH",
+            "aByacodayizyaTAH",
+            "aByacodizyeTAm",
+            "aByacodayizyeTAm",
+            "aByacodizyaDvam",
+            "aByacodayizyaDvam",
+            "aByacodizye",
+            "aByacodayizye",
+            "aByacodizyAvahi",
+            "aByacodayizyAvahi",
+            "aByacodizyAmahi",
+            "aByacodayizyAmahi"
+          ],
+          "alrut": [
+            "aBicodizyate",
+            "aBicodayizyate",
+            "aBicodizyete",
+            "aBicodayizyete",
+            "aBicodizyante",
+            "aBicodayizyante",
+            "aBicodizyase",
+            "aBicodayizyase",
+            "aBicodizyeTe",
+            "aBicodayizyeTe",
+            "aBicodizyaDve",
+            "aBicodayizyaDve",
+            "aBicodizye",
+            "aBicodayizye",
+            "aBicodizyAvahe",
+            "aBicodayizyAvahe",
+            "aBicodizyAmahe",
+            "aBicodayizyAmahe"
+          ],
+          "alung": [
+            "aByacodi",
+            "aByacodizAtAm",
+            "aByacodayizAtAm",
+            "aByacodizata",
+            "aByacodayizata",
+            "aByacodizWAH",
+            "aByacodayizWAH",
+            "aByacodizATAm",
+            "aByacodayizATAm",
+            "aByacodiDvam",
+            "aByacodayiQvam",
+            "aByacodayiDvam",
+            "aByacodizi",
+            "aByacodayizi",
+            "aByacodizvahi",
+            "aByacodayizvahi",
+            "aByacodizmahi",
+            "aByacodayizmahi"
+          ],
+          "alut": [
+            "aBicoditA",
+            "aBicodayitA",
+            "aBicoditArO",
+            "aBicodayitArO",
+            "aBicoditAraH",
+            "aBicodayitAraH",
+            "aBicoditAse",
+            "aBicodayitAse",
+            "aBicoditAsATe",
+            "aBicodayitAsATe",
+            "aBicoditADve",
+            "aBicodayitADve",
+            "aBicoditAhe",
+            "aBicodayitAhe",
+            "aBicoditAsvahe",
+            "aBicodayitAsvahe",
+            "aBicoditAsmahe",
+            "aBicodayitAsmahe"
+          ],
+          "avidhiling": [
+            "aBicodyeta",
+            "aBicodyeyAtAm",
+            "aBicodyeran",
+            "aBicodyeTAH",
+            "aBicodyeyATAm",
+            "aBicodyeDvam",
+            "aBicodyeya",
+            "aBicodyevahi",
+            "aBicodyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "aBicoda",
+              "m": "aBicodaH",
+              "f": "aBicodA",
+              "n": "aBicodam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "aBicodanIya",
+              "m": "aBicodanIyaH",
+              "f": "aBicodanIyA",
+              "n": "aBicodanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "aBicodita",
+              "m": "aBicoditaH",
+              "f": "aBicoditA",
+              "n": "aBicoditam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "aBicoditavat",
+              "m": "aBicoditavAn",
+              "f": "aBicoditavatI",
+              "n": "aBicoditavat/aBicoditavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "aBicotti",
+              "m": "",
+              "f": "aBicottiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "aBicodayAmbaBUvas",
+              "m": "aBicodayAmbaBUvAn",
+              "f": "aBicodayAmbaBUzI",
+              "n": "aBicodayAmbaBUvat/aBicodayAmbaBUvad"
+            },
+            {
+              "base": "aBicodayAmAsivas",
+              "m": "aBicodayAmAsivAn",
+              "f": "aBicodayAmAsyuzI",
+              "n": "aBicodayAmAsivat/aBicodayAmAsivad"
+            },
+            {
+              "base": "aBicodayAYcakfvas",
+              "m": "aBicodayAYcakfvAn",
+              "f": "aBicodayAYcakruzI",
+              "n": "aBicodayAYcakfvat/aBicodayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "aBicodam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "aBicodaka",
+              "m": "aBicodakaH",
+              "f": "aBicodikA",
+              "n": "aBicodakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "aBicodayitavya",
+              "m": "aBicodayitavyaH",
+              "f": "aBicodayitavyA",
+              "n": "aBicodayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "aBicodayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "aBicodayitf",
+              "m": "aBicodayitA",
+              "f": "aBicodayitrI",
+              "n": "aBicodayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "aBicodya",
+              "m": "aBicodyaH",
+              "f": "aBicodyA",
+              "n": "aBicodyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "aBicodya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "aBicodana",
+              "m": "",
+              "f": "",
+              "n": "aBicodanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "aBicodaka",
+              "m": "aBicodakaH",
+              "f": "aBicodikA",
+              "n": "aBicodakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "aBicodayat",
+              "m": "aBicodayan",
+              "f": "aBicodayantI",
+              "n": "aBicodayat/aBicodayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "aBicodayat",
+              "m": "aBicodayan",
+              "f": "aBicodayatI/aBicodayantI",
+              "n": "aBicodayat/aBicodayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "aBicucodayizA",
+              "m": "",
+              "f": "aBicucodayizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "aBicucodayiza",
+              "m": "aBicucodayizaH",
+              "f": "aBicucodayizA",
+              "n": "aBicucodayizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "aBicucodayizaRIya",
+              "m": "aBicucodayizaRIyaH",
+              "f": "aBicucodayizaRIyA",
+              "n": "aBicucodayizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "aBicucodayizu",
+              "m": "aBicucodayizuH",
+              "f": "aBicucodayizuH",
+              "n": "aBicucodayizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "aBicucodayizita",
+              "m": "aBicucodayizitaH",
+              "f": "aBicucodayizitA",
+              "n": "aBicucodayizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "aBicucodayizitavat",
+              "m": "aBicucodayizitavAn",
+              "f": "aBicucodayizitavatI",
+              "n": "aBicucodayizitavat/aBicucodayizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "aBicucodayizwi",
+              "m": "",
+              "f": "aBicucodayizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "aBicucodayizAmbaBUvas",
+              "m": "aBicucodayizAmbaBUvAn",
+              "f": "aBicucodayizAmbaBUzI",
+              "n": "aBicucodayizAmbaBUvat/aBicucodayizAmbaBUvad"
+            },
+            {
+              "base": "aBicucodayizAmAsivas",
+              "m": "aBicucodayizAmAsivAn",
+              "f": "aBicucodayizAmAsyuzI",
+              "n": "aBicucodayizAmAsivat/aBicucodayizAmAsivad"
+            },
+            {
+              "base": "aBicucodayizAYcakfvas",
+              "m": "aBicucodayizAYcakfvAn",
+              "f": "aBicucodayizAYcakruzI",
+              "n": "aBicucodayizAYcakfvat/aBicucodayizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "aBicucodayiza",
+              "m": "aBicucodayizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "aBicucodayizamARa",
+              "m": "aBicucodayizamARaH",
+              "f": "aBicucodayizamARA",
+              "n": "aBicucodayizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "aBicucodayizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "aBicucodayizaka",
+              "m": "aBicucodayizakaH",
+              "f": "aBicucodayizikA",
+              "n": "aBicucodayizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "aBicucodayizitavya",
+              "m": "aBicucodayizitavyaH",
+              "f": "aBicucodayizitavyA",
+              "n": "aBicucodayizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "aBicucodayizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "aBicucodayizitf",
+              "m": "aBicucodayizitA",
+              "f": "aBicucodayizitrI",
+              "n": "aBicucodayizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "aBicucodayizamARa",
+              "m": "aBicucodayizamARaH",
+              "f": "aBicucodayizamARA",
+              "n": "aBicucodayizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "aBicucodayizya",
+              "m": "aBicucodayizyaH",
+              "f": "aBicucodayizyA",
+              "n": "aBicucodayizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "aBicucodayizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "aBicucodayizaRa",
+              "m": "",
+              "f": "",
+              "n": "aBicucodayizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "aBicucodayizaka",
+              "m": "aBicucodayizakaH",
+              "f": "aBicucodayizikA",
+              "n": "aBicucodayizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "aBicucodayizat",
+              "m": "aBicucodayizan",
+              "f": "aBicucodayizantI",
+              "n": "aBicucodayizat/aBicucodayizad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "aBicucodayizamARa",
+              "m": "aBicucodayizamARaH",
+              "f": "aBicucodayizamARA",
+              "n": "aBicucodayizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "aBicucodayizamARa",
+              "m": "aBicucodayizamARaH",
+              "f": "aBicucodayizamARA",
+              "n": "aBicucodayizamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "aBicucodayizat",
+              "m": "aBicucodayizan",
+              "f": "aBicucodayizatI/aBicucodayizantI",
+              "n": "aBicucodayizat/aBicucodayizad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "aBicucodayizamARa",
+              "m": "aBicucodayizamARaH",
+              "f": "aBicucodayizamARA",
+              "n": "aBicucodayizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "aBicoda",
+              "m": "aBicodaH",
+              "f": "aBicodA",
+              "n": "aBicodam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "aBicodanIya",
+              "m": "aBicodanIyaH",
+              "f": "aBicodanIyA",
+              "n": "aBicodanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "aBicodita",
+              "m": "aBicoditaH",
+              "f": "aBicoditA",
+              "n": "aBicoditam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "aBicoditavat",
+              "m": "aBicoditavAn",
+              "f": "aBicoditavatI",
+              "n": "aBicoditavat/aBicoditavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "aBicotti",
+              "m": "",
+              "f": "aBicottiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "aBicodayAmbaBUvas",
+              "m": "aBicodayAmbaBUvAn",
+              "f": "aBicodayAmbaBUzI",
+              "n": "aBicodayAmbaBUvat/aBicodayAmbaBUvad"
+            },
+            {
+              "base": "aBicodayAmAsivas",
+              "m": "aBicodayAmAsivAn",
+              "f": "aBicodayAmAsyuzI",
+              "n": "aBicodayAmAsivat/aBicodayAmAsivad"
+            },
+            {
+              "base": "aBicodayAYcakfvas",
+              "m": "aBicodayAYcakfvAn",
+              "f": "aBicodayAYcakruzI",
+              "n": "aBicodayAYcakfvat/aBicodayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "aBicodam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "aBicodaka",
+              "m": "aBicodakaH",
+              "f": "aBicodikA",
+              "n": "aBicodakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "aBicodayitavya",
+              "m": "aBicodayitavyaH",
+              "f": "aBicodayitavyA",
+              "n": "aBicodayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "aBicodayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "aBicodayitf",
+              "m": "aBicodayitA",
+              "f": "aBicodayitrI",
+              "n": "aBicodayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "aBicodya",
+              "m": "aBicodyaH",
+              "f": "aBicodyA",
+              "n": "aBicodyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "aBicodya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "aBicodana",
+              "m": "",
+              "f": "",
+              "n": "aBicodanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "aBicodaka",
+              "m": "aBicodakaH",
+              "f": "aBicodikA",
+              "n": "aBicodakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "aBicodayat",
+              "m": "aBicodayan",
+              "f": "aBicodayantI",
+              "n": "aBicodayat/aBicodayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "aBicodayat",
+              "m": "aBicodayan",
+              "f": "aBicodayatI/aBicodayantI",
+              "n": "aBicodayat/aBicodayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "aBicodayamAna",
+              "m": "aBicodayamAnaH",
+              "f": "aBicodayamAnA",
+              "n": "aBicodayamAnam"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

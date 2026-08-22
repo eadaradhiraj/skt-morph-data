@@ -1,0 +1,2934 @@
+{
+  "id": "01.0042",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Scyuti~r"
+    },
+    {
+      "name": "arTaH",
+      "value": "kzaraRe"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to flow,to trickle, to fall, to deviate"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "wapakanA, JaranA, sIMcanA, prokzaRa karanA, CiqakanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "sakArAdirayam, Scutvena nirdeSaH . kzaraRam - sravaRam . 'dramiqAH cutirityapi AhuH . cotati . kOSikastu ScutimayopaDaM manyate . Scotati ' iti kzIrasvAmI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "41"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "41"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2269",
+      "ext_link": "/sutraani/sk2269?scroll=sutra-commentary-kaumudi-region&highlight=Sacayautaira"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "ScyutyAt",
+        "ScyutyAd",
+        "ScyutyAstAm",
+        "ScyutyAsuH",
+        "ScyutyAH",
+        "ScyutyAstam",
+        "ScyutyAsta",
+        "ScyutyAsam",
+        "ScyutyAsva",
+        "ScyutyAsma"
+      ],
+      "plang": [
+        "aScyotat",
+        "aScyotad",
+        "aScyotatAm",
+        "aScyotan",
+        "aScyotaH",
+        "aScyotatam",
+        "aScyotata",
+        "aScyotam",
+        "aScyotAva",
+        "aScyotAma"
+      ],
+      "plat": [
+        "Scyotati",
+        "ScyotataH",
+        "Scyotanti",
+        "Scyotasi",
+        "ScyotaTaH",
+        "ScyotaTa",
+        "ScyotAmi",
+        "ScyotAvaH",
+        "ScyotAmaH"
+      ],
+      "plit": [
+        "cuScyota",
+        "cuScyutatuH",
+        "cuScyutuH",
+        "cuScyotiTa",
+        "cuScyutaTuH",
+        "cuScyuta",
+        "cuScyota",
+        "cuScyutiva",
+        "cuScyutima"
+      ],
+      "plot": [
+        "ScyotatAt",
+        "ScyotatAd",
+        "Scyotatu",
+        "ScyotatAm",
+        "Scyotantu",
+        "Scyota",
+        "ScyotatAt",
+        "ScyotatAd",
+        "Scyotatam",
+        "Scyotata",
+        "ScyotAni",
+        "ScyotAva",
+        "ScyotAma"
+      ],
+      "plrung": [
+        "aScyotizyat",
+        "aScyotizyad",
+        "aScyotizyatAm",
+        "aScyotizyan",
+        "aScyotizyaH",
+        "aScyotizyatam",
+        "aScyotizyata",
+        "aScyotizyam",
+        "aScyotizyAva",
+        "aScyotizyAma"
+      ],
+      "plrut": [
+        "Scyotizyati",
+        "ScyotizyataH",
+        "Scyotizyanti",
+        "Scyotizyasi",
+        "ScyotizyaTaH",
+        "ScyotizyaTa",
+        "ScyotizyAmi",
+        "ScyotizyAvaH",
+        "ScyotizyAmaH"
+      ],
+      "plung": [
+        "aScyutat",
+        "aScyutad",
+        "aScyotIt",
+        "aScyotId",
+        "aScyutatAm",
+        "aScyotizwAm",
+        "aScyutan",
+        "aScyotizuH",
+        "aScyutaH",
+        "aScyotIH",
+        "aScyutatam",
+        "aScyotizwam",
+        "aScyutata",
+        "aScyotizwa",
+        "aScyutam",
+        "aScyotizam",
+        "aScyutAva",
+        "aScyotizva",
+        "aScyutAma",
+        "aScyotizma"
+      ],
+      "plut": [
+        "ScyotitA",
+        "ScyotitArO",
+        "ScyotitAraH",
+        "ScyotitAsi",
+        "ScyotitAsTaH",
+        "ScyotitAsTa",
+        "ScyotitAsmi",
+        "ScyotitAsvaH",
+        "ScyotitAsmaH"
+      ],
+      "pvidhiling": [
+        "Scyotet",
+        "Scyoted",
+        "ScyotetAm",
+        "ScyoteyuH",
+        "ScyoteH",
+        "Scyotetam",
+        "Scyoteta",
+        "Scyoteyam",
+        "Scyoteva",
+        "Scyotema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "ScyotizIzwa",
+        "ScyotizIyAstAm",
+        "ScyotizIran",
+        "ScyotizIzWAH",
+        "ScyotizIyAsTAm",
+        "ScyotizIDvam",
+        "ScyotizIya",
+        "ScyotizIvahi",
+        "ScyotizImahi"
+      ],
+      "alang": [
+        "aScyutyata",
+        "aScyutyetAm",
+        "aScyutyanta",
+        "aScyutyaTAH",
+        "aScyutyeTAm",
+        "aScyutyaDvam",
+        "aScyutye",
+        "aScyutyAvahi",
+        "aScyutyAmahi"
+      ],
+      "alat": [
+        "Scyutyate",
+        "Scyutyete",
+        "Scyutyante",
+        "Scyutyase",
+        "ScyutyeTe",
+        "ScyutyaDve",
+        "Scyutye",
+        "ScyutyAvahe",
+        "ScyutyAmahe"
+      ],
+      "alit": [
+        "cuScyute",
+        "cuScyutAte",
+        "cuScyutire",
+        "cuScyutize",
+        "cuScyutATe",
+        "cuScyutiDve",
+        "cuScyute",
+        "cuScyutivahe",
+        "cuScyutimahe"
+      ],
+      "alot": [
+        "ScyutyatAm",
+        "ScyutyetAm",
+        "ScyutyantAm",
+        "Scyutyasva",
+        "ScyutyeTAm",
+        "ScyutyaDvam",
+        "ScyutyE",
+        "ScyutyAvahE",
+        "ScyutyAmahE"
+      ],
+      "alrung": [
+        "aScyotizyata",
+        "aScyotizyetAm",
+        "aScyotizyanta",
+        "aScyotizyaTAH",
+        "aScyotizyeTAm",
+        "aScyotizyaDvam",
+        "aScyotizye",
+        "aScyotizyAvahi",
+        "aScyotizyAmahi"
+      ],
+      "alrut": [
+        "Scyotizyate",
+        "Scyotizyete",
+        "Scyotizyante",
+        "Scyotizyase",
+        "ScyotizyeTe",
+        "ScyotizyaDve",
+        "Scyotizye",
+        "ScyotizyAvahe",
+        "ScyotizyAmahe"
+      ],
+      "alung": [
+        "aScyoti",
+        "aScyotizAtAm",
+        "aScyotizata",
+        "aScyotizWAH",
+        "aScyotizATAm",
+        "aScyotiDvam",
+        "aScyotizi",
+        "aScyotizvahi",
+        "aScyotizmahi"
+      ],
+      "alut": [
+        "ScyotitA",
+        "ScyotitArO",
+        "ScyotitAraH",
+        "ScyotitAse",
+        "ScyotitAsATe",
+        "ScyotitADve",
+        "ScyotitAhe",
+        "ScyotitAsvahe",
+        "ScyotitAsmahe"
+      ],
+      "avidhiling": [
+        "Scyutyeta",
+        "ScyutyeyAtAm",
+        "Scyutyeran",
+        "ScyutyeTAH",
+        "ScyutyeyATAm",
+        "ScyutyeDvam",
+        "Scyutyeya",
+        "Scyutyevahi",
+        "Scyutyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "cuScyutizyAt",
+        "cuScyutizyAd",
+        "cuScyotizyAt",
+        "cuScyotizyAd",
+        "cuScyutizyAstAm",
+        "cuScyotizyAstAm",
+        "cuScyutizyAsuH",
+        "cuScyotizyAsuH",
+        "cuScyutizyAH",
+        "cuScyotizyAH",
+        "cuScyutizyAstam",
+        "cuScyotizyAstam",
+        "cuScyutizyAsta",
+        "cuScyotizyAsta",
+        "cuScyutizyAsam",
+        "cuScyotizyAsam",
+        "cuScyutizyAsva",
+        "cuScyotizyAsva",
+        "cuScyutizyAsma",
+        "cuScyotizyAsma"
+      ],
+      "plang": [
+        "acuScyutizat",
+        "acuScyutizad",
+        "acuScyotizat",
+        "acuScyotizad",
+        "acuScyutizatAm",
+        "acuScyotizatAm",
+        "acuScyutizan",
+        "acuScyotizan",
+        "acuScyutizaH",
+        "acuScyotizaH",
+        "acuScyutizatam",
+        "acuScyotizatam",
+        "acuScyutizata",
+        "acuScyotizata",
+        "acuScyutizam",
+        "acuScyotizam",
+        "acuScyutizAva",
+        "acuScyotizAva",
+        "acuScyutizAma",
+        "acuScyotizAma"
+      ],
+      "plat": [
+        "cuScyutizati",
+        "cuScyotizati",
+        "cuScyutizataH",
+        "cuScyotizataH",
+        "cuScyutizanti",
+        "cuScyotizanti",
+        "cuScyutizasi",
+        "cuScyotizasi",
+        "cuScyutizaTaH",
+        "cuScyotizaTaH",
+        "cuScyutizaTa",
+        "cuScyotizaTa",
+        "cuScyutizAmi",
+        "cuScyotizAmi",
+        "cuScyutizAvaH",
+        "cuScyotizAvaH",
+        "cuScyutizAmaH",
+        "cuScyotizAmaH"
+      ],
+      "plit": [
+        "cuScyutizAYcakAra",
+        "cuScyutizAmAsa",
+        "cuScyutizAmbaBUva",
+        "cuScyotizAYcakAra",
+        "cuScyotizAmAsa",
+        "cuScyotizAmbaBUva",
+        "cuScyutizAYcakratuH",
+        "cuScyutizAmAsatuH",
+        "cuScyutizAmbaBUvatuH",
+        "cuScyotizAYcakratuH",
+        "cuScyotizAmAsatuH",
+        "cuScyotizAmbaBUvatuH",
+        "cuScyutizAYcakruH",
+        "cuScyutizAmAsuH",
+        "cuScyutizAmbaBUvuH",
+        "cuScyotizAYcakruH",
+        "cuScyotizAmAsuH",
+        "cuScyotizAmbaBUvuH",
+        "cuScyutizAYcakarTa",
+        "cuScyutizAmAsiTa",
+        "cuScyutizAmbaBUviTa",
+        "cuScyotizAYcakarTa",
+        "cuScyotizAmAsiTa",
+        "cuScyotizAmbaBUviTa",
+        "cuScyutizAYcakraTuH",
+        "cuScyutizAmAsaTuH",
+        "cuScyutizAmbaBUvaTuH",
+        "cuScyotizAYcakraTuH",
+        "cuScyotizAmAsaTuH",
+        "cuScyotizAmbaBUvaTuH",
+        "cuScyutizAYcakra",
+        "cuScyutizAmAsa",
+        "cuScyutizAmbaBUva",
+        "cuScyotizAYcakra",
+        "cuScyotizAmAsa",
+        "cuScyotizAmbaBUva",
+        "cuScyutizAYcakara",
+        "cuScyutizAYcakAra",
+        "cuScyutizAmAsa",
+        "cuScyutizAmbaBUva",
+        "cuScyotizAYcakara",
+        "cuScyotizAYcakAra",
+        "cuScyotizAmAsa",
+        "cuScyotizAmbaBUva",
+        "cuScyutizAYcakfva",
+        "cuScyutizAmAsiva",
+        "cuScyutizAmbaBUviva",
+        "cuScyotizAYcakfva",
+        "cuScyotizAmAsiva",
+        "cuScyotizAmbaBUviva",
+        "cuScyutizAYcakfma",
+        "cuScyutizAmAsima",
+        "cuScyutizAmbaBUvima",
+        "cuScyotizAYcakfma",
+        "cuScyotizAmAsima",
+        "cuScyotizAmbaBUvima"
+      ],
+      "plot": [
+        "cuScyutizatAt",
+        "cuScyutizatAd",
+        "cuScyutizatu",
+        "cuScyotizatAt",
+        "cuScyotizatAd",
+        "cuScyotizatu",
+        "cuScyutizatAm",
+        "cuScyotizatAm",
+        "cuScyutizantu",
+        "cuScyotizantu",
+        "cuScyutiza",
+        "cuScyutizatAt",
+        "cuScyutizatAd",
+        "cuScyotiza",
+        "cuScyotizatAt",
+        "cuScyotizatAd",
+        "cuScyutizatam",
+        "cuScyotizatam",
+        "cuScyutizata",
+        "cuScyotizata",
+        "cuScyutizARi",
+        "cuScyotizARi",
+        "cuScyutizAva",
+        "cuScyotizAva",
+        "cuScyutizAma",
+        "cuScyotizAma"
+      ],
+      "plrung": [
+        "acuScyutizizyat",
+        "acuScyutizizyad",
+        "acuScyotizizyat",
+        "acuScyotizizyad",
+        "acuScyutizizyatAm",
+        "acuScyotizizyatAm",
+        "acuScyutizizyan",
+        "acuScyotizizyan",
+        "acuScyutizizyaH",
+        "acuScyotizizyaH",
+        "acuScyutizizyatam",
+        "acuScyotizizyatam",
+        "acuScyutizizyata",
+        "acuScyotizizyata",
+        "acuScyutizizyam",
+        "acuScyotizizyam",
+        "acuScyutizizyAva",
+        "acuScyotizizyAva",
+        "acuScyutizizyAma",
+        "acuScyotizizyAma"
+      ],
+      "plrut": [
+        "cuScyutizizyati",
+        "cuScyotizizyati",
+        "cuScyutizizyataH",
+        "cuScyotizizyataH",
+        "cuScyutizizyanti",
+        "cuScyotizizyanti",
+        "cuScyutizizyasi",
+        "cuScyotizizyasi",
+        "cuScyutizizyaTaH",
+        "cuScyotizizyaTaH",
+        "cuScyutizizyaTa",
+        "cuScyotizizyaTa",
+        "cuScyutizizyAmi",
+        "cuScyotizizyAmi",
+        "cuScyutizizyAvaH",
+        "cuScyotizizyAvaH",
+        "cuScyutizizyAmaH",
+        "cuScyotizizyAmaH"
+      ],
+      "plung": [
+        "acuScyutizIt",
+        "acuScyutizId",
+        "acuScyotizIt",
+        "acuScyotizId",
+        "acuScyutizizwAm",
+        "acuScyotizizwAm",
+        "acuScyutizizuH",
+        "acuScyotizizuH",
+        "acuScyutizIH",
+        "acuScyotizIH",
+        "acuScyutizizwam",
+        "acuScyotizizwam",
+        "acuScyutizizwa",
+        "acuScyotizizwa",
+        "acuScyutizizam",
+        "acuScyotizizam",
+        "acuScyutizizva",
+        "acuScyotizizva",
+        "acuScyutizizma",
+        "acuScyotizizma"
+      ],
+      "plut": [
+        "cuScyutizitA",
+        "cuScyotizitA",
+        "cuScyutizitArO",
+        "cuScyotizitArO",
+        "cuScyutizitAraH",
+        "cuScyotizitAraH",
+        "cuScyutizitAsi",
+        "cuScyotizitAsi",
+        "cuScyutizitAsTaH",
+        "cuScyotizitAsTaH",
+        "cuScyutizitAsTa",
+        "cuScyotizitAsTa",
+        "cuScyutizitAsmi",
+        "cuScyotizitAsmi",
+        "cuScyutizitAsvaH",
+        "cuScyotizitAsvaH",
+        "cuScyutizitAsmaH",
+        "cuScyotizitAsmaH"
+      ],
+      "pvidhiling": [
+        "cuScyutizet",
+        "cuScyutized",
+        "cuScyotizet",
+        "cuScyotized",
+        "cuScyutizetAm",
+        "cuScyotizetAm",
+        "cuScyutizeyuH",
+        "cuScyotizeyuH",
+        "cuScyutizeH",
+        "cuScyotizeH",
+        "cuScyutizetam",
+        "cuScyotizetam",
+        "cuScyutizeta",
+        "cuScyotizeta",
+        "cuScyutizeyam",
+        "cuScyotizeyam",
+        "cuScyutizeva",
+        "cuScyotizeva",
+        "cuScyutizema",
+        "cuScyotizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cuScyutizizIzwa",
+        "cuScyotizizIzwa",
+        "cuScyutizizIyAstAm",
+        "cuScyotizizIyAstAm",
+        "cuScyutizizIran",
+        "cuScyotizizIran",
+        "cuScyutizizIzWAH",
+        "cuScyotizizIzWAH",
+        "cuScyutizizIyAsTAm",
+        "cuScyotizizIyAsTAm",
+        "cuScyutizizIDvam",
+        "cuScyotizizIDvam",
+        "cuScyutizizIya",
+        "cuScyotizizIya",
+        "cuScyutizizIvahi",
+        "cuScyotizizIvahi",
+        "cuScyutizizImahi",
+        "cuScyotizizImahi"
+      ],
+      "alang": [
+        "acuScyutizyata",
+        "acuScyotizyata",
+        "acuScyutizyetAm",
+        "acuScyotizyetAm",
+        "acuScyutizyanta",
+        "acuScyotizyanta",
+        "acuScyutizyaTAH",
+        "acuScyotizyaTAH",
+        "acuScyutizyeTAm",
+        "acuScyotizyeTAm",
+        "acuScyutizyaDvam",
+        "acuScyotizyaDvam",
+        "acuScyutizye",
+        "acuScyotizye",
+        "acuScyutizyAvahi",
+        "acuScyotizyAvahi",
+        "acuScyutizyAmahi",
+        "acuScyotizyAmahi"
+      ],
+      "alat": [
+        "cuScyutizyate",
+        "cuScyotizyate",
+        "cuScyutizyete",
+        "cuScyotizyete",
+        "cuScyutizyante",
+        "cuScyotizyante",
+        "cuScyutizyase",
+        "cuScyotizyase",
+        "cuScyutizyeTe",
+        "cuScyotizyeTe",
+        "cuScyutizyaDve",
+        "cuScyotizyaDve",
+        "cuScyutizye",
+        "cuScyotizye",
+        "cuScyutizyAvahe",
+        "cuScyotizyAvahe",
+        "cuScyutizyAmahe",
+        "cuScyotizyAmahe"
+      ],
+      "alit": [
+        "cuScyutizAYcakre",
+        "cuScyutizAmAse",
+        "cuScyutizAmbaBUve",
+        "cuScyotizAYcakre",
+        "cuScyotizAmAse",
+        "cuScyotizAmbaBUve",
+        "cuScyutizAYcakrAte",
+        "cuScyutizAmAsAte",
+        "cuScyutizAmbaBUvAte",
+        "cuScyotizAYcakrAte",
+        "cuScyotizAmAsAte",
+        "cuScyotizAmbaBUvAte",
+        "cuScyutizAYcakrire",
+        "cuScyutizAmAsire",
+        "cuScyutizAmbaBUvire",
+        "cuScyotizAYcakrire",
+        "cuScyotizAmAsire",
+        "cuScyotizAmbaBUvire",
+        "cuScyutizAYcakfze",
+        "cuScyutizAmAsize",
+        "cuScyutizAmbaBUvize",
+        "cuScyotizAYcakfze",
+        "cuScyotizAmAsize",
+        "cuScyotizAmbaBUvize",
+        "cuScyutizAYcakrATe",
+        "cuScyutizAmAsATe",
+        "cuScyutizAmbaBUvATe",
+        "cuScyotizAYcakrATe",
+        "cuScyotizAmAsATe",
+        "cuScyotizAmbaBUvATe",
+        "cuScyutizAYcakfQve",
+        "cuScyutizAmAsiDve",
+        "cuScyutizAmbaBUviQve",
+        "cuScyotizAYcakfQve",
+        "cuScyotizAmAsiDve",
+        "cuScyotizAmbaBUviQve",
+        "cuScyutizAYcakre",
+        "cuScyutizAmAhe",
+        "cuScyutizAmbaBUve",
+        "cuScyotizAYcakre",
+        "cuScyotizAmAhe",
+        "cuScyotizAmbaBUve",
+        "cuScyutizAYcakfvahe",
+        "cuScyutizAmAsivahe",
+        "cuScyutizAmbaBUvivahe",
+        "cuScyotizAYcakfvahe",
+        "cuScyotizAmAsivahe",
+        "cuScyotizAmbaBUvivahe",
+        "cuScyutizAYcakfmahe",
+        "cuScyutizAmAsimahe",
+        "cuScyutizAmbaBUvimahe",
+        "cuScyotizAYcakfmahe",
+        "cuScyotizAmAsimahe",
+        "cuScyotizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cuScyutizyatAm",
+        "cuScyotizyatAm",
+        "cuScyutizyetAm",
+        "cuScyotizyetAm",
+        "cuScyutizyantAm",
+        "cuScyotizyantAm",
+        "cuScyutizyasva",
+        "cuScyotizyasva",
+        "cuScyutizyeTAm",
+        "cuScyotizyeTAm",
+        "cuScyutizyaDvam",
+        "cuScyotizyaDvam",
+        "cuScyutizyE",
+        "cuScyotizyE",
+        "cuScyutizyAvahE",
+        "cuScyotizyAvahE",
+        "cuScyutizyAmahE",
+        "cuScyotizyAmahE"
+      ],
+      "alrung": [
+        "acuScyutizizyata",
+        "acuScyotizizyata",
+        "acuScyutizizyetAm",
+        "acuScyotizizyetAm",
+        "acuScyutizizyanta",
+        "acuScyotizizyanta",
+        "acuScyutizizyaTAH",
+        "acuScyotizizyaTAH",
+        "acuScyutizizyeTAm",
+        "acuScyotizizyeTAm",
+        "acuScyutizizyaDvam",
+        "acuScyotizizyaDvam",
+        "acuScyutizizye",
+        "acuScyotizizye",
+        "acuScyutizizyAvahi",
+        "acuScyotizizyAvahi",
+        "acuScyutizizyAmahi",
+        "acuScyotizizyAmahi"
+      ],
+      "alrut": [
+        "cuScyutizizyate",
+        "cuScyotizizyate",
+        "cuScyutizizyete",
+        "cuScyotizizyete",
+        "cuScyutizizyante",
+        "cuScyotizizyante",
+        "cuScyutizizyase",
+        "cuScyotizizyase",
+        "cuScyutizizyeTe",
+        "cuScyotizizyeTe",
+        "cuScyutizizyaDve",
+        "cuScyotizizyaDve",
+        "cuScyutizizye",
+        "cuScyotizizye",
+        "cuScyutizizyAvahe",
+        "cuScyotizizyAvahe",
+        "cuScyutizizyAmahe",
+        "cuScyotizizyAmahe"
+      ],
+      "alung": [
+        "acuScyutizi",
+        "acuScyotizi",
+        "acuScyutizizAtAm",
+        "acuScyotizizAtAm",
+        "acuScyutizizata",
+        "acuScyotizizata",
+        "acuScyutizizWAH",
+        "acuScyotizizWAH",
+        "acuScyutizizATAm",
+        "acuScyotizizATAm",
+        "acuScyutiziDvam",
+        "acuScyotiziDvam",
+        "acuScyutizizi",
+        "acuScyotizizi",
+        "acuScyutizizvahi",
+        "acuScyotizizvahi",
+        "acuScyutizizmahi",
+        "acuScyotizizmahi"
+      ],
+      "alut": [
+        "cuScyutizitA",
+        "cuScyotizitA",
+        "cuScyutizitArO",
+        "cuScyotizitArO",
+        "cuScyutizitAraH",
+        "cuScyotizitAraH",
+        "cuScyutizitAse",
+        "cuScyotizitAse",
+        "cuScyutizitAsATe",
+        "cuScyotizitAsATe",
+        "cuScyutizitADve",
+        "cuScyotizitADve",
+        "cuScyutizitAhe",
+        "cuScyotizitAhe",
+        "cuScyutizitAsvahe",
+        "cuScyotizitAsvahe",
+        "cuScyutizitAsmahe",
+        "cuScyotizitAsmahe"
+      ],
+      "avidhiling": [
+        "cuScyutizyeta",
+        "cuScyotizyeta",
+        "cuScyutizyeyAtAm",
+        "cuScyotizyeyAtAm",
+        "cuScyutizyeran",
+        "cuScyotizyeran",
+        "cuScyutizyeTAH",
+        "cuScyotizyeTAH",
+        "cuScyutizyeyATAm",
+        "cuScyotizyeyATAm",
+        "cuScyutizyeDvam",
+        "cuScyotizyeDvam",
+        "cuScyutizyeya",
+        "cuScyotizyeya",
+        "cuScyutizyevahi",
+        "cuScyotizyevahi",
+        "cuScyutizyemahi",
+        "cuScyotizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "ScyotayizIzwa",
+        "ScyotayizIyAstAm",
+        "ScyotayizIran",
+        "ScyotayizIzWAH",
+        "ScyotayizIyAsTAm",
+        "ScyotayizIQvam",
+        "ScyotayizIDvam",
+        "ScyotayizIya",
+        "ScyotayizIvahi",
+        "ScyotayizImahi"
+      ],
+      "alang": [
+        "aScyotayata",
+        "aScyotayetAm",
+        "aScyotayanta",
+        "aScyotayaTAH",
+        "aScyotayeTAm",
+        "aScyotayaDvam",
+        "aScyotaye",
+        "aScyotayAvahi",
+        "aScyotayAmahi"
+      ],
+      "alat": [
+        "Scyotayate",
+        "Scyotayete",
+        "Scyotayante",
+        "Scyotayase",
+        "ScyotayeTe",
+        "ScyotayaDve",
+        "Scyotaye",
+        "ScyotayAvahe",
+        "ScyotayAmahe"
+      ],
+      "alit": [
+        "ScyotayAYcakre",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakrAte",
+        "ScyotayAmAsatuH",
+        "ScyotayAmbaBUvatuH",
+        "ScyotayAYcakrire",
+        "ScyotayAmAsuH",
+        "ScyotayAmbaBUvuH",
+        "ScyotayAYcakfze",
+        "ScyotayAmAsiTa",
+        "ScyotayAmbaBUviTa",
+        "ScyotayAYcakrATe",
+        "ScyotayAmAsaTuH",
+        "ScyotayAmbaBUvaTuH",
+        "ScyotayAYcakfQve",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakre",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakfvahe",
+        "ScyotayAmAsiva",
+        "ScyotayAmbaBUviva",
+        "ScyotayAYcakfmahe",
+        "ScyotayAmAsima",
+        "ScyotayAmbaBUvima"
+      ],
+      "alot": [
+        "ScyotayatAm",
+        "ScyotayetAm",
+        "ScyotayantAm",
+        "Scyotayasva",
+        "ScyotayeTAm",
+        "ScyotayaDvam",
+        "ScyotayE",
+        "ScyotayAvahE",
+        "ScyotayAmahE"
+      ],
+      "alrung": [
+        "aScyotayizyata",
+        "aScyotayizyetAm",
+        "aScyotayizyanta",
+        "aScyotayizyaTAH",
+        "aScyotayizyeTAm",
+        "aScyotayizyaDvam",
+        "aScyotayizye",
+        "aScyotayizyAvahi",
+        "aScyotayizyAmahi"
+      ],
+      "alrut": [
+        "Scyotayizyate",
+        "Scyotayizyete",
+        "Scyotayizyante",
+        "Scyotayizyase",
+        "ScyotayizyeTe",
+        "ScyotayizyaDve",
+        "Scyotayizye",
+        "ScyotayizyAvahe",
+        "ScyotayizyAmahe"
+      ],
+      "alung": [
+        "acuScyutata",
+        "acuScyutetAm",
+        "acuScyutanta",
+        "acuScyutaTAH",
+        "acuScyuteTAm",
+        "acuScyutaDvam",
+        "acuScyute",
+        "acuScyutAvahi",
+        "acuScyutAmahi"
+      ],
+      "alut": [
+        "ScyotayitA",
+        "ScyotayitArO",
+        "ScyotayitAraH",
+        "ScyotayitAse",
+        "ScyotayitAsATe",
+        "ScyotayitADve",
+        "ScyotayitAhe",
+        "ScyotayitAsvahe",
+        "ScyotayitAsmahe"
+      ],
+      "avidhiling": [
+        "Scyotayeta",
+        "ScyotayeyAtAm",
+        "Scyotayeran",
+        "ScyotayeTAH",
+        "ScyotayeyATAm",
+        "ScyotayeDvam",
+        "Scyotayeya",
+        "Scyotayevahi",
+        "Scyotayemahi"
+      ],
+      "pashirling": [
+        "ScyotyAt",
+        "ScyotyAd",
+        "ScyotyAstAm",
+        "ScyotyAsuH",
+        "ScyotyAH",
+        "ScyotyAstam",
+        "ScyotyAsta",
+        "ScyotyAsam",
+        "ScyotyAsva",
+        "ScyotyAsma"
+      ],
+      "plang": [
+        "aScyotayat",
+        "aScyotayad",
+        "aScyotayatAm",
+        "aScyotayan",
+        "aScyotayaH",
+        "aScyotayatam",
+        "aScyotayata",
+        "aScyotayam",
+        "aScyotayAva",
+        "aScyotayAma"
+      ],
+      "plat": [
+        "Scyotayati",
+        "ScyotayataH",
+        "Scyotayanti",
+        "Scyotayasi",
+        "ScyotayaTaH",
+        "ScyotayaTa",
+        "ScyotayAmi",
+        "ScyotayAvaH",
+        "ScyotayAmaH"
+      ],
+      "plit": [
+        "ScyotayAYcakAra",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakratuH",
+        "ScyotayAmAsatuH",
+        "ScyotayAmbaBUvatuH",
+        "ScyotayAYcakruH",
+        "ScyotayAmAsuH",
+        "ScyotayAmbaBUvuH",
+        "ScyotayAYcakarTa",
+        "ScyotayAmAsiTa",
+        "ScyotayAmbaBUviTa",
+        "ScyotayAYcakraTuH",
+        "ScyotayAmAsaTuH",
+        "ScyotayAmbaBUvaTuH",
+        "ScyotayAYcakra",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakara",
+        "ScyotayAYcakAra",
+        "ScyotayAmAsa",
+        "ScyotayAmbaBUva",
+        "ScyotayAYcakfva",
+        "ScyotayAmAsiva",
+        "ScyotayAmbaBUviva",
+        "ScyotayAYcakfma",
+        "ScyotayAmAsima",
+        "ScyotayAmbaBUvima"
+      ],
+      "plot": [
+        "ScyotayatAt",
+        "ScyotayatAd",
+        "Scyotayatu",
+        "ScyotayatAm",
+        "Scyotayantu",
+        "Scyotaya",
+        "ScyotayatAt",
+        "ScyotayatAd",
+        "Scyotayatam",
+        "Scyotayata",
+        "ScyotayAni",
+        "ScyotayAva",
+        "ScyotayAma"
+      ],
+      "plrung": [
+        "aScyotayizyat",
+        "aScyotayizyad",
+        "aScyotayizyatAm",
+        "aScyotayizyan",
+        "aScyotayizyaH",
+        "aScyotayizyatam",
+        "aScyotayizyata",
+        "aScyotayizyam",
+        "aScyotayizyAva",
+        "aScyotayizyAma"
+      ],
+      "plrut": [
+        "Scyotayizyati",
+        "ScyotayizyataH",
+        "Scyotayizyanti",
+        "Scyotayizyasi",
+        "ScyotayizyaTaH",
+        "ScyotayizyaTa",
+        "ScyotayizyAmi",
+        "ScyotayizyAvaH",
+        "ScyotayizyAmaH"
+      ],
+      "plung": [
+        "acuScyutat",
+        "acuScyutad",
+        "acuScyutatAm",
+        "acuScyutan",
+        "acuScyutaH",
+        "acuScyutatam",
+        "acuScyutata",
+        "acuScyutam",
+        "acuScyutAva",
+        "acuScyutAma"
+      ],
+      "plut": [
+        "ScyotayitA",
+        "ScyotayitArO",
+        "ScyotayitAraH",
+        "ScyotayitAsi",
+        "ScyotayitAsTaH",
+        "ScyotayitAsTa",
+        "ScyotayitAsmi",
+        "ScyotayitAsvaH",
+        "ScyotayitAsmaH"
+      ],
+      "pvidhiling": [
+        "Scyotayet",
+        "Scyotayed",
+        "ScyotayetAm",
+        "ScyotayeyuH",
+        "ScyotayeH",
+        "Scyotayetam",
+        "Scyotayeta",
+        "Scyotayeyam",
+        "Scyotayeva",
+        "Scyotayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "ScyotayizIzwa",
+        "ScyotizIzwa",
+        "ScyotayizIyAstAm",
+        "ScyotizIyAstAm",
+        "ScyotayizIran",
+        "ScyotizIran",
+        "ScyotayizIzWAH",
+        "ScyotizIzWAH",
+        "ScyotayizIyAsTAm",
+        "ScyotizIyAsTAm",
+        "ScyotayizIQvam",
+        "ScyotayizIDvam",
+        "ScyotizIDvam",
+        "ScyotayizIya",
+        "ScyotizIya",
+        "ScyotayizIvahi",
+        "ScyotizIvahi",
+        "ScyotayizImahi",
+        "ScyotizImahi"
+      ],
+      "alang": [
+        "aScyotyata",
+        "aScyotyetAm",
+        "aScyotyanta",
+        "aScyotyaTAH",
+        "aScyotyeTAm",
+        "aScyotyaDvam",
+        "aScyotye",
+        "aScyotyAvahi",
+        "aScyotyAmahi"
+      ],
+      "alat": [
+        "Scyotyate",
+        "Scyotyete",
+        "Scyotyante",
+        "Scyotyase",
+        "ScyotyeTe",
+        "ScyotyaDve",
+        "Scyotye",
+        "ScyotyAvahe",
+        "ScyotyAmahe"
+      ],
+      "alit": [
+        "ScyotayAYcakre",
+        "ScyotayAmAse",
+        "ScyotayAmbaBUve",
+        "ScyotayAYcakrAte",
+        "ScyotayAmAsAte",
+        "ScyotayAmbaBUvAte",
+        "ScyotayAYcakrire",
+        "ScyotayAmAsire",
+        "ScyotayAmbaBUvire",
+        "ScyotayAYcakfze",
+        "ScyotayAmAsize",
+        "ScyotayAmbaBUvize",
+        "ScyotayAYcakrATe",
+        "ScyotayAmAsATe",
+        "ScyotayAmbaBUvATe",
+        "ScyotayAYcakfQve",
+        "ScyotayAmAsiDve",
+        "ScyotayAmbaBUviQve",
+        "ScyotayAYcakre",
+        "ScyotayAmAhe",
+        "ScyotayAmbaBUve",
+        "ScyotayAYcakfvahe",
+        "ScyotayAmAsivahe",
+        "ScyotayAmbaBUvivahe",
+        "ScyotayAYcakfmahe",
+        "ScyotayAmAsimahe",
+        "ScyotayAmbaBUvimahe"
+      ],
+      "alot": [
+        "ScyotyatAm",
+        "ScyotyetAm",
+        "ScyotyantAm",
+        "Scyotyasva",
+        "ScyotyeTAm",
+        "ScyotyaDvam",
+        "ScyotyE",
+        "ScyotyAvahE",
+        "ScyotyAmahE"
+      ],
+      "alrung": [
+        "aScyotayizyata",
+        "aScyotizyata",
+        "aScyotayizyetAm",
+        "aScyotizyetAm",
+        "aScyotayizyanta",
+        "aScyotizyanta",
+        "aScyotayizyaTAH",
+        "aScyotizyaTAH",
+        "aScyotayizyeTAm",
+        "aScyotizyeTAm",
+        "aScyotayizyaDvam",
+        "aScyotizyaDvam",
+        "aScyotayizye",
+        "aScyotizye",
+        "aScyotayizyAvahi",
+        "aScyotizyAvahi",
+        "aScyotayizyAmahi",
+        "aScyotizyAmahi"
+      ],
+      "alrut": [
+        "Scyotayizyate",
+        "Scyotizyate",
+        "Scyotayizyete",
+        "Scyotizyete",
+        "Scyotayizyante",
+        "Scyotizyante",
+        "Scyotayizyase",
+        "Scyotizyase",
+        "ScyotayizyeTe",
+        "ScyotizyeTe",
+        "ScyotayizyaDve",
+        "ScyotizyaDve",
+        "Scyotayizye",
+        "Scyotizye",
+        "ScyotayizyAvahe",
+        "ScyotizyAvahe",
+        "ScyotayizyAmahe",
+        "ScyotizyAmahe"
+      ],
+      "alung": [
+        "aScyoti",
+        "aScyotayizAtAm",
+        "aScyotizAtAm",
+        "aScyotayizata",
+        "aScyotizata",
+        "aScyotayizWAH",
+        "aScyotizWAH",
+        "aScyotayizATAm",
+        "aScyotizATAm",
+        "aScyotayiQvam",
+        "aScyotayiDvam",
+        "aScyotiDvam",
+        "aScyotayizi",
+        "aScyotizi",
+        "aScyotayizvahi",
+        "aScyotizvahi",
+        "aScyotayizmahi",
+        "aScyotizmahi"
+      ],
+      "alut": [
+        "ScyotayitA",
+        "ScyotitA",
+        "ScyotayitArO",
+        "ScyotitArO",
+        "ScyotayitAraH",
+        "ScyotitAraH",
+        "ScyotayitAse",
+        "ScyotitAse",
+        "ScyotayitAsATe",
+        "ScyotitAsATe",
+        "ScyotayitADve",
+        "ScyotitADve",
+        "ScyotayitAhe",
+        "ScyotitAhe",
+        "ScyotayitAsvahe",
+        "ScyotitAsvahe",
+        "ScyotayitAsmahe",
+        "ScyotitAsmahe"
+      ],
+      "avidhiling": [
+        "Scyotyeta",
+        "ScyotyeyAtAm",
+        "Scyotyeran",
+        "ScyotyeTAH",
+        "ScyotyeyATAm",
+        "ScyotyeDvam",
+        "Scyotyeya",
+        "Scyotyevahi",
+        "Scyotyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "coScyutizIzwa",
+        "coScyutizIyAstAm",
+        "coScyutizIran",
+        "coScyutizIzWAH",
+        "coScyutizIyAsTAm",
+        "coScyutizIDvam",
+        "coScyutizIya",
+        "coScyutizIvahi",
+        "coScyutizImahi"
+      ],
+      "alang": [
+        "acoScyutyata",
+        "acoScyutyetAm",
+        "acoScyutyanta",
+        "acoScyutyaTAH",
+        "acoScyutyeTAm",
+        "acoScyutyaDvam",
+        "acoScyutye",
+        "acoScyutyAvahi",
+        "acoScyutyAmahi"
+      ],
+      "alat": [
+        "coScyutyate",
+        "coScyutyete",
+        "coScyutyante",
+        "coScyutyase",
+        "coScyutyeTe",
+        "coScyutyaDve",
+        "coScyutye",
+        "coScyutyAvahe",
+        "coScyutyAmahe"
+      ],
+      "alit": [
+        "coScyutAYcakre",
+        "coScyutAmAsa",
+        "coScyutAmbaBUva",
+        "coScyutAYcakrAte",
+        "coScyutAmAsatuH",
+        "coScyutAmbaBUvatuH",
+        "coScyutAYcakrire",
+        "coScyutAmAsuH",
+        "coScyutAmbaBUvuH",
+        "coScyutAYcakfze",
+        "coScyutAmAsiTa",
+        "coScyutAmbaBUviTa",
+        "coScyutAYcakrATe",
+        "coScyutAmAsaTuH",
+        "coScyutAmbaBUvaTuH",
+        "coScyutAYcakfQve",
+        "coScyutAmAsa",
+        "coScyutAmbaBUva",
+        "coScyutAYcakre",
+        "coScyutAmAsa",
+        "coScyutAmbaBUva",
+        "coScyutAYcakfvahe",
+        "coScyutAmAsiva",
+        "coScyutAmbaBUviva",
+        "coScyutAYcakfmahe",
+        "coScyutAmAsima",
+        "coScyutAmbaBUvima"
+      ],
+      "alot": [
+        "coScyutyatAm",
+        "coScyutyetAm",
+        "coScyutyantAm",
+        "coScyutyasva",
+        "coScyutyeTAm",
+        "coScyutyaDvam",
+        "coScyutyE",
+        "coScyutyAvahE",
+        "coScyutyAmahE"
+      ],
+      "alrung": [
+        "acoScyutizyata",
+        "acoScyutizyetAm",
+        "acoScyutizyanta",
+        "acoScyutizyaTAH",
+        "acoScyutizyeTAm",
+        "acoScyutizyaDvam",
+        "acoScyutizye",
+        "acoScyutizyAvahi",
+        "acoScyutizyAmahi"
+      ],
+      "alrut": [
+        "coScyutizyate",
+        "coScyutizyete",
+        "coScyutizyante",
+        "coScyutizyase",
+        "coScyutizyeTe",
+        "coScyutizyaDve",
+        "coScyutizye",
+        "coScyutizyAvahe",
+        "coScyutizyAmahe"
+      ],
+      "alung": [
+        "acoScyutizwa",
+        "acoScyutizAtAm",
+        "acoScyutizata",
+        "acoScyutizWAH",
+        "acoScyutizATAm",
+        "acoScyutiDvam",
+        "acoScyutizi",
+        "acoScyutizvahi",
+        "acoScyutizmahi"
+      ],
+      "alut": [
+        "coScyutitA",
+        "coScyutitArO",
+        "coScyutitAraH",
+        "coScyutitAse",
+        "coScyutitAsATe",
+        "coScyutitADve",
+        "coScyutitAhe",
+        "coScyutitAsvahe",
+        "coScyutitAsmahe"
+      ],
+      "avidhiling": [
+        "coScyutyeta",
+        "coScyutyeyAtAm",
+        "coScyutyeran",
+        "coScyutyeTAH",
+        "coScyutyeyATAm",
+        "coScyutyeDvam",
+        "coScyutyeya",
+        "coScyutyevahi",
+        "coScyutyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "coScyutizIzwa",
+        "coScyutizIyAstAm",
+        "coScyutizIran",
+        "coScyutizIzWAH",
+        "coScyutizIyAsTAm",
+        "coScyutizIDvam",
+        "coScyutizIya",
+        "coScyutizIvahi",
+        "coScyutizImahi"
+      ],
+      "alang": [
+        "acoScyutyata",
+        "acoScyutyetAm",
+        "acoScyutyanta",
+        "acoScyutyaTAH",
+        "acoScyutyeTAm",
+        "acoScyutyaDvam",
+        "acoScyutye",
+        "acoScyutyAvahi",
+        "acoScyutyAmahi"
+      ],
+      "alat": [
+        "coScyutyate",
+        "coScyutyete",
+        "coScyutyante",
+        "coScyutyase",
+        "coScyutyeTe",
+        "coScyutyaDve",
+        "coScyutye",
+        "coScyutyAvahe",
+        "coScyutyAmahe"
+      ],
+      "alit": [
+        "coScyutAYcakre",
+        "coScyutAmAse",
+        "coScyutAmbaBUve",
+        "coScyutAYcakrAte",
+        "coScyutAmAsAte",
+        "coScyutAmbaBUvAte",
+        "coScyutAYcakrire",
+        "coScyutAmAsire",
+        "coScyutAmbaBUvire",
+        "coScyutAYcakfze",
+        "coScyutAmAsize",
+        "coScyutAmbaBUvize",
+        "coScyutAYcakrATe",
+        "coScyutAmAsATe",
+        "coScyutAmbaBUvATe",
+        "coScyutAYcakfQve",
+        "coScyutAmAsiDve",
+        "coScyutAmbaBUviQve",
+        "coScyutAYcakre",
+        "coScyutAmAhe",
+        "coScyutAmbaBUve",
+        "coScyutAYcakfvahe",
+        "coScyutAmAsivahe",
+        "coScyutAmbaBUvivahe",
+        "coScyutAYcakfmahe",
+        "coScyutAmAsimahe",
+        "coScyutAmbaBUvimahe"
+      ],
+      "alot": [
+        "coScyutyatAm",
+        "coScyutyetAm",
+        "coScyutyantAm",
+        "coScyutyasva",
+        "coScyutyeTAm",
+        "coScyutyaDvam",
+        "coScyutyE",
+        "coScyutyAvahE",
+        "coScyutyAmahE"
+      ],
+      "alrung": [
+        "acoScyutizyata",
+        "acoScyutizyetAm",
+        "acoScyutizyanta",
+        "acoScyutizyaTAH",
+        "acoScyutizyeTAm",
+        "acoScyutizyaDvam",
+        "acoScyutizye",
+        "acoScyutizyAvahi",
+        "acoScyutizyAmahi"
+      ],
+      "alrut": [
+        "coScyutizyate",
+        "coScyutizyete",
+        "coScyutizyante",
+        "coScyutizyase",
+        "coScyutizyeTe",
+        "coScyutizyaDve",
+        "coScyutizye",
+        "coScyutizyAvahe",
+        "coScyutizyAmahe"
+      ],
+      "alung": [
+        "acoScyuti",
+        "acoScyutizAtAm",
+        "acoScyutizata",
+        "acoScyutizWAH",
+        "acoScyutizATAm",
+        "acoScyutiDvam",
+        "acoScyutizi",
+        "acoScyutizvahi",
+        "acoScyutizmahi"
+      ],
+      "alut": [
+        "coScyutitA",
+        "coScyutitArO",
+        "coScyutitAraH",
+        "coScyutitAse",
+        "coScyutitAsATe",
+        "coScyutitADve",
+        "coScyutitAhe",
+        "coScyutitAsvahe",
+        "coScyutitAsmahe"
+      ],
+      "avidhiling": [
+        "coScyutyeta",
+        "coScyutyeyAtAm",
+        "coScyutyeran",
+        "coScyutyeTAH",
+        "coScyutyeyATAm",
+        "coScyutyeDvam",
+        "coScyutyeya",
+        "coScyutyevahi",
+        "coScyutyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "coScyutyAt",
+        "coScyutyAd",
+        "coScyutyAstAm",
+        "coScyutyAsuH",
+        "coScyutyAH",
+        "coScyutyAstam",
+        "coScyutyAsta",
+        "coScyutyAsam",
+        "coScyutyAsva",
+        "coScyutyAsma"
+      ],
+      "plang": [
+        "acoScyutIt",
+        "acoScyutId",
+        "acoScyot",
+        "acoScyod",
+        "acoScyuttAm",
+        "acoScyutuH",
+        "acoScyutIH",
+        "acoScyoH",
+        "acoScyot",
+        "acoScyod",
+        "acoScyuttam",
+        "acoScyutta",
+        "acoScyutam",
+        "acoScyutva",
+        "acoScyutma"
+      ],
+      "plat": [
+        "coScyutIti",
+        "coScyotti",
+        "coScyuttaH",
+        "coScyutati",
+        "coScyutIzi",
+        "coScyotsi",
+        "coScyutTaH",
+        "coScyutTa",
+        "coScyutImi",
+        "coScyotmi",
+        "coScyutvaH",
+        "coScyutmaH"
+      ],
+      "plit": [
+        "coScyotAYcakAra",
+        "coScyotAmAsa",
+        "coScyotAmbaBUva",
+        "coScyotAYcakratuH",
+        "coScyotAmAsatuH",
+        "coScyotAmbaBUvatuH",
+        "coScyotAYcakruH",
+        "coScyotAmAsuH",
+        "coScyotAmbaBUvuH",
+        "coScyotAYcakarTa",
+        "coScyotAmAsiTa",
+        "coScyotAmbaBUviTa",
+        "coScyotAYcakraTuH",
+        "coScyotAmAsaTuH",
+        "coScyotAmbaBUvaTuH",
+        "coScyotAYcakra",
+        "coScyotAmAsa",
+        "coScyotAmbaBUva",
+        "coScyotAYcakara",
+        "coScyotAYcakAra",
+        "coScyotAmAsa",
+        "coScyotAmbaBUva",
+        "coScyotAYcakfva",
+        "coScyotAmAsiva",
+        "coScyotAmbaBUviva",
+        "coScyotAYcakfma",
+        "coScyotAmAsima",
+        "coScyotAmbaBUvima"
+      ],
+      "plot": [
+        "coScyutItu",
+        "coScyuttAt",
+        "coScyuttAd",
+        "coScyottu",
+        "coScyuttAm",
+        "coScyutatu",
+        "coScyuttAt",
+        "coScyuttAd",
+        "coScyudDi",
+        "coScyuttam",
+        "coScyutta",
+        "coScyutAni",
+        "coScyutAva",
+        "coScyutAma"
+      ],
+      "plrung": [
+        "acoScyotizyat",
+        "acoScyotizyad",
+        "acoScyotizyatAm",
+        "acoScyotizyan",
+        "acoScyotizyaH",
+        "acoScyotizyatam",
+        "acoScyotizyata",
+        "acoScyotizyam",
+        "acoScyotizyAva",
+        "acoScyotizyAma"
+      ],
+      "plrut": [
+        "coScyotizyati",
+        "coScyotizyataH",
+        "coScyotizyanti",
+        "coScyotizyasi",
+        "coScyotizyaTaH",
+        "coScyotizyaTa",
+        "coScyotizyAmi",
+        "coScyotizyAvaH",
+        "coScyotizyAmaH"
+      ],
+      "plung": [
+        "acoScyotIt",
+        "acoScyotId",
+        "acoScyotizwAm",
+        "acoScyotizuH",
+        "acoScyotIH",
+        "acoScyotizwam",
+        "acoScyotizwa",
+        "acoScyotizam",
+        "acoScyotizva",
+        "acoScyotizma"
+      ],
+      "plut": [
+        "coScyotitA",
+        "coScyotitArO",
+        "coScyotitAraH",
+        "coScyotitAsi",
+        "coScyotitAsTaH",
+        "coScyotitAsTa",
+        "coScyotitAsmi",
+        "coScyotitAsvaH",
+        "coScyotitAsmaH"
+      ],
+      "pvidhiling": [
+        "coScyutyAt",
+        "coScyutyAd",
+        "coScyutyAtAm",
+        "coScyutyuH",
+        "coScyutyAH",
+        "coScyutyAtam",
+        "coScyutyAta",
+        "coScyutyAm",
+        "coScyutyAva",
+        "coScyutyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "coScyotizIzwa",
+        "coScyotizIyAstAm",
+        "coScyotizIran",
+        "coScyotizIzWAH",
+        "coScyotizIyAsTAm",
+        "coScyotizIDvam",
+        "coScyotizIya",
+        "coScyotizIvahi",
+        "coScyotizImahi"
+      ],
+      "alang": [
+        "acoScyutyata",
+        "acoScyutyetAm",
+        "acoScyutyanta",
+        "acoScyutyaTAH",
+        "acoScyutyeTAm",
+        "acoScyutyaDvam",
+        "acoScyutye",
+        "acoScyutyAvahi",
+        "acoScyutyAmahi"
+      ],
+      "alat": [
+        "coScyutyate",
+        "coScyutyete",
+        "coScyutyante",
+        "coScyutyase",
+        "coScyutyeTe",
+        "coScyutyaDve",
+        "coScyutye",
+        "coScyutyAvahe",
+        "coScyutyAmahe"
+      ],
+      "alit": [
+        "coScyotAYcakre",
+        "coScyotAmAse",
+        "coScyotAmbaBUve",
+        "coScyotAYcakrAte",
+        "coScyotAmAsAte",
+        "coScyotAmbaBUvAte",
+        "coScyotAYcakrire",
+        "coScyotAmAsire",
+        "coScyotAmbaBUvire",
+        "coScyotAYcakfze",
+        "coScyotAmAsize",
+        "coScyotAmbaBUvize",
+        "coScyotAYcakrATe",
+        "coScyotAmAsATe",
+        "coScyotAmbaBUvATe",
+        "coScyotAYcakfQve",
+        "coScyotAmAsiDve",
+        "coScyotAmbaBUviQve",
+        "coScyotAYcakre",
+        "coScyotAmAhe",
+        "coScyotAmbaBUve",
+        "coScyotAYcakfvahe",
+        "coScyotAmAsivahe",
+        "coScyotAmbaBUvivahe",
+        "coScyotAYcakfmahe",
+        "coScyotAmAsimahe",
+        "coScyotAmbaBUvimahe"
+      ],
+      "alot": [
+        "coScyutyatAm",
+        "coScyutyetAm",
+        "coScyutyantAm",
+        "coScyutyasva",
+        "coScyutyeTAm",
+        "coScyutyaDvam",
+        "coScyutyE",
+        "coScyutyAvahE",
+        "coScyutyAmahE"
+      ],
+      "alrung": [
+        "acoScyotizyata",
+        "acoScyotizyetAm",
+        "acoScyotizyanta",
+        "acoScyotizyaTAH",
+        "acoScyotizyeTAm",
+        "acoScyotizyaDvam",
+        "acoScyotizye",
+        "acoScyotizyAvahi",
+        "acoScyotizyAmahi"
+      ],
+      "alrut": [
+        "coScyotizyate",
+        "coScyotizyete",
+        "coScyotizyante",
+        "coScyotizyase",
+        "coScyotizyeTe",
+        "coScyotizyaDve",
+        "coScyotizye",
+        "coScyotizyAvahe",
+        "coScyotizyAmahe"
+      ],
+      "alung": [
+        "acoScyoti",
+        "acoScyotizAtAm",
+        "acoScyotizata",
+        "acoScyotizWAH",
+        "acoScyotizATAm",
+        "acoScyotiDvam",
+        "acoScyotizi",
+        "acoScyotizvahi",
+        "acoScyotizmahi"
+      ],
+      "alut": [
+        "coScyotitA",
+        "coScyotitArO",
+        "coScyotitAraH",
+        "coScyotitAse",
+        "coScyotitAsATe",
+        "coScyotitADve",
+        "coScyotitAhe",
+        "coScyotitAsvahe",
+        "coScyotitAsmahe"
+      ],
+      "avidhiling": [
+        "coScyutyeta",
+        "coScyutyeyAtAm",
+        "coScyutyeran",
+        "coScyutyeTAH",
+        "coScyutyeyATAm",
+        "coScyutyeDvam",
+        "coScyutyeya",
+        "coScyutyevahi",
+        "coScyutyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "ScyotanIya",
+          "m": "ScyotanIyaH",
+          "f": "ScyotanIyA",
+          "n": "ScyotanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Scyutita",
+          "m": "ScyutitaH",
+          "f": "ScyutitA",
+          "n": "Scyutitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Scyutitavat",
+          "m": "ScyutitavAn",
+          "f": "ScyutitavatI",
+          "n": "Scyutitavat/Scyutitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Scyutti",
+          "m": "",
+          "f": "ScyuttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ScyutitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ScyotitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cuScyutvas",
+          "m": "cuScyutvAn",
+          "f": "cuScyutuzI",
+          "n": "cuScyutvat/cuScyutvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "Scyota",
+          "m": "ScyotaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ScyotamAna",
+          "m": "ScyotamAnaH",
+          "f": "ScyotamAnA",
+          "n": "ScyotamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Scyotam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "Scyotya",
+          "m": "ScyotyaH",
+          "f": "ScyotyA",
+          "n": "Scyotyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Scyotaka",
+          "m": "ScyotakaH",
+          "f": "ScyotikA",
+          "n": "Scyotakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Scyotitavya",
+          "m": "ScyotitavyaH",
+          "f": "ScyotitavyA",
+          "n": "Scyotitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Scyotitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Scyotitf",
+          "m": "ScyotitA",
+          "f": "ScyotitrI",
+          "n": "Scyotitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ScyutyamAna",
+          "m": "ScyutyamAnaH",
+          "f": "ScyutyamAnA",
+          "n": "ScyutyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praScyutya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Scyotana",
+          "m": "",
+          "f": "",
+          "n": "Scyotanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Scyotaka",
+          "m": "ScyotakaH",
+          "f": "ScyotikA",
+          "n": "Scyotakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Scyotat",
+          "m": "Scyotan",
+          "f": "ScyotantI",
+          "n": "Scyotat/Scyotad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ScyotizyamARa",
+          "m": "ScyotizyamARaH",
+          "f": "ScyotizyamARA",
+          "n": "ScyotizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Scyotizyat",
+          "m": "Scyotizyan",
+          "f": "ScyotizyatI/ScyotizyantI",
+          "n": "Scyotizyat/Scyotizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cuScyutizA",
+          "m": "",
+          "f": "cuScyutizA",
+          "n": ""
+        },
+        {
+          "base": "cuScyotizA",
+          "m": "",
+          "f": "cuScyotizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cuScyutiza",
+          "m": "cuScyutizaH",
+          "f": "cuScyutizA",
+          "n": "cuScyutizam"
+        },
+        {
+          "base": "cuScyotiza",
+          "m": "cuScyotizaH",
+          "f": "cuScyotizA",
+          "n": "cuScyotizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cuScyutizaRIya",
+          "m": "cuScyutizaRIyaH",
+          "f": "cuScyutizaRIyA",
+          "n": "cuScyutizaRIyam"
+        },
+        {
+          "base": "cuScyotizaRIya",
+          "m": "cuScyotizaRIyaH",
+          "f": "cuScyotizaRIyA",
+          "n": "cuScyotizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cuScyutizu",
+          "m": "cuScyutizuH",
+          "f": "cuScyutizuH",
+          "n": "cuScyutizu"
+        },
+        {
+          "base": "cuScyotizu",
+          "m": "cuScyotizuH",
+          "f": "cuScyotizuH",
+          "n": "cuScyotizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cuScyutizita",
+          "m": "cuScyutizitaH",
+          "f": "cuScyutizitA",
+          "n": "cuScyutizitam"
+        },
+        {
+          "base": "cuScyotizita",
+          "m": "cuScyotizitaH",
+          "f": "cuScyotizitA",
+          "n": "cuScyotizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cuScyutizitavat",
+          "m": "cuScyutizitavAn",
+          "f": "cuScyutizitavatI",
+          "n": "cuScyutizitavat/cuScyutizitavad"
+        },
+        {
+          "base": "cuScyotizitavat",
+          "m": "cuScyotizitavAn",
+          "f": "cuScyotizitavatI",
+          "n": "cuScyotizitavat/cuScyotizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cuScyutizwi",
+          "m": "",
+          "f": "cuScyutizwiH",
+          "n": ""
+        },
+        {
+          "base": "cuScyotizwi",
+          "m": "",
+          "f": "cuScyotizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cuScyutizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cuScyotizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cuScyutizAmbaBUvas",
+          "m": "cuScyutizAmbaBUvAn",
+          "f": "cuScyutizAmbaBUzI",
+          "n": "cuScyutizAmbaBUvat/cuScyutizAmbaBUvad"
+        },
+        {
+          "base": "cuScyutizAmAsivas",
+          "m": "cuScyutizAmAsivAn",
+          "f": "cuScyutizAmAsyuzI",
+          "n": "cuScyutizAmAsivat/cuScyutizAmAsivad"
+        },
+        {
+          "base": "cuScyutizAYcakfvas",
+          "m": "cuScyutizAYcakfvAn",
+          "f": "cuScyutizAYcakruzI",
+          "n": "cuScyutizAYcakfvat/cuScyutizAYcakfvad"
+        },
+        {
+          "base": "cuScyotizAmbaBUvas",
+          "m": "cuScyotizAmbaBUvAn",
+          "f": "cuScyotizAmbaBUzI",
+          "n": "cuScyotizAmbaBUvat/cuScyotizAmbaBUvad"
+        },
+        {
+          "base": "cuScyotizAmAsivas",
+          "m": "cuScyotizAmAsivAn",
+          "f": "cuScyotizAmAsyuzI",
+          "n": "cuScyotizAmAsivat/cuScyotizAmAsivad"
+        },
+        {
+          "base": "cuScyotizAYcakfvas",
+          "m": "cuScyotizAYcakfvAn",
+          "f": "cuScyotizAYcakruzI",
+          "n": "cuScyotizAYcakfvat/cuScyotizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cuScyutiza",
+          "m": "cuScyutizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cuScyotiza",
+          "m": "cuScyotizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cuScyutizamARa",
+          "m": "cuScyutizamARaH",
+          "f": "cuScyutizamARA",
+          "n": "cuScyutizamARam"
+        },
+        {
+          "base": "cuScyotizamARa",
+          "m": "cuScyotizamARaH",
+          "f": "cuScyotizamARA",
+          "n": "cuScyotizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cuScyutizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cuScyotizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cuScyutizaka",
+          "m": "cuScyutizakaH",
+          "f": "cuScyutizikA",
+          "n": "cuScyutizakam"
+        },
+        {
+          "base": "cuScyotizaka",
+          "m": "cuScyotizakaH",
+          "f": "cuScyotizikA",
+          "n": "cuScyotizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cuScyutizitavya",
+          "m": "cuScyutizitavyaH",
+          "f": "cuScyutizitavyA",
+          "n": "cuScyutizitavyam"
+        },
+        {
+          "base": "cuScyotizitavya",
+          "m": "cuScyotizitavyaH",
+          "f": "cuScyotizitavyA",
+          "n": "cuScyotizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cuScyutizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cuScyotizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cuScyutizitf",
+          "m": "cuScyutizitA",
+          "f": "cuScyutizitrI",
+          "n": "cuScyutizitf"
+        },
+        {
+          "base": "cuScyotizitf",
+          "m": "cuScyotizitA",
+          "f": "cuScyotizitrI",
+          "n": "cuScyotizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cuScyutizyamARa",
+          "m": "cuScyutizyamARaH",
+          "f": "cuScyutizyamARA",
+          "n": "cuScyutizyamARam"
+        },
+        {
+          "base": "cuScyotizyamARa",
+          "m": "cuScyotizyamARaH",
+          "f": "cuScyotizyamARA",
+          "n": "cuScyotizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cuScyutizya",
+          "m": "cuScyutizyaH",
+          "f": "cuScyutizyA",
+          "n": "cuScyutizyam"
+        },
+        {
+          "base": "cuScyotizya",
+          "m": "cuScyotizyaH",
+          "f": "cuScyotizyA",
+          "n": "cuScyotizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracuScyutizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracuScyotizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cuScyutizaRa",
+          "m": "",
+          "f": "",
+          "n": "cuScyutizaRam"
+        },
+        {
+          "base": "cuScyotizaRa",
+          "m": "",
+          "f": "",
+          "n": "cuScyotizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cuScyutizaka",
+          "m": "cuScyutizakaH",
+          "f": "cuScyutizikA",
+          "n": "cuScyutizakam"
+        },
+        {
+          "base": "cuScyotizaka",
+          "m": "cuScyotizakaH",
+          "f": "cuScyotizikA",
+          "n": "cuScyotizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cuScyutizat",
+          "m": "cuScyutizan",
+          "f": "cuScyutizantI",
+          "n": "cuScyutizat/cuScyutizad"
+        },
+        {
+          "base": "cuScyotizat",
+          "m": "cuScyotizan",
+          "f": "cuScyotizantI",
+          "n": "cuScyotizat/cuScyotizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cuScyutizizyamARa",
+          "m": "cuScyutizizyamARaH",
+          "f": "cuScyutizizyamARA",
+          "n": "cuScyutizizyamARam"
+        },
+        {
+          "base": "cuScyotizizyamARa",
+          "m": "cuScyotizizyamARaH",
+          "f": "cuScyotizizyamARA",
+          "n": "cuScyotizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cuScyutizizyat",
+          "m": "cuScyutizizyan",
+          "f": "cuScyutizizyatI/cuScyutizizyantI",
+          "n": "cuScyutizizyat/cuScyutizizyad"
+        },
+        {
+          "base": "cuScyotizizyat",
+          "m": "cuScyotizizyan",
+          "f": "cuScyotizizyatI/cuScyotizizyantI",
+          "n": "cuScyotizizyat/cuScyotizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "Scyota",
+          "m": "ScyotaH",
+          "f": "ScyotA",
+          "n": "Scyotam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ScyotanIya",
+          "m": "ScyotanIyaH",
+          "f": "ScyotanIyA",
+          "n": "ScyotanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Scyotita",
+          "m": "ScyotitaH",
+          "f": "ScyotitA",
+          "n": "Scyotitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Scyotitavat",
+          "m": "ScyotitavAn",
+          "f": "ScyotitavatI",
+          "n": "Scyotitavat/Scyotitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Scyotti",
+          "m": "",
+          "f": "ScyottiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ScyotayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ScyotayAmbaBUvas",
+          "m": "ScyotayAmbaBUvAn",
+          "f": "ScyotayAmbaBUzI",
+          "n": "ScyotayAmbaBUvat/ScyotayAmbaBUvad"
+        },
+        {
+          "base": "ScyotayAmAsivas",
+          "m": "ScyotayAmAsivAn",
+          "f": "ScyotayAmAsyuzI",
+          "n": "ScyotayAmAsivat/ScyotayAmAsivad"
+        },
+        {
+          "base": "ScyotayAYcakfvas",
+          "m": "ScyotayAYcakfvAn",
+          "f": "ScyotayAYcakruzI",
+          "n": "ScyotayAYcakfvat/ScyotayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ScyotayamAna",
+          "m": "ScyotayamAnaH",
+          "f": "ScyotayamAnA",
+          "n": "ScyotayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Scyotam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Scyotaka",
+          "m": "ScyotakaH",
+          "f": "ScyotikA",
+          "n": "Scyotakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Scyotayitavya",
+          "m": "ScyotayitavyaH",
+          "f": "ScyotayitavyA",
+          "n": "Scyotayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Scyotayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Scyotayitf",
+          "m": "ScyotayitA",
+          "f": "ScyotayitrI",
+          "n": "Scyotayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ScyotyamAna",
+          "m": "ScyotyamAnaH",
+          "f": "ScyotyamAnA",
+          "n": "ScyotyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Scyotya",
+          "m": "ScyotyaH",
+          "f": "ScyotyA",
+          "n": "Scyotyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praScyotya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Scyotana",
+          "m": "",
+          "f": "",
+          "n": "Scyotanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Scyotaka",
+          "m": "ScyotakaH",
+          "f": "ScyotikA",
+          "n": "Scyotakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Scyotayat",
+          "m": "Scyotayan",
+          "f": "ScyotayantI",
+          "n": "Scyotayat/Scyotayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ScyotayamAna",
+          "m": "ScyotayamAnaH",
+          "f": "ScyotayamAnA",
+          "n": "ScyotayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ScyotizyamARa",
+          "m": "ScyotizyamARaH",
+          "f": "ScyotizyamARA",
+          "n": "ScyotizyamARam"
+        },
+        {
+          "base": "ScyotayizyamARa",
+          "m": "ScyotayizyamARaH",
+          "f": "ScyotayizyamARA",
+          "n": "ScyotayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Scyotayizyat",
+          "m": "Scyotayizyan",
+          "f": "ScyotayizyatI/ScyotayizyantI",
+          "n": "Scyotayizyat/Scyotayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ScyotayizyamARa",
+          "m": "ScyotayizyamARaH",
+          "f": "ScyotayizyamARA",
+          "n": "ScyotayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "coScyutA",
+          "m": "",
+          "f": "coScyutA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "coScyuta",
+          "m": "coScyutaH",
+          "f": "coScyutA",
+          "n": "coScyutam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "coScyutanIya",
+          "m": "coScyutanIyaH",
+          "f": "coScyutanIyA",
+          "n": "coScyutanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "coScyutita",
+          "m": "coScyutitaH",
+          "f": "coScyutitA",
+          "n": "coScyutitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "coScyutitavat",
+          "m": "coScyutitavAn",
+          "f": "coScyutitavatI",
+          "n": "coScyutitavat/coScyutitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "coScyutti",
+          "m": "",
+          "f": "coScyuttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "coScyutitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "coScyutAmbaBUvas",
+          "m": "coScyutAmbaBUvAn",
+          "f": "coScyutAmbaBUzI",
+          "n": "coScyutAmbaBUvat/coScyutAmbaBUvad"
+        },
+        {
+          "base": "coScyutAmAsivas",
+          "m": "coScyutAmAsivAn",
+          "f": "coScyutAmAsyuzI",
+          "n": "coScyutAmAsivat/coScyutAmAsivad"
+        },
+        {
+          "base": "coScyutAYcakfvas",
+          "m": "coScyutAYcakfvAn",
+          "f": "coScyutAYcakruzI",
+          "n": "coScyutAYcakfvat/coScyutAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "coScyuta",
+          "m": "coScyutaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "coScyutyamAna",
+          "m": "coScyutyamAnaH",
+          "f": "coScyutyamAnA",
+          "n": "coScyutyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "coScyutam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "coScyutaka",
+          "m": "coScyutakaH",
+          "f": "coScyutikA",
+          "n": "coScyutakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "coScyutitavya",
+          "m": "coScyutitavyaH",
+          "f": "coScyutitavyA",
+          "n": "coScyutitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "coScyutitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "coScyutitf",
+          "m": "coScyutitA",
+          "f": "coScyutitrI",
+          "n": "coScyutitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "coScyutyamAna",
+          "m": "coScyutyamAnaH",
+          "f": "coScyutyamAnA",
+          "n": "coScyutyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "coScyutya",
+          "m": "coScyutyaH",
+          "f": "coScyutyA",
+          "n": "coScyutyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracoScyutya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "coScyutana",
+          "m": "",
+          "f": "",
+          "n": "coScyutanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "coScyutaka",
+          "m": "coScyutakaH",
+          "f": "coScyutikA",
+          "n": "coScyutakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "coScyutyamAna",
+          "m": "coScyutyamAnaH",
+          "f": "coScyutyamAnA",
+          "n": "coScyutyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "coScyutizyamARa",
+          "m": "coScyutizyamARaH",
+          "f": "coScyutizyamARA",
+          "n": "coScyutizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "coScyutizyamARa",
+          "m": "coScyutizyamARaH",
+          "f": "coScyutizyamARA",
+          "n": "coScyutizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "coScyotA",
+          "m": "",
+          "f": "coScyotA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "coScyota",
+          "m": "coScyotaH",
+          "f": "coScyotA",
+          "n": "coScyotam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "coScyotanIya",
+          "m": "coScyotanIyaH",
+          "f": "coScyotanIyA",
+          "n": "coScyotanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "coScyutita",
+          "m": "coScyutitaH",
+          "f": "coScyutitA",
+          "n": "coScyutitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "coScyutitavat",
+          "m": "coScyutitavAn",
+          "f": "coScyutitavatI",
+          "n": "coScyutitavat/coScyutitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "coScyutti",
+          "m": "",
+          "f": "coScyuttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "coScyotitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "coScyotAmbaBUvas",
+          "m": "coScyotAmbaBUvAn",
+          "f": "coScyotAmbaBUzI",
+          "n": "coScyotAmbaBUvat/coScyotAmbaBUvad"
+        },
+        {
+          "base": "coScyotAmAsivas",
+          "m": "coScyotAmAsivAn",
+          "f": "coScyotAmAsyuzI",
+          "n": "coScyotAmAsivat/coScyotAmAsivad"
+        },
+        {
+          "base": "coScyotAYcakfvas",
+          "m": "coScyotAYcakfvAn",
+          "f": "coScyotAYcakruzI",
+          "n": "coScyotAYcakfvat/coScyotAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "coScyota",
+          "m": "coScyotaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "coScyutAna",
+          "m": "coScyutAnaH",
+          "f": "coScyutAnA",
+          "n": "coScyutAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "coScyotam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "coScyotaka",
+          "m": "coScyotakaH",
+          "f": "coScyotikA",
+          "n": "coScyotakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "coScyotitavya",
+          "m": "coScyotitavyaH",
+          "f": "coScyotitavyA",
+          "n": "coScyotitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "coScyotitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "coScyotitf",
+          "m": "coScyotitA",
+          "f": "coScyotitrI",
+          "n": "coScyotitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "coScyutyamAna",
+          "m": "coScyutyamAnaH",
+          "f": "coScyutyamAnA",
+          "n": "coScyutyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracoScyutya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "coScyotana",
+          "m": "",
+          "f": "",
+          "n": "coScyotanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "coScyotaka",
+          "m": "coScyotakaH",
+          "f": "coScyotikA",
+          "n": "coScyotakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "coScyutat",
+          "m": "coScyutat/coScyutad",
+          "f": "coScyutatI",
+          "n": "coScyutat/coScyutad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "coScyotizyamARa",
+          "m": "coScyotizyamARaH",
+          "f": "coScyotizyamARA",
+          "n": "coScyotizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "coScyotizyat",
+          "m": "coScyotizyan",
+          "f": "coScyotizyatI/coScyotizyantI",
+          "n": "coScyotizyat/coScyotizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Scyut",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

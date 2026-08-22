@@ -1,0 +1,2532 @@
+{
+  "id": "01.0431",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "lepf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "373"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "373"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2300",
+      "ext_link": "/sutraani/sk2300?scroll=sutra-commentary-kaumudi-region&highlight=laepaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "lepizIzwa",
+        "lepizIyAstAm",
+        "lepizIran",
+        "lepizIzWAH",
+        "lepizIyAsTAm",
+        "lepizIDvam",
+        "lepizIya",
+        "lepizIvahi",
+        "lepizImahi"
+      ],
+      "alang": [
+        "alepata",
+        "alepetAm",
+        "alepanta",
+        "alepaTAH",
+        "alepeTAm",
+        "alepaDvam",
+        "alepe",
+        "alepAvahi",
+        "alepAmahi"
+      ],
+      "alat": [
+        "lepate",
+        "lepete",
+        "lepante",
+        "lepase",
+        "lepeTe",
+        "lepaDve",
+        "lepe",
+        "lepAvahe",
+        "lepAmahe"
+      ],
+      "alit": [
+        "lilepe",
+        "lilepAte",
+        "lilepire",
+        "lilepize",
+        "lilepATe",
+        "lilepiDve",
+        "lilepe",
+        "lilepivahe",
+        "lilepimahe"
+      ],
+      "alot": [
+        "lepatAm",
+        "lepetAm",
+        "lepantAm",
+        "lepasva",
+        "lepeTAm",
+        "lepaDvam",
+        "lepE",
+        "lepAvahE",
+        "lepAmahE"
+      ],
+      "alrung": [
+        "alepizyata",
+        "alepizyetAm",
+        "alepizyanta",
+        "alepizyaTAH",
+        "alepizyeTAm",
+        "alepizyaDvam",
+        "alepizye",
+        "alepizyAvahi",
+        "alepizyAmahi"
+      ],
+      "alrut": [
+        "lepizyate",
+        "lepizyete",
+        "lepizyante",
+        "lepizyase",
+        "lepizyeTe",
+        "lepizyaDve",
+        "lepizye",
+        "lepizyAvahe",
+        "lepizyAmahe"
+      ],
+      "alung": [
+        "alepizwa",
+        "alepizAtAm",
+        "alepizata",
+        "alepizWAH",
+        "alepizATAm",
+        "alepiDvam",
+        "alepizi",
+        "alepizvahi",
+        "alepizmahi"
+      ],
+      "alut": [
+        "lepitA",
+        "lepitArO",
+        "lepitAraH",
+        "lepitAse",
+        "lepitAsATe",
+        "lepitADve",
+        "lepitAhe",
+        "lepitAsvahe",
+        "lepitAsmahe"
+      ],
+      "avidhiling": [
+        "lepeta",
+        "lepeyAtAm",
+        "leperan",
+        "lepeTAH",
+        "lepeyATAm",
+        "lepeDvam",
+        "lepeya",
+        "lepevahi",
+        "lepemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "lepizIzwa",
+        "lepizIyAstAm",
+        "lepizIran",
+        "lepizIzWAH",
+        "lepizIyAsTAm",
+        "lepizIDvam",
+        "lepizIya",
+        "lepizIvahi",
+        "lepizImahi"
+      ],
+      "alang": [
+        "alepyata",
+        "alepyetAm",
+        "alepyanta",
+        "alepyaTAH",
+        "alepyeTAm",
+        "alepyaDvam",
+        "alepye",
+        "alepyAvahi",
+        "alepyAmahi"
+      ],
+      "alat": [
+        "lepyate",
+        "lepyete",
+        "lepyante",
+        "lepyase",
+        "lepyeTe",
+        "lepyaDve",
+        "lepye",
+        "lepyAvahe",
+        "lepyAmahe"
+      ],
+      "alit": [
+        "lilepe",
+        "lilepAte",
+        "lilepire",
+        "lilepize",
+        "lilepATe",
+        "lilepiDve",
+        "lilepe",
+        "lilepivahe",
+        "lilepimahe"
+      ],
+      "alot": [
+        "lepyatAm",
+        "lepyetAm",
+        "lepyantAm",
+        "lepyasva",
+        "lepyeTAm",
+        "lepyaDvam",
+        "lepyE",
+        "lepyAvahE",
+        "lepyAmahE"
+      ],
+      "alrung": [
+        "alepizyata",
+        "alepizyetAm",
+        "alepizyanta",
+        "alepizyaTAH",
+        "alepizyeTAm",
+        "alepizyaDvam",
+        "alepizye",
+        "alepizyAvahi",
+        "alepizyAmahi"
+      ],
+      "alrut": [
+        "lepizyate",
+        "lepizyete",
+        "lepizyante",
+        "lepizyase",
+        "lepizyeTe",
+        "lepizyaDve",
+        "lepizye",
+        "lepizyAvahe",
+        "lepizyAmahe"
+      ],
+      "alung": [
+        "alepi",
+        "alepizAtAm",
+        "alepizata",
+        "alepizWAH",
+        "alepizATAm",
+        "alepiDvam",
+        "alepizi",
+        "alepizvahi",
+        "alepizmahi"
+      ],
+      "alut": [
+        "lepitA",
+        "lepitArO",
+        "lepitAraH",
+        "lepitAse",
+        "lepitAsATe",
+        "lepitADve",
+        "lepitAhe",
+        "lepitAsvahe",
+        "lepitAsmahe"
+      ],
+      "avidhiling": [
+        "lepyeta",
+        "lepyeyAtAm",
+        "lepyeran",
+        "lepyeTAH",
+        "lepyeyATAm",
+        "lepyeDvam",
+        "lepyeya",
+        "lepyevahi",
+        "lepyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "lilepizizIzwa",
+        "lilepizizIyAstAm",
+        "lilepizizIran",
+        "lilepizizIzWAH",
+        "lilepizizIyAsTAm",
+        "lilepizizIDvam",
+        "lilepizizIya",
+        "lilepizizIvahi",
+        "lilepizizImahi"
+      ],
+      "alang": [
+        "alilepizata",
+        "alilepizetAm",
+        "alilepizanta",
+        "alilepizaTAH",
+        "alilepizeTAm",
+        "alilepizaDvam",
+        "alilepize",
+        "alilepizAvahi",
+        "alilepizAmahi"
+      ],
+      "alat": [
+        "lilepizate",
+        "lilepizete",
+        "lilepizante",
+        "lilepizase",
+        "lilepizeTe",
+        "lilepizaDve",
+        "lilepize",
+        "lilepizAvahe",
+        "lilepizAmahe"
+      ],
+      "alit": [
+        "lilepizAYcakre",
+        "lilepizAmAsa",
+        "lilepizAmbaBUva",
+        "lilepizAYcakrAte",
+        "lilepizAmAsatuH",
+        "lilepizAmbaBUvatuH",
+        "lilepizAYcakrire",
+        "lilepizAmAsuH",
+        "lilepizAmbaBUvuH",
+        "lilepizAYcakfze",
+        "lilepizAmAsiTa",
+        "lilepizAmbaBUviTa",
+        "lilepizAYcakrATe",
+        "lilepizAmAsaTuH",
+        "lilepizAmbaBUvaTuH",
+        "lilepizAYcakfQve",
+        "lilepizAmAsa",
+        "lilepizAmbaBUva",
+        "lilepizAYcakre",
+        "lilepizAmAsa",
+        "lilepizAmbaBUva",
+        "lilepizAYcakfvahe",
+        "lilepizAmAsiva",
+        "lilepizAmbaBUviva",
+        "lilepizAYcakfmahe",
+        "lilepizAmAsima",
+        "lilepizAmbaBUvima"
+      ],
+      "alot": [
+        "lilepizatAm",
+        "lilepizetAm",
+        "lilepizantAm",
+        "lilepizasva",
+        "lilepizeTAm",
+        "lilepizaDvam",
+        "lilepizE",
+        "lilepizAvahE",
+        "lilepizAmahE"
+      ],
+      "alrung": [
+        "alilepizizyata",
+        "alilepizizyetAm",
+        "alilepizizyanta",
+        "alilepizizyaTAH",
+        "alilepizizyeTAm",
+        "alilepizizyaDvam",
+        "alilepizizye",
+        "alilepizizyAvahi",
+        "alilepizizyAmahi"
+      ],
+      "alrut": [
+        "lilepizizyate",
+        "lilepizizyete",
+        "lilepizizyante",
+        "lilepizizyase",
+        "lilepizizyeTe",
+        "lilepizizyaDve",
+        "lilepizizye",
+        "lilepizizyAvahe",
+        "lilepizizyAmahe"
+      ],
+      "alung": [
+        "alilepizizwa",
+        "alilepizizAtAm",
+        "alilepizizata",
+        "alilepizizWAH",
+        "alilepizizATAm",
+        "alilepiziDvam",
+        "alilepizizi",
+        "alilepizizvahi",
+        "alilepizizmahi"
+      ],
+      "alut": [
+        "lilepizitA",
+        "lilepizitArO",
+        "lilepizitAraH",
+        "lilepizitAse",
+        "lilepizitAsATe",
+        "lilepizitADve",
+        "lilepizitAhe",
+        "lilepizitAsvahe",
+        "lilepizitAsmahe"
+      ],
+      "avidhiling": [
+        "lilepizeta",
+        "lilepizeyAtAm",
+        "lilepizeran",
+        "lilepizeTAH",
+        "lilepizeyATAm",
+        "lilepizeDvam",
+        "lilepizeya",
+        "lilepizevahi",
+        "lilepizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "lilepizizIzwa",
+        "lilepizizIyAstAm",
+        "lilepizizIran",
+        "lilepizizIzWAH",
+        "lilepizizIyAsTAm",
+        "lilepizizIDvam",
+        "lilepizizIya",
+        "lilepizizIvahi",
+        "lilepizizImahi"
+      ],
+      "alang": [
+        "alilepizyata",
+        "alilepizyetAm",
+        "alilepizyanta",
+        "alilepizyaTAH",
+        "alilepizyeTAm",
+        "alilepizyaDvam",
+        "alilepizye",
+        "alilepizyAvahi",
+        "alilepizyAmahi"
+      ],
+      "alat": [
+        "lilepizyate",
+        "lilepizyete",
+        "lilepizyante",
+        "lilepizyase",
+        "lilepizyeTe",
+        "lilepizyaDve",
+        "lilepizye",
+        "lilepizyAvahe",
+        "lilepizyAmahe"
+      ],
+      "alit": [
+        "lilepizAYcakre",
+        "lilepizAmAse",
+        "lilepizAmbaBUve",
+        "lilepizAYcakrAte",
+        "lilepizAmAsAte",
+        "lilepizAmbaBUvAte",
+        "lilepizAYcakrire",
+        "lilepizAmAsire",
+        "lilepizAmbaBUvire",
+        "lilepizAYcakfze",
+        "lilepizAmAsize",
+        "lilepizAmbaBUvize",
+        "lilepizAYcakrATe",
+        "lilepizAmAsATe",
+        "lilepizAmbaBUvATe",
+        "lilepizAYcakfQve",
+        "lilepizAmAsiDve",
+        "lilepizAmbaBUviQve",
+        "lilepizAYcakre",
+        "lilepizAmAhe",
+        "lilepizAmbaBUve",
+        "lilepizAYcakfvahe",
+        "lilepizAmAsivahe",
+        "lilepizAmbaBUvivahe",
+        "lilepizAYcakfmahe",
+        "lilepizAmAsimahe",
+        "lilepizAmbaBUvimahe"
+      ],
+      "alot": [
+        "lilepizyatAm",
+        "lilepizyetAm",
+        "lilepizyantAm",
+        "lilepizyasva",
+        "lilepizyeTAm",
+        "lilepizyaDvam",
+        "lilepizyE",
+        "lilepizyAvahE",
+        "lilepizyAmahE"
+      ],
+      "alrung": [
+        "alilepizizyata",
+        "alilepizizyetAm",
+        "alilepizizyanta",
+        "alilepizizyaTAH",
+        "alilepizizyeTAm",
+        "alilepizizyaDvam",
+        "alilepizizye",
+        "alilepizizyAvahi",
+        "alilepizizyAmahi"
+      ],
+      "alrut": [
+        "lilepizizyate",
+        "lilepizizyete",
+        "lilepizizyante",
+        "lilepizizyase",
+        "lilepizizyeTe",
+        "lilepizizyaDve",
+        "lilepizizye",
+        "lilepizizyAvahe",
+        "lilepizizyAmahe"
+      ],
+      "alung": [
+        "alilepizi",
+        "alilepizizAtAm",
+        "alilepizizata",
+        "alilepizizWAH",
+        "alilepizizATAm",
+        "alilepiziDvam",
+        "alilepizizi",
+        "alilepizizvahi",
+        "alilepizizmahi"
+      ],
+      "alut": [
+        "lilepizitA",
+        "lilepizitArO",
+        "lilepizitAraH",
+        "lilepizitAse",
+        "lilepizitAsATe",
+        "lilepizitADve",
+        "lilepizitAhe",
+        "lilepizitAsvahe",
+        "lilepizitAsmahe"
+      ],
+      "avidhiling": [
+        "lilepizyeta",
+        "lilepizyeyAtAm",
+        "lilepizyeran",
+        "lilepizyeTAH",
+        "lilepizyeyATAm",
+        "lilepizyeDvam",
+        "lilepizyeya",
+        "lilepizyevahi",
+        "lilepizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "lepayizIzwa",
+        "lepayizIyAstAm",
+        "lepayizIran",
+        "lepayizIzWAH",
+        "lepayizIyAsTAm",
+        "lepayizIQvam",
+        "lepayizIDvam",
+        "lepayizIya",
+        "lepayizIvahi",
+        "lepayizImahi"
+      ],
+      "alang": [
+        "alepayata",
+        "alepayetAm",
+        "alepayanta",
+        "alepayaTAH",
+        "alepayeTAm",
+        "alepayaDvam",
+        "alepaye",
+        "alepayAvahi",
+        "alepayAmahi"
+      ],
+      "alat": [
+        "lepayate",
+        "lepayete",
+        "lepayante",
+        "lepayase",
+        "lepayeTe",
+        "lepayaDve",
+        "lepaye",
+        "lepayAvahe",
+        "lepayAmahe"
+      ],
+      "alit": [
+        "lepayAYcakre",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakrAte",
+        "lepayAmAsatuH",
+        "lepayAmbaBUvatuH",
+        "lepayAYcakrire",
+        "lepayAmAsuH",
+        "lepayAmbaBUvuH",
+        "lepayAYcakfze",
+        "lepayAmAsiTa",
+        "lepayAmbaBUviTa",
+        "lepayAYcakrATe",
+        "lepayAmAsaTuH",
+        "lepayAmbaBUvaTuH",
+        "lepayAYcakfQve",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakre",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakfvahe",
+        "lepayAmAsiva",
+        "lepayAmbaBUviva",
+        "lepayAYcakfmahe",
+        "lepayAmAsima",
+        "lepayAmbaBUvima"
+      ],
+      "alot": [
+        "lepayatAm",
+        "lepayetAm",
+        "lepayantAm",
+        "lepayasva",
+        "lepayeTAm",
+        "lepayaDvam",
+        "lepayE",
+        "lepayAvahE",
+        "lepayAmahE"
+      ],
+      "alrung": [
+        "alepayizyata",
+        "alepayizyetAm",
+        "alepayizyanta",
+        "alepayizyaTAH",
+        "alepayizyeTAm",
+        "alepayizyaDvam",
+        "alepayizye",
+        "alepayizyAvahi",
+        "alepayizyAmahi"
+      ],
+      "alrut": [
+        "lepayizyate",
+        "lepayizyete",
+        "lepayizyante",
+        "lepayizyase",
+        "lepayizyeTe",
+        "lepayizyaDve",
+        "lepayizye",
+        "lepayizyAvahe",
+        "lepayizyAmahe"
+      ],
+      "alung": [
+        "alilepata",
+        "alilepetAm",
+        "alilepanta",
+        "alilepaTAH",
+        "alilepeTAm",
+        "alilepaDvam",
+        "alilepe",
+        "alilepAvahi",
+        "alilepAmahi"
+      ],
+      "alut": [
+        "lepayitA",
+        "lepayitArO",
+        "lepayitAraH",
+        "lepayitAse",
+        "lepayitAsATe",
+        "lepayitADve",
+        "lepayitAhe",
+        "lepayitAsvahe",
+        "lepayitAsmahe"
+      ],
+      "avidhiling": [
+        "lepayeta",
+        "lepayeyAtAm",
+        "lepayeran",
+        "lepayeTAH",
+        "lepayeyATAm",
+        "lepayeDvam",
+        "lepayeya",
+        "lepayevahi",
+        "lepayemahi"
+      ],
+      "pashirling": [
+        "lepyAt",
+        "lepyAd",
+        "lepyAstAm",
+        "lepyAsuH",
+        "lepyAH",
+        "lepyAstam",
+        "lepyAsta",
+        "lepyAsam",
+        "lepyAsva",
+        "lepyAsma"
+      ],
+      "plang": [
+        "alepayat",
+        "alepayad",
+        "alepayatAm",
+        "alepayan",
+        "alepayaH",
+        "alepayatam",
+        "alepayata",
+        "alepayam",
+        "alepayAva",
+        "alepayAma"
+      ],
+      "plat": [
+        "lepayati",
+        "lepayataH",
+        "lepayanti",
+        "lepayasi",
+        "lepayaTaH",
+        "lepayaTa",
+        "lepayAmi",
+        "lepayAvaH",
+        "lepayAmaH"
+      ],
+      "plit": [
+        "lepayAYcakAra",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakratuH",
+        "lepayAmAsatuH",
+        "lepayAmbaBUvatuH",
+        "lepayAYcakruH",
+        "lepayAmAsuH",
+        "lepayAmbaBUvuH",
+        "lepayAYcakarTa",
+        "lepayAmAsiTa",
+        "lepayAmbaBUviTa",
+        "lepayAYcakraTuH",
+        "lepayAmAsaTuH",
+        "lepayAmbaBUvaTuH",
+        "lepayAYcakra",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakara",
+        "lepayAYcakAra",
+        "lepayAmAsa",
+        "lepayAmbaBUva",
+        "lepayAYcakfva",
+        "lepayAmAsiva",
+        "lepayAmbaBUviva",
+        "lepayAYcakfma",
+        "lepayAmAsima",
+        "lepayAmbaBUvima"
+      ],
+      "plot": [
+        "lepayatAt",
+        "lepayatAd",
+        "lepayatu",
+        "lepayatAm",
+        "lepayantu",
+        "lepaya",
+        "lepayatAt",
+        "lepayatAd",
+        "lepayatam",
+        "lepayata",
+        "lepayAni",
+        "lepayAva",
+        "lepayAma"
+      ],
+      "plrung": [
+        "alepayizyat",
+        "alepayizyad",
+        "alepayizyatAm",
+        "alepayizyan",
+        "alepayizyaH",
+        "alepayizyatam",
+        "alepayizyata",
+        "alepayizyam",
+        "alepayizyAva",
+        "alepayizyAma"
+      ],
+      "plrut": [
+        "lepayizyati",
+        "lepayizyataH",
+        "lepayizyanti",
+        "lepayizyasi",
+        "lepayizyaTaH",
+        "lepayizyaTa",
+        "lepayizyAmi",
+        "lepayizyAvaH",
+        "lepayizyAmaH"
+      ],
+      "plung": [
+        "alilepat",
+        "alilepad",
+        "alilepatAm",
+        "alilepan",
+        "alilepaH",
+        "alilepatam",
+        "alilepata",
+        "alilepam",
+        "alilepAva",
+        "alilepAma"
+      ],
+      "plut": [
+        "lepayitA",
+        "lepayitArO",
+        "lepayitAraH",
+        "lepayitAsi",
+        "lepayitAsTaH",
+        "lepayitAsTa",
+        "lepayitAsmi",
+        "lepayitAsvaH",
+        "lepayitAsmaH"
+      ],
+      "pvidhiling": [
+        "lepayet",
+        "lepayed",
+        "lepayetAm",
+        "lepayeyuH",
+        "lepayeH",
+        "lepayetam",
+        "lepayeta",
+        "lepayeyam",
+        "lepayeva",
+        "lepayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "lepayizIzwa",
+        "lepizIzwa",
+        "lepayizIyAstAm",
+        "lepizIyAstAm",
+        "lepayizIran",
+        "lepizIran",
+        "lepayizIzWAH",
+        "lepizIzWAH",
+        "lepayizIyAsTAm",
+        "lepizIyAsTAm",
+        "lepayizIQvam",
+        "lepayizIDvam",
+        "lepizIDvam",
+        "lepayizIya",
+        "lepizIya",
+        "lepayizIvahi",
+        "lepizIvahi",
+        "lepayizImahi",
+        "lepizImahi"
+      ],
+      "alang": [
+        "alepyata",
+        "alepyetAm",
+        "alepyanta",
+        "alepyaTAH",
+        "alepyeTAm",
+        "alepyaDvam",
+        "alepye",
+        "alepyAvahi",
+        "alepyAmahi"
+      ],
+      "alat": [
+        "lepyate",
+        "lepyete",
+        "lepyante",
+        "lepyase",
+        "lepyeTe",
+        "lepyaDve",
+        "lepye",
+        "lepyAvahe",
+        "lepyAmahe"
+      ],
+      "alit": [
+        "lepayAYcakre",
+        "lepayAmAse",
+        "lepayAmbaBUve",
+        "lepayAYcakrAte",
+        "lepayAmAsAte",
+        "lepayAmbaBUvAte",
+        "lepayAYcakrire",
+        "lepayAmAsire",
+        "lepayAmbaBUvire",
+        "lepayAYcakfze",
+        "lepayAmAsize",
+        "lepayAmbaBUvize",
+        "lepayAYcakrATe",
+        "lepayAmAsATe",
+        "lepayAmbaBUvATe",
+        "lepayAYcakfQve",
+        "lepayAmAsiDve",
+        "lepayAmbaBUviQve",
+        "lepayAYcakre",
+        "lepayAmAhe",
+        "lepayAmbaBUve",
+        "lepayAYcakfvahe",
+        "lepayAmAsivahe",
+        "lepayAmbaBUvivahe",
+        "lepayAYcakfmahe",
+        "lepayAmAsimahe",
+        "lepayAmbaBUvimahe"
+      ],
+      "alot": [
+        "lepyatAm",
+        "lepyetAm",
+        "lepyantAm",
+        "lepyasva",
+        "lepyeTAm",
+        "lepyaDvam",
+        "lepyE",
+        "lepyAvahE",
+        "lepyAmahE"
+      ],
+      "alrung": [
+        "alepayizyata",
+        "alepizyata",
+        "alepayizyetAm",
+        "alepizyetAm",
+        "alepayizyanta",
+        "alepizyanta",
+        "alepayizyaTAH",
+        "alepizyaTAH",
+        "alepayizyeTAm",
+        "alepizyeTAm",
+        "alepayizyaDvam",
+        "alepizyaDvam",
+        "alepayizye",
+        "alepizye",
+        "alepayizyAvahi",
+        "alepizyAvahi",
+        "alepayizyAmahi",
+        "alepizyAmahi"
+      ],
+      "alrut": [
+        "lepayizyate",
+        "lepizyate",
+        "lepayizyete",
+        "lepizyete",
+        "lepayizyante",
+        "lepizyante",
+        "lepayizyase",
+        "lepizyase",
+        "lepayizyeTe",
+        "lepizyeTe",
+        "lepayizyaDve",
+        "lepizyaDve",
+        "lepayizye",
+        "lepizye",
+        "lepayizyAvahe",
+        "lepizyAvahe",
+        "lepayizyAmahe",
+        "lepizyAmahe"
+      ],
+      "alung": [
+        "alepi",
+        "alepayizAtAm",
+        "alepizAtAm",
+        "alepayizata",
+        "alepizata",
+        "alepayizWAH",
+        "alepizWAH",
+        "alepayizATAm",
+        "alepizATAm",
+        "alepayiQvam",
+        "alepayiDvam",
+        "alepiDvam",
+        "alepayizi",
+        "alepizi",
+        "alepayizvahi",
+        "alepizvahi",
+        "alepayizmahi",
+        "alepizmahi"
+      ],
+      "alut": [
+        "lepayitA",
+        "lepitA",
+        "lepayitArO",
+        "lepitArO",
+        "lepayitAraH",
+        "lepitAraH",
+        "lepayitAse",
+        "lepitAse",
+        "lepayitAsATe",
+        "lepitAsATe",
+        "lepayitADve",
+        "lepitADve",
+        "lepayitAhe",
+        "lepitAhe",
+        "lepayitAsvahe",
+        "lepitAsvahe",
+        "lepayitAsmahe",
+        "lepitAsmahe"
+      ],
+      "avidhiling": [
+        "lepyeta",
+        "lepyeyAtAm",
+        "lepyeran",
+        "lepyeTAH",
+        "lepyeyATAm",
+        "lepyeDvam",
+        "lepyeya",
+        "lepyevahi",
+        "lepyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "lelepizIzwa",
+        "lelepizIyAstAm",
+        "lelepizIran",
+        "lelepizIzWAH",
+        "lelepizIyAsTAm",
+        "lelepizIDvam",
+        "lelepizIya",
+        "lelepizIvahi",
+        "lelepizImahi"
+      ],
+      "alang": [
+        "alelepyata",
+        "alelepyetAm",
+        "alelepyanta",
+        "alelepyaTAH",
+        "alelepyeTAm",
+        "alelepyaDvam",
+        "alelepye",
+        "alelepyAvahi",
+        "alelepyAmahi"
+      ],
+      "alat": [
+        "lelepyate",
+        "lelepyete",
+        "lelepyante",
+        "lelepyase",
+        "lelepyeTe",
+        "lelepyaDve",
+        "lelepye",
+        "lelepyAvahe",
+        "lelepyAmahe"
+      ],
+      "alit": [
+        "lelepAYcakre",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakrAte",
+        "lelepAmAsatuH",
+        "lelepAmbaBUvatuH",
+        "lelepAYcakrire",
+        "lelepAmAsuH",
+        "lelepAmbaBUvuH",
+        "lelepAYcakfze",
+        "lelepAmAsiTa",
+        "lelepAmbaBUviTa",
+        "lelepAYcakrATe",
+        "lelepAmAsaTuH",
+        "lelepAmbaBUvaTuH",
+        "lelepAYcakfQve",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakre",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakfvahe",
+        "lelepAmAsiva",
+        "lelepAmbaBUviva",
+        "lelepAYcakfmahe",
+        "lelepAmAsima",
+        "lelepAmbaBUvima"
+      ],
+      "alot": [
+        "lelepyatAm",
+        "lelepyetAm",
+        "lelepyantAm",
+        "lelepyasva",
+        "lelepyeTAm",
+        "lelepyaDvam",
+        "lelepyE",
+        "lelepyAvahE",
+        "lelepyAmahE"
+      ],
+      "alrung": [
+        "alelepizyata",
+        "alelepizyetAm",
+        "alelepizyanta",
+        "alelepizyaTAH",
+        "alelepizyeTAm",
+        "alelepizyaDvam",
+        "alelepizye",
+        "alelepizyAvahi",
+        "alelepizyAmahi"
+      ],
+      "alrut": [
+        "lelepizyate",
+        "lelepizyete",
+        "lelepizyante",
+        "lelepizyase",
+        "lelepizyeTe",
+        "lelepizyaDve",
+        "lelepizye",
+        "lelepizyAvahe",
+        "lelepizyAmahe"
+      ],
+      "alung": [
+        "alelepizwa",
+        "alelepizAtAm",
+        "alelepizata",
+        "alelepizWAH",
+        "alelepizATAm",
+        "alelepiDvam",
+        "alelepizi",
+        "alelepizvahi",
+        "alelepizmahi"
+      ],
+      "alut": [
+        "lelepitA",
+        "lelepitArO",
+        "lelepitAraH",
+        "lelepitAse",
+        "lelepitAsATe",
+        "lelepitADve",
+        "lelepitAhe",
+        "lelepitAsvahe",
+        "lelepitAsmahe"
+      ],
+      "avidhiling": [
+        "lelepyeta",
+        "lelepyeyAtAm",
+        "lelepyeran",
+        "lelepyeTAH",
+        "lelepyeyATAm",
+        "lelepyeDvam",
+        "lelepyeya",
+        "lelepyevahi",
+        "lelepyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "lelepizIzwa",
+        "lelepizIyAstAm",
+        "lelepizIran",
+        "lelepizIzWAH",
+        "lelepizIyAsTAm",
+        "lelepizIDvam",
+        "lelepizIya",
+        "lelepizIvahi",
+        "lelepizImahi"
+      ],
+      "alang": [
+        "alelepyata",
+        "alelepyetAm",
+        "alelepyanta",
+        "alelepyaTAH",
+        "alelepyeTAm",
+        "alelepyaDvam",
+        "alelepye",
+        "alelepyAvahi",
+        "alelepyAmahi"
+      ],
+      "alat": [
+        "lelepyate",
+        "lelepyete",
+        "lelepyante",
+        "lelepyase",
+        "lelepyeTe",
+        "lelepyaDve",
+        "lelepye",
+        "lelepyAvahe",
+        "lelepyAmahe"
+      ],
+      "alit": [
+        "lelepAYcakre",
+        "lelepAmAse",
+        "lelepAmbaBUve",
+        "lelepAYcakrAte",
+        "lelepAmAsAte",
+        "lelepAmbaBUvAte",
+        "lelepAYcakrire",
+        "lelepAmAsire",
+        "lelepAmbaBUvire",
+        "lelepAYcakfze",
+        "lelepAmAsize",
+        "lelepAmbaBUvize",
+        "lelepAYcakrATe",
+        "lelepAmAsATe",
+        "lelepAmbaBUvATe",
+        "lelepAYcakfQve",
+        "lelepAmAsiDve",
+        "lelepAmbaBUviQve",
+        "lelepAYcakre",
+        "lelepAmAhe",
+        "lelepAmbaBUve",
+        "lelepAYcakfvahe",
+        "lelepAmAsivahe",
+        "lelepAmbaBUvivahe",
+        "lelepAYcakfmahe",
+        "lelepAmAsimahe",
+        "lelepAmbaBUvimahe"
+      ],
+      "alot": [
+        "lelepyatAm",
+        "lelepyetAm",
+        "lelepyantAm",
+        "lelepyasva",
+        "lelepyeTAm",
+        "lelepyaDvam",
+        "lelepyE",
+        "lelepyAvahE",
+        "lelepyAmahE"
+      ],
+      "alrung": [
+        "alelepizyata",
+        "alelepizyetAm",
+        "alelepizyanta",
+        "alelepizyaTAH",
+        "alelepizyeTAm",
+        "alelepizyaDvam",
+        "alelepizye",
+        "alelepizyAvahi",
+        "alelepizyAmahi"
+      ],
+      "alrut": [
+        "lelepizyate",
+        "lelepizyete",
+        "lelepizyante",
+        "lelepizyase",
+        "lelepizyeTe",
+        "lelepizyaDve",
+        "lelepizye",
+        "lelepizyAvahe",
+        "lelepizyAmahe"
+      ],
+      "alung": [
+        "alelepi",
+        "alelepizAtAm",
+        "alelepizata",
+        "alelepizWAH",
+        "alelepizATAm",
+        "alelepiDvam",
+        "alelepizi",
+        "alelepizvahi",
+        "alelepizmahi"
+      ],
+      "alut": [
+        "lelepitA",
+        "lelepitArO",
+        "lelepitAraH",
+        "lelepitAse",
+        "lelepitAsATe",
+        "lelepitADve",
+        "lelepitAhe",
+        "lelepitAsvahe",
+        "lelepitAsmahe"
+      ],
+      "avidhiling": [
+        "lelepyeta",
+        "lelepyeyAtAm",
+        "lelepyeran",
+        "lelepyeTAH",
+        "lelepyeyATAm",
+        "lelepyeDvam",
+        "lelepyeya",
+        "lelepyevahi",
+        "lelepyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "lelepyAt",
+        "lelepyAd",
+        "lelepyAstAm",
+        "lelepyAsuH",
+        "lelepyAH",
+        "lelepyAstam",
+        "lelepyAsta",
+        "lelepyAsam",
+        "lelepyAsva",
+        "lelepyAsma"
+      ],
+      "plang": [
+        "alelepIt",
+        "alelepId",
+        "alelep",
+        "aleleb",
+        "aleleptAm",
+        "alelepuH",
+        "alelepIH",
+        "alelep",
+        "aleleb",
+        "aleleptam",
+        "alelepta",
+        "alelepam",
+        "alelepva",
+        "alelepma"
+      ],
+      "plat": [
+        "lelepIti",
+        "lelepti",
+        "leleptaH",
+        "lelepati",
+        "lelepIzi",
+        "lelepsi",
+        "lelepTaH",
+        "lelepTa",
+        "lelepImi",
+        "lelepmi",
+        "lelepvaH",
+        "lelepmaH"
+      ],
+      "plit": [
+        "lelepAYcakAra",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakratuH",
+        "lelepAmAsatuH",
+        "lelepAmbaBUvatuH",
+        "lelepAYcakruH",
+        "lelepAmAsuH",
+        "lelepAmbaBUvuH",
+        "lelepAYcakarTa",
+        "lelepAmAsiTa",
+        "lelepAmbaBUviTa",
+        "lelepAYcakraTuH",
+        "lelepAmAsaTuH",
+        "lelepAmbaBUvaTuH",
+        "lelepAYcakra",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakara",
+        "lelepAYcakAra",
+        "lelepAmAsa",
+        "lelepAmbaBUva",
+        "lelepAYcakfva",
+        "lelepAmAsiva",
+        "lelepAmbaBUviva",
+        "lelepAYcakfma",
+        "lelepAmAsima",
+        "lelepAmbaBUvima"
+      ],
+      "plot": [
+        "lelepItu",
+        "leleptAt",
+        "leleptAd",
+        "leleptu",
+        "leleptAm",
+        "lelepatu",
+        "leleptAt",
+        "leleptAd",
+        "lelebDi",
+        "leleptam",
+        "lelepta",
+        "lelepAni",
+        "lelepAva",
+        "lelepAma"
+      ],
+      "plrung": [
+        "alelepizyat",
+        "alelepizyad",
+        "alelepizyatAm",
+        "alelepizyan",
+        "alelepizyaH",
+        "alelepizyatam",
+        "alelepizyata",
+        "alelepizyam",
+        "alelepizyAva",
+        "alelepizyAma"
+      ],
+      "plrut": [
+        "lelepizyati",
+        "lelepizyataH",
+        "lelepizyanti",
+        "lelepizyasi",
+        "lelepizyaTaH",
+        "lelepizyaTa",
+        "lelepizyAmi",
+        "lelepizyAvaH",
+        "lelepizyAmaH"
+      ],
+      "plung": [
+        "alelepIt",
+        "alelepId",
+        "alelepizwAm",
+        "alelepizuH",
+        "alelepIH",
+        "alelepizwam",
+        "alelepizwa",
+        "alelepizam",
+        "alelepizva",
+        "alelepizma"
+      ],
+      "plut": [
+        "lelepitA",
+        "lelepitArO",
+        "lelepitAraH",
+        "lelepitAsi",
+        "lelepitAsTaH",
+        "lelepitAsTa",
+        "lelepitAsmi",
+        "lelepitAsvaH",
+        "lelepitAsmaH"
+      ],
+      "pvidhiling": [
+        "lelepyAt",
+        "lelepyAd",
+        "lelepyAtAm",
+        "lelepyuH",
+        "lelepyAH",
+        "lelepyAtam",
+        "lelepyAta",
+        "lelepyAm",
+        "lelepyAva",
+        "lelepyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "lelepizIzwa",
+        "lelepizIyAstAm",
+        "lelepizIran",
+        "lelepizIzWAH",
+        "lelepizIyAsTAm",
+        "lelepizIDvam",
+        "lelepizIya",
+        "lelepizIvahi",
+        "lelepizImahi"
+      ],
+      "alang": [
+        "alelepyata",
+        "alelepyetAm",
+        "alelepyanta",
+        "alelepyaTAH",
+        "alelepyeTAm",
+        "alelepyaDvam",
+        "alelepye",
+        "alelepyAvahi",
+        "alelepyAmahi"
+      ],
+      "alat": [
+        "lelepyate",
+        "lelepyete",
+        "lelepyante",
+        "lelepyase",
+        "lelepyeTe",
+        "lelepyaDve",
+        "lelepye",
+        "lelepyAvahe",
+        "lelepyAmahe"
+      ],
+      "alit": [
+        "lelepAYcakre",
+        "lelepAmAse",
+        "lelepAmbaBUve",
+        "lelepAYcakrAte",
+        "lelepAmAsAte",
+        "lelepAmbaBUvAte",
+        "lelepAYcakrire",
+        "lelepAmAsire",
+        "lelepAmbaBUvire",
+        "lelepAYcakfze",
+        "lelepAmAsize",
+        "lelepAmbaBUvize",
+        "lelepAYcakrATe",
+        "lelepAmAsATe",
+        "lelepAmbaBUvATe",
+        "lelepAYcakfQve",
+        "lelepAmAsiDve",
+        "lelepAmbaBUviQve",
+        "lelepAYcakre",
+        "lelepAmAhe",
+        "lelepAmbaBUve",
+        "lelepAYcakfvahe",
+        "lelepAmAsivahe",
+        "lelepAmbaBUvivahe",
+        "lelepAYcakfmahe",
+        "lelepAmAsimahe",
+        "lelepAmbaBUvimahe"
+      ],
+      "alot": [
+        "lelepyatAm",
+        "lelepyetAm",
+        "lelepyantAm",
+        "lelepyasva",
+        "lelepyeTAm",
+        "lelepyaDvam",
+        "lelepyE",
+        "lelepyAvahE",
+        "lelepyAmahE"
+      ],
+      "alrung": [
+        "alelepizyata",
+        "alelepizyetAm",
+        "alelepizyanta",
+        "alelepizyaTAH",
+        "alelepizyeTAm",
+        "alelepizyaDvam",
+        "alelepizye",
+        "alelepizyAvahi",
+        "alelepizyAmahi"
+      ],
+      "alrut": [
+        "lelepizyate",
+        "lelepizyete",
+        "lelepizyante",
+        "lelepizyase",
+        "lelepizyeTe",
+        "lelepizyaDve",
+        "lelepizye",
+        "lelepizyAvahe",
+        "lelepizyAmahe"
+      ],
+      "alung": [
+        "alelepi",
+        "alelepizAtAm",
+        "alelepizata",
+        "alelepizWAH",
+        "alelepizATAm",
+        "alelepiDvam",
+        "alelepizi",
+        "alelepizvahi",
+        "alelepizmahi"
+      ],
+      "alut": [
+        "lelepitA",
+        "lelepitArO",
+        "lelepitAraH",
+        "lelepitAse",
+        "lelepitAsATe",
+        "lelepitADve",
+        "lelepitAhe",
+        "lelepitAsvahe",
+        "lelepitAsmahe"
+      ],
+      "avidhiling": [
+        "lelepyeta",
+        "lelepyeyAtAm",
+        "lelepyeran",
+        "lelepyeTAH",
+        "lelepyeyATAm",
+        "lelepyeDvam",
+        "lelepyeya",
+        "lelepyevahi",
+        "lelepyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "lepA",
+          "m": "",
+          "f": "lepA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "lepa",
+          "m": "lepaH",
+          "f": "lepA",
+          "n": "lepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lepanIya",
+          "m": "lepanIyaH",
+          "f": "lepanIyA",
+          "n": "lepanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lepita",
+          "m": "lepitaH",
+          "f": "lepitA",
+          "n": "lepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lepitavat",
+          "m": "lepitavAn",
+          "f": "lepitavatI",
+          "n": "lepitavat/lepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lepti",
+          "m": "",
+          "f": "leptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lepitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lilepvas",
+          "m": "lilepvAn",
+          "f": "lilepuzI",
+          "n": "lilepvat/lilepvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "lepa",
+          "m": "lepaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lepamAna",
+          "m": "lepamAnaH",
+          "f": "lepamAnA",
+          "n": "lepamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "lepya",
+          "m": "lepyaH",
+          "f": "lepyA",
+          "n": "lepyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lepaka",
+          "m": "lepakaH",
+          "f": "lepikA",
+          "n": "lepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lepitavya",
+          "m": "lepitavyaH",
+          "f": "lepitavyA",
+          "n": "lepitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lepitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lepitf",
+          "m": "lepitA",
+          "f": "lepitrI",
+          "n": "lepitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lepyamAna",
+          "m": "lepyamAnaH",
+          "f": "lepyamAnA",
+          "n": "lepyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lepana",
+          "m": "",
+          "f": "",
+          "n": "lepanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lepaka",
+          "m": "lepakaH",
+          "f": "lepikA",
+          "n": "lepakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lepamAna",
+          "m": "lepamAnaH",
+          "f": "lepamAnA",
+          "n": "lepamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lepizyamARa",
+          "m": "lepizyamARaH",
+          "f": "lepizyamARA",
+          "n": "lepizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lepizyamARa",
+          "m": "lepizyamARaH",
+          "f": "lepizyamARA",
+          "n": "lepizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "lilepizA",
+          "m": "",
+          "f": "lilepizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "lilepiza",
+          "m": "lilepizaH",
+          "f": "lilepizA",
+          "n": "lilepizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lilepizaRIya",
+          "m": "lilepizaRIyaH",
+          "f": "lilepizaRIyA",
+          "n": "lilepizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "lilepizu",
+          "m": "lilepizuH",
+          "f": "lilepizuH",
+          "n": "lilepizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lilepizita",
+          "m": "lilepizitaH",
+          "f": "lilepizitA",
+          "n": "lilepizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lilepizitavat",
+          "m": "lilepizitavAn",
+          "f": "lilepizitavatI",
+          "n": "lilepizitavat/lilepizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lilepizwi",
+          "m": "",
+          "f": "lilepizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lilepizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lilepizAmbaBUvas",
+          "m": "lilepizAmbaBUvAn",
+          "f": "lilepizAmbaBUzI",
+          "n": "lilepizAmbaBUvat/lilepizAmbaBUvad"
+        },
+        {
+          "base": "lilepizAmAsivas",
+          "m": "lilepizAmAsivAn",
+          "f": "lilepizAmAsyuzI",
+          "n": "lilepizAmAsivat/lilepizAmAsivad"
+        },
+        {
+          "base": "lilepizAYcakfvas",
+          "m": "lilepizAYcakfvAn",
+          "f": "lilepizAYcakruzI",
+          "n": "lilepizAYcakfvat/lilepizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "lilepiza",
+          "m": "lilepizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lilepizamARa",
+          "m": "lilepizamARaH",
+          "f": "lilepizamARA",
+          "n": "lilepizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lilepizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lilepizaka",
+          "m": "lilepizakaH",
+          "f": "lilepizikA",
+          "n": "lilepizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lilepizitavya",
+          "m": "lilepizitavyaH",
+          "f": "lilepizitavyA",
+          "n": "lilepizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lilepizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lilepizitf",
+          "m": "lilepizitA",
+          "f": "lilepizitrI",
+          "n": "lilepizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lilepizyamARa",
+          "m": "lilepizyamARaH",
+          "f": "lilepizyamARA",
+          "n": "lilepizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "lilepizya",
+          "m": "lilepizyaH",
+          "f": "lilepizyA",
+          "n": "lilepizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralilepizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lilepizaRa",
+          "m": "",
+          "f": "",
+          "n": "lilepizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lilepizaka",
+          "m": "lilepizakaH",
+          "f": "lilepizikA",
+          "n": "lilepizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lilepizamARa",
+          "m": "lilepizamARaH",
+          "f": "lilepizamARA",
+          "n": "lilepizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lilepizizyamARa",
+          "m": "lilepizizyamARaH",
+          "f": "lilepizizyamARA",
+          "n": "lilepizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lilepizizyamARa",
+          "m": "lilepizizyamARaH",
+          "f": "lilepizizyamARA",
+          "n": "lilepizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "lepa",
+          "m": "lepaH",
+          "f": "lepA",
+          "n": "lepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lepanIya",
+          "m": "lepanIyaH",
+          "f": "lepanIyA",
+          "n": "lepanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lepita",
+          "m": "lepitaH",
+          "f": "lepitA",
+          "n": "lepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lepitavat",
+          "m": "lepitavAn",
+          "f": "lepitavatI",
+          "n": "lepitavat/lepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lepti",
+          "m": "",
+          "f": "leptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lepayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lepayAmbaBUvas",
+          "m": "lepayAmbaBUvAn",
+          "f": "lepayAmbaBUzI",
+          "n": "lepayAmbaBUvat/lepayAmbaBUvad"
+        },
+        {
+          "base": "lepayAmAsivas",
+          "m": "lepayAmAsivAn",
+          "f": "lepayAmAsyuzI",
+          "n": "lepayAmAsivat/lepayAmAsivad"
+        },
+        {
+          "base": "lepayAYcakfvas",
+          "m": "lepayAYcakfvAn",
+          "f": "lepayAYcakruzI",
+          "n": "lepayAYcakfvat/lepayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lepayamAna",
+          "m": "lepayamAnaH",
+          "f": "lepayamAnA",
+          "n": "lepayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lepaka",
+          "m": "lepakaH",
+          "f": "lepikA",
+          "n": "lepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lepayitavya",
+          "m": "lepayitavyaH",
+          "f": "lepayitavyA",
+          "n": "lepayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lepayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lepayitf",
+          "m": "lepayitA",
+          "f": "lepayitrI",
+          "n": "lepayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lepyamAna",
+          "m": "lepyamAnaH",
+          "f": "lepyamAnA",
+          "n": "lepyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "lepya",
+          "m": "lepyaH",
+          "f": "lepyA",
+          "n": "lepyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lepana",
+          "m": "",
+          "f": "",
+          "n": "lepanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lepaka",
+          "m": "lepakaH",
+          "f": "lepikA",
+          "n": "lepakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "lepayat",
+          "m": "lepayan",
+          "f": "lepayantI",
+          "n": "lepayat/lepayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lepayamAna",
+          "m": "lepayamAnaH",
+          "f": "lepayamAnA",
+          "n": "lepayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lepizyamARa",
+          "m": "lepizyamARaH",
+          "f": "lepizyamARA",
+          "n": "lepizyamARam"
+        },
+        {
+          "base": "lepayizyamARa",
+          "m": "lepayizyamARaH",
+          "f": "lepayizyamARA",
+          "n": "lepayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "lepayizyat",
+          "m": "lepayizyan",
+          "f": "lepayizyatI/lepayizyantI",
+          "n": "lepayizyat/lepayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lepayizyamARa",
+          "m": "lepayizyamARaH",
+          "f": "lepayizyamARA",
+          "n": "lepayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "lelepA",
+          "m": "",
+          "f": "lelepA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "lelepa",
+          "m": "lelepaH",
+          "f": "lelepA",
+          "n": "lelepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lelepanIya",
+          "m": "lelepanIyaH",
+          "f": "lelepanIyA",
+          "n": "lelepanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lelepita",
+          "m": "lelepitaH",
+          "f": "lelepitA",
+          "n": "lelepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lelepitavat",
+          "m": "lelepitavAn",
+          "f": "lelepitavatI",
+          "n": "lelepitavat/lelepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lelepti",
+          "m": "",
+          "f": "leleptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lelepitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lelepAmbaBUvas",
+          "m": "lelepAmbaBUvAn",
+          "f": "lelepAmbaBUzI",
+          "n": "lelepAmbaBUvat/lelepAmbaBUvad"
+        },
+        {
+          "base": "lelepAmAsivas",
+          "m": "lelepAmAsivAn",
+          "f": "lelepAmAsyuzI",
+          "n": "lelepAmAsivat/lelepAmAsivad"
+        },
+        {
+          "base": "lelepAYcakfvas",
+          "m": "lelepAYcakfvAn",
+          "f": "lelepAYcakruzI",
+          "n": "lelepAYcakfvat/lelepAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "lelepa",
+          "m": "lelepaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lelepyamAna",
+          "m": "lelepyamAnaH",
+          "f": "lelepyamAnA",
+          "n": "lelepyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lelepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lelepaka",
+          "m": "lelepakaH",
+          "f": "lelepikA",
+          "n": "lelepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lelepitavya",
+          "m": "lelepitavyaH",
+          "f": "lelepitavyA",
+          "n": "lelepitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lelepitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lelepitf",
+          "m": "lelepitA",
+          "f": "lelepitrI",
+          "n": "lelepitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lelepyamAna",
+          "m": "lelepyamAnaH",
+          "f": "lelepyamAnA",
+          "n": "lelepyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "lelepya",
+          "m": "lelepyaH",
+          "f": "lelepyA",
+          "n": "lelepyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralelepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lelepana",
+          "m": "",
+          "f": "",
+          "n": "lelepanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lelepaka",
+          "m": "lelepakaH",
+          "f": "lelepikA",
+          "n": "lelepakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lelepyamAna",
+          "m": "lelepyamAnaH",
+          "f": "lelepyamAnA",
+          "n": "lelepyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lelepizyamARa",
+          "m": "lelepizyamARaH",
+          "f": "lelepizyamARA",
+          "n": "lelepizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lelepizyamARa",
+          "m": "lelepizyamARaH",
+          "f": "lelepizyamARA",
+          "n": "lelepizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "lelepA",
+          "m": "",
+          "f": "lelepA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "lelepa",
+          "m": "lelepaH",
+          "f": "lelepA",
+          "n": "lelepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lelepanIya",
+          "m": "lelepanIyaH",
+          "f": "lelepanIyA",
+          "n": "lelepanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lelepita",
+          "m": "lelepitaH",
+          "f": "lelepitA",
+          "n": "lelepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lelepitavat",
+          "m": "lelepitavAn",
+          "f": "lelepitavatI",
+          "n": "lelepitavat/lelepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lelepti",
+          "m": "",
+          "f": "leleptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lelepitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lelepAmbaBUvas",
+          "m": "lelepAmbaBUvAn",
+          "f": "lelepAmbaBUzI",
+          "n": "lelepAmbaBUvat/lelepAmbaBUvad"
+        },
+        {
+          "base": "lelepAmAsivas",
+          "m": "lelepAmAsivAn",
+          "f": "lelepAmAsyuzI",
+          "n": "lelepAmAsivat/lelepAmAsivad"
+        },
+        {
+          "base": "lelepAYcakfvas",
+          "m": "lelepAYcakfvAn",
+          "f": "lelepAYcakruzI",
+          "n": "lelepAYcakfvat/lelepAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "lelepa",
+          "m": "lelepaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lelepAna",
+          "m": "lelepAnaH",
+          "f": "lelepAnA",
+          "n": "lelepAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lelepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lelepaka",
+          "m": "lelepakaH",
+          "f": "lelepikA",
+          "n": "lelepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lelepitavya",
+          "m": "lelepitavyaH",
+          "f": "lelepitavyA",
+          "n": "lelepitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lelepitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lelepitf",
+          "m": "lelepitA",
+          "f": "lelepitrI",
+          "n": "lelepitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lelepyamAna",
+          "m": "lelepyamAnaH",
+          "f": "lelepyamAnA",
+          "n": "lelepyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralelepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lelepana",
+          "m": "",
+          "f": "",
+          "n": "lelepanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lelepaka",
+          "m": "lelepakaH",
+          "f": "lelepikA",
+          "n": "lelepakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "lelepat",
+          "m": "lelepat/lelepad",
+          "f": "lelepatI",
+          "n": "lelepat/lelepad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lelepizyamARa",
+          "m": "lelepizyamARaH",
+          "f": "lelepizyamARA",
+          "n": "lelepizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "lelepizyat",
+          "m": "lelepizyan",
+          "f": "lelepizyatI/lelepizyantI",
+          "n": "lelepizyat/lelepizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "lep",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

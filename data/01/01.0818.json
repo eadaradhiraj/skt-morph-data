@@ -1,0 +1,2923 @@
+{
+  "id": "01.0818",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "visf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go"
+    },
+    {
+      "name": "hindI arTa",
+      "value": ""
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "ayaM DAtuH sidDAntakOmudyAM pAWitaH nAsti, parantu mADavIyaDAtuvfttyAm 1.817 pesf ityatra 'iha kvacit visf vesf piSf peSf ityapi paWyante' iti pAWaBedena ayaM DAtuH nirdizwaH asti ."
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "visyAt",
+        "visyAd",
+        "visyAstAm",
+        "visyAsuH",
+        "visyAH",
+        "visyAstam",
+        "visyAsta",
+        "visyAsam",
+        "visyAsva",
+        "visyAsma"
+      ],
+      "plang": [
+        "avesat",
+        "avesad",
+        "avesatAm",
+        "avesan",
+        "avesaH",
+        "avesatam",
+        "avesata",
+        "avesam",
+        "avesAva",
+        "avesAma"
+      ],
+      "plat": [
+        "vesati",
+        "vesataH",
+        "vesanti",
+        "vesasi",
+        "vesaTaH",
+        "vesaTa",
+        "vesAmi",
+        "vesAvaH",
+        "vesAmaH"
+      ],
+      "plit": [
+        "vivesa",
+        "vivisatuH",
+        "vivisuH",
+        "vivesiTa",
+        "vivisaTuH",
+        "vivisa",
+        "vivesa",
+        "vivisiva",
+        "vivisima"
+      ],
+      "plot": [
+        "vesatAt",
+        "vesatAd",
+        "vesatu",
+        "vesatAm",
+        "vesantu",
+        "vesa",
+        "vesatAt",
+        "vesatAd",
+        "vesatam",
+        "vesata",
+        "vesAni",
+        "vesAva",
+        "vesAma"
+      ],
+      "plrung": [
+        "avesizyat",
+        "avesizyad",
+        "avesizyatAm",
+        "avesizyan",
+        "avesizyaH",
+        "avesizyatam",
+        "avesizyata",
+        "avesizyam",
+        "avesizyAva",
+        "avesizyAma"
+      ],
+      "plrut": [
+        "vesizyati",
+        "vesizyataH",
+        "vesizyanti",
+        "vesizyasi",
+        "vesizyaTaH",
+        "vesizyaTa",
+        "vesizyAmi",
+        "vesizyAvaH",
+        "vesizyAmaH"
+      ],
+      "plung": [
+        "avesIt",
+        "avesId",
+        "avesizwAm",
+        "avesizuH",
+        "avesIH",
+        "avesizwam",
+        "avesizwa",
+        "avesizam",
+        "avesizva",
+        "avesizma"
+      ],
+      "plut": [
+        "vesitA",
+        "vesitArO",
+        "vesitAraH",
+        "vesitAsi",
+        "vesitAsTaH",
+        "vesitAsTa",
+        "vesitAsmi",
+        "vesitAsvaH",
+        "vesitAsmaH"
+      ],
+      "pvidhiling": [
+        "veset",
+        "vesed",
+        "vesetAm",
+        "veseyuH",
+        "veseH",
+        "vesetam",
+        "veseta",
+        "veseyam",
+        "veseva",
+        "vesema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "vesizIzwa",
+        "vesizIyAstAm",
+        "vesizIran",
+        "vesizIzWAH",
+        "vesizIyAsTAm",
+        "vesizIDvam",
+        "vesizIya",
+        "vesizIvahi",
+        "vesizImahi"
+      ],
+      "alang": [
+        "avisyata",
+        "avisyetAm",
+        "avisyanta",
+        "avisyaTAH",
+        "avisyeTAm",
+        "avisyaDvam",
+        "avisye",
+        "avisyAvahi",
+        "avisyAmahi"
+      ],
+      "alat": [
+        "visyate",
+        "visyete",
+        "visyante",
+        "visyase",
+        "visyeTe",
+        "visyaDve",
+        "visye",
+        "visyAvahe",
+        "visyAmahe"
+      ],
+      "alit": [
+        "vivise",
+        "vivisAte",
+        "vivisire",
+        "vivisize",
+        "vivisATe",
+        "vivisiDve",
+        "vivise",
+        "vivisivahe",
+        "vivisimahe"
+      ],
+      "alot": [
+        "visyatAm",
+        "visyetAm",
+        "visyantAm",
+        "visyasva",
+        "visyeTAm",
+        "visyaDvam",
+        "visyE",
+        "visyAvahE",
+        "visyAmahE"
+      ],
+      "alrung": [
+        "avesizyata",
+        "avesizyetAm",
+        "avesizyanta",
+        "avesizyaTAH",
+        "avesizyeTAm",
+        "avesizyaDvam",
+        "avesizye",
+        "avesizyAvahi",
+        "avesizyAmahi"
+      ],
+      "alrut": [
+        "vesizyate",
+        "vesizyete",
+        "vesizyante",
+        "vesizyase",
+        "vesizyeTe",
+        "vesizyaDve",
+        "vesizye",
+        "vesizyAvahe",
+        "vesizyAmahe"
+      ],
+      "alung": [
+        "avesi",
+        "avesizAtAm",
+        "avesizata",
+        "avesizWAH",
+        "avesizATAm",
+        "avesiDvam",
+        "avesizi",
+        "avesizvahi",
+        "avesizmahi"
+      ],
+      "alut": [
+        "vesitA",
+        "vesitArO",
+        "vesitAraH",
+        "vesitAse",
+        "vesitAsATe",
+        "vesitADve",
+        "vesitAhe",
+        "vesitAsvahe",
+        "vesitAsmahe"
+      ],
+      "avidhiling": [
+        "visyeta",
+        "visyeyAtAm",
+        "visyeran",
+        "visyeTAH",
+        "visyeyATAm",
+        "visyeDvam",
+        "visyeya",
+        "visyevahi",
+        "visyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "vivisizyAt",
+        "vivisizyAd",
+        "vivesizyAt",
+        "vivesizyAd",
+        "vivisizyAstAm",
+        "vivesizyAstAm",
+        "vivisizyAsuH",
+        "vivesizyAsuH",
+        "vivisizyAH",
+        "vivesizyAH",
+        "vivisizyAstam",
+        "vivesizyAstam",
+        "vivisizyAsta",
+        "vivesizyAsta",
+        "vivisizyAsam",
+        "vivesizyAsam",
+        "vivisizyAsva",
+        "vivesizyAsva",
+        "vivisizyAsma",
+        "vivesizyAsma"
+      ],
+      "plang": [
+        "avivisizat",
+        "avivisizad",
+        "avivesizat",
+        "avivesizad",
+        "avivisizatAm",
+        "avivesizatAm",
+        "avivisizan",
+        "avivesizan",
+        "avivisizaH",
+        "avivesizaH",
+        "avivisizatam",
+        "avivesizatam",
+        "avivisizata",
+        "avivesizata",
+        "avivisizam",
+        "avivesizam",
+        "avivisizAva",
+        "avivesizAva",
+        "avivisizAma",
+        "avivesizAma"
+      ],
+      "plat": [
+        "vivisizati",
+        "vivesizati",
+        "vivisizataH",
+        "vivesizataH",
+        "vivisizanti",
+        "vivesizanti",
+        "vivisizasi",
+        "vivesizasi",
+        "vivisizaTaH",
+        "vivesizaTaH",
+        "vivisizaTa",
+        "vivesizaTa",
+        "vivisizAmi",
+        "vivesizAmi",
+        "vivisizAvaH",
+        "vivesizAvaH",
+        "vivisizAmaH",
+        "vivesizAmaH"
+      ],
+      "plit": [
+        "vivisizAYcakAra",
+        "vivisizAmAsa",
+        "vivisizAmbaBUva",
+        "vivesizAYcakAra",
+        "vivesizAmAsa",
+        "vivesizAmbaBUva",
+        "vivisizAYcakratuH",
+        "vivisizAmAsatuH",
+        "vivisizAmbaBUvatuH",
+        "vivesizAYcakratuH",
+        "vivesizAmAsatuH",
+        "vivesizAmbaBUvatuH",
+        "vivisizAYcakruH",
+        "vivisizAmAsuH",
+        "vivisizAmbaBUvuH",
+        "vivesizAYcakruH",
+        "vivesizAmAsuH",
+        "vivesizAmbaBUvuH",
+        "vivisizAYcakarTa",
+        "vivisizAmAsiTa",
+        "vivisizAmbaBUviTa",
+        "vivesizAYcakarTa",
+        "vivesizAmAsiTa",
+        "vivesizAmbaBUviTa",
+        "vivisizAYcakraTuH",
+        "vivisizAmAsaTuH",
+        "vivisizAmbaBUvaTuH",
+        "vivesizAYcakraTuH",
+        "vivesizAmAsaTuH",
+        "vivesizAmbaBUvaTuH",
+        "vivisizAYcakra",
+        "vivisizAmAsa",
+        "vivisizAmbaBUva",
+        "vivesizAYcakra",
+        "vivesizAmAsa",
+        "vivesizAmbaBUva",
+        "vivisizAYcakara",
+        "vivisizAYcakAra",
+        "vivisizAmAsa",
+        "vivisizAmbaBUva",
+        "vivesizAYcakara",
+        "vivesizAYcakAra",
+        "vivesizAmAsa",
+        "vivesizAmbaBUva",
+        "vivisizAYcakfva",
+        "vivisizAmAsiva",
+        "vivisizAmbaBUviva",
+        "vivesizAYcakfva",
+        "vivesizAmAsiva",
+        "vivesizAmbaBUviva",
+        "vivisizAYcakfma",
+        "vivisizAmAsima",
+        "vivisizAmbaBUvima",
+        "vivesizAYcakfma",
+        "vivesizAmAsima",
+        "vivesizAmbaBUvima"
+      ],
+      "plot": [
+        "vivisizatAt",
+        "vivisizatAd",
+        "vivisizatu",
+        "vivesizatAt",
+        "vivesizatAd",
+        "vivesizatu",
+        "vivisizatAm",
+        "vivesizatAm",
+        "vivisizantu",
+        "vivesizantu",
+        "vivisiza",
+        "vivisizatAt",
+        "vivisizatAd",
+        "vivesiza",
+        "vivesizatAt",
+        "vivesizatAd",
+        "vivisizatam",
+        "vivesizatam",
+        "vivisizata",
+        "vivesizata",
+        "vivisizARi",
+        "vivesizARi",
+        "vivisizAva",
+        "vivesizAva",
+        "vivisizAma",
+        "vivesizAma"
+      ],
+      "plrung": [
+        "avivisizizyat",
+        "avivisizizyad",
+        "avivesizizyat",
+        "avivesizizyad",
+        "avivisizizyatAm",
+        "avivesizizyatAm",
+        "avivisizizyan",
+        "avivesizizyan",
+        "avivisizizyaH",
+        "avivesizizyaH",
+        "avivisizizyatam",
+        "avivesizizyatam",
+        "avivisizizyata",
+        "avivesizizyata",
+        "avivisizizyam",
+        "avivesizizyam",
+        "avivisizizyAva",
+        "avivesizizyAva",
+        "avivisizizyAma",
+        "avivesizizyAma"
+      ],
+      "plrut": [
+        "vivisizizyati",
+        "vivesizizyati",
+        "vivisizizyataH",
+        "vivesizizyataH",
+        "vivisizizyanti",
+        "vivesizizyanti",
+        "vivisizizyasi",
+        "vivesizizyasi",
+        "vivisizizyaTaH",
+        "vivesizizyaTaH",
+        "vivisizizyaTa",
+        "vivesizizyaTa",
+        "vivisizizyAmi",
+        "vivesizizyAmi",
+        "vivisizizyAvaH",
+        "vivesizizyAvaH",
+        "vivisizizyAmaH",
+        "vivesizizyAmaH"
+      ],
+      "plung": [
+        "avivisizIt",
+        "avivisizId",
+        "avivesizIt",
+        "avivesizId",
+        "avivisizizwAm",
+        "avivesizizwAm",
+        "avivisizizuH",
+        "avivesizizuH",
+        "avivisizIH",
+        "avivesizIH",
+        "avivisizizwam",
+        "avivesizizwam",
+        "avivisizizwa",
+        "avivesizizwa",
+        "avivisizizam",
+        "avivesizizam",
+        "avivisizizva",
+        "avivesizizva",
+        "avivisizizma",
+        "avivesizizma"
+      ],
+      "plut": [
+        "vivisizitA",
+        "vivesizitA",
+        "vivisizitArO",
+        "vivesizitArO",
+        "vivisizitAraH",
+        "vivesizitAraH",
+        "vivisizitAsi",
+        "vivesizitAsi",
+        "vivisizitAsTaH",
+        "vivesizitAsTaH",
+        "vivisizitAsTa",
+        "vivesizitAsTa",
+        "vivisizitAsmi",
+        "vivesizitAsmi",
+        "vivisizitAsvaH",
+        "vivesizitAsvaH",
+        "vivisizitAsmaH",
+        "vivesizitAsmaH"
+      ],
+      "pvidhiling": [
+        "vivisizet",
+        "vivisized",
+        "vivesizet",
+        "vivesized",
+        "vivisizetAm",
+        "vivesizetAm",
+        "vivisizeyuH",
+        "vivesizeyuH",
+        "vivisizeH",
+        "vivesizeH",
+        "vivisizetam",
+        "vivesizetam",
+        "vivisizeta",
+        "vivesizeta",
+        "vivisizeyam",
+        "vivesizeyam",
+        "vivisizeva",
+        "vivesizeva",
+        "vivisizema",
+        "vivesizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "vivisizizIzwa",
+        "vivesizizIzwa",
+        "vivisizizIyAstAm",
+        "vivesizizIyAstAm",
+        "vivisizizIran",
+        "vivesizizIran",
+        "vivisizizIzWAH",
+        "vivesizizIzWAH",
+        "vivisizizIyAsTAm",
+        "vivesizizIyAsTAm",
+        "vivisizizIDvam",
+        "vivesizizIDvam",
+        "vivisizizIya",
+        "vivesizizIya",
+        "vivisizizIvahi",
+        "vivesizizIvahi",
+        "vivisizizImahi",
+        "vivesizizImahi"
+      ],
+      "alang": [
+        "avivisizyata",
+        "avivesizyata",
+        "avivisizyetAm",
+        "avivesizyetAm",
+        "avivisizyanta",
+        "avivesizyanta",
+        "avivisizyaTAH",
+        "avivesizyaTAH",
+        "avivisizyeTAm",
+        "avivesizyeTAm",
+        "avivisizyaDvam",
+        "avivesizyaDvam",
+        "avivisizye",
+        "avivesizye",
+        "avivisizyAvahi",
+        "avivesizyAvahi",
+        "avivisizyAmahi",
+        "avivesizyAmahi"
+      ],
+      "alat": [
+        "vivisizyate",
+        "vivesizyate",
+        "vivisizyete",
+        "vivesizyete",
+        "vivisizyante",
+        "vivesizyante",
+        "vivisizyase",
+        "vivesizyase",
+        "vivisizyeTe",
+        "vivesizyeTe",
+        "vivisizyaDve",
+        "vivesizyaDve",
+        "vivisizye",
+        "vivesizye",
+        "vivisizyAvahe",
+        "vivesizyAvahe",
+        "vivisizyAmahe",
+        "vivesizyAmahe"
+      ],
+      "alit": [
+        "vivisizAYcakre",
+        "vivisizAmAse",
+        "vivisizAmbaBUve",
+        "vivesizAYcakre",
+        "vivesizAmAse",
+        "vivesizAmbaBUve",
+        "vivisizAYcakrAte",
+        "vivisizAmAsAte",
+        "vivisizAmbaBUvAte",
+        "vivesizAYcakrAte",
+        "vivesizAmAsAte",
+        "vivesizAmbaBUvAte",
+        "vivisizAYcakrire",
+        "vivisizAmAsire",
+        "vivisizAmbaBUvire",
+        "vivesizAYcakrire",
+        "vivesizAmAsire",
+        "vivesizAmbaBUvire",
+        "vivisizAYcakfze",
+        "vivisizAmAsize",
+        "vivisizAmbaBUvize",
+        "vivesizAYcakfze",
+        "vivesizAmAsize",
+        "vivesizAmbaBUvize",
+        "vivisizAYcakrATe",
+        "vivisizAmAsATe",
+        "vivisizAmbaBUvATe",
+        "vivesizAYcakrATe",
+        "vivesizAmAsATe",
+        "vivesizAmbaBUvATe",
+        "vivisizAYcakfQve",
+        "vivisizAmAsiDve",
+        "vivisizAmbaBUviQve",
+        "vivesizAYcakfQve",
+        "vivesizAmAsiDve",
+        "vivesizAmbaBUviQve",
+        "vivisizAYcakre",
+        "vivisizAmAhe",
+        "vivisizAmbaBUve",
+        "vivesizAYcakre",
+        "vivesizAmAhe",
+        "vivesizAmbaBUve",
+        "vivisizAYcakfvahe",
+        "vivisizAmAsivahe",
+        "vivisizAmbaBUvivahe",
+        "vivesizAYcakfvahe",
+        "vivesizAmAsivahe",
+        "vivesizAmbaBUvivahe",
+        "vivisizAYcakfmahe",
+        "vivisizAmAsimahe",
+        "vivisizAmbaBUvimahe",
+        "vivesizAYcakfmahe",
+        "vivesizAmAsimahe",
+        "vivesizAmbaBUvimahe"
+      ],
+      "alot": [
+        "vivisizyatAm",
+        "vivesizyatAm",
+        "vivisizyetAm",
+        "vivesizyetAm",
+        "vivisizyantAm",
+        "vivesizyantAm",
+        "vivisizyasva",
+        "vivesizyasva",
+        "vivisizyeTAm",
+        "vivesizyeTAm",
+        "vivisizyaDvam",
+        "vivesizyaDvam",
+        "vivisizyE",
+        "vivesizyE",
+        "vivisizyAvahE",
+        "vivesizyAvahE",
+        "vivisizyAmahE",
+        "vivesizyAmahE"
+      ],
+      "alrung": [
+        "avivisizizyata",
+        "avivesizizyata",
+        "avivisizizyetAm",
+        "avivesizizyetAm",
+        "avivisizizyanta",
+        "avivesizizyanta",
+        "avivisizizyaTAH",
+        "avivesizizyaTAH",
+        "avivisizizyeTAm",
+        "avivesizizyeTAm",
+        "avivisizizyaDvam",
+        "avivesizizyaDvam",
+        "avivisizizye",
+        "avivesizizye",
+        "avivisizizyAvahi",
+        "avivesizizyAvahi",
+        "avivisizizyAmahi",
+        "avivesizizyAmahi"
+      ],
+      "alrut": [
+        "vivisizizyate",
+        "vivesizizyate",
+        "vivisizizyete",
+        "vivesizizyete",
+        "vivisizizyante",
+        "vivesizizyante",
+        "vivisizizyase",
+        "vivesizizyase",
+        "vivisizizyeTe",
+        "vivesizizyeTe",
+        "vivisizizyaDve",
+        "vivesizizyaDve",
+        "vivisizizye",
+        "vivesizizye",
+        "vivisizizyAvahe",
+        "vivesizizyAvahe",
+        "vivisizizyAmahe",
+        "vivesizizyAmahe"
+      ],
+      "alung": [
+        "avivisizi",
+        "avivesizi",
+        "avivisizizAtAm",
+        "avivesizizAtAm",
+        "avivisizizata",
+        "avivesizizata",
+        "avivisizizWAH",
+        "avivesizizWAH",
+        "avivisizizATAm",
+        "avivesizizATAm",
+        "avivisiziDvam",
+        "avivesiziDvam",
+        "avivisizizi",
+        "avivesizizi",
+        "avivisizizvahi",
+        "avivesizizvahi",
+        "avivisizizmahi",
+        "avivesizizmahi"
+      ],
+      "alut": [
+        "vivisizitA",
+        "vivesizitA",
+        "vivisizitArO",
+        "vivesizitArO",
+        "vivisizitAraH",
+        "vivesizitAraH",
+        "vivisizitAse",
+        "vivesizitAse",
+        "vivisizitAsATe",
+        "vivesizitAsATe",
+        "vivisizitADve",
+        "vivesizitADve",
+        "vivisizitAhe",
+        "vivesizitAhe",
+        "vivisizitAsvahe",
+        "vivesizitAsvahe",
+        "vivisizitAsmahe",
+        "vivesizitAsmahe"
+      ],
+      "avidhiling": [
+        "vivisizyeta",
+        "vivesizyeta",
+        "vivisizyeyAtAm",
+        "vivesizyeyAtAm",
+        "vivisizyeran",
+        "vivesizyeran",
+        "vivisizyeTAH",
+        "vivesizyeTAH",
+        "vivisizyeyATAm",
+        "vivesizyeyATAm",
+        "vivisizyeDvam",
+        "vivesizyeDvam",
+        "vivisizyeya",
+        "vivesizyeya",
+        "vivisizyevahi",
+        "vivesizyevahi",
+        "vivisizyemahi",
+        "vivesizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "vesayizIzwa",
+        "vesayizIyAstAm",
+        "vesayizIran",
+        "vesayizIzWAH",
+        "vesayizIyAsTAm",
+        "vesayizIQvam",
+        "vesayizIDvam",
+        "vesayizIya",
+        "vesayizIvahi",
+        "vesayizImahi"
+      ],
+      "alang": [
+        "avesayata",
+        "avesayetAm",
+        "avesayanta",
+        "avesayaTAH",
+        "avesayeTAm",
+        "avesayaDvam",
+        "avesaye",
+        "avesayAvahi",
+        "avesayAmahi"
+      ],
+      "alat": [
+        "vesayate",
+        "vesayete",
+        "vesayante",
+        "vesayase",
+        "vesayeTe",
+        "vesayaDve",
+        "vesaye",
+        "vesayAvahe",
+        "vesayAmahe"
+      ],
+      "alit": [
+        "vesayAYcakre",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakrAte",
+        "vesayAmAsatuH",
+        "vesayAmbaBUvatuH",
+        "vesayAYcakrire",
+        "vesayAmAsuH",
+        "vesayAmbaBUvuH",
+        "vesayAYcakfze",
+        "vesayAmAsiTa",
+        "vesayAmbaBUviTa",
+        "vesayAYcakrATe",
+        "vesayAmAsaTuH",
+        "vesayAmbaBUvaTuH",
+        "vesayAYcakfQve",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakre",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakfvahe",
+        "vesayAmAsiva",
+        "vesayAmbaBUviva",
+        "vesayAYcakfmahe",
+        "vesayAmAsima",
+        "vesayAmbaBUvima"
+      ],
+      "alot": [
+        "vesayatAm",
+        "vesayetAm",
+        "vesayantAm",
+        "vesayasva",
+        "vesayeTAm",
+        "vesayaDvam",
+        "vesayE",
+        "vesayAvahE",
+        "vesayAmahE"
+      ],
+      "alrung": [
+        "avesayizyata",
+        "avesayizyetAm",
+        "avesayizyanta",
+        "avesayizyaTAH",
+        "avesayizyeTAm",
+        "avesayizyaDvam",
+        "avesayizye",
+        "avesayizyAvahi",
+        "avesayizyAmahi"
+      ],
+      "alrut": [
+        "vesayizyate",
+        "vesayizyete",
+        "vesayizyante",
+        "vesayizyase",
+        "vesayizyeTe",
+        "vesayizyaDve",
+        "vesayizye",
+        "vesayizyAvahe",
+        "vesayizyAmahe"
+      ],
+      "alung": [
+        "avivesata",
+        "avivesetAm",
+        "avivesanta",
+        "avivesaTAH",
+        "aviveseTAm",
+        "avivesaDvam",
+        "avivese",
+        "avivesAvahi",
+        "avivesAmahi"
+      ],
+      "alut": [
+        "vesayitA",
+        "vesayitArO",
+        "vesayitAraH",
+        "vesayitAse",
+        "vesayitAsATe",
+        "vesayitADve",
+        "vesayitAhe",
+        "vesayitAsvahe",
+        "vesayitAsmahe"
+      ],
+      "avidhiling": [
+        "vesayeta",
+        "vesayeyAtAm",
+        "vesayeran",
+        "vesayeTAH",
+        "vesayeyATAm",
+        "vesayeDvam",
+        "vesayeya",
+        "vesayevahi",
+        "vesayemahi"
+      ],
+      "pashirling": [
+        "vesyAt",
+        "vesyAd",
+        "vesyAstAm",
+        "vesyAsuH",
+        "vesyAH",
+        "vesyAstam",
+        "vesyAsta",
+        "vesyAsam",
+        "vesyAsva",
+        "vesyAsma"
+      ],
+      "plang": [
+        "avesayat",
+        "avesayad",
+        "avesayatAm",
+        "avesayan",
+        "avesayaH",
+        "avesayatam",
+        "avesayata",
+        "avesayam",
+        "avesayAva",
+        "avesayAma"
+      ],
+      "plat": [
+        "vesayati",
+        "vesayataH",
+        "vesayanti",
+        "vesayasi",
+        "vesayaTaH",
+        "vesayaTa",
+        "vesayAmi",
+        "vesayAvaH",
+        "vesayAmaH"
+      ],
+      "plit": [
+        "vesayAYcakAra",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakratuH",
+        "vesayAmAsatuH",
+        "vesayAmbaBUvatuH",
+        "vesayAYcakruH",
+        "vesayAmAsuH",
+        "vesayAmbaBUvuH",
+        "vesayAYcakarTa",
+        "vesayAmAsiTa",
+        "vesayAmbaBUviTa",
+        "vesayAYcakraTuH",
+        "vesayAmAsaTuH",
+        "vesayAmbaBUvaTuH",
+        "vesayAYcakra",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakara",
+        "vesayAYcakAra",
+        "vesayAmAsa",
+        "vesayAmbaBUva",
+        "vesayAYcakfva",
+        "vesayAmAsiva",
+        "vesayAmbaBUviva",
+        "vesayAYcakfma",
+        "vesayAmAsima",
+        "vesayAmbaBUvima"
+      ],
+      "plot": [
+        "vesayatAt",
+        "vesayatAd",
+        "vesayatu",
+        "vesayatAm",
+        "vesayantu",
+        "vesaya",
+        "vesayatAt",
+        "vesayatAd",
+        "vesayatam",
+        "vesayata",
+        "vesayAni",
+        "vesayAva",
+        "vesayAma"
+      ],
+      "plrung": [
+        "avesayizyat",
+        "avesayizyad",
+        "avesayizyatAm",
+        "avesayizyan",
+        "avesayizyaH",
+        "avesayizyatam",
+        "avesayizyata",
+        "avesayizyam",
+        "avesayizyAva",
+        "avesayizyAma"
+      ],
+      "plrut": [
+        "vesayizyati",
+        "vesayizyataH",
+        "vesayizyanti",
+        "vesayizyasi",
+        "vesayizyaTaH",
+        "vesayizyaTa",
+        "vesayizyAmi",
+        "vesayizyAvaH",
+        "vesayizyAmaH"
+      ],
+      "plung": [
+        "avivesat",
+        "avivesad",
+        "avivesatAm",
+        "avivesan",
+        "avivesaH",
+        "avivesatam",
+        "avivesata",
+        "avivesam",
+        "avivesAva",
+        "avivesAma"
+      ],
+      "plut": [
+        "vesayitA",
+        "vesayitArO",
+        "vesayitAraH",
+        "vesayitAsi",
+        "vesayitAsTaH",
+        "vesayitAsTa",
+        "vesayitAsmi",
+        "vesayitAsvaH",
+        "vesayitAsmaH"
+      ],
+      "pvidhiling": [
+        "vesayet",
+        "vesayed",
+        "vesayetAm",
+        "vesayeyuH",
+        "vesayeH",
+        "vesayetam",
+        "vesayeta",
+        "vesayeyam",
+        "vesayeva",
+        "vesayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "vesayizIzwa",
+        "vesizIzwa",
+        "vesayizIyAstAm",
+        "vesizIyAstAm",
+        "vesayizIran",
+        "vesizIran",
+        "vesayizIzWAH",
+        "vesizIzWAH",
+        "vesayizIyAsTAm",
+        "vesizIyAsTAm",
+        "vesayizIQvam",
+        "vesayizIDvam",
+        "vesizIDvam",
+        "vesayizIya",
+        "vesizIya",
+        "vesayizIvahi",
+        "vesizIvahi",
+        "vesayizImahi",
+        "vesizImahi"
+      ],
+      "alang": [
+        "avesyata",
+        "avesyetAm",
+        "avesyanta",
+        "avesyaTAH",
+        "avesyeTAm",
+        "avesyaDvam",
+        "avesye",
+        "avesyAvahi",
+        "avesyAmahi"
+      ],
+      "alat": [
+        "vesyate",
+        "vesyete",
+        "vesyante",
+        "vesyase",
+        "vesyeTe",
+        "vesyaDve",
+        "vesye",
+        "vesyAvahe",
+        "vesyAmahe"
+      ],
+      "alit": [
+        "vesayAYcakre",
+        "vesayAmAse",
+        "vesayAmbaBUve",
+        "vesayAYcakrAte",
+        "vesayAmAsAte",
+        "vesayAmbaBUvAte",
+        "vesayAYcakrire",
+        "vesayAmAsire",
+        "vesayAmbaBUvire",
+        "vesayAYcakfze",
+        "vesayAmAsize",
+        "vesayAmbaBUvize",
+        "vesayAYcakrATe",
+        "vesayAmAsATe",
+        "vesayAmbaBUvATe",
+        "vesayAYcakfQve",
+        "vesayAmAsiDve",
+        "vesayAmbaBUviQve",
+        "vesayAYcakre",
+        "vesayAmAhe",
+        "vesayAmbaBUve",
+        "vesayAYcakfvahe",
+        "vesayAmAsivahe",
+        "vesayAmbaBUvivahe",
+        "vesayAYcakfmahe",
+        "vesayAmAsimahe",
+        "vesayAmbaBUvimahe"
+      ],
+      "alot": [
+        "vesyatAm",
+        "vesyetAm",
+        "vesyantAm",
+        "vesyasva",
+        "vesyeTAm",
+        "vesyaDvam",
+        "vesyE",
+        "vesyAvahE",
+        "vesyAmahE"
+      ],
+      "alrung": [
+        "avesayizyata",
+        "avesizyata",
+        "avesayizyetAm",
+        "avesizyetAm",
+        "avesayizyanta",
+        "avesizyanta",
+        "avesayizyaTAH",
+        "avesizyaTAH",
+        "avesayizyeTAm",
+        "avesizyeTAm",
+        "avesayizyaDvam",
+        "avesizyaDvam",
+        "avesayizye",
+        "avesizye",
+        "avesayizyAvahi",
+        "avesizyAvahi",
+        "avesayizyAmahi",
+        "avesizyAmahi"
+      ],
+      "alrut": [
+        "vesayizyate",
+        "vesizyate",
+        "vesayizyete",
+        "vesizyete",
+        "vesayizyante",
+        "vesizyante",
+        "vesayizyase",
+        "vesizyase",
+        "vesayizyeTe",
+        "vesizyeTe",
+        "vesayizyaDve",
+        "vesizyaDve",
+        "vesayizye",
+        "vesizye",
+        "vesayizyAvahe",
+        "vesizyAvahe",
+        "vesayizyAmahe",
+        "vesizyAmahe"
+      ],
+      "alung": [
+        "avesi",
+        "avesayizAtAm",
+        "avesizAtAm",
+        "avesayizata",
+        "avesizata",
+        "avesayizWAH",
+        "avesizWAH",
+        "avesayizATAm",
+        "avesizATAm",
+        "avesayiQvam",
+        "avesayiDvam",
+        "avesiDvam",
+        "avesayizi",
+        "avesizi",
+        "avesayizvahi",
+        "avesizvahi",
+        "avesayizmahi",
+        "avesizmahi"
+      ],
+      "alut": [
+        "vesayitA",
+        "vesitA",
+        "vesayitArO",
+        "vesitArO",
+        "vesayitAraH",
+        "vesitAraH",
+        "vesayitAse",
+        "vesitAse",
+        "vesayitAsATe",
+        "vesitAsATe",
+        "vesayitADve",
+        "vesitADve",
+        "vesayitAhe",
+        "vesitAhe",
+        "vesayitAsvahe",
+        "vesitAsvahe",
+        "vesayitAsmahe",
+        "vesitAsmahe"
+      ],
+      "avidhiling": [
+        "vesyeta",
+        "vesyeyAtAm",
+        "vesyeran",
+        "vesyeTAH",
+        "vesyeyATAm",
+        "vesyeDvam",
+        "vesyeya",
+        "vesyevahi",
+        "vesyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "vevisizIzwa",
+        "vevisizIyAstAm",
+        "vevisizIran",
+        "vevisizIzWAH",
+        "vevisizIyAsTAm",
+        "vevisizIDvam",
+        "vevisizIya",
+        "vevisizIvahi",
+        "vevisizImahi"
+      ],
+      "alang": [
+        "avevisyata",
+        "avevisyetAm",
+        "avevisyanta",
+        "avevisyaTAH",
+        "avevisyeTAm",
+        "avevisyaDvam",
+        "avevisye",
+        "avevisyAvahi",
+        "avevisyAmahi"
+      ],
+      "alat": [
+        "vevisyate",
+        "vevisyete",
+        "vevisyante",
+        "vevisyase",
+        "vevisyeTe",
+        "vevisyaDve",
+        "vevisye",
+        "vevisyAvahe",
+        "vevisyAmahe"
+      ],
+      "alit": [
+        "vevisAYcakre",
+        "vevisAmAsa",
+        "vevisAmbaBUva",
+        "vevisAYcakrAte",
+        "vevisAmAsatuH",
+        "vevisAmbaBUvatuH",
+        "vevisAYcakrire",
+        "vevisAmAsuH",
+        "vevisAmbaBUvuH",
+        "vevisAYcakfze",
+        "vevisAmAsiTa",
+        "vevisAmbaBUviTa",
+        "vevisAYcakrATe",
+        "vevisAmAsaTuH",
+        "vevisAmbaBUvaTuH",
+        "vevisAYcakfQve",
+        "vevisAmAsa",
+        "vevisAmbaBUva",
+        "vevisAYcakre",
+        "vevisAmAsa",
+        "vevisAmbaBUva",
+        "vevisAYcakfvahe",
+        "vevisAmAsiva",
+        "vevisAmbaBUviva",
+        "vevisAYcakfmahe",
+        "vevisAmAsima",
+        "vevisAmbaBUvima"
+      ],
+      "alot": [
+        "vevisyatAm",
+        "vevisyetAm",
+        "vevisyantAm",
+        "vevisyasva",
+        "vevisyeTAm",
+        "vevisyaDvam",
+        "vevisyE",
+        "vevisyAvahE",
+        "vevisyAmahE"
+      ],
+      "alrung": [
+        "avevisizyata",
+        "avevisizyetAm",
+        "avevisizyanta",
+        "avevisizyaTAH",
+        "avevisizyeTAm",
+        "avevisizyaDvam",
+        "avevisizye",
+        "avevisizyAvahi",
+        "avevisizyAmahi"
+      ],
+      "alrut": [
+        "vevisizyate",
+        "vevisizyete",
+        "vevisizyante",
+        "vevisizyase",
+        "vevisizyeTe",
+        "vevisizyaDve",
+        "vevisizye",
+        "vevisizyAvahe",
+        "vevisizyAmahe"
+      ],
+      "alung": [
+        "avevisizwa",
+        "avevisizAtAm",
+        "avevisizata",
+        "avevisizWAH",
+        "avevisizATAm",
+        "avevisiDvam",
+        "avevisizi",
+        "avevisizvahi",
+        "avevisizmahi"
+      ],
+      "alut": [
+        "vevisitA",
+        "vevisitArO",
+        "vevisitAraH",
+        "vevisitAse",
+        "vevisitAsATe",
+        "vevisitADve",
+        "vevisitAhe",
+        "vevisitAsvahe",
+        "vevisitAsmahe"
+      ],
+      "avidhiling": [
+        "vevisyeta",
+        "vevisyeyAtAm",
+        "vevisyeran",
+        "vevisyeTAH",
+        "vevisyeyATAm",
+        "vevisyeDvam",
+        "vevisyeya",
+        "vevisyevahi",
+        "vevisyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "vevisizIzwa",
+        "vevisizIyAstAm",
+        "vevisizIran",
+        "vevisizIzWAH",
+        "vevisizIyAsTAm",
+        "vevisizIDvam",
+        "vevisizIya",
+        "vevisizIvahi",
+        "vevisizImahi"
+      ],
+      "alang": [
+        "avevisyata",
+        "avevisyetAm",
+        "avevisyanta",
+        "avevisyaTAH",
+        "avevisyeTAm",
+        "avevisyaDvam",
+        "avevisye",
+        "avevisyAvahi",
+        "avevisyAmahi"
+      ],
+      "alat": [
+        "vevisyate",
+        "vevisyete",
+        "vevisyante",
+        "vevisyase",
+        "vevisyeTe",
+        "vevisyaDve",
+        "vevisye",
+        "vevisyAvahe",
+        "vevisyAmahe"
+      ],
+      "alit": [
+        "vevisAYcakre",
+        "vevisAmAse",
+        "vevisAmbaBUve",
+        "vevisAYcakrAte",
+        "vevisAmAsAte",
+        "vevisAmbaBUvAte",
+        "vevisAYcakrire",
+        "vevisAmAsire",
+        "vevisAmbaBUvire",
+        "vevisAYcakfze",
+        "vevisAmAsize",
+        "vevisAmbaBUvize",
+        "vevisAYcakrATe",
+        "vevisAmAsATe",
+        "vevisAmbaBUvATe",
+        "vevisAYcakfQve",
+        "vevisAmAsiDve",
+        "vevisAmbaBUviQve",
+        "vevisAYcakre",
+        "vevisAmAhe",
+        "vevisAmbaBUve",
+        "vevisAYcakfvahe",
+        "vevisAmAsivahe",
+        "vevisAmbaBUvivahe",
+        "vevisAYcakfmahe",
+        "vevisAmAsimahe",
+        "vevisAmbaBUvimahe"
+      ],
+      "alot": [
+        "vevisyatAm",
+        "vevisyetAm",
+        "vevisyantAm",
+        "vevisyasva",
+        "vevisyeTAm",
+        "vevisyaDvam",
+        "vevisyE",
+        "vevisyAvahE",
+        "vevisyAmahE"
+      ],
+      "alrung": [
+        "avevisizyata",
+        "avevisizyetAm",
+        "avevisizyanta",
+        "avevisizyaTAH",
+        "avevisizyeTAm",
+        "avevisizyaDvam",
+        "avevisizye",
+        "avevisizyAvahi",
+        "avevisizyAmahi"
+      ],
+      "alrut": [
+        "vevisizyate",
+        "vevisizyete",
+        "vevisizyante",
+        "vevisizyase",
+        "vevisizyeTe",
+        "vevisizyaDve",
+        "vevisizye",
+        "vevisizyAvahe",
+        "vevisizyAmahe"
+      ],
+      "alung": [
+        "avevisi",
+        "avevisizAtAm",
+        "avevisizata",
+        "avevisizWAH",
+        "avevisizATAm",
+        "avevisiDvam",
+        "avevisizi",
+        "avevisizvahi",
+        "avevisizmahi"
+      ],
+      "alut": [
+        "vevisitA",
+        "vevisitArO",
+        "vevisitAraH",
+        "vevisitAse",
+        "vevisitAsATe",
+        "vevisitADve",
+        "vevisitAhe",
+        "vevisitAsvahe",
+        "vevisitAsmahe"
+      ],
+      "avidhiling": [
+        "vevisyeta",
+        "vevisyeyAtAm",
+        "vevisyeran",
+        "vevisyeTAH",
+        "vevisyeyATAm",
+        "vevisyeDvam",
+        "vevisyeya",
+        "vevisyevahi",
+        "vevisyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "vevisyAt",
+        "vevisyAd",
+        "vevisyAstAm",
+        "vevisyAsuH",
+        "vevisyAH",
+        "vevisyAstam",
+        "vevisyAsta",
+        "vevisyAsam",
+        "vevisyAsva",
+        "vevisyAsma"
+      ],
+      "plang": [
+        "avevisIt",
+        "avevisId",
+        "avevet",
+        "aveved",
+        "avevistAm",
+        "avevisuH",
+        "avevisIH",
+        "aveveH",
+        "avevet",
+        "aveved",
+        "avevistam",
+        "avevista",
+        "avevisam",
+        "avevisva",
+        "avevisma"
+      ],
+      "plat": [
+        "vevisIti",
+        "vevesti",
+        "vevistaH",
+        "vevisati",
+        "vevisIzi",
+        "vevezzi",
+        "vevisTaH",
+        "vevisTa",
+        "vevisImi",
+        "vevesmi",
+        "vevisvaH",
+        "vevismaH"
+      ],
+      "plit": [
+        "vevesAYcakAra",
+        "vevesAmAsa",
+        "vevesAmbaBUva",
+        "vevesAYcakratuH",
+        "vevesAmAsatuH",
+        "vevesAmbaBUvatuH",
+        "vevesAYcakruH",
+        "vevesAmAsuH",
+        "vevesAmbaBUvuH",
+        "vevesAYcakarTa",
+        "vevesAmAsiTa",
+        "vevesAmbaBUviTa",
+        "vevesAYcakraTuH",
+        "vevesAmAsaTuH",
+        "vevesAmbaBUvaTuH",
+        "vevesAYcakra",
+        "vevesAmAsa",
+        "vevesAmbaBUva",
+        "vevesAYcakara",
+        "vevesAYcakAra",
+        "vevesAmAsa",
+        "vevesAmbaBUva",
+        "vevesAYcakfva",
+        "vevesAmAsiva",
+        "vevesAmbaBUviva",
+        "vevesAYcakfma",
+        "vevesAmAsima",
+        "vevesAmbaBUvima"
+      ],
+      "plot": [
+        "vevisItu",
+        "vevistAt",
+        "vevistAd",
+        "vevestu",
+        "vevistAm",
+        "vevisatu",
+        "veviDi",
+        "vevistAt",
+        "vevistAd",
+        "vevistam",
+        "vevista",
+        "vevisAni",
+        "vevisAva",
+        "vevisAma"
+      ],
+      "plrung": [
+        "avevesizyat",
+        "avevesizyad",
+        "avevesizyatAm",
+        "avevesizyan",
+        "avevesizyaH",
+        "avevesizyatam",
+        "avevesizyata",
+        "avevesizyam",
+        "avevesizyAva",
+        "avevesizyAma"
+      ],
+      "plrut": [
+        "vevesizyati",
+        "vevesizyataH",
+        "vevesizyanti",
+        "vevesizyasi",
+        "vevesizyaTaH",
+        "vevesizyaTa",
+        "vevesizyAmi",
+        "vevesizyAvaH",
+        "vevesizyAmaH"
+      ],
+      "plung": [
+        "avevesIt",
+        "avevesId",
+        "avevesizwAm",
+        "avevesizuH",
+        "avevesIH",
+        "avevesizwam",
+        "avevesizwa",
+        "avevesizam",
+        "avevesizva",
+        "avevesizma"
+      ],
+      "plut": [
+        "vevesitA",
+        "vevesitArO",
+        "vevesitAraH",
+        "vevesitAsi",
+        "vevesitAsTaH",
+        "vevesitAsTa",
+        "vevesitAsmi",
+        "vevesitAsvaH",
+        "vevesitAsmaH"
+      ],
+      "pvidhiling": [
+        "vevisyAt",
+        "vevisyAd",
+        "vevisyAtAm",
+        "vevisyuH",
+        "vevisyAH",
+        "vevisyAtam",
+        "vevisyAta",
+        "vevisyAm",
+        "vevisyAva",
+        "vevisyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "vevesizIzwa",
+        "vevesizIyAstAm",
+        "vevesizIran",
+        "vevesizIzWAH",
+        "vevesizIyAsTAm",
+        "vevesizIDvam",
+        "vevesizIya",
+        "vevesizIvahi",
+        "vevesizImahi"
+      ],
+      "alang": [
+        "avevisyata",
+        "avevisyetAm",
+        "avevisyanta",
+        "avevisyaTAH",
+        "avevisyeTAm",
+        "avevisyaDvam",
+        "avevisye",
+        "avevisyAvahi",
+        "avevisyAmahi"
+      ],
+      "alat": [
+        "vevisyate",
+        "vevisyete",
+        "vevisyante",
+        "vevisyase",
+        "vevisyeTe",
+        "vevisyaDve",
+        "vevisye",
+        "vevisyAvahe",
+        "vevisyAmahe"
+      ],
+      "alit": [
+        "vevesAYcakre",
+        "vevesAmAse",
+        "vevesAmbaBUve",
+        "vevesAYcakrAte",
+        "vevesAmAsAte",
+        "vevesAmbaBUvAte",
+        "vevesAYcakrire",
+        "vevesAmAsire",
+        "vevesAmbaBUvire",
+        "vevesAYcakfze",
+        "vevesAmAsize",
+        "vevesAmbaBUvize",
+        "vevesAYcakrATe",
+        "vevesAmAsATe",
+        "vevesAmbaBUvATe",
+        "vevesAYcakfQve",
+        "vevesAmAsiDve",
+        "vevesAmbaBUviQve",
+        "vevesAYcakre",
+        "vevesAmAhe",
+        "vevesAmbaBUve",
+        "vevesAYcakfvahe",
+        "vevesAmAsivahe",
+        "vevesAmbaBUvivahe",
+        "vevesAYcakfmahe",
+        "vevesAmAsimahe",
+        "vevesAmbaBUvimahe"
+      ],
+      "alot": [
+        "vevisyatAm",
+        "vevisyetAm",
+        "vevisyantAm",
+        "vevisyasva",
+        "vevisyeTAm",
+        "vevisyaDvam",
+        "vevisyE",
+        "vevisyAvahE",
+        "vevisyAmahE"
+      ],
+      "alrung": [
+        "avevesizyata",
+        "avevesizyetAm",
+        "avevesizyanta",
+        "avevesizyaTAH",
+        "avevesizyeTAm",
+        "avevesizyaDvam",
+        "avevesizye",
+        "avevesizyAvahi",
+        "avevesizyAmahi"
+      ],
+      "alrut": [
+        "vevesizyate",
+        "vevesizyete",
+        "vevesizyante",
+        "vevesizyase",
+        "vevesizyeTe",
+        "vevesizyaDve",
+        "vevesizye",
+        "vevesizyAvahe",
+        "vevesizyAmahe"
+      ],
+      "alung": [
+        "avevesi",
+        "avevesizAtAm",
+        "avevesizata",
+        "avevesizWAH",
+        "avevesizATAm",
+        "avevesiDvam",
+        "avevesizi",
+        "avevesizvahi",
+        "avevesizmahi"
+      ],
+      "alut": [
+        "vevesitA",
+        "vevesitArO",
+        "vevesitAraH",
+        "vevesitAse",
+        "vevesitAsATe",
+        "vevesitADve",
+        "vevesitAhe",
+        "vevesitAsvahe",
+        "vevesitAsmahe"
+      ],
+      "avidhiling": [
+        "vevisyeta",
+        "vevisyeyAtAm",
+        "vevisyeran",
+        "vevisyeTAH",
+        "vevisyeyATAm",
+        "vevisyeDvam",
+        "vevisyeya",
+        "vevisyevahi",
+        "vevisyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "vesanIya",
+          "m": "vesanIyaH",
+          "f": "vesanIyA",
+          "n": "vesanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "visita",
+          "m": "visitaH",
+          "f": "visitA",
+          "n": "visitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "visitavat",
+          "m": "visitavAn",
+          "f": "visitavatI",
+          "n": "visitavat/visitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "visti",
+          "m": "",
+          "f": "vistiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "visitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "vesitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "vivisvas",
+          "m": "vivisvAn",
+          "f": "vivisuzI",
+          "n": "vivisvat/vivisvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "vesa",
+          "m": "vesaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "vesamAna",
+          "m": "vesamAnaH",
+          "f": "vesamAnA",
+          "n": "vesamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "vesam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "vesya",
+          "m": "vesyaH",
+          "f": "vesyA",
+          "n": "vesyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "vesaka",
+          "m": "vesakaH",
+          "f": "vesikA",
+          "n": "vesakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "vesitavya",
+          "m": "vesitavyaH",
+          "f": "vesitavyA",
+          "n": "vesitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "vesitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "vesitf",
+          "m": "vesitA",
+          "f": "vesitrI",
+          "n": "vesitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "visyamAna",
+          "m": "visyamAnaH",
+          "f": "visyamAnA",
+          "n": "visyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pravisya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "vesana",
+          "m": "",
+          "f": "",
+          "n": "vesanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "vesaka",
+          "m": "vesakaH",
+          "f": "vesikA",
+          "n": "vesakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "vesat",
+          "m": "vesan",
+          "f": "vesantI",
+          "n": "vesat/vesad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "vesizyamARa",
+          "m": "vesizyamARaH",
+          "f": "vesizyamARA",
+          "n": "vesizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "vesizyat",
+          "m": "vesizyan",
+          "f": "vesizyatI/vesizyantI",
+          "n": "vesizyat/vesizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "vivisizA",
+          "m": "",
+          "f": "vivisizA",
+          "n": ""
+        },
+        {
+          "base": "vivesizA",
+          "m": "",
+          "f": "vivesizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "vivisiza",
+          "m": "vivisizaH",
+          "f": "vivisizA",
+          "n": "vivisizam"
+        },
+        {
+          "base": "vivesiza",
+          "m": "vivesizaH",
+          "f": "vivesizA",
+          "n": "vivesizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "vivisizaRIya",
+          "m": "vivisizaRIyaH",
+          "f": "vivisizaRIyA",
+          "n": "vivisizaRIyam"
+        },
+        {
+          "base": "vivesizaRIya",
+          "m": "vivesizaRIyaH",
+          "f": "vivesizaRIyA",
+          "n": "vivesizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "vivisizu",
+          "m": "vivisizuH",
+          "f": "vivisizuH",
+          "n": "vivisizu"
+        },
+        {
+          "base": "vivesizu",
+          "m": "vivesizuH",
+          "f": "vivesizuH",
+          "n": "vivesizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "vivisizita",
+          "m": "vivisizitaH",
+          "f": "vivisizitA",
+          "n": "vivisizitam"
+        },
+        {
+          "base": "vivesizita",
+          "m": "vivesizitaH",
+          "f": "vivesizitA",
+          "n": "vivesizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "vivisizitavat",
+          "m": "vivisizitavAn",
+          "f": "vivisizitavatI",
+          "n": "vivisizitavat/vivisizitavad"
+        },
+        {
+          "base": "vivesizitavat",
+          "m": "vivesizitavAn",
+          "f": "vivesizitavatI",
+          "n": "vivesizitavat/vivesizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "vivisizwi",
+          "m": "",
+          "f": "vivisizwiH",
+          "n": ""
+        },
+        {
+          "base": "vivesizwi",
+          "m": "",
+          "f": "vivesizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "vivisizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "vivesizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "vivisizAmbaBUvas",
+          "m": "vivisizAmbaBUvAn",
+          "f": "vivisizAmbaBUzI",
+          "n": "vivisizAmbaBUvat/vivisizAmbaBUvad"
+        },
+        {
+          "base": "vivisizAmAsivas",
+          "m": "vivisizAmAsivAn",
+          "f": "vivisizAmAsyuzI",
+          "n": "vivisizAmAsivat/vivisizAmAsivad"
+        },
+        {
+          "base": "vivisizAYcakfvas",
+          "m": "vivisizAYcakfvAn",
+          "f": "vivisizAYcakruzI",
+          "n": "vivisizAYcakfvat/vivisizAYcakfvad"
+        },
+        {
+          "base": "vivesizAmbaBUvas",
+          "m": "vivesizAmbaBUvAn",
+          "f": "vivesizAmbaBUzI",
+          "n": "vivesizAmbaBUvat/vivesizAmbaBUvad"
+        },
+        {
+          "base": "vivesizAmAsivas",
+          "m": "vivesizAmAsivAn",
+          "f": "vivesizAmAsyuzI",
+          "n": "vivesizAmAsivat/vivesizAmAsivad"
+        },
+        {
+          "base": "vivesizAYcakfvas",
+          "m": "vivesizAYcakfvAn",
+          "f": "vivesizAYcakruzI",
+          "n": "vivesizAYcakfvat/vivesizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "vivisiza",
+          "m": "vivisizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "vivesiza",
+          "m": "vivesizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "vivisizamARa",
+          "m": "vivisizamARaH",
+          "f": "vivisizamARA",
+          "n": "vivisizamARam"
+        },
+        {
+          "base": "vivesizamARa",
+          "m": "vivesizamARaH",
+          "f": "vivesizamARA",
+          "n": "vivesizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "vivisizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "vivesizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "vivisizaka",
+          "m": "vivisizakaH",
+          "f": "vivisizikA",
+          "n": "vivisizakam"
+        },
+        {
+          "base": "vivesizaka",
+          "m": "vivesizakaH",
+          "f": "vivesizikA",
+          "n": "vivesizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "vivisizitavya",
+          "m": "vivisizitavyaH",
+          "f": "vivisizitavyA",
+          "n": "vivisizitavyam"
+        },
+        {
+          "base": "vivesizitavya",
+          "m": "vivesizitavyaH",
+          "f": "vivesizitavyA",
+          "n": "vivesizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "vivisizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "vivesizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "vivisizitf",
+          "m": "vivisizitA",
+          "f": "vivisizitrI",
+          "n": "vivisizitf"
+        },
+        {
+          "base": "vivesizitf",
+          "m": "vivesizitA",
+          "f": "vivesizitrI",
+          "n": "vivesizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "vivisizyamARa",
+          "m": "vivisizyamARaH",
+          "f": "vivisizyamARA",
+          "n": "vivisizyamARam"
+        },
+        {
+          "base": "vivesizyamARa",
+          "m": "vivesizyamARaH",
+          "f": "vivesizyamARA",
+          "n": "vivesizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "vivisizya",
+          "m": "vivisizyaH",
+          "f": "vivisizyA",
+          "n": "vivisizyam"
+        },
+        {
+          "base": "vivesizya",
+          "m": "vivesizyaH",
+          "f": "vivesizyA",
+          "n": "vivesizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pravivisizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pravivesizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "vivisizaRa",
+          "m": "",
+          "f": "",
+          "n": "vivisizaRam"
+        },
+        {
+          "base": "vivesizaRa",
+          "m": "",
+          "f": "",
+          "n": "vivesizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "vivisizaka",
+          "m": "vivisizakaH",
+          "f": "vivisizikA",
+          "n": "vivisizakam"
+        },
+        {
+          "base": "vivesizaka",
+          "m": "vivesizakaH",
+          "f": "vivesizikA",
+          "n": "vivesizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "vivisizat",
+          "m": "vivisizan",
+          "f": "vivisizantI",
+          "n": "vivisizat/vivisizad"
+        },
+        {
+          "base": "vivesizat",
+          "m": "vivesizan",
+          "f": "vivesizantI",
+          "n": "vivesizat/vivesizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "vivisizizyamARa",
+          "m": "vivisizizyamARaH",
+          "f": "vivisizizyamARA",
+          "n": "vivisizizyamARam"
+        },
+        {
+          "base": "vivesizizyamARa",
+          "m": "vivesizizyamARaH",
+          "f": "vivesizizyamARA",
+          "n": "vivesizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "vivisizizyat",
+          "m": "vivisizizyan",
+          "f": "vivisizizyatI/vivisizizyantI",
+          "n": "vivisizizyat/vivisizizyad"
+        },
+        {
+          "base": "vivesizizyat",
+          "m": "vivesizizyan",
+          "f": "vivesizizyatI/vivesizizyantI",
+          "n": "vivesizizyat/vivesizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "vesa",
+          "m": "vesaH",
+          "f": "vesA",
+          "n": "vesam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "vesanIya",
+          "m": "vesanIyaH",
+          "f": "vesanIyA",
+          "n": "vesanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "vesita",
+          "m": "vesitaH",
+          "f": "vesitA",
+          "n": "vesitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "vesitavat",
+          "m": "vesitavAn",
+          "f": "vesitavatI",
+          "n": "vesitavat/vesitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "vesti",
+          "m": "",
+          "f": "vestiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "vesayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "vesayAmbaBUvas",
+          "m": "vesayAmbaBUvAn",
+          "f": "vesayAmbaBUzI",
+          "n": "vesayAmbaBUvat/vesayAmbaBUvad"
+        },
+        {
+          "base": "vesayAmAsivas",
+          "m": "vesayAmAsivAn",
+          "f": "vesayAmAsyuzI",
+          "n": "vesayAmAsivat/vesayAmAsivad"
+        },
+        {
+          "base": "vesayAYcakfvas",
+          "m": "vesayAYcakfvAn",
+          "f": "vesayAYcakruzI",
+          "n": "vesayAYcakfvat/vesayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "vesayamAna",
+          "m": "vesayamAnaH",
+          "f": "vesayamAnA",
+          "n": "vesayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "vesam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "vesaka",
+          "m": "vesakaH",
+          "f": "vesikA",
+          "n": "vesakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "vesayitavya",
+          "m": "vesayitavyaH",
+          "f": "vesayitavyA",
+          "n": "vesayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "vesayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "vesayitf",
+          "m": "vesayitA",
+          "f": "vesayitrI",
+          "n": "vesayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "vesyamAna",
+          "m": "vesyamAnaH",
+          "f": "vesyamAnA",
+          "n": "vesyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "vesya",
+          "m": "vesyaH",
+          "f": "vesyA",
+          "n": "vesyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pravesya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "vesana",
+          "m": "",
+          "f": "",
+          "n": "vesanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "vesaka",
+          "m": "vesakaH",
+          "f": "vesikA",
+          "n": "vesakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "vesayat",
+          "m": "vesayan",
+          "f": "vesayantI",
+          "n": "vesayat/vesayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "vesayamAna",
+          "m": "vesayamAnaH",
+          "f": "vesayamAnA",
+          "n": "vesayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "vesizyamARa",
+          "m": "vesizyamARaH",
+          "f": "vesizyamARA",
+          "n": "vesizyamARam"
+        },
+        {
+          "base": "vesayizyamARa",
+          "m": "vesayizyamARaH",
+          "f": "vesayizyamARA",
+          "n": "vesayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "vesayizyat",
+          "m": "vesayizyan",
+          "f": "vesayizyatI/vesayizyantI",
+          "n": "vesayizyat/vesayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "vesayizyamARa",
+          "m": "vesayizyamARaH",
+          "f": "vesayizyamARA",
+          "n": "vesayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "vevisA",
+          "m": "",
+          "f": "vevisA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "vevisa",
+          "m": "vevisaH",
+          "f": "vevisA",
+          "n": "vevisam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "vevisanIya",
+          "m": "vevisanIyaH",
+          "f": "vevisanIyA",
+          "n": "vevisanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "vevisita",
+          "m": "vevisitaH",
+          "f": "vevisitA",
+          "n": "vevisitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "vevisitavat",
+          "m": "vevisitavAn",
+          "f": "vevisitavatI",
+          "n": "vevisitavat/vevisitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "vevisti",
+          "m": "",
+          "f": "vevistiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "vevisitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "vevisAmbaBUvas",
+          "m": "vevisAmbaBUvAn",
+          "f": "vevisAmbaBUzI",
+          "n": "vevisAmbaBUvat/vevisAmbaBUvad"
+        },
+        {
+          "base": "vevisAmAsivas",
+          "m": "vevisAmAsivAn",
+          "f": "vevisAmAsyuzI",
+          "n": "vevisAmAsivat/vevisAmAsivad"
+        },
+        {
+          "base": "vevisAYcakfvas",
+          "m": "vevisAYcakfvAn",
+          "f": "vevisAYcakruzI",
+          "n": "vevisAYcakfvat/vevisAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "vevisa",
+          "m": "vevisaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "vevisyamAna",
+          "m": "vevisyamAnaH",
+          "f": "vevisyamAnA",
+          "n": "vevisyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "vevisam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "vevisaka",
+          "m": "vevisakaH",
+          "f": "vevisikA",
+          "n": "vevisakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "vevisitavya",
+          "m": "vevisitavyaH",
+          "f": "vevisitavyA",
+          "n": "vevisitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "vevisitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "vevisitf",
+          "m": "vevisitA",
+          "f": "vevisitrI",
+          "n": "vevisitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "vevisyamAna",
+          "m": "vevisyamAnaH",
+          "f": "vevisyamAnA",
+          "n": "vevisyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "vevisya",
+          "m": "vevisyaH",
+          "f": "vevisyA",
+          "n": "vevisyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pravevisya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "vevisana",
+          "m": "",
+          "f": "",
+          "n": "vevisanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "vevisaka",
+          "m": "vevisakaH",
+          "f": "vevisikA",
+          "n": "vevisakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "vevisyamAna",
+          "m": "vevisyamAnaH",
+          "f": "vevisyamAnA",
+          "n": "vevisyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "vevisizyamARa",
+          "m": "vevisizyamARaH",
+          "f": "vevisizyamARA",
+          "n": "vevisizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "vevisizyamARa",
+          "m": "vevisizyamARaH",
+          "f": "vevisizyamARA",
+          "n": "vevisizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "vevesA",
+          "m": "",
+          "f": "vevesA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "vevesa",
+          "m": "vevesaH",
+          "f": "vevesA",
+          "n": "vevesam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "vevesanIya",
+          "m": "vevesanIyaH",
+          "f": "vevesanIyA",
+          "n": "vevesanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "vevisita",
+          "m": "vevisitaH",
+          "f": "vevisitA",
+          "n": "vevisitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "vevisitavat",
+          "m": "vevisitavAn",
+          "f": "vevisitavatI",
+          "n": "vevisitavat/vevisitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "vevisti",
+          "m": "",
+          "f": "vevistiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "vevesitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "vevesAmbaBUvas",
+          "m": "vevesAmbaBUvAn",
+          "f": "vevesAmbaBUzI",
+          "n": "vevesAmbaBUvat/vevesAmbaBUvad"
+        },
+        {
+          "base": "vevesAmAsivas",
+          "m": "vevesAmAsivAn",
+          "f": "vevesAmAsyuzI",
+          "n": "vevesAmAsivat/vevesAmAsivad"
+        },
+        {
+          "base": "vevesAYcakfvas",
+          "m": "vevesAYcakfvAn",
+          "f": "vevesAYcakruzI",
+          "n": "vevesAYcakfvat/vevesAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "vevesa",
+          "m": "vevesaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "vevisAna",
+          "m": "vevisAnaH",
+          "f": "vevisAnA",
+          "n": "vevisAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "vevesam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "vevesaka",
+          "m": "vevesakaH",
+          "f": "vevesikA",
+          "n": "vevesakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "vevesitavya",
+          "m": "vevesitavyaH",
+          "f": "vevesitavyA",
+          "n": "vevesitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "vevesitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "vevesitf",
+          "m": "vevesitA",
+          "f": "vevesitrI",
+          "n": "vevesitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "vevisyamAna",
+          "m": "vevisyamAnaH",
+          "f": "vevisyamAnA",
+          "n": "vevisyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pravevisya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "vevesana",
+          "m": "",
+          "f": "",
+          "n": "vevesanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "vevesaka",
+          "m": "vevesakaH",
+          "f": "vevesikA",
+          "n": "vevesakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "vevisat",
+          "m": "vevisat/vevisad",
+          "f": "vevisatI",
+          "n": "vevisat/vevisad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "vevesizyamARa",
+          "m": "vevesizyamARaH",
+          "f": "vevesizyamARA",
+          "n": "vevesizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "vevesizyat",
+          "m": "vevesizyan",
+          "f": "vevesizyatI/vevesizyantI",
+          "n": "vevesizyat/vevesizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "vis",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

@@ -1,0 +1,2647 @@
+{
+  "id": "01.1060",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "KE"
+    },
+    {
+      "name": "arTaH",
+      "value": "Kadane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to dig, to irritate, to cause pain, to be steady"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "KodanA, satAnA, duKa denA, sTira rahanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "KadanaM sTEryaM hiMsA ca . ' Ke KAdane ' iti kASakftsne DAtupAWe paWyate . ' BakzaRArTatvaM ca iti tawwIkAyAm ' iti kzIrataraNgiRIwIkA . ' Kanane ' iti SaNkarAcAryAH iti DA. kA. vyAKyA ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "912"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "912"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2378",
+      "ext_link": "/sutraani/sk2378?scroll=sutra-commentary-kaumudi-region&highlight=KaE"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "KAyAt",
+        "KAyAd",
+        "KAyAstAm",
+        "KAyAsuH",
+        "KAyAH",
+        "KAyAstam",
+        "KAyAsta",
+        "KAyAsam",
+        "KAyAsva",
+        "KAyAsma"
+      ],
+      "plang": [
+        "aKAyat",
+        "aKAyad",
+        "aKAyatAm",
+        "aKAyan",
+        "aKAyaH",
+        "aKAyatam",
+        "aKAyata",
+        "aKAyam",
+        "aKAyAva",
+        "aKAyAma"
+      ],
+      "plat": [
+        "KAyati",
+        "KAyataH",
+        "KAyanti",
+        "KAyasi",
+        "KAyaTaH",
+        "KAyaTa",
+        "KAyAmi",
+        "KAyAvaH",
+        "KAyAmaH"
+      ],
+      "plit": [
+        "caKO",
+        "caKatuH",
+        "caKuH",
+        "caKATa",
+        "caKiTa",
+        "caKaTuH",
+        "caKa",
+        "caKO",
+        "caKiva",
+        "caKima"
+      ],
+      "plot": [
+        "KAyatAt",
+        "KAyatAd",
+        "KAyatu",
+        "KAyatAm",
+        "KAyantu",
+        "KAya",
+        "KAyatAt",
+        "KAyatAd",
+        "KAyatam",
+        "KAyata",
+        "KAyAni",
+        "KAyAva",
+        "KAyAma"
+      ],
+      "plrung": [
+        "aKAsyat",
+        "aKAsyad",
+        "aKAsyatAm",
+        "aKAsyan",
+        "aKAsyaH",
+        "aKAsyatam",
+        "aKAsyata",
+        "aKAsyam",
+        "aKAsyAva",
+        "aKAsyAma"
+      ],
+      "plrut": [
+        "KAsyati",
+        "KAsyataH",
+        "KAsyanti",
+        "KAsyasi",
+        "KAsyaTaH",
+        "KAsyaTa",
+        "KAsyAmi",
+        "KAsyAvaH",
+        "KAsyAmaH"
+      ],
+      "plung": [
+        "aKAsIt",
+        "aKAsId",
+        "aKAsizwAm",
+        "aKAsizuH",
+        "aKAsIH",
+        "aKAsizwam",
+        "aKAsizwa",
+        "aKAsizam",
+        "aKAsizva",
+        "aKAsizma"
+      ],
+      "plut": [
+        "KAtA",
+        "KAtArO",
+        "KAtAraH",
+        "KAtAsi",
+        "KAtAsTaH",
+        "KAtAsTa",
+        "KAtAsmi",
+        "KAtAsvaH",
+        "KAtAsmaH"
+      ],
+      "pvidhiling": [
+        "KAyet",
+        "KAyed",
+        "KAyetAm",
+        "KAyeyuH",
+        "KAyeH",
+        "KAyetam",
+        "KAyeta",
+        "KAyeyam",
+        "KAyeva",
+        "KAyema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "KAyizIzwa",
+        "KAsIzwa",
+        "KAyizIyAstAm",
+        "KAsIyAstAm",
+        "KAyizIran",
+        "KAsIran",
+        "KAyizIzWAH",
+        "KAsIzWAH",
+        "KAyizIyAsTAm",
+        "KAsIyAsTAm",
+        "KAyizIDvam",
+        "KAsIDvam",
+        "KAyizIya",
+        "KAsIya",
+        "KAyizIvahi",
+        "KAsIvahi",
+        "KAyizImahi",
+        "KAsImahi"
+      ],
+      "alang": [
+        "aKAyata",
+        "aKAyetAm",
+        "aKAyanta",
+        "aKAyaTAH",
+        "aKAyeTAm",
+        "aKAyaDvam",
+        "aKAye",
+        "aKAyAvahi",
+        "aKAyAmahi"
+      ],
+      "alat": [
+        "KAyate",
+        "KAyete",
+        "KAyante",
+        "KAyase",
+        "KAyeTe",
+        "KAyaDve",
+        "KAye",
+        "KAyAvahe",
+        "KAyAmahe"
+      ],
+      "alit": [
+        "caKe",
+        "caKAte",
+        "caKire",
+        "caKize",
+        "caKATe",
+        "caKiDve",
+        "caKe",
+        "caKivahe",
+        "caKimahe"
+      ],
+      "alot": [
+        "KAyatAm",
+        "KAyetAm",
+        "KAyantAm",
+        "KAyasva",
+        "KAyeTAm",
+        "KAyaDvam",
+        "KAyE",
+        "KAyAvahE",
+        "KAyAmahE"
+      ],
+      "alrung": [
+        "aKAyizyata",
+        "aKAsyata",
+        "aKAyizyetAm",
+        "aKAsyetAm",
+        "aKAyizyanta",
+        "aKAsyanta",
+        "aKAyizyaTAH",
+        "aKAsyaTAH",
+        "aKAyizyeTAm",
+        "aKAsyeTAm",
+        "aKAyizyaDvam",
+        "aKAsyaDvam",
+        "aKAyizye",
+        "aKAsye",
+        "aKAyizyAvahi",
+        "aKAsyAvahi",
+        "aKAyizyAmahi",
+        "aKAsyAmahi"
+      ],
+      "alrut": [
+        "KAyizyate",
+        "KAsyate",
+        "KAyizyete",
+        "KAsyete",
+        "KAyizyante",
+        "KAsyante",
+        "KAyizyase",
+        "KAsyase",
+        "KAyizyeTe",
+        "KAsyeTe",
+        "KAyizyaDve",
+        "KAsyaDve",
+        "KAyizye",
+        "KAsye",
+        "KAyizyAvahe",
+        "KAsyAvahe",
+        "KAyizyAmahe",
+        "KAsyAmahe"
+      ],
+      "alung": [
+        "aKAyi",
+        "aKAyizAtAm",
+        "aKAsAtAm",
+        "aKAyizata",
+        "aKAsata",
+        "aKAyizWAH",
+        "aKAsTAH",
+        "aKAyizATAm",
+        "aKAsATAm",
+        "aKADvam",
+        "aKAyiDvam",
+        "aKAyizi",
+        "aKAsi",
+        "aKAyizvahi",
+        "aKAsvahi",
+        "aKAyizmahi",
+        "aKAsmahi"
+      ],
+      "alut": [
+        "KAtA",
+        "KAyitA",
+        "KAtArO",
+        "KAyitArO",
+        "KAtAraH",
+        "KAyitAraH",
+        "KAtAse",
+        "KAyitAse",
+        "KAtAsATe",
+        "KAyitAsATe",
+        "KAtADve",
+        "KAyitADve",
+        "KAtAhe",
+        "KAyitAhe",
+        "KAtAsvahe",
+        "KAyitAsvahe",
+        "KAtAsmahe",
+        "KAyitAsmahe"
+      ],
+      "avidhiling": [
+        "KAyeta",
+        "KAyeyAtAm",
+        "KAyeran",
+        "KAyeTAH",
+        "KAyeyATAm",
+        "KAyeDvam",
+        "KAyeya",
+        "KAyevahi",
+        "KAyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "ciKAsyAt",
+        "ciKAsyAd",
+        "ciKAsyAstAm",
+        "ciKAsyAsuH",
+        "ciKAsyAH",
+        "ciKAsyAstam",
+        "ciKAsyAsta",
+        "ciKAsyAsam",
+        "ciKAsyAsva",
+        "ciKAsyAsma"
+      ],
+      "plang": [
+        "aciKAsat",
+        "aciKAsad",
+        "aciKAsatAm",
+        "aciKAsan",
+        "aciKAsaH",
+        "aciKAsatam",
+        "aciKAsata",
+        "aciKAsam",
+        "aciKAsAva",
+        "aciKAsAma"
+      ],
+      "plat": [
+        "ciKAsati",
+        "ciKAsataH",
+        "ciKAsanti",
+        "ciKAsasi",
+        "ciKAsaTaH",
+        "ciKAsaTa",
+        "ciKAsAmi",
+        "ciKAsAvaH",
+        "ciKAsAmaH"
+      ],
+      "plit": [
+        "ciKAsAYcakAra",
+        "ciKAsAmAsa",
+        "ciKAsAmbaBUva",
+        "ciKAsAYcakratuH",
+        "ciKAsAmAsatuH",
+        "ciKAsAmbaBUvatuH",
+        "ciKAsAYcakruH",
+        "ciKAsAmAsuH",
+        "ciKAsAmbaBUvuH",
+        "ciKAsAYcakarTa",
+        "ciKAsAmAsiTa",
+        "ciKAsAmbaBUviTa",
+        "ciKAsAYcakraTuH",
+        "ciKAsAmAsaTuH",
+        "ciKAsAmbaBUvaTuH",
+        "ciKAsAYcakra",
+        "ciKAsAmAsa",
+        "ciKAsAmbaBUva",
+        "ciKAsAYcakara",
+        "ciKAsAYcakAra",
+        "ciKAsAmAsa",
+        "ciKAsAmbaBUva",
+        "ciKAsAYcakfva",
+        "ciKAsAmAsiva",
+        "ciKAsAmbaBUviva",
+        "ciKAsAYcakfma",
+        "ciKAsAmAsima",
+        "ciKAsAmbaBUvima"
+      ],
+      "plot": [
+        "ciKAsatAt",
+        "ciKAsatAd",
+        "ciKAsatu",
+        "ciKAsatAm",
+        "ciKAsantu",
+        "ciKAsa",
+        "ciKAsatAt",
+        "ciKAsatAd",
+        "ciKAsatam",
+        "ciKAsata",
+        "ciKAsAni",
+        "ciKAsAva",
+        "ciKAsAma"
+      ],
+      "plrung": [
+        "aciKAsizyat",
+        "aciKAsizyad",
+        "aciKAsizyatAm",
+        "aciKAsizyan",
+        "aciKAsizyaH",
+        "aciKAsizyatam",
+        "aciKAsizyata",
+        "aciKAsizyam",
+        "aciKAsizyAva",
+        "aciKAsizyAma"
+      ],
+      "plrut": [
+        "ciKAsizyati",
+        "ciKAsizyataH",
+        "ciKAsizyanti",
+        "ciKAsizyasi",
+        "ciKAsizyaTaH",
+        "ciKAsizyaTa",
+        "ciKAsizyAmi",
+        "ciKAsizyAvaH",
+        "ciKAsizyAmaH"
+      ],
+      "plung": [
+        "aciKAsIt",
+        "aciKAsId",
+        "aciKAsizwAm",
+        "aciKAsizuH",
+        "aciKAsIH",
+        "aciKAsizwam",
+        "aciKAsizwa",
+        "aciKAsizam",
+        "aciKAsizva",
+        "aciKAsizma"
+      ],
+      "plut": [
+        "ciKAsitA",
+        "ciKAsitArO",
+        "ciKAsitAraH",
+        "ciKAsitAsi",
+        "ciKAsitAsTaH",
+        "ciKAsitAsTa",
+        "ciKAsitAsmi",
+        "ciKAsitAsvaH",
+        "ciKAsitAsmaH"
+      ],
+      "pvidhiling": [
+        "ciKAset",
+        "ciKAsed",
+        "ciKAsetAm",
+        "ciKAseyuH",
+        "ciKAseH",
+        "ciKAsetam",
+        "ciKAseta",
+        "ciKAseyam",
+        "ciKAseva",
+        "ciKAsema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ciKAsizIzwa",
+        "ciKAsizIyAstAm",
+        "ciKAsizIran",
+        "ciKAsizIzWAH",
+        "ciKAsizIyAsTAm",
+        "ciKAsizIDvam",
+        "ciKAsizIya",
+        "ciKAsizIvahi",
+        "ciKAsizImahi"
+      ],
+      "alang": [
+        "aciKAsyata",
+        "aciKAsyetAm",
+        "aciKAsyanta",
+        "aciKAsyaTAH",
+        "aciKAsyeTAm",
+        "aciKAsyaDvam",
+        "aciKAsye",
+        "aciKAsyAvahi",
+        "aciKAsyAmahi"
+      ],
+      "alat": [
+        "ciKAsyate",
+        "ciKAsyete",
+        "ciKAsyante",
+        "ciKAsyase",
+        "ciKAsyeTe",
+        "ciKAsyaDve",
+        "ciKAsye",
+        "ciKAsyAvahe",
+        "ciKAsyAmahe"
+      ],
+      "alit": [
+        "ciKAsAYcakre",
+        "ciKAsAmAse",
+        "ciKAsAmbaBUve",
+        "ciKAsAYcakrAte",
+        "ciKAsAmAsAte",
+        "ciKAsAmbaBUvAte",
+        "ciKAsAYcakrire",
+        "ciKAsAmAsire",
+        "ciKAsAmbaBUvire",
+        "ciKAsAYcakfze",
+        "ciKAsAmAsize",
+        "ciKAsAmbaBUvize",
+        "ciKAsAYcakrATe",
+        "ciKAsAmAsATe",
+        "ciKAsAmbaBUvATe",
+        "ciKAsAYcakfQve",
+        "ciKAsAmAsiDve",
+        "ciKAsAmbaBUviQve",
+        "ciKAsAYcakre",
+        "ciKAsAmAhe",
+        "ciKAsAmbaBUve",
+        "ciKAsAYcakfvahe",
+        "ciKAsAmAsivahe",
+        "ciKAsAmbaBUvivahe",
+        "ciKAsAYcakfmahe",
+        "ciKAsAmAsimahe",
+        "ciKAsAmbaBUvimahe"
+      ],
+      "alot": [
+        "ciKAsyatAm",
+        "ciKAsyetAm",
+        "ciKAsyantAm",
+        "ciKAsyasva",
+        "ciKAsyeTAm",
+        "ciKAsyaDvam",
+        "ciKAsyE",
+        "ciKAsyAvahE",
+        "ciKAsyAmahE"
+      ],
+      "alrung": [
+        "aciKAsizyata",
+        "aciKAsizyetAm",
+        "aciKAsizyanta",
+        "aciKAsizyaTAH",
+        "aciKAsizyeTAm",
+        "aciKAsizyaDvam",
+        "aciKAsizye",
+        "aciKAsizyAvahi",
+        "aciKAsizyAmahi"
+      ],
+      "alrut": [
+        "ciKAsizyate",
+        "ciKAsizyete",
+        "ciKAsizyante",
+        "ciKAsizyase",
+        "ciKAsizyeTe",
+        "ciKAsizyaDve",
+        "ciKAsizye",
+        "ciKAsizyAvahe",
+        "ciKAsizyAmahe"
+      ],
+      "alung": [
+        "aciKAsi",
+        "aciKAsizAtAm",
+        "aciKAsizata",
+        "aciKAsizWAH",
+        "aciKAsizATAm",
+        "aciKAsiDvam",
+        "aciKAsizi",
+        "aciKAsizvahi",
+        "aciKAsizmahi"
+      ],
+      "alut": [
+        "ciKAsitA",
+        "ciKAsitArO",
+        "ciKAsitAraH",
+        "ciKAsitAse",
+        "ciKAsitAsATe",
+        "ciKAsitADve",
+        "ciKAsitAhe",
+        "ciKAsitAsvahe",
+        "ciKAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ciKAsyeta",
+        "ciKAsyeyAtAm",
+        "ciKAsyeran",
+        "ciKAsyeTAH",
+        "ciKAsyeyATAm",
+        "ciKAsyeDvam",
+        "ciKAsyeya",
+        "ciKAsyevahi",
+        "ciKAsyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "KApayizIzwa",
+        "KApayizIyAstAm",
+        "KApayizIran",
+        "KApayizIzWAH",
+        "KApayizIyAsTAm",
+        "KApayizIQvam",
+        "KApayizIDvam",
+        "KApayizIya",
+        "KApayizIvahi",
+        "KApayizImahi"
+      ],
+      "alang": [
+        "aKApayata",
+        "aKApayetAm",
+        "aKApayanta",
+        "aKApayaTAH",
+        "aKApayeTAm",
+        "aKApayaDvam",
+        "aKApaye",
+        "aKApayAvahi",
+        "aKApayAmahi"
+      ],
+      "alat": [
+        "KApayate",
+        "KApayete",
+        "KApayante",
+        "KApayase",
+        "KApayeTe",
+        "KApayaDve",
+        "KApaye",
+        "KApayAvahe",
+        "KApayAmahe"
+      ],
+      "alit": [
+        "KApayAYcakre",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakrAte",
+        "KApayAmAsatuH",
+        "KApayAmbaBUvatuH",
+        "KApayAYcakrire",
+        "KApayAmAsuH",
+        "KApayAmbaBUvuH",
+        "KApayAYcakfze",
+        "KApayAmAsiTa",
+        "KApayAmbaBUviTa",
+        "KApayAYcakrATe",
+        "KApayAmAsaTuH",
+        "KApayAmbaBUvaTuH",
+        "KApayAYcakfQve",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakre",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakfvahe",
+        "KApayAmAsiva",
+        "KApayAmbaBUviva",
+        "KApayAYcakfmahe",
+        "KApayAmAsima",
+        "KApayAmbaBUvima"
+      ],
+      "alot": [
+        "KApayatAm",
+        "KApayetAm",
+        "KApayantAm",
+        "KApayasva",
+        "KApayeTAm",
+        "KApayaDvam",
+        "KApayE",
+        "KApayAvahE",
+        "KApayAmahE"
+      ],
+      "alrung": [
+        "aKApayizyata",
+        "aKApayizyetAm",
+        "aKApayizyanta",
+        "aKApayizyaTAH",
+        "aKApayizyeTAm",
+        "aKApayizyaDvam",
+        "aKApayizye",
+        "aKApayizyAvahi",
+        "aKApayizyAmahi"
+      ],
+      "alrut": [
+        "KApayizyate",
+        "KApayizyete",
+        "KApayizyante",
+        "KApayizyase",
+        "KApayizyeTe",
+        "KApayizyaDve",
+        "KApayizye",
+        "KApayizyAvahe",
+        "KApayizyAmahe"
+      ],
+      "alung": [
+        "acIKapata",
+        "acIKapetAm",
+        "acIKapanta",
+        "acIKapaTAH",
+        "acIKapeTAm",
+        "acIKapaDvam",
+        "acIKape",
+        "acIKapAvahi",
+        "acIKapAmahi"
+      ],
+      "alut": [
+        "KApayitA",
+        "KApayitArO",
+        "KApayitAraH",
+        "KApayitAse",
+        "KApayitAsATe",
+        "KApayitADve",
+        "KApayitAhe",
+        "KApayitAsvahe",
+        "KApayitAsmahe"
+      ],
+      "avidhiling": [
+        "KApayeta",
+        "KApayeyAtAm",
+        "KApayeran",
+        "KApayeTAH",
+        "KApayeyATAm",
+        "KApayeDvam",
+        "KApayeya",
+        "KApayevahi",
+        "KApayemahi"
+      ],
+      "pashirling": [
+        "KApyAt",
+        "KApyAd",
+        "KApyAstAm",
+        "KApyAsuH",
+        "KApyAH",
+        "KApyAstam",
+        "KApyAsta",
+        "KApyAsam",
+        "KApyAsva",
+        "KApyAsma"
+      ],
+      "plang": [
+        "aKApayat",
+        "aKApayad",
+        "aKApayatAm",
+        "aKApayan",
+        "aKApayaH",
+        "aKApayatam",
+        "aKApayata",
+        "aKApayam",
+        "aKApayAva",
+        "aKApayAma"
+      ],
+      "plat": [
+        "KApayati",
+        "KApayataH",
+        "KApayanti",
+        "KApayasi",
+        "KApayaTaH",
+        "KApayaTa",
+        "KApayAmi",
+        "KApayAvaH",
+        "KApayAmaH"
+      ],
+      "plit": [
+        "KApayAYcakAra",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakratuH",
+        "KApayAmAsatuH",
+        "KApayAmbaBUvatuH",
+        "KApayAYcakruH",
+        "KApayAmAsuH",
+        "KApayAmbaBUvuH",
+        "KApayAYcakarTa",
+        "KApayAmAsiTa",
+        "KApayAmbaBUviTa",
+        "KApayAYcakraTuH",
+        "KApayAmAsaTuH",
+        "KApayAmbaBUvaTuH",
+        "KApayAYcakra",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakara",
+        "KApayAYcakAra",
+        "KApayAmAsa",
+        "KApayAmbaBUva",
+        "KApayAYcakfva",
+        "KApayAmAsiva",
+        "KApayAmbaBUviva",
+        "KApayAYcakfma",
+        "KApayAmAsima",
+        "KApayAmbaBUvima"
+      ],
+      "plot": [
+        "KApayatAt",
+        "KApayatAd",
+        "KApayatu",
+        "KApayatAm",
+        "KApayantu",
+        "KApaya",
+        "KApayatAt",
+        "KApayatAd",
+        "KApayatam",
+        "KApayata",
+        "KApayAni",
+        "KApayAva",
+        "KApayAma"
+      ],
+      "plrung": [
+        "aKApayizyat",
+        "aKApayizyad",
+        "aKApayizyatAm",
+        "aKApayizyan",
+        "aKApayizyaH",
+        "aKApayizyatam",
+        "aKApayizyata",
+        "aKApayizyam",
+        "aKApayizyAva",
+        "aKApayizyAma"
+      ],
+      "plrut": [
+        "KApayizyati",
+        "KApayizyataH",
+        "KApayizyanti",
+        "KApayizyasi",
+        "KApayizyaTaH",
+        "KApayizyaTa",
+        "KApayizyAmi",
+        "KApayizyAvaH",
+        "KApayizyAmaH"
+      ],
+      "plung": [
+        "acIKapat",
+        "acIKapad",
+        "acIKapatAm",
+        "acIKapan",
+        "acIKapaH",
+        "acIKapatam",
+        "acIKapata",
+        "acIKapam",
+        "acIKapAva",
+        "acIKapAma"
+      ],
+      "plut": [
+        "KApayitA",
+        "KApayitArO",
+        "KApayitAraH",
+        "KApayitAsi",
+        "KApayitAsTaH",
+        "KApayitAsTa",
+        "KApayitAsmi",
+        "KApayitAsvaH",
+        "KApayitAsmaH"
+      ],
+      "pvidhiling": [
+        "KApayet",
+        "KApayed",
+        "KApayetAm",
+        "KApayeyuH",
+        "KApayeH",
+        "KApayetam",
+        "KApayeta",
+        "KApayeyam",
+        "KApayeva",
+        "KApayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "KApayizIzwa",
+        "KApizIzwa",
+        "KApayizIyAstAm",
+        "KApizIyAstAm",
+        "KApayizIran",
+        "KApizIran",
+        "KApayizIzWAH",
+        "KApizIzWAH",
+        "KApayizIyAsTAm",
+        "KApizIyAsTAm",
+        "KApayizIQvam",
+        "KApayizIDvam",
+        "KApizIDvam",
+        "KApayizIya",
+        "KApizIya",
+        "KApayizIvahi",
+        "KApizIvahi",
+        "KApayizImahi",
+        "KApizImahi"
+      ],
+      "alang": [
+        "aKApyata",
+        "aKApyetAm",
+        "aKApyanta",
+        "aKApyaTAH",
+        "aKApyeTAm",
+        "aKApyaDvam",
+        "aKApye",
+        "aKApyAvahi",
+        "aKApyAmahi"
+      ],
+      "alat": [
+        "KApyate",
+        "KApyete",
+        "KApyante",
+        "KApyase",
+        "KApyeTe",
+        "KApyaDve",
+        "KApye",
+        "KApyAvahe",
+        "KApyAmahe"
+      ],
+      "alit": [
+        "KApayAYcakre",
+        "KApayAmAse",
+        "KApayAmbaBUve",
+        "KApayAYcakrAte",
+        "KApayAmAsAte",
+        "KApayAmbaBUvAte",
+        "KApayAYcakrire",
+        "KApayAmAsire",
+        "KApayAmbaBUvire",
+        "KApayAYcakfze",
+        "KApayAmAsize",
+        "KApayAmbaBUvize",
+        "KApayAYcakrATe",
+        "KApayAmAsATe",
+        "KApayAmbaBUvATe",
+        "KApayAYcakfQve",
+        "KApayAmAsiDve",
+        "KApayAmbaBUviQve",
+        "KApayAYcakre",
+        "KApayAmAhe",
+        "KApayAmbaBUve",
+        "KApayAYcakfvahe",
+        "KApayAmAsivahe",
+        "KApayAmbaBUvivahe",
+        "KApayAYcakfmahe",
+        "KApayAmAsimahe",
+        "KApayAmbaBUvimahe"
+      ],
+      "alot": [
+        "KApyatAm",
+        "KApyetAm",
+        "KApyantAm",
+        "KApyasva",
+        "KApyeTAm",
+        "KApyaDvam",
+        "KApyE",
+        "KApyAvahE",
+        "KApyAmahE"
+      ],
+      "alrung": [
+        "aKApayizyata",
+        "aKApizyata",
+        "aKApayizyetAm",
+        "aKApizyetAm",
+        "aKApayizyanta",
+        "aKApizyanta",
+        "aKApayizyaTAH",
+        "aKApizyaTAH",
+        "aKApayizyeTAm",
+        "aKApizyeTAm",
+        "aKApayizyaDvam",
+        "aKApizyaDvam",
+        "aKApayizye",
+        "aKApizye",
+        "aKApayizyAvahi",
+        "aKApizyAvahi",
+        "aKApayizyAmahi",
+        "aKApizyAmahi"
+      ],
+      "alrut": [
+        "KApayizyate",
+        "KApizyate",
+        "KApayizyete",
+        "KApizyete",
+        "KApayizyante",
+        "KApizyante",
+        "KApayizyase",
+        "KApizyase",
+        "KApayizyeTe",
+        "KApizyeTe",
+        "KApayizyaDve",
+        "KApizyaDve",
+        "KApayizye",
+        "KApizye",
+        "KApayizyAvahe",
+        "KApizyAvahe",
+        "KApayizyAmahe",
+        "KApizyAmahe"
+      ],
+      "alung": [
+        "aKApi",
+        "aKApayizAtAm",
+        "aKApizAtAm",
+        "aKApayizata",
+        "aKApizata",
+        "aKApayizWAH",
+        "aKApizWAH",
+        "aKApayizATAm",
+        "aKApizATAm",
+        "aKApayiQvam",
+        "aKApayiDvam",
+        "aKApiDvam",
+        "aKApayizi",
+        "aKApizi",
+        "aKApayizvahi",
+        "aKApizvahi",
+        "aKApayizmahi",
+        "aKApizmahi"
+      ],
+      "alut": [
+        "KApayitA",
+        "KApitA",
+        "KApayitArO",
+        "KApitArO",
+        "KApayitAraH",
+        "KApitAraH",
+        "KApayitAse",
+        "KApitAse",
+        "KApayitAsATe",
+        "KApitAsATe",
+        "KApayitADve",
+        "KApitADve",
+        "KApayitAhe",
+        "KApitAhe",
+        "KApayitAsvahe",
+        "KApitAsvahe",
+        "KApayitAsmahe",
+        "KApitAsmahe"
+      ],
+      "avidhiling": [
+        "KApyeta",
+        "KApyeyAtAm",
+        "KApyeran",
+        "KApyeTAH",
+        "KApyeyATAm",
+        "KApyeDvam",
+        "KApyeya",
+        "KApyevahi",
+        "KApyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "cAKAyizIzwa",
+        "cAKAyizIyAstAm",
+        "cAKAyizIran",
+        "cAKAyizIzWAH",
+        "cAKAyizIyAsTAm",
+        "cAKAyizIQvam",
+        "cAKAyizIDvam",
+        "cAKAyizIya",
+        "cAKAyizIvahi",
+        "cAKAyizImahi"
+      ],
+      "alang": [
+        "acAKAyata",
+        "acAKAyetAm",
+        "acAKAyanta",
+        "acAKAyaTAH",
+        "acAKAyeTAm",
+        "acAKAyaDvam",
+        "acAKAye",
+        "acAKAyAvahi",
+        "acAKAyAmahi"
+      ],
+      "alat": [
+        "cAKAyate",
+        "cAKAyete",
+        "cAKAyante",
+        "cAKAyase",
+        "cAKAyeTe",
+        "cAKAyaDve",
+        "cAKAye",
+        "cAKAyAvahe",
+        "cAKAyAmahe"
+      ],
+      "alit": [
+        "cAKAyAYcakre",
+        "cAKAyAmAsa",
+        "cAKAyAmbaBUva",
+        "cAKAyAYcakrAte",
+        "cAKAyAmAsatuH",
+        "cAKAyAmbaBUvatuH",
+        "cAKAyAYcakrire",
+        "cAKAyAmAsuH",
+        "cAKAyAmbaBUvuH",
+        "cAKAyAYcakfze",
+        "cAKAyAmAsiTa",
+        "cAKAyAmbaBUviTa",
+        "cAKAyAYcakrATe",
+        "cAKAyAmAsaTuH",
+        "cAKAyAmbaBUvaTuH",
+        "cAKAyAYcakfQve",
+        "cAKAyAmAsa",
+        "cAKAyAmbaBUva",
+        "cAKAyAYcakre",
+        "cAKAyAmAsa",
+        "cAKAyAmbaBUva",
+        "cAKAyAYcakfvahe",
+        "cAKAyAmAsiva",
+        "cAKAyAmbaBUviva",
+        "cAKAyAYcakfmahe",
+        "cAKAyAmAsima",
+        "cAKAyAmbaBUvima"
+      ],
+      "alot": [
+        "cAKAyatAm",
+        "cAKAyetAm",
+        "cAKAyantAm",
+        "cAKAyasva",
+        "cAKAyeTAm",
+        "cAKAyaDvam",
+        "cAKAyE",
+        "cAKAyAvahE",
+        "cAKAyAmahE"
+      ],
+      "alrung": [
+        "acAKAyizyata",
+        "acAKAyizyetAm",
+        "acAKAyizyanta",
+        "acAKAyizyaTAH",
+        "acAKAyizyeTAm",
+        "acAKAyizyaDvam",
+        "acAKAyizye",
+        "acAKAyizyAvahi",
+        "acAKAyizyAmahi"
+      ],
+      "alrut": [
+        "cAKAyizyate",
+        "cAKAyizyete",
+        "cAKAyizyante",
+        "cAKAyizyase",
+        "cAKAyizyeTe",
+        "cAKAyizyaDve",
+        "cAKAyizye",
+        "cAKAyizyAvahe",
+        "cAKAyizyAmahe"
+      ],
+      "alung": [
+        "acAKAyizwa",
+        "acAKAyizAtAm",
+        "acAKAyizata",
+        "acAKAyizWAH",
+        "acAKAyizATAm",
+        "acAKAyiQvam",
+        "acAKAyiDvam",
+        "acAKAyizi",
+        "acAKAyizvahi",
+        "acAKAyizmahi"
+      ],
+      "alut": [
+        "cAKAyitA",
+        "cAKAyitArO",
+        "cAKAyitAraH",
+        "cAKAyitAse",
+        "cAKAyitAsATe",
+        "cAKAyitADve",
+        "cAKAyitAhe",
+        "cAKAyitAsvahe",
+        "cAKAyitAsmahe"
+      ],
+      "avidhiling": [
+        "cAKAyeta",
+        "cAKAyeyAtAm",
+        "cAKAyeran",
+        "cAKAyeTAH",
+        "cAKAyeyATAm",
+        "cAKAyeDvam",
+        "cAKAyeya",
+        "cAKAyevahi",
+        "cAKAyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "cAKAyizIzwa",
+        "cAKAyizIyAstAm",
+        "cAKAyizIran",
+        "cAKAyizIzWAH",
+        "cAKAyizIyAsTAm",
+        "cAKAyizIQvam",
+        "cAKAyizIDvam",
+        "cAKAyizIya",
+        "cAKAyizIvahi",
+        "cAKAyizImahi"
+      ],
+      "alang": [
+        "acAKAyyata",
+        "acAKAyyetAm",
+        "acAKAyyanta",
+        "acAKAyyaTAH",
+        "acAKAyyeTAm",
+        "acAKAyyaDvam",
+        "acAKAyye",
+        "acAKAyyAvahi",
+        "acAKAyyAmahi"
+      ],
+      "alat": [
+        "cAKAyyate",
+        "cAKAyyete",
+        "cAKAyyante",
+        "cAKAyyase",
+        "cAKAyyeTe",
+        "cAKAyyaDve",
+        "cAKAyye",
+        "cAKAyyAvahe",
+        "cAKAyyAmahe"
+      ],
+      "alit": [
+        "cAKAyAYcakre",
+        "cAKAyAmAse",
+        "cAKAyAmbaBUve",
+        "cAKAyAYcakrAte",
+        "cAKAyAmAsAte",
+        "cAKAyAmbaBUvAte",
+        "cAKAyAYcakrire",
+        "cAKAyAmAsire",
+        "cAKAyAmbaBUvire",
+        "cAKAyAYcakfze",
+        "cAKAyAmAsize",
+        "cAKAyAmbaBUvize",
+        "cAKAyAYcakrATe",
+        "cAKAyAmAsATe",
+        "cAKAyAmbaBUvATe",
+        "cAKAyAYcakfQve",
+        "cAKAyAmAsiDve",
+        "cAKAyAmbaBUviQve",
+        "cAKAyAYcakre",
+        "cAKAyAmAhe",
+        "cAKAyAmbaBUve",
+        "cAKAyAYcakfvahe",
+        "cAKAyAmAsivahe",
+        "cAKAyAmbaBUvivahe",
+        "cAKAyAYcakfmahe",
+        "cAKAyAmAsimahe",
+        "cAKAyAmbaBUvimahe"
+      ],
+      "alot": [
+        "cAKAyyatAm",
+        "cAKAyyetAm",
+        "cAKAyyantAm",
+        "cAKAyyasva",
+        "cAKAyyeTAm",
+        "cAKAyyaDvam",
+        "cAKAyyE",
+        "cAKAyyAvahE",
+        "cAKAyyAmahE"
+      ],
+      "alrung": [
+        "acAKAyizyata",
+        "acAKAyizyetAm",
+        "acAKAyizyanta",
+        "acAKAyizyaTAH",
+        "acAKAyizyeTAm",
+        "acAKAyizyaDvam",
+        "acAKAyizye",
+        "acAKAyizyAvahi",
+        "acAKAyizyAmahi"
+      ],
+      "alrut": [
+        "cAKAyizyate",
+        "cAKAyizyete",
+        "cAKAyizyante",
+        "cAKAyizyase",
+        "cAKAyizyeTe",
+        "cAKAyizyaDve",
+        "cAKAyizye",
+        "cAKAyizyAvahe",
+        "cAKAyizyAmahe"
+      ],
+      "alung": [
+        "acAKAyi",
+        "acAKAyizAtAm",
+        "acAKAyizata",
+        "acAKAyizWAH",
+        "acAKAyizATAm",
+        "acAKAyiQvam",
+        "acAKAyiDvam",
+        "acAKAyizi",
+        "acAKAyizvahi",
+        "acAKAyizmahi"
+      ],
+      "alut": [
+        "cAKAyitA",
+        "cAKAyitArO",
+        "cAKAyitAraH",
+        "cAKAyitAse",
+        "cAKAyitAsATe",
+        "cAKAyitADve",
+        "cAKAyitAhe",
+        "cAKAyitAsvahe",
+        "cAKAyitAsmahe"
+      ],
+      "avidhiling": [
+        "cAKAyyeta",
+        "cAKAyyeyAtAm",
+        "cAKAyyeran",
+        "cAKAyyeTAH",
+        "cAKAyyeyATAm",
+        "cAKAyyeDvam",
+        "cAKAyyeya",
+        "cAKAyyevahi",
+        "cAKAyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "cAKAyAt",
+        "cAKAyAd",
+        "cAKAyAstAm",
+        "cAKAyAsuH",
+        "cAKAyAH",
+        "cAKAyAstam",
+        "cAKAyAsta",
+        "cAKAyAsam",
+        "cAKAyAsva",
+        "cAKAyAsma"
+      ],
+      "plang": [
+        "acAKAt",
+        "acAKAd",
+        "acAKet",
+        "acAKed",
+        "acAKItAm",
+        "acAKuH",
+        "acAKAH",
+        "acAKeH",
+        "acAKItam",
+        "acAKIta",
+        "acAKAm",
+        "acAKIva",
+        "acAKIma"
+      ],
+      "plat": [
+        "cAKAti",
+        "cAKeti",
+        "cAKItaH",
+        "cAKati",
+        "cAKAsi",
+        "cAKezi",
+        "cAKITaH",
+        "cAKITa",
+        "cAKAmi",
+        "cAKemi",
+        "cAKIvaH",
+        "cAKImaH"
+      ],
+      "plit": [
+        "cAKAYcakAra",
+        "cAKAmAsa",
+        "cAKAmbaBUva",
+        "cAKAYcakratuH",
+        "cAKAmAsatuH",
+        "cAKAmbaBUvatuH",
+        "cAKAYcakruH",
+        "cAKAmAsuH",
+        "cAKAmbaBUvuH",
+        "cAKAYcakarTa",
+        "cAKAmAsiTa",
+        "cAKAmbaBUviTa",
+        "cAKAYcakraTuH",
+        "cAKAmAsaTuH",
+        "cAKAmbaBUvaTuH",
+        "cAKAYcakra",
+        "cAKAmAsa",
+        "cAKAmbaBUva",
+        "cAKAYcakara",
+        "cAKAYcakAra",
+        "cAKAmAsa",
+        "cAKAmbaBUva",
+        "cAKAYcakfva",
+        "cAKAmAsiva",
+        "cAKAmbaBUviva",
+        "cAKAYcakfma",
+        "cAKAmAsima",
+        "cAKAmbaBUvima"
+      ],
+      "plot": [
+        "cAKAtu",
+        "cAKItAt",
+        "cAKItAd",
+        "cAKetu",
+        "cAKItAm",
+        "cAKatu",
+        "cAKItAt",
+        "cAKItAd",
+        "cAKIhi",
+        "cAKItam",
+        "cAKIta",
+        "cAKAni",
+        "cAKAva",
+        "cAKAma"
+      ],
+      "plrung": [
+        "acAKizyat",
+        "acAKizyad",
+        "acAKizyatAm",
+        "acAKizyan",
+        "acAKizyaH",
+        "acAKizyatam",
+        "acAKizyata",
+        "acAKizyam",
+        "acAKizyAva",
+        "acAKizyAma"
+      ],
+      "plrut": [
+        "cAKizyati",
+        "cAKizyataH",
+        "cAKizyanti",
+        "cAKizyasi",
+        "cAKizyaTaH",
+        "cAKizyaTa",
+        "cAKizyAmi",
+        "cAKizyAvaH",
+        "cAKizyAmaH"
+      ],
+      "plung": [
+        "acAKAsit",
+        "acAKAsid",
+        "acAKAsizwAm",
+        "acAKAsizuH",
+        "acAKAsiH",
+        "acAKAsizwam",
+        "acAKAsizwa",
+        "acAKAsizam",
+        "acAKAsizva",
+        "acAKAsizma"
+      ],
+      "plut": [
+        "cAKitA",
+        "cAKitArO",
+        "cAKitAraH",
+        "cAKitAsi",
+        "cAKitAsTaH",
+        "cAKitAsTa",
+        "cAKitAsmi",
+        "cAKitAsvaH",
+        "cAKitAsmaH"
+      ],
+      "pvidhiling": [
+        "cAKIyAt",
+        "cAKIyAd",
+        "cAKIyAtAm",
+        "cAKIyuH",
+        "cAKIyAH",
+        "cAKIyAtam",
+        "cAKIyAta",
+        "cAKIyAm",
+        "cAKIyAva",
+        "cAKIyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "cAKAyizIzwa",
+        "cAKizIzwa",
+        "cAKAyizIyAstAm",
+        "cAKizIyAstAm",
+        "cAKAyizIran",
+        "cAKizIran",
+        "cAKAyizIzWAH",
+        "cAKizIzWAH",
+        "cAKAyizIyAsTAm",
+        "cAKizIyAsTAm",
+        "cAKAyizIDvam",
+        "cAKizIDvam",
+        "cAKAyizIya",
+        "cAKizIya",
+        "cAKAyizIvahi",
+        "cAKizIvahi",
+        "cAKAyizImahi",
+        "cAKizImahi"
+      ],
+      "alang": [
+        "acAKAyata",
+        "acAKAyetAm",
+        "acAKAyanta",
+        "acAKAyaTAH",
+        "acAKAyeTAm",
+        "acAKAyaDvam",
+        "acAKAye",
+        "acAKAyAvahi",
+        "acAKAyAmahi"
+      ],
+      "alat": [
+        "cAKAyate",
+        "cAKAyete",
+        "cAKAyante",
+        "cAKAyase",
+        "cAKAyeTe",
+        "cAKAyaDve",
+        "cAKAye",
+        "cAKAyAvahe",
+        "cAKAyAmahe"
+      ],
+      "alit": [
+        "cAKAYcakre",
+        "cAKAmAse",
+        "cAKAmbaBUve",
+        "cAKAYcakrAte",
+        "cAKAmAsAte",
+        "cAKAmbaBUvAte",
+        "cAKAYcakrire",
+        "cAKAmAsire",
+        "cAKAmbaBUvire",
+        "cAKAYcakfze",
+        "cAKAmAsize",
+        "cAKAmbaBUvize",
+        "cAKAYcakrATe",
+        "cAKAmAsATe",
+        "cAKAmbaBUvATe",
+        "cAKAYcakfQve",
+        "cAKAmAsiDve",
+        "cAKAmbaBUviQve",
+        "cAKAYcakre",
+        "cAKAmAhe",
+        "cAKAmbaBUve",
+        "cAKAYcakfvahe",
+        "cAKAmAsivahe",
+        "cAKAmbaBUvivahe",
+        "cAKAYcakfmahe",
+        "cAKAmAsimahe",
+        "cAKAmbaBUvimahe"
+      ],
+      "alot": [
+        "cAKAyatAm",
+        "cAKAyetAm",
+        "cAKAyantAm",
+        "cAKAyasva",
+        "cAKAyeTAm",
+        "cAKAyaDvam",
+        "cAKAyE",
+        "cAKAyAvahE",
+        "cAKAyAmahE"
+      ],
+      "alrung": [
+        "acAKAyizyata",
+        "acAKizyata",
+        "acAKAyizyetAm",
+        "acAKizyetAm",
+        "acAKAyizyanta",
+        "acAKizyanta",
+        "acAKAyizyaTAH",
+        "acAKizyaTAH",
+        "acAKAyizyeTAm",
+        "acAKizyeTAm",
+        "acAKAyizyaDvam",
+        "acAKizyaDvam",
+        "acAKAyizye",
+        "acAKizye",
+        "acAKAyizyAvahi",
+        "acAKizyAvahi",
+        "acAKAyizyAmahi",
+        "acAKizyAmahi"
+      ],
+      "alrut": [
+        "cAKAyizyate",
+        "cAKizyate",
+        "cAKAyizyete",
+        "cAKizyete",
+        "cAKAyizyante",
+        "cAKizyante",
+        "cAKAyizyase",
+        "cAKizyase",
+        "cAKAyizyeTe",
+        "cAKizyeTe",
+        "cAKAyizyaDve",
+        "cAKizyaDve",
+        "cAKAyizye",
+        "cAKizye",
+        "cAKAyizyAvahe",
+        "cAKizyAvahe",
+        "cAKAyizyAmahe",
+        "cAKizyAmahe"
+      ],
+      "alung": [
+        "acAKAyi",
+        "acAKAyizAtAm",
+        "acAKizAtAm",
+        "acAKAyizata",
+        "acAKizata",
+        "acAKAyizWAH",
+        "acAKizWAH",
+        "acAKAyizATAm",
+        "acAKizATAm",
+        "acAKAyiDvam",
+        "acAKiDvam",
+        "acAKAyizi",
+        "acAKizi",
+        "acAKAyizvahi",
+        "acAKizvahi",
+        "acAKAyizmahi",
+        "acAKizmahi"
+      ],
+      "alut": [
+        "cAKAyitA",
+        "cAKitA",
+        "cAKAyitArO",
+        "cAKitArO",
+        "cAKAyitAraH",
+        "cAKitAraH",
+        "cAKAyitAse",
+        "cAKitAse",
+        "cAKAyitAsATe",
+        "cAKitAsATe",
+        "cAKAyitADve",
+        "cAKitADve",
+        "cAKAyitAhe",
+        "cAKitAhe",
+        "cAKAyitAsvahe",
+        "cAKitAsvahe",
+        "cAKAyitAsmahe",
+        "cAKitAsmahe"
+      ],
+      "avidhiling": [
+        "cAKAyeta",
+        "cAKAyeyAtAm",
+        "cAKAyeran",
+        "cAKAyeTAH",
+        "cAKAyeyATAm",
+        "cAKAyeDvam",
+        "cAKAyeya",
+        "cAKAyevahi",
+        "cAKAyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "KA",
+          "m": "KAH",
+          "f": "KA",
+          "n": "KAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "KAnIya",
+          "m": "KAnIyaH",
+          "f": "KAnIyA",
+          "n": "KAnIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "KAta",
+          "m": "KAtaH",
+          "f": "KAtA",
+          "n": "KAtam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "KAtavat",
+          "m": "KAtavAn",
+          "f": "KAtavatI",
+          "n": "KAtavat/KAtavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "KAti",
+          "m": "",
+          "f": "KAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "KAtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "caKivas",
+          "m": "caKivAn",
+          "f": "caKuzI",
+          "n": "caKivat/caKivad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "KAya",
+          "m": "KAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "KAyamAna",
+          "m": "KAyamAnaH",
+          "f": "KAyamAnA",
+          "n": "KAyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "KAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "KAyaka",
+          "m": "KAyakaH",
+          "f": "KAyikA",
+          "n": "KAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "KAtavya",
+          "m": "KAtavyaH",
+          "f": "KAtavyA",
+          "n": "KAtavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "KAtum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "KAtf",
+          "m": "KAtA",
+          "f": "KAtrI",
+          "n": "KAtf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "KAyamAna",
+          "m": "KAyamAnaH",
+          "f": "KAyamAnA",
+          "n": "KAyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Keya",
+          "m": "KeyaH",
+          "f": "KeyA",
+          "n": "Keyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praKAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "KAna",
+          "m": "",
+          "f": "",
+          "n": "KAnam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "KAka",
+          "m": "KAkaH",
+          "f": "KAka",
+          "n": "KAkam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "KAyat",
+          "m": "KAyan",
+          "f": "KAyantI",
+          "n": "KAyat/KAyad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "KAyizyamARa",
+          "m": "KAyizyamARaH",
+          "f": "KAyizyamARA",
+          "n": "KAyizyamARam"
+        },
+        {
+          "base": "KAsyamAna",
+          "m": "KAsyamAnaH",
+          "f": "KAsyamAnA",
+          "n": "KAsyamAnam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "KAsyat",
+          "m": "KAsyan",
+          "f": "KAsyatI/KAsyantI",
+          "n": "KAsyat/KAsyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ciKAsA",
+          "m": "",
+          "f": "ciKAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ciKAsa",
+          "m": "ciKAsaH",
+          "f": "ciKAsA",
+          "n": "ciKAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ciKAsanIya",
+          "m": "ciKAsanIyaH",
+          "f": "ciKAsanIyA",
+          "n": "ciKAsanIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ciKAsu",
+          "m": "ciKAsuH",
+          "f": "ciKAsuH",
+          "n": "ciKAsu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ciKAsita",
+          "m": "ciKAsitaH",
+          "f": "ciKAsitA",
+          "n": "ciKAsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ciKAsitavat",
+          "m": "ciKAsitavAn",
+          "f": "ciKAsitavatI",
+          "n": "ciKAsitavat/ciKAsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ciKAsti",
+          "m": "",
+          "f": "ciKAstiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ciKAsitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ciKAsAmbaBUvas",
+          "m": "ciKAsAmbaBUvAn",
+          "f": "ciKAsAmbaBUzI",
+          "n": "ciKAsAmbaBUvat/ciKAsAmbaBUvad"
+        },
+        {
+          "base": "ciKAsAmAsivas",
+          "m": "ciKAsAmAsivAn",
+          "f": "ciKAsAmAsyuzI",
+          "n": "ciKAsAmAsivat/ciKAsAmAsivad"
+        },
+        {
+          "base": "ciKAsAYcakfvas",
+          "m": "ciKAsAYcakfvAn",
+          "f": "ciKAsAYcakruzI",
+          "n": "ciKAsAYcakfvat/ciKAsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ciKAsa",
+          "m": "ciKAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ciKAsamAna",
+          "m": "ciKAsamAnaH",
+          "f": "ciKAsamAnA",
+          "n": "ciKAsamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ciKAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ciKAsaka",
+          "m": "ciKAsakaH",
+          "f": "ciKAsikA",
+          "n": "ciKAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ciKAsitavya",
+          "m": "ciKAsitavyaH",
+          "f": "ciKAsitavyA",
+          "n": "ciKAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ciKAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ciKAsitf",
+          "m": "ciKAsitA",
+          "f": "ciKAsitrI",
+          "n": "ciKAsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ciKAsyamAna",
+          "m": "ciKAsyamAnaH",
+          "f": "ciKAsyamAnA",
+          "n": "ciKAsyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ciKAsya",
+          "m": "ciKAsyaH",
+          "f": "ciKAsyA",
+          "n": "ciKAsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praciKAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ciKAsana",
+          "m": "",
+          "f": "",
+          "n": "ciKAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ciKAsaka",
+          "m": "ciKAsakaH",
+          "f": "ciKAsikA",
+          "n": "ciKAsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ciKAsat",
+          "m": "ciKAsan",
+          "f": "ciKAsantI",
+          "n": "ciKAsat/ciKAsad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ciKAsizyamARa",
+          "m": "ciKAsizyamARaH",
+          "f": "ciKAsizyamARA",
+          "n": "ciKAsizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ciKAsizyat",
+          "m": "ciKAsizyan",
+          "f": "ciKAsizyatI/ciKAsizyantI",
+          "n": "ciKAsizyat/ciKAsizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "KApa",
+          "m": "KApaH",
+          "f": "KApA",
+          "n": "KApam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "KApanIya",
+          "m": "KApanIyaH",
+          "f": "KApanIyA",
+          "n": "KApanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "KApita",
+          "m": "KApitaH",
+          "f": "KApitA",
+          "n": "KApitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "KApitavat",
+          "m": "KApitavAn",
+          "f": "KApitavatI",
+          "n": "KApitavat/KApitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "KApti",
+          "m": "",
+          "f": "KAptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "KApayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "KApayAmbaBUvas",
+          "m": "KApayAmbaBUvAn",
+          "f": "KApayAmbaBUzI",
+          "n": "KApayAmbaBUvat/KApayAmbaBUvad"
+        },
+        {
+          "base": "KApayAmAsivas",
+          "m": "KApayAmAsivAn",
+          "f": "KApayAmAsyuzI",
+          "n": "KApayAmAsivat/KApayAmAsivad"
+        },
+        {
+          "base": "KApayAYcakfvas",
+          "m": "KApayAYcakfvAn",
+          "f": "KApayAYcakruzI",
+          "n": "KApayAYcakfvat/KApayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "KApayamAna",
+          "m": "KApayamAnaH",
+          "f": "KApayamAnA",
+          "n": "KApayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "KApam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "KApaka",
+          "m": "KApakaH",
+          "f": "KApikA",
+          "n": "KApakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "KApayitavya",
+          "m": "KApayitavyaH",
+          "f": "KApayitavyA",
+          "n": "KApayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "KApayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "KApayitf",
+          "m": "KApayitA",
+          "f": "KApayitrI",
+          "n": "KApayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "KApyamAna",
+          "m": "KApyamAnaH",
+          "f": "KApyamAnA",
+          "n": "KApyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "KApya",
+          "m": "KApyaH",
+          "f": "KApyA",
+          "n": "KApyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praKApya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "KApana",
+          "m": "",
+          "f": "",
+          "n": "KApanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "KApaka",
+          "m": "KApakaH",
+          "f": "KApikA",
+          "n": "KApakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "KApayat",
+          "m": "KApayan",
+          "f": "KApayantI",
+          "n": "KApayat/KApayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "KApayamAna",
+          "m": "KApayamAnaH",
+          "f": "KApayamAnA",
+          "n": "KApayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "KApizyamARa",
+          "m": "KApizyamARaH",
+          "f": "KApizyamARA",
+          "n": "KApizyamARam"
+        },
+        {
+          "base": "KApayizyamARa",
+          "m": "KApayizyamARaH",
+          "f": "KApayizyamARA",
+          "n": "KApayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "KApayizyat",
+          "m": "KApayizyan",
+          "f": "KApayizyatI/KApayizyantI",
+          "n": "KApayizyat/KApayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "KApayizyamARa",
+          "m": "KApayizyamARaH",
+          "f": "KApayizyamARA",
+          "n": "KApayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "cAKAyA",
+          "m": "",
+          "f": "cAKAyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cAKA",
+          "m": "cAKAH",
+          "f": "cAKA",
+          "n": "cAKAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cAKAyanIya",
+          "m": "cAKAyanIyaH",
+          "f": "cAKAyanIyA",
+          "n": "cAKAyanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cAKAyita",
+          "m": "cAKAyitaH",
+          "f": "cAKAyitA",
+          "n": "cAKAyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cAKAyitavat",
+          "m": "cAKAyitavAn",
+          "f": "cAKAyitavatI",
+          "n": "cAKAyitavat/cAKAyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cAKAti",
+          "m": "",
+          "f": "cAKAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cAKAyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cAKAyAmbaBUvas",
+          "m": "cAKAyAmbaBUvAn",
+          "f": "cAKAyAmbaBUzI",
+          "n": "cAKAyAmbaBUvat/cAKAyAmbaBUvad"
+        },
+        {
+          "base": "cAKAyAmAsivas",
+          "m": "cAKAyAmAsivAn",
+          "f": "cAKAyAmAsyuzI",
+          "n": "cAKAyAmAsivat/cAKAyAmAsivad"
+        },
+        {
+          "base": "cAKAyAYcakfvas",
+          "m": "cAKAyAYcakfvAn",
+          "f": "cAKAyAYcakruzI",
+          "n": "cAKAyAYcakfvat/cAKAyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cAKAya",
+          "m": "cAKAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cAKAyamAna",
+          "m": "cAKAyamAnaH",
+          "f": "cAKAyamAnA",
+          "n": "cAKAyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cAKAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cAKAyaka",
+          "m": "cAKAyakaH",
+          "f": "cAKAyikA",
+          "n": "cAKAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cAKAyitavya",
+          "m": "cAKAyitavyaH",
+          "f": "cAKAyitavyA",
+          "n": "cAKAyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cAKAyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cAKAyitf",
+          "m": "cAKAyitA",
+          "f": "cAKAyitrI",
+          "n": "cAKAyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cAKAyyamAna",
+          "m": "cAKAyyamAnaH",
+          "f": "cAKAyyamAnA",
+          "n": "cAKAyyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cAKAyya",
+          "m": "cAKAyyaH",
+          "f": "cAKAyyA",
+          "n": "cAKAyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracAKAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cAKAyana",
+          "m": "",
+          "f": "",
+          "n": "cAKAyanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cAKAyaka",
+          "m": "cAKAyakaH",
+          "f": "cAKAyikA",
+          "n": "cAKAyakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cAKAyamAna",
+          "m": "cAKAyamAnaH",
+          "f": "cAKAyamAnA",
+          "n": "cAKAyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cAKAyizyamARa",
+          "m": "cAKAyizyamARaH",
+          "f": "cAKAyizyamARA",
+          "n": "cAKAyizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cAKAyizyamARa",
+          "m": "cAKAyizyamARaH",
+          "f": "cAKAyizyamARA",
+          "n": "cAKAyizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "cAKA",
+          "m": "",
+          "f": "cAKA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cAKA",
+          "m": "cAKAH",
+          "f": "cAKA",
+          "n": "cAKAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cAKAnIya",
+          "m": "cAKAnIyaH",
+          "f": "cAKAnIyA",
+          "n": "cAKAnIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cAKita",
+          "m": "cAKitaH",
+          "f": "cAKitA",
+          "n": "cAKitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cAKitavat",
+          "m": "cAKitavAn",
+          "f": "cAKitavatI",
+          "n": "cAKitavat/cAKitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cAKAti",
+          "m": "",
+          "f": "cAKAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cAKitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cAKAmbaBUvas",
+          "m": "cAKAmbaBUvAn",
+          "f": "cAKAmbaBUzI",
+          "n": "cAKAmbaBUvat/cAKAmbaBUvad"
+        },
+        {
+          "base": "cAKAmAsivas",
+          "m": "cAKAmAsivAn",
+          "f": "cAKAmAsyuzI",
+          "n": "cAKAmAsivat/cAKAmAsivad"
+        },
+        {
+          "base": "cAKAYcakfvas",
+          "m": "cAKAYcakfvAn",
+          "f": "cAKAYcakruzI",
+          "n": "cAKAYcakfvat/cAKAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cAKAya",
+          "m": "cAKAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cAKAna",
+          "m": "cAKAnaH",
+          "f": "cAKAnA",
+          "n": "cAKAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cAKAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cAKAyaka",
+          "m": "cAKAyakaH",
+          "f": "cAKAyikA",
+          "n": "cAKAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cAKitavya",
+          "m": "cAKitavyaH",
+          "f": "cAKitavyA",
+          "n": "cAKitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cAKitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cAKitf",
+          "m": "cAKitA",
+          "f": "cAKitrI",
+          "n": "cAKitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cAKAyamAna",
+          "m": "cAKAyamAnaH",
+          "f": "cAKAyamAnA",
+          "n": "cAKAyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracAKAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cAKAna",
+          "m": "",
+          "f": "",
+          "n": "cAKAnam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cAKAka",
+          "m": "cAKAkaH",
+          "f": "cAKAka",
+          "n": "cAKAkam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cAKat",
+          "m": "cAKat/cAKad",
+          "f": "cAKatI",
+          "n": "cAKat/cAKad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cAKAyizyamARa",
+          "m": "cAKAyizyamARaH",
+          "f": "cAKAyizyamARA",
+          "n": "cAKAyizyamARam"
+        },
+        {
+          "base": "cAKizyamARa",
+          "m": "cAKizyamARaH",
+          "f": "cAKizyamARA",
+          "n": "cAKizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cAKizyat",
+          "m": "cAKizyan",
+          "f": "cAKizyatI/cAKizyantI",
+          "n": "cAKizyat/cAKizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "KE",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

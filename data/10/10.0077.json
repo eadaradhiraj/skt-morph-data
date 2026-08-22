@@ -1,0 +1,3515 @@
+{
+  "id": "10.0077",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Baqi~"
+    },
+    {
+      "name": "arTaH",
+      "value": "kalyARe"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to do auspicious work"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "SuBa kArya karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "kalyARe BaRqayedBaRqeH parihAse tu BaRqate ' (Slo. 89) - devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1588"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1588"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2567",
+      "ext_link": "/sutraani/sk2567?scroll=sutra-commentary-kaumudi-region&highlight=Baqai"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "BaRqayizIzwa",
+        "BaRqayizIyAstAm",
+        "BaRqayizIran",
+        "BaRqayizIzWAH",
+        "BaRqayizIyAsTAm",
+        "BaRqayizIQvam",
+        "BaRqayizIDvam",
+        "BaRqayizIya",
+        "BaRqayizIvahi",
+        "BaRqayizImahi"
+      ],
+      "alang": [
+        "aBaRqayata",
+        "aBaRqayetAm",
+        "aBaRqayanta",
+        "aBaRqayaTAH",
+        "aBaRqayeTAm",
+        "aBaRqayaDvam",
+        "aBaRqaye",
+        "aBaRqayAvahi",
+        "aBaRqayAmahi"
+      ],
+      "alat": [
+        "BaRqayate",
+        "BaRqayete",
+        "BaRqayante",
+        "BaRqayase",
+        "BaRqayeTe",
+        "BaRqayaDve",
+        "BaRqaye",
+        "BaRqayAvahe",
+        "BaRqayAmahe"
+      ],
+      "alit": [
+        "BaRqayAYcakre",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakrAte",
+        "BaRqayAmAsatuH",
+        "BaRqayAmbaBUvatuH",
+        "BaRqayAYcakrire",
+        "BaRqayAmAsuH",
+        "BaRqayAmbaBUvuH",
+        "BaRqayAYcakfze",
+        "BaRqayAmAsiTa",
+        "BaRqayAmbaBUviTa",
+        "BaRqayAYcakrATe",
+        "BaRqayAmAsaTuH",
+        "BaRqayAmbaBUvaTuH",
+        "BaRqayAYcakfQve",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakre",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakfvahe",
+        "BaRqayAmAsiva",
+        "BaRqayAmbaBUviva",
+        "BaRqayAYcakfmahe",
+        "BaRqayAmAsima",
+        "BaRqayAmbaBUvima"
+      ],
+      "alot": [
+        "BaRqayatAm",
+        "BaRqayetAm",
+        "BaRqayantAm",
+        "BaRqayasva",
+        "BaRqayeTAm",
+        "BaRqayaDvam",
+        "BaRqayE",
+        "BaRqayAvahE",
+        "BaRqayAmahE"
+      ],
+      "alrung": [
+        "aBaRqayizyata",
+        "aBaRqayizyetAm",
+        "aBaRqayizyanta",
+        "aBaRqayizyaTAH",
+        "aBaRqayizyeTAm",
+        "aBaRqayizyaDvam",
+        "aBaRqayizye",
+        "aBaRqayizyAvahi",
+        "aBaRqayizyAmahi"
+      ],
+      "alrut": [
+        "BaRqayizyate",
+        "BaRqayizyete",
+        "BaRqayizyante",
+        "BaRqayizyase",
+        "BaRqayizyeTe",
+        "BaRqayizyaDve",
+        "BaRqayizye",
+        "BaRqayizyAvahe",
+        "BaRqayizyAmahe"
+      ],
+      "alung": [
+        "abaBaRqata",
+        "abaBaRqetAm",
+        "abaBaRqanta",
+        "abaBaRqaTAH",
+        "abaBaRqeTAm",
+        "abaBaRqaDvam",
+        "abaBaRqe",
+        "abaBaRqAvahi",
+        "abaBaRqAmahi"
+      ],
+      "alut": [
+        "BaRqayitA",
+        "BaRqayitArO",
+        "BaRqayitAraH",
+        "BaRqayitAse",
+        "BaRqayitAsATe",
+        "BaRqayitADve",
+        "BaRqayitAhe",
+        "BaRqayitAsvahe",
+        "BaRqayitAsmahe"
+      ],
+      "avidhiling": [
+        "BaRqayeta",
+        "BaRqayeyAtAm",
+        "BaRqayeran",
+        "BaRqayeTAH",
+        "BaRqayeyATAm",
+        "BaRqayeDvam",
+        "BaRqayeya",
+        "BaRqayevahi",
+        "BaRqayemahi"
+      ],
+      "pashirling": [
+        "BaRqyAt",
+        "BaRqyAd",
+        "BaRqyAstAm",
+        "BaRqyAsuH",
+        "BaRqyAH",
+        "BaRqyAstam",
+        "BaRqyAsta",
+        "BaRqyAsam",
+        "BaRqyAsva",
+        "BaRqyAsma"
+      ],
+      "plang": [
+        "aBaRqat",
+        "aBaRqad",
+        "aBaRqayat",
+        "aBaRqayad",
+        "aBaRqatAm",
+        "aBaRqayatAm",
+        "aBaRqan",
+        "aBaRqayan",
+        "aBaRqaH",
+        "aBaRqayaH",
+        "aBaRqatam",
+        "aBaRqayatam",
+        "aBaRqata",
+        "aBaRqayata",
+        "aBaRqam",
+        "aBaRqayam",
+        "aBaRqayAva",
+        "aBaRqAva",
+        "aBaRqayAma",
+        "aBaRqAma"
+      ],
+      "plat": [
+        "BaRqati",
+        "BaRqayati",
+        "BaRqataH",
+        "BaRqayataH",
+        "BaRqanti",
+        "BaRqayanti",
+        "BaRqayasi",
+        "BaRqasi",
+        "BaRqaTaH",
+        "BaRqayaTaH",
+        "BaRqaTa",
+        "BaRqayaTa",
+        "BaRqayAmi",
+        "BaRqAmi",
+        "BaRqayAvaH",
+        "BaRqAvaH",
+        "BaRqayAmaH",
+        "BaRqAmaH"
+      ],
+      "plit": [
+        "baBaRqa",
+        "BaRqayAYcakAra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "baBaRqatuH",
+        "BaRqayAYcakratuH",
+        "BaRqayAmAsatuH",
+        "BaRqayAmbaBUvatuH",
+        "baBaRquH",
+        "BaRqayAYcakruH",
+        "BaRqayAmAsuH",
+        "BaRqayAmbaBUvuH",
+        "baBaRqiTa",
+        "BaRqayAYcakarTa",
+        "BaRqayAmAsiTa",
+        "BaRqayAmbaBUviTa",
+        "baBaRqaTuH",
+        "BaRqayAYcakraTuH",
+        "BaRqayAmAsaTuH",
+        "BaRqayAmbaBUvaTuH",
+        "baBaRqa",
+        "BaRqayAYcakra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "baBaRqa",
+        "BaRqayAYcakara",
+        "BaRqayAYcakAra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "baBaRqiva",
+        "BaRqayAYcakfva",
+        "BaRqayAmAsiva",
+        "BaRqayAmbaBUviva",
+        "baBaRqima",
+        "BaRqayAYcakfma",
+        "BaRqayAmAsima",
+        "BaRqayAmbaBUvima"
+      ],
+      "plot": [
+        "BaRqatAt",
+        "BaRqatAd",
+        "BaRqatu",
+        "BaRqayatAt",
+        "BaRqayatAd",
+        "BaRqayatu",
+        "BaRqatAm",
+        "BaRqayatAm",
+        "BaRqantu",
+        "BaRqayantu",
+        "BaRqa",
+        "BaRqatAt",
+        "BaRqatAd",
+        "BaRqaya",
+        "BaRqayatAt",
+        "BaRqayatAd",
+        "BaRqatam",
+        "BaRqayatam",
+        "BaRqata",
+        "BaRqayata",
+        "BaRqayAni",
+        "BaRqAni",
+        "BaRqayAva",
+        "BaRqAva",
+        "BaRqayAma",
+        "BaRqAma"
+      ],
+      "plrung": [
+        "aBaRqayizyat",
+        "aBaRqayizyad",
+        "aBaRqizyat",
+        "aBaRqizyad",
+        "aBaRqayizyatAm",
+        "aBaRqizyatAm",
+        "aBaRqayizyan",
+        "aBaRqizyan",
+        "aBaRqayizyaH",
+        "aBaRqizyaH",
+        "aBaRqayizyatam",
+        "aBaRqizyatam",
+        "aBaRqayizyata",
+        "aBaRqizyata",
+        "aBaRqayizyam",
+        "aBaRqizyam",
+        "aBaRqayizyAva",
+        "aBaRqizyAva",
+        "aBaRqayizyAma",
+        "aBaRqizyAma"
+      ],
+      "plrut": [
+        "BaRqayizyati",
+        "BaRqizyati",
+        "BaRqayizyataH",
+        "BaRqizyataH",
+        "BaRqayizyanti",
+        "BaRqizyanti",
+        "BaRqayizyasi",
+        "BaRqizyasi",
+        "BaRqayizyaTaH",
+        "BaRqizyaTaH",
+        "BaRqayizyaTa",
+        "BaRqizyaTa",
+        "BaRqayizyAmi",
+        "BaRqizyAmi",
+        "BaRqayizyAvaH",
+        "BaRqizyAvaH",
+        "BaRqayizyAmaH",
+        "BaRqizyAmaH"
+      ],
+      "plung": [
+        "abaBaRqat",
+        "abaBaRqad",
+        "aBaRqIt",
+        "aBaRqId",
+        "abaBaRqatAm",
+        "aBaRqizwAm",
+        "abaBaRqan",
+        "aBaRqizuH",
+        "abaBaRqaH",
+        "aBaRqIH",
+        "abaBaRqatam",
+        "aBaRqizwam",
+        "abaBaRqata",
+        "aBaRqizwa",
+        "abaBaRqam",
+        "aBaRqizam",
+        "abaBaRqAva",
+        "aBaRqizva",
+        "abaBaRqAma",
+        "aBaRqizma"
+      ],
+      "plut": [
+        "BaRqayitA",
+        "BaRqitA",
+        "BaRqayitArO",
+        "BaRqitArO",
+        "BaRqayitAraH",
+        "BaRqitAraH",
+        "BaRqayitAsi",
+        "BaRqitAsi",
+        "BaRqayitAsTaH",
+        "BaRqitAsTaH",
+        "BaRqayitAsTa",
+        "BaRqitAsTa",
+        "BaRqayitAsmi",
+        "BaRqitAsmi",
+        "BaRqayitAsvaH",
+        "BaRqitAsvaH",
+        "BaRqayitAsmaH",
+        "BaRqitAsmaH"
+      ],
+      "pvidhiling": [
+        "BaRqayet",
+        "BaRqayed",
+        "BaRqet",
+        "BaRqed",
+        "BaRqayetAm",
+        "BaRqetAm",
+        "BaRqayeyuH",
+        "BaRqeyuH",
+        "BaRqayeH",
+        "BaRqeH",
+        "BaRqayetam",
+        "BaRqetam",
+        "BaRqayeta",
+        "BaRqeta",
+        "BaRqayeyam",
+        "BaRqeyam",
+        "BaRqayeva",
+        "BaRqeva",
+        "BaRqayema",
+        "BaRqema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "BaRqayizIzwa",
+        "BaRqizIzwa",
+        "BaRqayizIyAstAm",
+        "BaRqizIyAstAm",
+        "BaRqayizIran",
+        "BaRqizIran",
+        "BaRqayizIzWAH",
+        "BaRqizIzWAH",
+        "BaRqayizIyAsTAm",
+        "BaRqizIyAsTAm",
+        "BaRqayizIQvam",
+        "BaRqayizIDvam",
+        "BaRqizIDvam",
+        "BaRqayizIya",
+        "BaRqizIya",
+        "BaRqayizIvahi",
+        "BaRqizIvahi",
+        "BaRqayizImahi",
+        "BaRqizImahi"
+      ],
+      "alang": [
+        "aBaRqyata",
+        "aBaRqyetAm",
+        "aBaRqyanta",
+        "aBaRqyaTAH",
+        "aBaRqyeTAm",
+        "aBaRqyaDvam",
+        "aBaRqye",
+        "aBaRqyAvahi",
+        "aBaRqyAmahi"
+      ],
+      "alat": [
+        "BaRqyate",
+        "BaRqyete",
+        "BaRqyante",
+        "BaRqyase",
+        "BaRqyeTe",
+        "BaRqyaDve",
+        "BaRqye",
+        "BaRqyAvahe",
+        "BaRqyAmahe"
+      ],
+      "alit": [
+        "baBaRqe",
+        "BaRqayAYcakre",
+        "BaRqayAmAse",
+        "BaRqayAmbaBUve",
+        "baBaRqAte",
+        "BaRqayAYcakrAte",
+        "BaRqayAmAsAte",
+        "BaRqayAmbaBUvAte",
+        "baBaRqire",
+        "BaRqayAYcakrire",
+        "BaRqayAmAsire",
+        "BaRqayAmbaBUvire",
+        "baBaRqize",
+        "BaRqayAYcakfze",
+        "BaRqayAmAsize",
+        "BaRqayAmbaBUvize",
+        "baBaRqATe",
+        "BaRqayAYcakrATe",
+        "BaRqayAmAsATe",
+        "BaRqayAmbaBUvATe",
+        "baBaRqiDve",
+        "BaRqayAYcakfQve",
+        "BaRqayAmAsiDve",
+        "BaRqayAmbaBUviQve",
+        "baBaRqe",
+        "BaRqayAYcakre",
+        "BaRqayAmAhe",
+        "BaRqayAmbaBUve",
+        "baBaRqivahe",
+        "BaRqayAYcakfvahe",
+        "BaRqayAmAsivahe",
+        "BaRqayAmbaBUvivahe",
+        "baBaRqimahe",
+        "BaRqayAYcakfmahe",
+        "BaRqayAmAsimahe",
+        "BaRqayAmbaBUvimahe"
+      ],
+      "alot": [
+        "BaRqyatAm",
+        "BaRqyetAm",
+        "BaRqyantAm",
+        "BaRqyasva",
+        "BaRqyeTAm",
+        "BaRqyaDvam",
+        "BaRqyE",
+        "BaRqyAvahE",
+        "BaRqyAmahE"
+      ],
+      "alrung": [
+        "aBaRqayizyata",
+        "aBaRqizyata",
+        "aBaRqayizyetAm",
+        "aBaRqizyetAm",
+        "aBaRqayizyanta",
+        "aBaRqizyanta",
+        "aBaRqayizyaTAH",
+        "aBaRqizyaTAH",
+        "aBaRqayizyeTAm",
+        "aBaRqizyeTAm",
+        "aBaRqayizyaDvam",
+        "aBaRqizyaDvam",
+        "aBaRqayizye",
+        "aBaRqizye",
+        "aBaRqayizyAvahi",
+        "aBaRqizyAvahi",
+        "aBaRqayizyAmahi",
+        "aBaRqizyAmahi"
+      ],
+      "alrut": [
+        "BaRqayizyate",
+        "BaRqizyate",
+        "BaRqayizyete",
+        "BaRqizyete",
+        "BaRqayizyante",
+        "BaRqizyante",
+        "BaRqayizyase",
+        "BaRqizyase",
+        "BaRqayizyeTe",
+        "BaRqizyeTe",
+        "BaRqayizyaDve",
+        "BaRqizyaDve",
+        "BaRqayizye",
+        "BaRqizye",
+        "BaRqayizyAvahe",
+        "BaRqizyAvahe",
+        "BaRqayizyAmahe",
+        "BaRqizyAmahe"
+      ],
+      "alung": [
+        "aBaRqi",
+        "aBaRqayizAtAm",
+        "aBaRqizAtAm",
+        "aBaRqayizata",
+        "aBaRqizata",
+        "aBaRqayizWAH",
+        "aBaRqizWAH",
+        "aBaRqayizATAm",
+        "aBaRqizATAm",
+        "aBaRqayiQvam",
+        "aBaRqayiDvam",
+        "aBaRqiDvam",
+        "aBaRqayizi",
+        "aBaRqizi",
+        "aBaRqayizvahi",
+        "aBaRqizvahi",
+        "aBaRqayizmahi",
+        "aBaRqizmahi"
+      ],
+      "alut": [
+        "BaRqayitA",
+        "BaRqitA",
+        "BaRqayitArO",
+        "BaRqitArO",
+        "BaRqayitAraH",
+        "BaRqitAraH",
+        "BaRqayitAse",
+        "BaRqitAse",
+        "BaRqayitAsATe",
+        "BaRqitAsATe",
+        "BaRqayitADve",
+        "BaRqitADve",
+        "BaRqayitAhe",
+        "BaRqitAhe",
+        "BaRqayitAsvahe",
+        "BaRqitAsvahe",
+        "BaRqayitAsmahe",
+        "BaRqitAsmahe"
+      ],
+      "avidhiling": [
+        "BaRqyeta",
+        "BaRqyeyAtAm",
+        "BaRqyeran",
+        "BaRqyeTAH",
+        "BaRqyeyATAm",
+        "BaRqyeDvam",
+        "BaRqyeya",
+        "BaRqyevahi",
+        "BaRqyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "biBaRqayizizIzwa",
+        "biBaRqayizizIyAstAm",
+        "biBaRqayizizIran",
+        "biBaRqayizizIzWAH",
+        "biBaRqayizizIyAsTAm",
+        "biBaRqayizizIDvam",
+        "biBaRqayizizIya",
+        "biBaRqayizizIvahi",
+        "biBaRqayizizImahi"
+      ],
+      "alang": [
+        "abiBaRqayizata",
+        "abiBaRqayizetAm",
+        "abiBaRqayizanta",
+        "abiBaRqayizaTAH",
+        "abiBaRqayizeTAm",
+        "abiBaRqayizaDvam",
+        "abiBaRqayize",
+        "abiBaRqayizAvahi",
+        "abiBaRqayizAmahi"
+      ],
+      "alat": [
+        "biBaRqayizate",
+        "biBaRqayizete",
+        "biBaRqayizante",
+        "biBaRqayizase",
+        "biBaRqayizeTe",
+        "biBaRqayizaDve",
+        "biBaRqayize",
+        "biBaRqayizAvahe",
+        "biBaRqayizAmahe"
+      ],
+      "alit": [
+        "biBaRqayizAYcakre",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqayizAYcakrAte",
+        "biBaRqayizAmAsatuH",
+        "biBaRqayizAmbaBUvatuH",
+        "biBaRqayizAYcakrire",
+        "biBaRqayizAmAsuH",
+        "biBaRqayizAmbaBUvuH",
+        "biBaRqayizAYcakfze",
+        "biBaRqayizAmAsiTa",
+        "biBaRqayizAmbaBUviTa",
+        "biBaRqayizAYcakrATe",
+        "biBaRqayizAmAsaTuH",
+        "biBaRqayizAmbaBUvaTuH",
+        "biBaRqayizAYcakfQve",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqayizAYcakre",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqayizAYcakfvahe",
+        "biBaRqayizAmAsiva",
+        "biBaRqayizAmbaBUviva",
+        "biBaRqayizAYcakfmahe",
+        "biBaRqayizAmAsima",
+        "biBaRqayizAmbaBUvima"
+      ],
+      "alot": [
+        "biBaRqayizatAm",
+        "biBaRqayizetAm",
+        "biBaRqayizantAm",
+        "biBaRqayizasva",
+        "biBaRqayizeTAm",
+        "biBaRqayizaDvam",
+        "biBaRqayizE",
+        "biBaRqayizAvahE",
+        "biBaRqayizAmahE"
+      ],
+      "alrung": [
+        "abiBaRqayizizyata",
+        "abiBaRqayizizyetAm",
+        "abiBaRqayizizyanta",
+        "abiBaRqayizizyaTAH",
+        "abiBaRqayizizyeTAm",
+        "abiBaRqayizizyaDvam",
+        "abiBaRqayizizye",
+        "abiBaRqayizizyAvahi",
+        "abiBaRqayizizyAmahi"
+      ],
+      "alrut": [
+        "biBaRqayizizyate",
+        "biBaRqayizizyete",
+        "biBaRqayizizyante",
+        "biBaRqayizizyase",
+        "biBaRqayizizyeTe",
+        "biBaRqayizizyaDve",
+        "biBaRqayizizye",
+        "biBaRqayizizyAvahe",
+        "biBaRqayizizyAmahe"
+      ],
+      "alung": [
+        "abiBaRqayizizwa",
+        "abiBaRqayizizAtAm",
+        "abiBaRqayizizata",
+        "abiBaRqayizizWAH",
+        "abiBaRqayizizATAm",
+        "abiBaRqayiziDvam",
+        "abiBaRqayizizi",
+        "abiBaRqayizizvahi",
+        "abiBaRqayizizmahi"
+      ],
+      "alut": [
+        "biBaRqayizitA",
+        "biBaRqayizitArO",
+        "biBaRqayizitAraH",
+        "biBaRqayizitAse",
+        "biBaRqayizitAsATe",
+        "biBaRqayizitADve",
+        "biBaRqayizitAhe",
+        "biBaRqayizitAsvahe",
+        "biBaRqayizitAsmahe"
+      ],
+      "avidhiling": [
+        "biBaRqayizeta",
+        "biBaRqayizeyAtAm",
+        "biBaRqayizeran",
+        "biBaRqayizeTAH",
+        "biBaRqayizeyATAm",
+        "biBaRqayizeDvam",
+        "biBaRqayizeya",
+        "biBaRqayizevahi",
+        "biBaRqayizemahi"
+      ],
+      "pashirling": [
+        "biBaRqayizyAt",
+        "biBaRqayizyAd",
+        "biBaRqizyAt",
+        "biBaRqizyAd",
+        "biBaRqayizyAstAm",
+        "biBaRqizyAstAm",
+        "biBaRqayizyAsuH",
+        "biBaRqizyAsuH",
+        "biBaRqayizyAH",
+        "biBaRqizyAH",
+        "biBaRqayizyAstam",
+        "biBaRqizyAstam",
+        "biBaRqayizyAsta",
+        "biBaRqizyAsta",
+        "biBaRqayizyAsam",
+        "biBaRqizyAsam",
+        "biBaRqayizyAsva",
+        "biBaRqizyAsva",
+        "biBaRqayizyAsma",
+        "biBaRqizyAsma"
+      ],
+      "plang": [
+        "abiBaRqayizat",
+        "abiBaRqayizad",
+        "abiBaRqizat",
+        "abiBaRqizad",
+        "abiBaRqayizatAm",
+        "abiBaRqizatAm",
+        "abiBaRqayizan",
+        "abiBaRqizan",
+        "abiBaRqayizaH",
+        "abiBaRqizaH",
+        "abiBaRqayizatam",
+        "abiBaRqizatam",
+        "abiBaRqayizata",
+        "abiBaRqizata",
+        "abiBaRqayizam",
+        "abiBaRqizam",
+        "abiBaRqayizAva",
+        "abiBaRqizAva",
+        "abiBaRqayizAma",
+        "abiBaRqizAma"
+      ],
+      "plat": [
+        "biBaRqayizati",
+        "biBaRqizati",
+        "biBaRqayizataH",
+        "biBaRqizataH",
+        "biBaRqayizanti",
+        "biBaRqizanti",
+        "biBaRqayizasi",
+        "biBaRqizasi",
+        "biBaRqayizaTaH",
+        "biBaRqizaTaH",
+        "biBaRqayizaTa",
+        "biBaRqizaTa",
+        "biBaRqayizAmi",
+        "biBaRqizAmi",
+        "biBaRqayizAvaH",
+        "biBaRqizAvaH",
+        "biBaRqayizAmaH",
+        "biBaRqizAmaH"
+      ],
+      "plit": [
+        "biBaRqayizAYcakAra",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqizAYcakAra",
+        "biBaRqizAmAsa",
+        "biBaRqizAmbaBUva",
+        "biBaRqayizAYcakratuH",
+        "biBaRqayizAmAsatuH",
+        "biBaRqayizAmbaBUvatuH",
+        "biBaRqizAYcakratuH",
+        "biBaRqizAmAsatuH",
+        "biBaRqizAmbaBUvatuH",
+        "biBaRqayizAYcakruH",
+        "biBaRqayizAmAsuH",
+        "biBaRqayizAmbaBUvuH",
+        "biBaRqizAYcakruH",
+        "biBaRqizAmAsuH",
+        "biBaRqizAmbaBUvuH",
+        "biBaRqayizAYcakarTa",
+        "biBaRqayizAmAsiTa",
+        "biBaRqayizAmbaBUviTa",
+        "biBaRqizAYcakarTa",
+        "biBaRqizAmAsiTa",
+        "biBaRqizAmbaBUviTa",
+        "biBaRqayizAYcakraTuH",
+        "biBaRqayizAmAsaTuH",
+        "biBaRqayizAmbaBUvaTuH",
+        "biBaRqizAYcakraTuH",
+        "biBaRqizAmAsaTuH",
+        "biBaRqizAmbaBUvaTuH",
+        "biBaRqayizAYcakra",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqizAYcakra",
+        "biBaRqizAmAsa",
+        "biBaRqizAmbaBUva",
+        "biBaRqayizAYcakara",
+        "biBaRqayizAYcakAra",
+        "biBaRqayizAmAsa",
+        "biBaRqayizAmbaBUva",
+        "biBaRqizAYcakara",
+        "biBaRqizAYcakAra",
+        "biBaRqizAmAsa",
+        "biBaRqizAmbaBUva",
+        "biBaRqayizAYcakfva",
+        "biBaRqayizAmAsiva",
+        "biBaRqayizAmbaBUviva",
+        "biBaRqizAYcakfva",
+        "biBaRqizAmAsiva",
+        "biBaRqizAmbaBUviva",
+        "biBaRqayizAYcakfma",
+        "biBaRqayizAmAsima",
+        "biBaRqayizAmbaBUvima",
+        "biBaRqizAYcakfma",
+        "biBaRqizAmAsima",
+        "biBaRqizAmbaBUvima"
+      ],
+      "plot": [
+        "biBaRqayizatAt",
+        "biBaRqayizatAd",
+        "biBaRqayizatu",
+        "biBaRqizatAt",
+        "biBaRqizatAd",
+        "biBaRqizatu",
+        "biBaRqayizatAm",
+        "biBaRqizatAm",
+        "biBaRqayizantu",
+        "biBaRqizantu",
+        "biBaRqayiza",
+        "biBaRqayizatAt",
+        "biBaRqayizatAd",
+        "biBaRqiza",
+        "biBaRqizatAt",
+        "biBaRqizatAd",
+        "biBaRqayizatam",
+        "biBaRqizatam",
+        "biBaRqayizata",
+        "biBaRqizata",
+        "biBaRqayizARi",
+        "biBaRqizARi",
+        "biBaRqayizAva",
+        "biBaRqizAva",
+        "biBaRqayizAma",
+        "biBaRqizAma"
+      ],
+      "plrung": [
+        "abiBaRqayizizyat",
+        "abiBaRqayizizyad",
+        "abiBaRqizizyat",
+        "abiBaRqizizyad",
+        "abiBaRqayizizyatAm",
+        "abiBaRqizizyatAm",
+        "abiBaRqayizizyan",
+        "abiBaRqizizyan",
+        "abiBaRqayizizyaH",
+        "abiBaRqizizyaH",
+        "abiBaRqayizizyatam",
+        "abiBaRqizizyatam",
+        "abiBaRqayizizyata",
+        "abiBaRqizizyata",
+        "abiBaRqayizizyam",
+        "abiBaRqizizyam",
+        "abiBaRqayizizyAva",
+        "abiBaRqizizyAva",
+        "abiBaRqayizizyAma",
+        "abiBaRqizizyAma"
+      ],
+      "plrut": [
+        "biBaRqayizizyati",
+        "biBaRqizizyati",
+        "biBaRqayizizyataH",
+        "biBaRqizizyataH",
+        "biBaRqayizizyanti",
+        "biBaRqizizyanti",
+        "biBaRqayizizyasi",
+        "biBaRqizizyasi",
+        "biBaRqayizizyaTaH",
+        "biBaRqizizyaTaH",
+        "biBaRqayizizyaTa",
+        "biBaRqizizyaTa",
+        "biBaRqayizizyAmi",
+        "biBaRqizizyAmi",
+        "biBaRqayizizyAvaH",
+        "biBaRqizizyAvaH",
+        "biBaRqayizizyAmaH",
+        "biBaRqizizyAmaH"
+      ],
+      "plung": [
+        "abiBaRqayizIt",
+        "abiBaRqayizId",
+        "abiBaRqizIt",
+        "abiBaRqizId",
+        "abiBaRqayizizwAm",
+        "abiBaRqizizwAm",
+        "abiBaRqayizizuH",
+        "abiBaRqizizuH",
+        "abiBaRqayizIH",
+        "abiBaRqizIH",
+        "abiBaRqayizizwam",
+        "abiBaRqizizwam",
+        "abiBaRqayizizwa",
+        "abiBaRqizizwa",
+        "abiBaRqayizizam",
+        "abiBaRqizizam",
+        "abiBaRqayizizva",
+        "abiBaRqizizva",
+        "abiBaRqayizizma",
+        "abiBaRqizizma"
+      ],
+      "plut": [
+        "biBaRqayizitA",
+        "biBaRqizitA",
+        "biBaRqayizitArO",
+        "biBaRqizitArO",
+        "biBaRqayizitAraH",
+        "biBaRqizitAraH",
+        "biBaRqayizitAsi",
+        "biBaRqizitAsi",
+        "biBaRqayizitAsTaH",
+        "biBaRqizitAsTaH",
+        "biBaRqayizitAsTa",
+        "biBaRqizitAsTa",
+        "biBaRqayizitAsmi",
+        "biBaRqizitAsmi",
+        "biBaRqayizitAsvaH",
+        "biBaRqizitAsvaH",
+        "biBaRqayizitAsmaH",
+        "biBaRqizitAsmaH"
+      ],
+      "pvidhiling": [
+        "biBaRqayizet",
+        "biBaRqayized",
+        "biBaRqizet",
+        "biBaRqized",
+        "biBaRqayizetAm",
+        "biBaRqizetAm",
+        "biBaRqayizeyuH",
+        "biBaRqizeyuH",
+        "biBaRqayizeH",
+        "biBaRqizeH",
+        "biBaRqayizetam",
+        "biBaRqizetam",
+        "biBaRqayizeta",
+        "biBaRqizeta",
+        "biBaRqayizeyam",
+        "biBaRqizeyam",
+        "biBaRqayizeva",
+        "biBaRqizeva",
+        "biBaRqayizema",
+        "biBaRqizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "biBaRqayizizIzwa",
+        "biBaRqizizIzwa",
+        "biBaRqayizizIyAstAm",
+        "biBaRqizizIyAstAm",
+        "biBaRqayizizIran",
+        "biBaRqizizIran",
+        "biBaRqayizizIzWAH",
+        "biBaRqizizIzWAH",
+        "biBaRqayizizIyAsTAm",
+        "biBaRqizizIyAsTAm",
+        "biBaRqayizizIDvam",
+        "biBaRqizizIDvam",
+        "biBaRqayizizIya",
+        "biBaRqizizIya",
+        "biBaRqayizizIvahi",
+        "biBaRqizizIvahi",
+        "biBaRqayizizImahi",
+        "biBaRqizizImahi"
+      ],
+      "alang": [
+        "abiBaRqayizyata",
+        "abiBaRqizyata",
+        "abiBaRqayizyetAm",
+        "abiBaRqizyetAm",
+        "abiBaRqayizyanta",
+        "abiBaRqizyanta",
+        "abiBaRqayizyaTAH",
+        "abiBaRqizyaTAH",
+        "abiBaRqayizyeTAm",
+        "abiBaRqizyeTAm",
+        "abiBaRqayizyaDvam",
+        "abiBaRqizyaDvam",
+        "abiBaRqayizye",
+        "abiBaRqizye",
+        "abiBaRqayizyAvahi",
+        "abiBaRqizyAvahi",
+        "abiBaRqayizyAmahi",
+        "abiBaRqizyAmahi"
+      ],
+      "alat": [
+        "biBaRqayizyate",
+        "biBaRqizyate",
+        "biBaRqayizyete",
+        "biBaRqizyete",
+        "biBaRqayizyante",
+        "biBaRqizyante",
+        "biBaRqayizyase",
+        "biBaRqizyase",
+        "biBaRqayizyeTe",
+        "biBaRqizyeTe",
+        "biBaRqayizyaDve",
+        "biBaRqizyaDve",
+        "biBaRqayizye",
+        "biBaRqizye",
+        "biBaRqayizyAvahe",
+        "biBaRqizyAvahe",
+        "biBaRqayizyAmahe",
+        "biBaRqizyAmahe"
+      ],
+      "alit": [
+        "biBaRqayizAYcakre",
+        "biBaRqayizAmAse",
+        "biBaRqayizAmbaBUve",
+        "biBaRqizAYcakre",
+        "biBaRqizAmAse",
+        "biBaRqizAmbaBUve",
+        "biBaRqayizAYcakrAte",
+        "biBaRqayizAmAsAte",
+        "biBaRqayizAmbaBUvAte",
+        "biBaRqizAYcakrAte",
+        "biBaRqizAmAsAte",
+        "biBaRqizAmbaBUvAte",
+        "biBaRqayizAYcakrire",
+        "biBaRqayizAmAsire",
+        "biBaRqayizAmbaBUvire",
+        "biBaRqizAYcakrire",
+        "biBaRqizAmAsire",
+        "biBaRqizAmbaBUvire",
+        "biBaRqayizAYcakfze",
+        "biBaRqayizAmAsize",
+        "biBaRqayizAmbaBUvize",
+        "biBaRqizAYcakfze",
+        "biBaRqizAmAsize",
+        "biBaRqizAmbaBUvize",
+        "biBaRqayizAYcakrATe",
+        "biBaRqayizAmAsATe",
+        "biBaRqayizAmbaBUvATe",
+        "biBaRqizAYcakrATe",
+        "biBaRqizAmAsATe",
+        "biBaRqizAmbaBUvATe",
+        "biBaRqayizAYcakfQve",
+        "biBaRqayizAmAsiDve",
+        "biBaRqayizAmbaBUviQve",
+        "biBaRqizAYcakfQve",
+        "biBaRqizAmAsiDve",
+        "biBaRqizAmbaBUviQve",
+        "biBaRqayizAYcakre",
+        "biBaRqayizAmAhe",
+        "biBaRqayizAmbaBUve",
+        "biBaRqizAYcakre",
+        "biBaRqizAmAhe",
+        "biBaRqizAmbaBUve",
+        "biBaRqayizAYcakfvahe",
+        "biBaRqayizAmAsivahe",
+        "biBaRqayizAmbaBUvivahe",
+        "biBaRqizAYcakfvahe",
+        "biBaRqizAmAsivahe",
+        "biBaRqizAmbaBUvivahe",
+        "biBaRqayizAYcakfmahe",
+        "biBaRqayizAmAsimahe",
+        "biBaRqayizAmbaBUvimahe",
+        "biBaRqizAYcakfmahe",
+        "biBaRqizAmAsimahe",
+        "biBaRqizAmbaBUvimahe"
+      ],
+      "alot": [
+        "biBaRqayizyatAm",
+        "biBaRqizyatAm",
+        "biBaRqayizyetAm",
+        "biBaRqizyetAm",
+        "biBaRqayizyantAm",
+        "biBaRqizyantAm",
+        "biBaRqayizyasva",
+        "biBaRqizyasva",
+        "biBaRqayizyeTAm",
+        "biBaRqizyeTAm",
+        "biBaRqayizyaDvam",
+        "biBaRqizyaDvam",
+        "biBaRqayizyE",
+        "biBaRqizyE",
+        "biBaRqayizyAvahE",
+        "biBaRqizyAvahE",
+        "biBaRqayizyAmahE",
+        "biBaRqizyAmahE"
+      ],
+      "alrung": [
+        "abiBaRqayizizyata",
+        "abiBaRqizizyata",
+        "abiBaRqayizizyetAm",
+        "abiBaRqizizyetAm",
+        "abiBaRqayizizyanta",
+        "abiBaRqizizyanta",
+        "abiBaRqayizizyaTAH",
+        "abiBaRqizizyaTAH",
+        "abiBaRqayizizyeTAm",
+        "abiBaRqizizyeTAm",
+        "abiBaRqayizizyaDvam",
+        "abiBaRqizizyaDvam",
+        "abiBaRqayizizye",
+        "abiBaRqizizye",
+        "abiBaRqayizizyAvahi",
+        "abiBaRqizizyAvahi",
+        "abiBaRqayizizyAmahi",
+        "abiBaRqizizyAmahi"
+      ],
+      "alrut": [
+        "biBaRqayizizyate",
+        "biBaRqizizyate",
+        "biBaRqayizizyete",
+        "biBaRqizizyete",
+        "biBaRqayizizyante",
+        "biBaRqizizyante",
+        "biBaRqayizizyase",
+        "biBaRqizizyase",
+        "biBaRqayizizyeTe",
+        "biBaRqizizyeTe",
+        "biBaRqayizizyaDve",
+        "biBaRqizizyaDve",
+        "biBaRqayizizye",
+        "biBaRqizizye",
+        "biBaRqayizizyAvahe",
+        "biBaRqizizyAvahe",
+        "biBaRqayizizyAmahe",
+        "biBaRqizizyAmahe"
+      ],
+      "alung": [
+        "abiBaRqayizi",
+        "abiBaRqizi",
+        "abiBaRqayizizAtAm",
+        "abiBaRqizizAtAm",
+        "abiBaRqayizizata",
+        "abiBaRqizizata",
+        "abiBaRqayizizWAH",
+        "abiBaRqizizWAH",
+        "abiBaRqayizizATAm",
+        "abiBaRqizizATAm",
+        "abiBaRqayiziDvam",
+        "abiBaRqiziDvam",
+        "abiBaRqayizizi",
+        "abiBaRqizizi",
+        "abiBaRqayizizvahi",
+        "abiBaRqizizvahi",
+        "abiBaRqayizizmahi",
+        "abiBaRqizizmahi"
+      ],
+      "alut": [
+        "biBaRqayizitA",
+        "biBaRqizitA",
+        "biBaRqayizitArO",
+        "biBaRqizitArO",
+        "biBaRqayizitAraH",
+        "biBaRqizitAraH",
+        "biBaRqayizitAse",
+        "biBaRqizitAse",
+        "biBaRqayizitAsATe",
+        "biBaRqizitAsATe",
+        "biBaRqayizitADve",
+        "biBaRqizitADve",
+        "biBaRqayizitAhe",
+        "biBaRqizitAhe",
+        "biBaRqayizitAsvahe",
+        "biBaRqizitAsvahe",
+        "biBaRqayizitAsmahe",
+        "biBaRqizitAsmahe"
+      ],
+      "avidhiling": [
+        "biBaRqayizyeta",
+        "biBaRqizyeta",
+        "biBaRqayizyeyAtAm",
+        "biBaRqizyeyAtAm",
+        "biBaRqayizyeran",
+        "biBaRqizyeran",
+        "biBaRqayizyeTAH",
+        "biBaRqizyeTAH",
+        "biBaRqayizyeyATAm",
+        "biBaRqizyeyATAm",
+        "biBaRqayizyeDvam",
+        "biBaRqizyeDvam",
+        "biBaRqayizyeya",
+        "biBaRqizyeya",
+        "biBaRqayizyevahi",
+        "biBaRqizyevahi",
+        "biBaRqayizyemahi",
+        "biBaRqizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "BaRqayizIzwa",
+        "BaRqayizIyAstAm",
+        "BaRqayizIran",
+        "BaRqayizIzWAH",
+        "BaRqayizIyAsTAm",
+        "BaRqayizIQvam",
+        "BaRqayizIDvam",
+        "BaRqayizIya",
+        "BaRqayizIvahi",
+        "BaRqayizImahi"
+      ],
+      "alang": [
+        "aBaRqayata",
+        "aBaRqayetAm",
+        "aBaRqayanta",
+        "aBaRqayaTAH",
+        "aBaRqayeTAm",
+        "aBaRqayaDvam",
+        "aBaRqaye",
+        "aBaRqayAvahi",
+        "aBaRqayAmahi"
+      ],
+      "alat": [
+        "BaRqayate",
+        "BaRqayete",
+        "BaRqayante",
+        "BaRqayase",
+        "BaRqayeTe",
+        "BaRqayaDve",
+        "BaRqaye",
+        "BaRqayAvahe",
+        "BaRqayAmahe"
+      ],
+      "alit": [
+        "BaRqayAYcakre",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakrAte",
+        "BaRqayAmAsatuH",
+        "BaRqayAmbaBUvatuH",
+        "BaRqayAYcakrire",
+        "BaRqayAmAsuH",
+        "BaRqayAmbaBUvuH",
+        "BaRqayAYcakfze",
+        "BaRqayAmAsiTa",
+        "BaRqayAmbaBUviTa",
+        "BaRqayAYcakrATe",
+        "BaRqayAmAsaTuH",
+        "BaRqayAmbaBUvaTuH",
+        "BaRqayAYcakfQve",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakre",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakfvahe",
+        "BaRqayAmAsiva",
+        "BaRqayAmbaBUviva",
+        "BaRqayAYcakfmahe",
+        "BaRqayAmAsima",
+        "BaRqayAmbaBUvima"
+      ],
+      "alot": [
+        "BaRqayatAm",
+        "BaRqayetAm",
+        "BaRqayantAm",
+        "BaRqayasva",
+        "BaRqayeTAm",
+        "BaRqayaDvam",
+        "BaRqayE",
+        "BaRqayAvahE",
+        "BaRqayAmahE"
+      ],
+      "alrung": [
+        "aBaRqayizyata",
+        "aBaRqayizyetAm",
+        "aBaRqayizyanta",
+        "aBaRqayizyaTAH",
+        "aBaRqayizyeTAm",
+        "aBaRqayizyaDvam",
+        "aBaRqayizye",
+        "aBaRqayizyAvahi",
+        "aBaRqayizyAmahi"
+      ],
+      "alrut": [
+        "BaRqayizyate",
+        "BaRqayizyete",
+        "BaRqayizyante",
+        "BaRqayizyase",
+        "BaRqayizyeTe",
+        "BaRqayizyaDve",
+        "BaRqayizye",
+        "BaRqayizyAvahe",
+        "BaRqayizyAmahe"
+      ],
+      "alung": [
+        "abaBaRqata",
+        "abaBaRqetAm",
+        "abaBaRqanta",
+        "abaBaRqaTAH",
+        "abaBaRqeTAm",
+        "abaBaRqaDvam",
+        "abaBaRqe",
+        "abaBaRqAvahi",
+        "abaBaRqAmahi"
+      ],
+      "alut": [
+        "BaRqayitA",
+        "BaRqayitArO",
+        "BaRqayitAraH",
+        "BaRqayitAse",
+        "BaRqayitAsATe",
+        "BaRqayitADve",
+        "BaRqayitAhe",
+        "BaRqayitAsvahe",
+        "BaRqayitAsmahe"
+      ],
+      "avidhiling": [
+        "BaRqayeta",
+        "BaRqayeyAtAm",
+        "BaRqayeran",
+        "BaRqayeTAH",
+        "BaRqayeyATAm",
+        "BaRqayeDvam",
+        "BaRqayeya",
+        "BaRqayevahi",
+        "BaRqayemahi"
+      ],
+      "pashirling": [
+        "BaRqyAt",
+        "BaRqyAd",
+        "BaRqyAstAm",
+        "BaRqyAsuH",
+        "BaRqyAH",
+        "BaRqyAstam",
+        "BaRqyAsta",
+        "BaRqyAsam",
+        "BaRqyAsva",
+        "BaRqyAsma"
+      ],
+      "plang": [
+        "aBaRqayat",
+        "aBaRqayad",
+        "aBaRqayatAm",
+        "aBaRqayan",
+        "aBaRqayaH",
+        "aBaRqayatam",
+        "aBaRqayata",
+        "aBaRqayam",
+        "aBaRqayAva",
+        "aBaRqayAma"
+      ],
+      "plat": [
+        "BaRqayati",
+        "BaRqayataH",
+        "BaRqayanti",
+        "BaRqayasi",
+        "BaRqayaTaH",
+        "BaRqayaTa",
+        "BaRqayAmi",
+        "BaRqayAvaH",
+        "BaRqayAmaH"
+      ],
+      "plit": [
+        "BaRqayAYcakAra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakratuH",
+        "BaRqayAmAsatuH",
+        "BaRqayAmbaBUvatuH",
+        "BaRqayAYcakruH",
+        "BaRqayAmAsuH",
+        "BaRqayAmbaBUvuH",
+        "BaRqayAYcakarTa",
+        "BaRqayAmAsiTa",
+        "BaRqayAmbaBUviTa",
+        "BaRqayAYcakraTuH",
+        "BaRqayAmAsaTuH",
+        "BaRqayAmbaBUvaTuH",
+        "BaRqayAYcakra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakara",
+        "BaRqayAYcakAra",
+        "BaRqayAmAsa",
+        "BaRqayAmbaBUva",
+        "BaRqayAYcakfva",
+        "BaRqayAmAsiva",
+        "BaRqayAmbaBUviva",
+        "BaRqayAYcakfma",
+        "BaRqayAmAsima",
+        "BaRqayAmbaBUvima"
+      ],
+      "plot": [
+        "BaRqayatAt",
+        "BaRqayatAd",
+        "BaRqayatu",
+        "BaRqayatAm",
+        "BaRqayantu",
+        "BaRqaya",
+        "BaRqayatAt",
+        "BaRqayatAd",
+        "BaRqayatam",
+        "BaRqayata",
+        "BaRqayAni",
+        "BaRqayAva",
+        "BaRqayAma"
+      ],
+      "plrung": [
+        "aBaRqayizyat",
+        "aBaRqayizyad",
+        "aBaRqayizyatAm",
+        "aBaRqayizyan",
+        "aBaRqayizyaH",
+        "aBaRqayizyatam",
+        "aBaRqayizyata",
+        "aBaRqayizyam",
+        "aBaRqayizyAva",
+        "aBaRqayizyAma"
+      ],
+      "plrut": [
+        "BaRqayizyati",
+        "BaRqayizyataH",
+        "BaRqayizyanti",
+        "BaRqayizyasi",
+        "BaRqayizyaTaH",
+        "BaRqayizyaTa",
+        "BaRqayizyAmi",
+        "BaRqayizyAvaH",
+        "BaRqayizyAmaH"
+      ],
+      "plung": [
+        "abaBaRqat",
+        "abaBaRqad",
+        "abaBaRqatAm",
+        "abaBaRqan",
+        "abaBaRqaH",
+        "abaBaRqatam",
+        "abaBaRqata",
+        "abaBaRqam",
+        "abaBaRqAva",
+        "abaBaRqAma"
+      ],
+      "plut": [
+        "BaRqayitA",
+        "BaRqayitArO",
+        "BaRqayitAraH",
+        "BaRqayitAsi",
+        "BaRqayitAsTaH",
+        "BaRqayitAsTa",
+        "BaRqayitAsmi",
+        "BaRqayitAsvaH",
+        "BaRqayitAsmaH"
+      ],
+      "pvidhiling": [
+        "BaRqayet",
+        "BaRqayed",
+        "BaRqayetAm",
+        "BaRqayeyuH",
+        "BaRqayeH",
+        "BaRqayetam",
+        "BaRqayeta",
+        "BaRqayeyam",
+        "BaRqayeva",
+        "BaRqayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "BaRqayizIzwa",
+        "BaRqizIzwa",
+        "BaRqayizIyAstAm",
+        "BaRqizIyAstAm",
+        "BaRqayizIran",
+        "BaRqizIran",
+        "BaRqayizIzWAH",
+        "BaRqizIzWAH",
+        "BaRqayizIyAsTAm",
+        "BaRqizIyAsTAm",
+        "BaRqayizIQvam",
+        "BaRqayizIDvam",
+        "BaRqizIDvam",
+        "BaRqayizIya",
+        "BaRqizIya",
+        "BaRqayizIvahi",
+        "BaRqizIvahi",
+        "BaRqayizImahi",
+        "BaRqizImahi"
+      ],
+      "alang": [
+        "aBaRqyata",
+        "aBaRqyetAm",
+        "aBaRqyanta",
+        "aBaRqyaTAH",
+        "aBaRqyeTAm",
+        "aBaRqyaDvam",
+        "aBaRqye",
+        "aBaRqyAvahi",
+        "aBaRqyAmahi"
+      ],
+      "alat": [
+        "BaRqyate",
+        "BaRqyete",
+        "BaRqyante",
+        "BaRqyase",
+        "BaRqyeTe",
+        "BaRqyaDve",
+        "BaRqye",
+        "BaRqyAvahe",
+        "BaRqyAmahe"
+      ],
+      "alit": [
+        "BaRqayAYcakre",
+        "BaRqayAmAse",
+        "BaRqayAmbaBUve",
+        "BaRqayAYcakrAte",
+        "BaRqayAmAsAte",
+        "BaRqayAmbaBUvAte",
+        "BaRqayAYcakrire",
+        "BaRqayAmAsire",
+        "BaRqayAmbaBUvire",
+        "BaRqayAYcakfze",
+        "BaRqayAmAsize",
+        "BaRqayAmbaBUvize",
+        "BaRqayAYcakrATe",
+        "BaRqayAmAsATe",
+        "BaRqayAmbaBUvATe",
+        "BaRqayAYcakfQve",
+        "BaRqayAmAsiDve",
+        "BaRqayAmbaBUviQve",
+        "BaRqayAYcakre",
+        "BaRqayAmAhe",
+        "BaRqayAmbaBUve",
+        "BaRqayAYcakfvahe",
+        "BaRqayAmAsivahe",
+        "BaRqayAmbaBUvivahe",
+        "BaRqayAYcakfmahe",
+        "BaRqayAmAsimahe",
+        "BaRqayAmbaBUvimahe"
+      ],
+      "alot": [
+        "BaRqyatAm",
+        "BaRqyetAm",
+        "BaRqyantAm",
+        "BaRqyasva",
+        "BaRqyeTAm",
+        "BaRqyaDvam",
+        "BaRqyE",
+        "BaRqyAvahE",
+        "BaRqyAmahE"
+      ],
+      "alrung": [
+        "aBaRqayizyata",
+        "aBaRqizyata",
+        "aBaRqayizyetAm",
+        "aBaRqizyetAm",
+        "aBaRqayizyanta",
+        "aBaRqizyanta",
+        "aBaRqayizyaTAH",
+        "aBaRqizyaTAH",
+        "aBaRqayizyeTAm",
+        "aBaRqizyeTAm",
+        "aBaRqayizyaDvam",
+        "aBaRqizyaDvam",
+        "aBaRqayizye",
+        "aBaRqizye",
+        "aBaRqayizyAvahi",
+        "aBaRqizyAvahi",
+        "aBaRqayizyAmahi",
+        "aBaRqizyAmahi"
+      ],
+      "alrut": [
+        "BaRqayizyate",
+        "BaRqizyate",
+        "BaRqayizyete",
+        "BaRqizyete",
+        "BaRqayizyante",
+        "BaRqizyante",
+        "BaRqayizyase",
+        "BaRqizyase",
+        "BaRqayizyeTe",
+        "BaRqizyeTe",
+        "BaRqayizyaDve",
+        "BaRqizyaDve",
+        "BaRqayizye",
+        "BaRqizye",
+        "BaRqayizyAvahe",
+        "BaRqizyAvahe",
+        "BaRqayizyAmahe",
+        "BaRqizyAmahe"
+      ],
+      "alung": [
+        "aBaRqi",
+        "aBaRqayizAtAm",
+        "aBaRqizAtAm",
+        "aBaRqayizata",
+        "aBaRqizata",
+        "aBaRqayizWAH",
+        "aBaRqizWAH",
+        "aBaRqayizATAm",
+        "aBaRqizATAm",
+        "aBaRqayiQvam",
+        "aBaRqayiDvam",
+        "aBaRqiDvam",
+        "aBaRqayizi",
+        "aBaRqizi",
+        "aBaRqayizvahi",
+        "aBaRqizvahi",
+        "aBaRqayizmahi",
+        "aBaRqizmahi"
+      ],
+      "alut": [
+        "BaRqayitA",
+        "BaRqitA",
+        "BaRqayitArO",
+        "BaRqitArO",
+        "BaRqayitAraH",
+        "BaRqitAraH",
+        "BaRqayitAse",
+        "BaRqitAse",
+        "BaRqayitAsATe",
+        "BaRqitAsATe",
+        "BaRqayitADve",
+        "BaRqitADve",
+        "BaRqayitAhe",
+        "BaRqitAhe",
+        "BaRqayitAsvahe",
+        "BaRqitAsvahe",
+        "BaRqayitAsmahe",
+        "BaRqitAsmahe"
+      ],
+      "avidhiling": [
+        "BaRqyeta",
+        "BaRqyeyAtAm",
+        "BaRqyeran",
+        "BaRqyeTAH",
+        "BaRqyeyATAm",
+        "BaRqyeDvam",
+        "BaRqyeya",
+        "BaRqyevahi",
+        "BaRqyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "bABaRqizIzwa",
+        "bABaRqizIyAstAm",
+        "bABaRqizIran",
+        "bABaRqizIzWAH",
+        "bABaRqizIyAsTAm",
+        "bABaRqizIDvam",
+        "bABaRqizIya",
+        "bABaRqizIvahi",
+        "bABaRqizImahi"
+      ],
+      "alang": [
+        "abABaRqyata",
+        "abABaRqyetAm",
+        "abABaRqyanta",
+        "abABaRqyaTAH",
+        "abABaRqyeTAm",
+        "abABaRqyaDvam",
+        "abABaRqye",
+        "abABaRqyAvahi",
+        "abABaRqyAmahi"
+      ],
+      "alat": [
+        "bABaRqyate",
+        "bABaRqyete",
+        "bABaRqyante",
+        "bABaRqyase",
+        "bABaRqyeTe",
+        "bABaRqyaDve",
+        "bABaRqye",
+        "bABaRqyAvahe",
+        "bABaRqyAmahe"
+      ],
+      "alit": [
+        "bABaRqAYcakre",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakrAte",
+        "bABaRqAmAsatuH",
+        "bABaRqAmbaBUvatuH",
+        "bABaRqAYcakrire",
+        "bABaRqAmAsuH",
+        "bABaRqAmbaBUvuH",
+        "bABaRqAYcakfze",
+        "bABaRqAmAsiTa",
+        "bABaRqAmbaBUviTa",
+        "bABaRqAYcakrATe",
+        "bABaRqAmAsaTuH",
+        "bABaRqAmbaBUvaTuH",
+        "bABaRqAYcakfQve",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakre",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakfvahe",
+        "bABaRqAmAsiva",
+        "bABaRqAmbaBUviva",
+        "bABaRqAYcakfmahe",
+        "bABaRqAmAsima",
+        "bABaRqAmbaBUvima"
+      ],
+      "alot": [
+        "bABaRqyatAm",
+        "bABaRqyetAm",
+        "bABaRqyantAm",
+        "bABaRqyasva",
+        "bABaRqyeTAm",
+        "bABaRqyaDvam",
+        "bABaRqyE",
+        "bABaRqyAvahE",
+        "bABaRqyAmahE"
+      ],
+      "alrung": [
+        "abABaRqizyata",
+        "abABaRqizyetAm",
+        "abABaRqizyanta",
+        "abABaRqizyaTAH",
+        "abABaRqizyeTAm",
+        "abABaRqizyaDvam",
+        "abABaRqizye",
+        "abABaRqizyAvahi",
+        "abABaRqizyAmahi"
+      ],
+      "alrut": [
+        "bABaRqizyate",
+        "bABaRqizyete",
+        "bABaRqizyante",
+        "bABaRqizyase",
+        "bABaRqizyeTe",
+        "bABaRqizyaDve",
+        "bABaRqizye",
+        "bABaRqizyAvahe",
+        "bABaRqizyAmahe"
+      ],
+      "alung": [
+        "abABaRqizwa",
+        "abABaRqizAtAm",
+        "abABaRqizata",
+        "abABaRqizWAH",
+        "abABaRqizATAm",
+        "abABaRqiDvam",
+        "abABaRqizi",
+        "abABaRqizvahi",
+        "abABaRqizmahi"
+      ],
+      "alut": [
+        "bABaRqitA",
+        "bABaRqitArO",
+        "bABaRqitAraH",
+        "bABaRqitAse",
+        "bABaRqitAsATe",
+        "bABaRqitADve",
+        "bABaRqitAhe",
+        "bABaRqitAsvahe",
+        "bABaRqitAsmahe"
+      ],
+      "avidhiling": [
+        "bABaRqyeta",
+        "bABaRqyeyAtAm",
+        "bABaRqyeran",
+        "bABaRqyeTAH",
+        "bABaRqyeyATAm",
+        "bABaRqyeDvam",
+        "bABaRqyeya",
+        "bABaRqyevahi",
+        "bABaRqyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "bABaRqizIzwa",
+        "bABaRqizIyAstAm",
+        "bABaRqizIran",
+        "bABaRqizIzWAH",
+        "bABaRqizIyAsTAm",
+        "bABaRqizIDvam",
+        "bABaRqizIya",
+        "bABaRqizIvahi",
+        "bABaRqizImahi"
+      ],
+      "alang": [
+        "abABaRqyata",
+        "abABaRqyetAm",
+        "abABaRqyanta",
+        "abABaRqyaTAH",
+        "abABaRqyeTAm",
+        "abABaRqyaDvam",
+        "abABaRqye",
+        "abABaRqyAvahi",
+        "abABaRqyAmahi"
+      ],
+      "alat": [
+        "bABaRqyate",
+        "bABaRqyete",
+        "bABaRqyante",
+        "bABaRqyase",
+        "bABaRqyeTe",
+        "bABaRqyaDve",
+        "bABaRqye",
+        "bABaRqyAvahe",
+        "bABaRqyAmahe"
+      ],
+      "alit": [
+        "bABaRqAYcakre",
+        "bABaRqAmAse",
+        "bABaRqAmbaBUve",
+        "bABaRqAYcakrAte",
+        "bABaRqAmAsAte",
+        "bABaRqAmbaBUvAte",
+        "bABaRqAYcakrire",
+        "bABaRqAmAsire",
+        "bABaRqAmbaBUvire",
+        "bABaRqAYcakfze",
+        "bABaRqAmAsize",
+        "bABaRqAmbaBUvize",
+        "bABaRqAYcakrATe",
+        "bABaRqAmAsATe",
+        "bABaRqAmbaBUvATe",
+        "bABaRqAYcakfQve",
+        "bABaRqAmAsiDve",
+        "bABaRqAmbaBUviQve",
+        "bABaRqAYcakre",
+        "bABaRqAmAhe",
+        "bABaRqAmbaBUve",
+        "bABaRqAYcakfvahe",
+        "bABaRqAmAsivahe",
+        "bABaRqAmbaBUvivahe",
+        "bABaRqAYcakfmahe",
+        "bABaRqAmAsimahe",
+        "bABaRqAmbaBUvimahe"
+      ],
+      "alot": [
+        "bABaRqyatAm",
+        "bABaRqyetAm",
+        "bABaRqyantAm",
+        "bABaRqyasva",
+        "bABaRqyeTAm",
+        "bABaRqyaDvam",
+        "bABaRqyE",
+        "bABaRqyAvahE",
+        "bABaRqyAmahE"
+      ],
+      "alrung": [
+        "abABaRqizyata",
+        "abABaRqizyetAm",
+        "abABaRqizyanta",
+        "abABaRqizyaTAH",
+        "abABaRqizyeTAm",
+        "abABaRqizyaDvam",
+        "abABaRqizye",
+        "abABaRqizyAvahi",
+        "abABaRqizyAmahi"
+      ],
+      "alrut": [
+        "bABaRqizyate",
+        "bABaRqizyete",
+        "bABaRqizyante",
+        "bABaRqizyase",
+        "bABaRqizyeTe",
+        "bABaRqizyaDve",
+        "bABaRqizye",
+        "bABaRqizyAvahe",
+        "bABaRqizyAmahe"
+      ],
+      "alung": [
+        "abABaRqi",
+        "abABaRqizAtAm",
+        "abABaRqizata",
+        "abABaRqizWAH",
+        "abABaRqizATAm",
+        "abABaRqiDvam",
+        "abABaRqizi",
+        "abABaRqizvahi",
+        "abABaRqizmahi"
+      ],
+      "alut": [
+        "bABaRqitA",
+        "bABaRqitArO",
+        "bABaRqitAraH",
+        "bABaRqitAse",
+        "bABaRqitAsATe",
+        "bABaRqitADve",
+        "bABaRqitAhe",
+        "bABaRqitAsvahe",
+        "bABaRqitAsmahe"
+      ],
+      "avidhiling": [
+        "bABaRqyeta",
+        "bABaRqyeyAtAm",
+        "bABaRqyeran",
+        "bABaRqyeTAH",
+        "bABaRqyeyATAm",
+        "bABaRqyeDvam",
+        "bABaRqyeya",
+        "bABaRqyevahi",
+        "bABaRqyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "bABaRqyAt",
+        "bABaRqyAd",
+        "bABaRqyAstAm",
+        "bABaRqyAsuH",
+        "bABaRqyAH",
+        "bABaRqyAstam",
+        "bABaRqyAsta",
+        "bABaRqyAsam",
+        "bABaRqyAsva",
+        "bABaRqyAsma"
+      ],
+      "plang": [
+        "abABaRqIt",
+        "abABaRqId",
+        "abABan",
+        "abABaRwAm",
+        "abABaRwwAm",
+        "abABaRquH",
+        "abABaRqIH",
+        "abABan",
+        "abABaRwam",
+        "abABaRwwam",
+        "abABaRwa",
+        "abABaRwwa",
+        "abABaRqam",
+        "abABaRqva",
+        "abABaRqma"
+      ],
+      "plat": [
+        "bABaRwi",
+        "bABaRwwi",
+        "bABaRqIti",
+        "bABaRwaH",
+        "bABaRwwaH",
+        "bABaRqati",
+        "bABaRwzi",
+        "bABaRqIzi",
+        "bABaRwWaH",
+        "bABaRWaH",
+        "bABaRwWa",
+        "bABaRWa",
+        "bABaRqImi",
+        "bABaRqmi",
+        "bABaRqvaH",
+        "bABaRqmaH"
+      ],
+      "plit": [
+        "bABaRqAYcakAra",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakratuH",
+        "bABaRqAmAsatuH",
+        "bABaRqAmbaBUvatuH",
+        "bABaRqAYcakruH",
+        "bABaRqAmAsuH",
+        "bABaRqAmbaBUvuH",
+        "bABaRqAYcakarTa",
+        "bABaRqAmAsiTa",
+        "bABaRqAmbaBUviTa",
+        "bABaRqAYcakraTuH",
+        "bABaRqAmAsaTuH",
+        "bABaRqAmbaBUvaTuH",
+        "bABaRqAYcakra",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakara",
+        "bABaRqAYcakAra",
+        "bABaRqAmAsa",
+        "bABaRqAmbaBUva",
+        "bABaRqAYcakfva",
+        "bABaRqAmAsiva",
+        "bABaRqAmbaBUviva",
+        "bABaRqAYcakfma",
+        "bABaRqAmAsima",
+        "bABaRqAmbaBUvima"
+      ],
+      "plot": [
+        "bABaRwAt",
+        "bABaRwAd",
+        "bABaRwu",
+        "bABaRwwAt",
+        "bABaRwwAd",
+        "bABaRwwu",
+        "bABaRqItu",
+        "bABaRwAm",
+        "bABaRwwAm",
+        "bABaRqatu",
+        "bABaRwAt",
+        "bABaRwAd",
+        "bABaRwwAt",
+        "bABaRwwAd",
+        "bABaRqQi",
+        "bABaRQi",
+        "bABaRwam",
+        "bABaRwwam",
+        "bABaRwa",
+        "bABaRwwa",
+        "bABaRqAni",
+        "bABaRqAva",
+        "bABaRqAma"
+      ],
+      "plrung": [
+        "abABaRqizyat",
+        "abABaRqizyad",
+        "abABaRqizyatAm",
+        "abABaRqizyan",
+        "abABaRqizyaH",
+        "abABaRqizyatam",
+        "abABaRqizyata",
+        "abABaRqizyam",
+        "abABaRqizyAva",
+        "abABaRqizyAma"
+      ],
+      "plrut": [
+        "bABaRqizyati",
+        "bABaRqizyataH",
+        "bABaRqizyanti",
+        "bABaRqizyasi",
+        "bABaRqizyaTaH",
+        "bABaRqizyaTa",
+        "bABaRqizyAmi",
+        "bABaRqizyAvaH",
+        "bABaRqizyAmaH"
+      ],
+      "plung": [
+        "abABaRqIt",
+        "abABaRqId",
+        "abABaRqizwAm",
+        "abABaRqizuH",
+        "abABaRqIH",
+        "abABaRqizwam",
+        "abABaRqizwa",
+        "abABaRqizam",
+        "abABaRqizva",
+        "abABaRqizma"
+      ],
+      "plut": [
+        "bABaRqitA",
+        "bABaRqitArO",
+        "bABaRqitAraH",
+        "bABaRqitAsi",
+        "bABaRqitAsTaH",
+        "bABaRqitAsTa",
+        "bABaRqitAsmi",
+        "bABaRqitAsvaH",
+        "bABaRqitAsmaH"
+      ],
+      "pvidhiling": [
+        "bABaRqyAt",
+        "bABaRqyAd",
+        "bABaRqyAtAm",
+        "bABaRqyuH",
+        "bABaRqyAH",
+        "bABaRqyAtam",
+        "bABaRqyAta",
+        "bABaRqyAm",
+        "bABaRqyAva",
+        "bABaRqyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "bABaRqizIzwa",
+        "bABaRqizIyAstAm",
+        "bABaRqizIran",
+        "bABaRqizIzWAH",
+        "bABaRqizIyAsTAm",
+        "bABaRqizIDvam",
+        "bABaRqizIya",
+        "bABaRqizIvahi",
+        "bABaRqizImahi"
+      ],
+      "alang": [
+        "abABaRqyata",
+        "abABaRqyetAm",
+        "abABaRqyanta",
+        "abABaRqyaTAH",
+        "abABaRqyeTAm",
+        "abABaRqyaDvam",
+        "abABaRqye",
+        "abABaRqyAvahi",
+        "abABaRqyAmahi"
+      ],
+      "alat": [
+        "bABaRqyate",
+        "bABaRqyete",
+        "bABaRqyante",
+        "bABaRqyase",
+        "bABaRqyeTe",
+        "bABaRqyaDve",
+        "bABaRqye",
+        "bABaRqyAvahe",
+        "bABaRqyAmahe"
+      ],
+      "alit": [
+        "bABaRqAYcakre",
+        "bABaRqAmAse",
+        "bABaRqAmbaBUve",
+        "bABaRqAYcakrAte",
+        "bABaRqAmAsAte",
+        "bABaRqAmbaBUvAte",
+        "bABaRqAYcakrire",
+        "bABaRqAmAsire",
+        "bABaRqAmbaBUvire",
+        "bABaRqAYcakfze",
+        "bABaRqAmAsize",
+        "bABaRqAmbaBUvize",
+        "bABaRqAYcakrATe",
+        "bABaRqAmAsATe",
+        "bABaRqAmbaBUvATe",
+        "bABaRqAYcakfQve",
+        "bABaRqAmAsiDve",
+        "bABaRqAmbaBUviQve",
+        "bABaRqAYcakre",
+        "bABaRqAmAhe",
+        "bABaRqAmbaBUve",
+        "bABaRqAYcakfvahe",
+        "bABaRqAmAsivahe",
+        "bABaRqAmbaBUvivahe",
+        "bABaRqAYcakfmahe",
+        "bABaRqAmAsimahe",
+        "bABaRqAmbaBUvimahe"
+      ],
+      "alot": [
+        "bABaRqyatAm",
+        "bABaRqyetAm",
+        "bABaRqyantAm",
+        "bABaRqyasva",
+        "bABaRqyeTAm",
+        "bABaRqyaDvam",
+        "bABaRqyE",
+        "bABaRqyAvahE",
+        "bABaRqyAmahE"
+      ],
+      "alrung": [
+        "abABaRqizyata",
+        "abABaRqizyetAm",
+        "abABaRqizyanta",
+        "abABaRqizyaTAH",
+        "abABaRqizyeTAm",
+        "abABaRqizyaDvam",
+        "abABaRqizye",
+        "abABaRqizyAvahi",
+        "abABaRqizyAmahi"
+      ],
+      "alrut": [
+        "bABaRqizyate",
+        "bABaRqizyete",
+        "bABaRqizyante",
+        "bABaRqizyase",
+        "bABaRqizyeTe",
+        "bABaRqizyaDve",
+        "bABaRqizye",
+        "bABaRqizyAvahe",
+        "bABaRqizyAmahe"
+      ],
+      "alung": [
+        "abABaRqi",
+        "abABaRqizAtAm",
+        "abABaRqizata",
+        "abABaRqizWAH",
+        "abABaRqizATAm",
+        "abABaRqiDvam",
+        "abABaRqizi",
+        "abABaRqizvahi",
+        "abABaRqizmahi"
+      ],
+      "alut": [
+        "bABaRqitA",
+        "bABaRqitArO",
+        "bABaRqitAraH",
+        "bABaRqitAse",
+        "bABaRqitAsATe",
+        "bABaRqitADve",
+        "bABaRqitAhe",
+        "bABaRqitAsvahe",
+        "bABaRqitAsmahe"
+      ],
+      "avidhiling": [
+        "bABaRqyeta",
+        "bABaRqyeyAtAm",
+        "bABaRqyeran",
+        "bABaRqyeTAH",
+        "bABaRqyeyATAm",
+        "bABaRqyeDvam",
+        "bABaRqyeya",
+        "bABaRqyevahi",
+        "bABaRqyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "BaRqA",
+          "m": "",
+          "f": "BaRqA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "BaRqa",
+          "m": "BaRqaH",
+          "f": "BaRqA",
+          "n": "BaRqam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "BaRqanIya",
+          "m": "BaRqanIyaH",
+          "f": "BaRqanIyA",
+          "n": "BaRqanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "BaRqita",
+          "m": "BaRqitaH",
+          "f": "BaRqitA",
+          "n": "BaRqitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "BaRqitavat",
+          "m": "BaRqitavAn",
+          "f": "BaRqitavatI",
+          "n": "BaRqitavat/BaRqitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "BaRwi",
+          "m": "",
+          "f": "BaRwiH",
+          "n": ""
+        },
+        {
+          "base": "BaRwwi",
+          "m": "",
+          "f": "BaRwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "BaRqitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "BaRqayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "baBaRqvas",
+          "m": "baBaRqvAn",
+          "f": "baBaRquzI",
+          "n": "baBaRqvat/baBaRqvad"
+        },
+        {
+          "base": "BaRqayAmbaBUvas",
+          "m": "BaRqayAmbaBUvAn",
+          "f": "BaRqayAmbaBUzI",
+          "n": "BaRqayAmbaBUvat/BaRqayAmbaBUvad"
+        },
+        {
+          "base": "BaRqayAmAsivas",
+          "m": "BaRqayAmAsivAn",
+          "f": "BaRqayAmAsuzI",
+          "n": "BaRqayAmAsivat/BaRqayAmAsivad"
+        },
+        {
+          "base": "BaRqayAYcakfvas",
+          "m": "BaRqayAYcakfvAn",
+          "f": "BaRqayAYcakruzI",
+          "n": "BaRqayAYcakfvat/BaRqayAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "BaRqa",
+          "m": "BaRqaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "BaRqamAna",
+          "m": "BaRqamAnaH",
+          "f": "BaRqamAnA",
+          "n": "BaRqamAnam"
+        },
+        {
+          "base": "BaRqayamAna",
+          "m": "BaRqayamAnaH",
+          "f": "BaRqayamAnA",
+          "n": "BaRqayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "BaRqam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "BaRqya",
+          "m": "BaRqyaH",
+          "f": "BaRqyA",
+          "n": "BaRqyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "BaRqaka",
+          "m": "BaRqakaH",
+          "f": "BaRqikA",
+          "n": "BaRqakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "BaRqitavya",
+          "m": "BaRqitavyaH",
+          "f": "BaRqitavyA",
+          "n": "BaRqitavyam"
+        },
+        {
+          "base": "BaRqayitavya",
+          "m": "BaRqayitavyaH",
+          "f": "BaRqayitavyA",
+          "n": "BaRqayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "BaRqitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "BaRqayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "BaRqitf",
+          "m": "BaRqitA",
+          "f": "BaRqitrI",
+          "n": "BaRqitf"
+        },
+        {
+          "base": "BaRqayitf",
+          "m": "BaRqayitA",
+          "f": "BaRqayitrI",
+          "n": "BaRqayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "BaRqyamAna",
+          "m": "BaRqyamAnaH",
+          "f": "BaRqyamAnA",
+          "n": "BaRqyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "BaRqya",
+          "m": "BaRqyaH",
+          "f": "BaRqyA",
+          "n": "BaRqyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praBaRqya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "BaRqana",
+          "m": "",
+          "f": "",
+          "n": "BaRqanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "BaRqaka",
+          "m": "BaRqakaH",
+          "f": "BaRqikA",
+          "n": "BaRqakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "BaRqat",
+          "m": "BaRqan",
+          "f": "BaRqantI",
+          "n": "BaRqat/BaRqad"
+        },
+        {
+          "base": "BaRqayat",
+          "m": "BaRqayan",
+          "f": "BaRqayantI",
+          "n": "BaRqayat/BaRqayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "BaRqayamAna",
+          "m": "BaRqayamAnaH",
+          "f": "BaRqayamAnA",
+          "n": "BaRqayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "BaRqizyamARa",
+          "m": "BaRqizyamARaH",
+          "f": "BaRqizyamARA",
+          "n": "BaRqizyamARam"
+        },
+        {
+          "base": "BaRqayizyamARa",
+          "m": "BaRqayizyamARaH",
+          "f": "BaRqayizyamARA",
+          "n": "BaRqayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "BaRqizyat",
+          "m": "BaRqizyan",
+          "f": "BaRqizyatI/BaRqizyantI",
+          "n": "BaRqizyat/BaRqizyad"
+        },
+        {
+          "base": "BaRqayizyat",
+          "m": "BaRqayizyan",
+          "f": "BaRqayizyatI/BaRqayizyantI",
+          "n": "BaRqayizyat/BaRqayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "BaRqayizyamARa",
+          "m": "BaRqayizyamARaH",
+          "f": "BaRqayizyamARA",
+          "n": "BaRqayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "biBaRqizA",
+          "m": "",
+          "f": "biBaRqizA",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayizA",
+          "m": "",
+          "f": "biBaRqayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "biBaRqiza",
+          "m": "biBaRqizaH",
+          "f": "biBaRqizA",
+          "n": "biBaRqizam"
+        },
+        {
+          "base": "biBaRqayiza",
+          "m": "biBaRqayizaH",
+          "f": "biBaRqayizA",
+          "n": "biBaRqayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "biBaRqizaRIya",
+          "m": "biBaRqizaRIyaH",
+          "f": "biBaRqizaRIyA",
+          "n": "biBaRqizaRIyam"
+        },
+        {
+          "base": "biBaRqayizaRIya",
+          "m": "biBaRqayizaRIyaH",
+          "f": "biBaRqayizaRIyA",
+          "n": "biBaRqayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "biBaRqizu",
+          "m": "biBaRqizuH",
+          "f": "biBaRqizuH",
+          "n": "biBaRqizu"
+        },
+        {
+          "base": "biBaRqayizu",
+          "m": "biBaRqayizuH",
+          "f": "biBaRqayizuH",
+          "n": "biBaRqayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "biBaRqizita",
+          "m": "biBaRqizitaH",
+          "f": "biBaRqizitA",
+          "n": "biBaRqizitam"
+        },
+        {
+          "base": "biBaRqayizita",
+          "m": "biBaRqayizitaH",
+          "f": "biBaRqayizitA",
+          "n": "biBaRqayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "biBaRqizitavat",
+          "m": "biBaRqizitavAn",
+          "f": "biBaRqizitavatI",
+          "n": "biBaRqizitavat/biBaRqizitavad"
+        },
+        {
+          "base": "biBaRqayizitavat",
+          "m": "biBaRqayizitavAn",
+          "f": "biBaRqayizitavatI",
+          "n": "biBaRqayizitavat/biBaRqayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "biBaRqizwi",
+          "m": "",
+          "f": "biBaRqizwiH",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayizwi",
+          "m": "",
+          "f": "biBaRqayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "biBaRqizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "biBaRqizAmbaBUvas",
+          "m": "biBaRqizAmbaBUvAn",
+          "f": "biBaRqizAmbaBUzI",
+          "n": "biBaRqizAmbaBUvat/biBaRqizAmbaBUvad"
+        },
+        {
+          "base": "biBaRqizAmAsivas",
+          "m": "biBaRqizAmAsivAn",
+          "f": "biBaRqizAmAsyuzI",
+          "n": "biBaRqizAmAsivat/biBaRqizAmAsivad"
+        },
+        {
+          "base": "biBaRqizAYcakfvas",
+          "m": "biBaRqizAYcakfvAn",
+          "f": "biBaRqizAYcakruzI",
+          "n": "biBaRqizAYcakfvat/biBaRqizAYcakfvad"
+        },
+        {
+          "base": "biBaRqayizAmbaBUvas",
+          "m": "biBaRqayizAmbaBUvAn",
+          "f": "biBaRqayizAmbaBUzI",
+          "n": "biBaRqayizAmbaBUvat/biBaRqayizAmbaBUvad"
+        },
+        {
+          "base": "biBaRqayizAmAsivas",
+          "m": "biBaRqayizAmAsivAn",
+          "f": "biBaRqayizAmAsyuzI",
+          "n": "biBaRqayizAmAsivat/biBaRqayizAmAsivad"
+        },
+        {
+          "base": "biBaRqayizAYcakfvas",
+          "m": "biBaRqayizAYcakfvAn",
+          "f": "biBaRqayizAYcakruzI",
+          "n": "biBaRqayizAYcakfvat/biBaRqayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "biBaRqiza",
+          "m": "biBaRqizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayiza",
+          "m": "biBaRqayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "biBaRqizamARa",
+          "m": "biBaRqizamARaH",
+          "f": "biBaRqizamARA",
+          "n": "biBaRqizamARam"
+        },
+        {
+          "base": "biBaRqayizamARa",
+          "m": "biBaRqayizamARaH",
+          "f": "biBaRqayizamARA",
+          "n": "biBaRqayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "biBaRqizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "biBaRqizaka",
+          "m": "biBaRqizakaH",
+          "f": "biBaRqizikA",
+          "n": "biBaRqizakam"
+        },
+        {
+          "base": "biBaRqayizaka",
+          "m": "biBaRqayizakaH",
+          "f": "biBaRqayizikA",
+          "n": "biBaRqayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "biBaRqizitavya",
+          "m": "biBaRqizitavyaH",
+          "f": "biBaRqizitavyA",
+          "n": "biBaRqizitavyam"
+        },
+        {
+          "base": "biBaRqayizitavya",
+          "m": "biBaRqayizitavyaH",
+          "f": "biBaRqayizitavyA",
+          "n": "biBaRqayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "biBaRqizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "biBaRqayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "biBaRqizitf",
+          "m": "biBaRqizitA",
+          "f": "biBaRqizitrI",
+          "n": "biBaRqizitf"
+        },
+        {
+          "base": "biBaRqayizitf",
+          "m": "biBaRqayizitA",
+          "f": "biBaRqayizitrI",
+          "n": "biBaRqayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "biBaRqizyamARa",
+          "m": "biBaRqizyamARaH",
+          "f": "biBaRqizyamARA",
+          "n": "biBaRqizyamARam"
+        },
+        {
+          "base": "biBaRqayizyamARa",
+          "m": "biBaRqayizyamARaH",
+          "f": "biBaRqayizyamARA",
+          "n": "biBaRqayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "biBaRqizya",
+          "m": "biBaRqizyaH",
+          "f": "biBaRqizyA",
+          "n": "biBaRqizyam"
+        },
+        {
+          "base": "biBaRqayizya",
+          "m": "biBaRqayizyaH",
+          "f": "biBaRqayizyA",
+          "n": "biBaRqayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabiBaRqizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prabiBaRqayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "biBaRqizaRa",
+          "m": "",
+          "f": "",
+          "n": "biBaRqizaRam"
+        },
+        {
+          "base": "biBaRqayizaRa",
+          "m": "",
+          "f": "",
+          "n": "biBaRqayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "biBaRqizaka",
+          "m": "biBaRqizakaH",
+          "f": "biBaRqizikA",
+          "n": "biBaRqizakam"
+        },
+        {
+          "base": "biBaRqayizaka",
+          "m": "biBaRqayizakaH",
+          "f": "biBaRqayizikA",
+          "n": "biBaRqayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "biBaRqizat",
+          "m": "biBaRqizan",
+          "f": "biBaRqizantI",
+          "n": "biBaRqizat/biBaRqizad"
+        },
+        {
+          "base": "biBaRqayizat",
+          "m": "biBaRqayizan",
+          "f": "biBaRqayizantI",
+          "n": "biBaRqayizat/biBaRqayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "biBaRqayizamARa",
+          "m": "biBaRqayizamARaH",
+          "f": "biBaRqayizamARA",
+          "n": "biBaRqayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "biBaRqizizyamARa",
+          "m": "biBaRqizizyamARaH",
+          "f": "biBaRqizizyamARA",
+          "n": "biBaRqizizyamARam"
+        },
+        {
+          "base": "biBaRqayizizyamARa",
+          "m": "biBaRqayizizyamARaH",
+          "f": "biBaRqayizizyamARA",
+          "n": "biBaRqayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "biBaRqizizyat",
+          "m": "biBaRqizizyan",
+          "f": "biBaRqizizyatI/biBaRqizizyantI",
+          "n": "biBaRqizizyat/biBaRqizizyad"
+        },
+        {
+          "base": "biBaRqayizizyat",
+          "m": "biBaRqayizizyan",
+          "f": "biBaRqayizizyatI/biBaRqayizizyantI",
+          "n": "biBaRqayizizyat/biBaRqayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "biBaRqayizizyamARa",
+          "m": "biBaRqayizizyamARaH",
+          "f": "biBaRqayizizyamARA",
+          "n": "biBaRqayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "BaRqa",
+          "m": "BaRqaH",
+          "f": "BaRqA",
+          "n": "BaRqam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "BaRqanIya",
+          "m": "BaRqanIyaH",
+          "f": "BaRqanIyA",
+          "n": "BaRqanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "BaRqita",
+          "m": "BaRqitaH",
+          "f": "BaRqitA",
+          "n": "BaRqitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "BaRqitavat",
+          "m": "BaRqitavAn",
+          "f": "BaRqitavatI",
+          "n": "BaRqitavat/BaRqitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "BaRwi",
+          "m": "",
+          "f": "BaRwiH",
+          "n": ""
+        },
+        {
+          "base": "BaRwwi",
+          "m": "",
+          "f": "BaRwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "BaRqayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "BaRqayAmbaBUvas",
+          "m": "BaRqayAmbaBUvAn",
+          "f": "BaRqayAmbaBUzI",
+          "n": "BaRqayAmbaBUvat/BaRqayAmbaBUvad"
+        },
+        {
+          "base": "BaRqayAmAsivas",
+          "m": "BaRqayAmAsivAn",
+          "f": "BaRqayAmAsyuzI",
+          "n": "BaRqayAmAsivat/BaRqayAmAsivad"
+        },
+        {
+          "base": "BaRqayAYcakfvas",
+          "m": "BaRqayAYcakfvAn",
+          "f": "BaRqayAYcakruzI",
+          "n": "BaRqayAYcakfvat/BaRqayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "BaRqayamAna",
+          "m": "BaRqayamAnaH",
+          "f": "BaRqayamAnA",
+          "n": "BaRqayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "BaRqam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "BaRqaka",
+          "m": "BaRqakaH",
+          "f": "BaRqikA",
+          "n": "BaRqakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "BaRqayitavya",
+          "m": "BaRqayitavyaH",
+          "f": "BaRqayitavyA",
+          "n": "BaRqayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "BaRqayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "BaRqayitf",
+          "m": "BaRqayitA",
+          "f": "BaRqayitrI",
+          "n": "BaRqayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "BaRqyamAna",
+          "m": "BaRqyamAnaH",
+          "f": "BaRqyamAnA",
+          "n": "BaRqyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "BaRqya",
+          "m": "BaRqyaH",
+          "f": "BaRqyA",
+          "n": "BaRqyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praBaRqya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "BaRqana",
+          "m": "",
+          "f": "",
+          "n": "BaRqanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "BaRqaka",
+          "m": "BaRqakaH",
+          "f": "BaRqikA",
+          "n": "BaRqakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "BaRqayat",
+          "m": "BaRqayan",
+          "f": "BaRqayantI",
+          "n": "BaRqayat/BaRqayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "BaRqayamAna",
+          "m": "BaRqayamAnaH",
+          "f": "BaRqayamAnA",
+          "n": "BaRqayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "BaRqizyamARa",
+          "m": "BaRqizyamARaH",
+          "f": "BaRqizyamARA",
+          "n": "BaRqizyamARam"
+        },
+        {
+          "base": "BaRqayizyamARa",
+          "m": "BaRqayizyamARaH",
+          "f": "BaRqayizyamARA",
+          "n": "BaRqayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "BaRqayizyat",
+          "m": "BaRqayizyan",
+          "f": "BaRqayizyatI/BaRqayizyantI",
+          "n": "BaRqayizyat/BaRqayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "BaRqayizyamARa",
+          "m": "BaRqayizyamARaH",
+          "f": "BaRqayizyamARA",
+          "n": "BaRqayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "bABaRqA",
+          "m": "",
+          "f": "bABaRqA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "bABaRqa",
+          "m": "bABaRqaH",
+          "f": "bABaRqA",
+          "n": "bABaRqam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "bABaRqanIya",
+          "m": "bABaRqanIyaH",
+          "f": "bABaRqanIyA",
+          "n": "bABaRqanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "bABaRqita",
+          "m": "bABaRqitaH",
+          "f": "bABaRqitA",
+          "n": "bABaRqitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "bABaRqitavat",
+          "m": "bABaRqitavAn",
+          "f": "bABaRqitavatI",
+          "n": "bABaRqitavat/bABaRqitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "bABaRwi",
+          "m": "",
+          "f": "bABaRwiH",
+          "n": ""
+        },
+        {
+          "base": "bABaRwwi",
+          "m": "",
+          "f": "bABaRwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "bABaRqitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "bABaRqAmbaBUvas",
+          "m": "bABaRqAmbaBUvAn",
+          "f": "bABaRqAmbaBUzI",
+          "n": "bABaRqAmbaBUvat/bABaRqAmbaBUvad"
+        },
+        {
+          "base": "bABaRqAmAsivas",
+          "m": "bABaRqAmAsivAn",
+          "f": "bABaRqAmAsyuzI",
+          "n": "bABaRqAmAsivat/bABaRqAmAsivad"
+        },
+        {
+          "base": "bABaRqAYcakfvas",
+          "m": "bABaRqAYcakfvAn",
+          "f": "bABaRqAYcakruzI",
+          "n": "bABaRqAYcakfvat/bABaRqAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "bABaRqa",
+          "m": "bABaRqaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "bABaRqyamAna",
+          "m": "bABaRqyamAnaH",
+          "f": "bABaRqyamAnA",
+          "n": "bABaRqyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "bABaRqam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "bABaRqaka",
+          "m": "bABaRqakaH",
+          "f": "bABaRqikA",
+          "n": "bABaRqakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "bABaRqitavya",
+          "m": "bABaRqitavyaH",
+          "f": "bABaRqitavyA",
+          "n": "bABaRqitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "bABaRqitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "bABaRqitf",
+          "m": "bABaRqitA",
+          "f": "bABaRqitrI",
+          "n": "bABaRqitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "bABaRqyamAna",
+          "m": "bABaRqyamAnaH",
+          "f": "bABaRqyamAnA",
+          "n": "bABaRqyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "bABaRqya",
+          "m": "bABaRqyaH",
+          "f": "bABaRqyA",
+          "n": "bABaRqyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabABaRqya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "bABaRqana",
+          "m": "",
+          "f": "",
+          "n": "bABaRqanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "bABaRqaka",
+          "m": "bABaRqakaH",
+          "f": "bABaRqikA",
+          "n": "bABaRqakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "bABaRqyamAna",
+          "m": "bABaRqyamAnaH",
+          "f": "bABaRqyamAnA",
+          "n": "bABaRqyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "bABaRqizyamARa",
+          "m": "bABaRqizyamARaH",
+          "f": "bABaRqizyamARA",
+          "n": "bABaRqizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "bABaRqizyamARa",
+          "m": "bABaRqizyamARaH",
+          "f": "bABaRqizyamARA",
+          "n": "bABaRqizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "bABaRqA",
+          "m": "",
+          "f": "bABaRqA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "bABaRqa",
+          "m": "bABaRqaH",
+          "f": "bABaRqA",
+          "n": "bABaRqam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "bABaRqanIya",
+          "m": "bABaRqanIyaH",
+          "f": "bABaRqanIyA",
+          "n": "bABaRqanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "bABaRqita",
+          "m": "bABaRqitaH",
+          "f": "bABaRqitA",
+          "n": "bABaRqitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "bABaRqitavat",
+          "m": "bABaRqitavAn",
+          "f": "bABaRqitavatI",
+          "n": "bABaRqitavat/bABaRqitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "bABaRwi",
+          "m": "",
+          "f": "bABaRwiH",
+          "n": ""
+        },
+        {
+          "base": "bABaRwwi",
+          "m": "",
+          "f": "bABaRwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "bABaRqitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "bABaRqAmbaBUvas",
+          "m": "bABaRqAmbaBUvAn",
+          "f": "bABaRqAmbaBUzI",
+          "n": "bABaRqAmbaBUvat/bABaRqAmbaBUvad"
+        },
+        {
+          "base": "bABaRqAmAsivas",
+          "m": "bABaRqAmAsivAn",
+          "f": "bABaRqAmAsyuzI",
+          "n": "bABaRqAmAsivat/bABaRqAmAsivad"
+        },
+        {
+          "base": "bABaRqAYcakfvas",
+          "m": "bABaRqAYcakfvAn",
+          "f": "bABaRqAYcakruzI",
+          "n": "bABaRqAYcakfvat/bABaRqAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "bABaRqa",
+          "m": "bABaRqaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "bABaRqAna",
+          "m": "bABaRqAnaH",
+          "f": "bABaRqAnA",
+          "n": "bABaRqAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "bABaRqam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "bABaRqaka",
+          "m": "bABaRqakaH",
+          "f": "bABaRqikA",
+          "n": "bABaRqakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "bABaRqitavya",
+          "m": "bABaRqitavyaH",
+          "f": "bABaRqitavyA",
+          "n": "bABaRqitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "bABaRqitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "bABaRqitf",
+          "m": "bABaRqitA",
+          "f": "bABaRqitrI",
+          "n": "bABaRqitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "bABaRqyamAna",
+          "m": "bABaRqyamAnaH",
+          "f": "bABaRqyamAnA",
+          "n": "bABaRqyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabABaRqya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "bABaRqana",
+          "m": "",
+          "f": "",
+          "n": "bABaRqanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "bABaRqaka",
+          "m": "bABaRqakaH",
+          "f": "bABaRqikA",
+          "n": "bABaRqakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "bABaRqat",
+          "m": "bABaRqat/bABaRqad",
+          "f": "bABaRqatI",
+          "n": "bABaRqat/bABaRqad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "bABaRqizyamARa",
+          "m": "bABaRqizyamARaH",
+          "f": "bABaRqizyamARA",
+          "n": "bABaRqizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "bABaRqizyat",
+          "m": "bABaRqizyan",
+          "f": "bABaRqizyatI/bABaRqizyantI",
+          "n": "bABaRqizyat/bABaRqizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "BaRq",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

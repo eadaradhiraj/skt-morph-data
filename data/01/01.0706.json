@@ -1,0 +1,6533 @@
+{
+  "id": "01.0706",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "prezf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "619"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "619"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2334",
+      "ext_link": "/sutraani/sk2334?scroll=sutra-commentary-kaumudi-region&highlight=paraezaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "prezizIzwa",
+        "prezizIyAstAm",
+        "prezizIran",
+        "prezizIzWAH",
+        "prezizIyAsTAm",
+        "prezizIDvam",
+        "prezizIya",
+        "prezizIvahi",
+        "prezizImahi"
+      ],
+      "alang": [
+        "aprezata",
+        "aprezetAm",
+        "aprezanta",
+        "aprezaTAH",
+        "aprezeTAm",
+        "aprezaDvam",
+        "apreze",
+        "aprezAvahi",
+        "aprezAmahi"
+      ],
+      "alat": [
+        "prezate",
+        "prezete",
+        "prezante",
+        "prezase",
+        "prezeTe",
+        "prezaDve",
+        "preze",
+        "prezAvahe",
+        "prezAmahe"
+      ],
+      "alit": [
+        "pipreze",
+        "piprezAte",
+        "piprezire",
+        "piprezize",
+        "piprezATe",
+        "pipreziDve",
+        "pipreze",
+        "piprezivahe",
+        "piprezimahe"
+      ],
+      "alot": [
+        "prezatAm",
+        "prezetAm",
+        "prezantAm",
+        "prezasva",
+        "prezeTAm",
+        "prezaDvam",
+        "prezE",
+        "prezAvahE",
+        "prezAmahE"
+      ],
+      "alrung": [
+        "aprezizyata",
+        "aprezizyetAm",
+        "aprezizyanta",
+        "aprezizyaTAH",
+        "aprezizyeTAm",
+        "aprezizyaDvam",
+        "aprezizye",
+        "aprezizyAvahi",
+        "aprezizyAmahi"
+      ],
+      "alrut": [
+        "prezizyate",
+        "prezizyete",
+        "prezizyante",
+        "prezizyase",
+        "prezizyeTe",
+        "prezizyaDve",
+        "prezizye",
+        "prezizyAvahe",
+        "prezizyAmahe"
+      ],
+      "alung": [
+        "aprezizwa",
+        "aprezizAtAm",
+        "aprezizata",
+        "aprezizWAH",
+        "aprezizATAm",
+        "apreziDvam",
+        "aprezizi",
+        "aprezizvahi",
+        "aprezizmahi"
+      ],
+      "alut": [
+        "prezitA",
+        "prezitArO",
+        "prezitAraH",
+        "prezitAse",
+        "prezitAsATe",
+        "prezitADve",
+        "prezitAhe",
+        "prezitAsvahe",
+        "prezitAsmahe"
+      ],
+      "avidhiling": [
+        "prezeta",
+        "prezeyAtAm",
+        "prezeran",
+        "prezeTAH",
+        "prezeyATAm",
+        "prezeDvam",
+        "prezeya",
+        "prezevahi",
+        "prezemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "prezizIzwa",
+        "prezizIyAstAm",
+        "prezizIran",
+        "prezizIzWAH",
+        "prezizIyAsTAm",
+        "prezizIDvam",
+        "prezizIya",
+        "prezizIvahi",
+        "prezizImahi"
+      ],
+      "alang": [
+        "aprezyata",
+        "aprezyetAm",
+        "aprezyanta",
+        "aprezyaTAH",
+        "aprezyeTAm",
+        "aprezyaDvam",
+        "aprezye",
+        "aprezyAvahi",
+        "aprezyAmahi"
+      ],
+      "alat": [
+        "prezyate",
+        "prezyete",
+        "prezyante",
+        "prezyase",
+        "prezyeTe",
+        "prezyaDve",
+        "prezye",
+        "prezyAvahe",
+        "prezyAmahe"
+      ],
+      "alit": [
+        "pipreze",
+        "piprezAte",
+        "piprezire",
+        "piprezize",
+        "piprezATe",
+        "pipreziDve",
+        "pipreze",
+        "piprezivahe",
+        "piprezimahe"
+      ],
+      "alot": [
+        "prezyatAm",
+        "prezyetAm",
+        "prezyantAm",
+        "prezyasva",
+        "prezyeTAm",
+        "prezyaDvam",
+        "prezyE",
+        "prezyAvahE",
+        "prezyAmahE"
+      ],
+      "alrung": [
+        "aprezizyata",
+        "aprezizyetAm",
+        "aprezizyanta",
+        "aprezizyaTAH",
+        "aprezizyeTAm",
+        "aprezizyaDvam",
+        "aprezizye",
+        "aprezizyAvahi",
+        "aprezizyAmahi"
+      ],
+      "alrut": [
+        "prezizyate",
+        "prezizyete",
+        "prezizyante",
+        "prezizyase",
+        "prezizyeTe",
+        "prezizyaDve",
+        "prezizye",
+        "prezizyAvahe",
+        "prezizyAmahe"
+      ],
+      "alung": [
+        "aprezi",
+        "aprezizAtAm",
+        "aprezizata",
+        "aprezizWAH",
+        "aprezizATAm",
+        "apreziDvam",
+        "aprezizi",
+        "aprezizvahi",
+        "aprezizmahi"
+      ],
+      "alut": [
+        "prezitA",
+        "prezitArO",
+        "prezitAraH",
+        "prezitAse",
+        "prezitAsATe",
+        "prezitADve",
+        "prezitAhe",
+        "prezitAsvahe",
+        "prezitAsmahe"
+      ],
+      "avidhiling": [
+        "prezyeta",
+        "prezyeyAtAm",
+        "prezyeran",
+        "prezyeTAH",
+        "prezyeyATAm",
+        "prezyeDvam",
+        "prezyeya",
+        "prezyevahi",
+        "prezyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "piprezizizIzwa",
+        "piprezizizIyAstAm",
+        "piprezizizIran",
+        "piprezizizIzWAH",
+        "piprezizizIyAsTAm",
+        "piprezizizIDvam",
+        "piprezizizIya",
+        "piprezizizIvahi",
+        "piprezizizImahi"
+      ],
+      "alang": [
+        "apiprezizata",
+        "apiprezizetAm",
+        "apiprezizanta",
+        "apiprezizaTAH",
+        "apiprezizeTAm",
+        "apiprezizaDvam",
+        "apiprezize",
+        "apiprezizAvahi",
+        "apiprezizAmahi"
+      ],
+      "alat": [
+        "piprezizate",
+        "piprezizete",
+        "piprezizante",
+        "piprezizase",
+        "piprezizeTe",
+        "piprezizaDve",
+        "piprezize",
+        "piprezizAvahe",
+        "piprezizAmahe"
+      ],
+      "alit": [
+        "piprezizAYcakre",
+        "piprezizAmAsa",
+        "piprezizAmbaBUva",
+        "piprezizAYcakrAte",
+        "piprezizAmAsatuH",
+        "piprezizAmbaBUvatuH",
+        "piprezizAYcakrire",
+        "piprezizAmAsuH",
+        "piprezizAmbaBUvuH",
+        "piprezizAYcakfze",
+        "piprezizAmAsiTa",
+        "piprezizAmbaBUviTa",
+        "piprezizAYcakrATe",
+        "piprezizAmAsaTuH",
+        "piprezizAmbaBUvaTuH",
+        "piprezizAYcakfQve",
+        "piprezizAmAsa",
+        "piprezizAmbaBUva",
+        "piprezizAYcakre",
+        "piprezizAmAsa",
+        "piprezizAmbaBUva",
+        "piprezizAYcakfvahe",
+        "piprezizAmAsiva",
+        "piprezizAmbaBUviva",
+        "piprezizAYcakfmahe",
+        "piprezizAmAsima",
+        "piprezizAmbaBUvima"
+      ],
+      "alot": [
+        "piprezizatAm",
+        "piprezizetAm",
+        "piprezizantAm",
+        "piprezizasva",
+        "piprezizeTAm",
+        "piprezizaDvam",
+        "piprezizE",
+        "piprezizAvahE",
+        "piprezizAmahE"
+      ],
+      "alrung": [
+        "apiprezizizyata",
+        "apiprezizizyetAm",
+        "apiprezizizyanta",
+        "apiprezizizyaTAH",
+        "apiprezizizyeTAm",
+        "apiprezizizyaDvam",
+        "apiprezizizye",
+        "apiprezizizyAvahi",
+        "apiprezizizyAmahi"
+      ],
+      "alrut": [
+        "piprezizizyate",
+        "piprezizizyete",
+        "piprezizizyante",
+        "piprezizizyase",
+        "piprezizizyeTe",
+        "piprezizizyaDve",
+        "piprezizizye",
+        "piprezizizyAvahe",
+        "piprezizizyAmahe"
+      ],
+      "alung": [
+        "apiprezizizwa",
+        "apiprezizizAtAm",
+        "apiprezizizata",
+        "apiprezizizWAH",
+        "apiprezizizATAm",
+        "apipreziziDvam",
+        "apiprezizizi",
+        "apiprezizizvahi",
+        "apiprezizizmahi"
+      ],
+      "alut": [
+        "piprezizitA",
+        "piprezizitArO",
+        "piprezizitAraH",
+        "piprezizitAse",
+        "piprezizitAsATe",
+        "piprezizitADve",
+        "piprezizitAhe",
+        "piprezizitAsvahe",
+        "piprezizitAsmahe"
+      ],
+      "avidhiling": [
+        "piprezizeta",
+        "piprezizeyAtAm",
+        "piprezizeran",
+        "piprezizeTAH",
+        "piprezizeyATAm",
+        "piprezizeDvam",
+        "piprezizeya",
+        "piprezizevahi",
+        "piprezizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "piprezizizIzwa",
+        "piprezizizIyAstAm",
+        "piprezizizIran",
+        "piprezizizIzWAH",
+        "piprezizizIyAsTAm",
+        "piprezizizIDvam",
+        "piprezizizIya",
+        "piprezizizIvahi",
+        "piprezizizImahi"
+      ],
+      "alang": [
+        "apiprezizyata",
+        "apiprezizyetAm",
+        "apiprezizyanta",
+        "apiprezizyaTAH",
+        "apiprezizyeTAm",
+        "apiprezizyaDvam",
+        "apiprezizye",
+        "apiprezizyAvahi",
+        "apiprezizyAmahi"
+      ],
+      "alat": [
+        "piprezizyate",
+        "piprezizyete",
+        "piprezizyante",
+        "piprezizyase",
+        "piprezizyeTe",
+        "piprezizyaDve",
+        "piprezizye",
+        "piprezizyAvahe",
+        "piprezizyAmahe"
+      ],
+      "alit": [
+        "piprezizAYcakre",
+        "piprezizAmAse",
+        "piprezizAmbaBUve",
+        "piprezizAYcakrAte",
+        "piprezizAmAsAte",
+        "piprezizAmbaBUvAte",
+        "piprezizAYcakrire",
+        "piprezizAmAsire",
+        "piprezizAmbaBUvire",
+        "piprezizAYcakfze",
+        "piprezizAmAsize",
+        "piprezizAmbaBUvize",
+        "piprezizAYcakrATe",
+        "piprezizAmAsATe",
+        "piprezizAmbaBUvATe",
+        "piprezizAYcakfQve",
+        "piprezizAmAsiDve",
+        "piprezizAmbaBUviQve",
+        "piprezizAYcakre",
+        "piprezizAmAhe",
+        "piprezizAmbaBUve",
+        "piprezizAYcakfvahe",
+        "piprezizAmAsivahe",
+        "piprezizAmbaBUvivahe",
+        "piprezizAYcakfmahe",
+        "piprezizAmAsimahe",
+        "piprezizAmbaBUvimahe"
+      ],
+      "alot": [
+        "piprezizyatAm",
+        "piprezizyetAm",
+        "piprezizyantAm",
+        "piprezizyasva",
+        "piprezizyeTAm",
+        "piprezizyaDvam",
+        "piprezizyE",
+        "piprezizyAvahE",
+        "piprezizyAmahE"
+      ],
+      "alrung": [
+        "apiprezizizyata",
+        "apiprezizizyetAm",
+        "apiprezizizyanta",
+        "apiprezizizyaTAH",
+        "apiprezizizyeTAm",
+        "apiprezizizyaDvam",
+        "apiprezizizye",
+        "apiprezizizyAvahi",
+        "apiprezizizyAmahi"
+      ],
+      "alrut": [
+        "piprezizizyate",
+        "piprezizizyete",
+        "piprezizizyante",
+        "piprezizizyase",
+        "piprezizizyeTe",
+        "piprezizizyaDve",
+        "piprezizizye",
+        "piprezizizyAvahe",
+        "piprezizizyAmahe"
+      ],
+      "alung": [
+        "apiprezizi",
+        "apiprezizizAtAm",
+        "apiprezizizata",
+        "apiprezizizWAH",
+        "apiprezizizATAm",
+        "apipreziziDvam",
+        "apiprezizizi",
+        "apiprezizizvahi",
+        "apiprezizizmahi"
+      ],
+      "alut": [
+        "piprezizitA",
+        "piprezizitArO",
+        "piprezizitAraH",
+        "piprezizitAse",
+        "piprezizitAsATe",
+        "piprezizitADve",
+        "piprezizitAhe",
+        "piprezizitAsvahe",
+        "piprezizitAsmahe"
+      ],
+      "avidhiling": [
+        "piprezizyeta",
+        "piprezizyeyAtAm",
+        "piprezizyeran",
+        "piprezizyeTAH",
+        "piprezizyeyATAm",
+        "piprezizyeDvam",
+        "piprezizyeya",
+        "piprezizyevahi",
+        "piprezizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "prezayizIzwa",
+        "prezayizIyAstAm",
+        "prezayizIran",
+        "prezayizIzWAH",
+        "prezayizIyAsTAm",
+        "prezayizIQvam",
+        "prezayizIDvam",
+        "prezayizIya",
+        "prezayizIvahi",
+        "prezayizImahi"
+      ],
+      "alang": [
+        "aprezayata",
+        "aprezayetAm",
+        "aprezayanta",
+        "aprezayaTAH",
+        "aprezayeTAm",
+        "aprezayaDvam",
+        "aprezaye",
+        "aprezayAvahi",
+        "aprezayAmahi"
+      ],
+      "alat": [
+        "prezayate",
+        "prezayete",
+        "prezayante",
+        "prezayase",
+        "prezayeTe",
+        "prezayaDve",
+        "prezaye",
+        "prezayAvahe",
+        "prezayAmahe"
+      ],
+      "alit": [
+        "prezayAYcakre",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakrAte",
+        "prezayAmAsatuH",
+        "prezayAmbaBUvatuH",
+        "prezayAYcakrire",
+        "prezayAmAsuH",
+        "prezayAmbaBUvuH",
+        "prezayAYcakfze",
+        "prezayAmAsiTa",
+        "prezayAmbaBUviTa",
+        "prezayAYcakrATe",
+        "prezayAmAsaTuH",
+        "prezayAmbaBUvaTuH",
+        "prezayAYcakfQve",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakre",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakfvahe",
+        "prezayAmAsiva",
+        "prezayAmbaBUviva",
+        "prezayAYcakfmahe",
+        "prezayAmAsima",
+        "prezayAmbaBUvima"
+      ],
+      "alot": [
+        "prezayatAm",
+        "prezayetAm",
+        "prezayantAm",
+        "prezayasva",
+        "prezayeTAm",
+        "prezayaDvam",
+        "prezayE",
+        "prezayAvahE",
+        "prezayAmahE"
+      ],
+      "alrung": [
+        "aprezayizyata",
+        "aprezayizyetAm",
+        "aprezayizyanta",
+        "aprezayizyaTAH",
+        "aprezayizyeTAm",
+        "aprezayizyaDvam",
+        "aprezayizye",
+        "aprezayizyAvahi",
+        "aprezayizyAmahi"
+      ],
+      "alrut": [
+        "prezayizyate",
+        "prezayizyete",
+        "prezayizyante",
+        "prezayizyase",
+        "prezayizyeTe",
+        "prezayizyaDve",
+        "prezayizye",
+        "prezayizyAvahe",
+        "prezayizyAmahe"
+      ],
+      "alung": [
+        "apiprezata",
+        "apiprezetAm",
+        "apiprezanta",
+        "apiprezaTAH",
+        "apiprezeTAm",
+        "apiprezaDvam",
+        "apipreze",
+        "apiprezAvahi",
+        "apiprezAmahi"
+      ],
+      "alut": [
+        "prezayitA",
+        "prezayitArO",
+        "prezayitAraH",
+        "prezayitAse",
+        "prezayitAsATe",
+        "prezayitADve",
+        "prezayitAhe",
+        "prezayitAsvahe",
+        "prezayitAsmahe"
+      ],
+      "avidhiling": [
+        "prezayeta",
+        "prezayeyAtAm",
+        "prezayeran",
+        "prezayeTAH",
+        "prezayeyATAm",
+        "prezayeDvam",
+        "prezayeya",
+        "prezayevahi",
+        "prezayemahi"
+      ],
+      "pashirling": [
+        "prezyAt",
+        "prezyAd",
+        "prezyAstAm",
+        "prezyAsuH",
+        "prezyAH",
+        "prezyAstam",
+        "prezyAsta",
+        "prezyAsam",
+        "prezyAsva",
+        "prezyAsma"
+      ],
+      "plang": [
+        "aprezayat",
+        "aprezayad",
+        "aprezayatAm",
+        "aprezayan",
+        "aprezayaH",
+        "aprezayatam",
+        "aprezayata",
+        "aprezayam",
+        "aprezayAva",
+        "aprezayAma"
+      ],
+      "plat": [
+        "prezayati",
+        "prezayataH",
+        "prezayanti",
+        "prezayasi",
+        "prezayaTaH",
+        "prezayaTa",
+        "prezayAmi",
+        "prezayAvaH",
+        "prezayAmaH"
+      ],
+      "plit": [
+        "prezayAYcakAra",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakratuH",
+        "prezayAmAsatuH",
+        "prezayAmbaBUvatuH",
+        "prezayAYcakruH",
+        "prezayAmAsuH",
+        "prezayAmbaBUvuH",
+        "prezayAYcakarTa",
+        "prezayAmAsiTa",
+        "prezayAmbaBUviTa",
+        "prezayAYcakraTuH",
+        "prezayAmAsaTuH",
+        "prezayAmbaBUvaTuH",
+        "prezayAYcakra",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakara",
+        "prezayAYcakAra",
+        "prezayAmAsa",
+        "prezayAmbaBUva",
+        "prezayAYcakfva",
+        "prezayAmAsiva",
+        "prezayAmbaBUviva",
+        "prezayAYcakfma",
+        "prezayAmAsima",
+        "prezayAmbaBUvima"
+      ],
+      "plot": [
+        "prezayatAt",
+        "prezayatAd",
+        "prezayatu",
+        "prezayatAm",
+        "prezayantu",
+        "prezaya",
+        "prezayatAt",
+        "prezayatAd",
+        "prezayatam",
+        "prezayata",
+        "prezayARi",
+        "prezayAva",
+        "prezayAma"
+      ],
+      "plrung": [
+        "aprezayizyat",
+        "aprezayizyad",
+        "aprezayizyatAm",
+        "aprezayizyan",
+        "aprezayizyaH",
+        "aprezayizyatam",
+        "aprezayizyata",
+        "aprezayizyam",
+        "aprezayizyAva",
+        "aprezayizyAma"
+      ],
+      "plrut": [
+        "prezayizyati",
+        "prezayizyataH",
+        "prezayizyanti",
+        "prezayizyasi",
+        "prezayizyaTaH",
+        "prezayizyaTa",
+        "prezayizyAmi",
+        "prezayizyAvaH",
+        "prezayizyAmaH"
+      ],
+      "plung": [
+        "apiprezat",
+        "apiprezad",
+        "apiprezatAm",
+        "apiprezan",
+        "apiprezaH",
+        "apiprezatam",
+        "apiprezata",
+        "apiprezam",
+        "apiprezAva",
+        "apiprezAma"
+      ],
+      "plut": [
+        "prezayitA",
+        "prezayitArO",
+        "prezayitAraH",
+        "prezayitAsi",
+        "prezayitAsTaH",
+        "prezayitAsTa",
+        "prezayitAsmi",
+        "prezayitAsvaH",
+        "prezayitAsmaH"
+      ],
+      "pvidhiling": [
+        "prezayet",
+        "prezayed",
+        "prezayetAm",
+        "prezayeyuH",
+        "prezayeH",
+        "prezayetam",
+        "prezayeta",
+        "prezayeyam",
+        "prezayeva",
+        "prezayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "prezayizIzwa",
+        "prezizIzwa",
+        "prezayizIyAstAm",
+        "prezizIyAstAm",
+        "prezayizIran",
+        "prezizIran",
+        "prezayizIzWAH",
+        "prezizIzWAH",
+        "prezayizIyAsTAm",
+        "prezizIyAsTAm",
+        "prezayizIQvam",
+        "prezayizIDvam",
+        "prezizIDvam",
+        "prezayizIya",
+        "prezizIya",
+        "prezayizIvahi",
+        "prezizIvahi",
+        "prezayizImahi",
+        "prezizImahi"
+      ],
+      "alang": [
+        "aprezyata",
+        "aprezyetAm",
+        "aprezyanta",
+        "aprezyaTAH",
+        "aprezyeTAm",
+        "aprezyaDvam",
+        "aprezye",
+        "aprezyAvahi",
+        "aprezyAmahi"
+      ],
+      "alat": [
+        "prezyate",
+        "prezyete",
+        "prezyante",
+        "prezyase",
+        "prezyeTe",
+        "prezyaDve",
+        "prezye",
+        "prezyAvahe",
+        "prezyAmahe"
+      ],
+      "alit": [
+        "prezayAYcakre",
+        "prezayAmAse",
+        "prezayAmbaBUve",
+        "prezayAYcakrAte",
+        "prezayAmAsAte",
+        "prezayAmbaBUvAte",
+        "prezayAYcakrire",
+        "prezayAmAsire",
+        "prezayAmbaBUvire",
+        "prezayAYcakfze",
+        "prezayAmAsize",
+        "prezayAmbaBUvize",
+        "prezayAYcakrATe",
+        "prezayAmAsATe",
+        "prezayAmbaBUvATe",
+        "prezayAYcakfQve",
+        "prezayAmAsiDve",
+        "prezayAmbaBUviQve",
+        "prezayAYcakre",
+        "prezayAmAhe",
+        "prezayAmbaBUve",
+        "prezayAYcakfvahe",
+        "prezayAmAsivahe",
+        "prezayAmbaBUvivahe",
+        "prezayAYcakfmahe",
+        "prezayAmAsimahe",
+        "prezayAmbaBUvimahe"
+      ],
+      "alot": [
+        "prezyatAm",
+        "prezyetAm",
+        "prezyantAm",
+        "prezyasva",
+        "prezyeTAm",
+        "prezyaDvam",
+        "prezyE",
+        "prezyAvahE",
+        "prezyAmahE"
+      ],
+      "alrung": [
+        "aprezayizyata",
+        "aprezizyata",
+        "aprezayizyetAm",
+        "aprezizyetAm",
+        "aprezayizyanta",
+        "aprezizyanta",
+        "aprezayizyaTAH",
+        "aprezizyaTAH",
+        "aprezayizyeTAm",
+        "aprezizyeTAm",
+        "aprezayizyaDvam",
+        "aprezizyaDvam",
+        "aprezayizye",
+        "aprezizye",
+        "aprezayizyAvahi",
+        "aprezizyAvahi",
+        "aprezayizyAmahi",
+        "aprezizyAmahi"
+      ],
+      "alrut": [
+        "prezayizyate",
+        "prezizyate",
+        "prezayizyete",
+        "prezizyete",
+        "prezayizyante",
+        "prezizyante",
+        "prezayizyase",
+        "prezizyase",
+        "prezayizyeTe",
+        "prezizyeTe",
+        "prezayizyaDve",
+        "prezizyaDve",
+        "prezayizye",
+        "prezizye",
+        "prezayizyAvahe",
+        "prezizyAvahe",
+        "prezayizyAmahe",
+        "prezizyAmahe"
+      ],
+      "alung": [
+        "aprezi",
+        "aprezayizAtAm",
+        "aprezizAtAm",
+        "aprezayizata",
+        "aprezizata",
+        "aprezayizWAH",
+        "aprezizWAH",
+        "aprezayizATAm",
+        "aprezizATAm",
+        "aprezayiQvam",
+        "aprezayiDvam",
+        "apreziDvam",
+        "aprezayizi",
+        "aprezizi",
+        "aprezayizvahi",
+        "aprezizvahi",
+        "aprezayizmahi",
+        "aprezizmahi"
+      ],
+      "alut": [
+        "prezayitA",
+        "prezitA",
+        "prezayitArO",
+        "prezitArO",
+        "prezayitAraH",
+        "prezitAraH",
+        "prezayitAse",
+        "prezitAse",
+        "prezayitAsATe",
+        "prezitAsATe",
+        "prezayitADve",
+        "prezitADve",
+        "prezayitAhe",
+        "prezitAhe",
+        "prezayitAsvahe",
+        "prezitAsvahe",
+        "prezayitAsmahe",
+        "prezitAsmahe"
+      ],
+      "avidhiling": [
+        "prezyeta",
+        "prezyeyAtAm",
+        "prezyeran",
+        "prezyeTAH",
+        "prezyeyATAm",
+        "prezyeDvam",
+        "prezyeya",
+        "prezyevahi",
+        "prezyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "peprezizIzwa",
+        "peprezizIyAstAm",
+        "peprezizIran",
+        "peprezizIzWAH",
+        "peprezizIyAsTAm",
+        "peprezizIDvam",
+        "peprezizIya",
+        "peprezizIvahi",
+        "peprezizImahi"
+      ],
+      "alang": [
+        "apeprezyata",
+        "apeprezyetAm",
+        "apeprezyanta",
+        "apeprezyaTAH",
+        "apeprezyeTAm",
+        "apeprezyaDvam",
+        "apeprezye",
+        "apeprezyAvahi",
+        "apeprezyAmahi"
+      ],
+      "alat": [
+        "peprezyate",
+        "peprezyete",
+        "peprezyante",
+        "peprezyase",
+        "peprezyeTe",
+        "peprezyaDve",
+        "peprezye",
+        "peprezyAvahe",
+        "peprezyAmahe"
+      ],
+      "alit": [
+        "peprezAYcakre",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakrAte",
+        "peprezAmAsatuH",
+        "peprezAmbaBUvatuH",
+        "peprezAYcakrire",
+        "peprezAmAsuH",
+        "peprezAmbaBUvuH",
+        "peprezAYcakfze",
+        "peprezAmAsiTa",
+        "peprezAmbaBUviTa",
+        "peprezAYcakrATe",
+        "peprezAmAsaTuH",
+        "peprezAmbaBUvaTuH",
+        "peprezAYcakfQve",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakre",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakfvahe",
+        "peprezAmAsiva",
+        "peprezAmbaBUviva",
+        "peprezAYcakfmahe",
+        "peprezAmAsima",
+        "peprezAmbaBUvima"
+      ],
+      "alot": [
+        "peprezyatAm",
+        "peprezyetAm",
+        "peprezyantAm",
+        "peprezyasva",
+        "peprezyeTAm",
+        "peprezyaDvam",
+        "peprezyE",
+        "peprezyAvahE",
+        "peprezyAmahE"
+      ],
+      "alrung": [
+        "apeprezizyata",
+        "apeprezizyetAm",
+        "apeprezizyanta",
+        "apeprezizyaTAH",
+        "apeprezizyeTAm",
+        "apeprezizyaDvam",
+        "apeprezizye",
+        "apeprezizyAvahi",
+        "apeprezizyAmahi"
+      ],
+      "alrut": [
+        "peprezizyate",
+        "peprezizyete",
+        "peprezizyante",
+        "peprezizyase",
+        "peprezizyeTe",
+        "peprezizyaDve",
+        "peprezizye",
+        "peprezizyAvahe",
+        "peprezizyAmahe"
+      ],
+      "alung": [
+        "apeprezizwa",
+        "apeprezizAtAm",
+        "apeprezizata",
+        "apeprezizWAH",
+        "apeprezizATAm",
+        "apepreziDvam",
+        "apeprezizi",
+        "apeprezizvahi",
+        "apeprezizmahi"
+      ],
+      "alut": [
+        "peprezitA",
+        "peprezitArO",
+        "peprezitAraH",
+        "peprezitAse",
+        "peprezitAsATe",
+        "peprezitADve",
+        "peprezitAhe",
+        "peprezitAsvahe",
+        "peprezitAsmahe"
+      ],
+      "avidhiling": [
+        "peprezyeta",
+        "peprezyeyAtAm",
+        "peprezyeran",
+        "peprezyeTAH",
+        "peprezyeyATAm",
+        "peprezyeDvam",
+        "peprezyeya",
+        "peprezyevahi",
+        "peprezyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "peprezizIzwa",
+        "peprezizIyAstAm",
+        "peprezizIran",
+        "peprezizIzWAH",
+        "peprezizIyAsTAm",
+        "peprezizIDvam",
+        "peprezizIya",
+        "peprezizIvahi",
+        "peprezizImahi"
+      ],
+      "alang": [
+        "apeprezyata",
+        "apeprezyetAm",
+        "apeprezyanta",
+        "apeprezyaTAH",
+        "apeprezyeTAm",
+        "apeprezyaDvam",
+        "apeprezye",
+        "apeprezyAvahi",
+        "apeprezyAmahi"
+      ],
+      "alat": [
+        "peprezyate",
+        "peprezyete",
+        "peprezyante",
+        "peprezyase",
+        "peprezyeTe",
+        "peprezyaDve",
+        "peprezye",
+        "peprezyAvahe",
+        "peprezyAmahe"
+      ],
+      "alit": [
+        "peprezAYcakre",
+        "peprezAmAse",
+        "peprezAmbaBUve",
+        "peprezAYcakrAte",
+        "peprezAmAsAte",
+        "peprezAmbaBUvAte",
+        "peprezAYcakrire",
+        "peprezAmAsire",
+        "peprezAmbaBUvire",
+        "peprezAYcakfze",
+        "peprezAmAsize",
+        "peprezAmbaBUvize",
+        "peprezAYcakrATe",
+        "peprezAmAsATe",
+        "peprezAmbaBUvATe",
+        "peprezAYcakfQve",
+        "peprezAmAsiDve",
+        "peprezAmbaBUviQve",
+        "peprezAYcakre",
+        "peprezAmAhe",
+        "peprezAmbaBUve",
+        "peprezAYcakfvahe",
+        "peprezAmAsivahe",
+        "peprezAmbaBUvivahe",
+        "peprezAYcakfmahe",
+        "peprezAmAsimahe",
+        "peprezAmbaBUvimahe"
+      ],
+      "alot": [
+        "peprezyatAm",
+        "peprezyetAm",
+        "peprezyantAm",
+        "peprezyasva",
+        "peprezyeTAm",
+        "peprezyaDvam",
+        "peprezyE",
+        "peprezyAvahE",
+        "peprezyAmahE"
+      ],
+      "alrung": [
+        "apeprezizyata",
+        "apeprezizyetAm",
+        "apeprezizyanta",
+        "apeprezizyaTAH",
+        "apeprezizyeTAm",
+        "apeprezizyaDvam",
+        "apeprezizye",
+        "apeprezizyAvahi",
+        "apeprezizyAmahi"
+      ],
+      "alrut": [
+        "peprezizyate",
+        "peprezizyete",
+        "peprezizyante",
+        "peprezizyase",
+        "peprezizyeTe",
+        "peprezizyaDve",
+        "peprezizye",
+        "peprezizyAvahe",
+        "peprezizyAmahe"
+      ],
+      "alung": [
+        "apeprezi",
+        "apeprezizAtAm",
+        "apeprezizata",
+        "apeprezizWAH",
+        "apeprezizATAm",
+        "apepreziDvam",
+        "apeprezizi",
+        "apeprezizvahi",
+        "apeprezizmahi"
+      ],
+      "alut": [
+        "peprezitA",
+        "peprezitArO",
+        "peprezitAraH",
+        "peprezitAse",
+        "peprezitAsATe",
+        "peprezitADve",
+        "peprezitAhe",
+        "peprezitAsvahe",
+        "peprezitAsmahe"
+      ],
+      "avidhiling": [
+        "peprezyeta",
+        "peprezyeyAtAm",
+        "peprezyeran",
+        "peprezyeTAH",
+        "peprezyeyATAm",
+        "peprezyeDvam",
+        "peprezyeya",
+        "peprezyevahi",
+        "peprezyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "peprezyAt",
+        "peprezyAd",
+        "peprezyAstAm",
+        "peprezyAsuH",
+        "peprezyAH",
+        "peprezyAstam",
+        "peprezyAsta",
+        "peprezyAsam",
+        "peprezyAsva",
+        "peprezyAsma"
+      ],
+      "plang": [
+        "apeprew",
+        "apepreq",
+        "apeprezIt",
+        "apeprezId",
+        "apeprezwAm",
+        "apeprezuH",
+        "apeprew",
+        "apepreq",
+        "apeprezIH",
+        "apeprezwam",
+        "apeprezwa",
+        "apeprezam",
+        "apeprezva",
+        "apeprezma"
+      ],
+      "plat": [
+        "peprezIti",
+        "peprezwi",
+        "peprezwaH",
+        "peprezati",
+        "peprekzi",
+        "peprezIzi",
+        "peprezWaH",
+        "peprezWa",
+        "peprezImi",
+        "peprezmi",
+        "peprezvaH",
+        "peprezmaH"
+      ],
+      "plit": [
+        "peprezAYcakAra",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakratuH",
+        "peprezAmAsatuH",
+        "peprezAmbaBUvatuH",
+        "peprezAYcakruH",
+        "peprezAmAsuH",
+        "peprezAmbaBUvuH",
+        "peprezAYcakarTa",
+        "peprezAmAsiTa",
+        "peprezAmbaBUviTa",
+        "peprezAYcakraTuH",
+        "peprezAmAsaTuH",
+        "peprezAmbaBUvaTuH",
+        "peprezAYcakra",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakara",
+        "peprezAYcakAra",
+        "peprezAmAsa",
+        "peprezAmbaBUva",
+        "peprezAYcakfva",
+        "peprezAmAsiva",
+        "peprezAmbaBUviva",
+        "peprezAYcakfma",
+        "peprezAmAsima",
+        "peprezAmbaBUvima"
+      ],
+      "plot": [
+        "peprezItu",
+        "peprezwAt",
+        "peprezwAd",
+        "peprezwu",
+        "peprezwAm",
+        "peprezatu",
+        "pepreqQi",
+        "peprezwAt",
+        "peprezwAd",
+        "peprezwam",
+        "peprezwa",
+        "peprezARi",
+        "peprezAva",
+        "peprezAma"
+      ],
+      "plrung": [
+        "apeprezizyat",
+        "apeprezizyad",
+        "apeprezizyatAm",
+        "apeprezizyan",
+        "apeprezizyaH",
+        "apeprezizyatam",
+        "apeprezizyata",
+        "apeprezizyam",
+        "apeprezizyAva",
+        "apeprezizyAma"
+      ],
+      "plrut": [
+        "peprezizyati",
+        "peprezizyataH",
+        "peprezizyanti",
+        "peprezizyasi",
+        "peprezizyaTaH",
+        "peprezizyaTa",
+        "peprezizyAmi",
+        "peprezizyAvaH",
+        "peprezizyAmaH"
+      ],
+      "plung": [
+        "apeprezIt",
+        "apeprezId",
+        "apeprezizwAm",
+        "apeprezizuH",
+        "apeprezIH",
+        "apeprezizwam",
+        "apeprezizwa",
+        "apeprezizam",
+        "apeprezizva",
+        "apeprezizma"
+      ],
+      "plut": [
+        "peprezitA",
+        "peprezitArO",
+        "peprezitAraH",
+        "peprezitAsi",
+        "peprezitAsTaH",
+        "peprezitAsTa",
+        "peprezitAsmi",
+        "peprezitAsvaH",
+        "peprezitAsmaH"
+      ],
+      "pvidhiling": [
+        "peprezyAt",
+        "peprezyAd",
+        "peprezyAtAm",
+        "peprezyuH",
+        "peprezyAH",
+        "peprezyAtam",
+        "peprezyAta",
+        "peprezyAm",
+        "peprezyAva",
+        "peprezyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "peprezizIzwa",
+        "peprezizIyAstAm",
+        "peprezizIran",
+        "peprezizIzWAH",
+        "peprezizIyAsTAm",
+        "peprezizIDvam",
+        "peprezizIya",
+        "peprezizIvahi",
+        "peprezizImahi"
+      ],
+      "alang": [
+        "apeprezyata",
+        "apeprezyetAm",
+        "apeprezyanta",
+        "apeprezyaTAH",
+        "apeprezyeTAm",
+        "apeprezyaDvam",
+        "apeprezye",
+        "apeprezyAvahi",
+        "apeprezyAmahi"
+      ],
+      "alat": [
+        "peprezyate",
+        "peprezyete",
+        "peprezyante",
+        "peprezyase",
+        "peprezyeTe",
+        "peprezyaDve",
+        "peprezye",
+        "peprezyAvahe",
+        "peprezyAmahe"
+      ],
+      "alit": [
+        "peprezAYcakre",
+        "peprezAmAse",
+        "peprezAmbaBUve",
+        "peprezAYcakrAte",
+        "peprezAmAsAte",
+        "peprezAmbaBUvAte",
+        "peprezAYcakrire",
+        "peprezAmAsire",
+        "peprezAmbaBUvire",
+        "peprezAYcakfze",
+        "peprezAmAsize",
+        "peprezAmbaBUvize",
+        "peprezAYcakrATe",
+        "peprezAmAsATe",
+        "peprezAmbaBUvATe",
+        "peprezAYcakfQve",
+        "peprezAmAsiDve",
+        "peprezAmbaBUviQve",
+        "peprezAYcakre",
+        "peprezAmAhe",
+        "peprezAmbaBUve",
+        "peprezAYcakfvahe",
+        "peprezAmAsivahe",
+        "peprezAmbaBUvivahe",
+        "peprezAYcakfmahe",
+        "peprezAmAsimahe",
+        "peprezAmbaBUvimahe"
+      ],
+      "alot": [
+        "peprezyatAm",
+        "peprezyetAm",
+        "peprezyantAm",
+        "peprezyasva",
+        "peprezyeTAm",
+        "peprezyaDvam",
+        "peprezyE",
+        "peprezyAvahE",
+        "peprezyAmahE"
+      ],
+      "alrung": [
+        "apeprezizyata",
+        "apeprezizyetAm",
+        "apeprezizyanta",
+        "apeprezizyaTAH",
+        "apeprezizyeTAm",
+        "apeprezizyaDvam",
+        "apeprezizye",
+        "apeprezizyAvahi",
+        "apeprezizyAmahi"
+      ],
+      "alrut": [
+        "peprezizyate",
+        "peprezizyete",
+        "peprezizyante",
+        "peprezizyase",
+        "peprezizyeTe",
+        "peprezizyaDve",
+        "peprezizye",
+        "peprezizyAvahe",
+        "peprezizyAmahe"
+      ],
+      "alung": [
+        "apeprezi",
+        "apeprezizAtAm",
+        "apeprezizata",
+        "apeprezizWAH",
+        "apeprezizATAm",
+        "apepreziDvam",
+        "apeprezizi",
+        "apeprezizvahi",
+        "apeprezizmahi"
+      ],
+      "alut": [
+        "peprezitA",
+        "peprezitArO",
+        "peprezitAraH",
+        "peprezitAse",
+        "peprezitAsATe",
+        "peprezitADve",
+        "peprezitAhe",
+        "peprezitAsvahe",
+        "peprezitAsmahe"
+      ],
+      "avidhiling": [
+        "peprezyeta",
+        "peprezyeyAtAm",
+        "peprezyeran",
+        "peprezyeTAH",
+        "peprezyeyATAm",
+        "peprezyeDvam",
+        "peprezyeya",
+        "peprezyevahi",
+        "peprezyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "prezA",
+          "m": "",
+          "f": "prezA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "preza",
+          "m": "prezaH",
+          "f": "prezA",
+          "n": "prezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prezaRIya",
+          "m": "prezaRIyaH",
+          "f": "prezaRIyA",
+          "n": "prezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prezita",
+          "m": "prezitaH",
+          "f": "prezitA",
+          "n": "prezitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prezitavat",
+          "m": "prezitavAn",
+          "f": "prezitavatI",
+          "n": "prezitavat/prezitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prezwi",
+          "m": "",
+          "f": "prezwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prezitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piprezvas",
+          "m": "piprezvAn",
+          "f": "piprezuzI",
+          "n": "piprezvat/piprezvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "preza",
+          "m": "prezaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prezamARa",
+          "m": "prezamARaH",
+          "f": "prezamARA",
+          "n": "prezamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "prezya",
+          "m": "prezyaH",
+          "f": "prezyA",
+          "n": "prezyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prezaka",
+          "m": "prezakaH",
+          "f": "prezikA",
+          "n": "prezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "prezitavya",
+          "m": "prezitavyaH",
+          "f": "prezitavyA",
+          "n": "prezitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "prezitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "prezitf",
+          "m": "prezitA",
+          "f": "prezitrI",
+          "n": "prezitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prezyamARa",
+          "m": "prezyamARaH",
+          "f": "prezyamARA",
+          "n": "prezyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprezya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prezaRa",
+          "m": "",
+          "f": "",
+          "n": "prezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prezaka",
+          "m": "prezakaH",
+          "f": "prezikA",
+          "n": "prezakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prezamARa",
+          "m": "prezamARaH",
+          "f": "prezamARA",
+          "n": "prezamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prezizyamARa",
+          "m": "prezizyamARaH",
+          "f": "prezizyamARA",
+          "n": "prezizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prezizyamARa",
+          "m": "prezizyamARaH",
+          "f": "prezizyamARA",
+          "n": "prezizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "piprezizA",
+          "m": "",
+          "f": "piprezizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pipreziza",
+          "m": "piprezizaH",
+          "f": "piprezizA",
+          "n": "piprezizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "piprezizaRIya",
+          "m": "piprezizaRIyaH",
+          "f": "piprezizaRIyA",
+          "n": "piprezizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "piprezizu",
+          "m": "piprezizuH",
+          "f": "piprezizuH",
+          "n": "piprezizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "piprezizita",
+          "m": "piprezizitaH",
+          "f": "piprezizitA",
+          "n": "piprezizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "piprezizitavat",
+          "m": "piprezizitavAn",
+          "f": "piprezizitavatI",
+          "n": "piprezizitavat/piprezizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "piprezizwi",
+          "m": "",
+          "f": "piprezizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "piprezizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piprezizAmbaBUvas",
+          "m": "piprezizAmbaBUvAn",
+          "f": "piprezizAmbaBUzI",
+          "n": "piprezizAmbaBUvat/piprezizAmbaBUvad"
+        },
+        {
+          "base": "piprezizAmAsivas",
+          "m": "piprezizAmAsivAn",
+          "f": "piprezizAmAsyuzI",
+          "n": "piprezizAmAsivat/piprezizAmAsivad"
+        },
+        {
+          "base": "piprezizAYcakfvas",
+          "m": "piprezizAYcakfvAn",
+          "f": "piprezizAYcakruzI",
+          "n": "piprezizAYcakfvat/piprezizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pipreziza",
+          "m": "piprezizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "piprezizamARa",
+          "m": "piprezizamARaH",
+          "f": "piprezizamARA",
+          "n": "piprezizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "piprezizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "piprezizaka",
+          "m": "piprezizakaH",
+          "f": "piprezizikA",
+          "n": "piprezizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "piprezizitavya",
+          "m": "piprezizitavyaH",
+          "f": "piprezizitavyA",
+          "n": "piprezizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "piprezizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "piprezizitf",
+          "m": "piprezizitA",
+          "f": "piprezizitrI",
+          "n": "piprezizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "piprezizyamARa",
+          "m": "piprezizyamARaH",
+          "f": "piprezizyamARA",
+          "n": "piprezizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "piprezizya",
+          "m": "piprezizyaH",
+          "f": "piprezizyA",
+          "n": "piprezizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapiprezizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "piprezizaRa",
+          "m": "",
+          "f": "",
+          "n": "piprezizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "piprezizaka",
+          "m": "piprezizakaH",
+          "f": "piprezizikA",
+          "n": "piprezizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "piprezizamARa",
+          "m": "piprezizamARaH",
+          "f": "piprezizamARA",
+          "n": "piprezizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "piprezizizyamARa",
+          "m": "piprezizizyamARaH",
+          "f": "piprezizizyamARA",
+          "n": "piprezizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "piprezizizyamARa",
+          "m": "piprezizizyamARaH",
+          "f": "piprezizizyamARA",
+          "n": "piprezizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "preza",
+          "m": "prezaH",
+          "f": "prezA",
+          "n": "prezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prezaRIya",
+          "m": "prezaRIyaH",
+          "f": "prezaRIyA",
+          "n": "prezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prezita",
+          "m": "prezitaH",
+          "f": "prezitA",
+          "n": "prezitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prezitavat",
+          "m": "prezitavAn",
+          "f": "prezitavatI",
+          "n": "prezitavat/prezitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prezwi",
+          "m": "",
+          "f": "prezwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prezayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "prezayAmbaBUvas",
+          "m": "prezayAmbaBUvAn",
+          "f": "prezayAmbaBUzI",
+          "n": "prezayAmbaBUvat/prezayAmbaBUvad"
+        },
+        {
+          "base": "prezayAmAsivas",
+          "m": "prezayAmAsivAn",
+          "f": "prezayAmAsyuzI",
+          "n": "prezayAmAsivat/prezayAmAsivad"
+        },
+        {
+          "base": "prezayAYcakfvas",
+          "m": "prezayAYcakfvAn",
+          "f": "prezayAYcakruzI",
+          "n": "prezayAYcakfvat/prezayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prezayamARa",
+          "m": "prezayamARaH",
+          "f": "prezayamARA",
+          "n": "prezayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prezaka",
+          "m": "prezakaH",
+          "f": "prezikA",
+          "n": "prezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "prezayitavya",
+          "m": "prezayitavyaH",
+          "f": "prezayitavyA",
+          "n": "prezayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "prezayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "prezayitf",
+          "m": "prezayitA",
+          "f": "prezayitrI",
+          "n": "prezayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prezyamARa",
+          "m": "prezyamARaH",
+          "f": "prezyamARA",
+          "n": "prezyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "prezya",
+          "m": "prezyaH",
+          "f": "prezyA",
+          "n": "prezyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprezya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prezaRa",
+          "m": "",
+          "f": "",
+          "n": "prezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prezaka",
+          "m": "prezakaH",
+          "f": "prezikA",
+          "n": "prezakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "prezayat",
+          "m": "prezayan",
+          "f": "prezayantI",
+          "n": "prezayat/prezayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prezayamARa",
+          "m": "prezayamARaH",
+          "f": "prezayamARA",
+          "n": "prezayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prezizyamARa",
+          "m": "prezizyamARaH",
+          "f": "prezizyamARA",
+          "n": "prezizyamARam"
+        },
+        {
+          "base": "prezayizyamARa",
+          "m": "prezayizyamARaH",
+          "f": "prezayizyamARA",
+          "n": "prezayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "prezayizyat",
+          "m": "prezayizyan",
+          "f": "prezayizyatI/prezayizyantI",
+          "n": "prezayizyat/prezayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prezayizyamARa",
+          "m": "prezayizyamARaH",
+          "f": "prezayizyamARA",
+          "n": "prezayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "peprezA",
+          "m": "",
+          "f": "peprezA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepreza",
+          "m": "peprezaH",
+          "f": "peprezA",
+          "n": "peprezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "peprezaRIya",
+          "m": "peprezaRIyaH",
+          "f": "peprezaRIyA",
+          "n": "peprezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "peprezita",
+          "m": "peprezitaH",
+          "f": "peprezitA",
+          "n": "peprezitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "peprezitavat",
+          "m": "peprezitavAn",
+          "f": "peprezitavatI",
+          "n": "peprezitavat/peprezitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "peprezwi",
+          "m": "",
+          "f": "peprezwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "peprezitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "peprezAmbaBUvas",
+          "m": "peprezAmbaBUvAn",
+          "f": "peprezAmbaBUzI",
+          "n": "peprezAmbaBUvat/peprezAmbaBUvad"
+        },
+        {
+          "base": "peprezAmAsivas",
+          "m": "peprezAmAsivAn",
+          "f": "peprezAmAsyuzI",
+          "n": "peprezAmAsivat/peprezAmAsivad"
+        },
+        {
+          "base": "peprezAYcakfvas",
+          "m": "peprezAYcakfvAn",
+          "f": "peprezAYcakruzI",
+          "n": "peprezAYcakfvat/peprezAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pepreza",
+          "m": "peprezaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "peprezyamARa",
+          "m": "peprezyamARaH",
+          "f": "peprezyamARA",
+          "n": "peprezyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "peprezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "peprezaka",
+          "m": "peprezakaH",
+          "f": "peprezikA",
+          "n": "peprezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "peprezitavya",
+          "m": "peprezitavyaH",
+          "f": "peprezitavyA",
+          "n": "peprezitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "peprezitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "peprezitf",
+          "m": "peprezitA",
+          "f": "peprezitrI",
+          "n": "peprezitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "peprezyamARa",
+          "m": "peprezyamARaH",
+          "f": "peprezyamARA",
+          "n": "peprezyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "peprezya",
+          "m": "peprezyaH",
+          "f": "peprezyA",
+          "n": "peprezyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapeprezya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "peprezaRa",
+          "m": "",
+          "f": "",
+          "n": "peprezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "peprezaka",
+          "m": "peprezakaH",
+          "f": "peprezikA",
+          "n": "peprezakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "peprezyamARa",
+          "m": "peprezyamARaH",
+          "f": "peprezyamARA",
+          "n": "peprezyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "peprezizyamARa",
+          "m": "peprezizyamARaH",
+          "f": "peprezizyamARA",
+          "n": "peprezizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "peprezizyamARa",
+          "m": "peprezizyamARaH",
+          "f": "peprezizyamARA",
+          "n": "peprezizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "peprezA",
+          "m": "",
+          "f": "peprezA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepreza",
+          "m": "peprezaH",
+          "f": "peprezA",
+          "n": "peprezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "peprezaRIya",
+          "m": "peprezaRIyaH",
+          "f": "peprezaRIyA",
+          "n": "peprezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "peprezita",
+          "m": "peprezitaH",
+          "f": "peprezitA",
+          "n": "peprezitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "peprezitavat",
+          "m": "peprezitavAn",
+          "f": "peprezitavatI",
+          "n": "peprezitavat/peprezitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "peprezwi",
+          "m": "",
+          "f": "peprezwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "peprezitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "peprezAmbaBUvas",
+          "m": "peprezAmbaBUvAn",
+          "f": "peprezAmbaBUzI",
+          "n": "peprezAmbaBUvat/peprezAmbaBUvad"
+        },
+        {
+          "base": "peprezAmAsivas",
+          "m": "peprezAmAsivAn",
+          "f": "peprezAmAsyuzI",
+          "n": "peprezAmAsivat/peprezAmAsivad"
+        },
+        {
+          "base": "peprezAYcakfvas",
+          "m": "peprezAYcakfvAn",
+          "f": "peprezAYcakruzI",
+          "n": "peprezAYcakfvat/peprezAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pepreza",
+          "m": "peprezaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "peprezARa",
+          "m": "peprezARaH",
+          "f": "peprezARA",
+          "n": "peprezARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "peprezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "peprezaka",
+          "m": "peprezakaH",
+          "f": "peprezikA",
+          "n": "peprezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "peprezitavya",
+          "m": "peprezitavyaH",
+          "f": "peprezitavyA",
+          "n": "peprezitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "peprezitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "peprezitf",
+          "m": "peprezitA",
+          "f": "peprezitrI",
+          "n": "peprezitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "peprezyamARa",
+          "m": "peprezyamARaH",
+          "f": "peprezyamARA",
+          "n": "peprezyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapeprezya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "peprezaRa",
+          "m": "",
+          "f": "",
+          "n": "peprezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "peprezaka",
+          "m": "peprezakaH",
+          "f": "peprezikA",
+          "n": "peprezakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "peprezat",
+          "m": "peprezat/peprezad",
+          "f": "peprezatI",
+          "n": "peprezat/peprezad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "peprezizyamARa",
+          "m": "peprezizyamARaH",
+          "f": "peprezizyamARA",
+          "n": "peprezizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "peprezizyat",
+          "m": "peprezizyan",
+          "f": "peprezizyatI/peprezizyantI",
+          "n": "peprezizyat/peprezizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "prez",
+    "entries": [
+      {
+        "prefix": "sam",
+        "artha_hindi": "milakara BejanA, dUra BejanA, sATa BejanA"
+      }
+    ]
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {
+    "sam": {
+      "prefix": "sam",
+      "artha_hindi": "milakara BejanA, dUra BejanA, sATa BejanA",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "saMprezizIzwa",
+            "samprezizIzwa",
+            "saMprezizIyAstAm",
+            "samprezizIyAstAm",
+            "saMprezizIran",
+            "samprezizIran",
+            "saMprezizIzWAH",
+            "samprezizIzWAH",
+            "saMprezizIyAsTAm",
+            "samprezizIyAsTAm",
+            "saMprezizIDvam",
+            "samprezizIDvam",
+            "saMprezizIya",
+            "samprezizIya",
+            "saMprezizIvahi",
+            "samprezizIvahi",
+            "saMprezizImahi",
+            "samprezizImahi"
+          ],
+          "alang": [
+            "samaprezata",
+            "samaprezetAm",
+            "samaprezanta",
+            "samaprezaTAH",
+            "samaprezeTAm",
+            "samaprezaDvam",
+            "samapreze",
+            "samaprezAvahi",
+            "samaprezAmahi"
+          ],
+          "alat": [
+            "saMprezate",
+            "samprezate",
+            "saMprezete",
+            "samprezete",
+            "saMprezante",
+            "samprezante",
+            "saMprezase",
+            "samprezase",
+            "saMprezeTe",
+            "samprezeTe",
+            "saMprezaDve",
+            "samprezaDve",
+            "saMpreze",
+            "sampreze",
+            "saMprezAvahe",
+            "samprezAvahe",
+            "saMprezAmahe",
+            "samprezAmahe"
+          ],
+          "alit": [
+            "saMpipreze",
+            "sampipreze",
+            "saMpiprezAte",
+            "sampiprezAte",
+            "saMpiprezire",
+            "sampiprezire",
+            "saMpiprezize",
+            "sampiprezize",
+            "saMpiprezATe",
+            "sampiprezATe",
+            "saMpipreziDve",
+            "sampipreziDve",
+            "saMpipreze",
+            "sampipreze",
+            "saMpiprezivahe",
+            "sampiprezivahe",
+            "saMpiprezimahe",
+            "sampiprezimahe"
+          ],
+          "alot": [
+            "saMprezatAm",
+            "samprezatAm",
+            "saMprezetAm",
+            "samprezetAm",
+            "saMprezantAm",
+            "samprezantAm",
+            "saMprezasva",
+            "samprezasva",
+            "saMprezeTAm",
+            "samprezeTAm",
+            "saMprezaDvam",
+            "samprezaDvam",
+            "saMprezE",
+            "samprezE",
+            "saMprezAvahE",
+            "samprezAvahE",
+            "saMprezAmahE",
+            "samprezAmahE"
+          ],
+          "alrung": [
+            "samaprezizyata",
+            "samaprezizyetAm",
+            "samaprezizyanta",
+            "samaprezizyaTAH",
+            "samaprezizyeTAm",
+            "samaprezizyaDvam",
+            "samaprezizye",
+            "samaprezizyAvahi",
+            "samaprezizyAmahi"
+          ],
+          "alrut": [
+            "saMprezizyate",
+            "samprezizyate",
+            "saMprezizyete",
+            "samprezizyete",
+            "saMprezizyante",
+            "samprezizyante",
+            "saMprezizyase",
+            "samprezizyase",
+            "saMprezizyeTe",
+            "samprezizyeTe",
+            "saMprezizyaDve",
+            "samprezizyaDve",
+            "saMprezizye",
+            "samprezizye",
+            "saMprezizyAvahe",
+            "samprezizyAvahe",
+            "saMprezizyAmahe",
+            "samprezizyAmahe"
+          ],
+          "alung": [
+            "samaprezizwa",
+            "samaprezizAtAm",
+            "samaprezizata",
+            "samaprezizWAH",
+            "samaprezizATAm",
+            "samapreziDvam",
+            "samaprezizi",
+            "samaprezizvahi",
+            "samaprezizmahi"
+          ],
+          "alut": [
+            "saMprezitA",
+            "samprezitA",
+            "saMprezitArO",
+            "samprezitArO",
+            "saMprezitAraH",
+            "samprezitAraH",
+            "saMprezitAse",
+            "samprezitAse",
+            "saMprezitAsATe",
+            "samprezitAsATe",
+            "saMprezitADve",
+            "samprezitADve",
+            "saMprezitAhe",
+            "samprezitAhe",
+            "saMprezitAsvahe",
+            "samprezitAsvahe",
+            "saMprezitAsmahe",
+            "samprezitAsmahe"
+          ],
+          "avidhiling": [
+            "saMprezeta",
+            "samprezeta",
+            "saMprezeyAtAm",
+            "samprezeyAtAm",
+            "saMprezeran",
+            "samprezeran",
+            "saMprezeTAH",
+            "samprezeTAH",
+            "saMprezeyATAm",
+            "samprezeyATAm",
+            "saMprezeDvam",
+            "samprezeDvam",
+            "saMprezeya",
+            "samprezeya",
+            "saMprezevahi",
+            "samprezevahi",
+            "saMprezemahi",
+            "samprezemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "saMprezizIzwa",
+            "samprezizIzwa",
+            "saMprezizIyAstAm",
+            "samprezizIyAstAm",
+            "saMprezizIran",
+            "samprezizIran",
+            "saMprezizIzWAH",
+            "samprezizIzWAH",
+            "saMprezizIyAsTAm",
+            "samprezizIyAsTAm",
+            "saMprezizIDvam",
+            "samprezizIDvam",
+            "saMprezizIya",
+            "samprezizIya",
+            "saMprezizIvahi",
+            "samprezizIvahi",
+            "saMprezizImahi",
+            "samprezizImahi"
+          ],
+          "alang": [
+            "samaprezyata",
+            "samaprezyetAm",
+            "samaprezyanta",
+            "samaprezyaTAH",
+            "samaprezyeTAm",
+            "samaprezyaDvam",
+            "samaprezye",
+            "samaprezyAvahi",
+            "samaprezyAmahi"
+          ],
+          "alat": [
+            "saMprezyate",
+            "samprezyate",
+            "saMprezyete",
+            "samprezyete",
+            "saMprezyante",
+            "samprezyante",
+            "saMprezyase",
+            "samprezyase",
+            "saMprezyeTe",
+            "samprezyeTe",
+            "saMprezyaDve",
+            "samprezyaDve",
+            "saMprezye",
+            "samprezye",
+            "saMprezyAvahe",
+            "samprezyAvahe",
+            "saMprezyAmahe",
+            "samprezyAmahe"
+          ],
+          "alit": [
+            "saMpipreze",
+            "sampipreze",
+            "saMpiprezAte",
+            "sampiprezAte",
+            "saMpiprezire",
+            "sampiprezire",
+            "saMpiprezize",
+            "sampiprezize",
+            "saMpiprezATe",
+            "sampiprezATe",
+            "saMpipreziDve",
+            "sampipreziDve",
+            "saMpipreze",
+            "sampipreze",
+            "saMpiprezivahe",
+            "sampiprezivahe",
+            "saMpiprezimahe",
+            "sampiprezimahe"
+          ],
+          "alot": [
+            "saMprezyatAm",
+            "samprezyatAm",
+            "saMprezyetAm",
+            "samprezyetAm",
+            "saMprezyantAm",
+            "samprezyantAm",
+            "saMprezyasva",
+            "samprezyasva",
+            "saMprezyeTAm",
+            "samprezyeTAm",
+            "saMprezyaDvam",
+            "samprezyaDvam",
+            "saMprezyE",
+            "samprezyE",
+            "saMprezyAvahE",
+            "samprezyAvahE",
+            "saMprezyAmahE",
+            "samprezyAmahE"
+          ],
+          "alrung": [
+            "samaprezizyata",
+            "samaprezizyetAm",
+            "samaprezizyanta",
+            "samaprezizyaTAH",
+            "samaprezizyeTAm",
+            "samaprezizyaDvam",
+            "samaprezizye",
+            "samaprezizyAvahi",
+            "samaprezizyAmahi"
+          ],
+          "alrut": [
+            "saMprezizyate",
+            "samprezizyate",
+            "saMprezizyete",
+            "samprezizyete",
+            "saMprezizyante",
+            "samprezizyante",
+            "saMprezizyase",
+            "samprezizyase",
+            "saMprezizyeTe",
+            "samprezizyeTe",
+            "saMprezizyaDve",
+            "samprezizyaDve",
+            "saMprezizye",
+            "samprezizye",
+            "saMprezizyAvahe",
+            "samprezizyAvahe",
+            "saMprezizyAmahe",
+            "samprezizyAmahe"
+          ],
+          "alung": [
+            "samaprezi",
+            "samaprezizAtAm",
+            "samaprezizata",
+            "samaprezizWAH",
+            "samaprezizATAm",
+            "samapreziDvam",
+            "samaprezizi",
+            "samaprezizvahi",
+            "samaprezizmahi"
+          ],
+          "alut": [
+            "saMprezitA",
+            "samprezitA",
+            "saMprezitArO",
+            "samprezitArO",
+            "saMprezitAraH",
+            "samprezitAraH",
+            "saMprezitAse",
+            "samprezitAse",
+            "saMprezitAsATe",
+            "samprezitAsATe",
+            "saMprezitADve",
+            "samprezitADve",
+            "saMprezitAhe",
+            "samprezitAhe",
+            "saMprezitAsvahe",
+            "samprezitAsvahe",
+            "saMprezitAsmahe",
+            "samprezitAsmahe"
+          ],
+          "avidhiling": [
+            "saMprezyeta",
+            "samprezyeta",
+            "saMprezyeyAtAm",
+            "samprezyeyAtAm",
+            "saMprezyeran",
+            "samprezyeran",
+            "saMprezyeTAH",
+            "samprezyeTAH",
+            "saMprezyeyATAm",
+            "samprezyeyATAm",
+            "saMprezyeDvam",
+            "samprezyeDvam",
+            "saMprezyeya",
+            "samprezyeya",
+            "saMprezyevahi",
+            "samprezyevahi",
+            "saMprezyemahi",
+            "samprezyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "saMpiprezizizIzwa",
+            "sampiprezizizIzwa",
+            "saMpiprezizizIyAstAm",
+            "sampiprezizizIyAstAm",
+            "saMpiprezizizIran",
+            "sampiprezizizIran",
+            "saMpiprezizizIzWAH",
+            "sampiprezizizIzWAH",
+            "saMpiprezizizIyAsTAm",
+            "sampiprezizizIyAsTAm",
+            "saMpiprezizizIDvam",
+            "sampiprezizizIDvam",
+            "saMpiprezizizIya",
+            "sampiprezizizIya",
+            "saMpiprezizizIvahi",
+            "sampiprezizizIvahi",
+            "saMpiprezizizImahi",
+            "sampiprezizizImahi"
+          ],
+          "alang": [
+            "samapiprezizata",
+            "samapiprezizetAm",
+            "samapiprezizanta",
+            "samapiprezizaTAH",
+            "samapiprezizeTAm",
+            "samapiprezizaDvam",
+            "samapiprezize",
+            "samapiprezizAvahi",
+            "samapiprezizAmahi"
+          ],
+          "alat": [
+            "saMpiprezizate",
+            "sampiprezizate",
+            "saMpiprezizete",
+            "sampiprezizete",
+            "saMpiprezizante",
+            "sampiprezizante",
+            "saMpiprezizase",
+            "sampiprezizase",
+            "saMpiprezizeTe",
+            "sampiprezizeTe",
+            "saMpiprezizaDve",
+            "sampiprezizaDve",
+            "saMpiprezize",
+            "sampiprezize",
+            "saMpiprezizAvahe",
+            "sampiprezizAvahe",
+            "saMpiprezizAmahe",
+            "sampiprezizAmahe"
+          ],
+          "alit": [
+            "saMpiprezizAmbaBUva",
+            "sampiprezizAmbaBUva",
+            "saMpiprezizAmAsa",
+            "sampiprezizAmAsa",
+            "saMpiprezizAYcakre",
+            "sampiprezizAYcakre",
+            "saMpiprezizAmbaBUvatuH",
+            "sampiprezizAmbaBUvatuH",
+            "saMpiprezizAmAsatuH",
+            "sampiprezizAmAsatuH",
+            "saMpiprezizAYcakrAte",
+            "sampiprezizAYcakrAte",
+            "saMpiprezizAmbaBUvuH",
+            "sampiprezizAmbaBUvuH",
+            "saMpiprezizAmAsuH",
+            "sampiprezizAmAsuH",
+            "saMpiprezizAYcakrire",
+            "sampiprezizAYcakrire",
+            "saMpiprezizAmbaBUviTa",
+            "sampiprezizAmbaBUviTa",
+            "saMpiprezizAmAsiTa",
+            "sampiprezizAmAsiTa",
+            "saMpiprezizAYcakfze",
+            "sampiprezizAYcakfze",
+            "saMpiprezizAmbaBUvaTuH",
+            "sampiprezizAmbaBUvaTuH",
+            "saMpiprezizAmAsaTuH",
+            "sampiprezizAmAsaTuH",
+            "saMpiprezizAYcakrATe",
+            "sampiprezizAYcakrATe",
+            "saMpiprezizAmbaBUva",
+            "sampiprezizAmbaBUva",
+            "saMpiprezizAmAsa",
+            "sampiprezizAmAsa",
+            "saMpiprezizAYcakfQve",
+            "sampiprezizAYcakfQve",
+            "saMpiprezizAmbaBUva",
+            "sampiprezizAmbaBUva",
+            "saMpiprezizAmAsa",
+            "sampiprezizAmAsa",
+            "saMpiprezizAYcakre",
+            "sampiprezizAYcakre",
+            "saMpiprezizAmbaBUviva",
+            "sampiprezizAmbaBUviva",
+            "saMpiprezizAmAsiva",
+            "sampiprezizAmAsiva",
+            "saMpiprezizAYcakfvahe",
+            "sampiprezizAYcakfvahe",
+            "saMpiprezizAmbaBUvima",
+            "sampiprezizAmbaBUvima",
+            "saMpiprezizAmAsima",
+            "sampiprezizAmAsima",
+            "saMpiprezizAYcakfmahe",
+            "sampiprezizAYcakfmahe"
+          ],
+          "alot": [
+            "saMpiprezizatAm",
+            "sampiprezizatAm",
+            "saMpiprezizetAm",
+            "sampiprezizetAm",
+            "saMpiprezizantAm",
+            "sampiprezizantAm",
+            "saMpiprezizasva",
+            "sampiprezizasva",
+            "saMpiprezizeTAm",
+            "sampiprezizeTAm",
+            "saMpiprezizaDvam",
+            "sampiprezizaDvam",
+            "saMpiprezizE",
+            "sampiprezizE",
+            "saMpiprezizAvahE",
+            "sampiprezizAvahE",
+            "saMpiprezizAmahE",
+            "sampiprezizAmahE"
+          ],
+          "alrung": [
+            "samapiprezizizyata",
+            "samapiprezizizyetAm",
+            "samapiprezizizyanta",
+            "samapiprezizizyaTAH",
+            "samapiprezizizyeTAm",
+            "samapiprezizizyaDvam",
+            "samapiprezizizye",
+            "samapiprezizizyAvahi",
+            "samapiprezizizyAmahi"
+          ],
+          "alrut": [
+            "saMpiprezizizyate",
+            "sampiprezizizyate",
+            "saMpiprezizizyete",
+            "sampiprezizizyete",
+            "saMpiprezizizyante",
+            "sampiprezizizyante",
+            "saMpiprezizizyase",
+            "sampiprezizizyase",
+            "saMpiprezizizyeTe",
+            "sampiprezizizyeTe",
+            "saMpiprezizizyaDve",
+            "sampiprezizizyaDve",
+            "saMpiprezizizye",
+            "sampiprezizizye",
+            "saMpiprezizizyAvahe",
+            "sampiprezizizyAvahe",
+            "saMpiprezizizyAmahe",
+            "sampiprezizizyAmahe"
+          ],
+          "alung": [
+            "samapiprezizizwa",
+            "samapiprezizizAtAm",
+            "samapiprezizizata",
+            "samapiprezizizWAH",
+            "samapiprezizizATAm",
+            "samapipreziziDvam",
+            "samapiprezizizi",
+            "samapiprezizizvahi",
+            "samapiprezizizmahi"
+          ],
+          "alut": [
+            "saMpiprezizitA",
+            "sampiprezizitA",
+            "saMpiprezizitArO",
+            "sampiprezizitArO",
+            "saMpiprezizitAraH",
+            "sampiprezizitAraH",
+            "saMpiprezizitAse",
+            "sampiprezizitAse",
+            "saMpiprezizitAsATe",
+            "sampiprezizitAsATe",
+            "saMpiprezizitADve",
+            "sampiprezizitADve",
+            "saMpiprezizitAhe",
+            "sampiprezizitAhe",
+            "saMpiprezizitAsvahe",
+            "sampiprezizitAsvahe",
+            "saMpiprezizitAsmahe",
+            "sampiprezizitAsmahe"
+          ],
+          "avidhiling": [
+            "saMpiprezizeta",
+            "sampiprezizeta",
+            "saMpiprezizeyAtAm",
+            "sampiprezizeyAtAm",
+            "saMpiprezizeran",
+            "sampiprezizeran",
+            "saMpiprezizeTAH",
+            "sampiprezizeTAH",
+            "saMpiprezizeyATAm",
+            "sampiprezizeyATAm",
+            "saMpiprezizeDvam",
+            "sampiprezizeDvam",
+            "saMpiprezizeya",
+            "sampiprezizeya",
+            "saMpiprezizevahi",
+            "sampiprezizevahi",
+            "saMpiprezizemahi",
+            "sampiprezizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "saMpiprezizizIzwa",
+            "sampiprezizizIzwa",
+            "saMpiprezizizIyAstAm",
+            "sampiprezizizIyAstAm",
+            "saMpiprezizizIran",
+            "sampiprezizizIran",
+            "saMpiprezizizIzWAH",
+            "sampiprezizizIzWAH",
+            "saMpiprezizizIyAsTAm",
+            "sampiprezizizIyAsTAm",
+            "saMpiprezizizIDvam",
+            "sampiprezizizIDvam",
+            "saMpiprezizizIya",
+            "sampiprezizizIya",
+            "saMpiprezizizIvahi",
+            "sampiprezizizIvahi",
+            "saMpiprezizizImahi",
+            "sampiprezizizImahi"
+          ],
+          "alang": [
+            "samapiprezizyata",
+            "samapiprezizyetAm",
+            "samapiprezizyanta",
+            "samapiprezizyaTAH",
+            "samapiprezizyeTAm",
+            "samapiprezizyaDvam",
+            "samapiprezizye",
+            "samapiprezizyAvahi",
+            "samapiprezizyAmahi"
+          ],
+          "alat": [
+            "saMpiprezizyate",
+            "sampiprezizyate",
+            "saMpiprezizyete",
+            "sampiprezizyete",
+            "saMpiprezizyante",
+            "sampiprezizyante",
+            "saMpiprezizyase",
+            "sampiprezizyase",
+            "saMpiprezizyeTe",
+            "sampiprezizyeTe",
+            "saMpiprezizyaDve",
+            "sampiprezizyaDve",
+            "saMpiprezizye",
+            "sampiprezizye",
+            "saMpiprezizyAvahe",
+            "sampiprezizyAvahe",
+            "saMpiprezizyAmahe",
+            "sampiprezizyAmahe"
+          ],
+          "alit": [
+            "saMpiprezizAmbaBUve",
+            "sampiprezizAmbaBUve",
+            "saMpiprezizAmAse",
+            "sampiprezizAmAse",
+            "saMpiprezizAYcakre",
+            "sampiprezizAYcakre",
+            "saMpiprezizAmbaBUvAte",
+            "sampiprezizAmbaBUvAte",
+            "saMpiprezizAmAsAte",
+            "sampiprezizAmAsAte",
+            "saMpiprezizAYcakrAte",
+            "sampiprezizAYcakrAte",
+            "saMpiprezizAmbaBUvire",
+            "sampiprezizAmbaBUvire",
+            "saMpiprezizAmAsire",
+            "sampiprezizAmAsire",
+            "saMpiprezizAYcakrire",
+            "sampiprezizAYcakrire",
+            "saMpiprezizAmbaBUvize",
+            "sampiprezizAmbaBUvize",
+            "saMpiprezizAmAsize",
+            "sampiprezizAmAsize",
+            "saMpiprezizAYcakfze",
+            "sampiprezizAYcakfze",
+            "saMpiprezizAmbaBUvATe",
+            "sampiprezizAmbaBUvATe",
+            "saMpiprezizAmAsATe",
+            "sampiprezizAmAsATe",
+            "saMpiprezizAYcakrATe",
+            "sampiprezizAYcakrATe",
+            "saMpiprezizAmbaBUviQve",
+            "sampiprezizAmbaBUviQve",
+            "saMpiprezizAmAsiDve",
+            "sampiprezizAmAsiDve",
+            "saMpiprezizAYcakfQve",
+            "sampiprezizAYcakfQve",
+            "saMpiprezizAmbaBUve",
+            "sampiprezizAmbaBUve",
+            "saMpiprezizAmAhe",
+            "sampiprezizAmAhe",
+            "saMpiprezizAYcakre",
+            "sampiprezizAYcakre",
+            "saMpiprezizAmbaBUvivahe",
+            "sampiprezizAmbaBUvivahe",
+            "saMpiprezizAmAsivahe",
+            "sampiprezizAmAsivahe",
+            "saMpiprezizAYcakfvahe",
+            "sampiprezizAYcakfvahe",
+            "saMpiprezizAmbaBUvimahe",
+            "sampiprezizAmbaBUvimahe",
+            "saMpiprezizAmAsimahe",
+            "sampiprezizAmAsimahe",
+            "saMpiprezizAYcakfmahe",
+            "sampiprezizAYcakfmahe"
+          ],
+          "alot": [
+            "saMpiprezizyatAm",
+            "sampiprezizyatAm",
+            "saMpiprezizyetAm",
+            "sampiprezizyetAm",
+            "saMpiprezizyantAm",
+            "sampiprezizyantAm",
+            "saMpiprezizyasva",
+            "sampiprezizyasva",
+            "saMpiprezizyeTAm",
+            "sampiprezizyeTAm",
+            "saMpiprezizyaDvam",
+            "sampiprezizyaDvam",
+            "saMpiprezizyE",
+            "sampiprezizyE",
+            "saMpiprezizyAvahE",
+            "sampiprezizyAvahE",
+            "saMpiprezizyAmahE",
+            "sampiprezizyAmahE"
+          ],
+          "alrung": [
+            "samapiprezizizyata",
+            "samapiprezizizyetAm",
+            "samapiprezizizyanta",
+            "samapiprezizizyaTAH",
+            "samapiprezizizyeTAm",
+            "samapiprezizizyaDvam",
+            "samapiprezizizye",
+            "samapiprezizizyAvahi",
+            "samapiprezizizyAmahi"
+          ],
+          "alrut": [
+            "saMpiprezizizyate",
+            "sampiprezizizyate",
+            "saMpiprezizizyete",
+            "sampiprezizizyete",
+            "saMpiprezizizyante",
+            "sampiprezizizyante",
+            "saMpiprezizizyase",
+            "sampiprezizizyase",
+            "saMpiprezizizyeTe",
+            "sampiprezizizyeTe",
+            "saMpiprezizizyaDve",
+            "sampiprezizizyaDve",
+            "saMpiprezizizye",
+            "sampiprezizizye",
+            "saMpiprezizizyAvahe",
+            "sampiprezizizyAvahe",
+            "saMpiprezizizyAmahe",
+            "sampiprezizizyAmahe"
+          ],
+          "alung": [
+            "samapiprezizi",
+            "samapiprezizizAtAm",
+            "samapiprezizizata",
+            "samapiprezizizWAH",
+            "samapiprezizizATAm",
+            "samapipreziziDvam",
+            "samapiprezizizi",
+            "samapiprezizizvahi",
+            "samapiprezizizmahi"
+          ],
+          "alut": [
+            "saMpiprezizitA",
+            "sampiprezizitA",
+            "saMpiprezizitArO",
+            "sampiprezizitArO",
+            "saMpiprezizitAraH",
+            "sampiprezizitAraH",
+            "saMpiprezizitAse",
+            "sampiprezizitAse",
+            "saMpiprezizitAsATe",
+            "sampiprezizitAsATe",
+            "saMpiprezizitADve",
+            "sampiprezizitADve",
+            "saMpiprezizitAhe",
+            "sampiprezizitAhe",
+            "saMpiprezizitAsvahe",
+            "sampiprezizitAsvahe",
+            "saMpiprezizitAsmahe",
+            "sampiprezizitAsmahe"
+          ],
+          "avidhiling": [
+            "saMpiprezizyeta",
+            "sampiprezizyeta",
+            "saMpiprezizyeyAtAm",
+            "sampiprezizyeyAtAm",
+            "saMpiprezizyeran",
+            "sampiprezizyeran",
+            "saMpiprezizyeTAH",
+            "sampiprezizyeTAH",
+            "saMpiprezizyeyATAm",
+            "sampiprezizyeyATAm",
+            "saMpiprezizyeDvam",
+            "sampiprezizyeDvam",
+            "saMpiprezizyeya",
+            "sampiprezizyeya",
+            "saMpiprezizyevahi",
+            "sampiprezizyevahi",
+            "saMpiprezizyemahi",
+            "sampiprezizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "saMprezayizIzwa",
+            "samprezayizIzwa",
+            "saMprezayizIyAstAm",
+            "samprezayizIyAstAm",
+            "saMprezayizIran",
+            "samprezayizIran",
+            "saMprezayizIzWAH",
+            "samprezayizIzWAH",
+            "saMprezayizIyAsTAm",
+            "samprezayizIyAsTAm",
+            "saMprezayizIQvam",
+            "samprezayizIQvam",
+            "saMprezayizIDvam",
+            "samprezayizIDvam",
+            "saMprezayizIya",
+            "samprezayizIya",
+            "saMprezayizIvahi",
+            "samprezayizIvahi",
+            "saMprezayizImahi",
+            "samprezayizImahi"
+          ],
+          "alang": [
+            "samaprezayata",
+            "samaprezayetAm",
+            "samaprezayanta",
+            "samaprezayaTAH",
+            "samaprezayeTAm",
+            "samaprezayaDvam",
+            "samaprezaye",
+            "samaprezayAvahi",
+            "samaprezayAmahi"
+          ],
+          "alat": [
+            "saMprezayate",
+            "samprezayate",
+            "saMprezayete",
+            "samprezayete",
+            "saMprezayante",
+            "samprezayante",
+            "saMprezayase",
+            "samprezayase",
+            "saMprezayeTe",
+            "samprezayeTe",
+            "saMprezayaDve",
+            "samprezayaDve",
+            "saMprezaye",
+            "samprezaye",
+            "saMprezayAvahe",
+            "samprezayAvahe",
+            "saMprezayAmahe",
+            "samprezayAmahe"
+          ],
+          "alit": [
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakre",
+            "samprezayAYcakre",
+            "saMprezayAmbaBUvatuH",
+            "samprezayAmbaBUvatuH",
+            "saMprezayAmAsatuH",
+            "samprezayAmAsatuH",
+            "saMprezayAYcakrAte",
+            "samprezayAYcakrAte",
+            "saMprezayAmbaBUvuH",
+            "samprezayAmbaBUvuH",
+            "saMprezayAmAsuH",
+            "samprezayAmAsuH",
+            "saMprezayAYcakrire",
+            "samprezayAYcakrire",
+            "saMprezayAmbaBUviTa",
+            "samprezayAmbaBUviTa",
+            "saMprezayAmAsiTa",
+            "samprezayAmAsiTa",
+            "saMprezayAYcakfze",
+            "samprezayAYcakfze",
+            "saMprezayAmbaBUvaTuH",
+            "samprezayAmbaBUvaTuH",
+            "saMprezayAmAsaTuH",
+            "samprezayAmAsaTuH",
+            "saMprezayAYcakrATe",
+            "samprezayAYcakrATe",
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakfQve",
+            "samprezayAYcakfQve",
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakre",
+            "samprezayAYcakre",
+            "saMprezayAmbaBUviva",
+            "samprezayAmbaBUviva",
+            "saMprezayAmAsiva",
+            "samprezayAmAsiva",
+            "saMprezayAYcakfvahe",
+            "samprezayAYcakfvahe",
+            "saMprezayAmbaBUvima",
+            "samprezayAmbaBUvima",
+            "saMprezayAmAsima",
+            "samprezayAmAsima",
+            "saMprezayAYcakfmahe",
+            "samprezayAYcakfmahe"
+          ],
+          "alot": [
+            "saMprezayatAm",
+            "samprezayatAm",
+            "saMprezayetAm",
+            "samprezayetAm",
+            "saMprezayantAm",
+            "samprezayantAm",
+            "saMprezayasva",
+            "samprezayasva",
+            "saMprezayeTAm",
+            "samprezayeTAm",
+            "saMprezayaDvam",
+            "samprezayaDvam",
+            "saMprezayE",
+            "samprezayE",
+            "saMprezayAvahE",
+            "samprezayAvahE",
+            "saMprezayAmahE",
+            "samprezayAmahE"
+          ],
+          "alrung": [
+            "samaprezayizyata",
+            "samaprezayizyetAm",
+            "samaprezayizyanta",
+            "samaprezayizyaTAH",
+            "samaprezayizyeTAm",
+            "samaprezayizyaDvam",
+            "samaprezayizye",
+            "samaprezayizyAvahi",
+            "samaprezayizyAmahi"
+          ],
+          "alrut": [
+            "saMprezayizyate",
+            "samprezayizyate",
+            "saMprezayizyete",
+            "samprezayizyete",
+            "saMprezayizyante",
+            "samprezayizyante",
+            "saMprezayizyase",
+            "samprezayizyase",
+            "saMprezayizyeTe",
+            "samprezayizyeTe",
+            "saMprezayizyaDve",
+            "samprezayizyaDve",
+            "saMprezayizye",
+            "samprezayizye",
+            "saMprezayizyAvahe",
+            "samprezayizyAvahe",
+            "saMprezayizyAmahe",
+            "samprezayizyAmahe"
+          ],
+          "alung": [
+            "samapiprezata",
+            "samapiprezetAm",
+            "samapiprezanta",
+            "samapiprezaTAH",
+            "samapiprezeTAm",
+            "samapiprezaDvam",
+            "samapipreze",
+            "samapiprezAvahi",
+            "samapiprezAmahi"
+          ],
+          "alut": [
+            "saMprezayitA",
+            "samprezayitA",
+            "saMprezayitArO",
+            "samprezayitArO",
+            "saMprezayitAraH",
+            "samprezayitAraH",
+            "saMprezayitAse",
+            "samprezayitAse",
+            "saMprezayitAsATe",
+            "samprezayitAsATe",
+            "saMprezayitADve",
+            "samprezayitADve",
+            "saMprezayitAhe",
+            "samprezayitAhe",
+            "saMprezayitAsvahe",
+            "samprezayitAsvahe",
+            "saMprezayitAsmahe",
+            "samprezayitAsmahe"
+          ],
+          "avidhiling": [
+            "saMprezayeta",
+            "samprezayeta",
+            "saMprezayeyAtAm",
+            "samprezayeyAtAm",
+            "saMprezayeran",
+            "samprezayeran",
+            "saMprezayeTAH",
+            "samprezayeTAH",
+            "saMprezayeyATAm",
+            "samprezayeyATAm",
+            "saMprezayeDvam",
+            "samprezayeDvam",
+            "saMprezayeya",
+            "samprezayeya",
+            "saMprezayevahi",
+            "samprezayevahi",
+            "saMprezayemahi",
+            "samprezayemahi"
+          ],
+          "pashirling": [
+            "saMprezyAt",
+            "samprezyAt",
+            "saMprezyAd",
+            "samprezyAd",
+            "saMprezyAstAm",
+            "samprezyAstAm",
+            "saMprezyAsuH",
+            "samprezyAsuH",
+            "saMprezyAH",
+            "samprezyAH",
+            "saMprezyAstam",
+            "samprezyAstam",
+            "saMprezyAsta",
+            "samprezyAsta",
+            "saMprezyAsam",
+            "samprezyAsam",
+            "saMprezyAsva",
+            "samprezyAsva",
+            "saMprezyAsma",
+            "samprezyAsma"
+          ],
+          "plang": [
+            "samaprezayat",
+            "samaprezayad",
+            "samaprezayatAm",
+            "samaprezayan",
+            "samaprezayaH",
+            "samaprezayatam",
+            "samaprezayata",
+            "samaprezayam",
+            "samaprezayAva",
+            "samaprezayAma"
+          ],
+          "plat": [
+            "saMprezayati",
+            "samprezayati",
+            "saMprezayataH",
+            "samprezayataH",
+            "saMprezayanti",
+            "samprezayanti",
+            "saMprezayasi",
+            "samprezayasi",
+            "saMprezayaTaH",
+            "samprezayaTaH",
+            "saMprezayaTa",
+            "samprezayaTa",
+            "saMprezayAmi",
+            "samprezayAmi",
+            "saMprezayAvaH",
+            "samprezayAvaH",
+            "saMprezayAmaH",
+            "samprezayAmaH"
+          ],
+          "plit": [
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakAra",
+            "samprezayAYcakAra",
+            "saMprezayAmbaBUvatuH",
+            "samprezayAmbaBUvatuH",
+            "saMprezayAmAsatuH",
+            "samprezayAmAsatuH",
+            "saMprezayAYcakratuH",
+            "samprezayAYcakratuH",
+            "saMprezayAmbaBUvuH",
+            "samprezayAmbaBUvuH",
+            "saMprezayAmAsuH",
+            "samprezayAmAsuH",
+            "saMprezayAYcakruH",
+            "samprezayAYcakruH",
+            "saMprezayAmbaBUviTa",
+            "samprezayAmbaBUviTa",
+            "saMprezayAmAsiTa",
+            "samprezayAmAsiTa",
+            "saMprezayAYcakarTa",
+            "samprezayAYcakarTa",
+            "saMprezayAmbaBUvaTuH",
+            "samprezayAmbaBUvaTuH",
+            "saMprezayAmAsaTuH",
+            "samprezayAmAsaTuH",
+            "saMprezayAYcakraTuH",
+            "samprezayAYcakraTuH",
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakra",
+            "samprezayAYcakra",
+            "saMprezayAmbaBUva",
+            "samprezayAmbaBUva",
+            "saMprezayAmAsa",
+            "samprezayAmAsa",
+            "saMprezayAYcakara",
+            "samprezayAYcakara",
+            "saMprezayAYcakAra",
+            "samprezayAYcakAra",
+            "saMprezayAmbaBUviva",
+            "samprezayAmbaBUviva",
+            "saMprezayAmAsiva",
+            "samprezayAmAsiva",
+            "saMprezayAYcakfva",
+            "samprezayAYcakfva",
+            "saMprezayAmbaBUvima",
+            "samprezayAmbaBUvima",
+            "saMprezayAmAsima",
+            "samprezayAmAsima",
+            "saMprezayAYcakfma",
+            "samprezayAYcakfma"
+          ],
+          "plot": [
+            "saMprezayatAt",
+            "samprezayatAt",
+            "saMprezayatAd",
+            "samprezayatAd",
+            "saMprezayatu",
+            "samprezayatu",
+            "saMprezayatAm",
+            "samprezayatAm",
+            "saMprezayantu",
+            "samprezayantu",
+            "saMprezayatAt",
+            "samprezayatAt",
+            "saMprezayatAd",
+            "samprezayatAd",
+            "saMprezaya",
+            "samprezaya",
+            "saMprezayatam",
+            "samprezayatam",
+            "saMprezayata",
+            "samprezayata",
+            "saMprezayARi",
+            "samprezayARi",
+            "saMprezayAva",
+            "samprezayAva",
+            "saMprezayAma",
+            "samprezayAma"
+          ],
+          "plrung": [
+            "samaprezayizyat",
+            "samaprezayizyad",
+            "samaprezayizyatAm",
+            "samaprezayizyan",
+            "samaprezayizyaH",
+            "samaprezayizyatam",
+            "samaprezayizyata",
+            "samaprezayizyam",
+            "samaprezayizyAva",
+            "samaprezayizyAma"
+          ],
+          "plrut": [
+            "saMprezayizyati",
+            "samprezayizyati",
+            "saMprezayizyataH",
+            "samprezayizyataH",
+            "saMprezayizyanti",
+            "samprezayizyanti",
+            "saMprezayizyasi",
+            "samprezayizyasi",
+            "saMprezayizyaTaH",
+            "samprezayizyaTaH",
+            "saMprezayizyaTa",
+            "samprezayizyaTa",
+            "saMprezayizyAmi",
+            "samprezayizyAmi",
+            "saMprezayizyAvaH",
+            "samprezayizyAvaH",
+            "saMprezayizyAmaH",
+            "samprezayizyAmaH"
+          ],
+          "plung": [
+            "samapiprezat",
+            "samapiprezad",
+            "samapiprezatAm",
+            "samapiprezan",
+            "samapiprezaH",
+            "samapiprezatam",
+            "samapiprezata",
+            "samapiprezam",
+            "samapiprezAva",
+            "samapiprezAma"
+          ],
+          "plut": [
+            "saMprezayitA",
+            "samprezayitA",
+            "saMprezayitArO",
+            "samprezayitArO",
+            "saMprezayitAraH",
+            "samprezayitAraH",
+            "saMprezayitAsi",
+            "samprezayitAsi",
+            "saMprezayitAsTaH",
+            "samprezayitAsTaH",
+            "saMprezayitAsTa",
+            "samprezayitAsTa",
+            "saMprezayitAsmi",
+            "samprezayitAsmi",
+            "saMprezayitAsvaH",
+            "samprezayitAsvaH",
+            "saMprezayitAsmaH",
+            "samprezayitAsmaH"
+          ],
+          "pvidhiling": [
+            "saMprezayet",
+            "samprezayet",
+            "saMprezayed",
+            "samprezayed",
+            "saMprezayetAm",
+            "samprezayetAm",
+            "saMprezayeyuH",
+            "samprezayeyuH",
+            "saMprezayeH",
+            "samprezayeH",
+            "saMprezayetam",
+            "samprezayetam",
+            "saMprezayeta",
+            "samprezayeta",
+            "saMprezayeyam",
+            "samprezayeyam",
+            "saMprezayeva",
+            "samprezayeva",
+            "saMprezayema",
+            "samprezayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "saMprezizIzwa",
+            "samprezizIzwa",
+            "saMprezayizIzwa",
+            "samprezayizIzwa",
+            "saMprezizIyAstAm",
+            "samprezizIyAstAm",
+            "saMprezayizIyAstAm",
+            "samprezayizIyAstAm",
+            "saMprezizIran",
+            "samprezizIran",
+            "saMprezayizIran",
+            "samprezayizIran",
+            "saMprezizIzWAH",
+            "samprezizIzWAH",
+            "saMprezayizIzWAH",
+            "samprezayizIzWAH",
+            "saMprezizIyAsTAm",
+            "samprezizIyAsTAm",
+            "saMprezayizIyAsTAm",
+            "samprezayizIyAsTAm",
+            "saMprezizIDvam",
+            "samprezizIDvam",
+            "saMprezayizIQvam",
+            "samprezayizIQvam",
+            "saMprezayizIDvam",
+            "samprezayizIDvam",
+            "saMprezizIya",
+            "samprezizIya",
+            "saMprezayizIya",
+            "samprezayizIya",
+            "saMprezizIvahi",
+            "samprezizIvahi",
+            "saMprezayizIvahi",
+            "samprezayizIvahi",
+            "saMprezizImahi",
+            "samprezizImahi",
+            "saMprezayizImahi",
+            "samprezayizImahi"
+          ],
+          "alang": [
+            "samaprezyata",
+            "samaprezyetAm",
+            "samaprezyanta",
+            "samaprezyaTAH",
+            "samaprezyeTAm",
+            "samaprezyaDvam",
+            "samaprezye",
+            "samaprezyAvahi",
+            "samaprezyAmahi"
+          ],
+          "alat": [
+            "saMprezyate",
+            "samprezyate",
+            "saMprezyete",
+            "samprezyete",
+            "saMprezyante",
+            "samprezyante",
+            "saMprezyase",
+            "samprezyase",
+            "saMprezyeTe",
+            "samprezyeTe",
+            "saMprezyaDve",
+            "samprezyaDve",
+            "saMprezye",
+            "samprezye",
+            "saMprezyAvahe",
+            "samprezyAvahe",
+            "saMprezyAmahe",
+            "samprezyAmahe"
+          ],
+          "alit": [
+            "saMprezayAmbaBUve",
+            "samprezayAmbaBUve",
+            "saMprezayAmAse",
+            "samprezayAmAse",
+            "saMprezayAYcakre",
+            "samprezayAYcakre",
+            "saMprezayAmbaBUvAte",
+            "samprezayAmbaBUvAte",
+            "saMprezayAmAsAte",
+            "samprezayAmAsAte",
+            "saMprezayAYcakrAte",
+            "samprezayAYcakrAte",
+            "saMprezayAmbaBUvire",
+            "samprezayAmbaBUvire",
+            "saMprezayAmAsire",
+            "samprezayAmAsire",
+            "saMprezayAYcakrire",
+            "samprezayAYcakrire",
+            "saMprezayAmbaBUvize",
+            "samprezayAmbaBUvize",
+            "saMprezayAmAsize",
+            "samprezayAmAsize",
+            "saMprezayAYcakfze",
+            "samprezayAYcakfze",
+            "saMprezayAmbaBUvATe",
+            "samprezayAmbaBUvATe",
+            "saMprezayAmAsATe",
+            "samprezayAmAsATe",
+            "saMprezayAYcakrATe",
+            "samprezayAYcakrATe",
+            "saMprezayAmbaBUviQve",
+            "samprezayAmbaBUviQve",
+            "saMprezayAmAsiDve",
+            "samprezayAmAsiDve",
+            "saMprezayAYcakfQve",
+            "samprezayAYcakfQve",
+            "saMprezayAmbaBUve",
+            "samprezayAmbaBUve",
+            "saMprezayAmAhe",
+            "samprezayAmAhe",
+            "saMprezayAYcakre",
+            "samprezayAYcakre",
+            "saMprezayAmbaBUvivahe",
+            "samprezayAmbaBUvivahe",
+            "saMprezayAmAsivahe",
+            "samprezayAmAsivahe",
+            "saMprezayAYcakfvahe",
+            "samprezayAYcakfvahe",
+            "saMprezayAmbaBUvimahe",
+            "samprezayAmbaBUvimahe",
+            "saMprezayAmAsimahe",
+            "samprezayAmAsimahe",
+            "saMprezayAYcakfmahe",
+            "samprezayAYcakfmahe"
+          ],
+          "alot": [
+            "saMprezyatAm",
+            "samprezyatAm",
+            "saMprezyetAm",
+            "samprezyetAm",
+            "saMprezyantAm",
+            "samprezyantAm",
+            "saMprezyasva",
+            "samprezyasva",
+            "saMprezyeTAm",
+            "samprezyeTAm",
+            "saMprezyaDvam",
+            "samprezyaDvam",
+            "saMprezyE",
+            "samprezyE",
+            "saMprezyAvahE",
+            "samprezyAvahE",
+            "saMprezyAmahE",
+            "samprezyAmahE"
+          ],
+          "alrung": [
+            "samaprezizyata",
+            "samaprezayizyata",
+            "samaprezizyetAm",
+            "samaprezayizyetAm",
+            "samaprezizyanta",
+            "samaprezayizyanta",
+            "samaprezizyaTAH",
+            "samaprezayizyaTAH",
+            "samaprezizyeTAm",
+            "samaprezayizyeTAm",
+            "samaprezizyaDvam",
+            "samaprezayizyaDvam",
+            "samaprezizye",
+            "samaprezayizye",
+            "samaprezizyAvahi",
+            "samaprezayizyAvahi",
+            "samaprezizyAmahi",
+            "samaprezayizyAmahi"
+          ],
+          "alrut": [
+            "saMprezizyate",
+            "samprezizyate",
+            "saMprezayizyate",
+            "samprezayizyate",
+            "saMprezizyete",
+            "samprezizyete",
+            "saMprezayizyete",
+            "samprezayizyete",
+            "saMprezizyante",
+            "samprezizyante",
+            "saMprezayizyante",
+            "samprezayizyante",
+            "saMprezizyase",
+            "samprezizyase",
+            "saMprezayizyase",
+            "samprezayizyase",
+            "saMprezizyeTe",
+            "samprezizyeTe",
+            "saMprezayizyeTe",
+            "samprezayizyeTe",
+            "saMprezizyaDve",
+            "samprezizyaDve",
+            "saMprezayizyaDve",
+            "samprezayizyaDve",
+            "saMprezizye",
+            "samprezizye",
+            "saMprezayizye",
+            "samprezayizye",
+            "saMprezizyAvahe",
+            "samprezizyAvahe",
+            "saMprezayizyAvahe",
+            "samprezayizyAvahe",
+            "saMprezizyAmahe",
+            "samprezizyAmahe",
+            "saMprezayizyAmahe",
+            "samprezayizyAmahe"
+          ],
+          "alung": [
+            "samaprezi",
+            "samaprezizAtAm",
+            "samaprezayizAtAm",
+            "samaprezizata",
+            "samaprezayizata",
+            "samaprezizWAH",
+            "samaprezayizWAH",
+            "samaprezizATAm",
+            "samaprezayizATAm",
+            "samapreziDvam",
+            "samaprezayiQvam",
+            "samaprezayiDvam",
+            "samaprezizi",
+            "samaprezayizi",
+            "samaprezizvahi",
+            "samaprezayizvahi",
+            "samaprezizmahi",
+            "samaprezayizmahi"
+          ],
+          "alut": [
+            "saMprezitA",
+            "samprezitA",
+            "saMprezayitA",
+            "samprezayitA",
+            "saMprezitArO",
+            "samprezitArO",
+            "saMprezayitArO",
+            "samprezayitArO",
+            "saMprezitAraH",
+            "samprezitAraH",
+            "saMprezayitAraH",
+            "samprezayitAraH",
+            "saMprezitAse",
+            "samprezitAse",
+            "saMprezayitAse",
+            "samprezayitAse",
+            "saMprezitAsATe",
+            "samprezitAsATe",
+            "saMprezayitAsATe",
+            "samprezayitAsATe",
+            "saMprezitADve",
+            "samprezitADve",
+            "saMprezayitADve",
+            "samprezayitADve",
+            "saMprezitAhe",
+            "samprezitAhe",
+            "saMprezayitAhe",
+            "samprezayitAhe",
+            "saMprezitAsvahe",
+            "samprezitAsvahe",
+            "saMprezayitAsvahe",
+            "samprezayitAsvahe",
+            "saMprezitAsmahe",
+            "samprezitAsmahe",
+            "saMprezayitAsmahe",
+            "samprezayitAsmahe"
+          ],
+          "avidhiling": [
+            "saMprezyeta",
+            "samprezyeta",
+            "saMprezyeyAtAm",
+            "samprezyeyAtAm",
+            "saMprezyeran",
+            "samprezyeran",
+            "saMprezyeTAH",
+            "samprezyeTAH",
+            "saMprezyeyATAm",
+            "samprezyeyATAm",
+            "saMprezyeDvam",
+            "samprezyeDvam",
+            "saMprezyeya",
+            "samprezyeya",
+            "saMprezyevahi",
+            "samprezyevahi",
+            "saMprezyemahi",
+            "samprezyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "saMpeprezizIzwa",
+            "sampeprezizIzwa",
+            "saMpeprezizIyAstAm",
+            "sampeprezizIyAstAm",
+            "saMpeprezizIran",
+            "sampeprezizIran",
+            "saMpeprezizIzWAH",
+            "sampeprezizIzWAH",
+            "saMpeprezizIyAsTAm",
+            "sampeprezizIyAsTAm",
+            "saMpeprezizIDvam",
+            "sampeprezizIDvam",
+            "saMpeprezizIya",
+            "sampeprezizIya",
+            "saMpeprezizIvahi",
+            "sampeprezizIvahi",
+            "saMpeprezizImahi",
+            "sampeprezizImahi"
+          ],
+          "alang": [
+            "samapeprezyata",
+            "samapeprezyetAm",
+            "samapeprezyanta",
+            "samapeprezyaTAH",
+            "samapeprezyeTAm",
+            "samapeprezyaDvam",
+            "samapeprezye",
+            "samapeprezyAvahi",
+            "samapeprezyAmahi"
+          ],
+          "alat": [
+            "saMpeprezyate",
+            "sampeprezyate",
+            "saMpeprezyete",
+            "sampeprezyete",
+            "saMpeprezyante",
+            "sampeprezyante",
+            "saMpeprezyase",
+            "sampeprezyase",
+            "saMpeprezyeTe",
+            "sampeprezyeTe",
+            "saMpeprezyaDve",
+            "sampeprezyaDve",
+            "saMpeprezye",
+            "sampeprezye",
+            "saMpeprezyAvahe",
+            "sampeprezyAvahe",
+            "saMpeprezyAmahe",
+            "sampeprezyAmahe"
+          ],
+          "alit": [
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUvatuH",
+            "sampeprezAmbaBUvatuH",
+            "saMpeprezAmAsatuH",
+            "sampeprezAmAsatuH",
+            "saMpeprezAYcakrAte",
+            "sampeprezAYcakrAte",
+            "saMpeprezAmbaBUvuH",
+            "sampeprezAmbaBUvuH",
+            "saMpeprezAmAsuH",
+            "sampeprezAmAsuH",
+            "saMpeprezAYcakrire",
+            "sampeprezAYcakrire",
+            "saMpeprezAmbaBUviTa",
+            "sampeprezAmbaBUviTa",
+            "saMpeprezAmAsiTa",
+            "sampeprezAmAsiTa",
+            "saMpeprezAYcakfze",
+            "sampeprezAYcakfze",
+            "saMpeprezAmbaBUvaTuH",
+            "sampeprezAmbaBUvaTuH",
+            "saMpeprezAmAsaTuH",
+            "sampeprezAmAsaTuH",
+            "saMpeprezAYcakrATe",
+            "sampeprezAYcakrATe",
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakfQve",
+            "sampeprezAYcakfQve",
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUviva",
+            "sampeprezAmbaBUviva",
+            "saMpeprezAmAsiva",
+            "sampeprezAmAsiva",
+            "saMpeprezAYcakfvahe",
+            "sampeprezAYcakfvahe",
+            "saMpeprezAmbaBUvima",
+            "sampeprezAmbaBUvima",
+            "saMpeprezAmAsima",
+            "sampeprezAmAsima",
+            "saMpeprezAYcakfmahe",
+            "sampeprezAYcakfmahe"
+          ],
+          "alot": [
+            "saMpeprezyatAm",
+            "sampeprezyatAm",
+            "saMpeprezyetAm",
+            "sampeprezyetAm",
+            "saMpeprezyantAm",
+            "sampeprezyantAm",
+            "saMpeprezyasva",
+            "sampeprezyasva",
+            "saMpeprezyeTAm",
+            "sampeprezyeTAm",
+            "saMpeprezyaDvam",
+            "sampeprezyaDvam",
+            "saMpeprezyE",
+            "sampeprezyE",
+            "saMpeprezyAvahE",
+            "sampeprezyAvahE",
+            "saMpeprezyAmahE",
+            "sampeprezyAmahE"
+          ],
+          "alrung": [
+            "samapeprezizyata",
+            "samapeprezizyetAm",
+            "samapeprezizyanta",
+            "samapeprezizyaTAH",
+            "samapeprezizyeTAm",
+            "samapeprezizyaDvam",
+            "samapeprezizye",
+            "samapeprezizyAvahi",
+            "samapeprezizyAmahi"
+          ],
+          "alrut": [
+            "saMpeprezizyate",
+            "sampeprezizyate",
+            "saMpeprezizyete",
+            "sampeprezizyete",
+            "saMpeprezizyante",
+            "sampeprezizyante",
+            "saMpeprezizyase",
+            "sampeprezizyase",
+            "saMpeprezizyeTe",
+            "sampeprezizyeTe",
+            "saMpeprezizyaDve",
+            "sampeprezizyaDve",
+            "saMpeprezizye",
+            "sampeprezizye",
+            "saMpeprezizyAvahe",
+            "sampeprezizyAvahe",
+            "saMpeprezizyAmahe",
+            "sampeprezizyAmahe"
+          ],
+          "alung": [
+            "samapeprezizwa",
+            "samapeprezizAtAm",
+            "samapeprezizata",
+            "samapeprezizWAH",
+            "samapeprezizATAm",
+            "samapepreziDvam",
+            "samapeprezizi",
+            "samapeprezizvahi",
+            "samapeprezizmahi"
+          ],
+          "alut": [
+            "saMpeprezitA",
+            "sampeprezitA",
+            "saMpeprezitArO",
+            "sampeprezitArO",
+            "saMpeprezitAraH",
+            "sampeprezitAraH",
+            "saMpeprezitAse",
+            "sampeprezitAse",
+            "saMpeprezitAsATe",
+            "sampeprezitAsATe",
+            "saMpeprezitADve",
+            "sampeprezitADve",
+            "saMpeprezitAhe",
+            "sampeprezitAhe",
+            "saMpeprezitAsvahe",
+            "sampeprezitAsvahe",
+            "saMpeprezitAsmahe",
+            "sampeprezitAsmahe"
+          ],
+          "avidhiling": [
+            "saMpeprezyeta",
+            "sampeprezyeta",
+            "saMpeprezyeyAtAm",
+            "sampeprezyeyAtAm",
+            "saMpeprezyeran",
+            "sampeprezyeran",
+            "saMpeprezyeTAH",
+            "sampeprezyeTAH",
+            "saMpeprezyeyATAm",
+            "sampeprezyeyATAm",
+            "saMpeprezyeDvam",
+            "sampeprezyeDvam",
+            "saMpeprezyeya",
+            "sampeprezyeya",
+            "saMpeprezyevahi",
+            "sampeprezyevahi",
+            "saMpeprezyemahi",
+            "sampeprezyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "saMpeprezizIzwa",
+            "sampeprezizIzwa",
+            "saMpeprezizIyAstAm",
+            "sampeprezizIyAstAm",
+            "saMpeprezizIran",
+            "sampeprezizIran",
+            "saMpeprezizIzWAH",
+            "sampeprezizIzWAH",
+            "saMpeprezizIyAsTAm",
+            "sampeprezizIyAsTAm",
+            "saMpeprezizIDvam",
+            "sampeprezizIDvam",
+            "saMpeprezizIya",
+            "sampeprezizIya",
+            "saMpeprezizIvahi",
+            "sampeprezizIvahi",
+            "saMpeprezizImahi",
+            "sampeprezizImahi"
+          ],
+          "alang": [
+            "samapeprezyata",
+            "samapeprezyetAm",
+            "samapeprezyanta",
+            "samapeprezyaTAH",
+            "samapeprezyeTAm",
+            "samapeprezyaDvam",
+            "samapeprezye",
+            "samapeprezyAvahi",
+            "samapeprezyAmahi"
+          ],
+          "alat": [
+            "saMpeprezyate",
+            "sampeprezyate",
+            "saMpeprezyete",
+            "sampeprezyete",
+            "saMpeprezyante",
+            "sampeprezyante",
+            "saMpeprezyase",
+            "sampeprezyase",
+            "saMpeprezyeTe",
+            "sampeprezyeTe",
+            "saMpeprezyaDve",
+            "sampeprezyaDve",
+            "saMpeprezye",
+            "sampeprezye",
+            "saMpeprezyAvahe",
+            "sampeprezyAvahe",
+            "saMpeprezyAmahe",
+            "sampeprezyAmahe"
+          ],
+          "alit": [
+            "saMpeprezAmbaBUve",
+            "sampeprezAmbaBUve",
+            "saMpeprezAmAse",
+            "sampeprezAmAse",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUvAte",
+            "sampeprezAmbaBUvAte",
+            "saMpeprezAmAsAte",
+            "sampeprezAmAsAte",
+            "saMpeprezAYcakrAte",
+            "sampeprezAYcakrAte",
+            "saMpeprezAmbaBUvire",
+            "sampeprezAmbaBUvire",
+            "saMpeprezAmAsire",
+            "sampeprezAmAsire",
+            "saMpeprezAYcakrire",
+            "sampeprezAYcakrire",
+            "saMpeprezAmbaBUvize",
+            "sampeprezAmbaBUvize",
+            "saMpeprezAmAsize",
+            "sampeprezAmAsize",
+            "saMpeprezAYcakfze",
+            "sampeprezAYcakfze",
+            "saMpeprezAmbaBUvATe",
+            "sampeprezAmbaBUvATe",
+            "saMpeprezAmAsATe",
+            "sampeprezAmAsATe",
+            "saMpeprezAYcakrATe",
+            "sampeprezAYcakrATe",
+            "saMpeprezAmbaBUviQve",
+            "sampeprezAmbaBUviQve",
+            "saMpeprezAmAsiDve",
+            "sampeprezAmAsiDve",
+            "saMpeprezAYcakfQve",
+            "sampeprezAYcakfQve",
+            "saMpeprezAmbaBUve",
+            "sampeprezAmbaBUve",
+            "saMpeprezAmAhe",
+            "sampeprezAmAhe",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUvivahe",
+            "sampeprezAmbaBUvivahe",
+            "saMpeprezAmAsivahe",
+            "sampeprezAmAsivahe",
+            "saMpeprezAYcakfvahe",
+            "sampeprezAYcakfvahe",
+            "saMpeprezAmbaBUvimahe",
+            "sampeprezAmbaBUvimahe",
+            "saMpeprezAmAsimahe",
+            "sampeprezAmAsimahe",
+            "saMpeprezAYcakfmahe",
+            "sampeprezAYcakfmahe"
+          ],
+          "alot": [
+            "saMpeprezyatAm",
+            "sampeprezyatAm",
+            "saMpeprezyetAm",
+            "sampeprezyetAm",
+            "saMpeprezyantAm",
+            "sampeprezyantAm",
+            "saMpeprezyasva",
+            "sampeprezyasva",
+            "saMpeprezyeTAm",
+            "sampeprezyeTAm",
+            "saMpeprezyaDvam",
+            "sampeprezyaDvam",
+            "saMpeprezyE",
+            "sampeprezyE",
+            "saMpeprezyAvahE",
+            "sampeprezyAvahE",
+            "saMpeprezyAmahE",
+            "sampeprezyAmahE"
+          ],
+          "alrung": [
+            "samapeprezizyata",
+            "samapeprezizyetAm",
+            "samapeprezizyanta",
+            "samapeprezizyaTAH",
+            "samapeprezizyeTAm",
+            "samapeprezizyaDvam",
+            "samapeprezizye",
+            "samapeprezizyAvahi",
+            "samapeprezizyAmahi"
+          ],
+          "alrut": [
+            "saMpeprezizyate",
+            "sampeprezizyate",
+            "saMpeprezizyete",
+            "sampeprezizyete",
+            "saMpeprezizyante",
+            "sampeprezizyante",
+            "saMpeprezizyase",
+            "sampeprezizyase",
+            "saMpeprezizyeTe",
+            "sampeprezizyeTe",
+            "saMpeprezizyaDve",
+            "sampeprezizyaDve",
+            "saMpeprezizye",
+            "sampeprezizye",
+            "saMpeprezizyAvahe",
+            "sampeprezizyAvahe",
+            "saMpeprezizyAmahe",
+            "sampeprezizyAmahe"
+          ],
+          "alung": [
+            "samapeprezi",
+            "samapeprezizAtAm",
+            "samapeprezizata",
+            "samapeprezizWAH",
+            "samapeprezizATAm",
+            "samapepreziDvam",
+            "samapeprezizi",
+            "samapeprezizvahi",
+            "samapeprezizmahi"
+          ],
+          "alut": [
+            "saMpeprezitA",
+            "sampeprezitA",
+            "saMpeprezitArO",
+            "sampeprezitArO",
+            "saMpeprezitAraH",
+            "sampeprezitAraH",
+            "saMpeprezitAse",
+            "sampeprezitAse",
+            "saMpeprezitAsATe",
+            "sampeprezitAsATe",
+            "saMpeprezitADve",
+            "sampeprezitADve",
+            "saMpeprezitAhe",
+            "sampeprezitAhe",
+            "saMpeprezitAsvahe",
+            "sampeprezitAsvahe",
+            "saMpeprezitAsmahe",
+            "sampeprezitAsmahe"
+          ],
+          "avidhiling": [
+            "saMpeprezyeta",
+            "sampeprezyeta",
+            "saMpeprezyeyAtAm",
+            "sampeprezyeyAtAm",
+            "saMpeprezyeran",
+            "sampeprezyeran",
+            "saMpeprezyeTAH",
+            "sampeprezyeTAH",
+            "saMpeprezyeyATAm",
+            "sampeprezyeyATAm",
+            "saMpeprezyeDvam",
+            "sampeprezyeDvam",
+            "saMpeprezyeya",
+            "sampeprezyeya",
+            "saMpeprezyevahi",
+            "sampeprezyevahi",
+            "saMpeprezyemahi",
+            "sampeprezyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "saMpeprezyAt",
+            "sampeprezyAt",
+            "saMpeprezyAd",
+            "sampeprezyAd",
+            "saMpeprezyAstAm",
+            "sampeprezyAstAm",
+            "saMpeprezyAsuH",
+            "sampeprezyAsuH",
+            "saMpeprezyAH",
+            "sampeprezyAH",
+            "saMpeprezyAstam",
+            "sampeprezyAstam",
+            "saMpeprezyAsta",
+            "sampeprezyAsta",
+            "saMpeprezyAsam",
+            "sampeprezyAsam",
+            "saMpeprezyAsva",
+            "sampeprezyAsva",
+            "saMpeprezyAsma",
+            "sampeprezyAsma"
+          ],
+          "plang": [
+            "samapeprezIt",
+            "samapeprezId",
+            "samapeprew",
+            "samapepreq",
+            "samapeprezwAm",
+            "samapeprezuH",
+            "samapeprezIH",
+            "samapeprew",
+            "samapepreq",
+            "samapeprezwam",
+            "samapeprezwa",
+            "samapeprezam",
+            "samapeprezva",
+            "samapeprezma"
+          ],
+          "plat": [
+            "saMpeprezIti",
+            "sampeprezIti",
+            "saMpeprezwi",
+            "sampeprezwi",
+            "saMpeprezwaH",
+            "sampeprezwaH",
+            "saMpeprezati",
+            "sampeprezati",
+            "saMpeprezIzi",
+            "sampeprezIzi",
+            "saMpeprekzi",
+            "sampeprekzi",
+            "saMpeprezWaH",
+            "sampeprezWaH",
+            "saMpeprezWa",
+            "sampeprezWa",
+            "saMpeprezImi",
+            "sampeprezImi",
+            "saMpeprezmi",
+            "sampeprezmi",
+            "saMpeprezvaH",
+            "sampeprezvaH",
+            "saMpeprezmaH",
+            "sampeprezmaH"
+          ],
+          "plit": [
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakAra",
+            "sampeprezAYcakAra",
+            "saMpeprezAmbaBUvatuH",
+            "sampeprezAmbaBUvatuH",
+            "saMpeprezAmAsatuH",
+            "sampeprezAmAsatuH",
+            "saMpeprezAYcakratuH",
+            "sampeprezAYcakratuH",
+            "saMpeprezAmbaBUvuH",
+            "sampeprezAmbaBUvuH",
+            "saMpeprezAmAsuH",
+            "sampeprezAmAsuH",
+            "saMpeprezAYcakruH",
+            "sampeprezAYcakruH",
+            "saMpeprezAmbaBUviTa",
+            "sampeprezAmbaBUviTa",
+            "saMpeprezAmAsiTa",
+            "sampeprezAmAsiTa",
+            "saMpeprezAYcakarTa",
+            "sampeprezAYcakarTa",
+            "saMpeprezAmbaBUvaTuH",
+            "sampeprezAmbaBUvaTuH",
+            "saMpeprezAmAsaTuH",
+            "sampeprezAmAsaTuH",
+            "saMpeprezAYcakraTuH",
+            "sampeprezAYcakraTuH",
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakra",
+            "sampeprezAYcakra",
+            "saMpeprezAmbaBUva",
+            "sampeprezAmbaBUva",
+            "saMpeprezAmAsa",
+            "sampeprezAmAsa",
+            "saMpeprezAYcakara",
+            "sampeprezAYcakara",
+            "saMpeprezAYcakAra",
+            "sampeprezAYcakAra",
+            "saMpeprezAmbaBUviva",
+            "sampeprezAmbaBUviva",
+            "saMpeprezAmAsiva",
+            "sampeprezAmAsiva",
+            "saMpeprezAYcakfva",
+            "sampeprezAYcakfva",
+            "saMpeprezAmbaBUvima",
+            "sampeprezAmbaBUvima",
+            "saMpeprezAmAsima",
+            "sampeprezAmAsima",
+            "saMpeprezAYcakfma",
+            "sampeprezAYcakfma"
+          ],
+          "plot": [
+            "saMpeprezwAt",
+            "sampeprezwAt",
+            "saMpeprezwAd",
+            "sampeprezwAd",
+            "saMpeprezItu",
+            "sampeprezItu",
+            "saMpeprezwu",
+            "sampeprezwu",
+            "saMpeprezwAm",
+            "sampeprezwAm",
+            "saMpeprezatu",
+            "sampeprezatu",
+            "saMpeprezwAt",
+            "sampeprezwAt",
+            "saMpeprezwAd",
+            "sampeprezwAd",
+            "saMpepreqQi",
+            "sampepreqQi",
+            "saMpeprezwam",
+            "sampeprezwam",
+            "saMpeprezwa",
+            "sampeprezwa",
+            "saMpeprezARi",
+            "sampeprezARi",
+            "saMpeprezAva",
+            "sampeprezAva",
+            "saMpeprezAma",
+            "sampeprezAma"
+          ],
+          "plrung": [
+            "samapeprezizyat",
+            "samapeprezizyad",
+            "samapeprezizyatAm",
+            "samapeprezizyan",
+            "samapeprezizyaH",
+            "samapeprezizyatam",
+            "samapeprezizyata",
+            "samapeprezizyam",
+            "samapeprezizyAva",
+            "samapeprezizyAma"
+          ],
+          "plrut": [
+            "saMpeprezizyati",
+            "sampeprezizyati",
+            "saMpeprezizyataH",
+            "sampeprezizyataH",
+            "saMpeprezizyanti",
+            "sampeprezizyanti",
+            "saMpeprezizyasi",
+            "sampeprezizyasi",
+            "saMpeprezizyaTaH",
+            "sampeprezizyaTaH",
+            "saMpeprezizyaTa",
+            "sampeprezizyaTa",
+            "saMpeprezizyAmi",
+            "sampeprezizyAmi",
+            "saMpeprezizyAvaH",
+            "sampeprezizyAvaH",
+            "saMpeprezizyAmaH",
+            "sampeprezizyAmaH"
+          ],
+          "plung": [
+            "samapeprezIt",
+            "samapeprezId",
+            "samapeprezizwAm",
+            "samapeprezizuH",
+            "samapeprezIH",
+            "samapeprezizwam",
+            "samapeprezizwa",
+            "samapeprezizam",
+            "samapeprezizva",
+            "samapeprezizma"
+          ],
+          "plut": [
+            "saMpeprezitA",
+            "sampeprezitA",
+            "saMpeprezitArO",
+            "sampeprezitArO",
+            "saMpeprezitAraH",
+            "sampeprezitAraH",
+            "saMpeprezitAsi",
+            "sampeprezitAsi",
+            "saMpeprezitAsTaH",
+            "sampeprezitAsTaH",
+            "saMpeprezitAsTa",
+            "sampeprezitAsTa",
+            "saMpeprezitAsmi",
+            "sampeprezitAsmi",
+            "saMpeprezitAsvaH",
+            "sampeprezitAsvaH",
+            "saMpeprezitAsmaH",
+            "sampeprezitAsmaH"
+          ],
+          "pvidhiling": [
+            "saMpeprezyAt",
+            "sampeprezyAt",
+            "saMpeprezyAd",
+            "sampeprezyAd",
+            "saMpeprezyAtAm",
+            "sampeprezyAtAm",
+            "saMpeprezyuH",
+            "sampeprezyuH",
+            "saMpeprezyAH",
+            "sampeprezyAH",
+            "saMpeprezyAtam",
+            "sampeprezyAtam",
+            "saMpeprezyAta",
+            "sampeprezyAta",
+            "saMpeprezyAm",
+            "sampeprezyAm",
+            "saMpeprezyAva",
+            "sampeprezyAva",
+            "saMpeprezyAma",
+            "sampeprezyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "saMpeprezizIzwa",
+            "sampeprezizIzwa",
+            "saMpeprezizIyAstAm",
+            "sampeprezizIyAstAm",
+            "saMpeprezizIran",
+            "sampeprezizIran",
+            "saMpeprezizIzWAH",
+            "sampeprezizIzWAH",
+            "saMpeprezizIyAsTAm",
+            "sampeprezizIyAsTAm",
+            "saMpeprezizIDvam",
+            "sampeprezizIDvam",
+            "saMpeprezizIya",
+            "sampeprezizIya",
+            "saMpeprezizIvahi",
+            "sampeprezizIvahi",
+            "saMpeprezizImahi",
+            "sampeprezizImahi"
+          ],
+          "alang": [
+            "samapeprezyata",
+            "samapeprezyetAm",
+            "samapeprezyanta",
+            "samapeprezyaTAH",
+            "samapeprezyeTAm",
+            "samapeprezyaDvam",
+            "samapeprezye",
+            "samapeprezyAvahi",
+            "samapeprezyAmahi"
+          ],
+          "alat": [
+            "saMpeprezyate",
+            "sampeprezyate",
+            "saMpeprezyete",
+            "sampeprezyete",
+            "saMpeprezyante",
+            "sampeprezyante",
+            "saMpeprezyase",
+            "sampeprezyase",
+            "saMpeprezyeTe",
+            "sampeprezyeTe",
+            "saMpeprezyaDve",
+            "sampeprezyaDve",
+            "saMpeprezye",
+            "sampeprezye",
+            "saMpeprezyAvahe",
+            "sampeprezyAvahe",
+            "saMpeprezyAmahe",
+            "sampeprezyAmahe"
+          ],
+          "alit": [
+            "saMpeprezAmbaBUve",
+            "sampeprezAmbaBUve",
+            "saMpeprezAmAse",
+            "sampeprezAmAse",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUvAte",
+            "sampeprezAmbaBUvAte",
+            "saMpeprezAmAsAte",
+            "sampeprezAmAsAte",
+            "saMpeprezAYcakrAte",
+            "sampeprezAYcakrAte",
+            "saMpeprezAmbaBUvire",
+            "sampeprezAmbaBUvire",
+            "saMpeprezAmAsire",
+            "sampeprezAmAsire",
+            "saMpeprezAYcakrire",
+            "sampeprezAYcakrire",
+            "saMpeprezAmbaBUvize",
+            "sampeprezAmbaBUvize",
+            "saMpeprezAmAsize",
+            "sampeprezAmAsize",
+            "saMpeprezAYcakfze",
+            "sampeprezAYcakfze",
+            "saMpeprezAmbaBUvATe",
+            "sampeprezAmbaBUvATe",
+            "saMpeprezAmAsATe",
+            "sampeprezAmAsATe",
+            "saMpeprezAYcakrATe",
+            "sampeprezAYcakrATe",
+            "saMpeprezAmbaBUviQve",
+            "sampeprezAmbaBUviQve",
+            "saMpeprezAmAsiDve",
+            "sampeprezAmAsiDve",
+            "saMpeprezAYcakfQve",
+            "sampeprezAYcakfQve",
+            "saMpeprezAmbaBUve",
+            "sampeprezAmbaBUve",
+            "saMpeprezAmAhe",
+            "sampeprezAmAhe",
+            "saMpeprezAYcakre",
+            "sampeprezAYcakre",
+            "saMpeprezAmbaBUvivahe",
+            "sampeprezAmbaBUvivahe",
+            "saMpeprezAmAsivahe",
+            "sampeprezAmAsivahe",
+            "saMpeprezAYcakfvahe",
+            "sampeprezAYcakfvahe",
+            "saMpeprezAmbaBUvimahe",
+            "sampeprezAmbaBUvimahe",
+            "saMpeprezAmAsimahe",
+            "sampeprezAmAsimahe",
+            "saMpeprezAYcakfmahe",
+            "sampeprezAYcakfmahe"
+          ],
+          "alot": [
+            "saMpeprezyatAm",
+            "sampeprezyatAm",
+            "saMpeprezyetAm",
+            "sampeprezyetAm",
+            "saMpeprezyantAm",
+            "sampeprezyantAm",
+            "saMpeprezyasva",
+            "sampeprezyasva",
+            "saMpeprezyeTAm",
+            "sampeprezyeTAm",
+            "saMpeprezyaDvam",
+            "sampeprezyaDvam",
+            "saMpeprezyE",
+            "sampeprezyE",
+            "saMpeprezyAvahE",
+            "sampeprezyAvahE",
+            "saMpeprezyAmahE",
+            "sampeprezyAmahE"
+          ],
+          "alrung": [
+            "samapeprezizyata",
+            "samapeprezizyetAm",
+            "samapeprezizyanta",
+            "samapeprezizyaTAH",
+            "samapeprezizyeTAm",
+            "samapeprezizyaDvam",
+            "samapeprezizye",
+            "samapeprezizyAvahi",
+            "samapeprezizyAmahi"
+          ],
+          "alrut": [
+            "saMpeprezizyate",
+            "sampeprezizyate",
+            "saMpeprezizyete",
+            "sampeprezizyete",
+            "saMpeprezizyante",
+            "sampeprezizyante",
+            "saMpeprezizyase",
+            "sampeprezizyase",
+            "saMpeprezizyeTe",
+            "sampeprezizyeTe",
+            "saMpeprezizyaDve",
+            "sampeprezizyaDve",
+            "saMpeprezizye",
+            "sampeprezizye",
+            "saMpeprezizyAvahe",
+            "sampeprezizyAvahe",
+            "saMpeprezizyAmahe",
+            "sampeprezizyAmahe"
+          ],
+          "alung": [
+            "samapeprezi",
+            "samapeprezizAtAm",
+            "samapeprezizata",
+            "samapeprezizWAH",
+            "samapeprezizATAm",
+            "samapepreziDvam",
+            "samapeprezizi",
+            "samapeprezizvahi",
+            "samapeprezizmahi"
+          ],
+          "alut": [
+            "saMpeprezitA",
+            "sampeprezitA",
+            "saMpeprezitArO",
+            "sampeprezitArO",
+            "saMpeprezitAraH",
+            "sampeprezitAraH",
+            "saMpeprezitAse",
+            "sampeprezitAse",
+            "saMpeprezitAsATe",
+            "sampeprezitAsATe",
+            "saMpeprezitADve",
+            "sampeprezitADve",
+            "saMpeprezitAhe",
+            "sampeprezitAhe",
+            "saMpeprezitAsvahe",
+            "sampeprezitAsvahe",
+            "saMpeprezitAsmahe",
+            "sampeprezitAsmahe"
+          ],
+          "avidhiling": [
+            "saMpeprezyeta",
+            "sampeprezyeta",
+            "saMpeprezyeyAtAm",
+            "sampeprezyeyAtAm",
+            "saMpeprezyeran",
+            "sampeprezyeran",
+            "saMpeprezyeTAH",
+            "sampeprezyeTAH",
+            "saMpeprezyeyATAm",
+            "sampeprezyeyATAm",
+            "saMpeprezyeDvam",
+            "sampeprezyeDvam",
+            "saMpeprezyeya",
+            "sampeprezyeya",
+            "saMpeprezyevahi",
+            "sampeprezyevahi",
+            "saMpeprezyemahi",
+            "sampeprezyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "saMprezA",
+              "m": "",
+              "f": "saMprezA",
+              "n": ""
+            },
+            {
+              "base": "samprezA",
+              "m": "",
+              "f": "samprezA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMpreza",
+              "m": "saMprezaH",
+              "f": "saMprezA",
+              "n": "saMprezam"
+            },
+            {
+              "base": "sampreza",
+              "m": "samprezaH",
+              "f": "samprezA",
+              "n": "samprezam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMprezaRIya",
+              "m": "saMprezaRIyaH",
+              "f": "saMprezaRIyA",
+              "n": "saMprezaRIyam"
+            },
+            {
+              "base": "samprezaRIya",
+              "m": "samprezaRIyaH",
+              "f": "samprezaRIyA",
+              "n": "samprezaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMprezita",
+              "m": "saMprezitaH",
+              "f": "saMprezitA",
+              "n": "saMprezitam"
+            },
+            {
+              "base": "samprezita",
+              "m": "samprezitaH",
+              "f": "samprezitA",
+              "n": "samprezitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMprezitavat",
+              "m": "saMprezitavAn",
+              "f": "saMprezitavatI",
+              "n": "saMprezitavat/saMprezitavad"
+            },
+            {
+              "base": "samprezitavat",
+              "m": "samprezitavAn",
+              "f": "samprezitavatI",
+              "n": "samprezitavat/samprezitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMprezwi",
+              "m": "",
+              "f": "saMprezwiH",
+              "n": ""
+            },
+            {
+              "base": "samprezwi",
+              "m": "",
+              "f": "samprezwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMpiprezvas",
+              "m": "saMpiprezvAn",
+              "f": "saMpiprezuzI",
+              "n": "saMpiprezvat/saMpiprezvad"
+            },
+            {
+              "base": "sampiprezvas",
+              "m": "sampiprezvAn",
+              "f": "sampiprezuzI",
+              "n": "sampiprezvat/sampiprezvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMpreza",
+              "m": "saMprezaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampreza",
+              "m": "samprezaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMprezamARa",
+              "m": "saMprezamARaH",
+              "f": "saMprezamARA",
+              "n": "saMprezamARam"
+            },
+            {
+              "base": "samprezamARa",
+              "m": "samprezamARaH",
+              "f": "samprezamARA",
+              "n": "samprezamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "saMprezya",
+              "m": "saMprezyaH",
+              "f": "saMprezyA",
+              "n": "saMprezyam"
+            },
+            {
+              "base": "samprezya",
+              "m": "samprezyaH",
+              "f": "samprezyA",
+              "n": "samprezyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMprezaka",
+              "m": "saMprezakaH",
+              "f": "saMprezikA",
+              "n": "saMprezakam"
+            },
+            {
+              "base": "samprezaka",
+              "m": "samprezakaH",
+              "f": "samprezikA",
+              "n": "samprezakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMprezitavya",
+              "m": "saMprezitavyaH",
+              "f": "saMprezitavyA",
+              "n": "saMprezitavyam"
+            },
+            {
+              "base": "samprezitavya",
+              "m": "samprezitavyaH",
+              "f": "samprezitavyA",
+              "n": "samprezitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMprezitf",
+              "m": "saMprezitA",
+              "f": "saMprezitrI",
+              "n": "saMprezitf"
+            },
+            {
+              "base": "samprezitf",
+              "m": "samprezitA",
+              "f": "samprezitrI",
+              "n": "samprezitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMprezamARa",
+              "m": "saMprezamARaH",
+              "f": "saMprezamARA",
+              "n": "saMprezamARam"
+            },
+            {
+              "base": "samprezamARa",
+              "m": "samprezamARaH",
+              "f": "samprezamARA",
+              "n": "samprezamARam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMprezaRa",
+              "m": "",
+              "f": "",
+              "n": "saMprezaRam"
+            },
+            {
+              "base": "samprezaRa",
+              "m": "",
+              "f": "",
+              "n": "samprezaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMprezaka",
+              "m": "saMprezakaH",
+              "f": "saMprezikA",
+              "n": "saMprezakam"
+            },
+            {
+              "base": "samprezaka",
+              "m": "samprezakaH",
+              "f": "samprezikA",
+              "n": "samprezakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMprezamARa",
+              "m": "saMprezamARaH",
+              "f": "saMprezamARA",
+              "n": "saMprezamARam"
+            },
+            {
+              "base": "samprezamARa",
+              "m": "samprezamARaH",
+              "f": "samprezamARA",
+              "n": "samprezamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMprezamARa",
+              "m": "saMprezamARaH",
+              "f": "saMprezamARA",
+              "n": "saMprezamARam"
+            },
+            {
+              "base": "samprezamARa",
+              "m": "samprezamARaH",
+              "f": "samprezamARA",
+              "n": "samprezamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMprezamARa",
+              "m": "saMprezamARaH",
+              "f": "saMprezamARA",
+              "n": "saMprezamARam"
+            },
+            {
+              "base": "samprezamARa",
+              "m": "samprezamARaH",
+              "f": "samprezamARA",
+              "n": "samprezamARam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "saMpiprezizA",
+              "m": "",
+              "f": "saMpiprezizA",
+              "n": ""
+            },
+            {
+              "base": "sampiprezizA",
+              "m": "",
+              "f": "sampiprezizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMpipreziza",
+              "m": "saMpiprezizaH",
+              "f": "saMpiprezizA",
+              "n": "saMpiprezizam"
+            },
+            {
+              "base": "sampipreziza",
+              "m": "sampiprezizaH",
+              "f": "sampiprezizA",
+              "n": "sampiprezizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMpiprezizaRIya",
+              "m": "saMpiprezizaRIyaH",
+              "f": "saMpiprezizaRIyA",
+              "n": "saMpiprezizaRIyam"
+            },
+            {
+              "base": "sampiprezizaRIya",
+              "m": "sampiprezizaRIyaH",
+              "f": "sampiprezizaRIyA",
+              "n": "sampiprezizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "saMpiprezizu",
+              "m": "saMpiprezizuH",
+              "f": "saMpiprezizuH",
+              "n": "saMpiprezizu"
+            },
+            {
+              "base": "sampiprezizu",
+              "m": "sampiprezizuH",
+              "f": "sampiprezizuH",
+              "n": "sampiprezizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMpiprezizita",
+              "m": "saMpiprezizitaH",
+              "f": "saMpiprezizitA",
+              "n": "saMpiprezizitam"
+            },
+            {
+              "base": "sampiprezizita",
+              "m": "sampiprezizitaH",
+              "f": "sampiprezizitA",
+              "n": "sampiprezizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMpiprezizitavat",
+              "m": "saMpiprezizitavAn",
+              "f": "saMpiprezizitavatI",
+              "n": "saMpiprezizitavat/saMpiprezizitavad"
+            },
+            {
+              "base": "sampiprezizitavat",
+              "m": "sampiprezizitavAn",
+              "f": "sampiprezizitavatI",
+              "n": "sampiprezizitavat/sampiprezizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMpiprezizwi",
+              "m": "",
+              "f": "saMpiprezizwiH",
+              "n": ""
+            },
+            {
+              "base": "sampiprezizwi",
+              "m": "",
+              "f": "sampiprezizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMpiprezizAmbaBUvas",
+              "m": "saMpiprezizAmbaBUvAn",
+              "f": "saMpiprezizAmbaBUzI",
+              "n": "saMpiprezizAmbaBUvat/saMpiprezizAmbaBUvad"
+            },
+            {
+              "base": "sampiprezizAmbaBUvas",
+              "m": "sampiprezizAmbaBUvAn",
+              "f": "sampiprezizAmbaBUzI",
+              "n": "sampiprezizAmbaBUvat/sampiprezizAmbaBUvad"
+            },
+            {
+              "base": "saMpiprezizAmAsivas",
+              "m": "saMpiprezizAmAsivAn",
+              "f": "saMpiprezizAmAsyuzI",
+              "n": "saMpiprezizAmAsivat/saMpiprezizAmAsivad"
+            },
+            {
+              "base": "sampiprezizAmAsivas",
+              "m": "sampiprezizAmAsivAn",
+              "f": "sampiprezizAmAsyuzI",
+              "n": "sampiprezizAmAsivat/sampiprezizAmAsivad"
+            },
+            {
+              "base": "saMpiprezizAYcakfvas",
+              "m": "saMpiprezizAYcakfvAn",
+              "f": "saMpiprezizAYcakruzI",
+              "n": "saMpiprezizAYcakfvat/saMpiprezizAYcakfvad"
+            },
+            {
+              "base": "sampiprezizAYcakfvas",
+              "m": "sampiprezizAYcakfvAn",
+              "f": "sampiprezizAYcakruzI",
+              "n": "sampiprezizAYcakfvat/sampiprezizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMpipreziza",
+              "m": "saMpiprezizaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampipreziza",
+              "m": "sampiprezizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMpiprezizamARa",
+              "m": "saMpiprezizamARaH",
+              "f": "saMpiprezizamARA",
+              "n": "saMpiprezizamARam"
+            },
+            {
+              "base": "sampiprezizamARa",
+              "m": "sampiprezizamARaH",
+              "f": "sampiprezizamARA",
+              "n": "sampiprezizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMpiprezizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampiprezizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMpiprezizaka",
+              "m": "saMpiprezizakaH",
+              "f": "saMpiprezizikA",
+              "n": "saMpiprezizakam"
+            },
+            {
+              "base": "sampiprezizaka",
+              "m": "sampiprezizakaH",
+              "f": "sampiprezizikA",
+              "n": "sampiprezizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMpiprezizitavya",
+              "m": "saMpiprezizitavyaH",
+              "f": "saMpiprezizitavyA",
+              "n": "saMpiprezizitavyam"
+            },
+            {
+              "base": "sampiprezizitavya",
+              "m": "sampiprezizitavyaH",
+              "f": "sampiprezizitavyA",
+              "n": "sampiprezizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMpiprezizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampiprezizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMpiprezizitf",
+              "m": "saMpiprezizitA",
+              "f": "saMpiprezizitrI",
+              "n": "saMpiprezizitf"
+            },
+            {
+              "base": "sampiprezizitf",
+              "m": "sampiprezizitA",
+              "f": "sampiprezizitrI",
+              "n": "sampiprezizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMpiprezizamARa",
+              "m": "saMpiprezizamARaH",
+              "f": "saMpiprezizamARA",
+              "n": "saMpiprezizamARam"
+            },
+            {
+              "base": "sampiprezizamARa",
+              "m": "sampiprezizamARaH",
+              "f": "sampiprezizamARA",
+              "n": "sampiprezizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMpiprezizya",
+              "m": "saMpiprezizyaH",
+              "f": "saMpiprezizyA",
+              "n": "saMpiprezizyam"
+            },
+            {
+              "base": "sampiprezizya",
+              "m": "sampiprezizyaH",
+              "f": "sampiprezizyA",
+              "n": "sampiprezizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMpiprezizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampiprezizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMpiprezizaRa",
+              "m": "",
+              "f": "",
+              "n": "saMpiprezizaRam"
+            },
+            {
+              "base": "sampiprezizaRa",
+              "m": "",
+              "f": "",
+              "n": "sampiprezizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMpiprezizaka",
+              "m": "saMpiprezizakaH",
+              "f": "saMpiprezizikA",
+              "n": "saMpiprezizakam"
+            },
+            {
+              "base": "sampiprezizaka",
+              "m": "sampiprezizakaH",
+              "f": "sampiprezizikA",
+              "n": "sampiprezizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMpiprezizamARa",
+              "m": "saMpiprezizamARaH",
+              "f": "saMpiprezizamARA",
+              "n": "saMpiprezizamARam"
+            },
+            {
+              "base": "sampiprezizamARa",
+              "m": "sampiprezizamARaH",
+              "f": "sampiprezizamARA",
+              "n": "sampiprezizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMpiprezizamARa",
+              "m": "saMpiprezizamARaH",
+              "f": "saMpiprezizamARA",
+              "n": "saMpiprezizamARam"
+            },
+            {
+              "base": "sampiprezizamARa",
+              "m": "sampiprezizamARaH",
+              "f": "sampiprezizamARA",
+              "n": "sampiprezizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMpiprezizamARa",
+              "m": "saMpiprezizamARaH",
+              "f": "saMpiprezizamARA",
+              "n": "saMpiprezizamARam"
+            },
+            {
+              "base": "sampiprezizamARa",
+              "m": "sampiprezizamARaH",
+              "f": "sampiprezizamARA",
+              "n": "sampiprezizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "saMpreza",
+              "m": "saMprezaH",
+              "f": "saMprezA",
+              "n": "saMprezam"
+            },
+            {
+              "base": "sampreza",
+              "m": "samprezaH",
+              "f": "samprezA",
+              "n": "samprezam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMprezaRIya",
+              "m": "saMprezaRIyaH",
+              "f": "saMprezaRIyA",
+              "n": "saMprezaRIyam"
+            },
+            {
+              "base": "samprezaRIya",
+              "m": "samprezaRIyaH",
+              "f": "samprezaRIyA",
+              "n": "samprezaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMprezita",
+              "m": "saMprezitaH",
+              "f": "saMprezitA",
+              "n": "saMprezitam"
+            },
+            {
+              "base": "samprezita",
+              "m": "samprezitaH",
+              "f": "samprezitA",
+              "n": "samprezitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMprezitavat",
+              "m": "saMprezitavAn",
+              "f": "saMprezitavatI",
+              "n": "saMprezitavat/saMprezitavad"
+            },
+            {
+              "base": "samprezitavat",
+              "m": "samprezitavAn",
+              "f": "samprezitavatI",
+              "n": "samprezitavat/samprezitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMprezwi",
+              "m": "",
+              "f": "saMprezwiH",
+              "n": ""
+            },
+            {
+              "base": "samprezwi",
+              "m": "",
+              "f": "samprezwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMprezayAmbaBUvas",
+              "m": "saMprezayAmbaBUvAn",
+              "f": "saMprezayAmbaBUzI",
+              "n": "saMprezayAmbaBUvat/saMprezayAmbaBUvad"
+            },
+            {
+              "base": "samprezayAmbaBUvas",
+              "m": "samprezayAmbaBUvAn",
+              "f": "samprezayAmbaBUzI",
+              "n": "samprezayAmbaBUvat/samprezayAmbaBUvad"
+            },
+            {
+              "base": "saMprezayAmAsivas",
+              "m": "saMprezayAmAsivAn",
+              "f": "saMprezayAmAsyuzI",
+              "n": "saMprezayAmAsivat/saMprezayAmAsivad"
+            },
+            {
+              "base": "samprezayAmAsivas",
+              "m": "samprezayAmAsivAn",
+              "f": "samprezayAmAsyuzI",
+              "n": "samprezayAmAsivat/samprezayAmAsivad"
+            },
+            {
+              "base": "saMprezayAYcakfvas",
+              "m": "saMprezayAYcakfvAn",
+              "f": "saMprezayAYcakruzI",
+              "n": "saMprezayAYcakfvat/saMprezayAYcakfvad"
+            },
+            {
+              "base": "samprezayAYcakfvas",
+              "m": "samprezayAYcakfvAn",
+              "f": "samprezayAYcakruzI",
+              "n": "samprezayAYcakfvat/samprezayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMprezayamARa",
+              "m": "saMprezayamARaH",
+              "f": "saMprezayamARA",
+              "n": "saMprezayamARam"
+            },
+            {
+              "base": "samprezayamARa",
+              "m": "samprezayamARaH",
+              "f": "samprezayamARA",
+              "n": "samprezayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMprezaka",
+              "m": "saMprezakaH",
+              "f": "saMprezikA",
+              "n": "saMprezakam"
+            },
+            {
+              "base": "samprezaka",
+              "m": "samprezakaH",
+              "f": "samprezikA",
+              "n": "samprezakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMprezayitavya",
+              "m": "saMprezayitavyaH",
+              "f": "saMprezayitavyA",
+              "n": "saMprezayitavyam"
+            },
+            {
+              "base": "samprezayitavya",
+              "m": "samprezayitavyaH",
+              "f": "samprezayitavyA",
+              "n": "samprezayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMprezayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMprezayitf",
+              "m": "saMprezayitA",
+              "f": "saMprezayitrI",
+              "n": "saMprezayitf"
+            },
+            {
+              "base": "samprezayitf",
+              "m": "samprezayitA",
+              "f": "samprezayitrI",
+              "n": "samprezayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMprezayamARa",
+              "m": "saMprezayamARaH",
+              "f": "saMprezayamARA",
+              "n": "saMprezayamARam"
+            },
+            {
+              "base": "samprezayamARa",
+              "m": "samprezayamARaH",
+              "f": "samprezayamARA",
+              "n": "samprezayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMprezya",
+              "m": "saMprezyaH",
+              "f": "saMprezyA",
+              "n": "saMprezyam"
+            },
+            {
+              "base": "samprezya",
+              "m": "samprezyaH",
+              "f": "samprezyA",
+              "n": "samprezyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "samprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMprezaRa",
+              "m": "",
+              "f": "",
+              "n": "saMprezaRam"
+            },
+            {
+              "base": "samprezaRa",
+              "m": "",
+              "f": "",
+              "n": "samprezaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMprezaka",
+              "m": "saMprezakaH",
+              "f": "saMprezikA",
+              "n": "saMprezakam"
+            },
+            {
+              "base": "samprezaka",
+              "m": "samprezakaH",
+              "f": "samprezikA",
+              "n": "samprezakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "saMprezayat",
+              "m": "saMprezayan",
+              "f": "saMprezayantI",
+              "n": "saMprezayat/saMprezayad"
+            },
+            {
+              "base": "samprezayat",
+              "m": "samprezayan",
+              "f": "samprezayantI",
+              "n": "samprezayat/samprezayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMprezayamARa",
+              "m": "saMprezayamARaH",
+              "f": "saMprezayamARA",
+              "n": "saMprezayamARam"
+            },
+            {
+              "base": "samprezayamARa",
+              "m": "samprezayamARaH",
+              "f": "samprezayamARA",
+              "n": "samprezayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMprezayamARa",
+              "m": "saMprezayamARaH",
+              "f": "saMprezayamARA",
+              "n": "saMprezayamARam"
+            },
+            {
+              "base": "samprezayamARa",
+              "m": "samprezayamARaH",
+              "f": "samprezayamARA",
+              "n": "samprezayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "saMprezayat",
+              "m": "saMprezayan",
+              "f": "saMprezayatI/saMprezayantI",
+              "n": "saMprezayat/saMprezayad"
+            },
+            {
+              "base": "samprezayat",
+              "m": "samprezayan",
+              "f": "samprezayatI/samprezayantI",
+              "n": "samprezayat/samprezayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMprezayamARa",
+              "m": "saMprezayamARaH",
+              "f": "saMprezayamARA",
+              "n": "saMprezayamARam"
+            },
+            {
+              "base": "samprezayamARa",
+              "m": "samprezayamARaH",
+              "f": "samprezayamARA",
+              "n": "samprezayamARam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "saMpeprezA",
+              "m": "",
+              "f": "saMpeprezA",
+              "n": ""
+            },
+            {
+              "base": "sampeprezA",
+              "m": "",
+              "f": "sampeprezA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMpepreza",
+              "m": "saMpeprezaH",
+              "f": "saMpeprezA",
+              "n": "saMpeprezam"
+            },
+            {
+              "base": "sampepreza",
+              "m": "sampeprezaH",
+              "f": "sampeprezA",
+              "n": "sampeprezam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMpeprezaRIya",
+              "m": "saMpeprezaRIyaH",
+              "f": "saMpeprezaRIyA",
+              "n": "saMpeprezaRIyam"
+            },
+            {
+              "base": "sampeprezaRIya",
+              "m": "sampeprezaRIyaH",
+              "f": "sampeprezaRIyA",
+              "n": "sampeprezaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMpeprezita",
+              "m": "saMpeprezitaH",
+              "f": "saMpeprezitA",
+              "n": "saMpeprezitam"
+            },
+            {
+              "base": "sampeprezita",
+              "m": "sampeprezitaH",
+              "f": "sampeprezitA",
+              "n": "sampeprezitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMpeprezitavat",
+              "m": "saMpeprezitavAn",
+              "f": "saMpeprezitavatI",
+              "n": "saMpeprezitavat/saMpeprezitavad"
+            },
+            {
+              "base": "sampeprezitavat",
+              "m": "sampeprezitavAn",
+              "f": "sampeprezitavatI",
+              "n": "sampeprezitavat/sampeprezitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMpeprezwi",
+              "m": "",
+              "f": "saMpeprezwiH",
+              "n": ""
+            },
+            {
+              "base": "sampeprezwi",
+              "m": "",
+              "f": "sampeprezwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMpeprezAmbaBUvas",
+              "m": "saMpeprezAmbaBUvAn",
+              "f": "saMpeprezAmbaBUzI",
+              "n": "saMpeprezAmbaBUvat/saMpeprezAmbaBUvad"
+            },
+            {
+              "base": "sampeprezAmbaBUvas",
+              "m": "sampeprezAmbaBUvAn",
+              "f": "sampeprezAmbaBUzI",
+              "n": "sampeprezAmbaBUvat/sampeprezAmbaBUvad"
+            },
+            {
+              "base": "saMpeprezAmAsivas",
+              "m": "saMpeprezAmAsivAn",
+              "f": "saMpeprezAmAsyuzI",
+              "n": "saMpeprezAmAsivat/saMpeprezAmAsivad"
+            },
+            {
+              "base": "sampeprezAmAsivas",
+              "m": "sampeprezAmAsivAn",
+              "f": "sampeprezAmAsyuzI",
+              "n": "sampeprezAmAsivat/sampeprezAmAsivad"
+            },
+            {
+              "base": "saMpeprezAYcakfvas",
+              "m": "saMpeprezAYcakfvAn",
+              "f": "saMpeprezAYcakruzI",
+              "n": "saMpeprezAYcakfvat/saMpeprezAYcakfvad"
+            },
+            {
+              "base": "sampeprezAYcakfvas",
+              "m": "sampeprezAYcakfvAn",
+              "f": "sampeprezAYcakruzI",
+              "n": "sampeprezAYcakfvat/sampeprezAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMpepreza",
+              "m": "saMpeprezaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampepreza",
+              "m": "sampeprezaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMpeprezyamARa",
+              "m": "saMpeprezyamARaH",
+              "f": "saMpeprezyamARA",
+              "n": "saMpeprezyamARam"
+            },
+            {
+              "base": "sampeprezyamARa",
+              "m": "sampeprezyamARaH",
+              "f": "sampeprezyamARA",
+              "n": "sampeprezyamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMpeprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMpeprezaka",
+              "m": "saMpeprezakaH",
+              "f": "saMpeprezikA",
+              "n": "saMpeprezakam"
+            },
+            {
+              "base": "sampeprezaka",
+              "m": "sampeprezakaH",
+              "f": "sampeprezikA",
+              "n": "sampeprezakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMpeprezitavya",
+              "m": "saMpeprezitavyaH",
+              "f": "saMpeprezitavyA",
+              "n": "saMpeprezitavyam"
+            },
+            {
+              "base": "sampeprezitavya",
+              "m": "sampeprezitavyaH",
+              "f": "sampeprezitavyA",
+              "n": "sampeprezitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMpeprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMpeprezitf",
+              "m": "saMpeprezitA",
+              "f": "saMpeprezitrI",
+              "n": "saMpeprezitf"
+            },
+            {
+              "base": "sampeprezitf",
+              "m": "sampeprezitA",
+              "f": "sampeprezitrI",
+              "n": "sampeprezitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMpeprezyamARa",
+              "m": "saMpeprezyamARaH",
+              "f": "saMpeprezyamARA",
+              "n": "saMpeprezyamARam"
+            },
+            {
+              "base": "sampeprezyamARa",
+              "m": "sampeprezyamARaH",
+              "f": "sampeprezyamARA",
+              "n": "sampeprezyamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMpeprezya",
+              "m": "saMpeprezyaH",
+              "f": "saMpeprezyA",
+              "n": "saMpeprezyam"
+            },
+            {
+              "base": "sampeprezya",
+              "m": "sampeprezyaH",
+              "f": "sampeprezyA",
+              "n": "sampeprezyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMpeprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMpeprezaRa",
+              "m": "",
+              "f": "",
+              "n": "saMpeprezaRam"
+            },
+            {
+              "base": "sampeprezaRa",
+              "m": "",
+              "f": "",
+              "n": "sampeprezaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMpeprezaka",
+              "m": "saMpeprezakaH",
+              "f": "saMpeprezikA",
+              "n": "saMpeprezakam"
+            },
+            {
+              "base": "sampeprezaka",
+              "m": "sampeprezakaH",
+              "f": "sampeprezikA",
+              "n": "sampeprezakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMpeprezyamARa",
+              "m": "saMpeprezyamARaH",
+              "f": "saMpeprezyamARA",
+              "n": "saMpeprezyamARam"
+            },
+            {
+              "base": "sampeprezyamARa",
+              "m": "sampeprezyamARaH",
+              "f": "sampeprezyamARA",
+              "n": "sampeprezyamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMpeprezyamARa",
+              "m": "saMpeprezyamARaH",
+              "f": "saMpeprezyamARA",
+              "n": "saMpeprezyamARam"
+            },
+            {
+              "base": "sampeprezyamARa",
+              "m": "sampeprezyamARaH",
+              "f": "sampeprezyamARA",
+              "n": "sampeprezyamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMpeprezyamARa",
+              "m": "saMpeprezyamARaH",
+              "f": "saMpeprezyamARA",
+              "n": "saMpeprezyamARam"
+            },
+            {
+              "base": "sampeprezyamARa",
+              "m": "sampeprezyamARaH",
+              "f": "sampeprezyamARA",
+              "n": "sampeprezyamARam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "saMpeprezA",
+              "m": "",
+              "f": "saMpeprezA",
+              "n": ""
+            },
+            {
+              "base": "sampeprezA",
+              "m": "",
+              "f": "sampeprezA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMpepreza",
+              "m": "saMpeprezaH",
+              "f": "saMpeprezA",
+              "n": "saMpeprezam"
+            },
+            {
+              "base": "sampepreza",
+              "m": "sampeprezaH",
+              "f": "sampeprezA",
+              "n": "sampeprezam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMpeprezaRIya",
+              "m": "saMpeprezaRIyaH",
+              "f": "saMpeprezaRIyA",
+              "n": "saMpeprezaRIyam"
+            },
+            {
+              "base": "sampeprezaRIya",
+              "m": "sampeprezaRIyaH",
+              "f": "sampeprezaRIyA",
+              "n": "sampeprezaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMpeprezita",
+              "m": "saMpeprezitaH",
+              "f": "saMpeprezitA",
+              "n": "saMpeprezitam"
+            },
+            {
+              "base": "sampeprezita",
+              "m": "sampeprezitaH",
+              "f": "sampeprezitA",
+              "n": "sampeprezitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMpeprezitavat",
+              "m": "saMpeprezitavAn",
+              "f": "saMpeprezitavatI",
+              "n": "saMpeprezitavat/saMpeprezitavad"
+            },
+            {
+              "base": "sampeprezitavat",
+              "m": "sampeprezitavAn",
+              "f": "sampeprezitavatI",
+              "n": "sampeprezitavat/sampeprezitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMpeprezwi",
+              "m": "",
+              "f": "saMpeprezwiH",
+              "n": ""
+            },
+            {
+              "base": "sampeprezwi",
+              "m": "",
+              "f": "sampeprezwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMpeprezAmbaBUvas",
+              "m": "saMpeprezAmbaBUvAn",
+              "f": "saMpeprezAmbaBUzI",
+              "n": "saMpeprezAmbaBUvat/saMpeprezAmbaBUvad"
+            },
+            {
+              "base": "sampeprezAmbaBUvas",
+              "m": "sampeprezAmbaBUvAn",
+              "f": "sampeprezAmbaBUzI",
+              "n": "sampeprezAmbaBUvat/sampeprezAmbaBUvad"
+            },
+            {
+              "base": "saMpeprezAmAsivas",
+              "m": "saMpeprezAmAsivAn",
+              "f": "saMpeprezAmAsyuzI",
+              "n": "saMpeprezAmAsivat/saMpeprezAmAsivad"
+            },
+            {
+              "base": "sampeprezAmAsivas",
+              "m": "sampeprezAmAsivAn",
+              "f": "sampeprezAmAsyuzI",
+              "n": "sampeprezAmAsivat/sampeprezAmAsivad"
+            },
+            {
+              "base": "saMpeprezAYcakfvas",
+              "m": "saMpeprezAYcakfvAn",
+              "f": "saMpeprezAYcakruzI",
+              "n": "saMpeprezAYcakfvat/saMpeprezAYcakfvad"
+            },
+            {
+              "base": "sampeprezAYcakfvas",
+              "m": "sampeprezAYcakfvAn",
+              "f": "sampeprezAYcakruzI",
+              "n": "sampeprezAYcakfvat/sampeprezAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMpepreza",
+              "m": "saMpeprezaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampepreza",
+              "m": "sampeprezaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMpeprezARa",
+              "m": "saMpeprezARaH",
+              "f": "saMpeprezARA",
+              "n": "saMpeprezARam"
+            },
+            {
+              "base": "sampeprezARa",
+              "m": "sampeprezARaH",
+              "f": "sampeprezARA",
+              "n": "sampeprezARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMpeprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMpeprezaka",
+              "m": "saMpeprezakaH",
+              "f": "saMpeprezikA",
+              "n": "saMpeprezakam"
+            },
+            {
+              "base": "sampeprezaka",
+              "m": "sampeprezakaH",
+              "f": "sampeprezikA",
+              "n": "sampeprezakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMpeprezitavya",
+              "m": "saMpeprezitavyaH",
+              "f": "saMpeprezitavyA",
+              "n": "saMpeprezitavyam"
+            },
+            {
+              "base": "sampeprezitavya",
+              "m": "sampeprezitavyaH",
+              "f": "sampeprezitavyA",
+              "n": "sampeprezitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMpeprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMpeprezitf",
+              "m": "saMpeprezitA",
+              "f": "saMpeprezitrI",
+              "n": "saMpeprezitf"
+            },
+            {
+              "base": "sampeprezitf",
+              "m": "sampeprezitA",
+              "f": "sampeprezitrI",
+              "n": "sampeprezitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMpeprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "sampeprezya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMpeprezaRa",
+              "m": "",
+              "f": "",
+              "n": "saMpeprezaRam"
+            },
+            {
+              "base": "sampeprezaRa",
+              "m": "",
+              "f": "",
+              "n": "sampeprezaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMpeprezaka",
+              "m": "saMpeprezakaH",
+              "f": "saMpeprezikA",
+              "n": "saMpeprezakam"
+            },
+            {
+              "base": "sampeprezaka",
+              "m": "sampeprezakaH",
+              "f": "sampeprezikA",
+              "n": "sampeprezakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "saMpeprezat",
+              "m": "saMpeprezan",
+              "f": "saMpeprezatI",
+              "n": "saMpeprezat/saMpeprezad"
+            },
+            {
+              "base": "sampeprezat",
+              "m": "sampeprezan",
+              "f": "sampeprezatI",
+              "n": "sampeprezat/sampeprezad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "saMpeprezat",
+              "m": "saMpeprezan",
+              "f": "saMpeprezatI/saMpeprezantI",
+              "n": "saMpeprezat/saMpeprezad"
+            },
+            {
+              "base": "sampeprezat",
+              "m": "sampeprezan",
+              "f": "sampeprezatI/sampeprezantI",
+              "n": "sampeprezat/sampeprezad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

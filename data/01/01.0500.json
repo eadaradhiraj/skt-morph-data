@@ -1,0 +1,2923 @@
+{
+  "id": "01.0500",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "SuBa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "BAzaRe BAsane hiMsAyAM ca"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to speak, to shine,to glow, to speak,to kill"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "BAzaRa karanA, bolanA, mAranA, SoBA pAnA, camakanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "BAsane ityeke ' iti kOmudI . kzIrasvAmi - candra - jEna - kAtantra - hemacandrAdayaH na paWanti . ' hiMsABAzaRayoH SoBet, SoBArTe SuBatIti Se ' (Slo.143) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "432"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "432"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2308",
+      "ext_link": "/sutraani/sk2308?scroll=sutra-commentary-kaumudi-region&highlight=SauBa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "SuByAt",
+        "SuByAd",
+        "SuByAstAm",
+        "SuByAsuH",
+        "SuByAH",
+        "SuByAstam",
+        "SuByAsta",
+        "SuByAsam",
+        "SuByAsva",
+        "SuByAsma"
+      ],
+      "plang": [
+        "aSoBat",
+        "aSoBad",
+        "aSoBatAm",
+        "aSoBan",
+        "aSoBaH",
+        "aSoBatam",
+        "aSoBata",
+        "aSoBam",
+        "aSoBAva",
+        "aSoBAma"
+      ],
+      "plat": [
+        "SoBati",
+        "SoBataH",
+        "SoBanti",
+        "SoBasi",
+        "SoBaTaH",
+        "SoBaTa",
+        "SoBAmi",
+        "SoBAvaH",
+        "SoBAmaH"
+      ],
+      "plit": [
+        "SuSoBa",
+        "SuSuBatuH",
+        "SuSuBuH",
+        "SuSoBiTa",
+        "SuSuBaTuH",
+        "SuSuBa",
+        "SuSoBa",
+        "SuSuBiva",
+        "SuSuBima"
+      ],
+      "plot": [
+        "SoBatAt",
+        "SoBatAd",
+        "SoBatu",
+        "SoBatAm",
+        "SoBantu",
+        "SoBa",
+        "SoBatAt",
+        "SoBatAd",
+        "SoBatam",
+        "SoBata",
+        "SoBAni",
+        "SoBAva",
+        "SoBAma"
+      ],
+      "plrung": [
+        "aSoBizyat",
+        "aSoBizyad",
+        "aSoBizyatAm",
+        "aSoBizyan",
+        "aSoBizyaH",
+        "aSoBizyatam",
+        "aSoBizyata",
+        "aSoBizyam",
+        "aSoBizyAva",
+        "aSoBizyAma"
+      ],
+      "plrut": [
+        "SoBizyati",
+        "SoBizyataH",
+        "SoBizyanti",
+        "SoBizyasi",
+        "SoBizyaTaH",
+        "SoBizyaTa",
+        "SoBizyAmi",
+        "SoBizyAvaH",
+        "SoBizyAmaH"
+      ],
+      "plung": [
+        "aSoBIt",
+        "aSoBId",
+        "aSoBizwAm",
+        "aSoBizuH",
+        "aSoBIH",
+        "aSoBizwam",
+        "aSoBizwa",
+        "aSoBizam",
+        "aSoBizva",
+        "aSoBizma"
+      ],
+      "plut": [
+        "SoBitA",
+        "SoBitArO",
+        "SoBitAraH",
+        "SoBitAsi",
+        "SoBitAsTaH",
+        "SoBitAsTa",
+        "SoBitAsmi",
+        "SoBitAsvaH",
+        "SoBitAsmaH"
+      ],
+      "pvidhiling": [
+        "SoBet",
+        "SoBed",
+        "SoBetAm",
+        "SoBeyuH",
+        "SoBeH",
+        "SoBetam",
+        "SoBeta",
+        "SoBeyam",
+        "SoBeva",
+        "SoBema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "SoBizIzwa",
+        "SoBizIyAstAm",
+        "SoBizIran",
+        "SoBizIzWAH",
+        "SoBizIyAsTAm",
+        "SoBizIDvam",
+        "SoBizIya",
+        "SoBizIvahi",
+        "SoBizImahi"
+      ],
+      "alang": [
+        "aSuByata",
+        "aSuByetAm",
+        "aSuByanta",
+        "aSuByaTAH",
+        "aSuByeTAm",
+        "aSuByaDvam",
+        "aSuBye",
+        "aSuByAvahi",
+        "aSuByAmahi"
+      ],
+      "alat": [
+        "SuByate",
+        "SuByete",
+        "SuByante",
+        "SuByase",
+        "SuByeTe",
+        "SuByaDve",
+        "SuBye",
+        "SuByAvahe",
+        "SuByAmahe"
+      ],
+      "alit": [
+        "SuSuBe",
+        "SuSuBAte",
+        "SuSuBire",
+        "SuSuBize",
+        "SuSuBATe",
+        "SuSuBiDve",
+        "SuSuBe",
+        "SuSuBivahe",
+        "SuSuBimahe"
+      ],
+      "alot": [
+        "SuByatAm",
+        "SuByetAm",
+        "SuByantAm",
+        "SuByasva",
+        "SuByeTAm",
+        "SuByaDvam",
+        "SuByE",
+        "SuByAvahE",
+        "SuByAmahE"
+      ],
+      "alrung": [
+        "aSoBizyata",
+        "aSoBizyetAm",
+        "aSoBizyanta",
+        "aSoBizyaTAH",
+        "aSoBizyeTAm",
+        "aSoBizyaDvam",
+        "aSoBizye",
+        "aSoBizyAvahi",
+        "aSoBizyAmahi"
+      ],
+      "alrut": [
+        "SoBizyate",
+        "SoBizyete",
+        "SoBizyante",
+        "SoBizyase",
+        "SoBizyeTe",
+        "SoBizyaDve",
+        "SoBizye",
+        "SoBizyAvahe",
+        "SoBizyAmahe"
+      ],
+      "alung": [
+        "aSoBi",
+        "aSoBizAtAm",
+        "aSoBizata",
+        "aSoBizWAH",
+        "aSoBizATAm",
+        "aSoBiDvam",
+        "aSoBizi",
+        "aSoBizvahi",
+        "aSoBizmahi"
+      ],
+      "alut": [
+        "SoBitA",
+        "SoBitArO",
+        "SoBitAraH",
+        "SoBitAse",
+        "SoBitAsATe",
+        "SoBitADve",
+        "SoBitAhe",
+        "SoBitAsvahe",
+        "SoBitAsmahe"
+      ],
+      "avidhiling": [
+        "SuByeta",
+        "SuByeyAtAm",
+        "SuByeran",
+        "SuByeTAH",
+        "SuByeyATAm",
+        "SuByeDvam",
+        "SuByeya",
+        "SuByevahi",
+        "SuByemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "SuSuBizyAt",
+        "SuSuBizyAd",
+        "SuSoBizyAt",
+        "SuSoBizyAd",
+        "SuSuBizyAstAm",
+        "SuSoBizyAstAm",
+        "SuSuBizyAsuH",
+        "SuSoBizyAsuH",
+        "SuSuBizyAH",
+        "SuSoBizyAH",
+        "SuSuBizyAstam",
+        "SuSoBizyAstam",
+        "SuSuBizyAsta",
+        "SuSoBizyAsta",
+        "SuSuBizyAsam",
+        "SuSoBizyAsam",
+        "SuSuBizyAsva",
+        "SuSoBizyAsva",
+        "SuSuBizyAsma",
+        "SuSoBizyAsma"
+      ],
+      "plang": [
+        "aSuSuBizat",
+        "aSuSuBizad",
+        "aSuSoBizat",
+        "aSuSoBizad",
+        "aSuSuBizatAm",
+        "aSuSoBizatAm",
+        "aSuSuBizan",
+        "aSuSoBizan",
+        "aSuSuBizaH",
+        "aSuSoBizaH",
+        "aSuSuBizatam",
+        "aSuSoBizatam",
+        "aSuSuBizata",
+        "aSuSoBizata",
+        "aSuSuBizam",
+        "aSuSoBizam",
+        "aSuSuBizAva",
+        "aSuSoBizAva",
+        "aSuSuBizAma",
+        "aSuSoBizAma"
+      ],
+      "plat": [
+        "SuSuBizati",
+        "SuSoBizati",
+        "SuSuBizataH",
+        "SuSoBizataH",
+        "SuSuBizanti",
+        "SuSoBizanti",
+        "SuSuBizasi",
+        "SuSoBizasi",
+        "SuSuBizaTaH",
+        "SuSoBizaTaH",
+        "SuSuBizaTa",
+        "SuSoBizaTa",
+        "SuSuBizAmi",
+        "SuSoBizAmi",
+        "SuSuBizAvaH",
+        "SuSoBizAvaH",
+        "SuSuBizAmaH",
+        "SuSoBizAmaH"
+      ],
+      "plit": [
+        "SuSuBizAYcakAra",
+        "SuSuBizAmAsa",
+        "SuSuBizAmbaBUva",
+        "SuSoBizAYcakAra",
+        "SuSoBizAmAsa",
+        "SuSoBizAmbaBUva",
+        "SuSuBizAYcakratuH",
+        "SuSuBizAmAsatuH",
+        "SuSuBizAmbaBUvatuH",
+        "SuSoBizAYcakratuH",
+        "SuSoBizAmAsatuH",
+        "SuSoBizAmbaBUvatuH",
+        "SuSuBizAYcakruH",
+        "SuSuBizAmAsuH",
+        "SuSuBizAmbaBUvuH",
+        "SuSoBizAYcakruH",
+        "SuSoBizAmAsuH",
+        "SuSoBizAmbaBUvuH",
+        "SuSuBizAYcakarTa",
+        "SuSuBizAmAsiTa",
+        "SuSuBizAmbaBUviTa",
+        "SuSoBizAYcakarTa",
+        "SuSoBizAmAsiTa",
+        "SuSoBizAmbaBUviTa",
+        "SuSuBizAYcakraTuH",
+        "SuSuBizAmAsaTuH",
+        "SuSuBizAmbaBUvaTuH",
+        "SuSoBizAYcakraTuH",
+        "SuSoBizAmAsaTuH",
+        "SuSoBizAmbaBUvaTuH",
+        "SuSuBizAYcakra",
+        "SuSuBizAmAsa",
+        "SuSuBizAmbaBUva",
+        "SuSoBizAYcakra",
+        "SuSoBizAmAsa",
+        "SuSoBizAmbaBUva",
+        "SuSuBizAYcakara",
+        "SuSuBizAYcakAra",
+        "SuSuBizAmAsa",
+        "SuSuBizAmbaBUva",
+        "SuSoBizAYcakara",
+        "SuSoBizAYcakAra",
+        "SuSoBizAmAsa",
+        "SuSoBizAmbaBUva",
+        "SuSuBizAYcakfva",
+        "SuSuBizAmAsiva",
+        "SuSuBizAmbaBUviva",
+        "SuSoBizAYcakfva",
+        "SuSoBizAmAsiva",
+        "SuSoBizAmbaBUviva",
+        "SuSuBizAYcakfma",
+        "SuSuBizAmAsima",
+        "SuSuBizAmbaBUvima",
+        "SuSoBizAYcakfma",
+        "SuSoBizAmAsima",
+        "SuSoBizAmbaBUvima"
+      ],
+      "plot": [
+        "SuSuBizatAt",
+        "SuSuBizatAd",
+        "SuSuBizatu",
+        "SuSoBizatAt",
+        "SuSoBizatAd",
+        "SuSoBizatu",
+        "SuSuBizatAm",
+        "SuSoBizatAm",
+        "SuSuBizantu",
+        "SuSoBizantu",
+        "SuSuBiza",
+        "SuSuBizatAt",
+        "SuSuBizatAd",
+        "SuSoBiza",
+        "SuSoBizatAt",
+        "SuSoBizatAd",
+        "SuSuBizatam",
+        "SuSoBizatam",
+        "SuSuBizata",
+        "SuSoBizata",
+        "SuSuBizARi",
+        "SuSoBizARi",
+        "SuSuBizAva",
+        "SuSoBizAva",
+        "SuSuBizAma",
+        "SuSoBizAma"
+      ],
+      "plrung": [
+        "aSuSuBizizyat",
+        "aSuSuBizizyad",
+        "aSuSoBizizyat",
+        "aSuSoBizizyad",
+        "aSuSuBizizyatAm",
+        "aSuSoBizizyatAm",
+        "aSuSuBizizyan",
+        "aSuSoBizizyan",
+        "aSuSuBizizyaH",
+        "aSuSoBizizyaH",
+        "aSuSuBizizyatam",
+        "aSuSoBizizyatam",
+        "aSuSuBizizyata",
+        "aSuSoBizizyata",
+        "aSuSuBizizyam",
+        "aSuSoBizizyam",
+        "aSuSuBizizyAva",
+        "aSuSoBizizyAva",
+        "aSuSuBizizyAma",
+        "aSuSoBizizyAma"
+      ],
+      "plrut": [
+        "SuSuBizizyati",
+        "SuSoBizizyati",
+        "SuSuBizizyataH",
+        "SuSoBizizyataH",
+        "SuSuBizizyanti",
+        "SuSoBizizyanti",
+        "SuSuBizizyasi",
+        "SuSoBizizyasi",
+        "SuSuBizizyaTaH",
+        "SuSoBizizyaTaH",
+        "SuSuBizizyaTa",
+        "SuSoBizizyaTa",
+        "SuSuBizizyAmi",
+        "SuSoBizizyAmi",
+        "SuSuBizizyAvaH",
+        "SuSoBizizyAvaH",
+        "SuSuBizizyAmaH",
+        "SuSoBizizyAmaH"
+      ],
+      "plung": [
+        "aSuSuBizIt",
+        "aSuSuBizId",
+        "aSuSoBizIt",
+        "aSuSoBizId",
+        "aSuSuBizizwAm",
+        "aSuSoBizizwAm",
+        "aSuSuBizizuH",
+        "aSuSoBizizuH",
+        "aSuSuBizIH",
+        "aSuSoBizIH",
+        "aSuSuBizizwam",
+        "aSuSoBizizwam",
+        "aSuSuBizizwa",
+        "aSuSoBizizwa",
+        "aSuSuBizizam",
+        "aSuSoBizizam",
+        "aSuSuBizizva",
+        "aSuSoBizizva",
+        "aSuSuBizizma",
+        "aSuSoBizizma"
+      ],
+      "plut": [
+        "SuSuBizitA",
+        "SuSoBizitA",
+        "SuSuBizitArO",
+        "SuSoBizitArO",
+        "SuSuBizitAraH",
+        "SuSoBizitAraH",
+        "SuSuBizitAsi",
+        "SuSoBizitAsi",
+        "SuSuBizitAsTaH",
+        "SuSoBizitAsTaH",
+        "SuSuBizitAsTa",
+        "SuSoBizitAsTa",
+        "SuSuBizitAsmi",
+        "SuSoBizitAsmi",
+        "SuSuBizitAsvaH",
+        "SuSoBizitAsvaH",
+        "SuSuBizitAsmaH",
+        "SuSoBizitAsmaH"
+      ],
+      "pvidhiling": [
+        "SuSuBizet",
+        "SuSuBized",
+        "SuSoBizet",
+        "SuSoBized",
+        "SuSuBizetAm",
+        "SuSoBizetAm",
+        "SuSuBizeyuH",
+        "SuSoBizeyuH",
+        "SuSuBizeH",
+        "SuSoBizeH",
+        "SuSuBizetam",
+        "SuSoBizetam",
+        "SuSuBizeta",
+        "SuSoBizeta",
+        "SuSuBizeyam",
+        "SuSoBizeyam",
+        "SuSuBizeva",
+        "SuSoBizeva",
+        "SuSuBizema",
+        "SuSoBizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "SuSuBizizIzwa",
+        "SuSoBizizIzwa",
+        "SuSuBizizIyAstAm",
+        "SuSoBizizIyAstAm",
+        "SuSuBizizIran",
+        "SuSoBizizIran",
+        "SuSuBizizIzWAH",
+        "SuSoBizizIzWAH",
+        "SuSuBizizIyAsTAm",
+        "SuSoBizizIyAsTAm",
+        "SuSuBizizIDvam",
+        "SuSoBizizIDvam",
+        "SuSuBizizIya",
+        "SuSoBizizIya",
+        "SuSuBizizIvahi",
+        "SuSoBizizIvahi",
+        "SuSuBizizImahi",
+        "SuSoBizizImahi"
+      ],
+      "alang": [
+        "aSuSuBizyata",
+        "aSuSoBizyata",
+        "aSuSuBizyetAm",
+        "aSuSoBizyetAm",
+        "aSuSuBizyanta",
+        "aSuSoBizyanta",
+        "aSuSuBizyaTAH",
+        "aSuSoBizyaTAH",
+        "aSuSuBizyeTAm",
+        "aSuSoBizyeTAm",
+        "aSuSuBizyaDvam",
+        "aSuSoBizyaDvam",
+        "aSuSuBizye",
+        "aSuSoBizye",
+        "aSuSuBizyAvahi",
+        "aSuSoBizyAvahi",
+        "aSuSuBizyAmahi",
+        "aSuSoBizyAmahi"
+      ],
+      "alat": [
+        "SuSuBizyate",
+        "SuSoBizyate",
+        "SuSuBizyete",
+        "SuSoBizyete",
+        "SuSuBizyante",
+        "SuSoBizyante",
+        "SuSuBizyase",
+        "SuSoBizyase",
+        "SuSuBizyeTe",
+        "SuSoBizyeTe",
+        "SuSuBizyaDve",
+        "SuSoBizyaDve",
+        "SuSuBizye",
+        "SuSoBizye",
+        "SuSuBizyAvahe",
+        "SuSoBizyAvahe",
+        "SuSuBizyAmahe",
+        "SuSoBizyAmahe"
+      ],
+      "alit": [
+        "SuSuBizAYcakre",
+        "SuSuBizAmAse",
+        "SuSuBizAmbaBUve",
+        "SuSoBizAYcakre",
+        "SuSoBizAmAse",
+        "SuSoBizAmbaBUve",
+        "SuSuBizAYcakrAte",
+        "SuSuBizAmAsAte",
+        "SuSuBizAmbaBUvAte",
+        "SuSoBizAYcakrAte",
+        "SuSoBizAmAsAte",
+        "SuSoBizAmbaBUvAte",
+        "SuSuBizAYcakrire",
+        "SuSuBizAmAsire",
+        "SuSuBizAmbaBUvire",
+        "SuSoBizAYcakrire",
+        "SuSoBizAmAsire",
+        "SuSoBizAmbaBUvire",
+        "SuSuBizAYcakfze",
+        "SuSuBizAmAsize",
+        "SuSuBizAmbaBUvize",
+        "SuSoBizAYcakfze",
+        "SuSoBizAmAsize",
+        "SuSoBizAmbaBUvize",
+        "SuSuBizAYcakrATe",
+        "SuSuBizAmAsATe",
+        "SuSuBizAmbaBUvATe",
+        "SuSoBizAYcakrATe",
+        "SuSoBizAmAsATe",
+        "SuSoBizAmbaBUvATe",
+        "SuSuBizAYcakfQve",
+        "SuSuBizAmAsiDve",
+        "SuSuBizAmbaBUviQve",
+        "SuSoBizAYcakfQve",
+        "SuSoBizAmAsiDve",
+        "SuSoBizAmbaBUviQve",
+        "SuSuBizAYcakre",
+        "SuSuBizAmAhe",
+        "SuSuBizAmbaBUve",
+        "SuSoBizAYcakre",
+        "SuSoBizAmAhe",
+        "SuSoBizAmbaBUve",
+        "SuSuBizAYcakfvahe",
+        "SuSuBizAmAsivahe",
+        "SuSuBizAmbaBUvivahe",
+        "SuSoBizAYcakfvahe",
+        "SuSoBizAmAsivahe",
+        "SuSoBizAmbaBUvivahe",
+        "SuSuBizAYcakfmahe",
+        "SuSuBizAmAsimahe",
+        "SuSuBizAmbaBUvimahe",
+        "SuSoBizAYcakfmahe",
+        "SuSoBizAmAsimahe",
+        "SuSoBizAmbaBUvimahe"
+      ],
+      "alot": [
+        "SuSuBizyatAm",
+        "SuSoBizyatAm",
+        "SuSuBizyetAm",
+        "SuSoBizyetAm",
+        "SuSuBizyantAm",
+        "SuSoBizyantAm",
+        "SuSuBizyasva",
+        "SuSoBizyasva",
+        "SuSuBizyeTAm",
+        "SuSoBizyeTAm",
+        "SuSuBizyaDvam",
+        "SuSoBizyaDvam",
+        "SuSuBizyE",
+        "SuSoBizyE",
+        "SuSuBizyAvahE",
+        "SuSoBizyAvahE",
+        "SuSuBizyAmahE",
+        "SuSoBizyAmahE"
+      ],
+      "alrung": [
+        "aSuSuBizizyata",
+        "aSuSoBizizyata",
+        "aSuSuBizizyetAm",
+        "aSuSoBizizyetAm",
+        "aSuSuBizizyanta",
+        "aSuSoBizizyanta",
+        "aSuSuBizizyaTAH",
+        "aSuSoBizizyaTAH",
+        "aSuSuBizizyeTAm",
+        "aSuSoBizizyeTAm",
+        "aSuSuBizizyaDvam",
+        "aSuSoBizizyaDvam",
+        "aSuSuBizizye",
+        "aSuSoBizizye",
+        "aSuSuBizizyAvahi",
+        "aSuSoBizizyAvahi",
+        "aSuSuBizizyAmahi",
+        "aSuSoBizizyAmahi"
+      ],
+      "alrut": [
+        "SuSuBizizyate",
+        "SuSoBizizyate",
+        "SuSuBizizyete",
+        "SuSoBizizyete",
+        "SuSuBizizyante",
+        "SuSoBizizyante",
+        "SuSuBizizyase",
+        "SuSoBizizyase",
+        "SuSuBizizyeTe",
+        "SuSoBizizyeTe",
+        "SuSuBizizyaDve",
+        "SuSoBizizyaDve",
+        "SuSuBizizye",
+        "SuSoBizizye",
+        "SuSuBizizyAvahe",
+        "SuSoBizizyAvahe",
+        "SuSuBizizyAmahe",
+        "SuSoBizizyAmahe"
+      ],
+      "alung": [
+        "aSuSuBizi",
+        "aSuSoBizi",
+        "aSuSuBizizAtAm",
+        "aSuSoBizizAtAm",
+        "aSuSuBizizata",
+        "aSuSoBizizata",
+        "aSuSuBizizWAH",
+        "aSuSoBizizWAH",
+        "aSuSuBizizATAm",
+        "aSuSoBizizATAm",
+        "aSuSuBiziDvam",
+        "aSuSoBiziDvam",
+        "aSuSuBizizi",
+        "aSuSoBizizi",
+        "aSuSuBizizvahi",
+        "aSuSoBizizvahi",
+        "aSuSuBizizmahi",
+        "aSuSoBizizmahi"
+      ],
+      "alut": [
+        "SuSuBizitA",
+        "SuSoBizitA",
+        "SuSuBizitArO",
+        "SuSoBizitArO",
+        "SuSuBizitAraH",
+        "SuSoBizitAraH",
+        "SuSuBizitAse",
+        "SuSoBizitAse",
+        "SuSuBizitAsATe",
+        "SuSoBizitAsATe",
+        "SuSuBizitADve",
+        "SuSoBizitADve",
+        "SuSuBizitAhe",
+        "SuSoBizitAhe",
+        "SuSuBizitAsvahe",
+        "SuSoBizitAsvahe",
+        "SuSuBizitAsmahe",
+        "SuSoBizitAsmahe"
+      ],
+      "avidhiling": [
+        "SuSuBizyeta",
+        "SuSoBizyeta",
+        "SuSuBizyeyAtAm",
+        "SuSoBizyeyAtAm",
+        "SuSuBizyeran",
+        "SuSoBizyeran",
+        "SuSuBizyeTAH",
+        "SuSoBizyeTAH",
+        "SuSuBizyeyATAm",
+        "SuSoBizyeyATAm",
+        "SuSuBizyeDvam",
+        "SuSoBizyeDvam",
+        "SuSuBizyeya",
+        "SuSoBizyeya",
+        "SuSuBizyevahi",
+        "SuSoBizyevahi",
+        "SuSuBizyemahi",
+        "SuSoBizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "SoBayizIzwa",
+        "SoBayizIyAstAm",
+        "SoBayizIran",
+        "SoBayizIzWAH",
+        "SoBayizIyAsTAm",
+        "SoBayizIQvam",
+        "SoBayizIDvam",
+        "SoBayizIya",
+        "SoBayizIvahi",
+        "SoBayizImahi"
+      ],
+      "alang": [
+        "aSoBayata",
+        "aSoBayetAm",
+        "aSoBayanta",
+        "aSoBayaTAH",
+        "aSoBayeTAm",
+        "aSoBayaDvam",
+        "aSoBaye",
+        "aSoBayAvahi",
+        "aSoBayAmahi"
+      ],
+      "alat": [
+        "SoBayate",
+        "SoBayete",
+        "SoBayante",
+        "SoBayase",
+        "SoBayeTe",
+        "SoBayaDve",
+        "SoBaye",
+        "SoBayAvahe",
+        "SoBayAmahe"
+      ],
+      "alit": [
+        "SoBayAYcakre",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakrAte",
+        "SoBayAmAsatuH",
+        "SoBayAmbaBUvatuH",
+        "SoBayAYcakrire",
+        "SoBayAmAsuH",
+        "SoBayAmbaBUvuH",
+        "SoBayAYcakfze",
+        "SoBayAmAsiTa",
+        "SoBayAmbaBUviTa",
+        "SoBayAYcakrATe",
+        "SoBayAmAsaTuH",
+        "SoBayAmbaBUvaTuH",
+        "SoBayAYcakfQve",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakre",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakfvahe",
+        "SoBayAmAsiva",
+        "SoBayAmbaBUviva",
+        "SoBayAYcakfmahe",
+        "SoBayAmAsima",
+        "SoBayAmbaBUvima"
+      ],
+      "alot": [
+        "SoBayatAm",
+        "SoBayetAm",
+        "SoBayantAm",
+        "SoBayasva",
+        "SoBayeTAm",
+        "SoBayaDvam",
+        "SoBayE",
+        "SoBayAvahE",
+        "SoBayAmahE"
+      ],
+      "alrung": [
+        "aSoBayizyata",
+        "aSoBayizyetAm",
+        "aSoBayizyanta",
+        "aSoBayizyaTAH",
+        "aSoBayizyeTAm",
+        "aSoBayizyaDvam",
+        "aSoBayizye",
+        "aSoBayizyAvahi",
+        "aSoBayizyAmahi"
+      ],
+      "alrut": [
+        "SoBayizyate",
+        "SoBayizyete",
+        "SoBayizyante",
+        "SoBayizyase",
+        "SoBayizyeTe",
+        "SoBayizyaDve",
+        "SoBayizye",
+        "SoBayizyAvahe",
+        "SoBayizyAmahe"
+      ],
+      "alung": [
+        "aSUSuBata",
+        "aSUSuBetAm",
+        "aSUSuBanta",
+        "aSUSuBaTAH",
+        "aSUSuBeTAm",
+        "aSUSuBaDvam",
+        "aSUSuBe",
+        "aSUSuBAvahi",
+        "aSUSuBAmahi"
+      ],
+      "alut": [
+        "SoBayitA",
+        "SoBayitArO",
+        "SoBayitAraH",
+        "SoBayitAse",
+        "SoBayitAsATe",
+        "SoBayitADve",
+        "SoBayitAhe",
+        "SoBayitAsvahe",
+        "SoBayitAsmahe"
+      ],
+      "avidhiling": [
+        "SoBayeta",
+        "SoBayeyAtAm",
+        "SoBayeran",
+        "SoBayeTAH",
+        "SoBayeyATAm",
+        "SoBayeDvam",
+        "SoBayeya",
+        "SoBayevahi",
+        "SoBayemahi"
+      ],
+      "pashirling": [
+        "SoByAt",
+        "SoByAd",
+        "SoByAstAm",
+        "SoByAsuH",
+        "SoByAH",
+        "SoByAstam",
+        "SoByAsta",
+        "SoByAsam",
+        "SoByAsva",
+        "SoByAsma"
+      ],
+      "plang": [
+        "aSoBayat",
+        "aSoBayad",
+        "aSoBayatAm",
+        "aSoBayan",
+        "aSoBayaH",
+        "aSoBayatam",
+        "aSoBayata",
+        "aSoBayam",
+        "aSoBayAva",
+        "aSoBayAma"
+      ],
+      "plat": [
+        "SoBayati",
+        "SoBayataH",
+        "SoBayanti",
+        "SoBayasi",
+        "SoBayaTaH",
+        "SoBayaTa",
+        "SoBayAmi",
+        "SoBayAvaH",
+        "SoBayAmaH"
+      ],
+      "plit": [
+        "SoBayAYcakAra",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakratuH",
+        "SoBayAmAsatuH",
+        "SoBayAmbaBUvatuH",
+        "SoBayAYcakruH",
+        "SoBayAmAsuH",
+        "SoBayAmbaBUvuH",
+        "SoBayAYcakarTa",
+        "SoBayAmAsiTa",
+        "SoBayAmbaBUviTa",
+        "SoBayAYcakraTuH",
+        "SoBayAmAsaTuH",
+        "SoBayAmbaBUvaTuH",
+        "SoBayAYcakra",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakara",
+        "SoBayAYcakAra",
+        "SoBayAmAsa",
+        "SoBayAmbaBUva",
+        "SoBayAYcakfva",
+        "SoBayAmAsiva",
+        "SoBayAmbaBUviva",
+        "SoBayAYcakfma",
+        "SoBayAmAsima",
+        "SoBayAmbaBUvima"
+      ],
+      "plot": [
+        "SoBayatAt",
+        "SoBayatAd",
+        "SoBayatu",
+        "SoBayatAm",
+        "SoBayantu",
+        "SoBaya",
+        "SoBayatAt",
+        "SoBayatAd",
+        "SoBayatam",
+        "SoBayata",
+        "SoBayAni",
+        "SoBayAva",
+        "SoBayAma"
+      ],
+      "plrung": [
+        "aSoBayizyat",
+        "aSoBayizyad",
+        "aSoBayizyatAm",
+        "aSoBayizyan",
+        "aSoBayizyaH",
+        "aSoBayizyatam",
+        "aSoBayizyata",
+        "aSoBayizyam",
+        "aSoBayizyAva",
+        "aSoBayizyAma"
+      ],
+      "plrut": [
+        "SoBayizyati",
+        "SoBayizyataH",
+        "SoBayizyanti",
+        "SoBayizyasi",
+        "SoBayizyaTaH",
+        "SoBayizyaTa",
+        "SoBayizyAmi",
+        "SoBayizyAvaH",
+        "SoBayizyAmaH"
+      ],
+      "plung": [
+        "aSUSuBat",
+        "aSUSuBad",
+        "aSUSuBatAm",
+        "aSUSuBan",
+        "aSUSuBaH",
+        "aSUSuBatam",
+        "aSUSuBata",
+        "aSUSuBam",
+        "aSUSuBAva",
+        "aSUSuBAma"
+      ],
+      "plut": [
+        "SoBayitA",
+        "SoBayitArO",
+        "SoBayitAraH",
+        "SoBayitAsi",
+        "SoBayitAsTaH",
+        "SoBayitAsTa",
+        "SoBayitAsmi",
+        "SoBayitAsvaH",
+        "SoBayitAsmaH"
+      ],
+      "pvidhiling": [
+        "SoBayet",
+        "SoBayed",
+        "SoBayetAm",
+        "SoBayeyuH",
+        "SoBayeH",
+        "SoBayetam",
+        "SoBayeta",
+        "SoBayeyam",
+        "SoBayeva",
+        "SoBayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "SoBayizIzwa",
+        "SoBizIzwa",
+        "SoBayizIyAstAm",
+        "SoBizIyAstAm",
+        "SoBayizIran",
+        "SoBizIran",
+        "SoBayizIzWAH",
+        "SoBizIzWAH",
+        "SoBayizIyAsTAm",
+        "SoBizIyAsTAm",
+        "SoBayizIQvam",
+        "SoBayizIDvam",
+        "SoBizIDvam",
+        "SoBayizIya",
+        "SoBizIya",
+        "SoBayizIvahi",
+        "SoBizIvahi",
+        "SoBayizImahi",
+        "SoBizImahi"
+      ],
+      "alang": [
+        "aSoByata",
+        "aSoByetAm",
+        "aSoByanta",
+        "aSoByaTAH",
+        "aSoByeTAm",
+        "aSoByaDvam",
+        "aSoBye",
+        "aSoByAvahi",
+        "aSoByAmahi"
+      ],
+      "alat": [
+        "SoByate",
+        "SoByete",
+        "SoByante",
+        "SoByase",
+        "SoByeTe",
+        "SoByaDve",
+        "SoBye",
+        "SoByAvahe",
+        "SoByAmahe"
+      ],
+      "alit": [
+        "SoBayAYcakre",
+        "SoBayAmAse",
+        "SoBayAmbaBUve",
+        "SoBayAYcakrAte",
+        "SoBayAmAsAte",
+        "SoBayAmbaBUvAte",
+        "SoBayAYcakrire",
+        "SoBayAmAsire",
+        "SoBayAmbaBUvire",
+        "SoBayAYcakfze",
+        "SoBayAmAsize",
+        "SoBayAmbaBUvize",
+        "SoBayAYcakrATe",
+        "SoBayAmAsATe",
+        "SoBayAmbaBUvATe",
+        "SoBayAYcakfQve",
+        "SoBayAmAsiDve",
+        "SoBayAmbaBUviQve",
+        "SoBayAYcakre",
+        "SoBayAmAhe",
+        "SoBayAmbaBUve",
+        "SoBayAYcakfvahe",
+        "SoBayAmAsivahe",
+        "SoBayAmbaBUvivahe",
+        "SoBayAYcakfmahe",
+        "SoBayAmAsimahe",
+        "SoBayAmbaBUvimahe"
+      ],
+      "alot": [
+        "SoByatAm",
+        "SoByetAm",
+        "SoByantAm",
+        "SoByasva",
+        "SoByeTAm",
+        "SoByaDvam",
+        "SoByE",
+        "SoByAvahE",
+        "SoByAmahE"
+      ],
+      "alrung": [
+        "aSoBayizyata",
+        "aSoBizyata",
+        "aSoBayizyetAm",
+        "aSoBizyetAm",
+        "aSoBayizyanta",
+        "aSoBizyanta",
+        "aSoBayizyaTAH",
+        "aSoBizyaTAH",
+        "aSoBayizyeTAm",
+        "aSoBizyeTAm",
+        "aSoBayizyaDvam",
+        "aSoBizyaDvam",
+        "aSoBayizye",
+        "aSoBizye",
+        "aSoBayizyAvahi",
+        "aSoBizyAvahi",
+        "aSoBayizyAmahi",
+        "aSoBizyAmahi"
+      ],
+      "alrut": [
+        "SoBayizyate",
+        "SoBizyate",
+        "SoBayizyete",
+        "SoBizyete",
+        "SoBayizyante",
+        "SoBizyante",
+        "SoBayizyase",
+        "SoBizyase",
+        "SoBayizyeTe",
+        "SoBizyeTe",
+        "SoBayizyaDve",
+        "SoBizyaDve",
+        "SoBayizye",
+        "SoBizye",
+        "SoBayizyAvahe",
+        "SoBizyAvahe",
+        "SoBayizyAmahe",
+        "SoBizyAmahe"
+      ],
+      "alung": [
+        "aSoBi",
+        "aSoBayizAtAm",
+        "aSoBizAtAm",
+        "aSoBayizata",
+        "aSoBizata",
+        "aSoBayizWAH",
+        "aSoBizWAH",
+        "aSoBayizATAm",
+        "aSoBizATAm",
+        "aSoBayiQvam",
+        "aSoBayiDvam",
+        "aSoBiDvam",
+        "aSoBayizi",
+        "aSoBizi",
+        "aSoBayizvahi",
+        "aSoBizvahi",
+        "aSoBayizmahi",
+        "aSoBizmahi"
+      ],
+      "alut": [
+        "SoBayitA",
+        "SoBitA",
+        "SoBayitArO",
+        "SoBitArO",
+        "SoBayitAraH",
+        "SoBitAraH",
+        "SoBayitAse",
+        "SoBitAse",
+        "SoBayitAsATe",
+        "SoBitAsATe",
+        "SoBayitADve",
+        "SoBitADve",
+        "SoBayitAhe",
+        "SoBitAhe",
+        "SoBayitAsvahe",
+        "SoBitAsvahe",
+        "SoBayitAsmahe",
+        "SoBitAsmahe"
+      ],
+      "avidhiling": [
+        "SoByeta",
+        "SoByeyAtAm",
+        "SoByeran",
+        "SoByeTAH",
+        "SoByeyATAm",
+        "SoByeDvam",
+        "SoByeya",
+        "SoByevahi",
+        "SoByemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "SoSuBizIzwa",
+        "SoSuBizIyAstAm",
+        "SoSuBizIran",
+        "SoSuBizIzWAH",
+        "SoSuBizIyAsTAm",
+        "SoSuBizIDvam",
+        "SoSuBizIya",
+        "SoSuBizIvahi",
+        "SoSuBizImahi"
+      ],
+      "alang": [
+        "aSoSuByata",
+        "aSoSuByetAm",
+        "aSoSuByanta",
+        "aSoSuByaTAH",
+        "aSoSuByeTAm",
+        "aSoSuByaDvam",
+        "aSoSuBye",
+        "aSoSuByAvahi",
+        "aSoSuByAmahi"
+      ],
+      "alat": [
+        "SoSuByate",
+        "SoSuByete",
+        "SoSuByante",
+        "SoSuByase",
+        "SoSuByeTe",
+        "SoSuByaDve",
+        "SoSuBye",
+        "SoSuByAvahe",
+        "SoSuByAmahe"
+      ],
+      "alit": [
+        "SoSuBAYcakre",
+        "SoSuBAmAsa",
+        "SoSuBAmbaBUva",
+        "SoSuBAYcakrAte",
+        "SoSuBAmAsatuH",
+        "SoSuBAmbaBUvatuH",
+        "SoSuBAYcakrire",
+        "SoSuBAmAsuH",
+        "SoSuBAmbaBUvuH",
+        "SoSuBAYcakfze",
+        "SoSuBAmAsiTa",
+        "SoSuBAmbaBUviTa",
+        "SoSuBAYcakrATe",
+        "SoSuBAmAsaTuH",
+        "SoSuBAmbaBUvaTuH",
+        "SoSuBAYcakfQve",
+        "SoSuBAmAsa",
+        "SoSuBAmbaBUva",
+        "SoSuBAYcakre",
+        "SoSuBAmAsa",
+        "SoSuBAmbaBUva",
+        "SoSuBAYcakfvahe",
+        "SoSuBAmAsiva",
+        "SoSuBAmbaBUviva",
+        "SoSuBAYcakfmahe",
+        "SoSuBAmAsima",
+        "SoSuBAmbaBUvima"
+      ],
+      "alot": [
+        "SoSuByatAm",
+        "SoSuByetAm",
+        "SoSuByantAm",
+        "SoSuByasva",
+        "SoSuByeTAm",
+        "SoSuByaDvam",
+        "SoSuByE",
+        "SoSuByAvahE",
+        "SoSuByAmahE"
+      ],
+      "alrung": [
+        "aSoSuBizyata",
+        "aSoSuBizyetAm",
+        "aSoSuBizyanta",
+        "aSoSuBizyaTAH",
+        "aSoSuBizyeTAm",
+        "aSoSuBizyaDvam",
+        "aSoSuBizye",
+        "aSoSuBizyAvahi",
+        "aSoSuBizyAmahi"
+      ],
+      "alrut": [
+        "SoSuBizyate",
+        "SoSuBizyete",
+        "SoSuBizyante",
+        "SoSuBizyase",
+        "SoSuBizyeTe",
+        "SoSuBizyaDve",
+        "SoSuBizye",
+        "SoSuBizyAvahe",
+        "SoSuBizyAmahe"
+      ],
+      "alung": [
+        "aSoSuBizwa",
+        "aSoSuBizAtAm",
+        "aSoSuBizata",
+        "aSoSuBizWAH",
+        "aSoSuBizATAm",
+        "aSoSuBiDvam",
+        "aSoSuBizi",
+        "aSoSuBizvahi",
+        "aSoSuBizmahi"
+      ],
+      "alut": [
+        "SoSuBitA",
+        "SoSuBitArO",
+        "SoSuBitAraH",
+        "SoSuBitAse",
+        "SoSuBitAsATe",
+        "SoSuBitADve",
+        "SoSuBitAhe",
+        "SoSuBitAsvahe",
+        "SoSuBitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSuByeta",
+        "SoSuByeyAtAm",
+        "SoSuByeran",
+        "SoSuByeTAH",
+        "SoSuByeyATAm",
+        "SoSuByeDvam",
+        "SoSuByeya",
+        "SoSuByevahi",
+        "SoSuByemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "SoSuBizIzwa",
+        "SoSuBizIyAstAm",
+        "SoSuBizIran",
+        "SoSuBizIzWAH",
+        "SoSuBizIyAsTAm",
+        "SoSuBizIDvam",
+        "SoSuBizIya",
+        "SoSuBizIvahi",
+        "SoSuBizImahi"
+      ],
+      "alang": [
+        "aSoSuByata",
+        "aSoSuByetAm",
+        "aSoSuByanta",
+        "aSoSuByaTAH",
+        "aSoSuByeTAm",
+        "aSoSuByaDvam",
+        "aSoSuBye",
+        "aSoSuByAvahi",
+        "aSoSuByAmahi"
+      ],
+      "alat": [
+        "SoSuByate",
+        "SoSuByete",
+        "SoSuByante",
+        "SoSuByase",
+        "SoSuByeTe",
+        "SoSuByaDve",
+        "SoSuBye",
+        "SoSuByAvahe",
+        "SoSuByAmahe"
+      ],
+      "alit": [
+        "SoSuBAYcakre",
+        "SoSuBAmAse",
+        "SoSuBAmbaBUve",
+        "SoSuBAYcakrAte",
+        "SoSuBAmAsAte",
+        "SoSuBAmbaBUvAte",
+        "SoSuBAYcakrire",
+        "SoSuBAmAsire",
+        "SoSuBAmbaBUvire",
+        "SoSuBAYcakfze",
+        "SoSuBAmAsize",
+        "SoSuBAmbaBUvize",
+        "SoSuBAYcakrATe",
+        "SoSuBAmAsATe",
+        "SoSuBAmbaBUvATe",
+        "SoSuBAYcakfQve",
+        "SoSuBAmAsiDve",
+        "SoSuBAmbaBUviQve",
+        "SoSuBAYcakre",
+        "SoSuBAmAhe",
+        "SoSuBAmbaBUve",
+        "SoSuBAYcakfvahe",
+        "SoSuBAmAsivahe",
+        "SoSuBAmbaBUvivahe",
+        "SoSuBAYcakfmahe",
+        "SoSuBAmAsimahe",
+        "SoSuBAmbaBUvimahe"
+      ],
+      "alot": [
+        "SoSuByatAm",
+        "SoSuByetAm",
+        "SoSuByantAm",
+        "SoSuByasva",
+        "SoSuByeTAm",
+        "SoSuByaDvam",
+        "SoSuByE",
+        "SoSuByAvahE",
+        "SoSuByAmahE"
+      ],
+      "alrung": [
+        "aSoSuBizyata",
+        "aSoSuBizyetAm",
+        "aSoSuBizyanta",
+        "aSoSuBizyaTAH",
+        "aSoSuBizyeTAm",
+        "aSoSuBizyaDvam",
+        "aSoSuBizye",
+        "aSoSuBizyAvahi",
+        "aSoSuBizyAmahi"
+      ],
+      "alrut": [
+        "SoSuBizyate",
+        "SoSuBizyete",
+        "SoSuBizyante",
+        "SoSuBizyase",
+        "SoSuBizyeTe",
+        "SoSuBizyaDve",
+        "SoSuBizye",
+        "SoSuBizyAvahe",
+        "SoSuBizyAmahe"
+      ],
+      "alung": [
+        "aSoSuBi",
+        "aSoSuBizAtAm",
+        "aSoSuBizata",
+        "aSoSuBizWAH",
+        "aSoSuBizATAm",
+        "aSoSuBiDvam",
+        "aSoSuBizi",
+        "aSoSuBizvahi",
+        "aSoSuBizmahi"
+      ],
+      "alut": [
+        "SoSuBitA",
+        "SoSuBitArO",
+        "SoSuBitAraH",
+        "SoSuBitAse",
+        "SoSuBitAsATe",
+        "SoSuBitADve",
+        "SoSuBitAhe",
+        "SoSuBitAsvahe",
+        "SoSuBitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSuByeta",
+        "SoSuByeyAtAm",
+        "SoSuByeran",
+        "SoSuByeTAH",
+        "SoSuByeyATAm",
+        "SoSuByeDvam",
+        "SoSuByeya",
+        "SoSuByevahi",
+        "SoSuByemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "SoSuByAt",
+        "SoSuByAd",
+        "SoSuByAstAm",
+        "SoSuByAsuH",
+        "SoSuByAH",
+        "SoSuByAstam",
+        "SoSuByAsta",
+        "SoSuByAsam",
+        "SoSuByAsva",
+        "SoSuByAsma"
+      ],
+      "plang": [
+        "aSoSuBIt",
+        "aSoSuBId",
+        "aSoSop",
+        "aSoSob",
+        "aSoSubDAm",
+        "aSoSuBuH",
+        "aSoSuBIH",
+        "aSoSop",
+        "aSoSob",
+        "aSoSubDam",
+        "aSoSubDa",
+        "aSoSuBam",
+        "aSoSuBva",
+        "aSoSuBma"
+      ],
+      "plat": [
+        "SoSuBIti",
+        "SoSobDi",
+        "SoSubDaH",
+        "SoSuBati",
+        "SoSuBIzi",
+        "SoSopsi",
+        "SoSubDaH",
+        "SoSubDa",
+        "SoSuBImi",
+        "SoSoBmi",
+        "SoSuBvaH",
+        "SoSuBmaH"
+      ],
+      "plit": [
+        "SoSoBAYcakAra",
+        "SoSoBAmAsa",
+        "SoSoBAmbaBUva",
+        "SoSoBAYcakratuH",
+        "SoSoBAmAsatuH",
+        "SoSoBAmbaBUvatuH",
+        "SoSoBAYcakruH",
+        "SoSoBAmAsuH",
+        "SoSoBAmbaBUvuH",
+        "SoSoBAYcakarTa",
+        "SoSoBAmAsiTa",
+        "SoSoBAmbaBUviTa",
+        "SoSoBAYcakraTuH",
+        "SoSoBAmAsaTuH",
+        "SoSoBAmbaBUvaTuH",
+        "SoSoBAYcakra",
+        "SoSoBAmAsa",
+        "SoSoBAmbaBUva",
+        "SoSoBAYcakara",
+        "SoSoBAYcakAra",
+        "SoSoBAmAsa",
+        "SoSoBAmbaBUva",
+        "SoSoBAYcakfva",
+        "SoSoBAmAsiva",
+        "SoSoBAmbaBUviva",
+        "SoSoBAYcakfma",
+        "SoSoBAmAsima",
+        "SoSoBAmbaBUvima"
+      ],
+      "plot": [
+        "SoSubDAt",
+        "SoSubDAd",
+        "SoSuBItu",
+        "SoSobDu",
+        "SoSubDAm",
+        "SoSuBatu",
+        "SoSubDAt",
+        "SoSubDAd",
+        "SoSubDi",
+        "SoSubDam",
+        "SoSubDa",
+        "SoSuBAni",
+        "SoSuBAva",
+        "SoSuBAma"
+      ],
+      "plrung": [
+        "aSoSoBizyat",
+        "aSoSoBizyad",
+        "aSoSoBizyatAm",
+        "aSoSoBizyan",
+        "aSoSoBizyaH",
+        "aSoSoBizyatam",
+        "aSoSoBizyata",
+        "aSoSoBizyam",
+        "aSoSoBizyAva",
+        "aSoSoBizyAma"
+      ],
+      "plrut": [
+        "SoSoBizyati",
+        "SoSoBizyataH",
+        "SoSoBizyanti",
+        "SoSoBizyasi",
+        "SoSoBizyaTaH",
+        "SoSoBizyaTa",
+        "SoSoBizyAmi",
+        "SoSoBizyAvaH",
+        "SoSoBizyAmaH"
+      ],
+      "plung": [
+        "aSoSoBIt",
+        "aSoSoBId",
+        "aSoSoBizwAm",
+        "aSoSoBizuH",
+        "aSoSoBIH",
+        "aSoSoBizwam",
+        "aSoSoBizwa",
+        "aSoSoBizam",
+        "aSoSoBizva",
+        "aSoSoBizma"
+      ],
+      "plut": [
+        "SoSoBitA",
+        "SoSoBitArO",
+        "SoSoBitAraH",
+        "SoSoBitAsi",
+        "SoSoBitAsTaH",
+        "SoSoBitAsTa",
+        "SoSoBitAsmi",
+        "SoSoBitAsvaH",
+        "SoSoBitAsmaH"
+      ],
+      "pvidhiling": [
+        "SoSuByAt",
+        "SoSuByAd",
+        "SoSuByAtAm",
+        "SoSuByuH",
+        "SoSuByAH",
+        "SoSuByAtam",
+        "SoSuByAta",
+        "SoSuByAm",
+        "SoSuByAva",
+        "SoSuByAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "SoSoBizIzwa",
+        "SoSoBizIyAstAm",
+        "SoSoBizIran",
+        "SoSoBizIzWAH",
+        "SoSoBizIyAsTAm",
+        "SoSoBizIDvam",
+        "SoSoBizIya",
+        "SoSoBizIvahi",
+        "SoSoBizImahi"
+      ],
+      "alang": [
+        "aSoSuByata",
+        "aSoSuByetAm",
+        "aSoSuByanta",
+        "aSoSuByaTAH",
+        "aSoSuByeTAm",
+        "aSoSuByaDvam",
+        "aSoSuBye",
+        "aSoSuByAvahi",
+        "aSoSuByAmahi"
+      ],
+      "alat": [
+        "SoSuByate",
+        "SoSuByete",
+        "SoSuByante",
+        "SoSuByase",
+        "SoSuByeTe",
+        "SoSuByaDve",
+        "SoSuBye",
+        "SoSuByAvahe",
+        "SoSuByAmahe"
+      ],
+      "alit": [
+        "SoSoBAYcakre",
+        "SoSoBAmAse",
+        "SoSoBAmbaBUve",
+        "SoSoBAYcakrAte",
+        "SoSoBAmAsAte",
+        "SoSoBAmbaBUvAte",
+        "SoSoBAYcakrire",
+        "SoSoBAmAsire",
+        "SoSoBAmbaBUvire",
+        "SoSoBAYcakfze",
+        "SoSoBAmAsize",
+        "SoSoBAmbaBUvize",
+        "SoSoBAYcakrATe",
+        "SoSoBAmAsATe",
+        "SoSoBAmbaBUvATe",
+        "SoSoBAYcakfQve",
+        "SoSoBAmAsiDve",
+        "SoSoBAmbaBUviQve",
+        "SoSoBAYcakre",
+        "SoSoBAmAhe",
+        "SoSoBAmbaBUve",
+        "SoSoBAYcakfvahe",
+        "SoSoBAmAsivahe",
+        "SoSoBAmbaBUvivahe",
+        "SoSoBAYcakfmahe",
+        "SoSoBAmAsimahe",
+        "SoSoBAmbaBUvimahe"
+      ],
+      "alot": [
+        "SoSuByatAm",
+        "SoSuByetAm",
+        "SoSuByantAm",
+        "SoSuByasva",
+        "SoSuByeTAm",
+        "SoSuByaDvam",
+        "SoSuByE",
+        "SoSuByAvahE",
+        "SoSuByAmahE"
+      ],
+      "alrung": [
+        "aSoSoBizyata",
+        "aSoSoBizyetAm",
+        "aSoSoBizyanta",
+        "aSoSoBizyaTAH",
+        "aSoSoBizyeTAm",
+        "aSoSoBizyaDvam",
+        "aSoSoBizye",
+        "aSoSoBizyAvahi",
+        "aSoSoBizyAmahi"
+      ],
+      "alrut": [
+        "SoSoBizyate",
+        "SoSoBizyete",
+        "SoSoBizyante",
+        "SoSoBizyase",
+        "SoSoBizyeTe",
+        "SoSoBizyaDve",
+        "SoSoBizye",
+        "SoSoBizyAvahe",
+        "SoSoBizyAmahe"
+      ],
+      "alung": [
+        "aSoSoBi",
+        "aSoSoBizAtAm",
+        "aSoSoBizata",
+        "aSoSoBizWAH",
+        "aSoSoBizATAm",
+        "aSoSoBiDvam",
+        "aSoSoBizi",
+        "aSoSoBizvahi",
+        "aSoSoBizmahi"
+      ],
+      "alut": [
+        "SoSoBitA",
+        "SoSoBitArO",
+        "SoSoBitAraH",
+        "SoSoBitAse",
+        "SoSoBitAsATe",
+        "SoSoBitADve",
+        "SoSoBitAhe",
+        "SoSoBitAsvahe",
+        "SoSoBitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSuByeta",
+        "SoSuByeyAtAm",
+        "SoSuByeran",
+        "SoSuByeTAH",
+        "SoSuByeyATAm",
+        "SoSuByeDvam",
+        "SoSuByeya",
+        "SoSuByevahi",
+        "SoSuByemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "SoBanIya",
+          "m": "SoBanIyaH",
+          "f": "SoBanIyA",
+          "n": "SoBanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SuBita",
+          "m": "SuBitaH",
+          "f": "SuBitA",
+          "n": "SuBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SuBitavat",
+          "m": "SuBitavAn",
+          "f": "SuBitavatI",
+          "n": "SuBitavat/SuBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SubDi",
+          "m": "",
+          "f": "SubDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SuBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "SoBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SuSuBvas",
+          "m": "SuSuBvAn",
+          "f": "SuSuBuzI",
+          "n": "SuSuBvat/SuSuBvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SoBa",
+          "m": "SoBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoBamAna",
+          "m": "SoBamAnaH",
+          "f": "SoBamAnA",
+          "n": "SoBamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "SoBya",
+          "m": "SoByaH",
+          "f": "SoByA",
+          "n": "SoByam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoBaka",
+          "m": "SoBakaH",
+          "f": "SoBikA",
+          "n": "SoBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoBitavya",
+          "m": "SoBitavyaH",
+          "f": "SoBitavyA",
+          "n": "SoBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoBitf",
+          "m": "SoBitA",
+          "f": "SoBitrI",
+          "n": "SoBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SuByamAna",
+          "m": "SuByamAnaH",
+          "f": "SuByamAnA",
+          "n": "SuByamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSuBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoBana",
+          "m": "",
+          "f": "",
+          "n": "SoBanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoBaka",
+          "m": "SoBakaH",
+          "f": "SoBikA",
+          "n": "SoBakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SoBat",
+          "m": "SoBan",
+          "f": "SoBantI",
+          "n": "SoBat/SoBad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoBizyamARa",
+          "m": "SoBizyamARaH",
+          "f": "SoBizyamARA",
+          "n": "SoBizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SoBizyat",
+          "m": "SoBizyan",
+          "f": "SoBizyatI/SoBizyantI",
+          "n": "SoBizyat/SoBizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "SuSuBizA",
+          "m": "",
+          "f": "SuSuBizA",
+          "n": ""
+        },
+        {
+          "base": "SuSoBizA",
+          "m": "",
+          "f": "SuSoBizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SuSuBiza",
+          "m": "SuSuBizaH",
+          "f": "SuSuBizA",
+          "n": "SuSuBizam"
+        },
+        {
+          "base": "SuSoBiza",
+          "m": "SuSoBizaH",
+          "f": "SuSoBizA",
+          "n": "SuSoBizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SuSuBizaRIya",
+          "m": "SuSuBizaRIyaH",
+          "f": "SuSuBizaRIyA",
+          "n": "SuSuBizaRIyam"
+        },
+        {
+          "base": "SuSoBizaRIya",
+          "m": "SuSoBizaRIyaH",
+          "f": "SuSoBizaRIyA",
+          "n": "SuSoBizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "SuSuBizu",
+          "m": "SuSuBizuH",
+          "f": "SuSuBizuH",
+          "n": "SuSuBizu"
+        },
+        {
+          "base": "SuSoBizu",
+          "m": "SuSoBizuH",
+          "f": "SuSoBizuH",
+          "n": "SuSoBizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SuSuBizita",
+          "m": "SuSuBizitaH",
+          "f": "SuSuBizitA",
+          "n": "SuSuBizitam"
+        },
+        {
+          "base": "SuSoBizita",
+          "m": "SuSoBizitaH",
+          "f": "SuSoBizitA",
+          "n": "SuSoBizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SuSuBizitavat",
+          "m": "SuSuBizitavAn",
+          "f": "SuSuBizitavatI",
+          "n": "SuSuBizitavat/SuSuBizitavad"
+        },
+        {
+          "base": "SuSoBizitavat",
+          "m": "SuSoBizitavAn",
+          "f": "SuSoBizitavatI",
+          "n": "SuSoBizitavat/SuSoBizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SuSuBizwi",
+          "m": "",
+          "f": "SuSuBizwiH",
+          "n": ""
+        },
+        {
+          "base": "SuSoBizwi",
+          "m": "",
+          "f": "SuSoBizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SuSuBizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "SuSoBizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SuSuBizAmbaBUvas",
+          "m": "SuSuBizAmbaBUvAn",
+          "f": "SuSuBizAmbaBUzI",
+          "n": "SuSuBizAmbaBUvat/SuSuBizAmbaBUvad"
+        },
+        {
+          "base": "SuSuBizAmAsivas",
+          "m": "SuSuBizAmAsivAn",
+          "f": "SuSuBizAmAsyuzI",
+          "n": "SuSuBizAmAsivat/SuSuBizAmAsivad"
+        },
+        {
+          "base": "SuSuBizAYcakfvas",
+          "m": "SuSuBizAYcakfvAn",
+          "f": "SuSuBizAYcakruzI",
+          "n": "SuSuBizAYcakfvat/SuSuBizAYcakfvad"
+        },
+        {
+          "base": "SuSoBizAmbaBUvas",
+          "m": "SuSoBizAmbaBUvAn",
+          "f": "SuSoBizAmbaBUzI",
+          "n": "SuSoBizAmbaBUvat/SuSoBizAmbaBUvad"
+        },
+        {
+          "base": "SuSoBizAmAsivas",
+          "m": "SuSoBizAmAsivAn",
+          "f": "SuSoBizAmAsyuzI",
+          "n": "SuSoBizAmAsivat/SuSoBizAmAsivad"
+        },
+        {
+          "base": "SuSoBizAYcakfvas",
+          "m": "SuSoBizAYcakfvAn",
+          "f": "SuSoBizAYcakruzI",
+          "n": "SuSoBizAYcakfvat/SuSoBizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SuSuBiza",
+          "m": "SuSuBizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "SuSoBiza",
+          "m": "SuSoBizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SuSuBizamARa",
+          "m": "SuSuBizamARaH",
+          "f": "SuSuBizamARA",
+          "n": "SuSuBizamARam"
+        },
+        {
+          "base": "SuSoBizamARa",
+          "m": "SuSoBizamARaH",
+          "f": "SuSoBizamARA",
+          "n": "SuSoBizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SuSuBizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "SuSoBizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SuSuBizaka",
+          "m": "SuSuBizakaH",
+          "f": "SuSuBizikA",
+          "n": "SuSuBizakam"
+        },
+        {
+          "base": "SuSoBizaka",
+          "m": "SuSoBizakaH",
+          "f": "SuSoBizikA",
+          "n": "SuSoBizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SuSuBizitavya",
+          "m": "SuSuBizitavyaH",
+          "f": "SuSuBizitavyA",
+          "n": "SuSuBizitavyam"
+        },
+        {
+          "base": "SuSoBizitavya",
+          "m": "SuSoBizitavyaH",
+          "f": "SuSoBizitavyA",
+          "n": "SuSoBizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SuSuBizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "SuSoBizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SuSuBizitf",
+          "m": "SuSuBizitA",
+          "f": "SuSuBizitrI",
+          "n": "SuSuBizitf"
+        },
+        {
+          "base": "SuSoBizitf",
+          "m": "SuSoBizitA",
+          "f": "SuSoBizitrI",
+          "n": "SuSoBizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SuSuBizyamARa",
+          "m": "SuSuBizyamARaH",
+          "f": "SuSuBizyamARA",
+          "n": "SuSuBizyamARam"
+        },
+        {
+          "base": "SuSoBizyamARa",
+          "m": "SuSoBizyamARaH",
+          "f": "SuSoBizyamARA",
+          "n": "SuSoBizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SuSuBizya",
+          "m": "SuSuBizyaH",
+          "f": "SuSuBizyA",
+          "n": "SuSuBizyam"
+        },
+        {
+          "base": "SuSoBizya",
+          "m": "SuSoBizyaH",
+          "f": "SuSoBizyA",
+          "n": "SuSoBizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSuSuBizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "praSuSoBizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SuSuBizaRa",
+          "m": "",
+          "f": "",
+          "n": "SuSuBizaRam"
+        },
+        {
+          "base": "SuSoBizaRa",
+          "m": "",
+          "f": "",
+          "n": "SuSoBizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SuSuBizaka",
+          "m": "SuSuBizakaH",
+          "f": "SuSuBizikA",
+          "n": "SuSuBizakam"
+        },
+        {
+          "base": "SuSoBizaka",
+          "m": "SuSoBizakaH",
+          "f": "SuSoBizikA",
+          "n": "SuSoBizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SuSuBizat",
+          "m": "SuSuBizan",
+          "f": "SuSuBizantI",
+          "n": "SuSuBizat/SuSuBizad"
+        },
+        {
+          "base": "SuSoBizat",
+          "m": "SuSoBizan",
+          "f": "SuSoBizantI",
+          "n": "SuSoBizat/SuSoBizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SuSuBizizyamARa",
+          "m": "SuSuBizizyamARaH",
+          "f": "SuSuBizizyamARA",
+          "n": "SuSuBizizyamARam"
+        },
+        {
+          "base": "SuSoBizizyamARa",
+          "m": "SuSoBizizyamARaH",
+          "f": "SuSoBizizyamARA",
+          "n": "SuSoBizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SuSuBizizyat",
+          "m": "SuSuBizizyan",
+          "f": "SuSuBizizyatI/SuSuBizizyantI",
+          "n": "SuSuBizizyat/SuSuBizizyad"
+        },
+        {
+          "base": "SuSoBizizyat",
+          "m": "SuSoBizizyan",
+          "f": "SuSoBizizyatI/SuSoBizizyantI",
+          "n": "SuSoBizizyat/SuSoBizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "SoBa",
+          "m": "SoBaH",
+          "f": "SoBA",
+          "n": "SoBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SoBanIya",
+          "m": "SoBanIyaH",
+          "f": "SoBanIyA",
+          "n": "SoBanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SoBita",
+          "m": "SoBitaH",
+          "f": "SoBitA",
+          "n": "SoBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SoBitavat",
+          "m": "SoBitavAn",
+          "f": "SoBitavatI",
+          "n": "SoBitavat/SoBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SobDi",
+          "m": "",
+          "f": "SobDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SoBayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SoBayAmbaBUvas",
+          "m": "SoBayAmbaBUvAn",
+          "f": "SoBayAmbaBUzI",
+          "n": "SoBayAmbaBUvat/SoBayAmbaBUvad"
+        },
+        {
+          "base": "SoBayAmAsivas",
+          "m": "SoBayAmAsivAn",
+          "f": "SoBayAmAsyuzI",
+          "n": "SoBayAmAsivat/SoBayAmAsivad"
+        },
+        {
+          "base": "SoBayAYcakfvas",
+          "m": "SoBayAYcakfvAn",
+          "f": "SoBayAYcakruzI",
+          "n": "SoBayAYcakfvat/SoBayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoBayamAna",
+          "m": "SoBayamAnaH",
+          "f": "SoBayamAnA",
+          "n": "SoBayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoBaka",
+          "m": "SoBakaH",
+          "f": "SoBikA",
+          "n": "SoBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoBayitavya",
+          "m": "SoBayitavyaH",
+          "f": "SoBayitavyA",
+          "n": "SoBayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoBayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoBayitf",
+          "m": "SoBayitA",
+          "f": "SoBayitrI",
+          "n": "SoBayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SoByamAna",
+          "m": "SoByamAnaH",
+          "f": "SoByamAnA",
+          "n": "SoByamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SoBya",
+          "m": "SoByaH",
+          "f": "SoByA",
+          "n": "SoByam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSoBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoBana",
+          "m": "",
+          "f": "",
+          "n": "SoBanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoBaka",
+          "m": "SoBakaH",
+          "f": "SoBikA",
+          "n": "SoBakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SoBayat",
+          "m": "SoBayan",
+          "f": "SoBayantI",
+          "n": "SoBayat/SoBayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SoBayamAna",
+          "m": "SoBayamAnaH",
+          "f": "SoBayamAnA",
+          "n": "SoBayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoBizyamARa",
+          "m": "SoBizyamARaH",
+          "f": "SoBizyamARA",
+          "n": "SoBizyamARam"
+        },
+        {
+          "base": "SoBayizyamARa",
+          "m": "SoBayizyamARaH",
+          "f": "SoBayizyamARA",
+          "n": "SoBayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SoBayizyat",
+          "m": "SoBayizyan",
+          "f": "SoBayizyatI/SoBayizyantI",
+          "n": "SoBayizyat/SoBayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SoBayizyamARa",
+          "m": "SoBayizyamARaH",
+          "f": "SoBayizyamARA",
+          "n": "SoBayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "SoSuBA",
+          "m": "",
+          "f": "SoSuBA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SoSuBa",
+          "m": "SoSuBaH",
+          "f": "SoSuBA",
+          "n": "SoSuBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SoSuBanIya",
+          "m": "SoSuBanIyaH",
+          "f": "SoSuBanIyA",
+          "n": "SoSuBanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SoSuBita",
+          "m": "SoSuBitaH",
+          "f": "SoSuBitA",
+          "n": "SoSuBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SoSuBitavat",
+          "m": "SoSuBitavAn",
+          "f": "SoSuBitavatI",
+          "n": "SoSuBitavat/SoSuBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SoSubDi",
+          "m": "",
+          "f": "SoSubDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SoSuBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SoSuBAmbaBUvas",
+          "m": "SoSuBAmbaBUvAn",
+          "f": "SoSuBAmbaBUzI",
+          "n": "SoSuBAmbaBUvat/SoSuBAmbaBUvad"
+        },
+        {
+          "base": "SoSuBAmAsivas",
+          "m": "SoSuBAmAsivAn",
+          "f": "SoSuBAmAsyuzI",
+          "n": "SoSuBAmAsivat/SoSuBAmAsivad"
+        },
+        {
+          "base": "SoSuBAYcakfvas",
+          "m": "SoSuBAYcakfvAn",
+          "f": "SoSuBAYcakruzI",
+          "n": "SoSuBAYcakfvat/SoSuBAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SoSuBa",
+          "m": "SoSuBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoSuByamAna",
+          "m": "SoSuByamAnaH",
+          "f": "SoSuByamAnA",
+          "n": "SoSuByamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoSuBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoSuBaka",
+          "m": "SoSuBakaH",
+          "f": "SoSuBikA",
+          "n": "SoSuBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoSuBitavya",
+          "m": "SoSuBitavyaH",
+          "f": "SoSuBitavyA",
+          "n": "SoSuBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoSuBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoSuBitf",
+          "m": "SoSuBitA",
+          "f": "SoSuBitrI",
+          "n": "SoSuBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SoSuByamAna",
+          "m": "SoSuByamAnaH",
+          "f": "SoSuByamAnA",
+          "n": "SoSuByamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SoSuBya",
+          "m": "SoSuByaH",
+          "f": "SoSuByA",
+          "n": "SoSuByam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSoSuBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoSuBana",
+          "m": "",
+          "f": "",
+          "n": "SoSuBanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoSuBaka",
+          "m": "SoSuBakaH",
+          "f": "SoSuBikA",
+          "n": "SoSuBakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SoSuByamAna",
+          "m": "SoSuByamAnaH",
+          "f": "SoSuByamAnA",
+          "n": "SoSuByamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoSuBizyamARa",
+          "m": "SoSuBizyamARaH",
+          "f": "SoSuBizyamARA",
+          "n": "SoSuBizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SoSuBizyamARa",
+          "m": "SoSuBizyamARaH",
+          "f": "SoSuBizyamARA",
+          "n": "SoSuBizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "SoSoBA",
+          "m": "",
+          "f": "SoSoBA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SoSoBa",
+          "m": "SoSoBaH",
+          "f": "SoSoBA",
+          "n": "SoSoBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SoSoBanIya",
+          "m": "SoSoBanIyaH",
+          "f": "SoSoBanIyA",
+          "n": "SoSoBanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SoSuBita",
+          "m": "SoSuBitaH",
+          "f": "SoSuBitA",
+          "n": "SoSuBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SoSuBitavat",
+          "m": "SoSuBitavAn",
+          "f": "SoSuBitavatI",
+          "n": "SoSuBitavat/SoSuBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SoSubDi",
+          "m": "",
+          "f": "SoSubDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SoSoBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SoSoBAmbaBUvas",
+          "m": "SoSoBAmbaBUvAn",
+          "f": "SoSoBAmbaBUzI",
+          "n": "SoSoBAmbaBUvat/SoSoBAmbaBUvad"
+        },
+        {
+          "base": "SoSoBAmAsivas",
+          "m": "SoSoBAmAsivAn",
+          "f": "SoSoBAmAsyuzI",
+          "n": "SoSoBAmAsivat/SoSoBAmAsivad"
+        },
+        {
+          "base": "SoSoBAYcakfvas",
+          "m": "SoSoBAYcakfvAn",
+          "f": "SoSoBAYcakruzI",
+          "n": "SoSoBAYcakfvat/SoSoBAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SoSoBa",
+          "m": "SoSoBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoSuBAna",
+          "m": "SoSuBAnaH",
+          "f": "SoSuBAnA",
+          "n": "SoSuBAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoSoBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoSoBaka",
+          "m": "SoSoBakaH",
+          "f": "SoSoBikA",
+          "n": "SoSoBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoSoBitavya",
+          "m": "SoSoBitavyaH",
+          "f": "SoSoBitavyA",
+          "n": "SoSoBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoSoBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoSoBitf",
+          "m": "SoSoBitA",
+          "f": "SoSoBitrI",
+          "n": "SoSoBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SoSuByamAna",
+          "m": "SoSuByamAnaH",
+          "f": "SoSuByamAnA",
+          "n": "SoSuByamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSoSuBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoSoBana",
+          "m": "",
+          "f": "",
+          "n": "SoSoBanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoSoBaka",
+          "m": "SoSoBakaH",
+          "f": "SoSoBikA",
+          "n": "SoSoBakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SoSuBat",
+          "m": "SoSuBat/SoSuBad",
+          "f": "SoSuBatI",
+          "n": "SoSuBat/SoSuBad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoSoBizyamARa",
+          "m": "SoSoBizyamARaH",
+          "f": "SoSoBizyamARA",
+          "n": "SoSoBizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SoSoBizyat",
+          "m": "SoSoBizyan",
+          "f": "SoSoBizyatI/SoSoBizyantI",
+          "n": "SoSoBizyat/SoSoBizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "SuB",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

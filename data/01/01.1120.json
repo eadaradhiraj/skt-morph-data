@@ -1,0 +1,5178 @@
+{
+  "id": "01.1120",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "trEN"
+    },
+    {
+      "name": "arTaH",
+      "value": "pAlane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to protect, to secure"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "pAlana karanA, rakzA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "965"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "965"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2389",
+      "ext_link": "/sutraani/sk2389?scroll=sutra-commentary-kaumudi-region&highlight=taraENa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "trAsIzwa",
+        "trAsIyAstAm",
+        "trAsIran",
+        "trAsIzWAH",
+        "trAsIyAsTAm",
+        "trAsIDvam",
+        "trAsIya",
+        "trAsIvahi",
+        "trAsImahi"
+      ],
+      "alang": [
+        "atrAyata",
+        "atrAyetAm",
+        "atrAyanta",
+        "atrAyaTAH",
+        "atrAyeTAm",
+        "atrAyaDvam",
+        "atrAye",
+        "atrAyAvahi",
+        "atrAyAmahi"
+      ],
+      "alat": [
+        "trAyate",
+        "trAyete",
+        "trAyante",
+        "trAyase",
+        "trAyeTe",
+        "trAyaDve",
+        "trAye",
+        "trAyAvahe",
+        "trAyAmahe"
+      ],
+      "alit": [
+        "tatre",
+        "tatrAte",
+        "tatrire",
+        "tatrize",
+        "tatrATe",
+        "tatriQve",
+        "tatriDve",
+        "tatre",
+        "tatrivahe",
+        "tatrimahe"
+      ],
+      "alot": [
+        "trAyatAm",
+        "trAyetAm",
+        "trAyantAm",
+        "trAyasva",
+        "trAyeTAm",
+        "trAyaDvam",
+        "trAyE",
+        "trAyAvahE",
+        "trAyAmahE"
+      ],
+      "alrung": [
+        "atrAsyata",
+        "atrAsyetAm",
+        "atrAsyanta",
+        "atrAsyaTAH",
+        "atrAsyeTAm",
+        "atrAsyaDvam",
+        "atrAsye",
+        "atrAsyAvahi",
+        "atrAsyAmahi"
+      ],
+      "alrut": [
+        "trAsyate",
+        "trAsyete",
+        "trAsyante",
+        "trAsyase",
+        "trAsyeTe",
+        "trAsyaDve",
+        "trAsye",
+        "trAsyAvahe",
+        "trAsyAmahe"
+      ],
+      "alung": [
+        "atrAsta",
+        "atrAsAtAm",
+        "atrAsata",
+        "atrAsTAH",
+        "atrAsATAm",
+        "atrADvam",
+        "atrAsi",
+        "atrAsvahi",
+        "atrAsmahi"
+      ],
+      "alut": [
+        "trAtA",
+        "trAtArO",
+        "trAtAraH",
+        "trAtAse",
+        "trAtAsATe",
+        "trAtADve",
+        "trAtAhe",
+        "trAtAsvahe",
+        "trAtAsmahe"
+      ],
+      "avidhiling": [
+        "trAyeta",
+        "trAyeyAtAm",
+        "trAyeran",
+        "trAyeTAH",
+        "trAyeyATAm",
+        "trAyeDvam",
+        "trAyeya",
+        "trAyevahi",
+        "trAyemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "trAyizIzwa",
+        "trAsIzwa",
+        "trAyizIyAstAm",
+        "trAsIyAstAm",
+        "trAyizIran",
+        "trAsIran",
+        "trAyizIzWAH",
+        "trAsIzWAH",
+        "trAyizIyAsTAm",
+        "trAsIyAsTAm",
+        "trAyizIDvam",
+        "trAsIDvam",
+        "trAyizIya",
+        "trAsIya",
+        "trAyizIvahi",
+        "trAsIvahi",
+        "trAyizImahi",
+        "trAsImahi"
+      ],
+      "alang": [
+        "atrAyata",
+        "atrAyetAm",
+        "atrAyanta",
+        "atrAyaTAH",
+        "atrAyeTAm",
+        "atrAyaDvam",
+        "atrAye",
+        "atrAyAvahi",
+        "atrAyAmahi"
+      ],
+      "alat": [
+        "trAyate",
+        "trAyete",
+        "trAyante",
+        "trAyase",
+        "trAyeTe",
+        "trAyaDve",
+        "trAye",
+        "trAyAvahe",
+        "trAyAmahe"
+      ],
+      "alit": [
+        "tatre",
+        "tatrAte",
+        "tatrire",
+        "tatrize",
+        "tatrATe",
+        "tatriQve",
+        "tatriDve",
+        "tatre",
+        "tatrivahe",
+        "tatrimahe"
+      ],
+      "alot": [
+        "trAyatAm",
+        "trAyetAm",
+        "trAyantAm",
+        "trAyasva",
+        "trAyeTAm",
+        "trAyaDvam",
+        "trAyE",
+        "trAyAvahE",
+        "trAyAmahE"
+      ],
+      "alrung": [
+        "atrAyizyata",
+        "atrAsyata",
+        "atrAyizyetAm",
+        "atrAsyetAm",
+        "atrAyizyanta",
+        "atrAsyanta",
+        "atrAyizyaTAH",
+        "atrAsyaTAH",
+        "atrAyizyeTAm",
+        "atrAsyeTAm",
+        "atrAyizyaDvam",
+        "atrAsyaDvam",
+        "atrAyizye",
+        "atrAsye",
+        "atrAyizyAvahi",
+        "atrAsyAvahi",
+        "atrAyizyAmahi",
+        "atrAsyAmahi"
+      ],
+      "alrut": [
+        "trAyizyate",
+        "trAsyate",
+        "trAyizyete",
+        "trAsyete",
+        "trAyizyante",
+        "trAsyante",
+        "trAyizyase",
+        "trAsyase",
+        "trAyizyeTe",
+        "trAsyeTe",
+        "trAyizyaDve",
+        "trAsyaDve",
+        "trAyizye",
+        "trAsye",
+        "trAyizyAvahe",
+        "trAsyAvahe",
+        "trAyizyAmahe",
+        "trAsyAmahe"
+      ],
+      "alung": [
+        "atrAyi",
+        "atrAyizAtAm",
+        "atrAsAtAm",
+        "atrAyizata",
+        "atrAsata",
+        "atrAyizWAH",
+        "atrAsTAH",
+        "atrAyizATAm",
+        "atrAsATAm",
+        "atrADvam",
+        "atrAyiDvam",
+        "atrAyizi",
+        "atrAsi",
+        "atrAyizvahi",
+        "atrAsvahi",
+        "atrAyizmahi",
+        "atrAsmahi"
+      ],
+      "alut": [
+        "trAtA",
+        "trAyitA",
+        "trAtArO",
+        "trAyitArO",
+        "trAtAraH",
+        "trAyitAraH",
+        "trAtAse",
+        "trAyitAse",
+        "trAtAsATe",
+        "trAyitAsATe",
+        "trAtADve",
+        "trAyitADve",
+        "trAtAhe",
+        "trAyitAhe",
+        "trAtAsvahe",
+        "trAyitAsvahe",
+        "trAtAsmahe",
+        "trAyitAsmahe"
+      ],
+      "avidhiling": [
+        "trAyeta",
+        "trAyeyAtAm",
+        "trAyeran",
+        "trAyeTAH",
+        "trAyeyATAm",
+        "trAyeDvam",
+        "trAyeya",
+        "trAyevahi",
+        "trAyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "titrAsizIzwa",
+        "titrAsizIyAstAm",
+        "titrAsizIran",
+        "titrAsizIzWAH",
+        "titrAsizIyAsTAm",
+        "titrAsizIDvam",
+        "titrAsizIya",
+        "titrAsizIvahi",
+        "titrAsizImahi"
+      ],
+      "alang": [
+        "atitrAsata",
+        "atitrAsetAm",
+        "atitrAsanta",
+        "atitrAsaTAH",
+        "atitrAseTAm",
+        "atitrAsaDvam",
+        "atitrAse",
+        "atitrAsAvahi",
+        "atitrAsAmahi"
+      ],
+      "alat": [
+        "titrAsate",
+        "titrAsete",
+        "titrAsante",
+        "titrAsase",
+        "titrAseTe",
+        "titrAsaDve",
+        "titrAse",
+        "titrAsAvahe",
+        "titrAsAmahe"
+      ],
+      "alit": [
+        "titrAsAYcakre",
+        "titrAsAmAsa",
+        "titrAsAmbaBUva",
+        "titrAsAYcakrAte",
+        "titrAsAmAsatuH",
+        "titrAsAmbaBUvatuH",
+        "titrAsAYcakrire",
+        "titrAsAmAsuH",
+        "titrAsAmbaBUvuH",
+        "titrAsAYcakfze",
+        "titrAsAmAsiTa",
+        "titrAsAmbaBUviTa",
+        "titrAsAYcakrATe",
+        "titrAsAmAsaTuH",
+        "titrAsAmbaBUvaTuH",
+        "titrAsAYcakfQve",
+        "titrAsAmAsa",
+        "titrAsAmbaBUva",
+        "titrAsAYcakre",
+        "titrAsAmAsa",
+        "titrAsAmbaBUva",
+        "titrAsAYcakfvahe",
+        "titrAsAmAsiva",
+        "titrAsAmbaBUviva",
+        "titrAsAYcakfmahe",
+        "titrAsAmAsima",
+        "titrAsAmbaBUvima"
+      ],
+      "alot": [
+        "titrAsatAm",
+        "titrAsetAm",
+        "titrAsantAm",
+        "titrAsasva",
+        "titrAseTAm",
+        "titrAsaDvam",
+        "titrAsE",
+        "titrAsAvahE",
+        "titrAsAmahE"
+      ],
+      "alrung": [
+        "atitrAsizyata",
+        "atitrAsizyetAm",
+        "atitrAsizyanta",
+        "atitrAsizyaTAH",
+        "atitrAsizyeTAm",
+        "atitrAsizyaDvam",
+        "atitrAsizye",
+        "atitrAsizyAvahi",
+        "atitrAsizyAmahi"
+      ],
+      "alrut": [
+        "titrAsizyate",
+        "titrAsizyete",
+        "titrAsizyante",
+        "titrAsizyase",
+        "titrAsizyeTe",
+        "titrAsizyaDve",
+        "titrAsizye",
+        "titrAsizyAvahe",
+        "titrAsizyAmahe"
+      ],
+      "alung": [
+        "atitrAsizwa",
+        "atitrAsizAtAm",
+        "atitrAsizata",
+        "atitrAsizWAH",
+        "atitrAsizATAm",
+        "atitrAsiDvam",
+        "atitrAsizi",
+        "atitrAsizvahi",
+        "atitrAsizmahi"
+      ],
+      "alut": [
+        "titrAsitA",
+        "titrAsitArO",
+        "titrAsitAraH",
+        "titrAsitAse",
+        "titrAsitAsATe",
+        "titrAsitADve",
+        "titrAsitAhe",
+        "titrAsitAsvahe",
+        "titrAsitAsmahe"
+      ],
+      "avidhiling": [
+        "titrAseta",
+        "titrAseyAtAm",
+        "titrAseran",
+        "titrAseTAH",
+        "titrAseyATAm",
+        "titrAseDvam",
+        "titrAseya",
+        "titrAsevahi",
+        "titrAsemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "titrAsizIzwa",
+        "titrAsizIyAstAm",
+        "titrAsizIran",
+        "titrAsizIzWAH",
+        "titrAsizIyAsTAm",
+        "titrAsizIDvam",
+        "titrAsizIya",
+        "titrAsizIvahi",
+        "titrAsizImahi"
+      ],
+      "alang": [
+        "atitrAsyata",
+        "atitrAsyetAm",
+        "atitrAsyanta",
+        "atitrAsyaTAH",
+        "atitrAsyeTAm",
+        "atitrAsyaDvam",
+        "atitrAsye",
+        "atitrAsyAvahi",
+        "atitrAsyAmahi"
+      ],
+      "alat": [
+        "titrAsyate",
+        "titrAsyete",
+        "titrAsyante",
+        "titrAsyase",
+        "titrAsyeTe",
+        "titrAsyaDve",
+        "titrAsye",
+        "titrAsyAvahe",
+        "titrAsyAmahe"
+      ],
+      "alit": [
+        "titrAsAYcakre",
+        "titrAsAmAse",
+        "titrAsAmbaBUve",
+        "titrAsAYcakrAte",
+        "titrAsAmAsAte",
+        "titrAsAmbaBUvAte",
+        "titrAsAYcakrire",
+        "titrAsAmAsire",
+        "titrAsAmbaBUvire",
+        "titrAsAYcakfze",
+        "titrAsAmAsize",
+        "titrAsAmbaBUvize",
+        "titrAsAYcakrATe",
+        "titrAsAmAsATe",
+        "titrAsAmbaBUvATe",
+        "titrAsAYcakfQve",
+        "titrAsAmAsiDve",
+        "titrAsAmbaBUviQve",
+        "titrAsAYcakre",
+        "titrAsAmAhe",
+        "titrAsAmbaBUve",
+        "titrAsAYcakfvahe",
+        "titrAsAmAsivahe",
+        "titrAsAmbaBUvivahe",
+        "titrAsAYcakfmahe",
+        "titrAsAmAsimahe",
+        "titrAsAmbaBUvimahe"
+      ],
+      "alot": [
+        "titrAsyatAm",
+        "titrAsyetAm",
+        "titrAsyantAm",
+        "titrAsyasva",
+        "titrAsyeTAm",
+        "titrAsyaDvam",
+        "titrAsyE",
+        "titrAsyAvahE",
+        "titrAsyAmahE"
+      ],
+      "alrung": [
+        "atitrAsizyata",
+        "atitrAsizyetAm",
+        "atitrAsizyanta",
+        "atitrAsizyaTAH",
+        "atitrAsizyeTAm",
+        "atitrAsizyaDvam",
+        "atitrAsizye",
+        "atitrAsizyAvahi",
+        "atitrAsizyAmahi"
+      ],
+      "alrut": [
+        "titrAsizyate",
+        "titrAsizyete",
+        "titrAsizyante",
+        "titrAsizyase",
+        "titrAsizyeTe",
+        "titrAsizyaDve",
+        "titrAsizye",
+        "titrAsizyAvahe",
+        "titrAsizyAmahe"
+      ],
+      "alung": [
+        "atitrAsi",
+        "atitrAsizAtAm",
+        "atitrAsizata",
+        "atitrAsizWAH",
+        "atitrAsizATAm",
+        "atitrAsiDvam",
+        "atitrAsizi",
+        "atitrAsizvahi",
+        "atitrAsizmahi"
+      ],
+      "alut": [
+        "titrAsitA",
+        "titrAsitArO",
+        "titrAsitAraH",
+        "titrAsitAse",
+        "titrAsitAsATe",
+        "titrAsitADve",
+        "titrAsitAhe",
+        "titrAsitAsvahe",
+        "titrAsitAsmahe"
+      ],
+      "avidhiling": [
+        "titrAsyeta",
+        "titrAsyeyAtAm",
+        "titrAsyeran",
+        "titrAsyeTAH",
+        "titrAsyeyATAm",
+        "titrAsyeDvam",
+        "titrAsyeya",
+        "titrAsyevahi",
+        "titrAsyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "trApayizIzwa",
+        "trApayizIyAstAm",
+        "trApayizIran",
+        "trApayizIzWAH",
+        "trApayizIyAsTAm",
+        "trApayizIQvam",
+        "trApayizIDvam",
+        "trApayizIya",
+        "trApayizIvahi",
+        "trApayizImahi"
+      ],
+      "alang": [
+        "atrApayata",
+        "atrApayetAm",
+        "atrApayanta",
+        "atrApayaTAH",
+        "atrApayeTAm",
+        "atrApayaDvam",
+        "atrApaye",
+        "atrApayAvahi",
+        "atrApayAmahi"
+      ],
+      "alat": [
+        "trApayate",
+        "trApayete",
+        "trApayante",
+        "trApayase",
+        "trApayeTe",
+        "trApayaDve",
+        "trApaye",
+        "trApayAvahe",
+        "trApayAmahe"
+      ],
+      "alit": [
+        "trApayAYcakre",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakrAte",
+        "trApayAmAsatuH",
+        "trApayAmbaBUvatuH",
+        "trApayAYcakrire",
+        "trApayAmAsuH",
+        "trApayAmbaBUvuH",
+        "trApayAYcakfze",
+        "trApayAmAsiTa",
+        "trApayAmbaBUviTa",
+        "trApayAYcakrATe",
+        "trApayAmAsaTuH",
+        "trApayAmbaBUvaTuH",
+        "trApayAYcakfQve",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakre",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakfvahe",
+        "trApayAmAsiva",
+        "trApayAmbaBUviva",
+        "trApayAYcakfmahe",
+        "trApayAmAsima",
+        "trApayAmbaBUvima"
+      ],
+      "alot": [
+        "trApayatAm",
+        "trApayetAm",
+        "trApayantAm",
+        "trApayasva",
+        "trApayeTAm",
+        "trApayaDvam",
+        "trApayE",
+        "trApayAvahE",
+        "trApayAmahE"
+      ],
+      "alrung": [
+        "atrApayizyata",
+        "atrApayizyetAm",
+        "atrApayizyanta",
+        "atrApayizyaTAH",
+        "atrApayizyeTAm",
+        "atrApayizyaDvam",
+        "atrApayizye",
+        "atrApayizyAvahi",
+        "atrApayizyAmahi"
+      ],
+      "alrut": [
+        "trApayizyate",
+        "trApayizyete",
+        "trApayizyante",
+        "trApayizyase",
+        "trApayizyeTe",
+        "trApayizyaDve",
+        "trApayizye",
+        "trApayizyAvahe",
+        "trApayizyAmahe"
+      ],
+      "alung": [
+        "atitrapata",
+        "atitrapetAm",
+        "atitrapanta",
+        "atitrapaTAH",
+        "atitrapeTAm",
+        "atitrapaDvam",
+        "atitrape",
+        "atitrapAvahi",
+        "atitrapAmahi"
+      ],
+      "alut": [
+        "trApayitA",
+        "trApayitArO",
+        "trApayitAraH",
+        "trApayitAse",
+        "trApayitAsATe",
+        "trApayitADve",
+        "trApayitAhe",
+        "trApayitAsvahe",
+        "trApayitAsmahe"
+      ],
+      "avidhiling": [
+        "trApayeta",
+        "trApayeyAtAm",
+        "trApayeran",
+        "trApayeTAH",
+        "trApayeyATAm",
+        "trApayeDvam",
+        "trApayeya",
+        "trApayevahi",
+        "trApayemahi"
+      ],
+      "pashirling": [
+        "trApyAt",
+        "trApyAd",
+        "trApyAstAm",
+        "trApyAsuH",
+        "trApyAH",
+        "trApyAstam",
+        "trApyAsta",
+        "trApyAsam",
+        "trApyAsva",
+        "trApyAsma"
+      ],
+      "plang": [
+        "atrApayat",
+        "atrApayad",
+        "atrApayatAm",
+        "atrApayan",
+        "atrApayaH",
+        "atrApayatam",
+        "atrApayata",
+        "atrApayam",
+        "atrApayAva",
+        "atrApayAma"
+      ],
+      "plat": [
+        "trApayati",
+        "trApayataH",
+        "trApayanti",
+        "trApayasi",
+        "trApayaTaH",
+        "trApayaTa",
+        "trApayAmi",
+        "trApayAvaH",
+        "trApayAmaH"
+      ],
+      "plit": [
+        "trApayAYcakAra",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakratuH",
+        "trApayAmAsatuH",
+        "trApayAmbaBUvatuH",
+        "trApayAYcakruH",
+        "trApayAmAsuH",
+        "trApayAmbaBUvuH",
+        "trApayAYcakarTa",
+        "trApayAmAsiTa",
+        "trApayAmbaBUviTa",
+        "trApayAYcakraTuH",
+        "trApayAmAsaTuH",
+        "trApayAmbaBUvaTuH",
+        "trApayAYcakra",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakara",
+        "trApayAYcakAra",
+        "trApayAmAsa",
+        "trApayAmbaBUva",
+        "trApayAYcakfva",
+        "trApayAmAsiva",
+        "trApayAmbaBUviva",
+        "trApayAYcakfma",
+        "trApayAmAsima",
+        "trApayAmbaBUvima"
+      ],
+      "plot": [
+        "trApayatAt",
+        "trApayatAd",
+        "trApayatu",
+        "trApayatAm",
+        "trApayantu",
+        "trApaya",
+        "trApayatAt",
+        "trApayatAd",
+        "trApayatam",
+        "trApayata",
+        "trApayARi",
+        "trApayAva",
+        "trApayAma"
+      ],
+      "plrung": [
+        "atrApayizyat",
+        "atrApayizyad",
+        "atrApayizyatAm",
+        "atrApayizyan",
+        "atrApayizyaH",
+        "atrApayizyatam",
+        "atrApayizyata",
+        "atrApayizyam",
+        "atrApayizyAva",
+        "atrApayizyAma"
+      ],
+      "plrut": [
+        "trApayizyati",
+        "trApayizyataH",
+        "trApayizyanti",
+        "trApayizyasi",
+        "trApayizyaTaH",
+        "trApayizyaTa",
+        "trApayizyAmi",
+        "trApayizyAvaH",
+        "trApayizyAmaH"
+      ],
+      "plung": [
+        "atitrapat",
+        "atitrapad",
+        "atitrapatAm",
+        "atitrapan",
+        "atitrapaH",
+        "atitrapatam",
+        "atitrapata",
+        "atitrapam",
+        "atitrapAva",
+        "atitrapAma"
+      ],
+      "plut": [
+        "trApayitA",
+        "trApayitArO",
+        "trApayitAraH",
+        "trApayitAsi",
+        "trApayitAsTaH",
+        "trApayitAsTa",
+        "trApayitAsmi",
+        "trApayitAsvaH",
+        "trApayitAsmaH"
+      ],
+      "pvidhiling": [
+        "trApayet",
+        "trApayed",
+        "trApayetAm",
+        "trApayeyuH",
+        "trApayeH",
+        "trApayetam",
+        "trApayeta",
+        "trApayeyam",
+        "trApayeva",
+        "trApayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "trApayizIzwa",
+        "trApizIzwa",
+        "trApayizIyAstAm",
+        "trApizIyAstAm",
+        "trApayizIran",
+        "trApizIran",
+        "trApayizIzWAH",
+        "trApizIzWAH",
+        "trApayizIyAsTAm",
+        "trApizIyAsTAm",
+        "trApayizIQvam",
+        "trApayizIDvam",
+        "trApizIDvam",
+        "trApayizIya",
+        "trApizIya",
+        "trApayizIvahi",
+        "trApizIvahi",
+        "trApayizImahi",
+        "trApizImahi"
+      ],
+      "alang": [
+        "atrApyata",
+        "atrApyetAm",
+        "atrApyanta",
+        "atrApyaTAH",
+        "atrApyeTAm",
+        "atrApyaDvam",
+        "atrApye",
+        "atrApyAvahi",
+        "atrApyAmahi"
+      ],
+      "alat": [
+        "trApyate",
+        "trApyete",
+        "trApyante",
+        "trApyase",
+        "trApyeTe",
+        "trApyaDve",
+        "trApye",
+        "trApyAvahe",
+        "trApyAmahe"
+      ],
+      "alit": [
+        "trApayAYcakre",
+        "trApayAmAse",
+        "trApayAmbaBUve",
+        "trApayAYcakrAte",
+        "trApayAmAsAte",
+        "trApayAmbaBUvAte",
+        "trApayAYcakrire",
+        "trApayAmAsire",
+        "trApayAmbaBUvire",
+        "trApayAYcakfze",
+        "trApayAmAsize",
+        "trApayAmbaBUvize",
+        "trApayAYcakrATe",
+        "trApayAmAsATe",
+        "trApayAmbaBUvATe",
+        "trApayAYcakfQve",
+        "trApayAmAsiDve",
+        "trApayAmbaBUviQve",
+        "trApayAYcakre",
+        "trApayAmAhe",
+        "trApayAmbaBUve",
+        "trApayAYcakfvahe",
+        "trApayAmAsivahe",
+        "trApayAmbaBUvivahe",
+        "trApayAYcakfmahe",
+        "trApayAmAsimahe",
+        "trApayAmbaBUvimahe"
+      ],
+      "alot": [
+        "trApyatAm",
+        "trApyetAm",
+        "trApyantAm",
+        "trApyasva",
+        "trApyeTAm",
+        "trApyaDvam",
+        "trApyE",
+        "trApyAvahE",
+        "trApyAmahE"
+      ],
+      "alrung": [
+        "atrApayizyata",
+        "atrApizyata",
+        "atrApayizyetAm",
+        "atrApizyetAm",
+        "atrApayizyanta",
+        "atrApizyanta",
+        "atrApayizyaTAH",
+        "atrApizyaTAH",
+        "atrApayizyeTAm",
+        "atrApizyeTAm",
+        "atrApayizyaDvam",
+        "atrApizyaDvam",
+        "atrApayizye",
+        "atrApizye",
+        "atrApayizyAvahi",
+        "atrApizyAvahi",
+        "atrApayizyAmahi",
+        "atrApizyAmahi"
+      ],
+      "alrut": [
+        "trApayizyate",
+        "trApizyate",
+        "trApayizyete",
+        "trApizyete",
+        "trApayizyante",
+        "trApizyante",
+        "trApayizyase",
+        "trApizyase",
+        "trApayizyeTe",
+        "trApizyeTe",
+        "trApayizyaDve",
+        "trApizyaDve",
+        "trApayizye",
+        "trApizye",
+        "trApayizyAvahe",
+        "trApizyAvahe",
+        "trApayizyAmahe",
+        "trApizyAmahe"
+      ],
+      "alung": [
+        "atrApi",
+        "atrApayizAtAm",
+        "atrApizAtAm",
+        "atrApayizata",
+        "atrApizata",
+        "atrApayizWAH",
+        "atrApizWAH",
+        "atrApayizATAm",
+        "atrApizATAm",
+        "atrApayiQvam",
+        "atrApayiDvam",
+        "atrApiDvam",
+        "atrApayizi",
+        "atrApizi",
+        "atrApayizvahi",
+        "atrApizvahi",
+        "atrApayizmahi",
+        "atrApizmahi"
+      ],
+      "alut": [
+        "trApayitA",
+        "trApitA",
+        "trApayitArO",
+        "trApitArO",
+        "trApayitAraH",
+        "trApitAraH",
+        "trApayitAse",
+        "trApitAse",
+        "trApayitAsATe",
+        "trApitAsATe",
+        "trApayitADve",
+        "trApitADve",
+        "trApayitAhe",
+        "trApitAhe",
+        "trApayitAsvahe",
+        "trApitAsvahe",
+        "trApayitAsmahe",
+        "trApitAsmahe"
+      ],
+      "avidhiling": [
+        "trApyeta",
+        "trApyeyAtAm",
+        "trApyeran",
+        "trApyeTAH",
+        "trApyeyATAm",
+        "trApyeDvam",
+        "trApyeya",
+        "trApyevahi",
+        "trApyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "tAtrAyizIzwa",
+        "tAtrAyizIyAstAm",
+        "tAtrAyizIran",
+        "tAtrAyizIzWAH",
+        "tAtrAyizIyAsTAm",
+        "tAtrAyizIQvam",
+        "tAtrAyizIDvam",
+        "tAtrAyizIya",
+        "tAtrAyizIvahi",
+        "tAtrAyizImahi"
+      ],
+      "alang": [
+        "atAtrAyata",
+        "atAtrAyetAm",
+        "atAtrAyanta",
+        "atAtrAyaTAH",
+        "atAtrAyeTAm",
+        "atAtrAyaDvam",
+        "atAtrAye",
+        "atAtrAyAvahi",
+        "atAtrAyAmahi"
+      ],
+      "alat": [
+        "tAtrAyate",
+        "tAtrAyete",
+        "tAtrAyante",
+        "tAtrAyase",
+        "tAtrAyeTe",
+        "tAtrAyaDve",
+        "tAtrAye",
+        "tAtrAyAvahe",
+        "tAtrAyAmahe"
+      ],
+      "alit": [
+        "tAtrAyAYcakre",
+        "tAtrAyAmAsa",
+        "tAtrAyAmbaBUva",
+        "tAtrAyAYcakrAte",
+        "tAtrAyAmAsatuH",
+        "tAtrAyAmbaBUvatuH",
+        "tAtrAyAYcakrire",
+        "tAtrAyAmAsuH",
+        "tAtrAyAmbaBUvuH",
+        "tAtrAyAYcakfze",
+        "tAtrAyAmAsiTa",
+        "tAtrAyAmbaBUviTa",
+        "tAtrAyAYcakrATe",
+        "tAtrAyAmAsaTuH",
+        "tAtrAyAmbaBUvaTuH",
+        "tAtrAyAYcakfQve",
+        "tAtrAyAmAsa",
+        "tAtrAyAmbaBUva",
+        "tAtrAyAYcakre",
+        "tAtrAyAmAsa",
+        "tAtrAyAmbaBUva",
+        "tAtrAyAYcakfvahe",
+        "tAtrAyAmAsiva",
+        "tAtrAyAmbaBUviva",
+        "tAtrAyAYcakfmahe",
+        "tAtrAyAmAsima",
+        "tAtrAyAmbaBUvima"
+      ],
+      "alot": [
+        "tAtrAyatAm",
+        "tAtrAyetAm",
+        "tAtrAyantAm",
+        "tAtrAyasva",
+        "tAtrAyeTAm",
+        "tAtrAyaDvam",
+        "tAtrAyE",
+        "tAtrAyAvahE",
+        "tAtrAyAmahE"
+      ],
+      "alrung": [
+        "atAtrAyizyata",
+        "atAtrAyizyetAm",
+        "atAtrAyizyanta",
+        "atAtrAyizyaTAH",
+        "atAtrAyizyeTAm",
+        "atAtrAyizyaDvam",
+        "atAtrAyizye",
+        "atAtrAyizyAvahi",
+        "atAtrAyizyAmahi"
+      ],
+      "alrut": [
+        "tAtrAyizyate",
+        "tAtrAyizyete",
+        "tAtrAyizyante",
+        "tAtrAyizyase",
+        "tAtrAyizyeTe",
+        "tAtrAyizyaDve",
+        "tAtrAyizye",
+        "tAtrAyizyAvahe",
+        "tAtrAyizyAmahe"
+      ],
+      "alung": [
+        "atAtrAyizwa",
+        "atAtrAyizAtAm",
+        "atAtrAyizata",
+        "atAtrAyizWAH",
+        "atAtrAyizATAm",
+        "atAtrAyiQvam",
+        "atAtrAyiDvam",
+        "atAtrAyizi",
+        "atAtrAyizvahi",
+        "atAtrAyizmahi"
+      ],
+      "alut": [
+        "tAtrAyitA",
+        "tAtrAyitArO",
+        "tAtrAyitAraH",
+        "tAtrAyitAse",
+        "tAtrAyitAsATe",
+        "tAtrAyitADve",
+        "tAtrAyitAhe",
+        "tAtrAyitAsvahe",
+        "tAtrAyitAsmahe"
+      ],
+      "avidhiling": [
+        "tAtrAyeta",
+        "tAtrAyeyAtAm",
+        "tAtrAyeran",
+        "tAtrAyeTAH",
+        "tAtrAyeyATAm",
+        "tAtrAyeDvam",
+        "tAtrAyeya",
+        "tAtrAyevahi",
+        "tAtrAyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "tAtrAyizIzwa",
+        "tAtrAyizIyAstAm",
+        "tAtrAyizIran",
+        "tAtrAyizIzWAH",
+        "tAtrAyizIyAsTAm",
+        "tAtrAyizIQvam",
+        "tAtrAyizIDvam",
+        "tAtrAyizIya",
+        "tAtrAyizIvahi",
+        "tAtrAyizImahi"
+      ],
+      "alang": [
+        "atAtrAyyata",
+        "atAtrAyyetAm",
+        "atAtrAyyanta",
+        "atAtrAyyaTAH",
+        "atAtrAyyeTAm",
+        "atAtrAyyaDvam",
+        "atAtrAyye",
+        "atAtrAyyAvahi",
+        "atAtrAyyAmahi"
+      ],
+      "alat": [
+        "tAtrAyyate",
+        "tAtrAyyete",
+        "tAtrAyyante",
+        "tAtrAyyase",
+        "tAtrAyyeTe",
+        "tAtrAyyaDve",
+        "tAtrAyye",
+        "tAtrAyyAvahe",
+        "tAtrAyyAmahe"
+      ],
+      "alit": [
+        "tAtrAyAYcakre",
+        "tAtrAyAmAse",
+        "tAtrAyAmbaBUve",
+        "tAtrAyAYcakrAte",
+        "tAtrAyAmAsAte",
+        "tAtrAyAmbaBUvAte",
+        "tAtrAyAYcakrire",
+        "tAtrAyAmAsire",
+        "tAtrAyAmbaBUvire",
+        "tAtrAyAYcakfze",
+        "tAtrAyAmAsize",
+        "tAtrAyAmbaBUvize",
+        "tAtrAyAYcakrATe",
+        "tAtrAyAmAsATe",
+        "tAtrAyAmbaBUvATe",
+        "tAtrAyAYcakfQve",
+        "tAtrAyAmAsiDve",
+        "tAtrAyAmbaBUviQve",
+        "tAtrAyAYcakre",
+        "tAtrAyAmAhe",
+        "tAtrAyAmbaBUve",
+        "tAtrAyAYcakfvahe",
+        "tAtrAyAmAsivahe",
+        "tAtrAyAmbaBUvivahe",
+        "tAtrAyAYcakfmahe",
+        "tAtrAyAmAsimahe",
+        "tAtrAyAmbaBUvimahe"
+      ],
+      "alot": [
+        "tAtrAyyatAm",
+        "tAtrAyyetAm",
+        "tAtrAyyantAm",
+        "tAtrAyyasva",
+        "tAtrAyyeTAm",
+        "tAtrAyyaDvam",
+        "tAtrAyyE",
+        "tAtrAyyAvahE",
+        "tAtrAyyAmahE"
+      ],
+      "alrung": [
+        "atAtrAyizyata",
+        "atAtrAyizyetAm",
+        "atAtrAyizyanta",
+        "atAtrAyizyaTAH",
+        "atAtrAyizyeTAm",
+        "atAtrAyizyaDvam",
+        "atAtrAyizye",
+        "atAtrAyizyAvahi",
+        "atAtrAyizyAmahi"
+      ],
+      "alrut": [
+        "tAtrAyizyate",
+        "tAtrAyizyete",
+        "tAtrAyizyante",
+        "tAtrAyizyase",
+        "tAtrAyizyeTe",
+        "tAtrAyizyaDve",
+        "tAtrAyizye",
+        "tAtrAyizyAvahe",
+        "tAtrAyizyAmahe"
+      ],
+      "alung": [
+        "atAtrAyi",
+        "atAtrAyizAtAm",
+        "atAtrAyizata",
+        "atAtrAyizWAH",
+        "atAtrAyizATAm",
+        "atAtrAyiQvam",
+        "atAtrAyiDvam",
+        "atAtrAyizi",
+        "atAtrAyizvahi",
+        "atAtrAyizmahi"
+      ],
+      "alut": [
+        "tAtrAyitA",
+        "tAtrAyitArO",
+        "tAtrAyitAraH",
+        "tAtrAyitAse",
+        "tAtrAyitAsATe",
+        "tAtrAyitADve",
+        "tAtrAyitAhe",
+        "tAtrAyitAsvahe",
+        "tAtrAyitAsmahe"
+      ],
+      "avidhiling": [
+        "tAtrAyyeta",
+        "tAtrAyyeyAtAm",
+        "tAtrAyyeran",
+        "tAtrAyyeTAH",
+        "tAtrAyyeyATAm",
+        "tAtrAyyeDvam",
+        "tAtrAyyeya",
+        "tAtrAyyevahi",
+        "tAtrAyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "tAtrAyAt",
+        "tAtrAyAd",
+        "tAtrAyAstAm",
+        "tAtrAyAsuH",
+        "tAtrAyAH",
+        "tAtrAyAstam",
+        "tAtrAyAsta",
+        "tAtrAyAsam",
+        "tAtrAyAsva",
+        "tAtrAyAsma"
+      ],
+      "plang": [
+        "atAtrAt",
+        "atAtrAd",
+        "atAtret",
+        "atAtred",
+        "atAtrItAm",
+        "atAtruH",
+        "atAtrAH",
+        "atAtreH",
+        "atAtrItam",
+        "atAtrIta",
+        "atAtrAm",
+        "atAtrIva",
+        "atAtrIma"
+      ],
+      "plat": [
+        "tAtrAti",
+        "tAtreti",
+        "tAtrItaH",
+        "tAtrati",
+        "tAtrAsi",
+        "tAtrezi",
+        "tAtrITaH",
+        "tAtrITa",
+        "tAtrAmi",
+        "tAtremi",
+        "tAtrIvaH",
+        "tAtrImaH"
+      ],
+      "plit": [
+        "tAtrAYcakAra",
+        "tAtrAmAsa",
+        "tAtrAmbaBUva",
+        "tAtrAYcakratuH",
+        "tAtrAmAsatuH",
+        "tAtrAmbaBUvatuH",
+        "tAtrAYcakruH",
+        "tAtrAmAsuH",
+        "tAtrAmbaBUvuH",
+        "tAtrAYcakarTa",
+        "tAtrAmAsiTa",
+        "tAtrAmbaBUviTa",
+        "tAtrAYcakraTuH",
+        "tAtrAmAsaTuH",
+        "tAtrAmbaBUvaTuH",
+        "tAtrAYcakra",
+        "tAtrAmAsa",
+        "tAtrAmbaBUva",
+        "tAtrAYcakara",
+        "tAtrAYcakAra",
+        "tAtrAmAsa",
+        "tAtrAmbaBUva",
+        "tAtrAYcakfva",
+        "tAtrAmAsiva",
+        "tAtrAmbaBUviva",
+        "tAtrAYcakfma",
+        "tAtrAmAsima",
+        "tAtrAmbaBUvima"
+      ],
+      "plot": [
+        "tAtrAtu",
+        "tAtrItAt",
+        "tAtrItAd",
+        "tAtretu",
+        "tAtrItAm",
+        "tAtratu",
+        "tAtrItAt",
+        "tAtrItAd",
+        "tAtrIhi",
+        "tAtrItam",
+        "tAtrIta",
+        "tAtrARi",
+        "tAtrAva",
+        "tAtrAma"
+      ],
+      "plrung": [
+        "atAtrizyat",
+        "atAtrizyad",
+        "atAtrizyatAm",
+        "atAtrizyan",
+        "atAtrizyaH",
+        "atAtrizyatam",
+        "atAtrizyata",
+        "atAtrizyam",
+        "atAtrizyAva",
+        "atAtrizyAma"
+      ],
+      "plrut": [
+        "tAtrizyati",
+        "tAtrizyataH",
+        "tAtrizyanti",
+        "tAtrizyasi",
+        "tAtrizyaTaH",
+        "tAtrizyaTa",
+        "tAtrizyAmi",
+        "tAtrizyAvaH",
+        "tAtrizyAmaH"
+      ],
+      "plung": [
+        "atAtrAsit",
+        "atAtrAsid",
+        "atAtrAsizwAm",
+        "atAtrAsizuH",
+        "atAtrAsiH",
+        "atAtrAsizwam",
+        "atAtrAsizwa",
+        "atAtrAsizam",
+        "atAtrAsizva",
+        "atAtrAsizma"
+      ],
+      "plut": [
+        "tAtritA",
+        "tAtritArO",
+        "tAtritAraH",
+        "tAtritAsi",
+        "tAtritAsTaH",
+        "tAtritAsTa",
+        "tAtritAsmi",
+        "tAtritAsvaH",
+        "tAtritAsmaH"
+      ],
+      "pvidhiling": [
+        "tAtrIyAt",
+        "tAtrIyAd",
+        "tAtrIyAtAm",
+        "tAtrIyuH",
+        "tAtrIyAH",
+        "tAtrIyAtam",
+        "tAtrIyAta",
+        "tAtrIyAm",
+        "tAtrIyAva",
+        "tAtrIyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "tAtrAyizIzwa",
+        "tAtrizIzwa",
+        "tAtrAyizIyAstAm",
+        "tAtrizIyAstAm",
+        "tAtrAyizIran",
+        "tAtrizIran",
+        "tAtrAyizIzWAH",
+        "tAtrizIzWAH",
+        "tAtrAyizIyAsTAm",
+        "tAtrizIyAsTAm",
+        "tAtrAyizIDvam",
+        "tAtrizIQvam",
+        "tAtrAyizIya",
+        "tAtrizIya",
+        "tAtrAyizIvahi",
+        "tAtrizIvahi",
+        "tAtrAyizImahi",
+        "tAtrizImahi"
+      ],
+      "alang": [
+        "atAtrAyata",
+        "atAtrAyetAm",
+        "atAtrAyanta",
+        "atAtrAyaTAH",
+        "atAtrAyeTAm",
+        "atAtrAyaDvam",
+        "atAtrAye",
+        "atAtrAyAvahi",
+        "atAtrAyAmahi"
+      ],
+      "alat": [
+        "tAtrAyate",
+        "tAtrAyete",
+        "tAtrAyante",
+        "tAtrAyase",
+        "tAtrAyeTe",
+        "tAtrAyaDve",
+        "tAtrAye",
+        "tAtrAyAvahe",
+        "tAtrAyAmahe"
+      ],
+      "alit": [
+        "tAtrAYcakre",
+        "tAtrAmAse",
+        "tAtrAmbaBUve",
+        "tAtrAYcakrAte",
+        "tAtrAmAsAte",
+        "tAtrAmbaBUvAte",
+        "tAtrAYcakrire",
+        "tAtrAmAsire",
+        "tAtrAmbaBUvire",
+        "tAtrAYcakfze",
+        "tAtrAmAsize",
+        "tAtrAmbaBUvize",
+        "tAtrAYcakrATe",
+        "tAtrAmAsATe",
+        "tAtrAmbaBUvATe",
+        "tAtrAYcakfQve",
+        "tAtrAmAsiDve",
+        "tAtrAmbaBUviQve",
+        "tAtrAYcakre",
+        "tAtrAmAhe",
+        "tAtrAmbaBUve",
+        "tAtrAYcakfvahe",
+        "tAtrAmAsivahe",
+        "tAtrAmbaBUvivahe",
+        "tAtrAYcakfmahe",
+        "tAtrAmAsimahe",
+        "tAtrAmbaBUvimahe"
+      ],
+      "alot": [
+        "tAtrAyatAm",
+        "tAtrAyetAm",
+        "tAtrAyantAm",
+        "tAtrAyasva",
+        "tAtrAyeTAm",
+        "tAtrAyaDvam",
+        "tAtrAyE",
+        "tAtrAyAvahE",
+        "tAtrAyAmahE"
+      ],
+      "alrung": [
+        "atAtrAyizyata",
+        "atAtrizyata",
+        "atAtrAyizyetAm",
+        "atAtrizyetAm",
+        "atAtrAyizyanta",
+        "atAtrizyanta",
+        "atAtrAyizyaTAH",
+        "atAtrizyaTAH",
+        "atAtrAyizyeTAm",
+        "atAtrizyeTAm",
+        "atAtrAyizyaDvam",
+        "atAtrizyaDvam",
+        "atAtrAyizye",
+        "atAtrizye",
+        "atAtrAyizyAvahi",
+        "atAtrizyAvahi",
+        "atAtrAyizyAmahi",
+        "atAtrizyAmahi"
+      ],
+      "alrut": [
+        "tAtrAyizyate",
+        "tAtrizyate",
+        "tAtrAyizyete",
+        "tAtrizyete",
+        "tAtrAyizyante",
+        "tAtrizyante",
+        "tAtrAyizyase",
+        "tAtrizyase",
+        "tAtrAyizyeTe",
+        "tAtrizyeTe",
+        "tAtrAyizyaDve",
+        "tAtrizyaDve",
+        "tAtrAyizye",
+        "tAtrizye",
+        "tAtrAyizyAvahe",
+        "tAtrizyAvahe",
+        "tAtrAyizyAmahe",
+        "tAtrizyAmahe"
+      ],
+      "alung": [
+        "atAtrAyi",
+        "atAtrAyizAtAm",
+        "atAtrizAtAm",
+        "atAtrAyizata",
+        "atAtrizata",
+        "atAtrAyizWAH",
+        "atAtrizWAH",
+        "atAtrAyizATAm",
+        "atAtrizATAm",
+        "atAtrAyiDvam",
+        "atAtriQvam",
+        "atAtrAyizi",
+        "atAtrizi",
+        "atAtrAyizvahi",
+        "atAtrizvahi",
+        "atAtrAyizmahi",
+        "atAtrizmahi"
+      ],
+      "alut": [
+        "tAtrAyitA",
+        "tAtritA",
+        "tAtrAyitArO",
+        "tAtritArO",
+        "tAtrAyitAraH",
+        "tAtritAraH",
+        "tAtrAyitAse",
+        "tAtritAse",
+        "tAtrAyitAsATe",
+        "tAtritAsATe",
+        "tAtrAyitADve",
+        "tAtritADve",
+        "tAtrAyitAhe",
+        "tAtritAhe",
+        "tAtrAyitAsvahe",
+        "tAtritAsvahe",
+        "tAtrAyitAsmahe",
+        "tAtritAsmahe"
+      ],
+      "avidhiling": [
+        "tAtrAyeta",
+        "tAtrAyeyAtAm",
+        "tAtrAyeran",
+        "tAtrAyeTAH",
+        "tAtrAyeyATAm",
+        "tAtrAyeDvam",
+        "tAtrAyeya",
+        "tAtrAyevahi",
+        "tAtrAyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "trA",
+          "m": "trAH",
+          "f": "trA",
+          "n": "trAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "trARIya",
+          "m": "trARIyaH",
+          "f": "trARIyA",
+          "n": "trARIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "trAta",
+          "m": "trAtaH",
+          "f": "trAtA",
+          "n": "trAtam"
+        },
+        {
+          "base": "trARa",
+          "m": "trARaH",
+          "f": "trARA",
+          "n": "trARam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "trAtavat",
+          "m": "trAtavAn",
+          "f": "trAtavatI",
+          "n": "trAtavat/trAtavad"
+        },
+        {
+          "base": "trARavat",
+          "m": "trARavAn",
+          "f": "trARavatI",
+          "n": "trARavat/trARavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "trAti",
+          "m": "",
+          "f": "trAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "trAtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tatrivas",
+          "m": "tatrivAn",
+          "f": "tatruzI",
+          "n": "tatrivat/tatrivad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "trAya",
+          "m": "trAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "trAyamARa",
+          "m": "trAyamARaH",
+          "f": "trAyamARA",
+          "n": "trAyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "trAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "trAyaka",
+          "m": "trAyakaH",
+          "f": "trAyikA",
+          "n": "trAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "trAtavya",
+          "m": "trAtavyaH",
+          "f": "trAtavyA",
+          "n": "trAtavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "trAtum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "trAtf",
+          "m": "trAtA",
+          "f": "trAtrI",
+          "n": "trAtf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "trAyamARa",
+          "m": "trAyamARaH",
+          "f": "trAyamARA",
+          "n": "trAyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "treya",
+          "m": "treyaH",
+          "f": "treyA",
+          "n": "treyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratrAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "trARa",
+          "m": "",
+          "f": "",
+          "n": "trARam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "trAka",
+          "m": "trAkaH",
+          "f": "trAka",
+          "n": "trAkam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "trAyamARa",
+          "m": "trAyamARaH",
+          "f": "trAyamARA",
+          "n": "trAyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "trAyizyamARa",
+          "m": "trAyizyamARaH",
+          "f": "trAyizyamARA",
+          "n": "trAyizyamARam"
+        },
+        {
+          "base": "trAsyamAna",
+          "m": "trAsyamAnaH",
+          "f": "trAsyamAnA",
+          "n": "trAsyamAnam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "trAsyamAna",
+          "m": "trAsyamAnaH",
+          "f": "trAsyamAnA",
+          "n": "trAsyamAnam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "titrAsA",
+          "m": "",
+          "f": "titrAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "titrAsa",
+          "m": "titrAsaH",
+          "f": "titrAsA",
+          "n": "titrAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "titrAsanIya",
+          "m": "titrAsanIyaH",
+          "f": "titrAsanIyA",
+          "n": "titrAsanIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "titrAsu",
+          "m": "titrAsuH",
+          "f": "titrAsuH",
+          "n": "titrAsu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "titrAsita",
+          "m": "titrAsitaH",
+          "f": "titrAsitA",
+          "n": "titrAsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "titrAsitavat",
+          "m": "titrAsitavAn",
+          "f": "titrAsitavatI",
+          "n": "titrAsitavat/titrAsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "titrAsti",
+          "m": "",
+          "f": "titrAstiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "titrAsitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "titrAsAmbaBUvas",
+          "m": "titrAsAmbaBUvAn",
+          "f": "titrAsAmbaBUzI",
+          "n": "titrAsAmbaBUvat/titrAsAmbaBUvad"
+        },
+        {
+          "base": "titrAsAmAsivas",
+          "m": "titrAsAmAsivAn",
+          "f": "titrAsAmAsyuzI",
+          "n": "titrAsAmAsivat/titrAsAmAsivad"
+        },
+        {
+          "base": "titrAsAYcakfvas",
+          "m": "titrAsAYcakfvAn",
+          "f": "titrAsAYcakruzI",
+          "n": "titrAsAYcakfvat/titrAsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "titrAsa",
+          "m": "titrAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "titrAsamAna",
+          "m": "titrAsamAnaH",
+          "f": "titrAsamAnA",
+          "n": "titrAsamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "titrAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "titrAsaka",
+          "m": "titrAsakaH",
+          "f": "titrAsikA",
+          "n": "titrAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "titrAsitavya",
+          "m": "titrAsitavyaH",
+          "f": "titrAsitavyA",
+          "n": "titrAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "titrAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "titrAsitf",
+          "m": "titrAsitA",
+          "f": "titrAsitrI",
+          "n": "titrAsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "titrAsyamAna",
+          "m": "titrAsyamAnaH",
+          "f": "titrAsyamAnA",
+          "n": "titrAsyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "titrAsya",
+          "m": "titrAsyaH",
+          "f": "titrAsyA",
+          "n": "titrAsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratitrAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "titrAsana",
+          "m": "",
+          "f": "",
+          "n": "titrAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "titrAsaka",
+          "m": "titrAsakaH",
+          "f": "titrAsikA",
+          "n": "titrAsakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "titrAsamAna",
+          "m": "titrAsamAnaH",
+          "f": "titrAsamAnA",
+          "n": "titrAsamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "titrAsizyamARa",
+          "m": "titrAsizyamARaH",
+          "f": "titrAsizyamARA",
+          "n": "titrAsizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "titrAsizyamARa",
+          "m": "titrAsizyamARaH",
+          "f": "titrAsizyamARA",
+          "n": "titrAsizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "trApa",
+          "m": "trApaH",
+          "f": "trApA",
+          "n": "trApam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "trApaRIya",
+          "m": "trApaRIyaH",
+          "f": "trApaRIyA",
+          "n": "trApaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "trApita",
+          "m": "trApitaH",
+          "f": "trApitA",
+          "n": "trApitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "trApitavat",
+          "m": "trApitavAn",
+          "f": "trApitavatI",
+          "n": "trApitavat/trApitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "trApti",
+          "m": "",
+          "f": "trAptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "trApayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "trApayAmbaBUvas",
+          "m": "trApayAmbaBUvAn",
+          "f": "trApayAmbaBUzI",
+          "n": "trApayAmbaBUvat/trApayAmbaBUvad"
+        },
+        {
+          "base": "trApayAmAsivas",
+          "m": "trApayAmAsivAn",
+          "f": "trApayAmAsyuzI",
+          "n": "trApayAmAsivat/trApayAmAsivad"
+        },
+        {
+          "base": "trApayAYcakfvas",
+          "m": "trApayAYcakfvAn",
+          "f": "trApayAYcakruzI",
+          "n": "trApayAYcakfvat/trApayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "trApayamARa",
+          "m": "trApayamARaH",
+          "f": "trApayamARA",
+          "n": "trApayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "trApam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "trApaka",
+          "m": "trApakaH",
+          "f": "trApikA",
+          "n": "trApakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "trApayitavya",
+          "m": "trApayitavyaH",
+          "f": "trApayitavyA",
+          "n": "trApayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "trApayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "trApayitf",
+          "m": "trApayitA",
+          "f": "trApayitrI",
+          "n": "trApayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "trApyamARa",
+          "m": "trApyamARaH",
+          "f": "trApyamARA",
+          "n": "trApyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "trApya",
+          "m": "trApyaH",
+          "f": "trApyA",
+          "n": "trApyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratrApya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "trApaRa",
+          "m": "",
+          "f": "",
+          "n": "trApaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "trApaka",
+          "m": "trApakaH",
+          "f": "trApikA",
+          "n": "trApakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "trApayat",
+          "m": "trApayan",
+          "f": "trApayantI",
+          "n": "trApayat/trApayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "trApayamARa",
+          "m": "trApayamARaH",
+          "f": "trApayamARA",
+          "n": "trApayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "trApizyamARa",
+          "m": "trApizyamARaH",
+          "f": "trApizyamARA",
+          "n": "trApizyamARam"
+        },
+        {
+          "base": "trApayizyamARa",
+          "m": "trApayizyamARaH",
+          "f": "trApayizyamARA",
+          "n": "trApayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "trApayizyat",
+          "m": "trApayizyan",
+          "f": "trApayizyatI/trApayizyantI",
+          "n": "trApayizyat/trApayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "trApayizyamARa",
+          "m": "trApayizyamARaH",
+          "f": "trApayizyamARA",
+          "n": "trApayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "tAtrAyA",
+          "m": "",
+          "f": "tAtrAyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "tAtrA",
+          "m": "tAtrAH",
+          "f": "tAtrA",
+          "n": "tAtrAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tAtrAyaRIya",
+          "m": "tAtrAyaRIyaH",
+          "f": "tAtrAyaRIyA",
+          "n": "tAtrAyaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tAtrAyita",
+          "m": "tAtrAyitaH",
+          "f": "tAtrAyitA",
+          "n": "tAtrAyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tAtrAyitavat",
+          "m": "tAtrAyitavAn",
+          "f": "tAtrAyitavatI",
+          "n": "tAtrAyitavat/tAtrAyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tAtrAti",
+          "m": "",
+          "f": "tAtrAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tAtrAyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tAtrAyAmbaBUvas",
+          "m": "tAtrAyAmbaBUvAn",
+          "f": "tAtrAyAmbaBUzI",
+          "n": "tAtrAyAmbaBUvat/tAtrAyAmbaBUvad"
+        },
+        {
+          "base": "tAtrAyAmAsivas",
+          "m": "tAtrAyAmAsivAn",
+          "f": "tAtrAyAmAsyuzI",
+          "n": "tAtrAyAmAsivat/tAtrAyAmAsivad"
+        },
+        {
+          "base": "tAtrAyAYcakfvas",
+          "m": "tAtrAyAYcakfvAn",
+          "f": "tAtrAyAYcakruzI",
+          "n": "tAtrAyAYcakfvat/tAtrAyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tAtrAya",
+          "m": "tAtrAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tAtrAyamARa",
+          "m": "tAtrAyamARaH",
+          "f": "tAtrAyamARA",
+          "n": "tAtrAyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tAtrAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tAtrAyaka",
+          "m": "tAtrAyakaH",
+          "f": "tAtrAyikA",
+          "n": "tAtrAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tAtrAyitavya",
+          "m": "tAtrAyitavyaH",
+          "f": "tAtrAyitavyA",
+          "n": "tAtrAyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tAtrAyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tAtrAyitf",
+          "m": "tAtrAyitA",
+          "f": "tAtrAyitrI",
+          "n": "tAtrAyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tAtrAyyamARa",
+          "m": "tAtrAyyamARaH",
+          "f": "tAtrAyyamARA",
+          "n": "tAtrAyyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "tAtrAyya",
+          "m": "tAtrAyyaH",
+          "f": "tAtrAyyA",
+          "n": "tAtrAyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratAtrAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tAtrAyaRa",
+          "m": "",
+          "f": "",
+          "n": "tAtrAyaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tAtrAyaka",
+          "m": "tAtrAyakaH",
+          "f": "tAtrAyikA",
+          "n": "tAtrAyakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "tAtrAyamARa",
+          "m": "tAtrAyamARaH",
+          "f": "tAtrAyamARA",
+          "n": "tAtrAyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tAtrAyizyamARa",
+          "m": "tAtrAyizyamARaH",
+          "f": "tAtrAyizyamARA",
+          "n": "tAtrAyizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "tAtrAyizyamARa",
+          "m": "tAtrAyizyamARaH",
+          "f": "tAtrAyizyamARA",
+          "n": "tAtrAyizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "tAtrA",
+          "m": "",
+          "f": "tAtrA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "tAtrA",
+          "m": "tAtrAH",
+          "f": "tAtrA",
+          "n": "tAtrAm"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tAtrARIya",
+          "m": "tAtrARIyaH",
+          "f": "tAtrARIyA",
+          "n": "tAtrARIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tAtrita",
+          "m": "tAtritaH",
+          "f": "tAtritA",
+          "n": "tAtritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tAtritavat",
+          "m": "tAtritavAn",
+          "f": "tAtritavatI",
+          "n": "tAtritavat/tAtritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tAtrAti",
+          "m": "",
+          "f": "tAtrAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tAtritvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tAtrAmbaBUvas",
+          "m": "tAtrAmbaBUvAn",
+          "f": "tAtrAmbaBUzI",
+          "n": "tAtrAmbaBUvat/tAtrAmbaBUvad"
+        },
+        {
+          "base": "tAtrAmAsivas",
+          "m": "tAtrAmAsivAn",
+          "f": "tAtrAmAsyuzI",
+          "n": "tAtrAmAsivat/tAtrAmAsivad"
+        },
+        {
+          "base": "tAtrAYcakfvas",
+          "m": "tAtrAYcakfvAn",
+          "f": "tAtrAYcakruzI",
+          "n": "tAtrAYcakfvat/tAtrAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tAtrAya",
+          "m": "tAtrAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tAtrARa",
+          "m": "tAtrARaH",
+          "f": "tAtrARA",
+          "n": "tAtrARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tAtrAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tAtrAyaka",
+          "m": "tAtrAyakaH",
+          "f": "tAtrAyikA",
+          "n": "tAtrAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tAtritavya",
+          "m": "tAtritavyaH",
+          "f": "tAtritavyA",
+          "n": "tAtritavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tAtritum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tAtritf",
+          "m": "tAtritA",
+          "f": "tAtritrI",
+          "n": "tAtritf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tAtrAyamARa",
+          "m": "tAtrAyamARaH",
+          "f": "tAtrAyamARA",
+          "n": "tAtrAyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratAtrAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tAtrARa",
+          "m": "",
+          "f": "",
+          "n": "tAtrARam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tAtrAka",
+          "m": "tAtrAkaH",
+          "f": "tAtrAka",
+          "n": "tAtrAkam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "tAtrat",
+          "m": "tAtrat/tAtrad",
+          "f": "tAtratI",
+          "n": "tAtrat/tAtrad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tAtrAyizyamARa",
+          "m": "tAtrAyizyamARaH",
+          "f": "tAtrAyizyamARA",
+          "n": "tAtrAyizyamARam"
+        },
+        {
+          "base": "tAtrizyamARa",
+          "m": "tAtrizyamARaH",
+          "f": "tAtrizyamARA",
+          "n": "tAtrizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "tAtrizyat",
+          "m": "tAtrizyan",
+          "f": "tAtrizyatI/tAtrizyantI",
+          "n": "tAtrizyat/tAtrizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "trE",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "pari",
+      "examples": [
+        "'AtmanaSca paritrARe…. …Gnan DarmeRa na duzyati' (manu0 8.349). pariH sarvato BAve. SarIraBAryADanaputrarakzArTamiti meDAtiTiH."
+      ]
+    }
+  ],
+  "prayoga": [
+    {
+      "form": "trAyate",
+      "lakaar": "lawlakAraH (Atmanepadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "BagavadgItA",
+          "reference": "2.40",
+          "text": "svalpamapyasya Darmasya trAyate mahato BayAt",
+          "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=40"
+        },
+        {
+          "book": "raGuvaMSam",
+          "reference": "2.53",
+          "text": "kzatAtkila trAyata ityudagraH.",
+          "external": "https://sanskritsahitya.org/raghuvansham/2.53"
+        }
+      ]
+    },
+    {
+      "form": "trAyase",
+      "lakaar": "lawlakAraH (Atmanepadam)",
+      "purusha": "maDyamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "62.14",
+          "text": "AtmasutAn hitvA trAyase'nyasutam",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=62&field_sloka_value=14&"
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {
+    "pari": {
+      "prefix": "pari",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "paritrAsIzwa",
+            "paritrAsIyAstAm",
+            "paritrAsIran",
+            "paritrAsIzWAH",
+            "paritrAsIyAsTAm",
+            "paritrAsIDvam",
+            "paritrAsIya",
+            "paritrAsIvahi",
+            "paritrAsImahi"
+          ],
+          "alang": [
+            "paryatrAyata",
+            "paryatrAyetAm",
+            "paryatrAyanta",
+            "paryatrAyaTAH",
+            "paryatrAyeTAm",
+            "paryatrAyaDvam",
+            "paryatrAye",
+            "paryatrAyAvahi",
+            "paryatrAyAmahi"
+          ],
+          "alat": [
+            "paritrAyate",
+            "paritrAyete",
+            "paritrAyante",
+            "paritrAyase",
+            "paritrAyeTe",
+            "paritrAyaDve",
+            "paritrAye",
+            "paritrAyAvahe",
+            "paritrAyAmahe"
+          ],
+          "alit": [
+            "paritatre",
+            "paritatrAte",
+            "paritatrire",
+            "paritatrize",
+            "paritatrATe",
+            "paritatriQve",
+            "paritatriDve",
+            "paritatre",
+            "paritatrivahe",
+            "paritatrimahe"
+          ],
+          "alot": [
+            "paritrAyatAm",
+            "paritrAyetAm",
+            "paritrAyantAm",
+            "paritrAyasva",
+            "paritrAyeTAm",
+            "paritrAyaDvam",
+            "paritrAyE",
+            "paritrAyAvahE",
+            "paritrAyAmahE"
+          ],
+          "alrung": [
+            "paryatrAsyata",
+            "paryatrAsyetAm",
+            "paryatrAsyanta",
+            "paryatrAsyaTAH",
+            "paryatrAsyeTAm",
+            "paryatrAsyaDvam",
+            "paryatrAsye",
+            "paryatrAsyAvahi",
+            "paryatrAsyAmahi"
+          ],
+          "alrut": [
+            "paritrAsyate",
+            "paritrAsyete",
+            "paritrAsyante",
+            "paritrAsyase",
+            "paritrAsyeTe",
+            "paritrAsyaDve",
+            "paritrAsye",
+            "paritrAsyAvahe",
+            "paritrAsyAmahe"
+          ],
+          "alung": [
+            "paryatrAsta",
+            "paryatrAsAtAm",
+            "paryatrAsata",
+            "paryatrAsTAH",
+            "paryatrAsATAm",
+            "paryatrADvam",
+            "paryatrAsi",
+            "paryatrAsvahi",
+            "paryatrAsmahi"
+          ],
+          "alut": [
+            "paritrAtA",
+            "paritrAtArO",
+            "paritrAtAraH",
+            "paritrAtAse",
+            "paritrAtAsATe",
+            "paritrAtADve",
+            "paritrAtAhe",
+            "paritrAtAsvahe",
+            "paritrAtAsmahe"
+          ],
+          "avidhiling": [
+            "paritrAyeta",
+            "paritrAyeyAtAm",
+            "paritrAyeran",
+            "paritrAyeTAH",
+            "paritrAyeyATAm",
+            "paritrAyeDvam",
+            "paritrAyeya",
+            "paritrAyevahi",
+            "paritrAyemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "paritrAyizIzwa",
+            "paritrAsIzwa",
+            "paritrAyizIyAstAm",
+            "paritrAsIyAstAm",
+            "paritrAyizIran",
+            "paritrAsIran",
+            "paritrAyizIzWAH",
+            "paritrAsIzWAH",
+            "paritrAyizIyAsTAm",
+            "paritrAsIyAsTAm",
+            "paritrAyizIDvam",
+            "paritrAsIDvam",
+            "paritrAyizIya",
+            "paritrAsIya",
+            "paritrAyizIvahi",
+            "paritrAsIvahi",
+            "paritrAyizImahi",
+            "paritrAsImahi"
+          ],
+          "alang": [
+            "paryatrAyata",
+            "paryatrAyetAm",
+            "paryatrAyanta",
+            "paryatrAyaTAH",
+            "paryatrAyeTAm",
+            "paryatrAyaDvam",
+            "paryatrAye",
+            "paryatrAyAvahi",
+            "paryatrAyAmahi"
+          ],
+          "alat": [
+            "paritrAyate",
+            "paritrAyete",
+            "paritrAyante",
+            "paritrAyase",
+            "paritrAyeTe",
+            "paritrAyaDve",
+            "paritrAye",
+            "paritrAyAvahe",
+            "paritrAyAmahe"
+          ],
+          "alit": [
+            "paritatre",
+            "paritatrAte",
+            "paritatrire",
+            "paritatrize",
+            "paritatrATe",
+            "paritatriQve",
+            "paritatriDve",
+            "paritatre",
+            "paritatrivahe",
+            "paritatrimahe"
+          ],
+          "alot": [
+            "paritrAyatAm",
+            "paritrAyetAm",
+            "paritrAyantAm",
+            "paritrAyasva",
+            "paritrAyeTAm",
+            "paritrAyaDvam",
+            "paritrAyE",
+            "paritrAyAvahE",
+            "paritrAyAmahE"
+          ],
+          "alrung": [
+            "paryatrAyizyata",
+            "paryatrAsyata",
+            "paryatrAyizyetAm",
+            "paryatrAsyetAm",
+            "paryatrAyizyanta",
+            "paryatrAsyanta",
+            "paryatrAyizyaTAH",
+            "paryatrAsyaTAH",
+            "paryatrAyizyeTAm",
+            "paryatrAsyeTAm",
+            "paryatrAyizyaDvam",
+            "paryatrAsyaDvam",
+            "paryatrAyizye",
+            "paryatrAsye",
+            "paryatrAyizyAvahi",
+            "paryatrAsyAvahi",
+            "paryatrAyizyAmahi",
+            "paryatrAsyAmahi"
+          ],
+          "alrut": [
+            "paritrAyizyate",
+            "paritrAsyate",
+            "paritrAyizyete",
+            "paritrAsyete",
+            "paritrAyizyante",
+            "paritrAsyante",
+            "paritrAyizyase",
+            "paritrAsyase",
+            "paritrAyizyeTe",
+            "paritrAsyeTe",
+            "paritrAyizyaDve",
+            "paritrAsyaDve",
+            "paritrAyizye",
+            "paritrAsye",
+            "paritrAyizyAvahe",
+            "paritrAsyAvahe",
+            "paritrAyizyAmahe",
+            "paritrAsyAmahe"
+          ],
+          "alung": [
+            "paryatrAyi",
+            "paryatrAyizAtAm",
+            "paryatrAsAtAm",
+            "paryatrAyizata",
+            "paryatrAsata",
+            "paryatrAyizWAH",
+            "paryatrAsTAH",
+            "paryatrAyizATAm",
+            "paryatrAsATAm",
+            "paryatrAyiDvam",
+            "paryatrADvam",
+            "paryatrAyizi",
+            "paryatrAsi",
+            "paryatrAyizvahi",
+            "paryatrAsvahi",
+            "paryatrAyizmahi",
+            "paryatrAsmahi"
+          ],
+          "alut": [
+            "paritrAyitA",
+            "paritrAtA",
+            "paritrAyitArO",
+            "paritrAtArO",
+            "paritrAyitAraH",
+            "paritrAtAraH",
+            "paritrAyitAse",
+            "paritrAtAse",
+            "paritrAyitAsATe",
+            "paritrAtAsATe",
+            "paritrAyitADve",
+            "paritrAtADve",
+            "paritrAyitAhe",
+            "paritrAtAhe",
+            "paritrAyitAsvahe",
+            "paritrAtAsvahe",
+            "paritrAyitAsmahe",
+            "paritrAtAsmahe"
+          ],
+          "avidhiling": [
+            "paritrAyeta",
+            "paritrAyeyAtAm",
+            "paritrAyeran",
+            "paritrAyeTAH",
+            "paritrAyeyATAm",
+            "paritrAyeDvam",
+            "paritrAyeya",
+            "paritrAyevahi",
+            "paritrAyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "parititrAsizIzwa",
+            "parititrAsizIyAstAm",
+            "parititrAsizIran",
+            "parititrAsizIzWAH",
+            "parititrAsizIyAsTAm",
+            "parititrAsizIDvam",
+            "parititrAsizIya",
+            "parititrAsizIvahi",
+            "parititrAsizImahi"
+          ],
+          "alang": [
+            "paryatitrAsata",
+            "paryatitrAsetAm",
+            "paryatitrAsanta",
+            "paryatitrAsaTAH",
+            "paryatitrAseTAm",
+            "paryatitrAsaDvam",
+            "paryatitrAse",
+            "paryatitrAsAvahi",
+            "paryatitrAsAmahi"
+          ],
+          "alat": [
+            "parititrAsate",
+            "parititrAsete",
+            "parititrAsante",
+            "parititrAsase",
+            "parititrAseTe",
+            "parititrAsaDve",
+            "parititrAse",
+            "parititrAsAvahe",
+            "parititrAsAmahe"
+          ],
+          "alit": [
+            "parititrAsAmbaBUva",
+            "parititrAsAmAsa",
+            "parititrAsAYcakre",
+            "parititrAsAmbaBUvatuH",
+            "parititrAsAmAsatuH",
+            "parititrAsAYcakrAte",
+            "parititrAsAmbaBUvuH",
+            "parititrAsAmAsuH",
+            "parititrAsAYcakrire",
+            "parititrAsAmbaBUviTa",
+            "parititrAsAmAsiTa",
+            "parititrAsAYcakfze",
+            "parititrAsAmbaBUvaTuH",
+            "parititrAsAmAsaTuH",
+            "parititrAsAYcakrATe",
+            "parititrAsAmbaBUva",
+            "parititrAsAmAsa",
+            "parititrAsAYcakfQve",
+            "parititrAsAmbaBUva",
+            "parititrAsAmAsa",
+            "parititrAsAYcakre",
+            "parititrAsAmbaBUviva",
+            "parititrAsAmAsiva",
+            "parititrAsAYcakfvahe",
+            "parititrAsAmbaBUvima",
+            "parititrAsAmAsima",
+            "parititrAsAYcakfmahe"
+          ],
+          "alot": [
+            "parititrAsatAm",
+            "parititrAsetAm",
+            "parititrAsantAm",
+            "parititrAsasva",
+            "parititrAseTAm",
+            "parititrAsaDvam",
+            "parititrAsE",
+            "parititrAsAvahE",
+            "parititrAsAmahE"
+          ],
+          "alrung": [
+            "paryatitrAsizyata",
+            "paryatitrAsizyetAm",
+            "paryatitrAsizyanta",
+            "paryatitrAsizyaTAH",
+            "paryatitrAsizyeTAm",
+            "paryatitrAsizyaDvam",
+            "paryatitrAsizye",
+            "paryatitrAsizyAvahi",
+            "paryatitrAsizyAmahi"
+          ],
+          "alrut": [
+            "parititrAsizyate",
+            "parititrAsizyete",
+            "parititrAsizyante",
+            "parititrAsizyase",
+            "parititrAsizyeTe",
+            "parititrAsizyaDve",
+            "parititrAsizye",
+            "parititrAsizyAvahe",
+            "parititrAsizyAmahe"
+          ],
+          "alung": [
+            "paryatitrAsizwa",
+            "paryatitrAsizAtAm",
+            "paryatitrAsizata",
+            "paryatitrAsizWAH",
+            "paryatitrAsizATAm",
+            "paryatitrAsiDvam",
+            "paryatitrAsizi",
+            "paryatitrAsizvahi",
+            "paryatitrAsizmahi"
+          ],
+          "alut": [
+            "parititrAsitA",
+            "parititrAsitArO",
+            "parititrAsitAraH",
+            "parititrAsitAse",
+            "parititrAsitAsATe",
+            "parititrAsitADve",
+            "parititrAsitAhe",
+            "parititrAsitAsvahe",
+            "parititrAsitAsmahe"
+          ],
+          "avidhiling": [
+            "parititrAseta",
+            "parititrAseyAtAm",
+            "parititrAseran",
+            "parititrAseTAH",
+            "parititrAseyATAm",
+            "parititrAseDvam",
+            "parititrAseya",
+            "parititrAsevahi",
+            "parititrAsemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "parititrAsizIzwa",
+            "parititrAsizIyAstAm",
+            "parititrAsizIran",
+            "parititrAsizIzWAH",
+            "parititrAsizIyAsTAm",
+            "parititrAsizIDvam",
+            "parititrAsizIya",
+            "parititrAsizIvahi",
+            "parititrAsizImahi"
+          ],
+          "alang": [
+            "paryatitrAsyata",
+            "paryatitrAsyetAm",
+            "paryatitrAsyanta",
+            "paryatitrAsyaTAH",
+            "paryatitrAsyeTAm",
+            "paryatitrAsyaDvam",
+            "paryatitrAsye",
+            "paryatitrAsyAvahi",
+            "paryatitrAsyAmahi"
+          ],
+          "alat": [
+            "parititrAsyate",
+            "parititrAsyete",
+            "parititrAsyante",
+            "parititrAsyase",
+            "parititrAsyeTe",
+            "parititrAsyaDve",
+            "parititrAsye",
+            "parititrAsyAvahe",
+            "parititrAsyAmahe"
+          ],
+          "alit": [
+            "parititrAsAmbaBUve",
+            "parititrAsAmAse",
+            "parititrAsAYcakre",
+            "parititrAsAmbaBUvAte",
+            "parititrAsAmAsAte",
+            "parititrAsAYcakrAte",
+            "parititrAsAmbaBUvire",
+            "parititrAsAmAsire",
+            "parititrAsAYcakrire",
+            "parititrAsAmbaBUvize",
+            "parititrAsAmAsize",
+            "parititrAsAYcakfze",
+            "parititrAsAmbaBUvATe",
+            "parititrAsAmAsATe",
+            "parititrAsAYcakrATe",
+            "parititrAsAmbaBUviQve",
+            "parititrAsAmAsiDve",
+            "parititrAsAYcakfQve",
+            "parititrAsAmbaBUve",
+            "parititrAsAmAhe",
+            "parititrAsAYcakre",
+            "parititrAsAmbaBUvivahe",
+            "parititrAsAmAsivahe",
+            "parititrAsAYcakfvahe",
+            "parititrAsAmbaBUvimahe",
+            "parititrAsAmAsimahe",
+            "parititrAsAYcakfmahe"
+          ],
+          "alot": [
+            "parititrAsyatAm",
+            "parititrAsyetAm",
+            "parititrAsyantAm",
+            "parititrAsyasva",
+            "parititrAsyeTAm",
+            "parititrAsyaDvam",
+            "parititrAsyE",
+            "parititrAsyAvahE",
+            "parititrAsyAmahE"
+          ],
+          "alrung": [
+            "paryatitrAsizyata",
+            "paryatitrAsizyetAm",
+            "paryatitrAsizyanta",
+            "paryatitrAsizyaTAH",
+            "paryatitrAsizyeTAm",
+            "paryatitrAsizyaDvam",
+            "paryatitrAsizye",
+            "paryatitrAsizyAvahi",
+            "paryatitrAsizyAmahi"
+          ],
+          "alrut": [
+            "parititrAsizyate",
+            "parititrAsizyete",
+            "parititrAsizyante",
+            "parititrAsizyase",
+            "parititrAsizyeTe",
+            "parititrAsizyaDve",
+            "parititrAsizye",
+            "parititrAsizyAvahe",
+            "parititrAsizyAmahe"
+          ],
+          "alung": [
+            "paryatitrAsi",
+            "paryatitrAsizAtAm",
+            "paryatitrAsizata",
+            "paryatitrAsizWAH",
+            "paryatitrAsizATAm",
+            "paryatitrAsiDvam",
+            "paryatitrAsizi",
+            "paryatitrAsizvahi",
+            "paryatitrAsizmahi"
+          ],
+          "alut": [
+            "parititrAsitA",
+            "parititrAsitArO",
+            "parititrAsitAraH",
+            "parititrAsitAse",
+            "parititrAsitAsATe",
+            "parititrAsitADve",
+            "parititrAsitAhe",
+            "parititrAsitAsvahe",
+            "parititrAsitAsmahe"
+          ],
+          "avidhiling": [
+            "parititrAsyeta",
+            "parititrAsyeyAtAm",
+            "parititrAsyeran",
+            "parititrAsyeTAH",
+            "parititrAsyeyATAm",
+            "parititrAsyeDvam",
+            "parititrAsyeya",
+            "parititrAsyevahi",
+            "parititrAsyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "paritrApayizIzwa",
+            "paritrApayizIyAstAm",
+            "paritrApayizIran",
+            "paritrApayizIzWAH",
+            "paritrApayizIyAsTAm",
+            "paritrApayizIQvam",
+            "paritrApayizIDvam",
+            "paritrApayizIya",
+            "paritrApayizIvahi",
+            "paritrApayizImahi"
+          ],
+          "alang": [
+            "paryatrApayata",
+            "paryatrApayetAm",
+            "paryatrApayanta",
+            "paryatrApayaTAH",
+            "paryatrApayeTAm",
+            "paryatrApayaDvam",
+            "paryatrApaye",
+            "paryatrApayAvahi",
+            "paryatrApayAmahi"
+          ],
+          "alat": [
+            "paritrApayate",
+            "paritrApayete",
+            "paritrApayante",
+            "paritrApayase",
+            "paritrApayeTe",
+            "paritrApayaDve",
+            "paritrApaye",
+            "paritrApayAvahe",
+            "paritrApayAmahe"
+          ],
+          "alit": [
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakre",
+            "paritrApayAmbaBUvatuH",
+            "paritrApayAmAsatuH",
+            "paritrApayAYcakrAte",
+            "paritrApayAmbaBUvuH",
+            "paritrApayAmAsuH",
+            "paritrApayAYcakrire",
+            "paritrApayAmbaBUviTa",
+            "paritrApayAmAsiTa",
+            "paritrApayAYcakfze",
+            "paritrApayAmbaBUvaTuH",
+            "paritrApayAmAsaTuH",
+            "paritrApayAYcakrATe",
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakfQve",
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakre",
+            "paritrApayAmbaBUviva",
+            "paritrApayAmAsiva",
+            "paritrApayAYcakfvahe",
+            "paritrApayAmbaBUvima",
+            "paritrApayAmAsima",
+            "paritrApayAYcakfmahe"
+          ],
+          "alot": [
+            "paritrApayatAm",
+            "paritrApayetAm",
+            "paritrApayantAm",
+            "paritrApayasva",
+            "paritrApayeTAm",
+            "paritrApayaDvam",
+            "paritrApayE",
+            "paritrApayAvahE",
+            "paritrApayAmahE"
+          ],
+          "alrung": [
+            "paryatrApayizyata",
+            "paryatrApayizyetAm",
+            "paryatrApayizyanta",
+            "paryatrApayizyaTAH",
+            "paryatrApayizyeTAm",
+            "paryatrApayizyaDvam",
+            "paryatrApayizye",
+            "paryatrApayizyAvahi",
+            "paryatrApayizyAmahi"
+          ],
+          "alrut": [
+            "paritrApayizyate",
+            "paritrApayizyete",
+            "paritrApayizyante",
+            "paritrApayizyase",
+            "paritrApayizyeTe",
+            "paritrApayizyaDve",
+            "paritrApayizye",
+            "paritrApayizyAvahe",
+            "paritrApayizyAmahe"
+          ],
+          "alung": [
+            "paryatitrapata",
+            "paryatitrapetAm",
+            "paryatitrapanta",
+            "paryatitrapaTAH",
+            "paryatitrapeTAm",
+            "paryatitrapaDvam",
+            "paryatitrape",
+            "paryatitrapAvahi",
+            "paryatitrapAmahi"
+          ],
+          "alut": [
+            "paritrApayitA",
+            "paritrApayitArO",
+            "paritrApayitAraH",
+            "paritrApayitAse",
+            "paritrApayitAsATe",
+            "paritrApayitADve",
+            "paritrApayitAhe",
+            "paritrApayitAsvahe",
+            "paritrApayitAsmahe"
+          ],
+          "avidhiling": [
+            "paritrApayeta",
+            "paritrApayeyAtAm",
+            "paritrApayeran",
+            "paritrApayeTAH",
+            "paritrApayeyATAm",
+            "paritrApayeDvam",
+            "paritrApayeya",
+            "paritrApayevahi",
+            "paritrApayemahi"
+          ],
+          "pashirling": [
+            "paritrApyAt",
+            "paritrApyAd",
+            "paritrApyAstAm",
+            "paritrApyAsuH",
+            "paritrApyAH",
+            "paritrApyAstam",
+            "paritrApyAsta",
+            "paritrApyAsam",
+            "paritrApyAsva",
+            "paritrApyAsma"
+          ],
+          "plang": [
+            "paryatrApayat",
+            "paryatrApayad",
+            "paryatrApayatAm",
+            "paryatrApayan",
+            "paryatrApayaH",
+            "paryatrApayatam",
+            "paryatrApayata",
+            "paryatrApayam",
+            "paryatrApayAva",
+            "paryatrApayAma"
+          ],
+          "plat": [
+            "paritrApayati",
+            "paritrApayataH",
+            "paritrApayanti",
+            "paritrApayasi",
+            "paritrApayaTaH",
+            "paritrApayaTa",
+            "paritrApayAmi",
+            "paritrApayAvaH",
+            "paritrApayAmaH"
+          ],
+          "plit": [
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakAra",
+            "paritrApayAmbaBUvatuH",
+            "paritrApayAmAsatuH",
+            "paritrApayAYcakratuH",
+            "paritrApayAmbaBUvuH",
+            "paritrApayAmAsuH",
+            "paritrApayAYcakruH",
+            "paritrApayAmbaBUviTa",
+            "paritrApayAmAsiTa",
+            "paritrApayAYcakarTa",
+            "paritrApayAmbaBUvaTuH",
+            "paritrApayAmAsaTuH",
+            "paritrApayAYcakraTuH",
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakra",
+            "paritrApayAmbaBUva",
+            "paritrApayAmAsa",
+            "paritrApayAYcakara",
+            "paritrApayAYcakAra",
+            "paritrApayAmbaBUviva",
+            "paritrApayAmAsiva",
+            "paritrApayAYcakfva",
+            "paritrApayAmbaBUvima",
+            "paritrApayAmAsima",
+            "paritrApayAYcakfma"
+          ],
+          "plot": [
+            "paritrApayatAt",
+            "paritrApayatAd",
+            "paritrApayatu",
+            "paritrApayatAm",
+            "paritrApayantu",
+            "paritrApayatAt",
+            "paritrApayatAd",
+            "paritrApaya",
+            "paritrApayatam",
+            "paritrApayata",
+            "paritrApayARi",
+            "paritrApayAva",
+            "paritrApayAma"
+          ],
+          "plrung": [
+            "paryatrApayizyat",
+            "paryatrApayizyad",
+            "paryatrApayizyatAm",
+            "paryatrApayizyan",
+            "paryatrApayizyaH",
+            "paryatrApayizyatam",
+            "paryatrApayizyata",
+            "paryatrApayizyam",
+            "paryatrApayizyAva",
+            "paryatrApayizyAma"
+          ],
+          "plrut": [
+            "paritrApayizyati",
+            "paritrApayizyataH",
+            "paritrApayizyanti",
+            "paritrApayizyasi",
+            "paritrApayizyaTaH",
+            "paritrApayizyaTa",
+            "paritrApayizyAmi",
+            "paritrApayizyAvaH",
+            "paritrApayizyAmaH"
+          ],
+          "plung": [
+            "paryatitrapat",
+            "paryatitrapad",
+            "paryatitrapatAm",
+            "paryatitrapan",
+            "paryatitrapaH",
+            "paryatitrapatam",
+            "paryatitrapata",
+            "paryatitrapam",
+            "paryatitrapAva",
+            "paryatitrapAma"
+          ],
+          "plut": [
+            "paritrApayitA",
+            "paritrApayitArO",
+            "paritrApayitAraH",
+            "paritrApayitAsi",
+            "paritrApayitAsTaH",
+            "paritrApayitAsTa",
+            "paritrApayitAsmi",
+            "paritrApayitAsvaH",
+            "paritrApayitAsmaH"
+          ],
+          "pvidhiling": [
+            "paritrApayet",
+            "paritrApayed",
+            "paritrApayetAm",
+            "paritrApayeyuH",
+            "paritrApayeH",
+            "paritrApayetam",
+            "paritrApayeta",
+            "paritrApayeyam",
+            "paritrApayeva",
+            "paritrApayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "paritrApizIzwa",
+            "paritrApayizIzwa",
+            "paritrApizIyAstAm",
+            "paritrApayizIyAstAm",
+            "paritrApizIran",
+            "paritrApayizIran",
+            "paritrApizIzWAH",
+            "paritrApayizIzWAH",
+            "paritrApizIyAsTAm",
+            "paritrApayizIyAsTAm",
+            "paritrApizIDvam",
+            "paritrApayizIQvam",
+            "paritrApayizIDvam",
+            "paritrApizIya",
+            "paritrApayizIya",
+            "paritrApizIvahi",
+            "paritrApayizIvahi",
+            "paritrApizImahi",
+            "paritrApayizImahi"
+          ],
+          "alang": [
+            "paryatrApyata",
+            "paryatrApyetAm",
+            "paryatrApyanta",
+            "paryatrApyaTAH",
+            "paryatrApyeTAm",
+            "paryatrApyaDvam",
+            "paryatrApye",
+            "paryatrApyAvahi",
+            "paryatrApyAmahi"
+          ],
+          "alat": [
+            "paritrApyate",
+            "paritrApyete",
+            "paritrApyante",
+            "paritrApyase",
+            "paritrApyeTe",
+            "paritrApyaDve",
+            "paritrApye",
+            "paritrApyAvahe",
+            "paritrApyAmahe"
+          ],
+          "alit": [
+            "paritrApayAmbaBUve",
+            "paritrApayAmAse",
+            "paritrApayAYcakre",
+            "paritrApayAmbaBUvAte",
+            "paritrApayAmAsAte",
+            "paritrApayAYcakrAte",
+            "paritrApayAmbaBUvire",
+            "paritrApayAmAsire",
+            "paritrApayAYcakrire",
+            "paritrApayAmbaBUvize",
+            "paritrApayAmAsize",
+            "paritrApayAYcakfze",
+            "paritrApayAmbaBUvATe",
+            "paritrApayAmAsATe",
+            "paritrApayAYcakrATe",
+            "paritrApayAmbaBUviQve",
+            "paritrApayAmAsiDve",
+            "paritrApayAYcakfQve",
+            "paritrApayAmbaBUve",
+            "paritrApayAmAhe",
+            "paritrApayAYcakre",
+            "paritrApayAmbaBUvivahe",
+            "paritrApayAmAsivahe",
+            "paritrApayAYcakfvahe",
+            "paritrApayAmbaBUvimahe",
+            "paritrApayAmAsimahe",
+            "paritrApayAYcakfmahe"
+          ],
+          "alot": [
+            "paritrApyatAm",
+            "paritrApyetAm",
+            "paritrApyantAm",
+            "paritrApyasva",
+            "paritrApyeTAm",
+            "paritrApyaDvam",
+            "paritrApyE",
+            "paritrApyAvahE",
+            "paritrApyAmahE"
+          ],
+          "alrung": [
+            "paryatrApizyata",
+            "paryatrApayizyata",
+            "paryatrApizyetAm",
+            "paryatrApayizyetAm",
+            "paryatrApizyanta",
+            "paryatrApayizyanta",
+            "paryatrApizyaTAH",
+            "paryatrApayizyaTAH",
+            "paryatrApizyeTAm",
+            "paryatrApayizyeTAm",
+            "paryatrApizyaDvam",
+            "paryatrApayizyaDvam",
+            "paryatrApizye",
+            "paryatrApayizye",
+            "paryatrApizyAvahi",
+            "paryatrApayizyAvahi",
+            "paryatrApizyAmahi",
+            "paryatrApayizyAmahi"
+          ],
+          "alrut": [
+            "paritrApizyate",
+            "paritrApayizyate",
+            "paritrApizyete",
+            "paritrApayizyete",
+            "paritrApizyante",
+            "paritrApayizyante",
+            "paritrApizyase",
+            "paritrApayizyase",
+            "paritrApizyeTe",
+            "paritrApayizyeTe",
+            "paritrApizyaDve",
+            "paritrApayizyaDve",
+            "paritrApizye",
+            "paritrApayizye",
+            "paritrApizyAvahe",
+            "paritrApayizyAvahe",
+            "paritrApizyAmahe",
+            "paritrApayizyAmahe"
+          ],
+          "alung": [
+            "paryatrApi",
+            "paryatrApizAtAm",
+            "paryatrApayizAtAm",
+            "paryatrApizata",
+            "paryatrApayizata",
+            "paryatrApizWAH",
+            "paryatrApayizWAH",
+            "paryatrApizATAm",
+            "paryatrApayizATAm",
+            "paryatrApiDvam",
+            "paryatrApayiQvam",
+            "paryatrApayiDvam",
+            "paryatrApizi",
+            "paryatrApayizi",
+            "paryatrApizvahi",
+            "paryatrApayizvahi",
+            "paryatrApizmahi",
+            "paryatrApayizmahi"
+          ],
+          "alut": [
+            "paritrApitA",
+            "paritrApayitA",
+            "paritrApitArO",
+            "paritrApayitArO",
+            "paritrApitAraH",
+            "paritrApayitAraH",
+            "paritrApitAse",
+            "paritrApayitAse",
+            "paritrApitAsATe",
+            "paritrApayitAsATe",
+            "paritrApitADve",
+            "paritrApayitADve",
+            "paritrApitAhe",
+            "paritrApayitAhe",
+            "paritrApitAsvahe",
+            "paritrApayitAsvahe",
+            "paritrApitAsmahe",
+            "paritrApayitAsmahe"
+          ],
+          "avidhiling": [
+            "paritrApyeta",
+            "paritrApyeyAtAm",
+            "paritrApyeran",
+            "paritrApyeTAH",
+            "paritrApyeyATAm",
+            "paritrApyeDvam",
+            "paritrApyeya",
+            "paritrApyevahi",
+            "paritrApyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "paritAtrAyizIzwa",
+            "paritAtrAyizIyAstAm",
+            "paritAtrAyizIran",
+            "paritAtrAyizIzWAH",
+            "paritAtrAyizIyAsTAm",
+            "paritAtrAyizIQvam",
+            "paritAtrAyizIDvam",
+            "paritAtrAyizIya",
+            "paritAtrAyizIvahi",
+            "paritAtrAyizImahi"
+          ],
+          "alang": [
+            "paryatAtrAyata",
+            "paryatAtrAyetAm",
+            "paryatAtrAyanta",
+            "paryatAtrAyaTAH",
+            "paryatAtrAyeTAm",
+            "paryatAtrAyaDvam",
+            "paryatAtrAye",
+            "paryatAtrAyAvahi",
+            "paryatAtrAyAmahi"
+          ],
+          "alat": [
+            "paritAtrAyate",
+            "paritAtrAyete",
+            "paritAtrAyante",
+            "paritAtrAyase",
+            "paritAtrAyeTe",
+            "paritAtrAyaDve",
+            "paritAtrAye",
+            "paritAtrAyAvahe",
+            "paritAtrAyAmahe"
+          ],
+          "alit": [
+            "paritAtrAyAmbaBUva",
+            "paritAtrAyAmAsa",
+            "paritAtrAyAYcakre",
+            "paritAtrAyAmbaBUvatuH",
+            "paritAtrAyAmAsatuH",
+            "paritAtrAyAYcakrAte",
+            "paritAtrAyAmbaBUvuH",
+            "paritAtrAyAmAsuH",
+            "paritAtrAyAYcakrire",
+            "paritAtrAyAmbaBUviTa",
+            "paritAtrAyAmAsiTa",
+            "paritAtrAyAYcakfze",
+            "paritAtrAyAmbaBUvaTuH",
+            "paritAtrAyAmAsaTuH",
+            "paritAtrAyAYcakrATe",
+            "paritAtrAyAmbaBUva",
+            "paritAtrAyAmAsa",
+            "paritAtrAyAYcakfQve",
+            "paritAtrAyAmbaBUva",
+            "paritAtrAyAmAsa",
+            "paritAtrAyAYcakre",
+            "paritAtrAyAmbaBUviva",
+            "paritAtrAyAmAsiva",
+            "paritAtrAyAYcakfvahe",
+            "paritAtrAyAmbaBUvima",
+            "paritAtrAyAmAsima",
+            "paritAtrAyAYcakfmahe"
+          ],
+          "alot": [
+            "paritAtrAyatAm",
+            "paritAtrAyetAm",
+            "paritAtrAyantAm",
+            "paritAtrAyasva",
+            "paritAtrAyeTAm",
+            "paritAtrAyaDvam",
+            "paritAtrAyE",
+            "paritAtrAyAvahE",
+            "paritAtrAyAmahE"
+          ],
+          "alrung": [
+            "paryatAtrAyizyata",
+            "paryatAtrAyizyetAm",
+            "paryatAtrAyizyanta",
+            "paryatAtrAyizyaTAH",
+            "paryatAtrAyizyeTAm",
+            "paryatAtrAyizyaDvam",
+            "paryatAtrAyizye",
+            "paryatAtrAyizyAvahi",
+            "paryatAtrAyizyAmahi"
+          ],
+          "alrut": [
+            "paritAtrAyizyate",
+            "paritAtrAyizyete",
+            "paritAtrAyizyante",
+            "paritAtrAyizyase",
+            "paritAtrAyizyeTe",
+            "paritAtrAyizyaDve",
+            "paritAtrAyizye",
+            "paritAtrAyizyAvahe",
+            "paritAtrAyizyAmahe"
+          ],
+          "alung": [
+            "paryatAtrAyizwa",
+            "paryatAtrAyizAtAm",
+            "paryatAtrAyizata",
+            "paryatAtrAyizWAH",
+            "paryatAtrAyizATAm",
+            "paryatAtrAyiQvam",
+            "paryatAtrAyiDvam",
+            "paryatAtrAyizi",
+            "paryatAtrAyizvahi",
+            "paryatAtrAyizmahi"
+          ],
+          "alut": [
+            "paritAtrAyitA",
+            "paritAtrAyitArO",
+            "paritAtrAyitAraH",
+            "paritAtrAyitAse",
+            "paritAtrAyitAsATe",
+            "paritAtrAyitADve",
+            "paritAtrAyitAhe",
+            "paritAtrAyitAsvahe",
+            "paritAtrAyitAsmahe"
+          ],
+          "avidhiling": [
+            "paritAtrAyeta",
+            "paritAtrAyeyAtAm",
+            "paritAtrAyeran",
+            "paritAtrAyeTAH",
+            "paritAtrAyeyATAm",
+            "paritAtrAyeDvam",
+            "paritAtrAyeya",
+            "paritAtrAyevahi",
+            "paritAtrAyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "paritAtrAyizIzwa",
+            "paritAtrAyizIyAstAm",
+            "paritAtrAyizIran",
+            "paritAtrAyizIzWAH",
+            "paritAtrAyizIyAsTAm",
+            "paritAtrAyizIQvam",
+            "paritAtrAyizIDvam",
+            "paritAtrAyizIya",
+            "paritAtrAyizIvahi",
+            "paritAtrAyizImahi"
+          ],
+          "alang": [
+            "paryatAtrAyyata",
+            "paryatAtrAyyetAm",
+            "paryatAtrAyyanta",
+            "paryatAtrAyyaTAH",
+            "paryatAtrAyyeTAm",
+            "paryatAtrAyyaDvam",
+            "paryatAtrAyye",
+            "paryatAtrAyyAvahi",
+            "paryatAtrAyyAmahi"
+          ],
+          "alat": [
+            "paritAtrAyyate",
+            "paritAtrAyyete",
+            "paritAtrAyyante",
+            "paritAtrAyyase",
+            "paritAtrAyyeTe",
+            "paritAtrAyyaDve",
+            "paritAtrAyye",
+            "paritAtrAyyAvahe",
+            "paritAtrAyyAmahe"
+          ],
+          "alit": [
+            "paritAtrAyAmbaBUve",
+            "paritAtrAyAmAse",
+            "paritAtrAyAYcakre",
+            "paritAtrAyAmbaBUvAte",
+            "paritAtrAyAmAsAte",
+            "paritAtrAyAYcakrAte",
+            "paritAtrAyAmbaBUvire",
+            "paritAtrAyAmAsire",
+            "paritAtrAyAYcakrire",
+            "paritAtrAyAmbaBUvize",
+            "paritAtrAyAmAsize",
+            "paritAtrAyAYcakfze",
+            "paritAtrAyAmbaBUvATe",
+            "paritAtrAyAmAsATe",
+            "paritAtrAyAYcakrATe",
+            "paritAtrAyAmbaBUviQve",
+            "paritAtrAyAmAsiDve",
+            "paritAtrAyAYcakfQve",
+            "paritAtrAyAmbaBUve",
+            "paritAtrAyAmAhe",
+            "paritAtrAyAYcakre",
+            "paritAtrAyAmbaBUvivahe",
+            "paritAtrAyAmAsivahe",
+            "paritAtrAyAYcakfvahe",
+            "paritAtrAyAmbaBUvimahe",
+            "paritAtrAyAmAsimahe",
+            "paritAtrAyAYcakfmahe"
+          ],
+          "alot": [
+            "paritAtrAyyatAm",
+            "paritAtrAyyetAm",
+            "paritAtrAyyantAm",
+            "paritAtrAyyasva",
+            "paritAtrAyyeTAm",
+            "paritAtrAyyaDvam",
+            "paritAtrAyyE",
+            "paritAtrAyyAvahE",
+            "paritAtrAyyAmahE"
+          ],
+          "alrung": [
+            "paryatAtrAyizyata",
+            "paryatAtrAyizyetAm",
+            "paryatAtrAyizyanta",
+            "paryatAtrAyizyaTAH",
+            "paryatAtrAyizyeTAm",
+            "paryatAtrAyizyaDvam",
+            "paryatAtrAyizye",
+            "paryatAtrAyizyAvahi",
+            "paryatAtrAyizyAmahi"
+          ],
+          "alrut": [
+            "paritAtrAyizyate",
+            "paritAtrAyizyete",
+            "paritAtrAyizyante",
+            "paritAtrAyizyase",
+            "paritAtrAyizyeTe",
+            "paritAtrAyizyaDve",
+            "paritAtrAyizye",
+            "paritAtrAyizyAvahe",
+            "paritAtrAyizyAmahe"
+          ],
+          "alung": [
+            "paryatAtrAyi",
+            "paryatAtrAyizAtAm",
+            "paryatAtrAyizata",
+            "paryatAtrAyizWAH",
+            "paryatAtrAyizATAm",
+            "paryatAtrAyiQvam",
+            "paryatAtrAyiDvam",
+            "paryatAtrAyizi",
+            "paryatAtrAyizvahi",
+            "paryatAtrAyizmahi"
+          ],
+          "alut": [
+            "paritAtrAyitA",
+            "paritAtrAyitArO",
+            "paritAtrAyitAraH",
+            "paritAtrAyitAse",
+            "paritAtrAyitAsATe",
+            "paritAtrAyitADve",
+            "paritAtrAyitAhe",
+            "paritAtrAyitAsvahe",
+            "paritAtrAyitAsmahe"
+          ],
+          "avidhiling": [
+            "paritAtrAyyeta",
+            "paritAtrAyyeyAtAm",
+            "paritAtrAyyeran",
+            "paritAtrAyyeTAH",
+            "paritAtrAyyeyATAm",
+            "paritAtrAyyeDvam",
+            "paritAtrAyyeya",
+            "paritAtrAyyevahi",
+            "paritAtrAyyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "paritAtrAyAt",
+            "paritAtrAyAd",
+            "paritAtrAyAstAm",
+            "paritAtrAyAsuH",
+            "paritAtrAyAH",
+            "paritAtrAyAstam",
+            "paritAtrAyAsta",
+            "paritAtrAyAsam",
+            "paritAtrAyAsva",
+            "paritAtrAyAsma"
+          ],
+          "plang": [
+            "paryatAtret",
+            "paryatAtred",
+            "paryatAtrAt",
+            "paryatAtrAd",
+            "paryatAtrItAm",
+            "paryatAtruH",
+            "paryatAtreH",
+            "paryatAtrAH",
+            "paryatAtrItam",
+            "paryatAtrIta",
+            "paryatAtrAm",
+            "paryatAtrIva",
+            "paryatAtrIma"
+          ],
+          "plat": [
+            "paritAtreti",
+            "paritAtrAti",
+            "paritAtrItaH",
+            "paritAtrati",
+            "paritAtrezi",
+            "paritAtrAsi",
+            "paritAtrITaH",
+            "paritAtrITa",
+            "paritAtremi",
+            "paritAtrAmi",
+            "paritAtrIvaH",
+            "paritAtrImaH"
+          ],
+          "plit": [
+            "paritAtrAmbaBUva",
+            "paritAtrAmAsa",
+            "paritAtrAYcakAra",
+            "paritAtrAmbaBUvatuH",
+            "paritAtrAmAsatuH",
+            "paritAtrAYcakratuH",
+            "paritAtrAmbaBUvuH",
+            "paritAtrAmAsuH",
+            "paritAtrAYcakruH",
+            "paritAtrAmbaBUviTa",
+            "paritAtrAmAsiTa",
+            "paritAtrAYcakarTa",
+            "paritAtrAmbaBUvaTuH",
+            "paritAtrAmAsaTuH",
+            "paritAtrAYcakraTuH",
+            "paritAtrAmbaBUva",
+            "paritAtrAmAsa",
+            "paritAtrAYcakra",
+            "paritAtrAmbaBUva",
+            "paritAtrAmAsa",
+            "paritAtrAYcakara",
+            "paritAtrAYcakAra",
+            "paritAtrAmbaBUviva",
+            "paritAtrAmAsiva",
+            "paritAtrAYcakfva",
+            "paritAtrAmbaBUvima",
+            "paritAtrAmAsima",
+            "paritAtrAYcakfma"
+          ],
+          "plot": [
+            "paritAtrItAt",
+            "paritAtrItAd",
+            "paritAtretu",
+            "paritAtrAtu",
+            "paritAtrItAm",
+            "paritAtratu",
+            "paritAtrItAt",
+            "paritAtrItAd",
+            "paritAtrIhi",
+            "paritAtrItam",
+            "paritAtrIta",
+            "paritAtrARi",
+            "paritAtrAva",
+            "paritAtrAma"
+          ],
+          "plrung": [
+            "paryatAtrizyat",
+            "paryatAtrizyad",
+            "paryatAtrizyatAm",
+            "paryatAtrizyan",
+            "paryatAtrizyaH",
+            "paryatAtrizyatam",
+            "paryatAtrizyata",
+            "paryatAtrizyam",
+            "paryatAtrizyAva",
+            "paryatAtrizyAma"
+          ],
+          "plrut": [
+            "paritAtrizyati",
+            "paritAtrizyataH",
+            "paritAtrizyanti",
+            "paritAtrizyasi",
+            "paritAtrizyaTaH",
+            "paritAtrizyaTa",
+            "paritAtrizyAmi",
+            "paritAtrizyAvaH",
+            "paritAtrizyAmaH"
+          ],
+          "plung": [
+            "paryatAtrAsit",
+            "paryatAtrAsid",
+            "paryatAtrAsizwAm",
+            "paryatAtrAsizuH",
+            "paryatAtrAsiH",
+            "paryatAtrAsizwam",
+            "paryatAtrAsizwa",
+            "paryatAtrAsizam",
+            "paryatAtrAsizva",
+            "paryatAtrAsizma"
+          ],
+          "plut": [
+            "paritAtritA",
+            "paritAtritArO",
+            "paritAtritAraH",
+            "paritAtritAsi",
+            "paritAtritAsTaH",
+            "paritAtritAsTa",
+            "paritAtritAsmi",
+            "paritAtritAsvaH",
+            "paritAtritAsmaH"
+          ],
+          "pvidhiling": [
+            "paritAtrIyAt",
+            "paritAtrIyAd",
+            "paritAtrIyAtAm",
+            "paritAtrIyuH",
+            "paritAtrIyAH",
+            "paritAtrIyAtam",
+            "paritAtrIyAta",
+            "paritAtrIyAm",
+            "paritAtrIyAva",
+            "paritAtrIyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "paritAtrAyizIzwa",
+            "paritAtrizIzwa",
+            "paritAtrAyizIyAstAm",
+            "paritAtrizIyAstAm",
+            "paritAtrAyizIran",
+            "paritAtrizIran",
+            "paritAtrAyizIzWAH",
+            "paritAtrizIzWAH",
+            "paritAtrAyizIyAsTAm",
+            "paritAtrizIyAsTAm",
+            "paritAtrAyizIDvam",
+            "paritAtrizIQvam",
+            "paritAtrAyizIya",
+            "paritAtrizIya",
+            "paritAtrAyizIvahi",
+            "paritAtrizIvahi",
+            "paritAtrAyizImahi",
+            "paritAtrizImahi"
+          ],
+          "alang": [
+            "paryatAtrAyata",
+            "paryatAtrAyetAm",
+            "paryatAtrAyanta",
+            "paryatAtrAyaTAH",
+            "paryatAtrAyeTAm",
+            "paryatAtrAyaDvam",
+            "paryatAtrAye",
+            "paryatAtrAyAvahi",
+            "paryatAtrAyAmahi"
+          ],
+          "alat": [
+            "paritAtrAyate",
+            "paritAtrAyete",
+            "paritAtrAyante",
+            "paritAtrAyase",
+            "paritAtrAyeTe",
+            "paritAtrAyaDve",
+            "paritAtrAye",
+            "paritAtrAyAvahe",
+            "paritAtrAyAmahe"
+          ],
+          "alit": [
+            "paritAtrAmbaBUve",
+            "paritAtrAmAse",
+            "paritAtrAYcakre",
+            "paritAtrAmbaBUvAte",
+            "paritAtrAmAsAte",
+            "paritAtrAYcakrAte",
+            "paritAtrAmbaBUvire",
+            "paritAtrAmAsire",
+            "paritAtrAYcakrire",
+            "paritAtrAmbaBUvize",
+            "paritAtrAmAsize",
+            "paritAtrAYcakfze",
+            "paritAtrAmbaBUvATe",
+            "paritAtrAmAsATe",
+            "paritAtrAYcakrATe",
+            "paritAtrAmbaBUviQve",
+            "paritAtrAmAsiDve",
+            "paritAtrAYcakfQve",
+            "paritAtrAmbaBUve",
+            "paritAtrAmAhe",
+            "paritAtrAYcakre",
+            "paritAtrAmbaBUvivahe",
+            "paritAtrAmAsivahe",
+            "paritAtrAYcakfvahe",
+            "paritAtrAmbaBUvimahe",
+            "paritAtrAmAsimahe",
+            "paritAtrAYcakfmahe"
+          ],
+          "alot": [
+            "paritAtrAyatAm",
+            "paritAtrAyetAm",
+            "paritAtrAyantAm",
+            "paritAtrAyasva",
+            "paritAtrAyeTAm",
+            "paritAtrAyaDvam",
+            "paritAtrAyE",
+            "paritAtrAyAvahE",
+            "paritAtrAyAmahE"
+          ],
+          "alrung": [
+            "paryatAtrAyizyata",
+            "paryatAtrizyata",
+            "paryatAtrAyizyetAm",
+            "paryatAtrizyetAm",
+            "paryatAtrAyizyanta",
+            "paryatAtrizyanta",
+            "paryatAtrAyizyaTAH",
+            "paryatAtrizyaTAH",
+            "paryatAtrAyizyeTAm",
+            "paryatAtrizyeTAm",
+            "paryatAtrAyizyaDvam",
+            "paryatAtrizyaDvam",
+            "paryatAtrAyizye",
+            "paryatAtrizye",
+            "paryatAtrAyizyAvahi",
+            "paryatAtrizyAvahi",
+            "paryatAtrAyizyAmahi",
+            "paryatAtrizyAmahi"
+          ],
+          "alrut": [
+            "paritAtrAyizyate",
+            "paritAtrizyate",
+            "paritAtrAyizyete",
+            "paritAtrizyete",
+            "paritAtrAyizyante",
+            "paritAtrizyante",
+            "paritAtrAyizyase",
+            "paritAtrizyase",
+            "paritAtrAyizyeTe",
+            "paritAtrizyeTe",
+            "paritAtrAyizyaDve",
+            "paritAtrizyaDve",
+            "paritAtrAyizye",
+            "paritAtrizye",
+            "paritAtrAyizyAvahe",
+            "paritAtrizyAvahe",
+            "paritAtrAyizyAmahe",
+            "paritAtrizyAmahe"
+          ],
+          "alung": [
+            "paryatAtrAyi",
+            "paryatAtrAyizAtAm",
+            "paryatAtrizAtAm",
+            "paryatAtrAyizata",
+            "paryatAtrizata",
+            "paryatAtrAyizWAH",
+            "paryatAtrizWAH",
+            "paryatAtrAyizATAm",
+            "paryatAtrizATAm",
+            "paryatAtrAyiDvam",
+            "paryatAtriQvam",
+            "paryatAtrAyizi",
+            "paryatAtrizi",
+            "paryatAtrAyizvahi",
+            "paryatAtrizvahi",
+            "paryatAtrAyizmahi",
+            "paryatAtrizmahi"
+          ],
+          "alut": [
+            "paritAtrAyitA",
+            "paritAtritA",
+            "paritAtrAyitArO",
+            "paritAtritArO",
+            "paritAtrAyitAraH",
+            "paritAtritAraH",
+            "paritAtrAyitAse",
+            "paritAtritAse",
+            "paritAtrAyitAsATe",
+            "paritAtritAsATe",
+            "paritAtrAyitADve",
+            "paritAtritADve",
+            "paritAtrAyitAhe",
+            "paritAtritAhe",
+            "paritAtrAyitAsvahe",
+            "paritAtritAsvahe",
+            "paritAtrAyitAsmahe",
+            "paritAtritAsmahe"
+          ],
+          "avidhiling": [
+            "paritAtrAyeta",
+            "paritAtrAyeyAtAm",
+            "paritAtrAyeran",
+            "paritAtrAyeTAH",
+            "paritAtrAyeyATAm",
+            "paritAtrAyeDvam",
+            "paritAtrAyeya",
+            "paritAtrAyevahi",
+            "paritAtrAyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "paritrA",
+              "m": "paritrAH",
+              "f": "paritrA",
+              "n": "paritrAm"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "paritrARIya",
+              "m": "paritrARIyaH",
+              "f": "paritrARIyA",
+              "n": "paritrARIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "paritrAta",
+              "m": "paritrAtaH",
+              "f": "paritrAtA",
+              "n": "paritrAtam"
+            },
+            {
+              "base": "paritrARa",
+              "m": "paritrARaH",
+              "f": "paritrARA",
+              "n": "paritrARam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "paritrAtavat",
+              "m": "paritrAtavAn",
+              "f": "paritrAtavatI",
+              "n": "paritrAtavat/paritrAtavad"
+            },
+            {
+              "base": "paritrARavat",
+              "m": "paritrARavAn",
+              "f": "paritrARavatI",
+              "n": "paritrARavat/paritrARavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "paritrAti",
+              "m": "",
+              "f": "paritrAtiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "paritatrivas",
+              "m": "paritatrivAn",
+              "f": "paritatryuzI",
+              "n": "paritatrivat/paritatrivad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "paritrAya",
+              "m": "paritrAyaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "paritrAyamARa",
+              "m": "paritrAyamARaH",
+              "f": "paritrAyamARA",
+              "n": "paritrAyamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "paritrAyam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "paritrAyaka",
+              "m": "paritrAyakaH",
+              "f": "paritrAyikA",
+              "n": "paritrAyakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "paritrAtavya",
+              "m": "paritrAtavyaH",
+              "f": "paritrAtavyA",
+              "n": "paritrAtavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "paritrAtum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "paritrAtf",
+              "m": "paritrAtA",
+              "f": "paritrAtrI",
+              "n": "paritrAtf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "paritrAyamARa",
+              "m": "paritrAyamARaH",
+              "f": "paritrAyamARA",
+              "n": "paritrAyamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "paritreya",
+              "m": "paritreyaH",
+              "f": "paritreyA",
+              "n": "paritreyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "paritrAya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "paritrARa",
+              "m": "",
+              "f": "",
+              "n": "paritrARam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "paritrAka",
+              "m": "paritrAkaH",
+              "f": "paritrAka",
+              "n": "paritrAkam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "paritrAyamARa",
+              "m": "paritrAyamARaH",
+              "f": "paritrAyamARA",
+              "n": "paritrAyamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "paritrAyamARa",
+              "m": "paritrAyamARaH",
+              "f": "paritrAyamARA",
+              "n": "paritrAyamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "paritrAyamARa",
+              "m": "paritrAyamARaH",
+              "f": "paritrAyamARA",
+              "n": "paritrAyamARam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "parititrAsA",
+              "m": "",
+              "f": "parititrAsA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "parititrAsa",
+              "m": "parititrAsaH",
+              "f": "parititrAsA",
+              "n": "parititrAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parititrAsanIya",
+              "m": "parititrAsanIyaH",
+              "f": "parititrAsanIyA",
+              "n": "parititrAsanIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "parititrAsu",
+              "m": "parititrAsuH",
+              "f": "parititrAsuH",
+              "n": "parititrAsu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parititrAsita",
+              "m": "parititrAsitaH",
+              "f": "parititrAsitA",
+              "n": "parititrAsitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parititrAsitavat",
+              "m": "parititrAsitavAn",
+              "f": "parititrAsitavatI",
+              "n": "parititrAsitavat/parititrAsitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parititrAsti",
+              "m": "",
+              "f": "parititrAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parititrAsAmbaBUvas",
+              "m": "parititrAsAmbaBUvAn",
+              "f": "parititrAsAmbaBUzI",
+              "n": "parititrAsAmbaBUvat/parititrAsAmbaBUvad"
+            },
+            {
+              "base": "parititrAsAmAsivas",
+              "m": "parititrAsAmAsivAn",
+              "f": "parititrAsAmAsyuzI",
+              "n": "parititrAsAmAsivat/parititrAsAmAsivad"
+            },
+            {
+              "base": "parititrAsAYcakfvas",
+              "m": "parititrAsAYcakfvAn",
+              "f": "parititrAsAYcakruzI",
+              "n": "parititrAsAYcakfvat/parititrAsAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "parititrAsa",
+              "m": "parititrAsaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parititrAsamAna",
+              "m": "parititrAsamAnaH",
+              "f": "parititrAsamAnA",
+              "n": "parititrAsamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parititrAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parititrAsaka",
+              "m": "parititrAsakaH",
+              "f": "parititrAsikA",
+              "n": "parititrAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parititrAsitavya",
+              "m": "parititrAsitavyaH",
+              "f": "parititrAsitavyA",
+              "n": "parititrAsitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parititrAsitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parititrAsitf",
+              "m": "parititrAsitA",
+              "f": "parititrAsitrI",
+              "n": "parititrAsitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "parititrAsamAna",
+              "m": "parititrAsamAnaH",
+              "f": "parititrAsamAnA",
+              "n": "parititrAsamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "parititrAsya",
+              "m": "parititrAsyaH",
+              "f": "parititrAsyA",
+              "n": "parititrAsyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parititrAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parititrAsana",
+              "m": "",
+              "f": "",
+              "n": "parititrAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parititrAsaka",
+              "m": "parititrAsakaH",
+              "f": "parititrAsikA",
+              "n": "parititrAsakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "parititrAsamAna",
+              "m": "parititrAsamAnaH",
+              "f": "parititrAsamAnA",
+              "n": "parititrAsamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "parititrAsamAna",
+              "m": "parititrAsamAnaH",
+              "f": "parititrAsamAnA",
+              "n": "parititrAsamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "parititrAsamAna",
+              "m": "parititrAsamAnaH",
+              "f": "parititrAsamAnA",
+              "n": "parititrAsamAnam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "paritrApa",
+              "m": "paritrApaH",
+              "f": "paritrApA",
+              "n": "paritrApam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "paritrApaRIya",
+              "m": "paritrApaRIyaH",
+              "f": "paritrApaRIyA",
+              "n": "paritrApaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "paritrApita",
+              "m": "paritrApitaH",
+              "f": "paritrApitA",
+              "n": "paritrApitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "paritrApitavat",
+              "m": "paritrApitavAn",
+              "f": "paritrApitavatI",
+              "n": "paritrApitavat/paritrApitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "paritrApti",
+              "m": "",
+              "f": "paritrAptiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "paritrApayAmbaBUvas",
+              "m": "paritrApayAmbaBUvAn",
+              "f": "paritrApayAmbaBUzI",
+              "n": "paritrApayAmbaBUvat/paritrApayAmbaBUvad"
+            },
+            {
+              "base": "paritrApayAmAsivas",
+              "m": "paritrApayAmAsivAn",
+              "f": "paritrApayAmAsyuzI",
+              "n": "paritrApayAmAsivat/paritrApayAmAsivad"
+            },
+            {
+              "base": "paritrApayAYcakfvas",
+              "m": "paritrApayAYcakfvAn",
+              "f": "paritrApayAYcakruzI",
+              "n": "paritrApayAYcakfvat/paritrApayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "paritrApayamARa",
+              "m": "paritrApayamARaH",
+              "f": "paritrApayamARA",
+              "n": "paritrApayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "paritrApam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "paritrApaka",
+              "m": "paritrApakaH",
+              "f": "paritrApikA",
+              "n": "paritrApakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "paritrApayitavya",
+              "m": "paritrApayitavyaH",
+              "f": "paritrApayitavyA",
+              "n": "paritrApayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "paritrApayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "paritrApayitf",
+              "m": "paritrApayitA",
+              "f": "paritrApayitrI",
+              "n": "paritrApayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "paritrApayamARa",
+              "m": "paritrApayamARaH",
+              "f": "paritrApayamARA",
+              "n": "paritrApayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "paritrApya",
+              "m": "paritrApyaH",
+              "f": "paritrApyA",
+              "n": "paritrApyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "paritrApya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "paritrApaRa",
+              "m": "",
+              "f": "",
+              "n": "paritrApaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "paritrApaka",
+              "m": "paritrApakaH",
+              "f": "paritrApikA",
+              "n": "paritrApakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "paritrApayat",
+              "m": "paritrApayan",
+              "f": "paritrApayantI",
+              "n": "paritrApayat/paritrApayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "paritrApayamARa",
+              "m": "paritrApayamARaH",
+              "f": "paritrApayamARA",
+              "n": "paritrApayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "paritrApayamARa",
+              "m": "paritrApayamARaH",
+              "f": "paritrApayamARA",
+              "n": "paritrApayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "paritrApayat",
+              "m": "paritrApayan",
+              "f": "paritrApayatI/paritrApayantI",
+              "n": "paritrApayat/paritrApayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "paritrApayamARa",
+              "m": "paritrApayamARaH",
+              "f": "paritrApayamARA",
+              "n": "paritrApayamARam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "paritAtrAyA",
+              "m": "",
+              "f": "paritAtrAyA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "paritAtrA",
+              "m": "paritAtrAH",
+              "f": "paritAtrA",
+              "n": "paritAtrAm"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "paritAtrAyaRIya",
+              "m": "paritAtrAyaRIyaH",
+              "f": "paritAtrAyaRIyA",
+              "n": "paritAtrAyaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "paritAtrAyita",
+              "m": "paritAtrAyitaH",
+              "f": "paritAtrAyitA",
+              "n": "paritAtrAyitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "paritAtrAyitavat",
+              "m": "paritAtrAyitavAn",
+              "f": "paritAtrAyitavatI",
+              "n": "paritAtrAyitavat/paritAtrAyitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "paritAtrAti",
+              "m": "",
+              "f": "paritAtrAtiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "paritAtrAyAmbaBUvas",
+              "m": "paritAtrAyAmbaBUvAn",
+              "f": "paritAtrAyAmbaBUzI",
+              "n": "paritAtrAyAmbaBUvat/paritAtrAyAmbaBUvad"
+            },
+            {
+              "base": "paritAtrAyAmAsivas",
+              "m": "paritAtrAyAmAsivAn",
+              "f": "paritAtrAyAmAsyuzI",
+              "n": "paritAtrAyAmAsivat/paritAtrAyAmAsivad"
+            },
+            {
+              "base": "paritAtrAyAYcakfvas",
+              "m": "paritAtrAyAYcakfvAn",
+              "f": "paritAtrAyAYcakruzI",
+              "n": "paritAtrAyAYcakfvat/paritAtrAyAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "paritAtrAya",
+              "m": "paritAtrAyaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "paritAtrAyamARa",
+              "m": "paritAtrAyamARaH",
+              "f": "paritAtrAyamARA",
+              "n": "paritAtrAyamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "paritAtrAyam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "paritAtrAyaka",
+              "m": "paritAtrAyakaH",
+              "f": "paritAtrAyikA",
+              "n": "paritAtrAyakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "paritAtrAyitavya",
+              "m": "paritAtrAyitavyaH",
+              "f": "paritAtrAyitavyA",
+              "n": "paritAtrAyitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "paritAtrAyitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "paritAtrAyitf",
+              "m": "paritAtrAyitA",
+              "f": "paritAtrAyitrI",
+              "n": "paritAtrAyitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "paritAtrAyamARa",
+              "m": "paritAtrAyamARaH",
+              "f": "paritAtrAyamARA",
+              "n": "paritAtrAyamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "paritAtrAyya",
+              "m": "paritAtrAyyaH",
+              "f": "paritAtrAyyA",
+              "n": "paritAtrAyyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "paritAtrAyya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "paritAtrAyaRa",
+              "m": "",
+              "f": "",
+              "n": "paritAtrAyaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "paritAtrAyaka",
+              "m": "paritAtrAyakaH",
+              "f": "paritAtrAyikA",
+              "n": "paritAtrAyakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "paritAtrAyamARa",
+              "m": "paritAtrAyamARaH",
+              "f": "paritAtrAyamARA",
+              "n": "paritAtrAyamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "paritAtrAyamARa",
+              "m": "paritAtrAyamARaH",
+              "f": "paritAtrAyamARA",
+              "n": "paritAtrAyamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "paritAtrAyamARa",
+              "m": "paritAtrAyamARaH",
+              "f": "paritAtrAyamARA",
+              "n": "paritAtrAyamARam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "paritAtrA",
+              "m": "",
+              "f": "paritAtrA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "paritAtrA",
+              "m": "paritAtrAH",
+              "f": "paritAtrA",
+              "n": "paritAtrAm"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "paritAtrARIya",
+              "m": "paritAtrARIyaH",
+              "f": "paritAtrARIyA",
+              "n": "paritAtrARIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "paritAtrita",
+              "m": "paritAtritaH",
+              "f": "paritAtritA",
+              "n": "paritAtritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "paritAtritavat",
+              "m": "paritAtritavAn",
+              "f": "paritAtritavatI",
+              "n": "paritAtritavat/paritAtritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "paritAtrAti",
+              "m": "",
+              "f": "paritAtrAtiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "paritAtrAmbaBUvas",
+              "m": "paritAtrAmbaBUvAn",
+              "f": "paritAtrAmbaBUzI",
+              "n": "paritAtrAmbaBUvat/paritAtrAmbaBUvad"
+            },
+            {
+              "base": "paritAtrAmAsivas",
+              "m": "paritAtrAmAsivAn",
+              "f": "paritAtrAmAsyuzI",
+              "n": "paritAtrAmAsivat/paritAtrAmAsivad"
+            },
+            {
+              "base": "paritAtrAYcakfvas",
+              "m": "paritAtrAYcakfvAn",
+              "f": "paritAtrAYcakruzI",
+              "n": "paritAtrAYcakfvat/paritAtrAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "paritAtrAya",
+              "m": "paritAtrAyaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "paritAtrARa",
+              "m": "paritAtrARaH",
+              "f": "paritAtrARA",
+              "n": "paritAtrARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "paritAtrAyam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "paritAtrAyaka",
+              "m": "paritAtrAyakaH",
+              "f": "paritAtrAyikA",
+              "n": "paritAtrAyakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "paritAtritavya",
+              "m": "paritAtritavyaH",
+              "f": "paritAtritavyA",
+              "n": "paritAtritavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "paritAtritum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "paritAtritf",
+              "m": "paritAtritA",
+              "f": "paritAtritrI",
+              "n": "paritAtritf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "paritAtrAya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "paritAtrARa",
+              "m": "",
+              "f": "",
+              "n": "paritAtrARam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "paritAtrAka",
+              "m": "paritAtrAkaH",
+              "f": "paritAtrAka",
+              "n": "paritAtrAkam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "paritAtrat",
+              "m": "paritAtran",
+              "f": "paritAtratI",
+              "n": "paritAtrat/paritAtrad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "paritAtrat",
+              "m": "paritAtran",
+              "f": "paritAtratI/paritAtrantI",
+              "n": "paritAtrat/paritAtrad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

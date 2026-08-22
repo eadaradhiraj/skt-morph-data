@@ -1,0 +1,2639 @@
+{
+  "id": "01.1106",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "GuN"
+    },
+    {
+      "name": "arTaH",
+      "value": "Sabde"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to sound"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "Sabda karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "952"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "952"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2387",
+      "ext_link": "/sutraani/sk2387?scroll=sutra-commentary-kaumudi-region&highlight=GauNa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "GozIzwa",
+        "GozIyAstAm",
+        "GozIran",
+        "GozIzWAH",
+        "GozIyAsTAm",
+        "GozIQvam",
+        "GozIya",
+        "GozIvahi",
+        "GozImahi"
+      ],
+      "alang": [
+        "aGavata",
+        "aGavetAm",
+        "aGavanta",
+        "aGavaTAH",
+        "aGaveTAm",
+        "aGavaDvam",
+        "aGave",
+        "aGavAvahi",
+        "aGavAmahi"
+      ],
+      "alat": [
+        "Gavate",
+        "Gavete",
+        "Gavante",
+        "Gavase",
+        "GaveTe",
+        "GavaDve",
+        "Gave",
+        "GavAvahe",
+        "GavAmahe"
+      ],
+      "alit": [
+        "juGuve",
+        "juGuvAte",
+        "juGuvire",
+        "juGuvize",
+        "juGuvATe",
+        "juGuviQve",
+        "juGuviDve",
+        "juGuve",
+        "juGuvivahe",
+        "juGuvimahe"
+      ],
+      "alot": [
+        "GavatAm",
+        "GavetAm",
+        "GavantAm",
+        "Gavasva",
+        "GaveTAm",
+        "GavaDvam",
+        "GavE",
+        "GavAvahE",
+        "GavAmahE"
+      ],
+      "alrung": [
+        "aGozyata",
+        "aGozyetAm",
+        "aGozyanta",
+        "aGozyaTAH",
+        "aGozyeTAm",
+        "aGozyaDvam",
+        "aGozye",
+        "aGozyAvahi",
+        "aGozyAmahi"
+      ],
+      "alrut": [
+        "Gozyate",
+        "Gozyete",
+        "Gozyante",
+        "Gozyase",
+        "GozyeTe",
+        "GozyaDve",
+        "Gozye",
+        "GozyAvahe",
+        "GozyAmahe"
+      ],
+      "alung": [
+        "aGozwa",
+        "aGozAtAm",
+        "aGozata",
+        "aGozWAH",
+        "aGozATAm",
+        "aGoQvam",
+        "aGozi",
+        "aGozvahi",
+        "aGozmahi"
+      ],
+      "alut": [
+        "GotA",
+        "GotArO",
+        "GotAraH",
+        "GotAse",
+        "GotAsATe",
+        "GotADve",
+        "GotAhe",
+        "GotAsvahe",
+        "GotAsmahe"
+      ],
+      "avidhiling": [
+        "Gaveta",
+        "GaveyAtAm",
+        "Gaveran",
+        "GaveTAH",
+        "GaveyATAm",
+        "GaveDvam",
+        "Gaveya",
+        "Gavevahi",
+        "Gavemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "GAvizIzwa",
+        "GozIzwa",
+        "GAvizIyAstAm",
+        "GozIyAstAm",
+        "GAvizIran",
+        "GozIran",
+        "GAvizIzWAH",
+        "GozIzWAH",
+        "GAvizIyAsTAm",
+        "GozIyAsTAm",
+        "GAvizIQvam",
+        "GAvizIDvam",
+        "GozIQvam",
+        "GAvizIya",
+        "GozIya",
+        "GAvizIvahi",
+        "GozIvahi",
+        "GAvizImahi",
+        "GozImahi"
+      ],
+      "alang": [
+        "aGUyata",
+        "aGUyetAm",
+        "aGUyanta",
+        "aGUyaTAH",
+        "aGUyeTAm",
+        "aGUyaDvam",
+        "aGUye",
+        "aGUyAvahi",
+        "aGUyAmahi"
+      ],
+      "alat": [
+        "GUyate",
+        "GUyete",
+        "GUyante",
+        "GUyase",
+        "GUyeTe",
+        "GUyaDve",
+        "GUye",
+        "GUyAvahe",
+        "GUyAmahe"
+      ],
+      "alit": [
+        "juGuve",
+        "juGuvAte",
+        "juGuvire",
+        "juGuvize",
+        "juGuvATe",
+        "juGuviQve",
+        "juGuviDve",
+        "juGuve",
+        "juGuvivahe",
+        "juGuvimahe"
+      ],
+      "alot": [
+        "GUyatAm",
+        "GUyetAm",
+        "GUyantAm",
+        "GUyasva",
+        "GUyeTAm",
+        "GUyaDvam",
+        "GUyE",
+        "GUyAvahE",
+        "GUyAmahE"
+      ],
+      "alrung": [
+        "aGAvizyata",
+        "aGozyata",
+        "aGAvizyetAm",
+        "aGozyetAm",
+        "aGAvizyanta",
+        "aGozyanta",
+        "aGAvizyaTAH",
+        "aGozyaTAH",
+        "aGAvizyeTAm",
+        "aGozyeTAm",
+        "aGAvizyaDvam",
+        "aGozyaDvam",
+        "aGAvizye",
+        "aGozye",
+        "aGAvizyAvahi",
+        "aGozyAvahi",
+        "aGAvizyAmahi",
+        "aGozyAmahi"
+      ],
+      "alrut": [
+        "GAvizyate",
+        "Gozyate",
+        "GAvizyete",
+        "Gozyete",
+        "GAvizyante",
+        "Gozyante",
+        "GAvizyase",
+        "Gozyase",
+        "GAvizyeTe",
+        "GozyeTe",
+        "GAvizyaDve",
+        "GozyaDve",
+        "GAvizye",
+        "Gozye",
+        "GAvizyAvahe",
+        "GozyAvahe",
+        "GAvizyAmahe",
+        "GozyAmahe"
+      ],
+      "alung": [
+        "aGAvi",
+        "aGAvizAtAm",
+        "aGozAtAm",
+        "aGAvizata",
+        "aGozata",
+        "aGAvizWAH",
+        "aGozWAH",
+        "aGAvizATAm",
+        "aGozATAm",
+        "aGAviQvam",
+        "aGAviDvam",
+        "aGoQvam",
+        "aGAvizi",
+        "aGozi",
+        "aGAvizvahi",
+        "aGozvahi",
+        "aGAvizmahi",
+        "aGozmahi"
+      ],
+      "alut": [
+        "GAvitA",
+        "GotA",
+        "GAvitArO",
+        "GotArO",
+        "GAvitAraH",
+        "GotAraH",
+        "GAvitAse",
+        "GotAse",
+        "GAvitAsATe",
+        "GotAsATe",
+        "GAvitADve",
+        "GotADve",
+        "GAvitAhe",
+        "GotAhe",
+        "GAvitAsvahe",
+        "GotAsvahe",
+        "GAvitAsmahe",
+        "GotAsmahe"
+      ],
+      "avidhiling": [
+        "GUyeta",
+        "GUyeyAtAm",
+        "GUyeran",
+        "GUyeTAH",
+        "GUyeyATAm",
+        "GUyeDvam",
+        "GUyeya",
+        "GUyevahi",
+        "GUyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "juGUzizIzwa",
+        "juGUzizIyAstAm",
+        "juGUzizIran",
+        "juGUzizIzWAH",
+        "juGUzizIyAsTAm",
+        "juGUzizIDvam",
+        "juGUzizIya",
+        "juGUzizIvahi",
+        "juGUzizImahi"
+      ],
+      "alang": [
+        "ajuGUzata",
+        "ajuGUzetAm",
+        "ajuGUzanta",
+        "ajuGUzaTAH",
+        "ajuGUzeTAm",
+        "ajuGUzaDvam",
+        "ajuGUze",
+        "ajuGUzAvahi",
+        "ajuGUzAmahi"
+      ],
+      "alat": [
+        "juGUzate",
+        "juGUzete",
+        "juGUzante",
+        "juGUzase",
+        "juGUzeTe",
+        "juGUzaDve",
+        "juGUze",
+        "juGUzAvahe",
+        "juGUzAmahe"
+      ],
+      "alit": [
+        "juGUzAYcakre",
+        "juGUzAmAsa",
+        "juGUzAmbaBUva",
+        "juGUzAYcakrAte",
+        "juGUzAmAsatuH",
+        "juGUzAmbaBUvatuH",
+        "juGUzAYcakrire",
+        "juGUzAmAsuH",
+        "juGUzAmbaBUvuH",
+        "juGUzAYcakfze",
+        "juGUzAmAsiTa",
+        "juGUzAmbaBUviTa",
+        "juGUzAYcakrATe",
+        "juGUzAmAsaTuH",
+        "juGUzAmbaBUvaTuH",
+        "juGUzAYcakfQve",
+        "juGUzAmAsa",
+        "juGUzAmbaBUva",
+        "juGUzAYcakre",
+        "juGUzAmAsa",
+        "juGUzAmbaBUva",
+        "juGUzAYcakfvahe",
+        "juGUzAmAsiva",
+        "juGUzAmbaBUviva",
+        "juGUzAYcakfmahe",
+        "juGUzAmAsima",
+        "juGUzAmbaBUvima"
+      ],
+      "alot": [
+        "juGUzatAm",
+        "juGUzetAm",
+        "juGUzantAm",
+        "juGUzasva",
+        "juGUzeTAm",
+        "juGUzaDvam",
+        "juGUzE",
+        "juGUzAvahE",
+        "juGUzAmahE"
+      ],
+      "alrung": [
+        "ajuGUzizyata",
+        "ajuGUzizyetAm",
+        "ajuGUzizyanta",
+        "ajuGUzizyaTAH",
+        "ajuGUzizyeTAm",
+        "ajuGUzizyaDvam",
+        "ajuGUzizye",
+        "ajuGUzizyAvahi",
+        "ajuGUzizyAmahi"
+      ],
+      "alrut": [
+        "juGUzizyate",
+        "juGUzizyete",
+        "juGUzizyante",
+        "juGUzizyase",
+        "juGUzizyeTe",
+        "juGUzizyaDve",
+        "juGUzizye",
+        "juGUzizyAvahe",
+        "juGUzizyAmahe"
+      ],
+      "alung": [
+        "ajuGUzizwa",
+        "ajuGUzizAtAm",
+        "ajuGUzizata",
+        "ajuGUzizWAH",
+        "ajuGUzizATAm",
+        "ajuGUziDvam",
+        "ajuGUzizi",
+        "ajuGUzizvahi",
+        "ajuGUzizmahi"
+      ],
+      "alut": [
+        "juGUzitA",
+        "juGUzitArO",
+        "juGUzitAraH",
+        "juGUzitAse",
+        "juGUzitAsATe",
+        "juGUzitADve",
+        "juGUzitAhe",
+        "juGUzitAsvahe",
+        "juGUzitAsmahe"
+      ],
+      "avidhiling": [
+        "juGUzeta",
+        "juGUzeyAtAm",
+        "juGUzeran",
+        "juGUzeTAH",
+        "juGUzeyATAm",
+        "juGUzeDvam",
+        "juGUzeya",
+        "juGUzevahi",
+        "juGUzemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "juGUzizIzwa",
+        "juGUzizIyAstAm",
+        "juGUzizIran",
+        "juGUzizIzWAH",
+        "juGUzizIyAsTAm",
+        "juGUzizIDvam",
+        "juGUzizIya",
+        "juGUzizIvahi",
+        "juGUzizImahi"
+      ],
+      "alang": [
+        "ajuGUzyata",
+        "ajuGUzyetAm",
+        "ajuGUzyanta",
+        "ajuGUzyaTAH",
+        "ajuGUzyeTAm",
+        "ajuGUzyaDvam",
+        "ajuGUzye",
+        "ajuGUzyAvahi",
+        "ajuGUzyAmahi"
+      ],
+      "alat": [
+        "juGUzyate",
+        "juGUzyete",
+        "juGUzyante",
+        "juGUzyase",
+        "juGUzyeTe",
+        "juGUzyaDve",
+        "juGUzye",
+        "juGUzyAvahe",
+        "juGUzyAmahe"
+      ],
+      "alit": [
+        "juGUzAYcakre",
+        "juGUzAmAse",
+        "juGUzAmbaBUve",
+        "juGUzAYcakrAte",
+        "juGUzAmAsAte",
+        "juGUzAmbaBUvAte",
+        "juGUzAYcakrire",
+        "juGUzAmAsire",
+        "juGUzAmbaBUvire",
+        "juGUzAYcakfze",
+        "juGUzAmAsize",
+        "juGUzAmbaBUvize",
+        "juGUzAYcakrATe",
+        "juGUzAmAsATe",
+        "juGUzAmbaBUvATe",
+        "juGUzAYcakfQve",
+        "juGUzAmAsiDve",
+        "juGUzAmbaBUviQve",
+        "juGUzAYcakre",
+        "juGUzAmAhe",
+        "juGUzAmbaBUve",
+        "juGUzAYcakfvahe",
+        "juGUzAmAsivahe",
+        "juGUzAmbaBUvivahe",
+        "juGUzAYcakfmahe",
+        "juGUzAmAsimahe",
+        "juGUzAmbaBUvimahe"
+      ],
+      "alot": [
+        "juGUzyatAm",
+        "juGUzyetAm",
+        "juGUzyantAm",
+        "juGUzyasva",
+        "juGUzyeTAm",
+        "juGUzyaDvam",
+        "juGUzyE",
+        "juGUzyAvahE",
+        "juGUzyAmahE"
+      ],
+      "alrung": [
+        "ajuGUzizyata",
+        "ajuGUzizyetAm",
+        "ajuGUzizyanta",
+        "ajuGUzizyaTAH",
+        "ajuGUzizyeTAm",
+        "ajuGUzizyaDvam",
+        "ajuGUzizye",
+        "ajuGUzizyAvahi",
+        "ajuGUzizyAmahi"
+      ],
+      "alrut": [
+        "juGUzizyate",
+        "juGUzizyete",
+        "juGUzizyante",
+        "juGUzizyase",
+        "juGUzizyeTe",
+        "juGUzizyaDve",
+        "juGUzizye",
+        "juGUzizyAvahe",
+        "juGUzizyAmahe"
+      ],
+      "alung": [
+        "ajuGUzi",
+        "ajuGUzizAtAm",
+        "ajuGUzizata",
+        "ajuGUzizWAH",
+        "ajuGUzizATAm",
+        "ajuGUziDvam",
+        "ajuGUzizi",
+        "ajuGUzizvahi",
+        "ajuGUzizmahi"
+      ],
+      "alut": [
+        "juGUzitA",
+        "juGUzitArO",
+        "juGUzitAraH",
+        "juGUzitAse",
+        "juGUzitAsATe",
+        "juGUzitADve",
+        "juGUzitAhe",
+        "juGUzitAsvahe",
+        "juGUzitAsmahe"
+      ],
+      "avidhiling": [
+        "juGUzyeta",
+        "juGUzyeyAtAm",
+        "juGUzyeran",
+        "juGUzyeTAH",
+        "juGUzyeyATAm",
+        "juGUzyeDvam",
+        "juGUzyeya",
+        "juGUzyevahi",
+        "juGUzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "GAvayizIzwa",
+        "GAvayizIyAstAm",
+        "GAvayizIran",
+        "GAvayizIzWAH",
+        "GAvayizIyAsTAm",
+        "GAvayizIQvam",
+        "GAvayizIDvam",
+        "GAvayizIya",
+        "GAvayizIvahi",
+        "GAvayizImahi"
+      ],
+      "alang": [
+        "aGAvayata",
+        "aGAvayetAm",
+        "aGAvayanta",
+        "aGAvayaTAH",
+        "aGAvayeTAm",
+        "aGAvayaDvam",
+        "aGAvaye",
+        "aGAvayAvahi",
+        "aGAvayAmahi"
+      ],
+      "alat": [
+        "GAvayate",
+        "GAvayete",
+        "GAvayante",
+        "GAvayase",
+        "GAvayeTe",
+        "GAvayaDve",
+        "GAvaye",
+        "GAvayAvahe",
+        "GAvayAmahe"
+      ],
+      "alit": [
+        "GAvayAYcakre",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakrAte",
+        "GAvayAmAsatuH",
+        "GAvayAmbaBUvatuH",
+        "GAvayAYcakrire",
+        "GAvayAmAsuH",
+        "GAvayAmbaBUvuH",
+        "GAvayAYcakfze",
+        "GAvayAmAsiTa",
+        "GAvayAmbaBUviTa",
+        "GAvayAYcakrATe",
+        "GAvayAmAsaTuH",
+        "GAvayAmbaBUvaTuH",
+        "GAvayAYcakfQve",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakre",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakfvahe",
+        "GAvayAmAsiva",
+        "GAvayAmbaBUviva",
+        "GAvayAYcakfmahe",
+        "GAvayAmAsima",
+        "GAvayAmbaBUvima"
+      ],
+      "alot": [
+        "GAvayatAm",
+        "GAvayetAm",
+        "GAvayantAm",
+        "GAvayasva",
+        "GAvayeTAm",
+        "GAvayaDvam",
+        "GAvayE",
+        "GAvayAvahE",
+        "GAvayAmahE"
+      ],
+      "alrung": [
+        "aGAvayizyata",
+        "aGAvayizyetAm",
+        "aGAvayizyanta",
+        "aGAvayizyaTAH",
+        "aGAvayizyeTAm",
+        "aGAvayizyaDvam",
+        "aGAvayizye",
+        "aGAvayizyAvahi",
+        "aGAvayizyAmahi"
+      ],
+      "alrut": [
+        "GAvayizyate",
+        "GAvayizyete",
+        "GAvayizyante",
+        "GAvayizyase",
+        "GAvayizyeTe",
+        "GAvayizyaDve",
+        "GAvayizye",
+        "GAvayizyAvahe",
+        "GAvayizyAmahe"
+      ],
+      "alung": [
+        "ajUGavata",
+        "ajUGavetAm",
+        "ajUGavanta",
+        "ajUGavaTAH",
+        "ajUGaveTAm",
+        "ajUGavaDvam",
+        "ajUGave",
+        "ajUGavAvahi",
+        "ajUGavAmahi"
+      ],
+      "alut": [
+        "GAvayitA",
+        "GAvayitArO",
+        "GAvayitAraH",
+        "GAvayitAse",
+        "GAvayitAsATe",
+        "GAvayitADve",
+        "GAvayitAhe",
+        "GAvayitAsvahe",
+        "GAvayitAsmahe"
+      ],
+      "avidhiling": [
+        "GAvayeta",
+        "GAvayeyAtAm",
+        "GAvayeran",
+        "GAvayeTAH",
+        "GAvayeyATAm",
+        "GAvayeDvam",
+        "GAvayeya",
+        "GAvayevahi",
+        "GAvayemahi"
+      ],
+      "pashirling": [
+        "GAvyAt",
+        "GAvyAd",
+        "GAvyAstAm",
+        "GAvyAsuH",
+        "GAvyAH",
+        "GAvyAstam",
+        "GAvyAsta",
+        "GAvyAsam",
+        "GAvyAsva",
+        "GAvyAsma"
+      ],
+      "plang": [
+        "aGAvayat",
+        "aGAvayad",
+        "aGAvayatAm",
+        "aGAvayan",
+        "aGAvayaH",
+        "aGAvayatam",
+        "aGAvayata",
+        "aGAvayam",
+        "aGAvayAva",
+        "aGAvayAma"
+      ],
+      "plat": [
+        "GAvayati",
+        "GAvayataH",
+        "GAvayanti",
+        "GAvayasi",
+        "GAvayaTaH",
+        "GAvayaTa",
+        "GAvayAmi",
+        "GAvayAvaH",
+        "GAvayAmaH"
+      ],
+      "plit": [
+        "GAvayAYcakAra",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakratuH",
+        "GAvayAmAsatuH",
+        "GAvayAmbaBUvatuH",
+        "GAvayAYcakruH",
+        "GAvayAmAsuH",
+        "GAvayAmbaBUvuH",
+        "GAvayAYcakarTa",
+        "GAvayAmAsiTa",
+        "GAvayAmbaBUviTa",
+        "GAvayAYcakraTuH",
+        "GAvayAmAsaTuH",
+        "GAvayAmbaBUvaTuH",
+        "GAvayAYcakra",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakara",
+        "GAvayAYcakAra",
+        "GAvayAmAsa",
+        "GAvayAmbaBUva",
+        "GAvayAYcakfva",
+        "GAvayAmAsiva",
+        "GAvayAmbaBUviva",
+        "GAvayAYcakfma",
+        "GAvayAmAsima",
+        "GAvayAmbaBUvima"
+      ],
+      "plot": [
+        "GAvayatAt",
+        "GAvayatAd",
+        "GAvayatu",
+        "GAvayatAm",
+        "GAvayantu",
+        "GAvaya",
+        "GAvayatAt",
+        "GAvayatAd",
+        "GAvayatam",
+        "GAvayata",
+        "GAvayAni",
+        "GAvayAva",
+        "GAvayAma"
+      ],
+      "plrung": [
+        "aGAvayizyat",
+        "aGAvayizyad",
+        "aGAvayizyatAm",
+        "aGAvayizyan",
+        "aGAvayizyaH",
+        "aGAvayizyatam",
+        "aGAvayizyata",
+        "aGAvayizyam",
+        "aGAvayizyAva",
+        "aGAvayizyAma"
+      ],
+      "plrut": [
+        "GAvayizyati",
+        "GAvayizyataH",
+        "GAvayizyanti",
+        "GAvayizyasi",
+        "GAvayizyaTaH",
+        "GAvayizyaTa",
+        "GAvayizyAmi",
+        "GAvayizyAvaH",
+        "GAvayizyAmaH"
+      ],
+      "plung": [
+        "ajUGavat",
+        "ajUGavad",
+        "ajUGavatAm",
+        "ajUGavan",
+        "ajUGavaH",
+        "ajUGavatam",
+        "ajUGavata",
+        "ajUGavam",
+        "ajUGavAva",
+        "ajUGavAma"
+      ],
+      "plut": [
+        "GAvayitA",
+        "GAvayitArO",
+        "GAvayitAraH",
+        "GAvayitAsi",
+        "GAvayitAsTaH",
+        "GAvayitAsTa",
+        "GAvayitAsmi",
+        "GAvayitAsvaH",
+        "GAvayitAsmaH"
+      ],
+      "pvidhiling": [
+        "GAvayet",
+        "GAvayed",
+        "GAvayetAm",
+        "GAvayeyuH",
+        "GAvayeH",
+        "GAvayetam",
+        "GAvayeta",
+        "GAvayeyam",
+        "GAvayeva",
+        "GAvayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "GAvayizIzwa",
+        "GAvizIzwa",
+        "GAvayizIyAstAm",
+        "GAvizIyAstAm",
+        "GAvayizIran",
+        "GAvizIran",
+        "GAvayizIzWAH",
+        "GAvizIzWAH",
+        "GAvayizIyAsTAm",
+        "GAvizIyAsTAm",
+        "GAvayizIQvam",
+        "GAvayizIDvam",
+        "GAvizIQvam",
+        "GAvayizIya",
+        "GAvizIya",
+        "GAvayizIvahi",
+        "GAvizIvahi",
+        "GAvayizImahi",
+        "GAvizImahi"
+      ],
+      "alang": [
+        "aGAvyata",
+        "aGAvyetAm",
+        "aGAvyanta",
+        "aGAvyaTAH",
+        "aGAvyeTAm",
+        "aGAvyaDvam",
+        "aGAvye",
+        "aGAvyAvahi",
+        "aGAvyAmahi"
+      ],
+      "alat": [
+        "GAvyate",
+        "GAvyete",
+        "GAvyante",
+        "GAvyase",
+        "GAvyeTe",
+        "GAvyaDve",
+        "GAvye",
+        "GAvyAvahe",
+        "GAvyAmahe"
+      ],
+      "alit": [
+        "GAvayAYcakre",
+        "GAvayAmAse",
+        "GAvayAmbaBUve",
+        "GAvayAYcakrAte",
+        "GAvayAmAsAte",
+        "GAvayAmbaBUvAte",
+        "GAvayAYcakrire",
+        "GAvayAmAsire",
+        "GAvayAmbaBUvire",
+        "GAvayAYcakfze",
+        "GAvayAmAsize",
+        "GAvayAmbaBUvize",
+        "GAvayAYcakrATe",
+        "GAvayAmAsATe",
+        "GAvayAmbaBUvATe",
+        "GAvayAYcakfQve",
+        "GAvayAmAsiDve",
+        "GAvayAmbaBUviQve",
+        "GAvayAYcakre",
+        "GAvayAmAhe",
+        "GAvayAmbaBUve",
+        "GAvayAYcakfvahe",
+        "GAvayAmAsivahe",
+        "GAvayAmbaBUvivahe",
+        "GAvayAYcakfmahe",
+        "GAvayAmAsimahe",
+        "GAvayAmbaBUvimahe"
+      ],
+      "alot": [
+        "GAvyatAm",
+        "GAvyetAm",
+        "GAvyantAm",
+        "GAvyasva",
+        "GAvyeTAm",
+        "GAvyaDvam",
+        "GAvyE",
+        "GAvyAvahE",
+        "GAvyAmahE"
+      ],
+      "alrung": [
+        "aGAvayizyata",
+        "aGAvizyata",
+        "aGAvayizyetAm",
+        "aGAvizyetAm",
+        "aGAvayizyanta",
+        "aGAvizyanta",
+        "aGAvayizyaTAH",
+        "aGAvizyaTAH",
+        "aGAvayizyeTAm",
+        "aGAvizyeTAm",
+        "aGAvayizyaDvam",
+        "aGAvizyaDvam",
+        "aGAvayizye",
+        "aGAvizye",
+        "aGAvayizyAvahi",
+        "aGAvizyAvahi",
+        "aGAvayizyAmahi",
+        "aGAvizyAmahi"
+      ],
+      "alrut": [
+        "GAvayizyate",
+        "GAvizyate",
+        "GAvayizyete",
+        "GAvizyete",
+        "GAvayizyante",
+        "GAvizyante",
+        "GAvayizyase",
+        "GAvizyase",
+        "GAvayizyeTe",
+        "GAvizyeTe",
+        "GAvayizyaDve",
+        "GAvizyaDve",
+        "GAvayizye",
+        "GAvizye",
+        "GAvayizyAvahe",
+        "GAvizyAvahe",
+        "GAvayizyAmahe",
+        "GAvizyAmahe"
+      ],
+      "alung": [
+        "aGAvi",
+        "aGAvayizAtAm",
+        "aGAvizAtAm",
+        "aGAvayizata",
+        "aGAvizata",
+        "aGAvayizWAH",
+        "aGAvizWAH",
+        "aGAvayizATAm",
+        "aGAvizATAm",
+        "aGAvayiQvam",
+        "aGAvayiDvam",
+        "aGAviQvam",
+        "aGAvayizi",
+        "aGAvizi",
+        "aGAvayizvahi",
+        "aGAvizvahi",
+        "aGAvayizmahi",
+        "aGAvizmahi"
+      ],
+      "alut": [
+        "GAvayitA",
+        "GAvitA",
+        "GAvayitArO",
+        "GAvitArO",
+        "GAvayitAraH",
+        "GAvitAraH",
+        "GAvayitAse",
+        "GAvitAse",
+        "GAvayitAsATe",
+        "GAvitAsATe",
+        "GAvayitADve",
+        "GAvitADve",
+        "GAvayitAhe",
+        "GAvitAhe",
+        "GAvayitAsvahe",
+        "GAvitAsvahe",
+        "GAvayitAsmahe",
+        "GAvitAsmahe"
+      ],
+      "avidhiling": [
+        "GAvyeta",
+        "GAvyeyAtAm",
+        "GAvyeran",
+        "GAvyeTAH",
+        "GAvyeyATAm",
+        "GAvyeDvam",
+        "GAvyeya",
+        "GAvyevahi",
+        "GAvyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "joGUyizIzwa",
+        "joGUyizIyAstAm",
+        "joGUyizIran",
+        "joGUyizIzWAH",
+        "joGUyizIyAsTAm",
+        "joGUyizIQvam",
+        "joGUyizIDvam",
+        "joGUyizIya",
+        "joGUyizIvahi",
+        "joGUyizImahi"
+      ],
+      "alang": [
+        "ajoGUyata",
+        "ajoGUyetAm",
+        "ajoGUyanta",
+        "ajoGUyaTAH",
+        "ajoGUyeTAm",
+        "ajoGUyaDvam",
+        "ajoGUye",
+        "ajoGUyAvahi",
+        "ajoGUyAmahi"
+      ],
+      "alat": [
+        "joGUyate",
+        "joGUyete",
+        "joGUyante",
+        "joGUyase",
+        "joGUyeTe",
+        "joGUyaDve",
+        "joGUye",
+        "joGUyAvahe",
+        "joGUyAmahe"
+      ],
+      "alit": [
+        "joGUyAYcakre",
+        "joGUyAmAsa",
+        "joGUyAmbaBUva",
+        "joGUyAYcakrAte",
+        "joGUyAmAsatuH",
+        "joGUyAmbaBUvatuH",
+        "joGUyAYcakrire",
+        "joGUyAmAsuH",
+        "joGUyAmbaBUvuH",
+        "joGUyAYcakfze",
+        "joGUyAmAsiTa",
+        "joGUyAmbaBUviTa",
+        "joGUyAYcakrATe",
+        "joGUyAmAsaTuH",
+        "joGUyAmbaBUvaTuH",
+        "joGUyAYcakfQve",
+        "joGUyAmAsa",
+        "joGUyAmbaBUva",
+        "joGUyAYcakre",
+        "joGUyAmAsa",
+        "joGUyAmbaBUva",
+        "joGUyAYcakfvahe",
+        "joGUyAmAsiva",
+        "joGUyAmbaBUviva",
+        "joGUyAYcakfmahe",
+        "joGUyAmAsima",
+        "joGUyAmbaBUvima"
+      ],
+      "alot": [
+        "joGUyatAm",
+        "joGUyetAm",
+        "joGUyantAm",
+        "joGUyasva",
+        "joGUyeTAm",
+        "joGUyaDvam",
+        "joGUyE",
+        "joGUyAvahE",
+        "joGUyAmahE"
+      ],
+      "alrung": [
+        "ajoGUyizyata",
+        "ajoGUyizyetAm",
+        "ajoGUyizyanta",
+        "ajoGUyizyaTAH",
+        "ajoGUyizyeTAm",
+        "ajoGUyizyaDvam",
+        "ajoGUyizye",
+        "ajoGUyizyAvahi",
+        "ajoGUyizyAmahi"
+      ],
+      "alrut": [
+        "joGUyizyate",
+        "joGUyizyete",
+        "joGUyizyante",
+        "joGUyizyase",
+        "joGUyizyeTe",
+        "joGUyizyaDve",
+        "joGUyizye",
+        "joGUyizyAvahe",
+        "joGUyizyAmahe"
+      ],
+      "alung": [
+        "ajoGUyizwa",
+        "ajoGUyizAtAm",
+        "ajoGUyizata",
+        "ajoGUyizWAH",
+        "ajoGUyizATAm",
+        "ajoGUyiQvam",
+        "ajoGUyiDvam",
+        "ajoGUyizi",
+        "ajoGUyizvahi",
+        "ajoGUyizmahi"
+      ],
+      "alut": [
+        "joGUyitA",
+        "joGUyitArO",
+        "joGUyitAraH",
+        "joGUyitAse",
+        "joGUyitAsATe",
+        "joGUyitADve",
+        "joGUyitAhe",
+        "joGUyitAsvahe",
+        "joGUyitAsmahe"
+      ],
+      "avidhiling": [
+        "joGUyeta",
+        "joGUyeyAtAm",
+        "joGUyeran",
+        "joGUyeTAH",
+        "joGUyeyATAm",
+        "joGUyeDvam",
+        "joGUyeya",
+        "joGUyevahi",
+        "joGUyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "joGUyizIzwa",
+        "joGUyizIyAstAm",
+        "joGUyizIran",
+        "joGUyizIzWAH",
+        "joGUyizIyAsTAm",
+        "joGUyizIQvam",
+        "joGUyizIDvam",
+        "joGUyizIya",
+        "joGUyizIvahi",
+        "joGUyizImahi"
+      ],
+      "alang": [
+        "ajoGUyyata",
+        "ajoGUyyetAm",
+        "ajoGUyyanta",
+        "ajoGUyyaTAH",
+        "ajoGUyyeTAm",
+        "ajoGUyyaDvam",
+        "ajoGUyye",
+        "ajoGUyyAvahi",
+        "ajoGUyyAmahi"
+      ],
+      "alat": [
+        "joGUyyate",
+        "joGUyyete",
+        "joGUyyante",
+        "joGUyyase",
+        "joGUyyeTe",
+        "joGUyyaDve",
+        "joGUyye",
+        "joGUyyAvahe",
+        "joGUyyAmahe"
+      ],
+      "alit": [
+        "joGUyAYcakre",
+        "joGUyAmAse",
+        "joGUyAmbaBUve",
+        "joGUyAYcakrAte",
+        "joGUyAmAsAte",
+        "joGUyAmbaBUvAte",
+        "joGUyAYcakrire",
+        "joGUyAmAsire",
+        "joGUyAmbaBUvire",
+        "joGUyAYcakfze",
+        "joGUyAmAsize",
+        "joGUyAmbaBUvize",
+        "joGUyAYcakrATe",
+        "joGUyAmAsATe",
+        "joGUyAmbaBUvATe",
+        "joGUyAYcakfQve",
+        "joGUyAmAsiDve",
+        "joGUyAmbaBUviQve",
+        "joGUyAYcakre",
+        "joGUyAmAhe",
+        "joGUyAmbaBUve",
+        "joGUyAYcakfvahe",
+        "joGUyAmAsivahe",
+        "joGUyAmbaBUvivahe",
+        "joGUyAYcakfmahe",
+        "joGUyAmAsimahe",
+        "joGUyAmbaBUvimahe"
+      ],
+      "alot": [
+        "joGUyyatAm",
+        "joGUyyetAm",
+        "joGUyyantAm",
+        "joGUyyasva",
+        "joGUyyeTAm",
+        "joGUyyaDvam",
+        "joGUyyE",
+        "joGUyyAvahE",
+        "joGUyyAmahE"
+      ],
+      "alrung": [
+        "ajoGUyizyata",
+        "ajoGUyizyetAm",
+        "ajoGUyizyanta",
+        "ajoGUyizyaTAH",
+        "ajoGUyizyeTAm",
+        "ajoGUyizyaDvam",
+        "ajoGUyizye",
+        "ajoGUyizyAvahi",
+        "ajoGUyizyAmahi"
+      ],
+      "alrut": [
+        "joGUyizyate",
+        "joGUyizyete",
+        "joGUyizyante",
+        "joGUyizyase",
+        "joGUyizyeTe",
+        "joGUyizyaDve",
+        "joGUyizye",
+        "joGUyizyAvahe",
+        "joGUyizyAmahe"
+      ],
+      "alung": [
+        "ajoGUyi",
+        "ajoGUyizAtAm",
+        "ajoGUyizata",
+        "ajoGUyizWAH",
+        "ajoGUyizATAm",
+        "ajoGUyiQvam",
+        "ajoGUyiDvam",
+        "ajoGUyizi",
+        "ajoGUyizvahi",
+        "ajoGUyizmahi"
+      ],
+      "alut": [
+        "joGUyitA",
+        "joGUyitArO",
+        "joGUyitAraH",
+        "joGUyitAse",
+        "joGUyitAsATe",
+        "joGUyitADve",
+        "joGUyitAhe",
+        "joGUyitAsvahe",
+        "joGUyitAsmahe"
+      ],
+      "avidhiling": [
+        "joGUyyeta",
+        "joGUyyeyAtAm",
+        "joGUyyeran",
+        "joGUyyeTAH",
+        "joGUyyeyATAm",
+        "joGUyyeDvam",
+        "joGUyyeya",
+        "joGUyyevahi",
+        "joGUyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "joGUyAt",
+        "joGUyAd",
+        "joGUyAstAm",
+        "joGUyAsuH",
+        "joGUyAH",
+        "joGUyAstam",
+        "joGUyAsta",
+        "joGUyAsam",
+        "joGUyAsva",
+        "joGUyAsma"
+      ],
+      "plang": [
+        "ajoGavIt",
+        "ajoGavId",
+        "ajoGot",
+        "ajoGod",
+        "ajoGutAm",
+        "ajoGavuH",
+        "ajoGavIH",
+        "ajoGoH",
+        "ajoGutam",
+        "ajoGuta",
+        "ajoGavam",
+        "ajoGuva",
+        "ajoGuma"
+      ],
+      "plat": [
+        "joGavIti",
+        "joGoti",
+        "joGutaH",
+        "joGuvati",
+        "joGavIzi",
+        "joGozi",
+        "joGuTaH",
+        "joGuTa",
+        "joGavImi",
+        "joGomi",
+        "joGuvaH",
+        "joGumaH"
+      ],
+      "plit": [
+        "joGavAYcakAra",
+        "joGavAmAsa",
+        "joGavAmbaBUva",
+        "joGavAYcakratuH",
+        "joGavAmAsatuH",
+        "joGavAmbaBUvatuH",
+        "joGavAYcakruH",
+        "joGavAmAsuH",
+        "joGavAmbaBUvuH",
+        "joGavAYcakarTa",
+        "joGavAmAsiTa",
+        "joGavAmbaBUviTa",
+        "joGavAYcakraTuH",
+        "joGavAmAsaTuH",
+        "joGavAmbaBUvaTuH",
+        "joGavAYcakra",
+        "joGavAmAsa",
+        "joGavAmbaBUva",
+        "joGavAYcakara",
+        "joGavAYcakAra",
+        "joGavAmAsa",
+        "joGavAmbaBUva",
+        "joGavAYcakfva",
+        "joGavAmAsiva",
+        "joGavAmbaBUviva",
+        "joGavAYcakfma",
+        "joGavAmAsima",
+        "joGavAmbaBUvima"
+      ],
+      "plot": [
+        "joGavItu",
+        "joGutAt",
+        "joGutAd",
+        "joGotu",
+        "joGutAm",
+        "joGuvatu",
+        "joGutAt",
+        "joGutAd",
+        "joGuhi",
+        "joGutam",
+        "joGuta",
+        "joGavAni",
+        "joGavAva",
+        "joGavAma"
+      ],
+      "plrung": [
+        "ajoGavizyat",
+        "ajoGavizyad",
+        "ajoGavizyatAm",
+        "ajoGavizyan",
+        "ajoGavizyaH",
+        "ajoGavizyatam",
+        "ajoGavizyata",
+        "ajoGavizyam",
+        "ajoGavizyAva",
+        "ajoGavizyAma"
+      ],
+      "plrut": [
+        "joGavizyati",
+        "joGavizyataH",
+        "joGavizyanti",
+        "joGavizyasi",
+        "joGavizyaTaH",
+        "joGavizyaTa",
+        "joGavizyAmi",
+        "joGavizyAvaH",
+        "joGavizyAmaH"
+      ],
+      "plung": [
+        "ajoGAvIt",
+        "ajoGAvId",
+        "ajoGAvizwAm",
+        "ajoGAvizuH",
+        "ajoGAvIH",
+        "ajoGAvizwam",
+        "ajoGAvizwa",
+        "ajoGAvizam",
+        "ajoGAvizva",
+        "ajoGAvizma"
+      ],
+      "plut": [
+        "joGavitA",
+        "joGavitArO",
+        "joGavitAraH",
+        "joGavitAsi",
+        "joGavitAsTaH",
+        "joGavitAsTa",
+        "joGavitAsmi",
+        "joGavitAsvaH",
+        "joGavitAsmaH"
+      ],
+      "pvidhiling": [
+        "joGuyAt",
+        "joGuyAd",
+        "joGuyAtAm",
+        "joGuyuH",
+        "joGuyAH",
+        "joGuyAtam",
+        "joGuyAta",
+        "joGuyAm",
+        "joGuyAva",
+        "joGuyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "joGavizIzwa",
+        "joGAvizIzwa",
+        "joGavizIyAstAm",
+        "joGAvizIyAstAm",
+        "joGavizIran",
+        "joGAvizIran",
+        "joGavizIzWAH",
+        "joGAvizIzWAH",
+        "joGavizIyAsTAm",
+        "joGAvizIyAsTAm",
+        "joGavizIQvam",
+        "joGAvizIQvam",
+        "joGavizIya",
+        "joGAvizIya",
+        "joGavizIvahi",
+        "joGAvizIvahi",
+        "joGavizImahi",
+        "joGAvizImahi"
+      ],
+      "alang": [
+        "ajoGUyata",
+        "ajoGUyetAm",
+        "ajoGUyanta",
+        "ajoGUyaTAH",
+        "ajoGUyeTAm",
+        "ajoGUyaDvam",
+        "ajoGUye",
+        "ajoGUyAvahi",
+        "ajoGUyAmahi"
+      ],
+      "alat": [
+        "joGUyate",
+        "joGUyete",
+        "joGUyante",
+        "joGUyase",
+        "joGUyeTe",
+        "joGUyaDve",
+        "joGUye",
+        "joGUyAvahe",
+        "joGUyAmahe"
+      ],
+      "alit": [
+        "joGavAYcakre",
+        "joGavAmAse",
+        "joGavAmbaBUve",
+        "joGavAYcakrAte",
+        "joGavAmAsAte",
+        "joGavAmbaBUvAte",
+        "joGavAYcakrire",
+        "joGavAmAsire",
+        "joGavAmbaBUvire",
+        "joGavAYcakfze",
+        "joGavAmAsize",
+        "joGavAmbaBUvize",
+        "joGavAYcakrATe",
+        "joGavAmAsATe",
+        "joGavAmbaBUvATe",
+        "joGavAYcakfQve",
+        "joGavAmAsiDve",
+        "joGavAmbaBUviQve",
+        "joGavAYcakre",
+        "joGavAmAhe",
+        "joGavAmbaBUve",
+        "joGavAYcakfvahe",
+        "joGavAmAsivahe",
+        "joGavAmbaBUvivahe",
+        "joGavAYcakfmahe",
+        "joGavAmAsimahe",
+        "joGavAmbaBUvimahe"
+      ],
+      "alot": [
+        "joGUyatAm",
+        "joGUyetAm",
+        "joGUyantAm",
+        "joGUyasva",
+        "joGUyeTAm",
+        "joGUyaDvam",
+        "joGUyE",
+        "joGUyAvahE",
+        "joGUyAmahE"
+      ],
+      "alrung": [
+        "ajoGavizyata",
+        "ajoGAvizyata",
+        "ajoGavizyetAm",
+        "ajoGAvizyetAm",
+        "ajoGavizyanta",
+        "ajoGAvizyanta",
+        "ajoGavizyaTAH",
+        "ajoGAvizyaTAH",
+        "ajoGavizyeTAm",
+        "ajoGAvizyeTAm",
+        "ajoGavizyaDvam",
+        "ajoGAvizyaDvam",
+        "ajoGavizye",
+        "ajoGAvizye",
+        "ajoGavizyAvahi",
+        "ajoGAvizyAvahi",
+        "ajoGavizyAmahi",
+        "ajoGAvizyAmahi"
+      ],
+      "alrut": [
+        "joGavizyate",
+        "joGAvizyate",
+        "joGavizyete",
+        "joGAvizyete",
+        "joGavizyante",
+        "joGAvizyante",
+        "joGavizyase",
+        "joGAvizyase",
+        "joGavizyeTe",
+        "joGAvizyeTe",
+        "joGavizyaDve",
+        "joGAvizyaDve",
+        "joGavizye",
+        "joGAvizye",
+        "joGavizyAvahe",
+        "joGAvizyAvahe",
+        "joGavizyAmahe",
+        "joGAvizyAmahe"
+      ],
+      "alung": [
+        "ajoGAvi",
+        "ajoGavizAtAm",
+        "ajoGAvizAtAm",
+        "ajoGavizata",
+        "ajoGAvizata",
+        "ajoGavizWAH",
+        "ajoGAvizWAH",
+        "ajoGavizATAm",
+        "ajoGAvizATAm",
+        "ajoGaviQvam",
+        "ajoGAviQvam",
+        "ajoGavizi",
+        "ajoGAvizi",
+        "ajoGavizvahi",
+        "ajoGAvizvahi",
+        "ajoGavizmahi",
+        "ajoGAvizmahi"
+      ],
+      "alut": [
+        "joGavitA",
+        "joGAvitA",
+        "joGavitArO",
+        "joGAvitArO",
+        "joGavitAraH",
+        "joGAvitAraH",
+        "joGavitAse",
+        "joGAvitAse",
+        "joGavitAsATe",
+        "joGAvitAsATe",
+        "joGavitADve",
+        "joGAvitADve",
+        "joGavitAhe",
+        "joGAvitAhe",
+        "joGavitAsvahe",
+        "joGAvitAsvahe",
+        "joGavitAsmahe",
+        "joGAvitAsmahe"
+      ],
+      "avidhiling": [
+        "joGUyeta",
+        "joGUyeyAtAm",
+        "joGUyeran",
+        "joGUyeTAH",
+        "joGUyeyATAm",
+        "joGUyeDvam",
+        "joGUyeya",
+        "joGUyevahi",
+        "joGUyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "Gava",
+          "m": "GavaH",
+          "f": "GavA",
+          "n": "Gavam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "GavanIya",
+          "m": "GavanIyaH",
+          "f": "GavanIyA",
+          "n": "GavanIyam"
+        }
+      ],
+      "ap": [
+        {
+          "base": "Gava",
+          "m": "GavaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kta": [
+        {
+          "base": "Guta",
+          "m": "GutaH",
+          "f": "GutA",
+          "n": "Gutam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Gutavat",
+          "m": "GutavAn",
+          "f": "GutavatI",
+          "n": "Gutavat/Gutavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Guti",
+          "m": "",
+          "f": "GutiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "GutvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "juGuvas",
+          "m": "juGuvAn",
+          "f": "juGUzI",
+          "n": "juGuvat/juGuvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "GavamAna",
+          "m": "GavamAnaH",
+          "f": "GavamAnA",
+          "n": "GavamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "GAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "GAvya",
+          "m": "GAvyaH",
+          "f": "GAvyA",
+          "n": "GAvyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "GAvaka",
+          "m": "GAvakaH",
+          "f": "GAvikA",
+          "n": "GAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Gotavya",
+          "m": "GotavyaH",
+          "f": "GotavyA",
+          "n": "Gotavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Gotum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Gotf",
+          "m": "GotA",
+          "f": "GotrI",
+          "n": "Gotf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "GUyamAna",
+          "m": "GUyamAnaH",
+          "f": "GUyamAnA",
+          "n": "GUyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Gavya",
+          "m": "GavyaH",
+          "f": "GavyA",
+          "n": "Gavyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praGutya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Gavana",
+          "m": "",
+          "f": "",
+          "n": "Gavanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Gavaka",
+          "m": "GavakaH",
+          "f": "GavikA",
+          "n": "Gavakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "GavamAna",
+          "m": "GavamAnaH",
+          "f": "GavamAnA",
+          "n": "GavamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "GAvizyamARa",
+          "m": "GAvizyamARaH",
+          "f": "GAvizyamARA",
+          "n": "GAvizyamARam"
+        },
+        {
+          "base": "GozyamARa",
+          "m": "GozyamARaH",
+          "f": "GozyamARA",
+          "n": "GozyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "GozyamARa",
+          "m": "GozyamARaH",
+          "f": "GozyamARA",
+          "n": "GozyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "juGUzA",
+          "m": "",
+          "f": "juGUzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "juGUza",
+          "m": "juGUzaH",
+          "f": "juGUzA",
+          "n": "juGUzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "juGUzaRIya",
+          "m": "juGUzaRIyaH",
+          "f": "juGUzaRIyA",
+          "n": "juGUzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "juGUzu",
+          "m": "juGUzuH",
+          "f": "juGUzuH",
+          "n": "juGUzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "juGUzita",
+          "m": "juGUzitaH",
+          "f": "juGUzitA",
+          "n": "juGUzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "juGUzitavat",
+          "m": "juGUzitavAn",
+          "f": "juGUzitavatI",
+          "n": "juGUzitavat/juGUzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "juGUzwi",
+          "m": "",
+          "f": "juGUzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "juGUzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "juGUzAmbaBUvas",
+          "m": "juGUzAmbaBUvAn",
+          "f": "juGUzAmbaBUzI",
+          "n": "juGUzAmbaBUvat/juGUzAmbaBUvad"
+        },
+        {
+          "base": "juGUzAmAsivas",
+          "m": "juGUzAmAsivAn",
+          "f": "juGUzAmAsyuzI",
+          "n": "juGUzAmAsivat/juGUzAmAsivad"
+        },
+        {
+          "base": "juGUzAYcakfvas",
+          "m": "juGUzAYcakfvAn",
+          "f": "juGUzAYcakruzI",
+          "n": "juGUzAYcakfvat/juGUzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "juGUza",
+          "m": "juGUzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "juGUzamARa",
+          "m": "juGUzamARaH",
+          "f": "juGUzamARA",
+          "n": "juGUzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "juGUzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "juGUzaka",
+          "m": "juGUzakaH",
+          "f": "juGUzikA",
+          "n": "juGUzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "juGUzitavya",
+          "m": "juGUzitavyaH",
+          "f": "juGUzitavyA",
+          "n": "juGUzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "juGUzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "juGUzitf",
+          "m": "juGUzitA",
+          "f": "juGUzitrI",
+          "n": "juGUzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "juGUzyamARa",
+          "m": "juGUzyamARaH",
+          "f": "juGUzyamARA",
+          "n": "juGUzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "juGUzya",
+          "m": "juGUzyaH",
+          "f": "juGUzyA",
+          "n": "juGUzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajuGUzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "juGUzaRa",
+          "m": "",
+          "f": "",
+          "n": "juGUzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "juGUzaka",
+          "m": "juGUzakaH",
+          "f": "juGUzikA",
+          "n": "juGUzakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "juGUzamARa",
+          "m": "juGUzamARaH",
+          "f": "juGUzamARA",
+          "n": "juGUzamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "juGUzizyamARa",
+          "m": "juGUzizyamARaH",
+          "f": "juGUzizyamARA",
+          "n": "juGUzizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "juGUzizyamARa",
+          "m": "juGUzizyamARaH",
+          "f": "juGUzizyamARA",
+          "n": "juGUzizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "GAva",
+          "m": "GAvaH",
+          "f": "GAvA",
+          "n": "GAvam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "GAvanIya",
+          "m": "GAvanIyaH",
+          "f": "GAvanIyA",
+          "n": "GAvanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "GAvita",
+          "m": "GAvitaH",
+          "f": "GAvitA",
+          "n": "GAvitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "GAvitavat",
+          "m": "GAvitavAn",
+          "f": "GAvitavatI",
+          "n": "GAvitavat/GAvitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "GAti",
+          "m": "",
+          "f": "GAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "GAvayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "GAvayAmbaBUvas",
+          "m": "GAvayAmbaBUvAn",
+          "f": "GAvayAmbaBUzI",
+          "n": "GAvayAmbaBUvat/GAvayAmbaBUvad"
+        },
+        {
+          "base": "GAvayAmAsivas",
+          "m": "GAvayAmAsivAn",
+          "f": "GAvayAmAsyuzI",
+          "n": "GAvayAmAsivat/GAvayAmAsivad"
+        },
+        {
+          "base": "GAvayAYcakfvas",
+          "m": "GAvayAYcakfvAn",
+          "f": "GAvayAYcakruzI",
+          "n": "GAvayAYcakfvat/GAvayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "GAvayamAna",
+          "m": "GAvayamAnaH",
+          "f": "GAvayamAnA",
+          "n": "GAvayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "GAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "GAvaka",
+          "m": "GAvakaH",
+          "f": "GAvikA",
+          "n": "GAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "GAvayitavya",
+          "m": "GAvayitavyaH",
+          "f": "GAvayitavyA",
+          "n": "GAvayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "GAvayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "GAvayitf",
+          "m": "GAvayitA",
+          "f": "GAvayitrI",
+          "n": "GAvayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "GAvyamAna",
+          "m": "GAvyamAnaH",
+          "f": "GAvyamAnA",
+          "n": "GAvyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "GAvya",
+          "m": "GAvyaH",
+          "f": "GAvyA",
+          "n": "GAvyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praGAvya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "GAvana",
+          "m": "",
+          "f": "",
+          "n": "GAvanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "GAvaka",
+          "m": "GAvakaH",
+          "f": "GAvikA",
+          "n": "GAvakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "GAvayat",
+          "m": "GAvayan",
+          "f": "GAvayantI",
+          "n": "GAvayat/GAvayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "GAvayamAna",
+          "m": "GAvayamAnaH",
+          "f": "GAvayamAnA",
+          "n": "GAvayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "GAvizyamARa",
+          "m": "GAvizyamARaH",
+          "f": "GAvizyamARA",
+          "n": "GAvizyamARam"
+        },
+        {
+          "base": "GAvayizyamARa",
+          "m": "GAvayizyamARaH",
+          "f": "GAvayizyamARA",
+          "n": "GAvayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "GAvayizyat",
+          "m": "GAvayizyan",
+          "f": "GAvayizyatI/GAvayizyantI",
+          "n": "GAvayizyat/GAvayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "GAvayizyamARa",
+          "m": "GAvayizyamARaH",
+          "f": "GAvayizyamARA",
+          "n": "GAvayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "joGUyA",
+          "m": "",
+          "f": "joGUyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "joGuva",
+          "m": "joGuvaH",
+          "f": "joGuvA",
+          "n": "joGuvam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "joGUyanIya",
+          "m": "joGUyanIyaH",
+          "f": "joGUyanIyA",
+          "n": "joGUyanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "joGUyita",
+          "m": "joGUyitaH",
+          "f": "joGUyitA",
+          "n": "joGUyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "joGUyitavat",
+          "m": "joGUyitavAn",
+          "f": "joGUyitavatI",
+          "n": "joGUyitavat/joGUyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "joGUti",
+          "m": "",
+          "f": "joGUtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "joGUyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "joGUyAmbaBUvas",
+          "m": "joGUyAmbaBUvAn",
+          "f": "joGUyAmbaBUzI",
+          "n": "joGUyAmbaBUvat/joGUyAmbaBUvad"
+        },
+        {
+          "base": "joGUyAmAsivas",
+          "m": "joGUyAmAsivAn",
+          "f": "joGUyAmAsyuzI",
+          "n": "joGUyAmAsivat/joGUyAmAsivad"
+        },
+        {
+          "base": "joGUyAYcakfvas",
+          "m": "joGUyAYcakfvAn",
+          "f": "joGUyAYcakruzI",
+          "n": "joGUyAYcakfvat/joGUyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "joGUya",
+          "m": "joGUyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "joGUyamAna",
+          "m": "joGUyamAnaH",
+          "f": "joGUyamAnA",
+          "n": "joGUyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "joGUyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "joGUyaka",
+          "m": "joGUyakaH",
+          "f": "joGUyikA",
+          "n": "joGUyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "joGUyitavya",
+          "m": "joGUyitavyaH",
+          "f": "joGUyitavyA",
+          "n": "joGUyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "joGUyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "joGUyitf",
+          "m": "joGUyitA",
+          "f": "joGUyitrI",
+          "n": "joGUyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "joGUyyamAna",
+          "m": "joGUyyamAnaH",
+          "f": "joGUyyamAnA",
+          "n": "joGUyyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "joGUyya",
+          "m": "joGUyyaH",
+          "f": "joGUyyA",
+          "n": "joGUyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajoGUyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "joGUyana",
+          "m": "",
+          "f": "",
+          "n": "joGUyanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "joGUyaka",
+          "m": "joGUyakaH",
+          "f": "joGUyikA",
+          "n": "joGUyakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "joGUyamAna",
+          "m": "joGUyamAnaH",
+          "f": "joGUyamAnA",
+          "n": "joGUyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "joGUyizyamARa",
+          "m": "joGUyizyamARaH",
+          "f": "joGUyizyamARA",
+          "n": "joGUyizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "joGUyizyamARa",
+          "m": "joGUyizyamARaH",
+          "f": "joGUyizyamARA",
+          "n": "joGUyizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "joGavA",
+          "m": "",
+          "f": "joGavA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "joGava",
+          "m": "joGavaH",
+          "f": "joGavA",
+          "n": "joGavam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "joGavanIya",
+          "m": "joGavanIyaH",
+          "f": "joGavanIyA",
+          "n": "joGavanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "joGuvita",
+          "m": "joGuvitaH",
+          "f": "joGuvitA",
+          "n": "joGuvitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "joGuvitavat",
+          "m": "joGuvitavAn",
+          "f": "joGuvitavatI",
+          "n": "joGuvitavat/joGuvitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "joGuti",
+          "m": "",
+          "f": "joGutiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "joGavitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "joGavAmbaBUvas",
+          "m": "joGavAmbaBUvAn",
+          "f": "joGavAmbaBUzI",
+          "n": "joGavAmbaBUvat/joGavAmbaBUvad"
+        },
+        {
+          "base": "joGavAmAsivas",
+          "m": "joGavAmAsivAn",
+          "f": "joGavAmAsyuzI",
+          "n": "joGavAmAsivat/joGavAmAsivad"
+        },
+        {
+          "base": "joGavAYcakfvas",
+          "m": "joGavAYcakfvAn",
+          "f": "joGavAYcakruzI",
+          "n": "joGavAYcakfvat/joGavAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "joGAva",
+          "m": "joGAvaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "joGuvAna",
+          "m": "joGuvAnaH",
+          "f": "joGuvAnA",
+          "n": "joGuvAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "joGAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "joGAvaka",
+          "m": "joGAvakaH",
+          "f": "joGAvikA",
+          "n": "joGAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "joGavitavya",
+          "m": "joGavitavyaH",
+          "f": "joGavitavyA",
+          "n": "joGavitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "joGavitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "joGavitf",
+          "m": "joGavitA",
+          "f": "joGavitrI",
+          "n": "joGavitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "joGUyamAna",
+          "m": "joGUyamAnaH",
+          "f": "joGUyamAnA",
+          "n": "joGUyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajoGuya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "joGavana",
+          "m": "",
+          "f": "",
+          "n": "joGavanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "joGavaka",
+          "m": "joGavakaH",
+          "f": "joGavikA",
+          "n": "joGavakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "joGuvat",
+          "m": "joGuvat/joGuvad",
+          "f": "joGuvatI",
+          "n": "joGuvat/joGuvad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "joGAvizyamARa",
+          "m": "joGAvizyamARaH",
+          "f": "joGAvizyamARA",
+          "n": "joGAvizyamARam"
+        },
+        {
+          "base": "joGavizyamARa",
+          "m": "joGavizyamARaH",
+          "f": "joGavizyamARA",
+          "n": "joGavizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "joGavizyat",
+          "m": "joGavizyan",
+          "f": "joGavizyatI/joGavizyantI",
+          "n": "joGavizyat/joGavizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Gu",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

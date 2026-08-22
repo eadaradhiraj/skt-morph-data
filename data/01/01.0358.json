@@ -1,0 +1,2923 @@
+{
+  "id": "01.0358",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "kiwa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to frighten,to irritate, to cause pain"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "319"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "319"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2299",
+      "ext_link": "/sutraani/sk2299?scroll=sutra-commentary-kaumudi-region&highlight=kaiwa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "kiwyAt",
+        "kiwyAd",
+        "kiwyAstAm",
+        "kiwyAsuH",
+        "kiwyAH",
+        "kiwyAstam",
+        "kiwyAsta",
+        "kiwyAsam",
+        "kiwyAsva",
+        "kiwyAsma"
+      ],
+      "plang": [
+        "akewat",
+        "akewad",
+        "akewatAm",
+        "akewan",
+        "akewaH",
+        "akewatam",
+        "akewata",
+        "akewam",
+        "akewAva",
+        "akewAma"
+      ],
+      "plat": [
+        "kewati",
+        "kewataH",
+        "kewanti",
+        "kewasi",
+        "kewaTaH",
+        "kewaTa",
+        "kewAmi",
+        "kewAvaH",
+        "kewAmaH"
+      ],
+      "plit": [
+        "cikewa",
+        "cikiwatuH",
+        "cikiwuH",
+        "cikewiTa",
+        "cikiwaTuH",
+        "cikiwa",
+        "cikewa",
+        "cikiwiva",
+        "cikiwima"
+      ],
+      "plot": [
+        "kewatAt",
+        "kewatAd",
+        "kewatu",
+        "kewatAm",
+        "kewantu",
+        "kewa",
+        "kewatAt",
+        "kewatAd",
+        "kewatam",
+        "kewata",
+        "kewAni",
+        "kewAva",
+        "kewAma"
+      ],
+      "plrung": [
+        "akewizyat",
+        "akewizyad",
+        "akewizyatAm",
+        "akewizyan",
+        "akewizyaH",
+        "akewizyatam",
+        "akewizyata",
+        "akewizyam",
+        "akewizyAva",
+        "akewizyAma"
+      ],
+      "plrut": [
+        "kewizyati",
+        "kewizyataH",
+        "kewizyanti",
+        "kewizyasi",
+        "kewizyaTaH",
+        "kewizyaTa",
+        "kewizyAmi",
+        "kewizyAvaH",
+        "kewizyAmaH"
+      ],
+      "plung": [
+        "akewIt",
+        "akewId",
+        "akewizwAm",
+        "akewizuH",
+        "akewIH",
+        "akewizwam",
+        "akewizwa",
+        "akewizam",
+        "akewizva",
+        "akewizma"
+      ],
+      "plut": [
+        "kewitA",
+        "kewitArO",
+        "kewitAraH",
+        "kewitAsi",
+        "kewitAsTaH",
+        "kewitAsTa",
+        "kewitAsmi",
+        "kewitAsvaH",
+        "kewitAsmaH"
+      ],
+      "pvidhiling": [
+        "kewet",
+        "kewed",
+        "kewetAm",
+        "keweyuH",
+        "keweH",
+        "kewetam",
+        "keweta",
+        "keweyam",
+        "keweva",
+        "kewema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "kewizIzwa",
+        "kewizIyAstAm",
+        "kewizIran",
+        "kewizIzWAH",
+        "kewizIyAsTAm",
+        "kewizIDvam",
+        "kewizIya",
+        "kewizIvahi",
+        "kewizImahi"
+      ],
+      "alang": [
+        "akiwyata",
+        "akiwyetAm",
+        "akiwyanta",
+        "akiwyaTAH",
+        "akiwyeTAm",
+        "akiwyaDvam",
+        "akiwye",
+        "akiwyAvahi",
+        "akiwyAmahi"
+      ],
+      "alat": [
+        "kiwyate",
+        "kiwyete",
+        "kiwyante",
+        "kiwyase",
+        "kiwyeTe",
+        "kiwyaDve",
+        "kiwye",
+        "kiwyAvahe",
+        "kiwyAmahe"
+      ],
+      "alit": [
+        "cikiwe",
+        "cikiwAte",
+        "cikiwire",
+        "cikiwize",
+        "cikiwATe",
+        "cikiwiDve",
+        "cikiwe",
+        "cikiwivahe",
+        "cikiwimahe"
+      ],
+      "alot": [
+        "kiwyatAm",
+        "kiwyetAm",
+        "kiwyantAm",
+        "kiwyasva",
+        "kiwyeTAm",
+        "kiwyaDvam",
+        "kiwyE",
+        "kiwyAvahE",
+        "kiwyAmahE"
+      ],
+      "alrung": [
+        "akewizyata",
+        "akewizyetAm",
+        "akewizyanta",
+        "akewizyaTAH",
+        "akewizyeTAm",
+        "akewizyaDvam",
+        "akewizye",
+        "akewizyAvahi",
+        "akewizyAmahi"
+      ],
+      "alrut": [
+        "kewizyate",
+        "kewizyete",
+        "kewizyante",
+        "kewizyase",
+        "kewizyeTe",
+        "kewizyaDve",
+        "kewizye",
+        "kewizyAvahe",
+        "kewizyAmahe"
+      ],
+      "alung": [
+        "akewi",
+        "akewizAtAm",
+        "akewizata",
+        "akewizWAH",
+        "akewizATAm",
+        "akewiDvam",
+        "akewizi",
+        "akewizvahi",
+        "akewizmahi"
+      ],
+      "alut": [
+        "kewitA",
+        "kewitArO",
+        "kewitAraH",
+        "kewitAse",
+        "kewitAsATe",
+        "kewitADve",
+        "kewitAhe",
+        "kewitAsvahe",
+        "kewitAsmahe"
+      ],
+      "avidhiling": [
+        "kiwyeta",
+        "kiwyeyAtAm",
+        "kiwyeran",
+        "kiwyeTAH",
+        "kiwyeyATAm",
+        "kiwyeDvam",
+        "kiwyeya",
+        "kiwyevahi",
+        "kiwyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "cikiwizyAt",
+        "cikiwizyAd",
+        "cikewizyAt",
+        "cikewizyAd",
+        "cikiwizyAstAm",
+        "cikewizyAstAm",
+        "cikiwizyAsuH",
+        "cikewizyAsuH",
+        "cikiwizyAH",
+        "cikewizyAH",
+        "cikiwizyAstam",
+        "cikewizyAstam",
+        "cikiwizyAsta",
+        "cikewizyAsta",
+        "cikiwizyAsam",
+        "cikewizyAsam",
+        "cikiwizyAsva",
+        "cikewizyAsva",
+        "cikiwizyAsma",
+        "cikewizyAsma"
+      ],
+      "plang": [
+        "acikiwizat",
+        "acikiwizad",
+        "acikewizat",
+        "acikewizad",
+        "acikiwizatAm",
+        "acikewizatAm",
+        "acikiwizan",
+        "acikewizan",
+        "acikiwizaH",
+        "acikewizaH",
+        "acikiwizatam",
+        "acikewizatam",
+        "acikiwizata",
+        "acikewizata",
+        "acikiwizam",
+        "acikewizam",
+        "acikiwizAva",
+        "acikewizAva",
+        "acikiwizAma",
+        "acikewizAma"
+      ],
+      "plat": [
+        "cikiwizati",
+        "cikewizati",
+        "cikiwizataH",
+        "cikewizataH",
+        "cikiwizanti",
+        "cikewizanti",
+        "cikiwizasi",
+        "cikewizasi",
+        "cikiwizaTaH",
+        "cikewizaTaH",
+        "cikiwizaTa",
+        "cikewizaTa",
+        "cikiwizAmi",
+        "cikewizAmi",
+        "cikiwizAvaH",
+        "cikewizAvaH",
+        "cikiwizAmaH",
+        "cikewizAmaH"
+      ],
+      "plit": [
+        "cikiwizAYcakAra",
+        "cikiwizAmAsa",
+        "cikiwizAmbaBUva",
+        "cikewizAYcakAra",
+        "cikewizAmAsa",
+        "cikewizAmbaBUva",
+        "cikiwizAYcakratuH",
+        "cikiwizAmAsatuH",
+        "cikiwizAmbaBUvatuH",
+        "cikewizAYcakratuH",
+        "cikewizAmAsatuH",
+        "cikewizAmbaBUvatuH",
+        "cikiwizAYcakruH",
+        "cikiwizAmAsuH",
+        "cikiwizAmbaBUvuH",
+        "cikewizAYcakruH",
+        "cikewizAmAsuH",
+        "cikewizAmbaBUvuH",
+        "cikiwizAYcakarTa",
+        "cikiwizAmAsiTa",
+        "cikiwizAmbaBUviTa",
+        "cikewizAYcakarTa",
+        "cikewizAmAsiTa",
+        "cikewizAmbaBUviTa",
+        "cikiwizAYcakraTuH",
+        "cikiwizAmAsaTuH",
+        "cikiwizAmbaBUvaTuH",
+        "cikewizAYcakraTuH",
+        "cikewizAmAsaTuH",
+        "cikewizAmbaBUvaTuH",
+        "cikiwizAYcakra",
+        "cikiwizAmAsa",
+        "cikiwizAmbaBUva",
+        "cikewizAYcakra",
+        "cikewizAmAsa",
+        "cikewizAmbaBUva",
+        "cikiwizAYcakara",
+        "cikiwizAYcakAra",
+        "cikiwizAmAsa",
+        "cikiwizAmbaBUva",
+        "cikewizAYcakara",
+        "cikewizAYcakAra",
+        "cikewizAmAsa",
+        "cikewizAmbaBUva",
+        "cikiwizAYcakfva",
+        "cikiwizAmAsiva",
+        "cikiwizAmbaBUviva",
+        "cikewizAYcakfva",
+        "cikewizAmAsiva",
+        "cikewizAmbaBUviva",
+        "cikiwizAYcakfma",
+        "cikiwizAmAsima",
+        "cikiwizAmbaBUvima",
+        "cikewizAYcakfma",
+        "cikewizAmAsima",
+        "cikewizAmbaBUvima"
+      ],
+      "plot": [
+        "cikiwizatAt",
+        "cikiwizatAd",
+        "cikiwizatu",
+        "cikewizatAt",
+        "cikewizatAd",
+        "cikewizatu",
+        "cikiwizatAm",
+        "cikewizatAm",
+        "cikiwizantu",
+        "cikewizantu",
+        "cikiwiza",
+        "cikiwizatAt",
+        "cikiwizatAd",
+        "cikewiza",
+        "cikewizatAt",
+        "cikewizatAd",
+        "cikiwizatam",
+        "cikewizatam",
+        "cikiwizata",
+        "cikewizata",
+        "cikiwizARi",
+        "cikewizARi",
+        "cikiwizAva",
+        "cikewizAva",
+        "cikiwizAma",
+        "cikewizAma"
+      ],
+      "plrung": [
+        "acikiwizizyat",
+        "acikiwizizyad",
+        "acikewizizyat",
+        "acikewizizyad",
+        "acikiwizizyatAm",
+        "acikewizizyatAm",
+        "acikiwizizyan",
+        "acikewizizyan",
+        "acikiwizizyaH",
+        "acikewizizyaH",
+        "acikiwizizyatam",
+        "acikewizizyatam",
+        "acikiwizizyata",
+        "acikewizizyata",
+        "acikiwizizyam",
+        "acikewizizyam",
+        "acikiwizizyAva",
+        "acikewizizyAva",
+        "acikiwizizyAma",
+        "acikewizizyAma"
+      ],
+      "plrut": [
+        "cikiwizizyati",
+        "cikewizizyati",
+        "cikiwizizyataH",
+        "cikewizizyataH",
+        "cikiwizizyanti",
+        "cikewizizyanti",
+        "cikiwizizyasi",
+        "cikewizizyasi",
+        "cikiwizizyaTaH",
+        "cikewizizyaTaH",
+        "cikiwizizyaTa",
+        "cikewizizyaTa",
+        "cikiwizizyAmi",
+        "cikewizizyAmi",
+        "cikiwizizyAvaH",
+        "cikewizizyAvaH",
+        "cikiwizizyAmaH",
+        "cikewizizyAmaH"
+      ],
+      "plung": [
+        "acikiwizIt",
+        "acikiwizId",
+        "acikewizIt",
+        "acikewizId",
+        "acikiwizizwAm",
+        "acikewizizwAm",
+        "acikiwizizuH",
+        "acikewizizuH",
+        "acikiwizIH",
+        "acikewizIH",
+        "acikiwizizwam",
+        "acikewizizwam",
+        "acikiwizizwa",
+        "acikewizizwa",
+        "acikiwizizam",
+        "acikewizizam",
+        "acikiwizizva",
+        "acikewizizva",
+        "acikiwizizma",
+        "acikewizizma"
+      ],
+      "plut": [
+        "cikiwizitA",
+        "cikewizitA",
+        "cikiwizitArO",
+        "cikewizitArO",
+        "cikiwizitAraH",
+        "cikewizitAraH",
+        "cikiwizitAsi",
+        "cikewizitAsi",
+        "cikiwizitAsTaH",
+        "cikewizitAsTaH",
+        "cikiwizitAsTa",
+        "cikewizitAsTa",
+        "cikiwizitAsmi",
+        "cikewizitAsmi",
+        "cikiwizitAsvaH",
+        "cikewizitAsvaH",
+        "cikiwizitAsmaH",
+        "cikewizitAsmaH"
+      ],
+      "pvidhiling": [
+        "cikiwizet",
+        "cikiwized",
+        "cikewizet",
+        "cikewized",
+        "cikiwizetAm",
+        "cikewizetAm",
+        "cikiwizeyuH",
+        "cikewizeyuH",
+        "cikiwizeH",
+        "cikewizeH",
+        "cikiwizetam",
+        "cikewizetam",
+        "cikiwizeta",
+        "cikewizeta",
+        "cikiwizeyam",
+        "cikewizeyam",
+        "cikiwizeva",
+        "cikewizeva",
+        "cikiwizema",
+        "cikewizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cikiwizizIzwa",
+        "cikewizizIzwa",
+        "cikiwizizIyAstAm",
+        "cikewizizIyAstAm",
+        "cikiwizizIran",
+        "cikewizizIran",
+        "cikiwizizIzWAH",
+        "cikewizizIzWAH",
+        "cikiwizizIyAsTAm",
+        "cikewizizIyAsTAm",
+        "cikiwizizIDvam",
+        "cikewizizIDvam",
+        "cikiwizizIya",
+        "cikewizizIya",
+        "cikiwizizIvahi",
+        "cikewizizIvahi",
+        "cikiwizizImahi",
+        "cikewizizImahi"
+      ],
+      "alang": [
+        "acikiwizyata",
+        "acikewizyata",
+        "acikiwizyetAm",
+        "acikewizyetAm",
+        "acikiwizyanta",
+        "acikewizyanta",
+        "acikiwizyaTAH",
+        "acikewizyaTAH",
+        "acikiwizyeTAm",
+        "acikewizyeTAm",
+        "acikiwizyaDvam",
+        "acikewizyaDvam",
+        "acikiwizye",
+        "acikewizye",
+        "acikiwizyAvahi",
+        "acikewizyAvahi",
+        "acikiwizyAmahi",
+        "acikewizyAmahi"
+      ],
+      "alat": [
+        "cikiwizyate",
+        "cikewizyate",
+        "cikiwizyete",
+        "cikewizyete",
+        "cikiwizyante",
+        "cikewizyante",
+        "cikiwizyase",
+        "cikewizyase",
+        "cikiwizyeTe",
+        "cikewizyeTe",
+        "cikiwizyaDve",
+        "cikewizyaDve",
+        "cikiwizye",
+        "cikewizye",
+        "cikiwizyAvahe",
+        "cikewizyAvahe",
+        "cikiwizyAmahe",
+        "cikewizyAmahe"
+      ],
+      "alit": [
+        "cikiwizAYcakre",
+        "cikiwizAmAse",
+        "cikiwizAmbaBUve",
+        "cikewizAYcakre",
+        "cikewizAmAse",
+        "cikewizAmbaBUve",
+        "cikiwizAYcakrAte",
+        "cikiwizAmAsAte",
+        "cikiwizAmbaBUvAte",
+        "cikewizAYcakrAte",
+        "cikewizAmAsAte",
+        "cikewizAmbaBUvAte",
+        "cikiwizAYcakrire",
+        "cikiwizAmAsire",
+        "cikiwizAmbaBUvire",
+        "cikewizAYcakrire",
+        "cikewizAmAsire",
+        "cikewizAmbaBUvire",
+        "cikiwizAYcakfze",
+        "cikiwizAmAsize",
+        "cikiwizAmbaBUvize",
+        "cikewizAYcakfze",
+        "cikewizAmAsize",
+        "cikewizAmbaBUvize",
+        "cikiwizAYcakrATe",
+        "cikiwizAmAsATe",
+        "cikiwizAmbaBUvATe",
+        "cikewizAYcakrATe",
+        "cikewizAmAsATe",
+        "cikewizAmbaBUvATe",
+        "cikiwizAYcakfQve",
+        "cikiwizAmAsiDve",
+        "cikiwizAmbaBUviQve",
+        "cikewizAYcakfQve",
+        "cikewizAmAsiDve",
+        "cikewizAmbaBUviQve",
+        "cikiwizAYcakre",
+        "cikiwizAmAhe",
+        "cikiwizAmbaBUve",
+        "cikewizAYcakre",
+        "cikewizAmAhe",
+        "cikewizAmbaBUve",
+        "cikiwizAYcakfvahe",
+        "cikiwizAmAsivahe",
+        "cikiwizAmbaBUvivahe",
+        "cikewizAYcakfvahe",
+        "cikewizAmAsivahe",
+        "cikewizAmbaBUvivahe",
+        "cikiwizAYcakfmahe",
+        "cikiwizAmAsimahe",
+        "cikiwizAmbaBUvimahe",
+        "cikewizAYcakfmahe",
+        "cikewizAmAsimahe",
+        "cikewizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cikiwizyatAm",
+        "cikewizyatAm",
+        "cikiwizyetAm",
+        "cikewizyetAm",
+        "cikiwizyantAm",
+        "cikewizyantAm",
+        "cikiwizyasva",
+        "cikewizyasva",
+        "cikiwizyeTAm",
+        "cikewizyeTAm",
+        "cikiwizyaDvam",
+        "cikewizyaDvam",
+        "cikiwizyE",
+        "cikewizyE",
+        "cikiwizyAvahE",
+        "cikewizyAvahE",
+        "cikiwizyAmahE",
+        "cikewizyAmahE"
+      ],
+      "alrung": [
+        "acikiwizizyata",
+        "acikewizizyata",
+        "acikiwizizyetAm",
+        "acikewizizyetAm",
+        "acikiwizizyanta",
+        "acikewizizyanta",
+        "acikiwizizyaTAH",
+        "acikewizizyaTAH",
+        "acikiwizizyeTAm",
+        "acikewizizyeTAm",
+        "acikiwizizyaDvam",
+        "acikewizizyaDvam",
+        "acikiwizizye",
+        "acikewizizye",
+        "acikiwizizyAvahi",
+        "acikewizizyAvahi",
+        "acikiwizizyAmahi",
+        "acikewizizyAmahi"
+      ],
+      "alrut": [
+        "cikiwizizyate",
+        "cikewizizyate",
+        "cikiwizizyete",
+        "cikewizizyete",
+        "cikiwizizyante",
+        "cikewizizyante",
+        "cikiwizizyase",
+        "cikewizizyase",
+        "cikiwizizyeTe",
+        "cikewizizyeTe",
+        "cikiwizizyaDve",
+        "cikewizizyaDve",
+        "cikiwizizye",
+        "cikewizizye",
+        "cikiwizizyAvahe",
+        "cikewizizyAvahe",
+        "cikiwizizyAmahe",
+        "cikewizizyAmahe"
+      ],
+      "alung": [
+        "acikiwizi",
+        "acikewizi",
+        "acikiwizizAtAm",
+        "acikewizizAtAm",
+        "acikiwizizata",
+        "acikewizizata",
+        "acikiwizizWAH",
+        "acikewizizWAH",
+        "acikiwizizATAm",
+        "acikewizizATAm",
+        "acikiwiziDvam",
+        "acikewiziDvam",
+        "acikiwizizi",
+        "acikewizizi",
+        "acikiwizizvahi",
+        "acikewizizvahi",
+        "acikiwizizmahi",
+        "acikewizizmahi"
+      ],
+      "alut": [
+        "cikiwizitA",
+        "cikewizitA",
+        "cikiwizitArO",
+        "cikewizitArO",
+        "cikiwizitAraH",
+        "cikewizitAraH",
+        "cikiwizitAse",
+        "cikewizitAse",
+        "cikiwizitAsATe",
+        "cikewizitAsATe",
+        "cikiwizitADve",
+        "cikewizitADve",
+        "cikiwizitAhe",
+        "cikewizitAhe",
+        "cikiwizitAsvahe",
+        "cikewizitAsvahe",
+        "cikiwizitAsmahe",
+        "cikewizitAsmahe"
+      ],
+      "avidhiling": [
+        "cikiwizyeta",
+        "cikewizyeta",
+        "cikiwizyeyAtAm",
+        "cikewizyeyAtAm",
+        "cikiwizyeran",
+        "cikewizyeran",
+        "cikiwizyeTAH",
+        "cikewizyeTAH",
+        "cikiwizyeyATAm",
+        "cikewizyeyATAm",
+        "cikiwizyeDvam",
+        "cikewizyeDvam",
+        "cikiwizyeya",
+        "cikewizyeya",
+        "cikiwizyevahi",
+        "cikewizyevahi",
+        "cikiwizyemahi",
+        "cikewizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "kewayizIzwa",
+        "kewayizIyAstAm",
+        "kewayizIran",
+        "kewayizIzWAH",
+        "kewayizIyAsTAm",
+        "kewayizIQvam",
+        "kewayizIDvam",
+        "kewayizIya",
+        "kewayizIvahi",
+        "kewayizImahi"
+      ],
+      "alang": [
+        "akewayata",
+        "akewayetAm",
+        "akewayanta",
+        "akewayaTAH",
+        "akewayeTAm",
+        "akewayaDvam",
+        "akewaye",
+        "akewayAvahi",
+        "akewayAmahi"
+      ],
+      "alat": [
+        "kewayate",
+        "kewayete",
+        "kewayante",
+        "kewayase",
+        "kewayeTe",
+        "kewayaDve",
+        "kewaye",
+        "kewayAvahe",
+        "kewayAmahe"
+      ],
+      "alit": [
+        "kewayAYcakre",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakrAte",
+        "kewayAmAsatuH",
+        "kewayAmbaBUvatuH",
+        "kewayAYcakrire",
+        "kewayAmAsuH",
+        "kewayAmbaBUvuH",
+        "kewayAYcakfze",
+        "kewayAmAsiTa",
+        "kewayAmbaBUviTa",
+        "kewayAYcakrATe",
+        "kewayAmAsaTuH",
+        "kewayAmbaBUvaTuH",
+        "kewayAYcakfQve",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakre",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakfvahe",
+        "kewayAmAsiva",
+        "kewayAmbaBUviva",
+        "kewayAYcakfmahe",
+        "kewayAmAsima",
+        "kewayAmbaBUvima"
+      ],
+      "alot": [
+        "kewayatAm",
+        "kewayetAm",
+        "kewayantAm",
+        "kewayasva",
+        "kewayeTAm",
+        "kewayaDvam",
+        "kewayE",
+        "kewayAvahE",
+        "kewayAmahE"
+      ],
+      "alrung": [
+        "akewayizyata",
+        "akewayizyetAm",
+        "akewayizyanta",
+        "akewayizyaTAH",
+        "akewayizyeTAm",
+        "akewayizyaDvam",
+        "akewayizye",
+        "akewayizyAvahi",
+        "akewayizyAmahi"
+      ],
+      "alrut": [
+        "kewayizyate",
+        "kewayizyete",
+        "kewayizyante",
+        "kewayizyase",
+        "kewayizyeTe",
+        "kewayizyaDve",
+        "kewayizye",
+        "kewayizyAvahe",
+        "kewayizyAmahe"
+      ],
+      "alung": [
+        "acIkiwata",
+        "acIkiwetAm",
+        "acIkiwanta",
+        "acIkiwaTAH",
+        "acIkiweTAm",
+        "acIkiwaDvam",
+        "acIkiwe",
+        "acIkiwAvahi",
+        "acIkiwAmahi"
+      ],
+      "alut": [
+        "kewayitA",
+        "kewayitArO",
+        "kewayitAraH",
+        "kewayitAse",
+        "kewayitAsATe",
+        "kewayitADve",
+        "kewayitAhe",
+        "kewayitAsvahe",
+        "kewayitAsmahe"
+      ],
+      "avidhiling": [
+        "kewayeta",
+        "kewayeyAtAm",
+        "kewayeran",
+        "kewayeTAH",
+        "kewayeyATAm",
+        "kewayeDvam",
+        "kewayeya",
+        "kewayevahi",
+        "kewayemahi"
+      ],
+      "pashirling": [
+        "kewyAt",
+        "kewyAd",
+        "kewyAstAm",
+        "kewyAsuH",
+        "kewyAH",
+        "kewyAstam",
+        "kewyAsta",
+        "kewyAsam",
+        "kewyAsva",
+        "kewyAsma"
+      ],
+      "plang": [
+        "akewayat",
+        "akewayad",
+        "akewayatAm",
+        "akewayan",
+        "akewayaH",
+        "akewayatam",
+        "akewayata",
+        "akewayam",
+        "akewayAva",
+        "akewayAma"
+      ],
+      "plat": [
+        "kewayati",
+        "kewayataH",
+        "kewayanti",
+        "kewayasi",
+        "kewayaTaH",
+        "kewayaTa",
+        "kewayAmi",
+        "kewayAvaH",
+        "kewayAmaH"
+      ],
+      "plit": [
+        "kewayAYcakAra",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakratuH",
+        "kewayAmAsatuH",
+        "kewayAmbaBUvatuH",
+        "kewayAYcakruH",
+        "kewayAmAsuH",
+        "kewayAmbaBUvuH",
+        "kewayAYcakarTa",
+        "kewayAmAsiTa",
+        "kewayAmbaBUviTa",
+        "kewayAYcakraTuH",
+        "kewayAmAsaTuH",
+        "kewayAmbaBUvaTuH",
+        "kewayAYcakra",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakara",
+        "kewayAYcakAra",
+        "kewayAmAsa",
+        "kewayAmbaBUva",
+        "kewayAYcakfva",
+        "kewayAmAsiva",
+        "kewayAmbaBUviva",
+        "kewayAYcakfma",
+        "kewayAmAsima",
+        "kewayAmbaBUvima"
+      ],
+      "plot": [
+        "kewayatAt",
+        "kewayatAd",
+        "kewayatu",
+        "kewayatAm",
+        "kewayantu",
+        "kewaya",
+        "kewayatAt",
+        "kewayatAd",
+        "kewayatam",
+        "kewayata",
+        "kewayAni",
+        "kewayAva",
+        "kewayAma"
+      ],
+      "plrung": [
+        "akewayizyat",
+        "akewayizyad",
+        "akewayizyatAm",
+        "akewayizyan",
+        "akewayizyaH",
+        "akewayizyatam",
+        "akewayizyata",
+        "akewayizyam",
+        "akewayizyAva",
+        "akewayizyAma"
+      ],
+      "plrut": [
+        "kewayizyati",
+        "kewayizyataH",
+        "kewayizyanti",
+        "kewayizyasi",
+        "kewayizyaTaH",
+        "kewayizyaTa",
+        "kewayizyAmi",
+        "kewayizyAvaH",
+        "kewayizyAmaH"
+      ],
+      "plung": [
+        "acIkiwat",
+        "acIkiwad",
+        "acIkiwatAm",
+        "acIkiwan",
+        "acIkiwaH",
+        "acIkiwatam",
+        "acIkiwata",
+        "acIkiwam",
+        "acIkiwAva",
+        "acIkiwAma"
+      ],
+      "plut": [
+        "kewayitA",
+        "kewayitArO",
+        "kewayitAraH",
+        "kewayitAsi",
+        "kewayitAsTaH",
+        "kewayitAsTa",
+        "kewayitAsmi",
+        "kewayitAsvaH",
+        "kewayitAsmaH"
+      ],
+      "pvidhiling": [
+        "kewayet",
+        "kewayed",
+        "kewayetAm",
+        "kewayeyuH",
+        "kewayeH",
+        "kewayetam",
+        "kewayeta",
+        "kewayeyam",
+        "kewayeva",
+        "kewayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "kewayizIzwa",
+        "kewizIzwa",
+        "kewayizIyAstAm",
+        "kewizIyAstAm",
+        "kewayizIran",
+        "kewizIran",
+        "kewayizIzWAH",
+        "kewizIzWAH",
+        "kewayizIyAsTAm",
+        "kewizIyAsTAm",
+        "kewayizIQvam",
+        "kewayizIDvam",
+        "kewizIDvam",
+        "kewayizIya",
+        "kewizIya",
+        "kewayizIvahi",
+        "kewizIvahi",
+        "kewayizImahi",
+        "kewizImahi"
+      ],
+      "alang": [
+        "akewyata",
+        "akewyetAm",
+        "akewyanta",
+        "akewyaTAH",
+        "akewyeTAm",
+        "akewyaDvam",
+        "akewye",
+        "akewyAvahi",
+        "akewyAmahi"
+      ],
+      "alat": [
+        "kewyate",
+        "kewyete",
+        "kewyante",
+        "kewyase",
+        "kewyeTe",
+        "kewyaDve",
+        "kewye",
+        "kewyAvahe",
+        "kewyAmahe"
+      ],
+      "alit": [
+        "kewayAYcakre",
+        "kewayAmAse",
+        "kewayAmbaBUve",
+        "kewayAYcakrAte",
+        "kewayAmAsAte",
+        "kewayAmbaBUvAte",
+        "kewayAYcakrire",
+        "kewayAmAsire",
+        "kewayAmbaBUvire",
+        "kewayAYcakfze",
+        "kewayAmAsize",
+        "kewayAmbaBUvize",
+        "kewayAYcakrATe",
+        "kewayAmAsATe",
+        "kewayAmbaBUvATe",
+        "kewayAYcakfQve",
+        "kewayAmAsiDve",
+        "kewayAmbaBUviQve",
+        "kewayAYcakre",
+        "kewayAmAhe",
+        "kewayAmbaBUve",
+        "kewayAYcakfvahe",
+        "kewayAmAsivahe",
+        "kewayAmbaBUvivahe",
+        "kewayAYcakfmahe",
+        "kewayAmAsimahe",
+        "kewayAmbaBUvimahe"
+      ],
+      "alot": [
+        "kewyatAm",
+        "kewyetAm",
+        "kewyantAm",
+        "kewyasva",
+        "kewyeTAm",
+        "kewyaDvam",
+        "kewyE",
+        "kewyAvahE",
+        "kewyAmahE"
+      ],
+      "alrung": [
+        "akewayizyata",
+        "akewizyata",
+        "akewayizyetAm",
+        "akewizyetAm",
+        "akewayizyanta",
+        "akewizyanta",
+        "akewayizyaTAH",
+        "akewizyaTAH",
+        "akewayizyeTAm",
+        "akewizyeTAm",
+        "akewayizyaDvam",
+        "akewizyaDvam",
+        "akewayizye",
+        "akewizye",
+        "akewayizyAvahi",
+        "akewizyAvahi",
+        "akewayizyAmahi",
+        "akewizyAmahi"
+      ],
+      "alrut": [
+        "kewayizyate",
+        "kewizyate",
+        "kewayizyete",
+        "kewizyete",
+        "kewayizyante",
+        "kewizyante",
+        "kewayizyase",
+        "kewizyase",
+        "kewayizyeTe",
+        "kewizyeTe",
+        "kewayizyaDve",
+        "kewizyaDve",
+        "kewayizye",
+        "kewizye",
+        "kewayizyAvahe",
+        "kewizyAvahe",
+        "kewayizyAmahe",
+        "kewizyAmahe"
+      ],
+      "alung": [
+        "akewi",
+        "akewayizAtAm",
+        "akewizAtAm",
+        "akewayizata",
+        "akewizata",
+        "akewayizWAH",
+        "akewizWAH",
+        "akewayizATAm",
+        "akewizATAm",
+        "akewayiQvam",
+        "akewayiDvam",
+        "akewiDvam",
+        "akewayizi",
+        "akewizi",
+        "akewayizvahi",
+        "akewizvahi",
+        "akewayizmahi",
+        "akewizmahi"
+      ],
+      "alut": [
+        "kewayitA",
+        "kewitA",
+        "kewayitArO",
+        "kewitArO",
+        "kewayitAraH",
+        "kewitAraH",
+        "kewayitAse",
+        "kewitAse",
+        "kewayitAsATe",
+        "kewitAsATe",
+        "kewayitADve",
+        "kewitADve",
+        "kewayitAhe",
+        "kewitAhe",
+        "kewayitAsvahe",
+        "kewitAsvahe",
+        "kewayitAsmahe",
+        "kewitAsmahe"
+      ],
+      "avidhiling": [
+        "kewyeta",
+        "kewyeyAtAm",
+        "kewyeran",
+        "kewyeTAH",
+        "kewyeyATAm",
+        "kewyeDvam",
+        "kewyeya",
+        "kewyevahi",
+        "kewyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "cekiwizIzwa",
+        "cekiwizIyAstAm",
+        "cekiwizIran",
+        "cekiwizIzWAH",
+        "cekiwizIyAsTAm",
+        "cekiwizIDvam",
+        "cekiwizIya",
+        "cekiwizIvahi",
+        "cekiwizImahi"
+      ],
+      "alang": [
+        "acekiwyata",
+        "acekiwyetAm",
+        "acekiwyanta",
+        "acekiwyaTAH",
+        "acekiwyeTAm",
+        "acekiwyaDvam",
+        "acekiwye",
+        "acekiwyAvahi",
+        "acekiwyAmahi"
+      ],
+      "alat": [
+        "cekiwyate",
+        "cekiwyete",
+        "cekiwyante",
+        "cekiwyase",
+        "cekiwyeTe",
+        "cekiwyaDve",
+        "cekiwye",
+        "cekiwyAvahe",
+        "cekiwyAmahe"
+      ],
+      "alit": [
+        "cekiwAYcakre",
+        "cekiwAmAsa",
+        "cekiwAmbaBUva",
+        "cekiwAYcakrAte",
+        "cekiwAmAsatuH",
+        "cekiwAmbaBUvatuH",
+        "cekiwAYcakrire",
+        "cekiwAmAsuH",
+        "cekiwAmbaBUvuH",
+        "cekiwAYcakfze",
+        "cekiwAmAsiTa",
+        "cekiwAmbaBUviTa",
+        "cekiwAYcakrATe",
+        "cekiwAmAsaTuH",
+        "cekiwAmbaBUvaTuH",
+        "cekiwAYcakfQve",
+        "cekiwAmAsa",
+        "cekiwAmbaBUva",
+        "cekiwAYcakre",
+        "cekiwAmAsa",
+        "cekiwAmbaBUva",
+        "cekiwAYcakfvahe",
+        "cekiwAmAsiva",
+        "cekiwAmbaBUviva",
+        "cekiwAYcakfmahe",
+        "cekiwAmAsima",
+        "cekiwAmbaBUvima"
+      ],
+      "alot": [
+        "cekiwyatAm",
+        "cekiwyetAm",
+        "cekiwyantAm",
+        "cekiwyasva",
+        "cekiwyeTAm",
+        "cekiwyaDvam",
+        "cekiwyE",
+        "cekiwyAvahE",
+        "cekiwyAmahE"
+      ],
+      "alrung": [
+        "acekiwizyata",
+        "acekiwizyetAm",
+        "acekiwizyanta",
+        "acekiwizyaTAH",
+        "acekiwizyeTAm",
+        "acekiwizyaDvam",
+        "acekiwizye",
+        "acekiwizyAvahi",
+        "acekiwizyAmahi"
+      ],
+      "alrut": [
+        "cekiwizyate",
+        "cekiwizyete",
+        "cekiwizyante",
+        "cekiwizyase",
+        "cekiwizyeTe",
+        "cekiwizyaDve",
+        "cekiwizye",
+        "cekiwizyAvahe",
+        "cekiwizyAmahe"
+      ],
+      "alung": [
+        "acekiwizwa",
+        "acekiwizAtAm",
+        "acekiwizata",
+        "acekiwizWAH",
+        "acekiwizATAm",
+        "acekiwiDvam",
+        "acekiwizi",
+        "acekiwizvahi",
+        "acekiwizmahi"
+      ],
+      "alut": [
+        "cekiwitA",
+        "cekiwitArO",
+        "cekiwitAraH",
+        "cekiwitAse",
+        "cekiwitAsATe",
+        "cekiwitADve",
+        "cekiwitAhe",
+        "cekiwitAsvahe",
+        "cekiwitAsmahe"
+      ],
+      "avidhiling": [
+        "cekiwyeta",
+        "cekiwyeyAtAm",
+        "cekiwyeran",
+        "cekiwyeTAH",
+        "cekiwyeyATAm",
+        "cekiwyeDvam",
+        "cekiwyeya",
+        "cekiwyevahi",
+        "cekiwyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "cekiwizIzwa",
+        "cekiwizIyAstAm",
+        "cekiwizIran",
+        "cekiwizIzWAH",
+        "cekiwizIyAsTAm",
+        "cekiwizIDvam",
+        "cekiwizIya",
+        "cekiwizIvahi",
+        "cekiwizImahi"
+      ],
+      "alang": [
+        "acekiwyata",
+        "acekiwyetAm",
+        "acekiwyanta",
+        "acekiwyaTAH",
+        "acekiwyeTAm",
+        "acekiwyaDvam",
+        "acekiwye",
+        "acekiwyAvahi",
+        "acekiwyAmahi"
+      ],
+      "alat": [
+        "cekiwyate",
+        "cekiwyete",
+        "cekiwyante",
+        "cekiwyase",
+        "cekiwyeTe",
+        "cekiwyaDve",
+        "cekiwye",
+        "cekiwyAvahe",
+        "cekiwyAmahe"
+      ],
+      "alit": [
+        "cekiwAYcakre",
+        "cekiwAmAse",
+        "cekiwAmbaBUve",
+        "cekiwAYcakrAte",
+        "cekiwAmAsAte",
+        "cekiwAmbaBUvAte",
+        "cekiwAYcakrire",
+        "cekiwAmAsire",
+        "cekiwAmbaBUvire",
+        "cekiwAYcakfze",
+        "cekiwAmAsize",
+        "cekiwAmbaBUvize",
+        "cekiwAYcakrATe",
+        "cekiwAmAsATe",
+        "cekiwAmbaBUvATe",
+        "cekiwAYcakfQve",
+        "cekiwAmAsiDve",
+        "cekiwAmbaBUviQve",
+        "cekiwAYcakre",
+        "cekiwAmAhe",
+        "cekiwAmbaBUve",
+        "cekiwAYcakfvahe",
+        "cekiwAmAsivahe",
+        "cekiwAmbaBUvivahe",
+        "cekiwAYcakfmahe",
+        "cekiwAmAsimahe",
+        "cekiwAmbaBUvimahe"
+      ],
+      "alot": [
+        "cekiwyatAm",
+        "cekiwyetAm",
+        "cekiwyantAm",
+        "cekiwyasva",
+        "cekiwyeTAm",
+        "cekiwyaDvam",
+        "cekiwyE",
+        "cekiwyAvahE",
+        "cekiwyAmahE"
+      ],
+      "alrung": [
+        "acekiwizyata",
+        "acekiwizyetAm",
+        "acekiwizyanta",
+        "acekiwizyaTAH",
+        "acekiwizyeTAm",
+        "acekiwizyaDvam",
+        "acekiwizye",
+        "acekiwizyAvahi",
+        "acekiwizyAmahi"
+      ],
+      "alrut": [
+        "cekiwizyate",
+        "cekiwizyete",
+        "cekiwizyante",
+        "cekiwizyase",
+        "cekiwizyeTe",
+        "cekiwizyaDve",
+        "cekiwizye",
+        "cekiwizyAvahe",
+        "cekiwizyAmahe"
+      ],
+      "alung": [
+        "acekiwi",
+        "acekiwizAtAm",
+        "acekiwizata",
+        "acekiwizWAH",
+        "acekiwizATAm",
+        "acekiwiDvam",
+        "acekiwizi",
+        "acekiwizvahi",
+        "acekiwizmahi"
+      ],
+      "alut": [
+        "cekiwitA",
+        "cekiwitArO",
+        "cekiwitAraH",
+        "cekiwitAse",
+        "cekiwitAsATe",
+        "cekiwitADve",
+        "cekiwitAhe",
+        "cekiwitAsvahe",
+        "cekiwitAsmahe"
+      ],
+      "avidhiling": [
+        "cekiwyeta",
+        "cekiwyeyAtAm",
+        "cekiwyeran",
+        "cekiwyeTAH",
+        "cekiwyeyATAm",
+        "cekiwyeDvam",
+        "cekiwyeya",
+        "cekiwyevahi",
+        "cekiwyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "cekiwyAt",
+        "cekiwyAd",
+        "cekiwyAstAm",
+        "cekiwyAsuH",
+        "cekiwyAH",
+        "cekiwyAstam",
+        "cekiwyAsta",
+        "cekiwyAsam",
+        "cekiwyAsva",
+        "cekiwyAsma"
+      ],
+      "plang": [
+        "acekiwIt",
+        "acekiwId",
+        "acekew",
+        "acekeq",
+        "acekiwwAm",
+        "acekiwuH",
+        "acekiwIH",
+        "acekew",
+        "acekeq",
+        "acekiwwam",
+        "acekiwwa",
+        "acekiwam",
+        "acekiwva",
+        "acekiwma"
+      ],
+      "plat": [
+        "cekiwIti",
+        "cekewwi",
+        "cekiwwaH",
+        "cekiwati",
+        "cekiwIzi",
+        "cekewzi",
+        "cekiwWaH",
+        "cekiwWa",
+        "cekiwImi",
+        "cekewmi",
+        "cekiwvaH",
+        "cekiwmaH"
+      ],
+      "plit": [
+        "cekewAYcakAra",
+        "cekewAmAsa",
+        "cekewAmbaBUva",
+        "cekewAYcakratuH",
+        "cekewAmAsatuH",
+        "cekewAmbaBUvatuH",
+        "cekewAYcakruH",
+        "cekewAmAsuH",
+        "cekewAmbaBUvuH",
+        "cekewAYcakarTa",
+        "cekewAmAsiTa",
+        "cekewAmbaBUviTa",
+        "cekewAYcakraTuH",
+        "cekewAmAsaTuH",
+        "cekewAmbaBUvaTuH",
+        "cekewAYcakra",
+        "cekewAmAsa",
+        "cekewAmbaBUva",
+        "cekewAYcakara",
+        "cekewAYcakAra",
+        "cekewAmAsa",
+        "cekewAmbaBUva",
+        "cekewAYcakfva",
+        "cekewAmAsiva",
+        "cekewAmbaBUviva",
+        "cekewAYcakfma",
+        "cekewAmAsima",
+        "cekewAmbaBUvima"
+      ],
+      "plot": [
+        "cekiwItu",
+        "cekiwwAt",
+        "cekiwwAd",
+        "cekewwu",
+        "cekiwwAm",
+        "cekiwatu",
+        "cekiwwAt",
+        "cekiwwAd",
+        "cekiqQi",
+        "cekiwwam",
+        "cekiwwa",
+        "cekiwAni",
+        "cekiwAva",
+        "cekiwAma"
+      ],
+      "plrung": [
+        "acekewizyat",
+        "acekewizyad",
+        "acekewizyatAm",
+        "acekewizyan",
+        "acekewizyaH",
+        "acekewizyatam",
+        "acekewizyata",
+        "acekewizyam",
+        "acekewizyAva",
+        "acekewizyAma"
+      ],
+      "plrut": [
+        "cekewizyati",
+        "cekewizyataH",
+        "cekewizyanti",
+        "cekewizyasi",
+        "cekewizyaTaH",
+        "cekewizyaTa",
+        "cekewizyAmi",
+        "cekewizyAvaH",
+        "cekewizyAmaH"
+      ],
+      "plung": [
+        "acekewIt",
+        "acekewId",
+        "acekewizwAm",
+        "acekewizuH",
+        "acekewIH",
+        "acekewizwam",
+        "acekewizwa",
+        "acekewizam",
+        "acekewizva",
+        "acekewizma"
+      ],
+      "plut": [
+        "cekewitA",
+        "cekewitArO",
+        "cekewitAraH",
+        "cekewitAsi",
+        "cekewitAsTaH",
+        "cekewitAsTa",
+        "cekewitAsmi",
+        "cekewitAsvaH",
+        "cekewitAsmaH"
+      ],
+      "pvidhiling": [
+        "cekiwyAt",
+        "cekiwyAd",
+        "cekiwyAtAm",
+        "cekiwyuH",
+        "cekiwyAH",
+        "cekiwyAtam",
+        "cekiwyAta",
+        "cekiwyAm",
+        "cekiwyAva",
+        "cekiwyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "cekewizIzwa",
+        "cekewizIyAstAm",
+        "cekewizIran",
+        "cekewizIzWAH",
+        "cekewizIyAsTAm",
+        "cekewizIDvam",
+        "cekewizIya",
+        "cekewizIvahi",
+        "cekewizImahi"
+      ],
+      "alang": [
+        "acekiwyata",
+        "acekiwyetAm",
+        "acekiwyanta",
+        "acekiwyaTAH",
+        "acekiwyeTAm",
+        "acekiwyaDvam",
+        "acekiwye",
+        "acekiwyAvahi",
+        "acekiwyAmahi"
+      ],
+      "alat": [
+        "cekiwyate",
+        "cekiwyete",
+        "cekiwyante",
+        "cekiwyase",
+        "cekiwyeTe",
+        "cekiwyaDve",
+        "cekiwye",
+        "cekiwyAvahe",
+        "cekiwyAmahe"
+      ],
+      "alit": [
+        "cekewAYcakre",
+        "cekewAmAse",
+        "cekewAmbaBUve",
+        "cekewAYcakrAte",
+        "cekewAmAsAte",
+        "cekewAmbaBUvAte",
+        "cekewAYcakrire",
+        "cekewAmAsire",
+        "cekewAmbaBUvire",
+        "cekewAYcakfze",
+        "cekewAmAsize",
+        "cekewAmbaBUvize",
+        "cekewAYcakrATe",
+        "cekewAmAsATe",
+        "cekewAmbaBUvATe",
+        "cekewAYcakfQve",
+        "cekewAmAsiDve",
+        "cekewAmbaBUviQve",
+        "cekewAYcakre",
+        "cekewAmAhe",
+        "cekewAmbaBUve",
+        "cekewAYcakfvahe",
+        "cekewAmAsivahe",
+        "cekewAmbaBUvivahe",
+        "cekewAYcakfmahe",
+        "cekewAmAsimahe",
+        "cekewAmbaBUvimahe"
+      ],
+      "alot": [
+        "cekiwyatAm",
+        "cekiwyetAm",
+        "cekiwyantAm",
+        "cekiwyasva",
+        "cekiwyeTAm",
+        "cekiwyaDvam",
+        "cekiwyE",
+        "cekiwyAvahE",
+        "cekiwyAmahE"
+      ],
+      "alrung": [
+        "acekewizyata",
+        "acekewizyetAm",
+        "acekewizyanta",
+        "acekewizyaTAH",
+        "acekewizyeTAm",
+        "acekewizyaDvam",
+        "acekewizye",
+        "acekewizyAvahi",
+        "acekewizyAmahi"
+      ],
+      "alrut": [
+        "cekewizyate",
+        "cekewizyete",
+        "cekewizyante",
+        "cekewizyase",
+        "cekewizyeTe",
+        "cekewizyaDve",
+        "cekewizye",
+        "cekewizyAvahe",
+        "cekewizyAmahe"
+      ],
+      "alung": [
+        "acekewi",
+        "acekewizAtAm",
+        "acekewizata",
+        "acekewizWAH",
+        "acekewizATAm",
+        "acekewiDvam",
+        "acekewizi",
+        "acekewizvahi",
+        "acekewizmahi"
+      ],
+      "alut": [
+        "cekewitA",
+        "cekewitArO",
+        "cekewitAraH",
+        "cekewitAse",
+        "cekewitAsATe",
+        "cekewitADve",
+        "cekewitAhe",
+        "cekewitAsvahe",
+        "cekewitAsmahe"
+      ],
+      "avidhiling": [
+        "cekiwyeta",
+        "cekiwyeyAtAm",
+        "cekiwyeran",
+        "cekiwyeTAH",
+        "cekiwyeyATAm",
+        "cekiwyeDvam",
+        "cekiwyeya",
+        "cekiwyevahi",
+        "cekiwyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "kewanIya",
+          "m": "kewanIyaH",
+          "f": "kewanIyA",
+          "n": "kewanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "kiwita",
+          "m": "kiwitaH",
+          "f": "kiwitA",
+          "n": "kiwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "kiwitavat",
+          "m": "kiwitavAn",
+          "f": "kiwitavatI",
+          "n": "kiwitavat/kiwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "kiwwi",
+          "m": "",
+          "f": "kiwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "kiwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "kewitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cikiwvas",
+          "m": "cikiwvAn",
+          "f": "cikiwuzI",
+          "n": "cikiwvat/cikiwvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "kewa",
+          "m": "kewaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "kewamAna",
+          "m": "kewamAnaH",
+          "f": "kewamAnA",
+          "n": "kewamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "kewam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "kewya",
+          "m": "kewyaH",
+          "f": "kewyA",
+          "n": "kewyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "kewaka",
+          "m": "kewakaH",
+          "f": "kewikA",
+          "n": "kewakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "kewitavya",
+          "m": "kewitavyaH",
+          "f": "kewitavyA",
+          "n": "kewitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "kewitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "kewitf",
+          "m": "kewitA",
+          "f": "kewitrI",
+          "n": "kewitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "kiwyamAna",
+          "m": "kiwyamAnaH",
+          "f": "kiwyamAnA",
+          "n": "kiwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prakiwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "kewana",
+          "m": "",
+          "f": "",
+          "n": "kewanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "kewaka",
+          "m": "kewakaH",
+          "f": "kewikA",
+          "n": "kewakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "kewat",
+          "m": "kewan",
+          "f": "kewantI",
+          "n": "kewat/kewad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "kewizyamARa",
+          "m": "kewizyamARaH",
+          "f": "kewizyamARA",
+          "n": "kewizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "kewizyat",
+          "m": "kewizyan",
+          "f": "kewizyatI/kewizyantI",
+          "n": "kewizyat/kewizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cikiwizA",
+          "m": "",
+          "f": "cikiwizA",
+          "n": ""
+        },
+        {
+          "base": "cikewizA",
+          "m": "",
+          "f": "cikewizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cikiwiza",
+          "m": "cikiwizaH",
+          "f": "cikiwizA",
+          "n": "cikiwizam"
+        },
+        {
+          "base": "cikewiza",
+          "m": "cikewizaH",
+          "f": "cikewizA",
+          "n": "cikewizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cikiwizaRIya",
+          "m": "cikiwizaRIyaH",
+          "f": "cikiwizaRIyA",
+          "n": "cikiwizaRIyam"
+        },
+        {
+          "base": "cikewizaRIya",
+          "m": "cikewizaRIyaH",
+          "f": "cikewizaRIyA",
+          "n": "cikewizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cikiwizu",
+          "m": "cikiwizuH",
+          "f": "cikiwizuH",
+          "n": "cikiwizu"
+        },
+        {
+          "base": "cikewizu",
+          "m": "cikewizuH",
+          "f": "cikewizuH",
+          "n": "cikewizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cikiwizita",
+          "m": "cikiwizitaH",
+          "f": "cikiwizitA",
+          "n": "cikiwizitam"
+        },
+        {
+          "base": "cikewizita",
+          "m": "cikewizitaH",
+          "f": "cikewizitA",
+          "n": "cikewizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cikiwizitavat",
+          "m": "cikiwizitavAn",
+          "f": "cikiwizitavatI",
+          "n": "cikiwizitavat/cikiwizitavad"
+        },
+        {
+          "base": "cikewizitavat",
+          "m": "cikewizitavAn",
+          "f": "cikewizitavatI",
+          "n": "cikewizitavat/cikewizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cikiwizwi",
+          "m": "",
+          "f": "cikiwizwiH",
+          "n": ""
+        },
+        {
+          "base": "cikewizwi",
+          "m": "",
+          "f": "cikewizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cikiwizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cikewizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cikiwizAmbaBUvas",
+          "m": "cikiwizAmbaBUvAn",
+          "f": "cikiwizAmbaBUzI",
+          "n": "cikiwizAmbaBUvat/cikiwizAmbaBUvad"
+        },
+        {
+          "base": "cikiwizAmAsivas",
+          "m": "cikiwizAmAsivAn",
+          "f": "cikiwizAmAsyuzI",
+          "n": "cikiwizAmAsivat/cikiwizAmAsivad"
+        },
+        {
+          "base": "cikiwizAYcakfvas",
+          "m": "cikiwizAYcakfvAn",
+          "f": "cikiwizAYcakruzI",
+          "n": "cikiwizAYcakfvat/cikiwizAYcakfvad"
+        },
+        {
+          "base": "cikewizAmbaBUvas",
+          "m": "cikewizAmbaBUvAn",
+          "f": "cikewizAmbaBUzI",
+          "n": "cikewizAmbaBUvat/cikewizAmbaBUvad"
+        },
+        {
+          "base": "cikewizAmAsivas",
+          "m": "cikewizAmAsivAn",
+          "f": "cikewizAmAsyuzI",
+          "n": "cikewizAmAsivat/cikewizAmAsivad"
+        },
+        {
+          "base": "cikewizAYcakfvas",
+          "m": "cikewizAYcakfvAn",
+          "f": "cikewizAYcakruzI",
+          "n": "cikewizAYcakfvat/cikewizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cikiwiza",
+          "m": "cikiwizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cikewiza",
+          "m": "cikewizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cikiwizamARa",
+          "m": "cikiwizamARaH",
+          "f": "cikiwizamARA",
+          "n": "cikiwizamARam"
+        },
+        {
+          "base": "cikewizamARa",
+          "m": "cikewizamARaH",
+          "f": "cikewizamARA",
+          "n": "cikewizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cikiwizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cikewizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cikiwizaka",
+          "m": "cikiwizakaH",
+          "f": "cikiwizikA",
+          "n": "cikiwizakam"
+        },
+        {
+          "base": "cikewizaka",
+          "m": "cikewizakaH",
+          "f": "cikewizikA",
+          "n": "cikewizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cikiwizitavya",
+          "m": "cikiwizitavyaH",
+          "f": "cikiwizitavyA",
+          "n": "cikiwizitavyam"
+        },
+        {
+          "base": "cikewizitavya",
+          "m": "cikewizitavyaH",
+          "f": "cikewizitavyA",
+          "n": "cikewizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cikiwizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cikewizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cikiwizitf",
+          "m": "cikiwizitA",
+          "f": "cikiwizitrI",
+          "n": "cikiwizitf"
+        },
+        {
+          "base": "cikewizitf",
+          "m": "cikewizitA",
+          "f": "cikewizitrI",
+          "n": "cikewizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cikiwizyamARa",
+          "m": "cikiwizyamARaH",
+          "f": "cikiwizyamARA",
+          "n": "cikiwizyamARam"
+        },
+        {
+          "base": "cikewizyamARa",
+          "m": "cikewizyamARaH",
+          "f": "cikewizyamARA",
+          "n": "cikewizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cikiwizya",
+          "m": "cikiwizyaH",
+          "f": "cikiwizyA",
+          "n": "cikiwizyam"
+        },
+        {
+          "base": "cikewizya",
+          "m": "cikewizyaH",
+          "f": "cikewizyA",
+          "n": "cikewizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracikiwizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracikewizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cikiwizaRa",
+          "m": "",
+          "f": "",
+          "n": "cikiwizaRam"
+        },
+        {
+          "base": "cikewizaRa",
+          "m": "",
+          "f": "",
+          "n": "cikewizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cikiwizaka",
+          "m": "cikiwizakaH",
+          "f": "cikiwizikA",
+          "n": "cikiwizakam"
+        },
+        {
+          "base": "cikewizaka",
+          "m": "cikewizakaH",
+          "f": "cikewizikA",
+          "n": "cikewizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cikiwizat",
+          "m": "cikiwizan",
+          "f": "cikiwizantI",
+          "n": "cikiwizat/cikiwizad"
+        },
+        {
+          "base": "cikewizat",
+          "m": "cikewizan",
+          "f": "cikewizantI",
+          "n": "cikewizat/cikewizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cikiwizizyamARa",
+          "m": "cikiwizizyamARaH",
+          "f": "cikiwizizyamARA",
+          "n": "cikiwizizyamARam"
+        },
+        {
+          "base": "cikewizizyamARa",
+          "m": "cikewizizyamARaH",
+          "f": "cikewizizyamARA",
+          "n": "cikewizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cikiwizizyat",
+          "m": "cikiwizizyan",
+          "f": "cikiwizizyatI/cikiwizizyantI",
+          "n": "cikiwizizyat/cikiwizizyad"
+        },
+        {
+          "base": "cikewizizyat",
+          "m": "cikewizizyan",
+          "f": "cikewizizyatI/cikewizizyantI",
+          "n": "cikewizizyat/cikewizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "kewa",
+          "m": "kewaH",
+          "f": "kewA",
+          "n": "kewam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "kewanIya",
+          "m": "kewanIyaH",
+          "f": "kewanIyA",
+          "n": "kewanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "kewita",
+          "m": "kewitaH",
+          "f": "kewitA",
+          "n": "kewitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "kewitavat",
+          "m": "kewitavAn",
+          "f": "kewitavatI",
+          "n": "kewitavat/kewitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "kewwi",
+          "m": "",
+          "f": "kewwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "kewayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "kewayAmbaBUvas",
+          "m": "kewayAmbaBUvAn",
+          "f": "kewayAmbaBUzI",
+          "n": "kewayAmbaBUvat/kewayAmbaBUvad"
+        },
+        {
+          "base": "kewayAmAsivas",
+          "m": "kewayAmAsivAn",
+          "f": "kewayAmAsyuzI",
+          "n": "kewayAmAsivat/kewayAmAsivad"
+        },
+        {
+          "base": "kewayAYcakfvas",
+          "m": "kewayAYcakfvAn",
+          "f": "kewayAYcakruzI",
+          "n": "kewayAYcakfvat/kewayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "kewayamAna",
+          "m": "kewayamAnaH",
+          "f": "kewayamAnA",
+          "n": "kewayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "kewam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "kewaka",
+          "m": "kewakaH",
+          "f": "kewikA",
+          "n": "kewakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "kewayitavya",
+          "m": "kewayitavyaH",
+          "f": "kewayitavyA",
+          "n": "kewayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "kewayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "kewayitf",
+          "m": "kewayitA",
+          "f": "kewayitrI",
+          "n": "kewayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "kewyamAna",
+          "m": "kewyamAnaH",
+          "f": "kewyamAnA",
+          "n": "kewyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "kewya",
+          "m": "kewyaH",
+          "f": "kewyA",
+          "n": "kewyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prakewya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "kewana",
+          "m": "",
+          "f": "",
+          "n": "kewanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "kewaka",
+          "m": "kewakaH",
+          "f": "kewikA",
+          "n": "kewakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "kewayat",
+          "m": "kewayan",
+          "f": "kewayantI",
+          "n": "kewayat/kewayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "kewayamAna",
+          "m": "kewayamAnaH",
+          "f": "kewayamAnA",
+          "n": "kewayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "kewizyamARa",
+          "m": "kewizyamARaH",
+          "f": "kewizyamARA",
+          "n": "kewizyamARam"
+        },
+        {
+          "base": "kewayizyamARa",
+          "m": "kewayizyamARaH",
+          "f": "kewayizyamARA",
+          "n": "kewayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "kewayizyat",
+          "m": "kewayizyan",
+          "f": "kewayizyatI/kewayizyantI",
+          "n": "kewayizyat/kewayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "kewayizyamARa",
+          "m": "kewayizyamARaH",
+          "f": "kewayizyamARA",
+          "n": "kewayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "cekiwA",
+          "m": "",
+          "f": "cekiwA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cekiwa",
+          "m": "cekiwaH",
+          "f": "cekiwA",
+          "n": "cekiwam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cekiwanIya",
+          "m": "cekiwanIyaH",
+          "f": "cekiwanIyA",
+          "n": "cekiwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cekiwita",
+          "m": "cekiwitaH",
+          "f": "cekiwitA",
+          "n": "cekiwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cekiwitavat",
+          "m": "cekiwitavAn",
+          "f": "cekiwitavatI",
+          "n": "cekiwitavat/cekiwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cekiwwi",
+          "m": "",
+          "f": "cekiwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cekiwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cekiwAmbaBUvas",
+          "m": "cekiwAmbaBUvAn",
+          "f": "cekiwAmbaBUzI",
+          "n": "cekiwAmbaBUvat/cekiwAmbaBUvad"
+        },
+        {
+          "base": "cekiwAmAsivas",
+          "m": "cekiwAmAsivAn",
+          "f": "cekiwAmAsyuzI",
+          "n": "cekiwAmAsivat/cekiwAmAsivad"
+        },
+        {
+          "base": "cekiwAYcakfvas",
+          "m": "cekiwAYcakfvAn",
+          "f": "cekiwAYcakruzI",
+          "n": "cekiwAYcakfvat/cekiwAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cekiwa",
+          "m": "cekiwaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cekiwyamAna",
+          "m": "cekiwyamAnaH",
+          "f": "cekiwyamAnA",
+          "n": "cekiwyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cekiwam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cekiwaka",
+          "m": "cekiwakaH",
+          "f": "cekiwikA",
+          "n": "cekiwakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cekiwitavya",
+          "m": "cekiwitavyaH",
+          "f": "cekiwitavyA",
+          "n": "cekiwitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cekiwitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cekiwitf",
+          "m": "cekiwitA",
+          "f": "cekiwitrI",
+          "n": "cekiwitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cekiwyamAna",
+          "m": "cekiwyamAnaH",
+          "f": "cekiwyamAnA",
+          "n": "cekiwyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cekiwya",
+          "m": "cekiwyaH",
+          "f": "cekiwyA",
+          "n": "cekiwyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracekiwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cekiwana",
+          "m": "",
+          "f": "",
+          "n": "cekiwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cekiwaka",
+          "m": "cekiwakaH",
+          "f": "cekiwikA",
+          "n": "cekiwakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cekiwyamAna",
+          "m": "cekiwyamAnaH",
+          "f": "cekiwyamAnA",
+          "n": "cekiwyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cekiwizyamARa",
+          "m": "cekiwizyamARaH",
+          "f": "cekiwizyamARA",
+          "n": "cekiwizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cekiwizyamARa",
+          "m": "cekiwizyamARaH",
+          "f": "cekiwizyamARA",
+          "n": "cekiwizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "cekewA",
+          "m": "",
+          "f": "cekewA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cekewa",
+          "m": "cekewaH",
+          "f": "cekewA",
+          "n": "cekewam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cekewanIya",
+          "m": "cekewanIyaH",
+          "f": "cekewanIyA",
+          "n": "cekewanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cekiwita",
+          "m": "cekiwitaH",
+          "f": "cekiwitA",
+          "n": "cekiwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cekiwitavat",
+          "m": "cekiwitavAn",
+          "f": "cekiwitavatI",
+          "n": "cekiwitavat/cekiwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cekiwwi",
+          "m": "",
+          "f": "cekiwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cekewitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cekewAmbaBUvas",
+          "m": "cekewAmbaBUvAn",
+          "f": "cekewAmbaBUzI",
+          "n": "cekewAmbaBUvat/cekewAmbaBUvad"
+        },
+        {
+          "base": "cekewAmAsivas",
+          "m": "cekewAmAsivAn",
+          "f": "cekewAmAsyuzI",
+          "n": "cekewAmAsivat/cekewAmAsivad"
+        },
+        {
+          "base": "cekewAYcakfvas",
+          "m": "cekewAYcakfvAn",
+          "f": "cekewAYcakruzI",
+          "n": "cekewAYcakfvat/cekewAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cekewa",
+          "m": "cekewaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cekiwAna",
+          "m": "cekiwAnaH",
+          "f": "cekiwAnA",
+          "n": "cekiwAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cekewam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cekewaka",
+          "m": "cekewakaH",
+          "f": "cekewikA",
+          "n": "cekewakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cekewitavya",
+          "m": "cekewitavyaH",
+          "f": "cekewitavyA",
+          "n": "cekewitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cekewitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cekewitf",
+          "m": "cekewitA",
+          "f": "cekewitrI",
+          "n": "cekewitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cekiwyamAna",
+          "m": "cekiwyamAnaH",
+          "f": "cekiwyamAnA",
+          "n": "cekiwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracekiwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cekewana",
+          "m": "",
+          "f": "",
+          "n": "cekewanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cekewaka",
+          "m": "cekewakaH",
+          "f": "cekewikA",
+          "n": "cekewakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cekiwat",
+          "m": "cekiwat/cekiwad",
+          "f": "cekiwatI",
+          "n": "cekiwat/cekiwad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cekewizyamARa",
+          "m": "cekewizyamARaH",
+          "f": "cekewizyamARA",
+          "n": "cekewizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cekewizyat",
+          "m": "cekewizyan",
+          "f": "cekewizyatI/cekewizyantI",
+          "n": "cekewizyat/cekewizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "kiw",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

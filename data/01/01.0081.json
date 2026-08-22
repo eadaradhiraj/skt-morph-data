@@ -1,0 +1,4939 @@
+{
+  "id": "01.0081",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Slokf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "saNGAte",
+      "note": "saNGAtaH ityukte granTitfvyApAraH (to write or to compose), taTA ca granTavyApAraH (the one that is written or composed) ."
+    },
+    {
+      "name": "English Meaning",
+      "value": "to compose, to write poem"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "Sloka banAnA, kavitA karanA, racanA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "saNGAtaH= granTaH ' iti sAyaRaH . ' saNGAte varjane sarjane ' iti vopadevaH . ' saNGAte - saMhanane, saMhanyamAne ca' iti kzIrasvAmI . ' saNGAto granTaH . sa ceha graTyamAnavyApAraH ' iti svAmyAdayaH . kASyapAdayastu granTitfvyApAraH iti graTnAtivat sakarmakaH iti ' DAtuvfttO uktam . ' sa ceha graTyamAnasya vyApAro granTiturvA . Adyekarmako dvitIye sakarmakaH ' iti sidDAntakOmudI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH",
+      "note": "granTitfvyApAre sakarmakatvam, granTavyApAre akarmakatvam ."
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "77"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "77"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2289",
+      "ext_link": "/sutraani/sk2289?scroll=sutra-commentary-kaumudi-region&highlight=Salaokaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "SlokizIzwa",
+        "SlokizIyAstAm",
+        "SlokizIran",
+        "SlokizIzWAH",
+        "SlokizIyAsTAm",
+        "SlokizIDvam",
+        "SlokizIya",
+        "SlokizIvahi",
+        "SlokizImahi"
+      ],
+      "alang": [
+        "aSlokata",
+        "aSloketAm",
+        "aSlokanta",
+        "aSlokaTAH",
+        "aSlokeTAm",
+        "aSlokaDvam",
+        "aSloke",
+        "aSlokAvahi",
+        "aSlokAmahi"
+      ],
+      "alat": [
+        "Slokate",
+        "Slokete",
+        "Slokante",
+        "Slokase",
+        "SlokeTe",
+        "SlokaDve",
+        "Sloke",
+        "SlokAvahe",
+        "SlokAmahe"
+      ],
+      "alit": [
+        "SuSloke",
+        "SuSlokAte",
+        "SuSlokire",
+        "SuSlokize",
+        "SuSlokATe",
+        "SuSlokiDve",
+        "SuSloke",
+        "SuSlokivahe",
+        "SuSlokimahe"
+      ],
+      "alot": [
+        "SlokatAm",
+        "SloketAm",
+        "SlokantAm",
+        "Slokasva",
+        "SlokeTAm",
+        "SlokaDvam",
+        "SlokE",
+        "SlokAvahE",
+        "SlokAmahE"
+      ],
+      "alrung": [
+        "aSlokizyata",
+        "aSlokizyetAm",
+        "aSlokizyanta",
+        "aSlokizyaTAH",
+        "aSlokizyeTAm",
+        "aSlokizyaDvam",
+        "aSlokizye",
+        "aSlokizyAvahi",
+        "aSlokizyAmahi"
+      ],
+      "alrut": [
+        "Slokizyate",
+        "Slokizyete",
+        "Slokizyante",
+        "Slokizyase",
+        "SlokizyeTe",
+        "SlokizyaDve",
+        "Slokizye",
+        "SlokizyAvahe",
+        "SlokizyAmahe"
+      ],
+      "alung": [
+        "aSlokizwa",
+        "aSlokizAtAm",
+        "aSlokizata",
+        "aSlokizWAH",
+        "aSlokizATAm",
+        "aSlokiDvam",
+        "aSlokizi",
+        "aSlokizvahi",
+        "aSlokizmahi"
+      ],
+      "alut": [
+        "SlokitA",
+        "SlokitArO",
+        "SlokitAraH",
+        "SlokitAse",
+        "SlokitAsATe",
+        "SlokitADve",
+        "SlokitAhe",
+        "SlokitAsvahe",
+        "SlokitAsmahe"
+      ],
+      "avidhiling": [
+        "Sloketa",
+        "SlokeyAtAm",
+        "Slokeran",
+        "SlokeTAH",
+        "SlokeyATAm",
+        "SlokeDvam",
+        "Slokeya",
+        "Slokevahi",
+        "Slokemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "SlokizIzwa",
+        "SlokizIyAstAm",
+        "SlokizIran",
+        "SlokizIzWAH",
+        "SlokizIyAsTAm",
+        "SlokizIDvam",
+        "SlokizIya",
+        "SlokizIvahi",
+        "SlokizImahi"
+      ],
+      "alang": [
+        "aSlokyata",
+        "aSlokyetAm",
+        "aSlokyanta",
+        "aSlokyaTAH",
+        "aSlokyeTAm",
+        "aSlokyaDvam",
+        "aSlokye",
+        "aSlokyAvahi",
+        "aSlokyAmahi"
+      ],
+      "alat": [
+        "Slokyate",
+        "Slokyete",
+        "Slokyante",
+        "Slokyase",
+        "SlokyeTe",
+        "SlokyaDve",
+        "Slokye",
+        "SlokyAvahe",
+        "SlokyAmahe"
+      ],
+      "alit": [
+        "SuSloke",
+        "SuSlokAte",
+        "SuSlokire",
+        "SuSlokize",
+        "SuSlokATe",
+        "SuSlokiDve",
+        "SuSloke",
+        "SuSlokivahe",
+        "SuSlokimahe"
+      ],
+      "alot": [
+        "SlokyatAm",
+        "SlokyetAm",
+        "SlokyantAm",
+        "Slokyasva",
+        "SlokyeTAm",
+        "SlokyaDvam",
+        "SlokyE",
+        "SlokyAvahE",
+        "SlokyAmahE"
+      ],
+      "alrung": [
+        "aSlokizyata",
+        "aSlokizyetAm",
+        "aSlokizyanta",
+        "aSlokizyaTAH",
+        "aSlokizyeTAm",
+        "aSlokizyaDvam",
+        "aSlokizye",
+        "aSlokizyAvahi",
+        "aSlokizyAmahi"
+      ],
+      "alrut": [
+        "Slokizyate",
+        "Slokizyete",
+        "Slokizyante",
+        "Slokizyase",
+        "SlokizyeTe",
+        "SlokizyaDve",
+        "Slokizye",
+        "SlokizyAvahe",
+        "SlokizyAmahe"
+      ],
+      "alung": [
+        "aSloki",
+        "aSlokizAtAm",
+        "aSlokizata",
+        "aSlokizWAH",
+        "aSlokizATAm",
+        "aSlokiDvam",
+        "aSlokizi",
+        "aSlokizvahi",
+        "aSlokizmahi"
+      ],
+      "alut": [
+        "SlokitA",
+        "SlokitArO",
+        "SlokitAraH",
+        "SlokitAse",
+        "SlokitAsATe",
+        "SlokitADve",
+        "SlokitAhe",
+        "SlokitAsvahe",
+        "SlokitAsmahe"
+      ],
+      "avidhiling": [
+        "Slokyeta",
+        "SlokyeyAtAm",
+        "Slokyeran",
+        "SlokyeTAH",
+        "SlokyeyATAm",
+        "SlokyeDvam",
+        "Slokyeya",
+        "Slokyevahi",
+        "Slokyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "SuSlokizizIzwa",
+        "SuSlokizizIyAstAm",
+        "SuSlokizizIran",
+        "SuSlokizizIzWAH",
+        "SuSlokizizIyAsTAm",
+        "SuSlokizizIDvam",
+        "SuSlokizizIya",
+        "SuSlokizizIvahi",
+        "SuSlokizizImahi"
+      ],
+      "alang": [
+        "aSuSlokizata",
+        "aSuSlokizetAm",
+        "aSuSlokizanta",
+        "aSuSlokizaTAH",
+        "aSuSlokizeTAm",
+        "aSuSlokizaDvam",
+        "aSuSlokize",
+        "aSuSlokizAvahi",
+        "aSuSlokizAmahi"
+      ],
+      "alat": [
+        "SuSlokizate",
+        "SuSlokizete",
+        "SuSlokizante",
+        "SuSlokizase",
+        "SuSlokizeTe",
+        "SuSlokizaDve",
+        "SuSlokize",
+        "SuSlokizAvahe",
+        "SuSlokizAmahe"
+      ],
+      "alit": [
+        "SuSlokizAYcakre",
+        "SuSlokizAmAsa",
+        "SuSlokizAmbaBUva",
+        "SuSlokizAYcakrAte",
+        "SuSlokizAmAsatuH",
+        "SuSlokizAmbaBUvatuH",
+        "SuSlokizAYcakrire",
+        "SuSlokizAmAsuH",
+        "SuSlokizAmbaBUvuH",
+        "SuSlokizAYcakfze",
+        "SuSlokizAmAsiTa",
+        "SuSlokizAmbaBUviTa",
+        "SuSlokizAYcakrATe",
+        "SuSlokizAmAsaTuH",
+        "SuSlokizAmbaBUvaTuH",
+        "SuSlokizAYcakfQve",
+        "SuSlokizAmAsa",
+        "SuSlokizAmbaBUva",
+        "SuSlokizAYcakre",
+        "SuSlokizAmAsa",
+        "SuSlokizAmbaBUva",
+        "SuSlokizAYcakfvahe",
+        "SuSlokizAmAsiva",
+        "SuSlokizAmbaBUviva",
+        "SuSlokizAYcakfmahe",
+        "SuSlokizAmAsima",
+        "SuSlokizAmbaBUvima"
+      ],
+      "alot": [
+        "SuSlokizatAm",
+        "SuSlokizetAm",
+        "SuSlokizantAm",
+        "SuSlokizasva",
+        "SuSlokizeTAm",
+        "SuSlokizaDvam",
+        "SuSlokizE",
+        "SuSlokizAvahE",
+        "SuSlokizAmahE"
+      ],
+      "alrung": [
+        "aSuSlokizizyata",
+        "aSuSlokizizyetAm",
+        "aSuSlokizizyanta",
+        "aSuSlokizizyaTAH",
+        "aSuSlokizizyeTAm",
+        "aSuSlokizizyaDvam",
+        "aSuSlokizizye",
+        "aSuSlokizizyAvahi",
+        "aSuSlokizizyAmahi"
+      ],
+      "alrut": [
+        "SuSlokizizyate",
+        "SuSlokizizyete",
+        "SuSlokizizyante",
+        "SuSlokizizyase",
+        "SuSlokizizyeTe",
+        "SuSlokizizyaDve",
+        "SuSlokizizye",
+        "SuSlokizizyAvahe",
+        "SuSlokizizyAmahe"
+      ],
+      "alung": [
+        "aSuSlokizizwa",
+        "aSuSlokizizAtAm",
+        "aSuSlokizizata",
+        "aSuSlokizizWAH",
+        "aSuSlokizizATAm",
+        "aSuSlokiziDvam",
+        "aSuSlokizizi",
+        "aSuSlokizizvahi",
+        "aSuSlokizizmahi"
+      ],
+      "alut": [
+        "SuSlokizitA",
+        "SuSlokizitArO",
+        "SuSlokizitAraH",
+        "SuSlokizitAse",
+        "SuSlokizitAsATe",
+        "SuSlokizitADve",
+        "SuSlokizitAhe",
+        "SuSlokizitAsvahe",
+        "SuSlokizitAsmahe"
+      ],
+      "avidhiling": [
+        "SuSlokizeta",
+        "SuSlokizeyAtAm",
+        "SuSlokizeran",
+        "SuSlokizeTAH",
+        "SuSlokizeyATAm",
+        "SuSlokizeDvam",
+        "SuSlokizeya",
+        "SuSlokizevahi",
+        "SuSlokizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "SuSlokizizIzwa",
+        "SuSlokizizIyAstAm",
+        "SuSlokizizIran",
+        "SuSlokizizIzWAH",
+        "SuSlokizizIyAsTAm",
+        "SuSlokizizIDvam",
+        "SuSlokizizIya",
+        "SuSlokizizIvahi",
+        "SuSlokizizImahi"
+      ],
+      "alang": [
+        "aSuSlokizyata",
+        "aSuSlokizyetAm",
+        "aSuSlokizyanta",
+        "aSuSlokizyaTAH",
+        "aSuSlokizyeTAm",
+        "aSuSlokizyaDvam",
+        "aSuSlokizye",
+        "aSuSlokizyAvahi",
+        "aSuSlokizyAmahi"
+      ],
+      "alat": [
+        "SuSlokizyate",
+        "SuSlokizyete",
+        "SuSlokizyante",
+        "SuSlokizyase",
+        "SuSlokizyeTe",
+        "SuSlokizyaDve",
+        "SuSlokizye",
+        "SuSlokizyAvahe",
+        "SuSlokizyAmahe"
+      ],
+      "alit": [
+        "SuSlokizAYcakre",
+        "SuSlokizAmAse",
+        "SuSlokizAmbaBUve",
+        "SuSlokizAYcakrAte",
+        "SuSlokizAmAsAte",
+        "SuSlokizAmbaBUvAte",
+        "SuSlokizAYcakrire",
+        "SuSlokizAmAsire",
+        "SuSlokizAmbaBUvire",
+        "SuSlokizAYcakfze",
+        "SuSlokizAmAsize",
+        "SuSlokizAmbaBUvize",
+        "SuSlokizAYcakrATe",
+        "SuSlokizAmAsATe",
+        "SuSlokizAmbaBUvATe",
+        "SuSlokizAYcakfQve",
+        "SuSlokizAmAsiDve",
+        "SuSlokizAmbaBUviQve",
+        "SuSlokizAYcakre",
+        "SuSlokizAmAhe",
+        "SuSlokizAmbaBUve",
+        "SuSlokizAYcakfvahe",
+        "SuSlokizAmAsivahe",
+        "SuSlokizAmbaBUvivahe",
+        "SuSlokizAYcakfmahe",
+        "SuSlokizAmAsimahe",
+        "SuSlokizAmbaBUvimahe"
+      ],
+      "alot": [
+        "SuSlokizyatAm",
+        "SuSlokizyetAm",
+        "SuSlokizyantAm",
+        "SuSlokizyasva",
+        "SuSlokizyeTAm",
+        "SuSlokizyaDvam",
+        "SuSlokizyE",
+        "SuSlokizyAvahE",
+        "SuSlokizyAmahE"
+      ],
+      "alrung": [
+        "aSuSlokizizyata",
+        "aSuSlokizizyetAm",
+        "aSuSlokizizyanta",
+        "aSuSlokizizyaTAH",
+        "aSuSlokizizyeTAm",
+        "aSuSlokizizyaDvam",
+        "aSuSlokizizye",
+        "aSuSlokizizyAvahi",
+        "aSuSlokizizyAmahi"
+      ],
+      "alrut": [
+        "SuSlokizizyate",
+        "SuSlokizizyete",
+        "SuSlokizizyante",
+        "SuSlokizizyase",
+        "SuSlokizizyeTe",
+        "SuSlokizizyaDve",
+        "SuSlokizizye",
+        "SuSlokizizyAvahe",
+        "SuSlokizizyAmahe"
+      ],
+      "alung": [
+        "aSuSlokizi",
+        "aSuSlokizizAtAm",
+        "aSuSlokizizata",
+        "aSuSlokizizWAH",
+        "aSuSlokizizATAm",
+        "aSuSlokiziDvam",
+        "aSuSlokizizi",
+        "aSuSlokizizvahi",
+        "aSuSlokizizmahi"
+      ],
+      "alut": [
+        "SuSlokizitA",
+        "SuSlokizitArO",
+        "SuSlokizitAraH",
+        "SuSlokizitAse",
+        "SuSlokizitAsATe",
+        "SuSlokizitADve",
+        "SuSlokizitAhe",
+        "SuSlokizitAsvahe",
+        "SuSlokizitAsmahe"
+      ],
+      "avidhiling": [
+        "SuSlokizyeta",
+        "SuSlokizyeyAtAm",
+        "SuSlokizyeran",
+        "SuSlokizyeTAH",
+        "SuSlokizyeyATAm",
+        "SuSlokizyeDvam",
+        "SuSlokizyeya",
+        "SuSlokizyevahi",
+        "SuSlokizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "SlokayizIzwa",
+        "SlokayizIyAstAm",
+        "SlokayizIran",
+        "SlokayizIzWAH",
+        "SlokayizIyAsTAm",
+        "SlokayizIQvam",
+        "SlokayizIDvam",
+        "SlokayizIya",
+        "SlokayizIvahi",
+        "SlokayizImahi"
+      ],
+      "alang": [
+        "aSlokayata",
+        "aSlokayetAm",
+        "aSlokayanta",
+        "aSlokayaTAH",
+        "aSlokayeTAm",
+        "aSlokayaDvam",
+        "aSlokaye",
+        "aSlokayAvahi",
+        "aSlokayAmahi"
+      ],
+      "alat": [
+        "Slokayate",
+        "Slokayete",
+        "Slokayante",
+        "Slokayase",
+        "SlokayeTe",
+        "SlokayaDve",
+        "Slokaye",
+        "SlokayAvahe",
+        "SlokayAmahe"
+      ],
+      "alit": [
+        "SlokayAYcakre",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakrAte",
+        "SlokayAmAsatuH",
+        "SlokayAmbaBUvatuH",
+        "SlokayAYcakrire",
+        "SlokayAmAsuH",
+        "SlokayAmbaBUvuH",
+        "SlokayAYcakfze",
+        "SlokayAmAsiTa",
+        "SlokayAmbaBUviTa",
+        "SlokayAYcakrATe",
+        "SlokayAmAsaTuH",
+        "SlokayAmbaBUvaTuH",
+        "SlokayAYcakfQve",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakre",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakfvahe",
+        "SlokayAmAsiva",
+        "SlokayAmbaBUviva",
+        "SlokayAYcakfmahe",
+        "SlokayAmAsima",
+        "SlokayAmbaBUvima"
+      ],
+      "alot": [
+        "SlokayatAm",
+        "SlokayetAm",
+        "SlokayantAm",
+        "Slokayasva",
+        "SlokayeTAm",
+        "SlokayaDvam",
+        "SlokayE",
+        "SlokayAvahE",
+        "SlokayAmahE"
+      ],
+      "alrung": [
+        "aSlokayizyata",
+        "aSlokayizyetAm",
+        "aSlokayizyanta",
+        "aSlokayizyaTAH",
+        "aSlokayizyeTAm",
+        "aSlokayizyaDvam",
+        "aSlokayizye",
+        "aSlokayizyAvahi",
+        "aSlokayizyAmahi"
+      ],
+      "alrut": [
+        "Slokayizyate",
+        "Slokayizyete",
+        "Slokayizyante",
+        "Slokayizyase",
+        "SlokayizyeTe",
+        "SlokayizyaDve",
+        "Slokayizye",
+        "SlokayizyAvahe",
+        "SlokayizyAmahe"
+      ],
+      "alung": [
+        "aSuSlokata",
+        "aSuSloketAm",
+        "aSuSlokanta",
+        "aSuSlokaTAH",
+        "aSuSlokeTAm",
+        "aSuSlokaDvam",
+        "aSuSloke",
+        "aSuSlokAvahi",
+        "aSuSlokAmahi"
+      ],
+      "alut": [
+        "SlokayitA",
+        "SlokayitArO",
+        "SlokayitAraH",
+        "SlokayitAse",
+        "SlokayitAsATe",
+        "SlokayitADve",
+        "SlokayitAhe",
+        "SlokayitAsvahe",
+        "SlokayitAsmahe"
+      ],
+      "avidhiling": [
+        "Slokayeta",
+        "SlokayeyAtAm",
+        "Slokayeran",
+        "SlokayeTAH",
+        "SlokayeyATAm",
+        "SlokayeDvam",
+        "Slokayeya",
+        "Slokayevahi",
+        "Slokayemahi"
+      ],
+      "pashirling": [
+        "SlokyAt",
+        "SlokyAd",
+        "SlokyAstAm",
+        "SlokyAsuH",
+        "SlokyAH",
+        "SlokyAstam",
+        "SlokyAsta",
+        "SlokyAsam",
+        "SlokyAsva",
+        "SlokyAsma"
+      ],
+      "plang": [
+        "aSlokayat",
+        "aSlokayad",
+        "aSlokayatAm",
+        "aSlokayan",
+        "aSlokayaH",
+        "aSlokayatam",
+        "aSlokayata",
+        "aSlokayam",
+        "aSlokayAva",
+        "aSlokayAma"
+      ],
+      "plat": [
+        "Slokayati",
+        "SlokayataH",
+        "Slokayanti",
+        "Slokayasi",
+        "SlokayaTaH",
+        "SlokayaTa",
+        "SlokayAmi",
+        "SlokayAvaH",
+        "SlokayAmaH"
+      ],
+      "plit": [
+        "SlokayAYcakAra",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakratuH",
+        "SlokayAmAsatuH",
+        "SlokayAmbaBUvatuH",
+        "SlokayAYcakruH",
+        "SlokayAmAsuH",
+        "SlokayAmbaBUvuH",
+        "SlokayAYcakarTa",
+        "SlokayAmAsiTa",
+        "SlokayAmbaBUviTa",
+        "SlokayAYcakraTuH",
+        "SlokayAmAsaTuH",
+        "SlokayAmbaBUvaTuH",
+        "SlokayAYcakra",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakara",
+        "SlokayAYcakAra",
+        "SlokayAmAsa",
+        "SlokayAmbaBUva",
+        "SlokayAYcakfva",
+        "SlokayAmAsiva",
+        "SlokayAmbaBUviva",
+        "SlokayAYcakfma",
+        "SlokayAmAsima",
+        "SlokayAmbaBUvima"
+      ],
+      "plot": [
+        "SlokayatAt",
+        "SlokayatAd",
+        "Slokayatu",
+        "SlokayatAm",
+        "Slokayantu",
+        "Slokaya",
+        "SlokayatAt",
+        "SlokayatAd",
+        "Slokayatam",
+        "Slokayata",
+        "SlokayAni",
+        "SlokayAva",
+        "SlokayAma"
+      ],
+      "plrung": [
+        "aSlokayizyat",
+        "aSlokayizyad",
+        "aSlokayizyatAm",
+        "aSlokayizyan",
+        "aSlokayizyaH",
+        "aSlokayizyatam",
+        "aSlokayizyata",
+        "aSlokayizyam",
+        "aSlokayizyAva",
+        "aSlokayizyAma"
+      ],
+      "plrut": [
+        "Slokayizyati",
+        "SlokayizyataH",
+        "Slokayizyanti",
+        "Slokayizyasi",
+        "SlokayizyaTaH",
+        "SlokayizyaTa",
+        "SlokayizyAmi",
+        "SlokayizyAvaH",
+        "SlokayizyAmaH"
+      ],
+      "plung": [
+        "aSuSlokat",
+        "aSuSlokad",
+        "aSuSlokatAm",
+        "aSuSlokan",
+        "aSuSlokaH",
+        "aSuSlokatam",
+        "aSuSlokata",
+        "aSuSlokam",
+        "aSuSlokAva",
+        "aSuSlokAma"
+      ],
+      "plut": [
+        "SlokayitA",
+        "SlokayitArO",
+        "SlokayitAraH",
+        "SlokayitAsi",
+        "SlokayitAsTaH",
+        "SlokayitAsTa",
+        "SlokayitAsmi",
+        "SlokayitAsvaH",
+        "SlokayitAsmaH"
+      ],
+      "pvidhiling": [
+        "Slokayet",
+        "Slokayed",
+        "SlokayetAm",
+        "SlokayeyuH",
+        "SlokayeH",
+        "Slokayetam",
+        "Slokayeta",
+        "Slokayeyam",
+        "Slokayeva",
+        "Slokayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "SlokayizIzwa",
+        "SlokizIzwa",
+        "SlokayizIyAstAm",
+        "SlokizIyAstAm",
+        "SlokayizIran",
+        "SlokizIran",
+        "SlokayizIzWAH",
+        "SlokizIzWAH",
+        "SlokayizIyAsTAm",
+        "SlokizIyAsTAm",
+        "SlokayizIQvam",
+        "SlokayizIDvam",
+        "SlokizIDvam",
+        "SlokayizIya",
+        "SlokizIya",
+        "SlokayizIvahi",
+        "SlokizIvahi",
+        "SlokayizImahi",
+        "SlokizImahi"
+      ],
+      "alang": [
+        "aSlokyata",
+        "aSlokyetAm",
+        "aSlokyanta",
+        "aSlokyaTAH",
+        "aSlokyeTAm",
+        "aSlokyaDvam",
+        "aSlokye",
+        "aSlokyAvahi",
+        "aSlokyAmahi"
+      ],
+      "alat": [
+        "Slokyate",
+        "Slokyete",
+        "Slokyante",
+        "Slokyase",
+        "SlokyeTe",
+        "SlokyaDve",
+        "Slokye",
+        "SlokyAvahe",
+        "SlokyAmahe"
+      ],
+      "alit": [
+        "SlokayAYcakre",
+        "SlokayAmAse",
+        "SlokayAmbaBUve",
+        "SlokayAYcakrAte",
+        "SlokayAmAsAte",
+        "SlokayAmbaBUvAte",
+        "SlokayAYcakrire",
+        "SlokayAmAsire",
+        "SlokayAmbaBUvire",
+        "SlokayAYcakfze",
+        "SlokayAmAsize",
+        "SlokayAmbaBUvize",
+        "SlokayAYcakrATe",
+        "SlokayAmAsATe",
+        "SlokayAmbaBUvATe",
+        "SlokayAYcakfQve",
+        "SlokayAmAsiDve",
+        "SlokayAmbaBUviQve",
+        "SlokayAYcakre",
+        "SlokayAmAhe",
+        "SlokayAmbaBUve",
+        "SlokayAYcakfvahe",
+        "SlokayAmAsivahe",
+        "SlokayAmbaBUvivahe",
+        "SlokayAYcakfmahe",
+        "SlokayAmAsimahe",
+        "SlokayAmbaBUvimahe"
+      ],
+      "alot": [
+        "SlokyatAm",
+        "SlokyetAm",
+        "SlokyantAm",
+        "Slokyasva",
+        "SlokyeTAm",
+        "SlokyaDvam",
+        "SlokyE",
+        "SlokyAvahE",
+        "SlokyAmahE"
+      ],
+      "alrung": [
+        "aSlokayizyata",
+        "aSlokizyata",
+        "aSlokayizyetAm",
+        "aSlokizyetAm",
+        "aSlokayizyanta",
+        "aSlokizyanta",
+        "aSlokayizyaTAH",
+        "aSlokizyaTAH",
+        "aSlokayizyeTAm",
+        "aSlokizyeTAm",
+        "aSlokayizyaDvam",
+        "aSlokizyaDvam",
+        "aSlokayizye",
+        "aSlokizye",
+        "aSlokayizyAvahi",
+        "aSlokizyAvahi",
+        "aSlokayizyAmahi",
+        "aSlokizyAmahi"
+      ],
+      "alrut": [
+        "Slokayizyate",
+        "Slokizyate",
+        "Slokayizyete",
+        "Slokizyete",
+        "Slokayizyante",
+        "Slokizyante",
+        "Slokayizyase",
+        "Slokizyase",
+        "SlokayizyeTe",
+        "SlokizyeTe",
+        "SlokayizyaDve",
+        "SlokizyaDve",
+        "Slokayizye",
+        "Slokizye",
+        "SlokayizyAvahe",
+        "SlokizyAvahe",
+        "SlokayizyAmahe",
+        "SlokizyAmahe"
+      ],
+      "alung": [
+        "aSloki",
+        "aSlokayizAtAm",
+        "aSlokizAtAm",
+        "aSlokayizata",
+        "aSlokizata",
+        "aSlokayizWAH",
+        "aSlokizWAH",
+        "aSlokayizATAm",
+        "aSlokizATAm",
+        "aSlokayiQvam",
+        "aSlokayiDvam",
+        "aSlokiDvam",
+        "aSlokayizi",
+        "aSlokizi",
+        "aSlokayizvahi",
+        "aSlokizvahi",
+        "aSlokayizmahi",
+        "aSlokizmahi"
+      ],
+      "alut": [
+        "SlokayitA",
+        "SlokitA",
+        "SlokayitArO",
+        "SlokitArO",
+        "SlokayitAraH",
+        "SlokitAraH",
+        "SlokayitAse",
+        "SlokitAse",
+        "SlokayitAsATe",
+        "SlokitAsATe",
+        "SlokayitADve",
+        "SlokitADve",
+        "SlokayitAhe",
+        "SlokitAhe",
+        "SlokayitAsvahe",
+        "SlokitAsvahe",
+        "SlokayitAsmahe",
+        "SlokitAsmahe"
+      ],
+      "avidhiling": [
+        "Slokyeta",
+        "SlokyeyAtAm",
+        "Slokyeran",
+        "SlokyeTAH",
+        "SlokyeyATAm",
+        "SlokyeDvam",
+        "Slokyeya",
+        "Slokyevahi",
+        "Slokyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "SoSlokizIzwa",
+        "SoSlokizIyAstAm",
+        "SoSlokizIran",
+        "SoSlokizIzWAH",
+        "SoSlokizIyAsTAm",
+        "SoSlokizIDvam",
+        "SoSlokizIya",
+        "SoSlokizIvahi",
+        "SoSlokizImahi"
+      ],
+      "alang": [
+        "aSoSlokyata",
+        "aSoSlokyetAm",
+        "aSoSlokyanta",
+        "aSoSlokyaTAH",
+        "aSoSlokyeTAm",
+        "aSoSlokyaDvam",
+        "aSoSlokye",
+        "aSoSlokyAvahi",
+        "aSoSlokyAmahi"
+      ],
+      "alat": [
+        "SoSlokyate",
+        "SoSlokyete",
+        "SoSlokyante",
+        "SoSlokyase",
+        "SoSlokyeTe",
+        "SoSlokyaDve",
+        "SoSlokye",
+        "SoSlokyAvahe",
+        "SoSlokyAmahe"
+      ],
+      "alit": [
+        "SoSlokAYcakre",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakrAte",
+        "SoSlokAmAsatuH",
+        "SoSlokAmbaBUvatuH",
+        "SoSlokAYcakrire",
+        "SoSlokAmAsuH",
+        "SoSlokAmbaBUvuH",
+        "SoSlokAYcakfze",
+        "SoSlokAmAsiTa",
+        "SoSlokAmbaBUviTa",
+        "SoSlokAYcakrATe",
+        "SoSlokAmAsaTuH",
+        "SoSlokAmbaBUvaTuH",
+        "SoSlokAYcakfQve",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakre",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakfvahe",
+        "SoSlokAmAsiva",
+        "SoSlokAmbaBUviva",
+        "SoSlokAYcakfmahe",
+        "SoSlokAmAsima",
+        "SoSlokAmbaBUvima"
+      ],
+      "alot": [
+        "SoSlokyatAm",
+        "SoSlokyetAm",
+        "SoSlokyantAm",
+        "SoSlokyasva",
+        "SoSlokyeTAm",
+        "SoSlokyaDvam",
+        "SoSlokyE",
+        "SoSlokyAvahE",
+        "SoSlokyAmahE"
+      ],
+      "alrung": [
+        "aSoSlokizyata",
+        "aSoSlokizyetAm",
+        "aSoSlokizyanta",
+        "aSoSlokizyaTAH",
+        "aSoSlokizyeTAm",
+        "aSoSlokizyaDvam",
+        "aSoSlokizye",
+        "aSoSlokizyAvahi",
+        "aSoSlokizyAmahi"
+      ],
+      "alrut": [
+        "SoSlokizyate",
+        "SoSlokizyete",
+        "SoSlokizyante",
+        "SoSlokizyase",
+        "SoSlokizyeTe",
+        "SoSlokizyaDve",
+        "SoSlokizye",
+        "SoSlokizyAvahe",
+        "SoSlokizyAmahe"
+      ],
+      "alung": [
+        "aSoSlokizwa",
+        "aSoSlokizAtAm",
+        "aSoSlokizata",
+        "aSoSlokizWAH",
+        "aSoSlokizATAm",
+        "aSoSlokiDvam",
+        "aSoSlokizi",
+        "aSoSlokizvahi",
+        "aSoSlokizmahi"
+      ],
+      "alut": [
+        "SoSlokitA",
+        "SoSlokitArO",
+        "SoSlokitAraH",
+        "SoSlokitAse",
+        "SoSlokitAsATe",
+        "SoSlokitADve",
+        "SoSlokitAhe",
+        "SoSlokitAsvahe",
+        "SoSlokitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSlokyeta",
+        "SoSlokyeyAtAm",
+        "SoSlokyeran",
+        "SoSlokyeTAH",
+        "SoSlokyeyATAm",
+        "SoSlokyeDvam",
+        "SoSlokyeya",
+        "SoSlokyevahi",
+        "SoSlokyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "SoSlokizIzwa",
+        "SoSlokizIyAstAm",
+        "SoSlokizIran",
+        "SoSlokizIzWAH",
+        "SoSlokizIyAsTAm",
+        "SoSlokizIDvam",
+        "SoSlokizIya",
+        "SoSlokizIvahi",
+        "SoSlokizImahi"
+      ],
+      "alang": [
+        "aSoSlokyata",
+        "aSoSlokyetAm",
+        "aSoSlokyanta",
+        "aSoSlokyaTAH",
+        "aSoSlokyeTAm",
+        "aSoSlokyaDvam",
+        "aSoSlokye",
+        "aSoSlokyAvahi",
+        "aSoSlokyAmahi"
+      ],
+      "alat": [
+        "SoSlokyate",
+        "SoSlokyete",
+        "SoSlokyante",
+        "SoSlokyase",
+        "SoSlokyeTe",
+        "SoSlokyaDve",
+        "SoSlokye",
+        "SoSlokyAvahe",
+        "SoSlokyAmahe"
+      ],
+      "alit": [
+        "SoSlokAYcakre",
+        "SoSlokAmAse",
+        "SoSlokAmbaBUve",
+        "SoSlokAYcakrAte",
+        "SoSlokAmAsAte",
+        "SoSlokAmbaBUvAte",
+        "SoSlokAYcakrire",
+        "SoSlokAmAsire",
+        "SoSlokAmbaBUvire",
+        "SoSlokAYcakfze",
+        "SoSlokAmAsize",
+        "SoSlokAmbaBUvize",
+        "SoSlokAYcakrATe",
+        "SoSlokAmAsATe",
+        "SoSlokAmbaBUvATe",
+        "SoSlokAYcakfQve",
+        "SoSlokAmAsiDve",
+        "SoSlokAmbaBUviQve",
+        "SoSlokAYcakre",
+        "SoSlokAmAhe",
+        "SoSlokAmbaBUve",
+        "SoSlokAYcakfvahe",
+        "SoSlokAmAsivahe",
+        "SoSlokAmbaBUvivahe",
+        "SoSlokAYcakfmahe",
+        "SoSlokAmAsimahe",
+        "SoSlokAmbaBUvimahe"
+      ],
+      "alot": [
+        "SoSlokyatAm",
+        "SoSlokyetAm",
+        "SoSlokyantAm",
+        "SoSlokyasva",
+        "SoSlokyeTAm",
+        "SoSlokyaDvam",
+        "SoSlokyE",
+        "SoSlokyAvahE",
+        "SoSlokyAmahE"
+      ],
+      "alrung": [
+        "aSoSlokizyata",
+        "aSoSlokizyetAm",
+        "aSoSlokizyanta",
+        "aSoSlokizyaTAH",
+        "aSoSlokizyeTAm",
+        "aSoSlokizyaDvam",
+        "aSoSlokizye",
+        "aSoSlokizyAvahi",
+        "aSoSlokizyAmahi"
+      ],
+      "alrut": [
+        "SoSlokizyate",
+        "SoSlokizyete",
+        "SoSlokizyante",
+        "SoSlokizyase",
+        "SoSlokizyeTe",
+        "SoSlokizyaDve",
+        "SoSlokizye",
+        "SoSlokizyAvahe",
+        "SoSlokizyAmahe"
+      ],
+      "alung": [
+        "aSoSloki",
+        "aSoSlokizAtAm",
+        "aSoSlokizata",
+        "aSoSlokizWAH",
+        "aSoSlokizATAm",
+        "aSoSlokiDvam",
+        "aSoSlokizi",
+        "aSoSlokizvahi",
+        "aSoSlokizmahi"
+      ],
+      "alut": [
+        "SoSlokitA",
+        "SoSlokitArO",
+        "SoSlokitAraH",
+        "SoSlokitAse",
+        "SoSlokitAsATe",
+        "SoSlokitADve",
+        "SoSlokitAhe",
+        "SoSlokitAsvahe",
+        "SoSlokitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSlokyeta",
+        "SoSlokyeyAtAm",
+        "SoSlokyeran",
+        "SoSlokyeTAH",
+        "SoSlokyeyATAm",
+        "SoSlokyeDvam",
+        "SoSlokyeya",
+        "SoSlokyevahi",
+        "SoSlokyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "SoSlokyAt",
+        "SoSlokyAd",
+        "SoSlokyAstAm",
+        "SoSlokyAsuH",
+        "SoSlokyAH",
+        "SoSlokyAstam",
+        "SoSlokyAsta",
+        "SoSlokyAsam",
+        "SoSlokyAsva",
+        "SoSlokyAsma"
+      ],
+      "plang": [
+        "aSoSlokIt",
+        "aSoSlokId",
+        "aSoSlok",
+        "aSoSlog",
+        "aSoSloktAm",
+        "aSoSlokuH",
+        "aSoSlokIH",
+        "aSoSlok",
+        "aSoSlog",
+        "aSoSloktam",
+        "aSoSlokta",
+        "aSoSlokam",
+        "aSoSlokva",
+        "aSoSlokma"
+      ],
+      "plat": [
+        "SoSlokIti",
+        "SoSlokti",
+        "SoSloktaH",
+        "SoSlokati",
+        "SoSlokIzi",
+        "SoSlokzi",
+        "SoSlokTaH",
+        "SoSlokTa",
+        "SoSlokImi",
+        "SoSlokmi",
+        "SoSlokvaH",
+        "SoSlokmaH"
+      ],
+      "plit": [
+        "SoSlokAYcakAra",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakratuH",
+        "SoSlokAmAsatuH",
+        "SoSlokAmbaBUvatuH",
+        "SoSlokAYcakruH",
+        "SoSlokAmAsuH",
+        "SoSlokAmbaBUvuH",
+        "SoSlokAYcakarTa",
+        "SoSlokAmAsiTa",
+        "SoSlokAmbaBUviTa",
+        "SoSlokAYcakraTuH",
+        "SoSlokAmAsaTuH",
+        "SoSlokAmbaBUvaTuH",
+        "SoSlokAYcakra",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakara",
+        "SoSlokAYcakAra",
+        "SoSlokAmAsa",
+        "SoSlokAmbaBUva",
+        "SoSlokAYcakfva",
+        "SoSlokAmAsiva",
+        "SoSlokAmbaBUviva",
+        "SoSlokAYcakfma",
+        "SoSlokAmAsima",
+        "SoSlokAmbaBUvima"
+      ],
+      "plot": [
+        "SoSlokItu",
+        "SoSloktAt",
+        "SoSloktAd",
+        "SoSloktu",
+        "SoSloktAm",
+        "SoSlokatu",
+        "SoSloktAt",
+        "SoSloktAd",
+        "SoSlogDi",
+        "SoSloktam",
+        "SoSlokta",
+        "SoSlokAni",
+        "SoSlokAva",
+        "SoSlokAma"
+      ],
+      "plrung": [
+        "aSoSlokizyat",
+        "aSoSlokizyad",
+        "aSoSlokizyatAm",
+        "aSoSlokizyan",
+        "aSoSlokizyaH",
+        "aSoSlokizyatam",
+        "aSoSlokizyata",
+        "aSoSlokizyam",
+        "aSoSlokizyAva",
+        "aSoSlokizyAma"
+      ],
+      "plrut": [
+        "SoSlokizyati",
+        "SoSlokizyataH",
+        "SoSlokizyanti",
+        "SoSlokizyasi",
+        "SoSlokizyaTaH",
+        "SoSlokizyaTa",
+        "SoSlokizyAmi",
+        "SoSlokizyAvaH",
+        "SoSlokizyAmaH"
+      ],
+      "plung": [
+        "aSoSlokIt",
+        "aSoSlokId",
+        "aSoSlokizwAm",
+        "aSoSlokizuH",
+        "aSoSlokIH",
+        "aSoSlokizwam",
+        "aSoSlokizwa",
+        "aSoSlokizam",
+        "aSoSlokizva",
+        "aSoSlokizma"
+      ],
+      "plut": [
+        "SoSlokitA",
+        "SoSlokitArO",
+        "SoSlokitAraH",
+        "SoSlokitAsi",
+        "SoSlokitAsTaH",
+        "SoSlokitAsTa",
+        "SoSlokitAsmi",
+        "SoSlokitAsvaH",
+        "SoSlokitAsmaH"
+      ],
+      "pvidhiling": [
+        "SoSlokyAt",
+        "SoSlokyAd",
+        "SoSlokyAtAm",
+        "SoSlokyuH",
+        "SoSlokyAH",
+        "SoSlokyAtam",
+        "SoSlokyAta",
+        "SoSlokyAm",
+        "SoSlokyAva",
+        "SoSlokyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "SoSlokizIzwa",
+        "SoSlokizIyAstAm",
+        "SoSlokizIran",
+        "SoSlokizIzWAH",
+        "SoSlokizIyAsTAm",
+        "SoSlokizIDvam",
+        "SoSlokizIya",
+        "SoSlokizIvahi",
+        "SoSlokizImahi"
+      ],
+      "alang": [
+        "aSoSlokyata",
+        "aSoSlokyetAm",
+        "aSoSlokyanta",
+        "aSoSlokyaTAH",
+        "aSoSlokyeTAm",
+        "aSoSlokyaDvam",
+        "aSoSlokye",
+        "aSoSlokyAvahi",
+        "aSoSlokyAmahi"
+      ],
+      "alat": [
+        "SoSlokyate",
+        "SoSlokyete",
+        "SoSlokyante",
+        "SoSlokyase",
+        "SoSlokyeTe",
+        "SoSlokyaDve",
+        "SoSlokye",
+        "SoSlokyAvahe",
+        "SoSlokyAmahe"
+      ],
+      "alit": [
+        "SoSlokAYcakre",
+        "SoSlokAmAse",
+        "SoSlokAmbaBUve",
+        "SoSlokAYcakrAte",
+        "SoSlokAmAsAte",
+        "SoSlokAmbaBUvAte",
+        "SoSlokAYcakrire",
+        "SoSlokAmAsire",
+        "SoSlokAmbaBUvire",
+        "SoSlokAYcakfze",
+        "SoSlokAmAsize",
+        "SoSlokAmbaBUvize",
+        "SoSlokAYcakrATe",
+        "SoSlokAmAsATe",
+        "SoSlokAmbaBUvATe",
+        "SoSlokAYcakfQve",
+        "SoSlokAmAsiDve",
+        "SoSlokAmbaBUviQve",
+        "SoSlokAYcakre",
+        "SoSlokAmAhe",
+        "SoSlokAmbaBUve",
+        "SoSlokAYcakfvahe",
+        "SoSlokAmAsivahe",
+        "SoSlokAmbaBUvivahe",
+        "SoSlokAYcakfmahe",
+        "SoSlokAmAsimahe",
+        "SoSlokAmbaBUvimahe"
+      ],
+      "alot": [
+        "SoSlokyatAm",
+        "SoSlokyetAm",
+        "SoSlokyantAm",
+        "SoSlokyasva",
+        "SoSlokyeTAm",
+        "SoSlokyaDvam",
+        "SoSlokyE",
+        "SoSlokyAvahE",
+        "SoSlokyAmahE"
+      ],
+      "alrung": [
+        "aSoSlokizyata",
+        "aSoSlokizyetAm",
+        "aSoSlokizyanta",
+        "aSoSlokizyaTAH",
+        "aSoSlokizyeTAm",
+        "aSoSlokizyaDvam",
+        "aSoSlokizye",
+        "aSoSlokizyAvahi",
+        "aSoSlokizyAmahi"
+      ],
+      "alrut": [
+        "SoSlokizyate",
+        "SoSlokizyete",
+        "SoSlokizyante",
+        "SoSlokizyase",
+        "SoSlokizyeTe",
+        "SoSlokizyaDve",
+        "SoSlokizye",
+        "SoSlokizyAvahe",
+        "SoSlokizyAmahe"
+      ],
+      "alung": [
+        "aSoSloki",
+        "aSoSlokizAtAm",
+        "aSoSlokizata",
+        "aSoSlokizWAH",
+        "aSoSlokizATAm",
+        "aSoSlokiDvam",
+        "aSoSlokizi",
+        "aSoSlokizvahi",
+        "aSoSlokizmahi"
+      ],
+      "alut": [
+        "SoSlokitA",
+        "SoSlokitArO",
+        "SoSlokitAraH",
+        "SoSlokitAse",
+        "SoSlokitAsATe",
+        "SoSlokitADve",
+        "SoSlokitAhe",
+        "SoSlokitAsvahe",
+        "SoSlokitAsmahe"
+      ],
+      "avidhiling": [
+        "SoSlokyeta",
+        "SoSlokyeyAtAm",
+        "SoSlokyeran",
+        "SoSlokyeTAH",
+        "SoSlokyeyATAm",
+        "SoSlokyeDvam",
+        "SoSlokyeya",
+        "SoSlokyevahi",
+        "SoSlokyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "SlokA",
+          "m": "",
+          "f": "SlokA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "Sloka",
+          "m": "SlokaH",
+          "f": "SlokA",
+          "n": "Slokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SlokanIya",
+          "m": "SlokanIyaH",
+          "f": "SlokanIyA",
+          "n": "SlokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Slokita",
+          "m": "SlokitaH",
+          "f": "SlokitA",
+          "n": "Slokitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Slokitavat",
+          "m": "SlokitavAn",
+          "f": "SlokitavatI",
+          "n": "Slokitavat/Slokitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Slokti",
+          "m": "",
+          "f": "SloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SlokitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SuSlokvas",
+          "m": "SuSlokvAn",
+          "f": "SuSlokuzI",
+          "n": "SuSlokvat/SuSlokvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "Sloka",
+          "m": "SlokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SlokamAna",
+          "m": "SlokamAnaH",
+          "f": "SlokamAnA",
+          "n": "SlokamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Slokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "Slokya",
+          "m": "SlokyaH",
+          "f": "SlokyA",
+          "n": "Slokyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Slokaka",
+          "m": "SlokakaH",
+          "f": "SlokikA",
+          "n": "Slokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Slokitavya",
+          "m": "SlokitavyaH",
+          "f": "SlokitavyA",
+          "n": "Slokitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Slokitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Slokitf",
+          "m": "SlokitA",
+          "f": "SlokitrI",
+          "n": "Slokitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SlokyamAna",
+          "m": "SlokyamAnaH",
+          "f": "SlokyamAnA",
+          "n": "SlokyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSlokya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Slokana",
+          "m": "",
+          "f": "",
+          "n": "Slokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Slokaka",
+          "m": "SlokakaH",
+          "f": "SlokikA",
+          "n": "Slokakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SlokamAna",
+          "m": "SlokamAnaH",
+          "f": "SlokamAnA",
+          "n": "SlokamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SlokizyamARa",
+          "m": "SlokizyamARaH",
+          "f": "SlokizyamARA",
+          "n": "SlokizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SlokizyamARa",
+          "m": "SlokizyamARaH",
+          "f": "SlokizyamARA",
+          "n": "SlokizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "SuSlokizA",
+          "m": "",
+          "f": "SuSlokizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SuSlokiza",
+          "m": "SuSlokizaH",
+          "f": "SuSlokizA",
+          "n": "SuSlokizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SuSlokizaRIya",
+          "m": "SuSlokizaRIyaH",
+          "f": "SuSlokizaRIyA",
+          "n": "SuSlokizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "SuSlokizu",
+          "m": "SuSlokizuH",
+          "f": "SuSlokizuH",
+          "n": "SuSlokizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SuSlokizita",
+          "m": "SuSlokizitaH",
+          "f": "SuSlokizitA",
+          "n": "SuSlokizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SuSlokizitavat",
+          "m": "SuSlokizitavAn",
+          "f": "SuSlokizitavatI",
+          "n": "SuSlokizitavat/SuSlokizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SuSlokizwi",
+          "m": "",
+          "f": "SuSlokizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SuSlokizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SuSlokizAmbaBUvas",
+          "m": "SuSlokizAmbaBUvAn",
+          "f": "SuSlokizAmbaBUzI",
+          "n": "SuSlokizAmbaBUvat/SuSlokizAmbaBUvad"
+        },
+        {
+          "base": "SuSlokizAmAsivas",
+          "m": "SuSlokizAmAsivAn",
+          "f": "SuSlokizAmAsyuzI",
+          "n": "SuSlokizAmAsivat/SuSlokizAmAsivad"
+        },
+        {
+          "base": "SuSlokizAYcakfvas",
+          "m": "SuSlokizAYcakfvAn",
+          "f": "SuSlokizAYcakruzI",
+          "n": "SuSlokizAYcakfvat/SuSlokizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SuSlokiza",
+          "m": "SuSlokizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SuSlokizamARa",
+          "m": "SuSlokizamARaH",
+          "f": "SuSlokizamARA",
+          "n": "SuSlokizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SuSlokizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SuSlokizaka",
+          "m": "SuSlokizakaH",
+          "f": "SuSlokizikA",
+          "n": "SuSlokizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SuSlokizitavya",
+          "m": "SuSlokizitavyaH",
+          "f": "SuSlokizitavyA",
+          "n": "SuSlokizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SuSlokizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SuSlokizitf",
+          "m": "SuSlokizitA",
+          "f": "SuSlokizitrI",
+          "n": "SuSlokizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SuSlokizyamARa",
+          "m": "SuSlokizyamARaH",
+          "f": "SuSlokizyamARA",
+          "n": "SuSlokizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SuSlokizya",
+          "m": "SuSlokizyaH",
+          "f": "SuSlokizyA",
+          "n": "SuSlokizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSuSlokizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SuSlokizaRa",
+          "m": "",
+          "f": "",
+          "n": "SuSlokizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SuSlokizaka",
+          "m": "SuSlokizakaH",
+          "f": "SuSlokizikA",
+          "n": "SuSlokizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SuSlokizamARa",
+          "m": "SuSlokizamARaH",
+          "f": "SuSlokizamARA",
+          "n": "SuSlokizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SuSlokizizyamARa",
+          "m": "SuSlokizizyamARaH",
+          "f": "SuSlokizizyamARA",
+          "n": "SuSlokizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SuSlokizizyamARa",
+          "m": "SuSlokizizyamARaH",
+          "f": "SuSlokizizyamARA",
+          "n": "SuSlokizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "Sloka",
+          "m": "SlokaH",
+          "f": "SlokA",
+          "n": "Slokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SlokanIya",
+          "m": "SlokanIyaH",
+          "f": "SlokanIyA",
+          "n": "SlokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Slokita",
+          "m": "SlokitaH",
+          "f": "SlokitA",
+          "n": "Slokitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Slokitavat",
+          "m": "SlokitavAn",
+          "f": "SlokitavatI",
+          "n": "Slokitavat/Slokitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Slokti",
+          "m": "",
+          "f": "SloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SlokayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SlokayAmbaBUvas",
+          "m": "SlokayAmbaBUvAn",
+          "f": "SlokayAmbaBUzI",
+          "n": "SlokayAmbaBUvat/SlokayAmbaBUvad"
+        },
+        {
+          "base": "SlokayAmAsivas",
+          "m": "SlokayAmAsivAn",
+          "f": "SlokayAmAsyuzI",
+          "n": "SlokayAmAsivat/SlokayAmAsivad"
+        },
+        {
+          "base": "SlokayAYcakfvas",
+          "m": "SlokayAYcakfvAn",
+          "f": "SlokayAYcakruzI",
+          "n": "SlokayAYcakfvat/SlokayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SlokayamAna",
+          "m": "SlokayamAnaH",
+          "f": "SlokayamAnA",
+          "n": "SlokayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Slokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Slokaka",
+          "m": "SlokakaH",
+          "f": "SlokikA",
+          "n": "Slokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Slokayitavya",
+          "m": "SlokayitavyaH",
+          "f": "SlokayitavyA",
+          "n": "Slokayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Slokayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Slokayitf",
+          "m": "SlokayitA",
+          "f": "SlokayitrI",
+          "n": "Slokayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SlokyamAna",
+          "m": "SlokyamAnaH",
+          "f": "SlokyamAnA",
+          "n": "SlokyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Slokya",
+          "m": "SlokyaH",
+          "f": "SlokyA",
+          "n": "Slokyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSlokya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Slokana",
+          "m": "",
+          "f": "",
+          "n": "Slokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Slokaka",
+          "m": "SlokakaH",
+          "f": "SlokikA",
+          "n": "Slokakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Slokayat",
+          "m": "Slokayan",
+          "f": "SlokayantI",
+          "n": "Slokayat/Slokayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SlokayamAna",
+          "m": "SlokayamAnaH",
+          "f": "SlokayamAnA",
+          "n": "SlokayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SlokizyamARa",
+          "m": "SlokizyamARaH",
+          "f": "SlokizyamARA",
+          "n": "SlokizyamARam"
+        },
+        {
+          "base": "SlokayizyamARa",
+          "m": "SlokayizyamARaH",
+          "f": "SlokayizyamARA",
+          "n": "SlokayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Slokayizyat",
+          "m": "Slokayizyan",
+          "f": "SlokayizyatI/SlokayizyantI",
+          "n": "Slokayizyat/Slokayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SlokayizyamARa",
+          "m": "SlokayizyamARaH",
+          "f": "SlokayizyamARA",
+          "n": "SlokayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "SoSlokA",
+          "m": "",
+          "f": "SoSlokA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SoSloka",
+          "m": "SoSlokaH",
+          "f": "SoSlokA",
+          "n": "SoSlokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SoSlokanIya",
+          "m": "SoSlokanIyaH",
+          "f": "SoSlokanIyA",
+          "n": "SoSlokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SoSlokita",
+          "m": "SoSlokitaH",
+          "f": "SoSlokitA",
+          "n": "SoSlokitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SoSlokitavat",
+          "m": "SoSlokitavAn",
+          "f": "SoSlokitavatI",
+          "n": "SoSlokitavat/SoSlokitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SoSlokti",
+          "m": "",
+          "f": "SoSloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SoSlokitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SoSlokAmbaBUvas",
+          "m": "SoSlokAmbaBUvAn",
+          "f": "SoSlokAmbaBUzI",
+          "n": "SoSlokAmbaBUvat/SoSlokAmbaBUvad"
+        },
+        {
+          "base": "SoSlokAmAsivas",
+          "m": "SoSlokAmAsivAn",
+          "f": "SoSlokAmAsyuzI",
+          "n": "SoSlokAmAsivat/SoSlokAmAsivad"
+        },
+        {
+          "base": "SoSlokAYcakfvas",
+          "m": "SoSlokAYcakfvAn",
+          "f": "SoSlokAYcakruzI",
+          "n": "SoSlokAYcakfvat/SoSlokAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SoSloka",
+          "m": "SoSlokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoSlokyamAna",
+          "m": "SoSlokyamAnaH",
+          "f": "SoSlokyamAnA",
+          "n": "SoSlokyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoSlokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoSlokaka",
+          "m": "SoSlokakaH",
+          "f": "SoSlokikA",
+          "n": "SoSlokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoSlokitavya",
+          "m": "SoSlokitavyaH",
+          "f": "SoSlokitavyA",
+          "n": "SoSlokitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoSlokitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoSlokitf",
+          "m": "SoSlokitA",
+          "f": "SoSlokitrI",
+          "n": "SoSlokitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SoSlokyamAna",
+          "m": "SoSlokyamAnaH",
+          "f": "SoSlokyamAnA",
+          "n": "SoSlokyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SoSlokya",
+          "m": "SoSlokyaH",
+          "f": "SoSlokyA",
+          "n": "SoSlokyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSoSlokya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoSlokana",
+          "m": "",
+          "f": "",
+          "n": "SoSlokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoSlokaka",
+          "m": "SoSlokakaH",
+          "f": "SoSlokikA",
+          "n": "SoSlokakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SoSlokyamAna",
+          "m": "SoSlokyamAnaH",
+          "f": "SoSlokyamAnA",
+          "n": "SoSlokyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoSlokizyamARa",
+          "m": "SoSlokizyamARaH",
+          "f": "SoSlokizyamARA",
+          "n": "SoSlokizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SoSlokizyamARa",
+          "m": "SoSlokizyamARaH",
+          "f": "SoSlokizyamARA",
+          "n": "SoSlokizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "SoSlokA",
+          "m": "",
+          "f": "SoSlokA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SoSloka",
+          "m": "SoSlokaH",
+          "f": "SoSlokA",
+          "n": "SoSlokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SoSlokanIya",
+          "m": "SoSlokanIyaH",
+          "f": "SoSlokanIyA",
+          "n": "SoSlokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SoSlokita",
+          "m": "SoSlokitaH",
+          "f": "SoSlokitA",
+          "n": "SoSlokitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SoSlokitavat",
+          "m": "SoSlokitavAn",
+          "f": "SoSlokitavatI",
+          "n": "SoSlokitavat/SoSlokitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SoSlokti",
+          "m": "",
+          "f": "SoSloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SoSlokitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SoSlokAmbaBUvas",
+          "m": "SoSlokAmbaBUvAn",
+          "f": "SoSlokAmbaBUzI",
+          "n": "SoSlokAmbaBUvat/SoSlokAmbaBUvad"
+        },
+        {
+          "base": "SoSlokAmAsivas",
+          "m": "SoSlokAmAsivAn",
+          "f": "SoSlokAmAsyuzI",
+          "n": "SoSlokAmAsivat/SoSlokAmAsivad"
+        },
+        {
+          "base": "SoSlokAYcakfvas",
+          "m": "SoSlokAYcakfvAn",
+          "f": "SoSlokAYcakruzI",
+          "n": "SoSlokAYcakfvat/SoSlokAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SoSloka",
+          "m": "SoSlokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SoSlokAna",
+          "m": "SoSlokAnaH",
+          "f": "SoSlokAnA",
+          "n": "SoSlokAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SoSlokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SoSlokaka",
+          "m": "SoSlokakaH",
+          "f": "SoSlokikA",
+          "n": "SoSlokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SoSlokitavya",
+          "m": "SoSlokitavyaH",
+          "f": "SoSlokitavyA",
+          "n": "SoSlokitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SoSlokitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SoSlokitf",
+          "m": "SoSlokitA",
+          "f": "SoSlokitrI",
+          "n": "SoSlokitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SoSlokyamAna",
+          "m": "SoSlokyamAnaH",
+          "f": "SoSlokyamAnA",
+          "n": "SoSlokyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSoSlokya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SoSlokana",
+          "m": "",
+          "f": "",
+          "n": "SoSlokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SoSlokaka",
+          "m": "SoSlokakaH",
+          "f": "SoSlokikA",
+          "n": "SoSlokakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SoSlokat",
+          "m": "SoSlokat/SoSlokad",
+          "f": "SoSlokatI",
+          "n": "SoSlokat/SoSlokad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SoSlokizyamARa",
+          "m": "SoSlokizyamARaH",
+          "f": "SoSlokizyamARA",
+          "n": "SoSlokizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SoSlokizyat",
+          "m": "SoSlokizyan",
+          "f": "SoSlokizyatI/SoSlokizyantI",
+          "n": "SoSlokizyat/SoSlokizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Slok",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "upa",
+      "examples": [
+        "'upaSlokyasya mAhAtmyAdujjvalAH kAvyasampadaH' (BA0 kAvyA0 ). upaSlokyaH stutyaH kIrtyaH."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "upa": {
+      "prefix": "upa",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "upaSlokizIzwa",
+            "upaSlokizIyAstAm",
+            "upaSlokizIran",
+            "upaSlokizIzWAH",
+            "upaSlokizIyAsTAm",
+            "upaSlokizIDvam",
+            "upaSlokizIya",
+            "upaSlokizIvahi",
+            "upaSlokizImahi"
+          ],
+          "alang": [
+            "upASlokata",
+            "upASloketAm",
+            "upASlokanta",
+            "upASlokaTAH",
+            "upASlokeTAm",
+            "upASlokaDvam",
+            "upASloke",
+            "upASlokAvahi",
+            "upASlokAmahi"
+          ],
+          "alat": [
+            "upaSlokate",
+            "upaSlokete",
+            "upaSlokante",
+            "upaSlokase",
+            "upaSlokeTe",
+            "upaSlokaDve",
+            "upaSloke",
+            "upaSlokAvahe",
+            "upaSlokAmahe"
+          ],
+          "alit": [
+            "upaSuSloke",
+            "upaSuSlokAte",
+            "upaSuSlokire",
+            "upaSuSlokize",
+            "upaSuSlokATe",
+            "upaSuSlokiDve",
+            "upaSuSloke",
+            "upaSuSlokivahe",
+            "upaSuSlokimahe"
+          ],
+          "alot": [
+            "upaSlokatAm",
+            "upaSloketAm",
+            "upaSlokantAm",
+            "upaSlokasva",
+            "upaSlokeTAm",
+            "upaSlokaDvam",
+            "upaSlokE",
+            "upaSlokAvahE",
+            "upaSlokAmahE"
+          ],
+          "alrung": [
+            "upASlokizyata",
+            "upASlokizyetAm",
+            "upASlokizyanta",
+            "upASlokizyaTAH",
+            "upASlokizyeTAm",
+            "upASlokizyaDvam",
+            "upASlokizye",
+            "upASlokizyAvahi",
+            "upASlokizyAmahi"
+          ],
+          "alrut": [
+            "upaSlokizyate",
+            "upaSlokizyete",
+            "upaSlokizyante",
+            "upaSlokizyase",
+            "upaSlokizyeTe",
+            "upaSlokizyaDve",
+            "upaSlokizye",
+            "upaSlokizyAvahe",
+            "upaSlokizyAmahe"
+          ],
+          "alung": [
+            "upASlokizwa",
+            "upASlokizAtAm",
+            "upASlokizata",
+            "upASlokizWAH",
+            "upASlokizATAm",
+            "upASlokiDvam",
+            "upASlokizi",
+            "upASlokizvahi",
+            "upASlokizmahi"
+          ],
+          "alut": [
+            "upaSlokitA",
+            "upaSlokitArO",
+            "upaSlokitAraH",
+            "upaSlokitAse",
+            "upaSlokitAsATe",
+            "upaSlokitADve",
+            "upaSlokitAhe",
+            "upaSlokitAsvahe",
+            "upaSlokitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSloketa",
+            "upaSlokeyAtAm",
+            "upaSlokeran",
+            "upaSlokeTAH",
+            "upaSlokeyATAm",
+            "upaSlokeDvam",
+            "upaSlokeya",
+            "upaSlokevahi",
+            "upaSlokemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "upaSlokizIzwa",
+            "upaSlokizIyAstAm",
+            "upaSlokizIran",
+            "upaSlokizIzWAH",
+            "upaSlokizIyAsTAm",
+            "upaSlokizIDvam",
+            "upaSlokizIya",
+            "upaSlokizIvahi",
+            "upaSlokizImahi"
+          ],
+          "alang": [
+            "upASlokyata",
+            "upASlokyetAm",
+            "upASlokyanta",
+            "upASlokyaTAH",
+            "upASlokyeTAm",
+            "upASlokyaDvam",
+            "upASlokye",
+            "upASlokyAvahi",
+            "upASlokyAmahi"
+          ],
+          "alat": [
+            "upaSlokyate",
+            "upaSlokyete",
+            "upaSlokyante",
+            "upaSlokyase",
+            "upaSlokyeTe",
+            "upaSlokyaDve",
+            "upaSlokye",
+            "upaSlokyAvahe",
+            "upaSlokyAmahe"
+          ],
+          "alit": [
+            "upaSuSloke",
+            "upaSuSlokAte",
+            "upaSuSlokire",
+            "upaSuSlokize",
+            "upaSuSlokATe",
+            "upaSuSlokiDve",
+            "upaSuSloke",
+            "upaSuSlokivahe",
+            "upaSuSlokimahe"
+          ],
+          "alot": [
+            "upaSlokyatAm",
+            "upaSlokyetAm",
+            "upaSlokyantAm",
+            "upaSlokyasva",
+            "upaSlokyeTAm",
+            "upaSlokyaDvam",
+            "upaSlokyE",
+            "upaSlokyAvahE",
+            "upaSlokyAmahE"
+          ],
+          "alrung": [
+            "upASlokizyata",
+            "upASlokizyetAm",
+            "upASlokizyanta",
+            "upASlokizyaTAH",
+            "upASlokizyeTAm",
+            "upASlokizyaDvam",
+            "upASlokizye",
+            "upASlokizyAvahi",
+            "upASlokizyAmahi"
+          ],
+          "alrut": [
+            "upaSlokizyate",
+            "upaSlokizyete",
+            "upaSlokizyante",
+            "upaSlokizyase",
+            "upaSlokizyeTe",
+            "upaSlokizyaDve",
+            "upaSlokizye",
+            "upaSlokizyAvahe",
+            "upaSlokizyAmahe"
+          ],
+          "alung": [
+            "upASloki",
+            "upASlokizAtAm",
+            "upASlokizata",
+            "upASlokizWAH",
+            "upASlokizATAm",
+            "upASlokiDvam",
+            "upASlokizi",
+            "upASlokizvahi",
+            "upASlokizmahi"
+          ],
+          "alut": [
+            "upaSlokitA",
+            "upaSlokitArO",
+            "upaSlokitAraH",
+            "upaSlokitAse",
+            "upaSlokitAsATe",
+            "upaSlokitADve",
+            "upaSlokitAhe",
+            "upaSlokitAsvahe",
+            "upaSlokitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSlokyeta",
+            "upaSlokyeyAtAm",
+            "upaSlokyeran",
+            "upaSlokyeTAH",
+            "upaSlokyeyATAm",
+            "upaSlokyeDvam",
+            "upaSlokyeya",
+            "upaSlokyevahi",
+            "upaSlokyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "upaSuSlokizizIzwa",
+            "upaSuSlokizizIyAstAm",
+            "upaSuSlokizizIran",
+            "upaSuSlokizizIzWAH",
+            "upaSuSlokizizIyAsTAm",
+            "upaSuSlokizizIDvam",
+            "upaSuSlokizizIya",
+            "upaSuSlokizizIvahi",
+            "upaSuSlokizizImahi"
+          ],
+          "alang": [
+            "upASuSlokizata",
+            "upASuSlokizetAm",
+            "upASuSlokizanta",
+            "upASuSlokizaTAH",
+            "upASuSlokizeTAm",
+            "upASuSlokizaDvam",
+            "upASuSlokize",
+            "upASuSlokizAvahi",
+            "upASuSlokizAmahi"
+          ],
+          "alat": [
+            "upaSuSlokizate",
+            "upaSuSlokizete",
+            "upaSuSlokizante",
+            "upaSuSlokizase",
+            "upaSuSlokizeTe",
+            "upaSuSlokizaDve",
+            "upaSuSlokize",
+            "upaSuSlokizAvahe",
+            "upaSuSlokizAmahe"
+          ],
+          "alit": [
+            "upaSuSlokizAmbaBUva",
+            "upaSuSlokizAmAsa",
+            "upaSuSlokizAYcakre",
+            "upaSuSlokizAmbaBUvatuH",
+            "upaSuSlokizAmAsatuH",
+            "upaSuSlokizAYcakrAte",
+            "upaSuSlokizAmbaBUvuH",
+            "upaSuSlokizAmAsuH",
+            "upaSuSlokizAYcakrire",
+            "upaSuSlokizAmbaBUviTa",
+            "upaSuSlokizAmAsiTa",
+            "upaSuSlokizAYcakfze",
+            "upaSuSlokizAmbaBUvaTuH",
+            "upaSuSlokizAmAsaTuH",
+            "upaSuSlokizAYcakrATe",
+            "upaSuSlokizAmbaBUva",
+            "upaSuSlokizAmAsa",
+            "upaSuSlokizAYcakfQve",
+            "upaSuSlokizAmbaBUva",
+            "upaSuSlokizAmAsa",
+            "upaSuSlokizAYcakre",
+            "upaSuSlokizAmbaBUviva",
+            "upaSuSlokizAmAsiva",
+            "upaSuSlokizAYcakfvahe",
+            "upaSuSlokizAmbaBUvima",
+            "upaSuSlokizAmAsima",
+            "upaSuSlokizAYcakfmahe"
+          ],
+          "alot": [
+            "upaSuSlokizatAm",
+            "upaSuSlokizetAm",
+            "upaSuSlokizantAm",
+            "upaSuSlokizasva",
+            "upaSuSlokizeTAm",
+            "upaSuSlokizaDvam",
+            "upaSuSlokizE",
+            "upaSuSlokizAvahE",
+            "upaSuSlokizAmahE"
+          ],
+          "alrung": [
+            "upASuSlokizizyata",
+            "upASuSlokizizyetAm",
+            "upASuSlokizizyanta",
+            "upASuSlokizizyaTAH",
+            "upASuSlokizizyeTAm",
+            "upASuSlokizizyaDvam",
+            "upASuSlokizizye",
+            "upASuSlokizizyAvahi",
+            "upASuSlokizizyAmahi"
+          ],
+          "alrut": [
+            "upaSuSlokizizyate",
+            "upaSuSlokizizyete",
+            "upaSuSlokizizyante",
+            "upaSuSlokizizyase",
+            "upaSuSlokizizyeTe",
+            "upaSuSlokizizyaDve",
+            "upaSuSlokizizye",
+            "upaSuSlokizizyAvahe",
+            "upaSuSlokizizyAmahe"
+          ],
+          "alung": [
+            "upASuSlokizizwa",
+            "upASuSlokizizAtAm",
+            "upASuSlokizizata",
+            "upASuSlokizizWAH",
+            "upASuSlokizizATAm",
+            "upASuSlokiziDvam",
+            "upASuSlokizizi",
+            "upASuSlokizizvahi",
+            "upASuSlokizizmahi"
+          ],
+          "alut": [
+            "upaSuSlokizitA",
+            "upaSuSlokizitArO",
+            "upaSuSlokizitAraH",
+            "upaSuSlokizitAse",
+            "upaSuSlokizitAsATe",
+            "upaSuSlokizitADve",
+            "upaSuSlokizitAhe",
+            "upaSuSlokizitAsvahe",
+            "upaSuSlokizitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSuSlokizeta",
+            "upaSuSlokizeyAtAm",
+            "upaSuSlokizeran",
+            "upaSuSlokizeTAH",
+            "upaSuSlokizeyATAm",
+            "upaSuSlokizeDvam",
+            "upaSuSlokizeya",
+            "upaSuSlokizevahi",
+            "upaSuSlokizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "upaSuSlokizizIzwa",
+            "upaSuSlokizizIyAstAm",
+            "upaSuSlokizizIran",
+            "upaSuSlokizizIzWAH",
+            "upaSuSlokizizIyAsTAm",
+            "upaSuSlokizizIDvam",
+            "upaSuSlokizizIya",
+            "upaSuSlokizizIvahi",
+            "upaSuSlokizizImahi"
+          ],
+          "alang": [
+            "upASuSlokizyata",
+            "upASuSlokizyetAm",
+            "upASuSlokizyanta",
+            "upASuSlokizyaTAH",
+            "upASuSlokizyeTAm",
+            "upASuSlokizyaDvam",
+            "upASuSlokizye",
+            "upASuSlokizyAvahi",
+            "upASuSlokizyAmahi"
+          ],
+          "alat": [
+            "upaSuSlokizyate",
+            "upaSuSlokizyete",
+            "upaSuSlokizyante",
+            "upaSuSlokizyase",
+            "upaSuSlokizyeTe",
+            "upaSuSlokizyaDve",
+            "upaSuSlokizye",
+            "upaSuSlokizyAvahe",
+            "upaSuSlokizyAmahe"
+          ],
+          "alit": [
+            "upaSuSlokizAmbaBUve",
+            "upaSuSlokizAmAse",
+            "upaSuSlokizAYcakre",
+            "upaSuSlokizAmbaBUvAte",
+            "upaSuSlokizAmAsAte",
+            "upaSuSlokizAYcakrAte",
+            "upaSuSlokizAmbaBUvire",
+            "upaSuSlokizAmAsire",
+            "upaSuSlokizAYcakrire",
+            "upaSuSlokizAmbaBUvize",
+            "upaSuSlokizAmAsize",
+            "upaSuSlokizAYcakfze",
+            "upaSuSlokizAmbaBUvATe",
+            "upaSuSlokizAmAsATe",
+            "upaSuSlokizAYcakrATe",
+            "upaSuSlokizAmbaBUviQve",
+            "upaSuSlokizAmAsiDve",
+            "upaSuSlokizAYcakfQve",
+            "upaSuSlokizAmbaBUve",
+            "upaSuSlokizAmAhe",
+            "upaSuSlokizAYcakre",
+            "upaSuSlokizAmbaBUvivahe",
+            "upaSuSlokizAmAsivahe",
+            "upaSuSlokizAYcakfvahe",
+            "upaSuSlokizAmbaBUvimahe",
+            "upaSuSlokizAmAsimahe",
+            "upaSuSlokizAYcakfmahe"
+          ],
+          "alot": [
+            "upaSuSlokizyatAm",
+            "upaSuSlokizyetAm",
+            "upaSuSlokizyantAm",
+            "upaSuSlokizyasva",
+            "upaSuSlokizyeTAm",
+            "upaSuSlokizyaDvam",
+            "upaSuSlokizyE",
+            "upaSuSlokizyAvahE",
+            "upaSuSlokizyAmahE"
+          ],
+          "alrung": [
+            "upASuSlokizizyata",
+            "upASuSlokizizyetAm",
+            "upASuSlokizizyanta",
+            "upASuSlokizizyaTAH",
+            "upASuSlokizizyeTAm",
+            "upASuSlokizizyaDvam",
+            "upASuSlokizizye",
+            "upASuSlokizizyAvahi",
+            "upASuSlokizizyAmahi"
+          ],
+          "alrut": [
+            "upaSuSlokizizyate",
+            "upaSuSlokizizyete",
+            "upaSuSlokizizyante",
+            "upaSuSlokizizyase",
+            "upaSuSlokizizyeTe",
+            "upaSuSlokizizyaDve",
+            "upaSuSlokizizye",
+            "upaSuSlokizizyAvahe",
+            "upaSuSlokizizyAmahe"
+          ],
+          "alung": [
+            "upASuSlokizi",
+            "upASuSlokizizAtAm",
+            "upASuSlokizizata",
+            "upASuSlokizizWAH",
+            "upASuSlokizizATAm",
+            "upASuSlokiziDvam",
+            "upASuSlokizizi",
+            "upASuSlokizizvahi",
+            "upASuSlokizizmahi"
+          ],
+          "alut": [
+            "upaSuSlokizitA",
+            "upaSuSlokizitArO",
+            "upaSuSlokizitAraH",
+            "upaSuSlokizitAse",
+            "upaSuSlokizitAsATe",
+            "upaSuSlokizitADve",
+            "upaSuSlokizitAhe",
+            "upaSuSlokizitAsvahe",
+            "upaSuSlokizitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSuSlokizyeta",
+            "upaSuSlokizyeyAtAm",
+            "upaSuSlokizyeran",
+            "upaSuSlokizyeTAH",
+            "upaSuSlokizyeyATAm",
+            "upaSuSlokizyeDvam",
+            "upaSuSlokizyeya",
+            "upaSuSlokizyevahi",
+            "upaSuSlokizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "upaSlokayizIzwa",
+            "upaSlokayizIyAstAm",
+            "upaSlokayizIran",
+            "upaSlokayizIzWAH",
+            "upaSlokayizIyAsTAm",
+            "upaSlokayizIQvam",
+            "upaSlokayizIDvam",
+            "upaSlokayizIya",
+            "upaSlokayizIvahi",
+            "upaSlokayizImahi"
+          ],
+          "alang": [
+            "upASlokayata",
+            "upASlokayetAm",
+            "upASlokayanta",
+            "upASlokayaTAH",
+            "upASlokayeTAm",
+            "upASlokayaDvam",
+            "upASlokaye",
+            "upASlokayAvahi",
+            "upASlokayAmahi"
+          ],
+          "alat": [
+            "upaSlokayate",
+            "upaSlokayete",
+            "upaSlokayante",
+            "upaSlokayase",
+            "upaSlokayeTe",
+            "upaSlokayaDve",
+            "upaSlokaye",
+            "upaSlokayAvahe",
+            "upaSlokayAmahe"
+          ],
+          "alit": [
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakre",
+            "upaSlokayAmbaBUvatuH",
+            "upaSlokayAmAsatuH",
+            "upaSlokayAYcakrAte",
+            "upaSlokayAmbaBUvuH",
+            "upaSlokayAmAsuH",
+            "upaSlokayAYcakrire",
+            "upaSlokayAmbaBUviTa",
+            "upaSlokayAmAsiTa",
+            "upaSlokayAYcakfze",
+            "upaSlokayAmbaBUvaTuH",
+            "upaSlokayAmAsaTuH",
+            "upaSlokayAYcakrATe",
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakfQve",
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakre",
+            "upaSlokayAmbaBUviva",
+            "upaSlokayAmAsiva",
+            "upaSlokayAYcakfvahe",
+            "upaSlokayAmbaBUvima",
+            "upaSlokayAmAsima",
+            "upaSlokayAYcakfmahe"
+          ],
+          "alot": [
+            "upaSlokayatAm",
+            "upaSlokayetAm",
+            "upaSlokayantAm",
+            "upaSlokayasva",
+            "upaSlokayeTAm",
+            "upaSlokayaDvam",
+            "upaSlokayE",
+            "upaSlokayAvahE",
+            "upaSlokayAmahE"
+          ],
+          "alrung": [
+            "upASlokayizyata",
+            "upASlokayizyetAm",
+            "upASlokayizyanta",
+            "upASlokayizyaTAH",
+            "upASlokayizyeTAm",
+            "upASlokayizyaDvam",
+            "upASlokayizye",
+            "upASlokayizyAvahi",
+            "upASlokayizyAmahi"
+          ],
+          "alrut": [
+            "upaSlokayizyate",
+            "upaSlokayizyete",
+            "upaSlokayizyante",
+            "upaSlokayizyase",
+            "upaSlokayizyeTe",
+            "upaSlokayizyaDve",
+            "upaSlokayizye",
+            "upaSlokayizyAvahe",
+            "upaSlokayizyAmahe"
+          ],
+          "alung": [
+            "upASuSlokata",
+            "upASuSloketAm",
+            "upASuSlokanta",
+            "upASuSlokaTAH",
+            "upASuSlokeTAm",
+            "upASuSlokaDvam",
+            "upASuSloke",
+            "upASuSlokAvahi",
+            "upASuSlokAmahi"
+          ],
+          "alut": [
+            "upaSlokayitA",
+            "upaSlokayitArO",
+            "upaSlokayitAraH",
+            "upaSlokayitAse",
+            "upaSlokayitAsATe",
+            "upaSlokayitADve",
+            "upaSlokayitAhe",
+            "upaSlokayitAsvahe",
+            "upaSlokayitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSlokayeta",
+            "upaSlokayeyAtAm",
+            "upaSlokayeran",
+            "upaSlokayeTAH",
+            "upaSlokayeyATAm",
+            "upaSlokayeDvam",
+            "upaSlokayeya",
+            "upaSlokayevahi",
+            "upaSlokayemahi"
+          ],
+          "pashirling": [
+            "upaSlokyAt",
+            "upaSlokyAd",
+            "upaSlokyAstAm",
+            "upaSlokyAsuH",
+            "upaSlokyAH",
+            "upaSlokyAstam",
+            "upaSlokyAsta",
+            "upaSlokyAsam",
+            "upaSlokyAsva",
+            "upaSlokyAsma"
+          ],
+          "plang": [
+            "upASlokayat",
+            "upASlokayad",
+            "upASlokayatAm",
+            "upASlokayan",
+            "upASlokayaH",
+            "upASlokayatam",
+            "upASlokayata",
+            "upASlokayam",
+            "upASlokayAva",
+            "upASlokayAma"
+          ],
+          "plat": [
+            "upaSlokayati",
+            "upaSlokayataH",
+            "upaSlokayanti",
+            "upaSlokayasi",
+            "upaSlokayaTaH",
+            "upaSlokayaTa",
+            "upaSlokayAmi",
+            "upaSlokayAvaH",
+            "upaSlokayAmaH"
+          ],
+          "plit": [
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakAra",
+            "upaSlokayAmbaBUvatuH",
+            "upaSlokayAmAsatuH",
+            "upaSlokayAYcakratuH",
+            "upaSlokayAmbaBUvuH",
+            "upaSlokayAmAsuH",
+            "upaSlokayAYcakruH",
+            "upaSlokayAmbaBUviTa",
+            "upaSlokayAmAsiTa",
+            "upaSlokayAYcakarTa",
+            "upaSlokayAmbaBUvaTuH",
+            "upaSlokayAmAsaTuH",
+            "upaSlokayAYcakraTuH",
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakra",
+            "upaSlokayAmbaBUva",
+            "upaSlokayAmAsa",
+            "upaSlokayAYcakara",
+            "upaSlokayAYcakAra",
+            "upaSlokayAmbaBUviva",
+            "upaSlokayAmAsiva",
+            "upaSlokayAYcakfva",
+            "upaSlokayAmbaBUvima",
+            "upaSlokayAmAsima",
+            "upaSlokayAYcakfma"
+          ],
+          "plot": [
+            "upaSlokayatAt",
+            "upaSlokayatAd",
+            "upaSlokayatu",
+            "upaSlokayatAm",
+            "upaSlokayantu",
+            "upaSlokayatAt",
+            "upaSlokayatAd",
+            "upaSlokaya",
+            "upaSlokayatam",
+            "upaSlokayata",
+            "upaSlokayAni",
+            "upaSlokayAva",
+            "upaSlokayAma"
+          ],
+          "plrung": [
+            "upASlokayizyat",
+            "upASlokayizyad",
+            "upASlokayizyatAm",
+            "upASlokayizyan",
+            "upASlokayizyaH",
+            "upASlokayizyatam",
+            "upASlokayizyata",
+            "upASlokayizyam",
+            "upASlokayizyAva",
+            "upASlokayizyAma"
+          ],
+          "plrut": [
+            "upaSlokayizyati",
+            "upaSlokayizyataH",
+            "upaSlokayizyanti",
+            "upaSlokayizyasi",
+            "upaSlokayizyaTaH",
+            "upaSlokayizyaTa",
+            "upaSlokayizyAmi",
+            "upaSlokayizyAvaH",
+            "upaSlokayizyAmaH"
+          ],
+          "plung": [
+            "upASuSlokat",
+            "upASuSlokad",
+            "upASuSlokatAm",
+            "upASuSlokan",
+            "upASuSlokaH",
+            "upASuSlokatam",
+            "upASuSlokata",
+            "upASuSlokam",
+            "upASuSlokAva",
+            "upASuSlokAma"
+          ],
+          "plut": [
+            "upaSlokayitA",
+            "upaSlokayitArO",
+            "upaSlokayitAraH",
+            "upaSlokayitAsi",
+            "upaSlokayitAsTaH",
+            "upaSlokayitAsTa",
+            "upaSlokayitAsmi",
+            "upaSlokayitAsvaH",
+            "upaSlokayitAsmaH"
+          ],
+          "pvidhiling": [
+            "upaSlokayet",
+            "upaSlokayed",
+            "upaSlokayetAm",
+            "upaSlokayeyuH",
+            "upaSlokayeH",
+            "upaSlokayetam",
+            "upaSlokayeta",
+            "upaSlokayeyam",
+            "upaSlokayeva",
+            "upaSlokayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "upaSlokizIzwa",
+            "upaSlokayizIzwa",
+            "upaSlokizIyAstAm",
+            "upaSlokayizIyAstAm",
+            "upaSlokizIran",
+            "upaSlokayizIran",
+            "upaSlokizIzWAH",
+            "upaSlokayizIzWAH",
+            "upaSlokizIyAsTAm",
+            "upaSlokayizIyAsTAm",
+            "upaSlokizIDvam",
+            "upaSlokayizIQvam",
+            "upaSlokayizIDvam",
+            "upaSlokizIya",
+            "upaSlokayizIya",
+            "upaSlokizIvahi",
+            "upaSlokayizIvahi",
+            "upaSlokizImahi",
+            "upaSlokayizImahi"
+          ],
+          "alang": [
+            "upASlokyata",
+            "upASlokyetAm",
+            "upASlokyanta",
+            "upASlokyaTAH",
+            "upASlokyeTAm",
+            "upASlokyaDvam",
+            "upASlokye",
+            "upASlokyAvahi",
+            "upASlokyAmahi"
+          ],
+          "alat": [
+            "upaSlokyate",
+            "upaSlokyete",
+            "upaSlokyante",
+            "upaSlokyase",
+            "upaSlokyeTe",
+            "upaSlokyaDve",
+            "upaSlokye",
+            "upaSlokyAvahe",
+            "upaSlokyAmahe"
+          ],
+          "alit": [
+            "upaSlokayAmbaBUve",
+            "upaSlokayAmAse",
+            "upaSlokayAYcakre",
+            "upaSlokayAmbaBUvAte",
+            "upaSlokayAmAsAte",
+            "upaSlokayAYcakrAte",
+            "upaSlokayAmbaBUvire",
+            "upaSlokayAmAsire",
+            "upaSlokayAYcakrire",
+            "upaSlokayAmbaBUvize",
+            "upaSlokayAmAsize",
+            "upaSlokayAYcakfze",
+            "upaSlokayAmbaBUvATe",
+            "upaSlokayAmAsATe",
+            "upaSlokayAYcakrATe",
+            "upaSlokayAmbaBUviQve",
+            "upaSlokayAmAsiDve",
+            "upaSlokayAYcakfQve",
+            "upaSlokayAmbaBUve",
+            "upaSlokayAmAhe",
+            "upaSlokayAYcakre",
+            "upaSlokayAmbaBUvivahe",
+            "upaSlokayAmAsivahe",
+            "upaSlokayAYcakfvahe",
+            "upaSlokayAmbaBUvimahe",
+            "upaSlokayAmAsimahe",
+            "upaSlokayAYcakfmahe"
+          ],
+          "alot": [
+            "upaSlokyatAm",
+            "upaSlokyetAm",
+            "upaSlokyantAm",
+            "upaSlokyasva",
+            "upaSlokyeTAm",
+            "upaSlokyaDvam",
+            "upaSlokyE",
+            "upaSlokyAvahE",
+            "upaSlokyAmahE"
+          ],
+          "alrung": [
+            "upASlokizyata",
+            "upASlokayizyata",
+            "upASlokizyetAm",
+            "upASlokayizyetAm",
+            "upASlokizyanta",
+            "upASlokayizyanta",
+            "upASlokizyaTAH",
+            "upASlokayizyaTAH",
+            "upASlokizyeTAm",
+            "upASlokayizyeTAm",
+            "upASlokizyaDvam",
+            "upASlokayizyaDvam",
+            "upASlokizye",
+            "upASlokayizye",
+            "upASlokizyAvahi",
+            "upASlokayizyAvahi",
+            "upASlokizyAmahi",
+            "upASlokayizyAmahi"
+          ],
+          "alrut": [
+            "upaSlokizyate",
+            "upaSlokayizyate",
+            "upaSlokizyete",
+            "upaSlokayizyete",
+            "upaSlokizyante",
+            "upaSlokayizyante",
+            "upaSlokizyase",
+            "upaSlokayizyase",
+            "upaSlokizyeTe",
+            "upaSlokayizyeTe",
+            "upaSlokizyaDve",
+            "upaSlokayizyaDve",
+            "upaSlokizye",
+            "upaSlokayizye",
+            "upaSlokizyAvahe",
+            "upaSlokayizyAvahe",
+            "upaSlokizyAmahe",
+            "upaSlokayizyAmahe"
+          ],
+          "alung": [
+            "upASloki",
+            "upASlokizAtAm",
+            "upASlokayizAtAm",
+            "upASlokizata",
+            "upASlokayizata",
+            "upASlokizWAH",
+            "upASlokayizWAH",
+            "upASlokizATAm",
+            "upASlokayizATAm",
+            "upASlokiDvam",
+            "upASlokayiQvam",
+            "upASlokayiDvam",
+            "upASlokizi",
+            "upASlokayizi",
+            "upASlokizvahi",
+            "upASlokayizvahi",
+            "upASlokizmahi",
+            "upASlokayizmahi"
+          ],
+          "alut": [
+            "upaSlokitA",
+            "upaSlokayitA",
+            "upaSlokitArO",
+            "upaSlokayitArO",
+            "upaSlokitAraH",
+            "upaSlokayitAraH",
+            "upaSlokitAse",
+            "upaSlokayitAse",
+            "upaSlokitAsATe",
+            "upaSlokayitAsATe",
+            "upaSlokitADve",
+            "upaSlokayitADve",
+            "upaSlokitAhe",
+            "upaSlokayitAhe",
+            "upaSlokitAsvahe",
+            "upaSlokayitAsvahe",
+            "upaSlokitAsmahe",
+            "upaSlokayitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSlokyeta",
+            "upaSlokyeyAtAm",
+            "upaSlokyeran",
+            "upaSlokyeTAH",
+            "upaSlokyeyATAm",
+            "upaSlokyeDvam",
+            "upaSlokyeya",
+            "upaSlokyevahi",
+            "upaSlokyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "upaSoSlokizIzwa",
+            "upaSoSlokizIyAstAm",
+            "upaSoSlokizIran",
+            "upaSoSlokizIzWAH",
+            "upaSoSlokizIyAsTAm",
+            "upaSoSlokizIDvam",
+            "upaSoSlokizIya",
+            "upaSoSlokizIvahi",
+            "upaSoSlokizImahi"
+          ],
+          "alang": [
+            "upASoSlokyata",
+            "upASoSlokyetAm",
+            "upASoSlokyanta",
+            "upASoSlokyaTAH",
+            "upASoSlokyeTAm",
+            "upASoSlokyaDvam",
+            "upASoSlokye",
+            "upASoSlokyAvahi",
+            "upASoSlokyAmahi"
+          ],
+          "alat": [
+            "upaSoSlokyate",
+            "upaSoSlokyete",
+            "upaSoSlokyante",
+            "upaSoSlokyase",
+            "upaSoSlokyeTe",
+            "upaSoSlokyaDve",
+            "upaSoSlokye",
+            "upaSoSlokyAvahe",
+            "upaSoSlokyAmahe"
+          ],
+          "alit": [
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUvatuH",
+            "upaSoSlokAmAsatuH",
+            "upaSoSlokAYcakrAte",
+            "upaSoSlokAmbaBUvuH",
+            "upaSoSlokAmAsuH",
+            "upaSoSlokAYcakrire",
+            "upaSoSlokAmbaBUviTa",
+            "upaSoSlokAmAsiTa",
+            "upaSoSlokAYcakfze",
+            "upaSoSlokAmbaBUvaTuH",
+            "upaSoSlokAmAsaTuH",
+            "upaSoSlokAYcakrATe",
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakfQve",
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUviva",
+            "upaSoSlokAmAsiva",
+            "upaSoSlokAYcakfvahe",
+            "upaSoSlokAmbaBUvima",
+            "upaSoSlokAmAsima",
+            "upaSoSlokAYcakfmahe"
+          ],
+          "alot": [
+            "upaSoSlokyatAm",
+            "upaSoSlokyetAm",
+            "upaSoSlokyantAm",
+            "upaSoSlokyasva",
+            "upaSoSlokyeTAm",
+            "upaSoSlokyaDvam",
+            "upaSoSlokyE",
+            "upaSoSlokyAvahE",
+            "upaSoSlokyAmahE"
+          ],
+          "alrung": [
+            "upASoSlokizyata",
+            "upASoSlokizyetAm",
+            "upASoSlokizyanta",
+            "upASoSlokizyaTAH",
+            "upASoSlokizyeTAm",
+            "upASoSlokizyaDvam",
+            "upASoSlokizye",
+            "upASoSlokizyAvahi",
+            "upASoSlokizyAmahi"
+          ],
+          "alrut": [
+            "upaSoSlokizyate",
+            "upaSoSlokizyete",
+            "upaSoSlokizyante",
+            "upaSoSlokizyase",
+            "upaSoSlokizyeTe",
+            "upaSoSlokizyaDve",
+            "upaSoSlokizye",
+            "upaSoSlokizyAvahe",
+            "upaSoSlokizyAmahe"
+          ],
+          "alung": [
+            "upASoSlokizwa",
+            "upASoSlokizAtAm",
+            "upASoSlokizata",
+            "upASoSlokizWAH",
+            "upASoSlokizATAm",
+            "upASoSlokiDvam",
+            "upASoSlokizi",
+            "upASoSlokizvahi",
+            "upASoSlokizmahi"
+          ],
+          "alut": [
+            "upaSoSlokitA",
+            "upaSoSlokitArO",
+            "upaSoSlokitAraH",
+            "upaSoSlokitAse",
+            "upaSoSlokitAsATe",
+            "upaSoSlokitADve",
+            "upaSoSlokitAhe",
+            "upaSoSlokitAsvahe",
+            "upaSoSlokitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSoSlokyeta",
+            "upaSoSlokyeyAtAm",
+            "upaSoSlokyeran",
+            "upaSoSlokyeTAH",
+            "upaSoSlokyeyATAm",
+            "upaSoSlokyeDvam",
+            "upaSoSlokyeya",
+            "upaSoSlokyevahi",
+            "upaSoSlokyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "upaSoSlokizIzwa",
+            "upaSoSlokizIyAstAm",
+            "upaSoSlokizIran",
+            "upaSoSlokizIzWAH",
+            "upaSoSlokizIyAsTAm",
+            "upaSoSlokizIDvam",
+            "upaSoSlokizIya",
+            "upaSoSlokizIvahi",
+            "upaSoSlokizImahi"
+          ],
+          "alang": [
+            "upASoSlokyata",
+            "upASoSlokyetAm",
+            "upASoSlokyanta",
+            "upASoSlokyaTAH",
+            "upASoSlokyeTAm",
+            "upASoSlokyaDvam",
+            "upASoSlokye",
+            "upASoSlokyAvahi",
+            "upASoSlokyAmahi"
+          ],
+          "alat": [
+            "upaSoSlokyate",
+            "upaSoSlokyete",
+            "upaSoSlokyante",
+            "upaSoSlokyase",
+            "upaSoSlokyeTe",
+            "upaSoSlokyaDve",
+            "upaSoSlokye",
+            "upaSoSlokyAvahe",
+            "upaSoSlokyAmahe"
+          ],
+          "alit": [
+            "upaSoSlokAmbaBUve",
+            "upaSoSlokAmAse",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUvAte",
+            "upaSoSlokAmAsAte",
+            "upaSoSlokAYcakrAte",
+            "upaSoSlokAmbaBUvire",
+            "upaSoSlokAmAsire",
+            "upaSoSlokAYcakrire",
+            "upaSoSlokAmbaBUvize",
+            "upaSoSlokAmAsize",
+            "upaSoSlokAYcakfze",
+            "upaSoSlokAmbaBUvATe",
+            "upaSoSlokAmAsATe",
+            "upaSoSlokAYcakrATe",
+            "upaSoSlokAmbaBUviQve",
+            "upaSoSlokAmAsiDve",
+            "upaSoSlokAYcakfQve",
+            "upaSoSlokAmbaBUve",
+            "upaSoSlokAmAhe",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUvivahe",
+            "upaSoSlokAmAsivahe",
+            "upaSoSlokAYcakfvahe",
+            "upaSoSlokAmbaBUvimahe",
+            "upaSoSlokAmAsimahe",
+            "upaSoSlokAYcakfmahe"
+          ],
+          "alot": [
+            "upaSoSlokyatAm",
+            "upaSoSlokyetAm",
+            "upaSoSlokyantAm",
+            "upaSoSlokyasva",
+            "upaSoSlokyeTAm",
+            "upaSoSlokyaDvam",
+            "upaSoSlokyE",
+            "upaSoSlokyAvahE",
+            "upaSoSlokyAmahE"
+          ],
+          "alrung": [
+            "upASoSlokizyata",
+            "upASoSlokizyetAm",
+            "upASoSlokizyanta",
+            "upASoSlokizyaTAH",
+            "upASoSlokizyeTAm",
+            "upASoSlokizyaDvam",
+            "upASoSlokizye",
+            "upASoSlokizyAvahi",
+            "upASoSlokizyAmahi"
+          ],
+          "alrut": [
+            "upaSoSlokizyate",
+            "upaSoSlokizyete",
+            "upaSoSlokizyante",
+            "upaSoSlokizyase",
+            "upaSoSlokizyeTe",
+            "upaSoSlokizyaDve",
+            "upaSoSlokizye",
+            "upaSoSlokizyAvahe",
+            "upaSoSlokizyAmahe"
+          ],
+          "alung": [
+            "upASoSloki",
+            "upASoSlokizAtAm",
+            "upASoSlokizata",
+            "upASoSlokizWAH",
+            "upASoSlokizATAm",
+            "upASoSlokiDvam",
+            "upASoSlokizi",
+            "upASoSlokizvahi",
+            "upASoSlokizmahi"
+          ],
+          "alut": [
+            "upaSoSlokitA",
+            "upaSoSlokitArO",
+            "upaSoSlokitAraH",
+            "upaSoSlokitAse",
+            "upaSoSlokitAsATe",
+            "upaSoSlokitADve",
+            "upaSoSlokitAhe",
+            "upaSoSlokitAsvahe",
+            "upaSoSlokitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSoSlokyeta",
+            "upaSoSlokyeyAtAm",
+            "upaSoSlokyeran",
+            "upaSoSlokyeTAH",
+            "upaSoSlokyeyATAm",
+            "upaSoSlokyeDvam",
+            "upaSoSlokyeya",
+            "upaSoSlokyevahi",
+            "upaSoSlokyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "upaSoSlokyAt",
+            "upaSoSlokyAd",
+            "upaSoSlokyAstAm",
+            "upaSoSlokyAsuH",
+            "upaSoSlokyAH",
+            "upaSoSlokyAstam",
+            "upaSoSlokyAsta",
+            "upaSoSlokyAsam",
+            "upaSoSlokyAsva",
+            "upaSoSlokyAsma"
+          ],
+          "plang": [
+            "upASoSlokIt",
+            "upASoSlokId",
+            "upASoSlok",
+            "upASoSlog",
+            "upASoSloktAm",
+            "upASoSlokuH",
+            "upASoSlokIH",
+            "upASoSlok",
+            "upASoSlog",
+            "upASoSloktam",
+            "upASoSlokta",
+            "upASoSlokam",
+            "upASoSlokva",
+            "upASoSlokma"
+          ],
+          "plat": [
+            "upaSoSlokIti",
+            "upaSoSlokti",
+            "upaSoSloktaH",
+            "upaSoSlokati",
+            "upaSoSlokIzi",
+            "upaSoSlokzi",
+            "upaSoSlokTaH",
+            "upaSoSlokTa",
+            "upaSoSlokImi",
+            "upaSoSlokmi",
+            "upaSoSlokvaH",
+            "upaSoSlokmaH"
+          ],
+          "plit": [
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakAra",
+            "upaSoSlokAmbaBUvatuH",
+            "upaSoSlokAmAsatuH",
+            "upaSoSlokAYcakratuH",
+            "upaSoSlokAmbaBUvuH",
+            "upaSoSlokAmAsuH",
+            "upaSoSlokAYcakruH",
+            "upaSoSlokAmbaBUviTa",
+            "upaSoSlokAmAsiTa",
+            "upaSoSlokAYcakarTa",
+            "upaSoSlokAmbaBUvaTuH",
+            "upaSoSlokAmAsaTuH",
+            "upaSoSlokAYcakraTuH",
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakra",
+            "upaSoSlokAmbaBUva",
+            "upaSoSlokAmAsa",
+            "upaSoSlokAYcakara",
+            "upaSoSlokAYcakAra",
+            "upaSoSlokAmbaBUviva",
+            "upaSoSlokAmAsiva",
+            "upaSoSlokAYcakfva",
+            "upaSoSlokAmbaBUvima",
+            "upaSoSlokAmAsima",
+            "upaSoSlokAYcakfma"
+          ],
+          "plot": [
+            "upaSoSloktAt",
+            "upaSoSloktAd",
+            "upaSoSlokItu",
+            "upaSoSloktu",
+            "upaSoSloktAm",
+            "upaSoSlokatu",
+            "upaSoSloktAt",
+            "upaSoSloktAd",
+            "upaSoSlogDi",
+            "upaSoSloktam",
+            "upaSoSlokta",
+            "upaSoSlokAni",
+            "upaSoSlokAva",
+            "upaSoSlokAma"
+          ],
+          "plrung": [
+            "upASoSlokizyat",
+            "upASoSlokizyad",
+            "upASoSlokizyatAm",
+            "upASoSlokizyan",
+            "upASoSlokizyaH",
+            "upASoSlokizyatam",
+            "upASoSlokizyata",
+            "upASoSlokizyam",
+            "upASoSlokizyAva",
+            "upASoSlokizyAma"
+          ],
+          "plrut": [
+            "upaSoSlokizyati",
+            "upaSoSlokizyataH",
+            "upaSoSlokizyanti",
+            "upaSoSlokizyasi",
+            "upaSoSlokizyaTaH",
+            "upaSoSlokizyaTa",
+            "upaSoSlokizyAmi",
+            "upaSoSlokizyAvaH",
+            "upaSoSlokizyAmaH"
+          ],
+          "plung": [
+            "upASoSlokIt",
+            "upASoSlokId",
+            "upASoSlokizwAm",
+            "upASoSlokizuH",
+            "upASoSlokIH",
+            "upASoSlokizwam",
+            "upASoSlokizwa",
+            "upASoSlokizam",
+            "upASoSlokizva",
+            "upASoSlokizma"
+          ],
+          "plut": [
+            "upaSoSlokitA",
+            "upaSoSlokitArO",
+            "upaSoSlokitAraH",
+            "upaSoSlokitAsi",
+            "upaSoSlokitAsTaH",
+            "upaSoSlokitAsTa",
+            "upaSoSlokitAsmi",
+            "upaSoSlokitAsvaH",
+            "upaSoSlokitAsmaH"
+          ],
+          "pvidhiling": [
+            "upaSoSlokyAt",
+            "upaSoSlokyAd",
+            "upaSoSlokyAtAm",
+            "upaSoSlokyuH",
+            "upaSoSlokyAH",
+            "upaSoSlokyAtam",
+            "upaSoSlokyAta",
+            "upaSoSlokyAm",
+            "upaSoSlokyAva",
+            "upaSoSlokyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "upaSoSlokizIzwa",
+            "upaSoSlokizIyAstAm",
+            "upaSoSlokizIran",
+            "upaSoSlokizIzWAH",
+            "upaSoSlokizIyAsTAm",
+            "upaSoSlokizIDvam",
+            "upaSoSlokizIya",
+            "upaSoSlokizIvahi",
+            "upaSoSlokizImahi"
+          ],
+          "alang": [
+            "upASoSlokyata",
+            "upASoSlokyetAm",
+            "upASoSlokyanta",
+            "upASoSlokyaTAH",
+            "upASoSlokyeTAm",
+            "upASoSlokyaDvam",
+            "upASoSlokye",
+            "upASoSlokyAvahi",
+            "upASoSlokyAmahi"
+          ],
+          "alat": [
+            "upaSoSlokyate",
+            "upaSoSlokyete",
+            "upaSoSlokyante",
+            "upaSoSlokyase",
+            "upaSoSlokyeTe",
+            "upaSoSlokyaDve",
+            "upaSoSlokye",
+            "upaSoSlokyAvahe",
+            "upaSoSlokyAmahe"
+          ],
+          "alit": [
+            "upaSoSlokAmbaBUve",
+            "upaSoSlokAmAse",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUvAte",
+            "upaSoSlokAmAsAte",
+            "upaSoSlokAYcakrAte",
+            "upaSoSlokAmbaBUvire",
+            "upaSoSlokAmAsire",
+            "upaSoSlokAYcakrire",
+            "upaSoSlokAmbaBUvize",
+            "upaSoSlokAmAsize",
+            "upaSoSlokAYcakfze",
+            "upaSoSlokAmbaBUvATe",
+            "upaSoSlokAmAsATe",
+            "upaSoSlokAYcakrATe",
+            "upaSoSlokAmbaBUviQve",
+            "upaSoSlokAmAsiDve",
+            "upaSoSlokAYcakfQve",
+            "upaSoSlokAmbaBUve",
+            "upaSoSlokAmAhe",
+            "upaSoSlokAYcakre",
+            "upaSoSlokAmbaBUvivahe",
+            "upaSoSlokAmAsivahe",
+            "upaSoSlokAYcakfvahe",
+            "upaSoSlokAmbaBUvimahe",
+            "upaSoSlokAmAsimahe",
+            "upaSoSlokAYcakfmahe"
+          ],
+          "alot": [
+            "upaSoSlokyatAm",
+            "upaSoSlokyetAm",
+            "upaSoSlokyantAm",
+            "upaSoSlokyasva",
+            "upaSoSlokyeTAm",
+            "upaSoSlokyaDvam",
+            "upaSoSlokyE",
+            "upaSoSlokyAvahE",
+            "upaSoSlokyAmahE"
+          ],
+          "alrung": [
+            "upASoSlokizyata",
+            "upASoSlokizyetAm",
+            "upASoSlokizyanta",
+            "upASoSlokizyaTAH",
+            "upASoSlokizyeTAm",
+            "upASoSlokizyaDvam",
+            "upASoSlokizye",
+            "upASoSlokizyAvahi",
+            "upASoSlokizyAmahi"
+          ],
+          "alrut": [
+            "upaSoSlokizyate",
+            "upaSoSlokizyete",
+            "upaSoSlokizyante",
+            "upaSoSlokizyase",
+            "upaSoSlokizyeTe",
+            "upaSoSlokizyaDve",
+            "upaSoSlokizye",
+            "upaSoSlokizyAvahe",
+            "upaSoSlokizyAmahe"
+          ],
+          "alung": [
+            "upASoSloki",
+            "upASoSlokizAtAm",
+            "upASoSlokizata",
+            "upASoSlokizWAH",
+            "upASoSlokizATAm",
+            "upASoSlokiDvam",
+            "upASoSlokizi",
+            "upASoSlokizvahi",
+            "upASoSlokizmahi"
+          ],
+          "alut": [
+            "upaSoSlokitA",
+            "upaSoSlokitArO",
+            "upaSoSlokitAraH",
+            "upaSoSlokitAse",
+            "upaSoSlokitAsATe",
+            "upaSoSlokitADve",
+            "upaSoSlokitAhe",
+            "upaSoSlokitAsvahe",
+            "upaSoSlokitAsmahe"
+          ],
+          "avidhiling": [
+            "upaSoSlokyeta",
+            "upaSoSlokyeyAtAm",
+            "upaSoSlokyeran",
+            "upaSoSlokyeTAH",
+            "upaSoSlokyeyATAm",
+            "upaSoSlokyeDvam",
+            "upaSoSlokyeya",
+            "upaSoSlokyevahi",
+            "upaSoSlokyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "upaSlokA",
+              "m": "",
+              "f": "upaSlokA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upaSloka",
+              "m": "upaSlokaH",
+              "f": "upaSlokA",
+              "n": "upaSlokam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaSlokanIya",
+              "m": "upaSlokanIyaH",
+              "f": "upaSlokanIyA",
+              "n": "upaSlokanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaSlokita",
+              "m": "upaSlokitaH",
+              "f": "upaSlokitA",
+              "n": "upaSlokitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaSlokitavat",
+              "m": "upaSlokitavAn",
+              "f": "upaSlokitavatI",
+              "n": "upaSlokitavat/upaSlokitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaSlokti",
+              "m": "",
+              "f": "upaSloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaSuSlokvas",
+              "m": "upaSuSlokvAn",
+              "f": "upaSuSlokuzI",
+              "n": "upaSuSlokvat/upaSuSlokvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upaSloka",
+              "m": "upaSlokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaSlokamAna",
+              "m": "upaSlokamAnaH",
+              "f": "upaSlokamAnA",
+              "n": "upaSlokamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaSlokam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "upaSlokya",
+              "m": "upaSlokyaH",
+              "f": "upaSlokyA",
+              "n": "upaSlokyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaSlokaka",
+              "m": "upaSlokakaH",
+              "f": "upaSlokikA",
+              "n": "upaSlokakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaSlokitavya",
+              "m": "upaSlokitavyaH",
+              "f": "upaSlokitavyA",
+              "n": "upaSlokitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaSlokitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaSlokitf",
+              "m": "upaSlokitA",
+              "f": "upaSlokitrI",
+              "n": "upaSlokitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upaSlokamAna",
+              "m": "upaSlokamAnaH",
+              "f": "upaSlokamAnA",
+              "n": "upaSlokamAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaSlokya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaSlokana",
+              "m": "",
+              "f": "",
+              "n": "upaSlokanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaSlokaka",
+              "m": "upaSlokakaH",
+              "f": "upaSlokikA",
+              "n": "upaSlokakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upaSlokamAna",
+              "m": "upaSlokamAnaH",
+              "f": "upaSlokamAnA",
+              "n": "upaSlokamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upaSlokamAna",
+              "m": "upaSlokamAnaH",
+              "f": "upaSlokamAnA",
+              "n": "upaSlokamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upaSlokamAna",
+              "m": "upaSlokamAnaH",
+              "f": "upaSlokamAnA",
+              "n": "upaSlokamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "upaSuSlokizA",
+              "m": "",
+              "f": "upaSuSlokizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upaSuSlokiza",
+              "m": "upaSuSlokizaH",
+              "f": "upaSuSlokizA",
+              "n": "upaSuSlokizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaSuSlokizaRIya",
+              "m": "upaSuSlokizaRIyaH",
+              "f": "upaSuSlokizaRIyA",
+              "n": "upaSuSlokizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "upaSuSlokizu",
+              "m": "upaSuSlokizuH",
+              "f": "upaSuSlokizuH",
+              "n": "upaSuSlokizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaSuSlokizita",
+              "m": "upaSuSlokizitaH",
+              "f": "upaSuSlokizitA",
+              "n": "upaSuSlokizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaSuSlokizitavat",
+              "m": "upaSuSlokizitavAn",
+              "f": "upaSuSlokizitavatI",
+              "n": "upaSuSlokizitavat/upaSuSlokizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaSuSlokizwi",
+              "m": "",
+              "f": "upaSuSlokizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaSuSlokizAmbaBUvas",
+              "m": "upaSuSlokizAmbaBUvAn",
+              "f": "upaSuSlokizAmbaBUzI",
+              "n": "upaSuSlokizAmbaBUvat/upaSuSlokizAmbaBUvad"
+            },
+            {
+              "base": "upaSuSlokizAmAsivas",
+              "m": "upaSuSlokizAmAsivAn",
+              "f": "upaSuSlokizAmAsyuzI",
+              "n": "upaSuSlokizAmAsivat/upaSuSlokizAmAsivad"
+            },
+            {
+              "base": "upaSuSlokizAYcakfvas",
+              "m": "upaSuSlokizAYcakfvAn",
+              "f": "upaSuSlokizAYcakruzI",
+              "n": "upaSuSlokizAYcakfvat/upaSuSlokizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upaSuSlokiza",
+              "m": "upaSuSlokizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaSuSlokizamARa",
+              "m": "upaSuSlokizamARaH",
+              "f": "upaSuSlokizamARA",
+              "n": "upaSuSlokizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaSuSlokizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaSuSlokizaka",
+              "m": "upaSuSlokizakaH",
+              "f": "upaSuSlokizikA",
+              "n": "upaSuSlokizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaSuSlokizitavya",
+              "m": "upaSuSlokizitavyaH",
+              "f": "upaSuSlokizitavyA",
+              "n": "upaSuSlokizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaSuSlokizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaSuSlokizitf",
+              "m": "upaSuSlokizitA",
+              "f": "upaSuSlokizitrI",
+              "n": "upaSuSlokizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upaSuSlokizamARa",
+              "m": "upaSuSlokizamARaH",
+              "f": "upaSuSlokizamARA",
+              "n": "upaSuSlokizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upaSuSlokizya",
+              "m": "upaSuSlokizyaH",
+              "f": "upaSuSlokizyA",
+              "n": "upaSuSlokizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaSuSlokizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaSuSlokizaRa",
+              "m": "",
+              "f": "",
+              "n": "upaSuSlokizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaSuSlokizaka",
+              "m": "upaSuSlokizakaH",
+              "f": "upaSuSlokizikA",
+              "n": "upaSuSlokizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upaSuSlokizamARa",
+              "m": "upaSuSlokizamARaH",
+              "f": "upaSuSlokizamARA",
+              "n": "upaSuSlokizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upaSuSlokizamARa",
+              "m": "upaSuSlokizamARaH",
+              "f": "upaSuSlokizamARA",
+              "n": "upaSuSlokizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upaSuSlokizamARa",
+              "m": "upaSuSlokizamARaH",
+              "f": "upaSuSlokizamARA",
+              "n": "upaSuSlokizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "upaSloka",
+              "m": "upaSlokaH",
+              "f": "upaSlokA",
+              "n": "upaSlokam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaSlokanIya",
+              "m": "upaSlokanIyaH",
+              "f": "upaSlokanIyA",
+              "n": "upaSlokanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaSlokita",
+              "m": "upaSlokitaH",
+              "f": "upaSlokitA",
+              "n": "upaSlokitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaSlokitavat",
+              "m": "upaSlokitavAn",
+              "f": "upaSlokitavatI",
+              "n": "upaSlokitavat/upaSlokitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaSlokti",
+              "m": "",
+              "f": "upaSloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaSlokayAmbaBUvas",
+              "m": "upaSlokayAmbaBUvAn",
+              "f": "upaSlokayAmbaBUzI",
+              "n": "upaSlokayAmbaBUvat/upaSlokayAmbaBUvad"
+            },
+            {
+              "base": "upaSlokayAmAsivas",
+              "m": "upaSlokayAmAsivAn",
+              "f": "upaSlokayAmAsyuzI",
+              "n": "upaSlokayAmAsivat/upaSlokayAmAsivad"
+            },
+            {
+              "base": "upaSlokayAYcakfvas",
+              "m": "upaSlokayAYcakfvAn",
+              "f": "upaSlokayAYcakruzI",
+              "n": "upaSlokayAYcakfvat/upaSlokayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaSlokayamAna",
+              "m": "upaSlokayamAnaH",
+              "f": "upaSlokayamAnA",
+              "n": "upaSlokayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaSlokam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaSlokaka",
+              "m": "upaSlokakaH",
+              "f": "upaSlokikA",
+              "n": "upaSlokakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaSlokayitavya",
+              "m": "upaSlokayitavyaH",
+              "f": "upaSlokayitavyA",
+              "n": "upaSlokayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaSlokayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaSlokayitf",
+              "m": "upaSlokayitA",
+              "f": "upaSlokayitrI",
+              "n": "upaSlokayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upaSlokayamAna",
+              "m": "upaSlokayamAnaH",
+              "f": "upaSlokayamAnA",
+              "n": "upaSlokayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upaSlokya",
+              "m": "upaSlokyaH",
+              "f": "upaSlokyA",
+              "n": "upaSlokyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaSlokya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaSlokana",
+              "m": "",
+              "f": "",
+              "n": "upaSlokanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaSlokaka",
+              "m": "upaSlokakaH",
+              "f": "upaSlokikA",
+              "n": "upaSlokakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upaSlokayat",
+              "m": "upaSlokayan",
+              "f": "upaSlokayantI",
+              "n": "upaSlokayat/upaSlokayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upaSlokayamAna",
+              "m": "upaSlokayamAnaH",
+              "f": "upaSlokayamAnA",
+              "n": "upaSlokayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upaSlokayamAna",
+              "m": "upaSlokayamAnaH",
+              "f": "upaSlokayamAnA",
+              "n": "upaSlokayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upaSlokayat",
+              "m": "upaSlokayan",
+              "f": "upaSlokayatI/upaSlokayantI",
+              "n": "upaSlokayat/upaSlokayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upaSlokayamAna",
+              "m": "upaSlokayamAnaH",
+              "f": "upaSlokayamAnA",
+              "n": "upaSlokayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "upaSoSlokA",
+              "m": "",
+              "f": "upaSoSlokA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upaSoSloka",
+              "m": "upaSoSlokaH",
+              "f": "upaSoSlokA",
+              "n": "upaSoSlokam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaSoSlokanIya",
+              "m": "upaSoSlokanIyaH",
+              "f": "upaSoSlokanIyA",
+              "n": "upaSoSlokanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaSoSlokita",
+              "m": "upaSoSlokitaH",
+              "f": "upaSoSlokitA",
+              "n": "upaSoSlokitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaSoSlokitavat",
+              "m": "upaSoSlokitavAn",
+              "f": "upaSoSlokitavatI",
+              "n": "upaSoSlokitavat/upaSoSlokitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaSoSlokti",
+              "m": "",
+              "f": "upaSoSloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaSoSlokAmbaBUvas",
+              "m": "upaSoSlokAmbaBUvAn",
+              "f": "upaSoSlokAmbaBUzI",
+              "n": "upaSoSlokAmbaBUvat/upaSoSlokAmbaBUvad"
+            },
+            {
+              "base": "upaSoSlokAmAsivas",
+              "m": "upaSoSlokAmAsivAn",
+              "f": "upaSoSlokAmAsyuzI",
+              "n": "upaSoSlokAmAsivat/upaSoSlokAmAsivad"
+            },
+            {
+              "base": "upaSoSlokAYcakfvas",
+              "m": "upaSoSlokAYcakfvAn",
+              "f": "upaSoSlokAYcakruzI",
+              "n": "upaSoSlokAYcakfvat/upaSoSlokAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upaSoSloka",
+              "m": "upaSoSlokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaSoSlokyamAna",
+              "m": "upaSoSlokyamAnaH",
+              "f": "upaSoSlokyamAnA",
+              "n": "upaSoSlokyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaSoSlokam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaSoSlokaka",
+              "m": "upaSoSlokakaH",
+              "f": "upaSoSlokikA",
+              "n": "upaSoSlokakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaSoSlokitavya",
+              "m": "upaSoSlokitavyaH",
+              "f": "upaSoSlokitavyA",
+              "n": "upaSoSlokitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaSoSlokitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaSoSlokitf",
+              "m": "upaSoSlokitA",
+              "f": "upaSoSlokitrI",
+              "n": "upaSoSlokitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "upaSoSlokyamAna",
+              "m": "upaSoSlokyamAnaH",
+              "f": "upaSoSlokyamAnA",
+              "n": "upaSoSlokyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "upaSoSlokya",
+              "m": "upaSoSlokyaH",
+              "f": "upaSoSlokyA",
+              "n": "upaSoSlokyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaSoSlokya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaSoSlokana",
+              "m": "",
+              "f": "",
+              "n": "upaSoSlokanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaSoSlokaka",
+              "m": "upaSoSlokakaH",
+              "f": "upaSoSlokikA",
+              "n": "upaSoSlokakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "upaSoSlokyamAna",
+              "m": "upaSoSlokyamAnaH",
+              "f": "upaSoSlokyamAnA",
+              "n": "upaSoSlokyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "upaSoSlokyamAna",
+              "m": "upaSoSlokyamAnaH",
+              "f": "upaSoSlokyamAnA",
+              "n": "upaSoSlokyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "upaSoSlokyamAna",
+              "m": "upaSoSlokyamAnaH",
+              "f": "upaSoSlokyamAnA",
+              "n": "upaSoSlokyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "upaSoSlokA",
+              "m": "",
+              "f": "upaSoSlokA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "upaSoSloka",
+              "m": "upaSoSlokaH",
+              "f": "upaSoSlokA",
+              "n": "upaSoSlokam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "upaSoSlokanIya",
+              "m": "upaSoSlokanIyaH",
+              "f": "upaSoSlokanIyA",
+              "n": "upaSoSlokanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "upaSoSlokita",
+              "m": "upaSoSlokitaH",
+              "f": "upaSoSlokitA",
+              "n": "upaSoSlokitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "upaSoSlokitavat",
+              "m": "upaSoSlokitavAn",
+              "f": "upaSoSlokitavatI",
+              "n": "upaSoSlokitavat/upaSoSlokitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "upaSoSlokti",
+              "m": "",
+              "f": "upaSoSloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "upaSoSlokAmbaBUvas",
+              "m": "upaSoSlokAmbaBUvAn",
+              "f": "upaSoSlokAmbaBUzI",
+              "n": "upaSoSlokAmbaBUvat/upaSoSlokAmbaBUvad"
+            },
+            {
+              "base": "upaSoSlokAmAsivas",
+              "m": "upaSoSlokAmAsivAn",
+              "f": "upaSoSlokAmAsyuzI",
+              "n": "upaSoSlokAmAsivat/upaSoSlokAmAsivad"
+            },
+            {
+              "base": "upaSoSlokAYcakfvas",
+              "m": "upaSoSlokAYcakfvAn",
+              "f": "upaSoSlokAYcakruzI",
+              "n": "upaSoSlokAYcakfvat/upaSoSlokAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "upaSoSloka",
+              "m": "upaSoSlokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "upaSoSlokAna",
+              "m": "upaSoSlokAnaH",
+              "f": "upaSoSlokAnA",
+              "n": "upaSoSlokAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "upaSoSlokam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "upaSoSlokaka",
+              "m": "upaSoSlokakaH",
+              "f": "upaSoSlokikA",
+              "n": "upaSoSlokakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "upaSoSlokitavya",
+              "m": "upaSoSlokitavyaH",
+              "f": "upaSoSlokitavyA",
+              "n": "upaSoSlokitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "upaSoSlokitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "upaSoSlokitf",
+              "m": "upaSoSlokitA",
+              "f": "upaSoSlokitrI",
+              "n": "upaSoSlokitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "upaSoSlokya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "upaSoSlokana",
+              "m": "",
+              "f": "",
+              "n": "upaSoSlokanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "upaSoSlokaka",
+              "m": "upaSoSlokakaH",
+              "f": "upaSoSlokikA",
+              "n": "upaSoSlokakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "upaSoSlokat",
+              "m": "upaSoSlokan",
+              "f": "upaSoSlokatI",
+              "n": "upaSoSlokat/upaSoSlokad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "upaSoSlokat",
+              "m": "upaSoSlokan",
+              "f": "upaSoSlokatI/upaSoSlokantI",
+              "n": "upaSoSlokat/upaSoSlokad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

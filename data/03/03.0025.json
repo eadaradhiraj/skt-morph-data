@@ -1,0 +1,3910 @@
+{
+  "id": "03.0025",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "jana~"
+    },
+    {
+      "name": "arTaH",
+      "value": "janane",
+      "note": "ayaM DAtuH 'utpattiH' taTA 'utpAdanam' etayoH dvayoH api arTayoH prayujyate ."
+    },
+    {
+      "name": "English Meaning",
+      "value": "to create, to procreate, to make"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "utpanna karanA, pEdA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "CAndasaH . utpattO akarmakaH , utpAdane sakarmakaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "juhotyAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH",
+      "note": "utpattiH asmin arTe ayam akarmakaH . utpAdanam asmin arTe tu sakarmakaH."
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1105"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1105"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2503",
+      "ext_link": "/sutraani/sk2503?scroll=sutra-commentary-kaumudi-region&highlight=jana"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "janyAt",
+        "janyAd",
+        "jAyAt",
+        "jAyAd",
+        "janyAstAm",
+        "jAyAstAm",
+        "janyAsuH",
+        "jAyAsuH",
+        "janyAH",
+        "jAyAH",
+        "janyAstam",
+        "jAyAstam",
+        "janyAsta",
+        "jAyAsta",
+        "janyAsam",
+        "jAyAsam",
+        "janyAsva",
+        "jAyAsva",
+        "janyAsma",
+        "jAyAsma"
+      ],
+      "plang": [
+        "ajajan",
+        "ajajAtAm",
+        "ajajYuH",
+        "ajajan",
+        "ajajAtam",
+        "ajajAta",
+        "ajajanam",
+        "ajajanva",
+        "ajajanma"
+      ],
+      "plat": [
+        "jajanti",
+        "jajAtaH",
+        "jajYati",
+        "jajaMsi",
+        "jajATaH",
+        "jajATa",
+        "jajanmi",
+        "jajanvaH",
+        "jajanmaH"
+      ],
+      "plit": [
+        "jajAna",
+        "jajYatuH",
+        "jajYuH",
+        "jeniTa",
+        "jajYaTuH",
+        "jajYa",
+        "jajana",
+        "jajAna",
+        "jajYiva",
+        "jajYima"
+      ],
+      "plot": [
+        "jajantu",
+        "jajAtAt",
+        "jajAtAd",
+        "jajAtAm",
+        "jajYatu",
+        "jajAtAt",
+        "jajAtAd",
+        "jajAhi",
+        "jajAtam",
+        "jajAta",
+        "jajanAni",
+        "jajanAva",
+        "jajanAma"
+      ],
+      "plrung": [
+        "ajanizyat",
+        "ajanizyad",
+        "ajanizyatAm",
+        "ajanizyan",
+        "ajanizyaH",
+        "ajanizyatam",
+        "ajanizyata",
+        "ajanizyam",
+        "ajanizyAva",
+        "ajanizyAma"
+      ],
+      "plrut": [
+        "janizyati",
+        "janizyataH",
+        "janizyanti",
+        "janizyasi",
+        "janizyaTaH",
+        "janizyaTa",
+        "janizyAmi",
+        "janizyAvaH",
+        "janizyAmaH"
+      ],
+      "plung": [
+        "ajanIt",
+        "ajanId",
+        "ajAnIt",
+        "ajAnId",
+        "ajanizwAm",
+        "ajAnizwAm",
+        "ajanizuH",
+        "ajAnizuH",
+        "ajanIH",
+        "ajAnIH",
+        "ajanizwam",
+        "ajAnizwam",
+        "ajanizwa",
+        "ajAnizwa",
+        "ajanizam",
+        "ajAnizam",
+        "ajanizva",
+        "ajAnizva",
+        "ajanizma",
+        "ajAnizma"
+      ],
+      "plut": [
+        "janitA",
+        "janitArO",
+        "janitAraH",
+        "janitAsi",
+        "janitAsTaH",
+        "janitAsTa",
+        "janitAsmi",
+        "janitAsvaH",
+        "janitAsmaH"
+      ],
+      "pvidhiling": [
+        "jajanyAt",
+        "jajanyAd",
+        "jajAyAt",
+        "jajAyAd",
+        "jajanyAtAm",
+        "jajAyAtAm",
+        "jajanyuH",
+        "jajAyuH",
+        "jajanyAH",
+        "jajAyAH",
+        "jajanyAtam",
+        "jajAyAtam",
+        "jajanyAta",
+        "jajAyAta",
+        "jajanyAm",
+        "jajAyAm",
+        "jajanyAva",
+        "jajAyAva",
+        "jajanyAma",
+        "jajAyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "janizIzwa",
+        "janizIyAstAm",
+        "janizIran",
+        "janizIzWAH",
+        "janizIyAsTAm",
+        "janizIDvam",
+        "janizIya",
+        "janizIvahi",
+        "janizImahi"
+      ],
+      "alang": [
+        "ajanyata",
+        "ajAyata",
+        "ajanyetAm",
+        "ajAyetAm",
+        "ajanyanta",
+        "ajAyanta",
+        "ajanyaTAH",
+        "ajAyaTAH",
+        "ajanyeTAm",
+        "ajAyeTAm",
+        "ajanyaDvam",
+        "ajAyaDvam",
+        "ajanye",
+        "ajAye",
+        "ajanyAvahi",
+        "ajAyAvahi",
+        "ajanyAmahi",
+        "ajAyAmahi"
+      ],
+      "alat": [
+        "janyate",
+        "jAyate",
+        "janyete",
+        "jAyete",
+        "janyante",
+        "jAyante",
+        "janyase",
+        "jAyase",
+        "janyeTe",
+        "jAyeTe",
+        "janyaDve",
+        "jAyaDve",
+        "janye",
+        "jAye",
+        "janyAvahe",
+        "jAyAvahe",
+        "janyAmahe",
+        "jAyAmahe"
+      ],
+      "alit": [
+        "jajYe",
+        "jajYAte",
+        "jajYire",
+        "jajYize",
+        "jajYATe",
+        "jajYiDve",
+        "jajYe",
+        "jajYivahe",
+        "jajYimahe"
+      ],
+      "alot": [
+        "janyatAm",
+        "jAyatAm",
+        "janyetAm",
+        "jAyetAm",
+        "janyantAm",
+        "jAyantAm",
+        "janyasva",
+        "jAyasva",
+        "janyeTAm",
+        "jAyeTAm",
+        "janyaDvam",
+        "jAyaDvam",
+        "janyE",
+        "jAyE",
+        "janyAvahE",
+        "jAyAvahE",
+        "janyAmahE",
+        "jAyAmahE"
+      ],
+      "alrung": [
+        "ajanizyata",
+        "ajanizyetAm",
+        "ajanizyanta",
+        "ajanizyaTAH",
+        "ajanizyeTAm",
+        "ajanizyaDvam",
+        "ajanizye",
+        "ajanizyAvahi",
+        "ajanizyAmahi"
+      ],
+      "alrut": [
+        "janizyate",
+        "janizyete",
+        "janizyante",
+        "janizyase",
+        "janizyeTe",
+        "janizyaDve",
+        "janizye",
+        "janizyAvahe",
+        "janizyAmahe"
+      ],
+      "alung": [
+        "ajani",
+        "ajanizAtAm",
+        "ajanizata",
+        "ajanizWAH",
+        "ajanizATAm",
+        "ajaniDvam",
+        "ajanizi",
+        "ajanizvahi",
+        "ajanizmahi"
+      ],
+      "alut": [
+        "janitA",
+        "janitArO",
+        "janitAraH",
+        "janitAse",
+        "janitAsATe",
+        "janitADve",
+        "janitAhe",
+        "janitAsvahe",
+        "janitAsmahe"
+      ],
+      "avidhiling": [
+        "janyeta",
+        "jAyeta",
+        "janyeyAtAm",
+        "jAyeyAtAm",
+        "janyeran",
+        "jAyeran",
+        "janyeTAH",
+        "jAyeTAH",
+        "janyeyATAm",
+        "jAyeyATAm",
+        "janyeDvam",
+        "jAyeDvam",
+        "janyeya",
+        "jAyeya",
+        "janyevahi",
+        "jAyevahi",
+        "janyemahi",
+        "jAyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "jijanizyAt",
+        "jijanizyAd",
+        "jijanizyAstAm",
+        "jijanizyAsuH",
+        "jijanizyAH",
+        "jijanizyAstam",
+        "jijanizyAsta",
+        "jijanizyAsam",
+        "jijanizyAsva",
+        "jijanizyAsma"
+      ],
+      "plang": [
+        "ajijanizat",
+        "ajijanizad",
+        "ajijanizatAm",
+        "ajijanizan",
+        "ajijanizaH",
+        "ajijanizatam",
+        "ajijanizata",
+        "ajijanizam",
+        "ajijanizAva",
+        "ajijanizAma"
+      ],
+      "plat": [
+        "jijanizati",
+        "jijanizataH",
+        "jijanizanti",
+        "jijanizasi",
+        "jijanizaTaH",
+        "jijanizaTa",
+        "jijanizAmi",
+        "jijanizAvaH",
+        "jijanizAmaH"
+      ],
+      "plit": [
+        "jijanizAYcakAra",
+        "jijanizAmAsa",
+        "jijanizAmbaBUva",
+        "jijanizAYcakratuH",
+        "jijanizAmAsatuH",
+        "jijanizAmbaBUvatuH",
+        "jijanizAYcakruH",
+        "jijanizAmAsuH",
+        "jijanizAmbaBUvuH",
+        "jijanizAYcakarTa",
+        "jijanizAmAsiTa",
+        "jijanizAmbaBUviTa",
+        "jijanizAYcakraTuH",
+        "jijanizAmAsaTuH",
+        "jijanizAmbaBUvaTuH",
+        "jijanizAYcakra",
+        "jijanizAmAsa",
+        "jijanizAmbaBUva",
+        "jijanizAYcakara",
+        "jijanizAYcakAra",
+        "jijanizAmAsa",
+        "jijanizAmbaBUva",
+        "jijanizAYcakfva",
+        "jijanizAmAsiva",
+        "jijanizAmbaBUviva",
+        "jijanizAYcakfma",
+        "jijanizAmAsima",
+        "jijanizAmbaBUvima"
+      ],
+      "plot": [
+        "jijanizatAt",
+        "jijanizatAd",
+        "jijanizatu",
+        "jijanizatAm",
+        "jijanizantu",
+        "jijaniza",
+        "jijanizatAt",
+        "jijanizatAd",
+        "jijanizatam",
+        "jijanizata",
+        "jijanizARi",
+        "jijanizAva",
+        "jijanizAma"
+      ],
+      "plrung": [
+        "ajijanizizyat",
+        "ajijanizizyad",
+        "ajijanizizyatAm",
+        "ajijanizizyan",
+        "ajijanizizyaH",
+        "ajijanizizyatam",
+        "ajijanizizyata",
+        "ajijanizizyam",
+        "ajijanizizyAva",
+        "ajijanizizyAma"
+      ],
+      "plrut": [
+        "jijanizizyati",
+        "jijanizizyataH",
+        "jijanizizyanti",
+        "jijanizizyasi",
+        "jijanizizyaTaH",
+        "jijanizizyaTa",
+        "jijanizizyAmi",
+        "jijanizizyAvaH",
+        "jijanizizyAmaH"
+      ],
+      "plung": [
+        "ajijanizIt",
+        "ajijanizId",
+        "ajijanizizwAm",
+        "ajijanizizuH",
+        "ajijanizIH",
+        "ajijanizizwam",
+        "ajijanizizwa",
+        "ajijanizizam",
+        "ajijanizizva",
+        "ajijanizizma"
+      ],
+      "plut": [
+        "jijanizitA",
+        "jijanizitArO",
+        "jijanizitAraH",
+        "jijanizitAsi",
+        "jijanizitAsTaH",
+        "jijanizitAsTa",
+        "jijanizitAsmi",
+        "jijanizitAsvaH",
+        "jijanizitAsmaH"
+      ],
+      "pvidhiling": [
+        "jijanizet",
+        "jijanized",
+        "jijanizetAm",
+        "jijanizeyuH",
+        "jijanizeH",
+        "jijanizetam",
+        "jijanizeta",
+        "jijanizeyam",
+        "jijanizeva",
+        "jijanizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "jijanizizIzwa",
+        "jijanizizIyAstAm",
+        "jijanizizIran",
+        "jijanizizIzWAH",
+        "jijanizizIyAsTAm",
+        "jijanizizIDvam",
+        "jijanizizIya",
+        "jijanizizIvahi",
+        "jijanizizImahi"
+      ],
+      "alang": [
+        "ajijanizyata",
+        "ajijanizyetAm",
+        "ajijanizyanta",
+        "ajijanizyaTAH",
+        "ajijanizyeTAm",
+        "ajijanizyaDvam",
+        "ajijanizye",
+        "ajijanizyAvahi",
+        "ajijanizyAmahi"
+      ],
+      "alat": [
+        "jijanizyate",
+        "jijanizyete",
+        "jijanizyante",
+        "jijanizyase",
+        "jijanizyeTe",
+        "jijanizyaDve",
+        "jijanizye",
+        "jijanizyAvahe",
+        "jijanizyAmahe"
+      ],
+      "alit": [
+        "jijanizAYcakre",
+        "jijanizAmAse",
+        "jijanizAmbaBUve",
+        "jijanizAYcakrAte",
+        "jijanizAmAsAte",
+        "jijanizAmbaBUvAte",
+        "jijanizAYcakrire",
+        "jijanizAmAsire",
+        "jijanizAmbaBUvire",
+        "jijanizAYcakfze",
+        "jijanizAmAsize",
+        "jijanizAmbaBUvize",
+        "jijanizAYcakrATe",
+        "jijanizAmAsATe",
+        "jijanizAmbaBUvATe",
+        "jijanizAYcakfQve",
+        "jijanizAmAsiDve",
+        "jijanizAmbaBUviQve",
+        "jijanizAYcakre",
+        "jijanizAmAhe",
+        "jijanizAmbaBUve",
+        "jijanizAYcakfvahe",
+        "jijanizAmAsivahe",
+        "jijanizAmbaBUvivahe",
+        "jijanizAYcakfmahe",
+        "jijanizAmAsimahe",
+        "jijanizAmbaBUvimahe"
+      ],
+      "alot": [
+        "jijanizyatAm",
+        "jijanizyetAm",
+        "jijanizyantAm",
+        "jijanizyasva",
+        "jijanizyeTAm",
+        "jijanizyaDvam",
+        "jijanizyE",
+        "jijanizyAvahE",
+        "jijanizyAmahE"
+      ],
+      "alrung": [
+        "ajijanizizyata",
+        "ajijanizizyetAm",
+        "ajijanizizyanta",
+        "ajijanizizyaTAH",
+        "ajijanizizyeTAm",
+        "ajijanizizyaDvam",
+        "ajijanizizye",
+        "ajijanizizyAvahi",
+        "ajijanizizyAmahi"
+      ],
+      "alrut": [
+        "jijanizizyate",
+        "jijanizizyete",
+        "jijanizizyante",
+        "jijanizizyase",
+        "jijanizizyeTe",
+        "jijanizizyaDve",
+        "jijanizizye",
+        "jijanizizyAvahe",
+        "jijanizizyAmahe"
+      ],
+      "alung": [
+        "ajijanizi",
+        "ajijanizizAtAm",
+        "ajijanizizata",
+        "ajijanizizWAH",
+        "ajijanizizATAm",
+        "ajijaniziDvam",
+        "ajijanizizi",
+        "ajijanizizvahi",
+        "ajijanizizmahi"
+      ],
+      "alut": [
+        "jijanizitA",
+        "jijanizitArO",
+        "jijanizitAraH",
+        "jijanizitAse",
+        "jijanizitAsATe",
+        "jijanizitADve",
+        "jijanizitAhe",
+        "jijanizitAsvahe",
+        "jijanizitAsmahe"
+      ],
+      "avidhiling": [
+        "jijanizyeta",
+        "jijanizyeyAtAm",
+        "jijanizyeran",
+        "jijanizyeTAH",
+        "jijanizyeyATAm",
+        "jijanizyeDvam",
+        "jijanizyeya",
+        "jijanizyevahi",
+        "jijanizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "jAnayizIzwa",
+        "jAnayizIyAstAm",
+        "jAnayizIran",
+        "jAnayizIzWAH",
+        "jAnayizIyAsTAm",
+        "jAnayizIQvam",
+        "jAnayizIDvam",
+        "jAnayizIya",
+        "jAnayizIvahi",
+        "jAnayizImahi"
+      ],
+      "alang": [
+        "ajAnayata",
+        "ajAnayetAm",
+        "ajAnayanta",
+        "ajAnayaTAH",
+        "ajAnayeTAm",
+        "ajAnayaDvam",
+        "ajAnaye",
+        "ajAnayAvahi",
+        "ajAnayAmahi"
+      ],
+      "alat": [
+        "jAnayate",
+        "jAnayete",
+        "jAnayante",
+        "jAnayase",
+        "jAnayeTe",
+        "jAnayaDve",
+        "jAnaye",
+        "jAnayAvahe",
+        "jAnayAmahe"
+      ],
+      "alit": [
+        "jAnayAYcakre",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakrAte",
+        "jAnayAmAsatuH",
+        "jAnayAmbaBUvatuH",
+        "jAnayAYcakrire",
+        "jAnayAmAsuH",
+        "jAnayAmbaBUvuH",
+        "jAnayAYcakfze",
+        "jAnayAmAsiTa",
+        "jAnayAmbaBUviTa",
+        "jAnayAYcakrATe",
+        "jAnayAmAsaTuH",
+        "jAnayAmbaBUvaTuH",
+        "jAnayAYcakfQve",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakre",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakfvahe",
+        "jAnayAmAsiva",
+        "jAnayAmbaBUviva",
+        "jAnayAYcakfmahe",
+        "jAnayAmAsima",
+        "jAnayAmbaBUvima"
+      ],
+      "alot": [
+        "jAnayatAm",
+        "jAnayetAm",
+        "jAnayantAm",
+        "jAnayasva",
+        "jAnayeTAm",
+        "jAnayaDvam",
+        "jAnayE",
+        "jAnayAvahE",
+        "jAnayAmahE"
+      ],
+      "alrung": [
+        "ajAnayizyata",
+        "ajAnayizyetAm",
+        "ajAnayizyanta",
+        "ajAnayizyaTAH",
+        "ajAnayizyeTAm",
+        "ajAnayizyaDvam",
+        "ajAnayizye",
+        "ajAnayizyAvahi",
+        "ajAnayizyAmahi"
+      ],
+      "alrut": [
+        "jAnayizyate",
+        "jAnayizyete",
+        "jAnayizyante",
+        "jAnayizyase",
+        "jAnayizyeTe",
+        "jAnayizyaDve",
+        "jAnayizye",
+        "jAnayizyAvahe",
+        "jAnayizyAmahe"
+      ],
+      "alung": [
+        "ajIjanata",
+        "ajIjanetAm",
+        "ajIjananta",
+        "ajIjanaTAH",
+        "ajIjaneTAm",
+        "ajIjanaDvam",
+        "ajIjane",
+        "ajIjanAvahi",
+        "ajIjanAmahi"
+      ],
+      "alut": [
+        "jAnayitA",
+        "jAnayitArO",
+        "jAnayitAraH",
+        "jAnayitAse",
+        "jAnayitAsATe",
+        "jAnayitADve",
+        "jAnayitAhe",
+        "jAnayitAsvahe",
+        "jAnayitAsmahe"
+      ],
+      "avidhiling": [
+        "jAnayeta",
+        "jAnayeyAtAm",
+        "jAnayeran",
+        "jAnayeTAH",
+        "jAnayeyATAm",
+        "jAnayeDvam",
+        "jAnayeya",
+        "jAnayevahi",
+        "jAnayemahi"
+      ],
+      "pashirling": [
+        "jAnyAt",
+        "jAnyAd",
+        "jAnyAstAm",
+        "jAnyAsuH",
+        "jAnyAH",
+        "jAnyAstam",
+        "jAnyAsta",
+        "jAnyAsam",
+        "jAnyAsva",
+        "jAnyAsma"
+      ],
+      "plang": [
+        "ajAnayat",
+        "ajAnayad",
+        "ajAnayatAm",
+        "ajAnayan",
+        "ajAnayaH",
+        "ajAnayatam",
+        "ajAnayata",
+        "ajAnayam",
+        "ajAnayAva",
+        "ajAnayAma"
+      ],
+      "plat": [
+        "jAnayati",
+        "jAnayataH",
+        "jAnayanti",
+        "jAnayasi",
+        "jAnayaTaH",
+        "jAnayaTa",
+        "jAnayAmi",
+        "jAnayAvaH",
+        "jAnayAmaH"
+      ],
+      "plit": [
+        "jAnayAYcakAra",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakratuH",
+        "jAnayAmAsatuH",
+        "jAnayAmbaBUvatuH",
+        "jAnayAYcakruH",
+        "jAnayAmAsuH",
+        "jAnayAmbaBUvuH",
+        "jAnayAYcakarTa",
+        "jAnayAmAsiTa",
+        "jAnayAmbaBUviTa",
+        "jAnayAYcakraTuH",
+        "jAnayAmAsaTuH",
+        "jAnayAmbaBUvaTuH",
+        "jAnayAYcakra",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakara",
+        "jAnayAYcakAra",
+        "jAnayAmAsa",
+        "jAnayAmbaBUva",
+        "jAnayAYcakfva",
+        "jAnayAmAsiva",
+        "jAnayAmbaBUviva",
+        "jAnayAYcakfma",
+        "jAnayAmAsima",
+        "jAnayAmbaBUvima"
+      ],
+      "plot": [
+        "jAnayatAt",
+        "jAnayatAd",
+        "jAnayatu",
+        "jAnayatAm",
+        "jAnayantu",
+        "jAnaya",
+        "jAnayatAt",
+        "jAnayatAd",
+        "jAnayatam",
+        "jAnayata",
+        "jAnayAni",
+        "jAnayAva",
+        "jAnayAma"
+      ],
+      "plrung": [
+        "ajAnayizyat",
+        "ajAnayizyad",
+        "ajAnayizyatAm",
+        "ajAnayizyan",
+        "ajAnayizyaH",
+        "ajAnayizyatam",
+        "ajAnayizyata",
+        "ajAnayizyam",
+        "ajAnayizyAva",
+        "ajAnayizyAma"
+      ],
+      "plrut": [
+        "jAnayizyati",
+        "jAnayizyataH",
+        "jAnayizyanti",
+        "jAnayizyasi",
+        "jAnayizyaTaH",
+        "jAnayizyaTa",
+        "jAnayizyAmi",
+        "jAnayizyAvaH",
+        "jAnayizyAmaH"
+      ],
+      "plung": [
+        "ajIjanat",
+        "ajIjanad",
+        "ajIjanatAm",
+        "ajIjanan",
+        "ajIjanaH",
+        "ajIjanatam",
+        "ajIjanata",
+        "ajIjanam",
+        "ajIjanAva",
+        "ajIjanAma"
+      ],
+      "plut": [
+        "jAnayitA",
+        "jAnayitArO",
+        "jAnayitAraH",
+        "jAnayitAsi",
+        "jAnayitAsTaH",
+        "jAnayitAsTa",
+        "jAnayitAsmi",
+        "jAnayitAsvaH",
+        "jAnayitAsmaH"
+      ],
+      "pvidhiling": [
+        "jAnayet",
+        "jAnayed",
+        "jAnayetAm",
+        "jAnayeyuH",
+        "jAnayeH",
+        "jAnayetam",
+        "jAnayeta",
+        "jAnayeyam",
+        "jAnayeva",
+        "jAnayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "jAnayizIzwa",
+        "jAnizIzwa",
+        "jAnayizIyAstAm",
+        "jAnizIyAstAm",
+        "jAnayizIran",
+        "jAnizIran",
+        "jAnayizIzWAH",
+        "jAnizIzWAH",
+        "jAnayizIyAsTAm",
+        "jAnizIyAsTAm",
+        "jAnayizIQvam",
+        "jAnayizIDvam",
+        "jAnizIDvam",
+        "jAnayizIya",
+        "jAnizIya",
+        "jAnayizIvahi",
+        "jAnizIvahi",
+        "jAnayizImahi",
+        "jAnizImahi"
+      ],
+      "alang": [
+        "ajAnyata",
+        "ajAnyetAm",
+        "ajAnyanta",
+        "ajAnyaTAH",
+        "ajAnyeTAm",
+        "ajAnyaDvam",
+        "ajAnye",
+        "ajAnyAvahi",
+        "ajAnyAmahi"
+      ],
+      "alat": [
+        "jAnyate",
+        "jAnyete",
+        "jAnyante",
+        "jAnyase",
+        "jAnyeTe",
+        "jAnyaDve",
+        "jAnye",
+        "jAnyAvahe",
+        "jAnyAmahe"
+      ],
+      "alit": [
+        "jAnayAYcakre",
+        "jAnayAmAse",
+        "jAnayAmbaBUve",
+        "jAnayAYcakrAte",
+        "jAnayAmAsAte",
+        "jAnayAmbaBUvAte",
+        "jAnayAYcakrire",
+        "jAnayAmAsire",
+        "jAnayAmbaBUvire",
+        "jAnayAYcakfze",
+        "jAnayAmAsize",
+        "jAnayAmbaBUvize",
+        "jAnayAYcakrATe",
+        "jAnayAmAsATe",
+        "jAnayAmbaBUvATe",
+        "jAnayAYcakfQve",
+        "jAnayAmAsiDve",
+        "jAnayAmbaBUviQve",
+        "jAnayAYcakre",
+        "jAnayAmAhe",
+        "jAnayAmbaBUve",
+        "jAnayAYcakfvahe",
+        "jAnayAmAsivahe",
+        "jAnayAmbaBUvivahe",
+        "jAnayAYcakfmahe",
+        "jAnayAmAsimahe",
+        "jAnayAmbaBUvimahe"
+      ],
+      "alot": [
+        "jAnyatAm",
+        "jAnyetAm",
+        "jAnyantAm",
+        "jAnyasva",
+        "jAnyeTAm",
+        "jAnyaDvam",
+        "jAnyE",
+        "jAnyAvahE",
+        "jAnyAmahE"
+      ],
+      "alrung": [
+        "ajAnayizyata",
+        "ajAnizyata",
+        "ajAnayizyetAm",
+        "ajAnizyetAm",
+        "ajAnayizyanta",
+        "ajAnizyanta",
+        "ajAnayizyaTAH",
+        "ajAnizyaTAH",
+        "ajAnayizyeTAm",
+        "ajAnizyeTAm",
+        "ajAnayizyaDvam",
+        "ajAnizyaDvam",
+        "ajAnayizye",
+        "ajAnizye",
+        "ajAnayizyAvahi",
+        "ajAnizyAvahi",
+        "ajAnayizyAmahi",
+        "ajAnizyAmahi"
+      ],
+      "alrut": [
+        "jAnayizyate",
+        "jAnizyate",
+        "jAnayizyete",
+        "jAnizyete",
+        "jAnayizyante",
+        "jAnizyante",
+        "jAnayizyase",
+        "jAnizyase",
+        "jAnayizyeTe",
+        "jAnizyeTe",
+        "jAnayizyaDve",
+        "jAnizyaDve",
+        "jAnayizye",
+        "jAnizye",
+        "jAnayizyAvahe",
+        "jAnizyAvahe",
+        "jAnayizyAmahe",
+        "jAnizyAmahe"
+      ],
+      "alung": [
+        "ajAni",
+        "ajAnayizAtAm",
+        "ajAnizAtAm",
+        "ajAnayizata",
+        "ajAnizata",
+        "ajAnayizWAH",
+        "ajAnizWAH",
+        "ajAnayizATAm",
+        "ajAnizATAm",
+        "ajAnayiQvam",
+        "ajAnayiDvam",
+        "ajAniDvam",
+        "ajAnayizi",
+        "ajAnizi",
+        "ajAnayizvahi",
+        "ajAnizvahi",
+        "ajAnayizmahi",
+        "ajAnizmahi"
+      ],
+      "alut": [
+        "jAnayitA",
+        "jAnitA",
+        "jAnayitArO",
+        "jAnitArO",
+        "jAnayitAraH",
+        "jAnitAraH",
+        "jAnayitAse",
+        "jAnitAse",
+        "jAnayitAsATe",
+        "jAnitAsATe",
+        "jAnayitADve",
+        "jAnitADve",
+        "jAnayitAhe",
+        "jAnitAhe",
+        "jAnayitAsvahe",
+        "jAnitAsvahe",
+        "jAnayitAsmahe",
+        "jAnitAsmahe"
+      ],
+      "avidhiling": [
+        "jAnyeta",
+        "jAnyeyAtAm",
+        "jAnyeran",
+        "jAnyeTAH",
+        "jAnyeyATAm",
+        "jAnyeDvam",
+        "jAnyeya",
+        "jAnyevahi",
+        "jAnyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "jaMjanizIzwa",
+        "jaYjanizIzwa",
+        "jAjAyizIzwa",
+        "jaMjanizIyAstAm",
+        "jaYjanizIyAstAm",
+        "jAjAyizIyAstAm",
+        "jaMjanizIran",
+        "jaYjanizIran",
+        "jAjAyizIran",
+        "jaMjanizIzWAH",
+        "jaYjanizIzWAH",
+        "jAjAyizIzWAH",
+        "jaMjanizIyAsTAm",
+        "jaYjanizIyAsTAm",
+        "jAjAyizIyAsTAm",
+        "jaMjanizIDvam",
+        "jaYjanizIDvam",
+        "jAjAyizIQvam",
+        "jAjAyizIDvam",
+        "jaMjanizIya",
+        "jaYjanizIya",
+        "jAjAyizIya",
+        "jaMjanizIvahi",
+        "jaYjanizIvahi",
+        "jAjAyizIvahi",
+        "jaMjanizImahi",
+        "jaYjanizImahi",
+        "jAjAyizImahi"
+      ],
+      "alang": [
+        "ajaMjanyata",
+        "ajaYjanyata",
+        "ajAjAyata",
+        "ajaMjanyetAm",
+        "ajaYjanyetAm",
+        "ajAjAyetAm",
+        "ajaMjanyanta",
+        "ajaYjanyanta",
+        "ajAjAyanta",
+        "ajaMjanyaTAH",
+        "ajaYjanyaTAH",
+        "ajAjAyaTAH",
+        "ajaMjanyeTAm",
+        "ajaYjanyeTAm",
+        "ajAjAyeTAm",
+        "ajaMjanyaDvam",
+        "ajaYjanyaDvam",
+        "ajAjAyaDvam",
+        "ajaMjanye",
+        "ajaYjanye",
+        "ajAjAye",
+        "ajaMjanyAvahi",
+        "ajaYjanyAvahi",
+        "ajAjAyAvahi",
+        "ajaMjanyAmahi",
+        "ajaYjanyAmahi",
+        "ajAjAyAmahi"
+      ],
+      "alat": [
+        "jaMjanyate",
+        "jaYjanyate",
+        "jAjAyate",
+        "jaMjanyete",
+        "jaYjanyete",
+        "jAjAyete",
+        "jaMjanyante",
+        "jaYjanyante",
+        "jAjAyante",
+        "jaMjanyase",
+        "jaYjanyase",
+        "jAjAyase",
+        "jaMjanyeTe",
+        "jaYjanyeTe",
+        "jAjAyeTe",
+        "jaMjanyaDve",
+        "jaYjanyaDve",
+        "jAjAyaDve",
+        "jaMjanye",
+        "jaYjanye",
+        "jAjAye",
+        "jaMjanyAvahe",
+        "jaYjanyAvahe",
+        "jAjAyAvahe",
+        "jaMjanyAmahe",
+        "jaYjanyAmahe",
+        "jAjAyAmahe"
+      ],
+      "alit": [
+        "jaMjanAYcakre",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakre",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jAjAyAYcakre",
+        "jAjAyAmAsa",
+        "jAjAyAmbaBUva",
+        "jaMjanAYcakrAte",
+        "jaMjanAmAsatuH",
+        "jaMjanAmbaBUvatuH",
+        "jaYjanAYcakrAte",
+        "jaYjanAmAsatuH",
+        "jaYjanAmbaBUvatuH",
+        "jAjAyAYcakrAte",
+        "jAjAyAmAsatuH",
+        "jAjAyAmbaBUvatuH",
+        "jaMjanAYcakrire",
+        "jaMjanAmAsuH",
+        "jaMjanAmbaBUvuH",
+        "jaYjanAYcakrire",
+        "jaYjanAmAsuH",
+        "jaYjanAmbaBUvuH",
+        "jAjAyAYcakrire",
+        "jAjAyAmAsuH",
+        "jAjAyAmbaBUvuH",
+        "jaMjanAYcakfze",
+        "jaMjanAmAsiTa",
+        "jaMjanAmbaBUviTa",
+        "jaYjanAYcakfze",
+        "jaYjanAmAsiTa",
+        "jaYjanAmbaBUviTa",
+        "jAjAyAYcakfze",
+        "jAjAyAmAsiTa",
+        "jAjAyAmbaBUviTa",
+        "jaMjanAYcakrATe",
+        "jaMjanAmAsaTuH",
+        "jaMjanAmbaBUvaTuH",
+        "jaYjanAYcakrATe",
+        "jaYjanAmAsaTuH",
+        "jaYjanAmbaBUvaTuH",
+        "jAjAyAYcakrATe",
+        "jAjAyAmAsaTuH",
+        "jAjAyAmbaBUvaTuH",
+        "jaMjanAYcakfQve",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakfQve",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jAjAyAYcakfQve",
+        "jAjAyAmAsa",
+        "jAjAyAmbaBUva",
+        "jaMjanAYcakre",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakre",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jAjAyAYcakre",
+        "jAjAyAmAsa",
+        "jAjAyAmbaBUva",
+        "jaMjanAYcakfvahe",
+        "jaMjanAmAsiva",
+        "jaMjanAmbaBUviva",
+        "jaYjanAYcakfvahe",
+        "jaYjanAmAsiva",
+        "jaYjanAmbaBUviva",
+        "jAjAyAYcakfvahe",
+        "jAjAyAmAsiva",
+        "jAjAyAmbaBUviva",
+        "jaMjanAYcakfmahe",
+        "jaMjanAmAsima",
+        "jaMjanAmbaBUvima",
+        "jaYjanAYcakfmahe",
+        "jaYjanAmAsima",
+        "jaYjanAmbaBUvima",
+        "jAjAyAYcakfmahe",
+        "jAjAyAmAsima",
+        "jAjAyAmbaBUvima"
+      ],
+      "alot": [
+        "jaMjanyatAm",
+        "jaYjanyatAm",
+        "jAjAyatAm",
+        "jaMjanyetAm",
+        "jaYjanyetAm",
+        "jAjAyetAm",
+        "jaMjanyantAm",
+        "jaYjanyantAm",
+        "jAjAyantAm",
+        "jaMjanyasva",
+        "jaYjanyasva",
+        "jAjAyasva",
+        "jaMjanyeTAm",
+        "jaYjanyeTAm",
+        "jAjAyeTAm",
+        "jaMjanyaDvam",
+        "jaYjanyaDvam",
+        "jAjAyaDvam",
+        "jaMjanyE",
+        "jaYjanyE",
+        "jAjAyE",
+        "jaMjanyAvahE",
+        "jaYjanyAvahE",
+        "jAjAyAvahE",
+        "jaMjanyAmahE",
+        "jaYjanyAmahE",
+        "jAjAyAmahE"
+      ],
+      "alrung": [
+        "ajaMjanizyata",
+        "ajaYjanizyata",
+        "ajAjAyizyata",
+        "ajaMjanizyetAm",
+        "ajaYjanizyetAm",
+        "ajAjAyizyetAm",
+        "ajaMjanizyanta",
+        "ajaYjanizyanta",
+        "ajAjAyizyanta",
+        "ajaMjanizyaTAH",
+        "ajaYjanizyaTAH",
+        "ajAjAyizyaTAH",
+        "ajaMjanizyeTAm",
+        "ajaYjanizyeTAm",
+        "ajAjAyizyeTAm",
+        "ajaMjanizyaDvam",
+        "ajaYjanizyaDvam",
+        "ajAjAyizyaDvam",
+        "ajaMjanizye",
+        "ajaYjanizye",
+        "ajAjAyizye",
+        "ajaMjanizyAvahi",
+        "ajaYjanizyAvahi",
+        "ajAjAyizyAvahi",
+        "ajaMjanizyAmahi",
+        "ajaYjanizyAmahi",
+        "ajAjAyizyAmahi"
+      ],
+      "alrut": [
+        "jaMjanizyate",
+        "jaYjanizyate",
+        "jAjAyizyate",
+        "jaMjanizyete",
+        "jaYjanizyete",
+        "jAjAyizyete",
+        "jaMjanizyante",
+        "jaYjanizyante",
+        "jAjAyizyante",
+        "jaMjanizyase",
+        "jaYjanizyase",
+        "jAjAyizyase",
+        "jaMjanizyeTe",
+        "jaYjanizyeTe",
+        "jAjAyizyeTe",
+        "jaMjanizyaDve",
+        "jaYjanizyaDve",
+        "jAjAyizyaDve",
+        "jaMjanizye",
+        "jaYjanizye",
+        "jAjAyizye",
+        "jaMjanizyAvahe",
+        "jaYjanizyAvahe",
+        "jAjAyizyAvahe",
+        "jaMjanizyAmahe",
+        "jaYjanizyAmahe",
+        "jAjAyizyAmahe"
+      ],
+      "alung": [
+        "ajaMjanizwa",
+        "ajaYjanizwa",
+        "ajAjAyizwa",
+        "ajaMjanizAtAm",
+        "ajaYjanizAtAm",
+        "ajAjAyizAtAm",
+        "ajaMjanizata",
+        "ajaYjanizata",
+        "ajAjAyizata",
+        "ajaMjanizWAH",
+        "ajaYjanizWAH",
+        "ajAjAyizWAH",
+        "ajaMjanizATAm",
+        "ajaYjanizATAm",
+        "ajAjAyizATAm",
+        "ajaMjaniDvam",
+        "ajaYjaniDvam",
+        "ajAjAyiQvam",
+        "ajAjAyiDvam",
+        "ajaMjanizi",
+        "ajaYjanizi",
+        "ajAjAyizi",
+        "ajaMjanizvahi",
+        "ajaYjanizvahi",
+        "ajAjAyizvahi",
+        "ajaMjanizmahi",
+        "ajaYjanizmahi",
+        "ajAjAyizmahi"
+      ],
+      "alut": [
+        "jaMjanitA",
+        "jaYjanitA",
+        "jAjAyitA",
+        "jaMjanitArO",
+        "jaYjanitArO",
+        "jAjAyitArO",
+        "jaMjanitAraH",
+        "jaYjanitAraH",
+        "jAjAyitAraH",
+        "jaMjanitAse",
+        "jaYjanitAse",
+        "jAjAyitAse",
+        "jaMjanitAsATe",
+        "jaYjanitAsATe",
+        "jAjAyitAsATe",
+        "jaMjanitADve",
+        "jaYjanitADve",
+        "jAjAyitADve",
+        "jaMjanitAhe",
+        "jaYjanitAhe",
+        "jAjAyitAhe",
+        "jaMjanitAsvahe",
+        "jaYjanitAsvahe",
+        "jAjAyitAsvahe",
+        "jaMjanitAsmahe",
+        "jaYjanitAsmahe",
+        "jAjAyitAsmahe"
+      ],
+      "avidhiling": [
+        "jaMjanyeta",
+        "jaYjanyeta",
+        "jAjAyeta",
+        "jaMjanyeyAtAm",
+        "jaYjanyeyAtAm",
+        "jAjAyeyAtAm",
+        "jaMjanyeran",
+        "jaYjanyeran",
+        "jAjAyeran",
+        "jaMjanyeTAH",
+        "jaYjanyeTAH",
+        "jAjAyeTAH",
+        "jaMjanyeyATAm",
+        "jaYjanyeyATAm",
+        "jAjAyeyATAm",
+        "jaMjanyeDvam",
+        "jaYjanyeDvam",
+        "jAjAyeDvam",
+        "jaMjanyeya",
+        "jaYjanyeya",
+        "jAjAyeya",
+        "jaMjanyevahi",
+        "jaYjanyevahi",
+        "jAjAyevahi",
+        "jaMjanyemahi",
+        "jaYjanyemahi",
+        "jAjAyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "jaMjanizIzwa",
+        "jaYjanizIzwa",
+        "jAjAyizIzwa",
+        "jaMjanizIyAstAm",
+        "jaYjanizIyAstAm",
+        "jAjAyizIyAstAm",
+        "jaMjanizIran",
+        "jaYjanizIran",
+        "jAjAyizIran",
+        "jaMjanizIzWAH",
+        "jaYjanizIzWAH",
+        "jAjAyizIzWAH",
+        "jaMjanizIyAsTAm",
+        "jaYjanizIyAsTAm",
+        "jAjAyizIyAsTAm",
+        "jaMjanizIDvam",
+        "jaYjanizIDvam",
+        "jAjAyizIQvam",
+        "jAjAyizIDvam",
+        "jaMjanizIya",
+        "jaYjanizIya",
+        "jAjAyizIya",
+        "jaMjanizIvahi",
+        "jaYjanizIvahi",
+        "jAjAyizIvahi",
+        "jaMjanizImahi",
+        "jaYjanizImahi",
+        "jAjAyizImahi"
+      ],
+      "alang": [
+        "ajaMjanyata",
+        "ajaYjanyata",
+        "ajAjAyyata",
+        "ajaMjanyetAm",
+        "ajaYjanyetAm",
+        "ajAjAyyetAm",
+        "ajaMjanyanta",
+        "ajaYjanyanta",
+        "ajAjAyyanta",
+        "ajaMjanyaTAH",
+        "ajaYjanyaTAH",
+        "ajAjAyyaTAH",
+        "ajaMjanyeTAm",
+        "ajaYjanyeTAm",
+        "ajAjAyyeTAm",
+        "ajaMjanyaDvam",
+        "ajaYjanyaDvam",
+        "ajAjAyyaDvam",
+        "ajaMjanye",
+        "ajaYjanye",
+        "ajAjAyye",
+        "ajaMjanyAvahi",
+        "ajaYjanyAvahi",
+        "ajAjAyyAvahi",
+        "ajaMjanyAmahi",
+        "ajaYjanyAmahi",
+        "ajAjAyyAmahi"
+      ],
+      "alat": [
+        "jaMjanyate",
+        "jaYjanyate",
+        "jAjAyyate",
+        "jaMjanyete",
+        "jaYjanyete",
+        "jAjAyyete",
+        "jaMjanyante",
+        "jaYjanyante",
+        "jAjAyyante",
+        "jaMjanyase",
+        "jaYjanyase",
+        "jAjAyyase",
+        "jaMjanyeTe",
+        "jaYjanyeTe",
+        "jAjAyyeTe",
+        "jaMjanyaDve",
+        "jaYjanyaDve",
+        "jAjAyyaDve",
+        "jaMjanye",
+        "jaYjanye",
+        "jAjAyye",
+        "jaMjanyAvahe",
+        "jaYjanyAvahe",
+        "jAjAyyAvahe",
+        "jaMjanyAmahe",
+        "jaYjanyAmahe",
+        "jAjAyyAmahe"
+      ],
+      "alit": [
+        "jaMjanAYcakre",
+        "jaMjanAmAse",
+        "jaMjanAmbaBUve",
+        "jaYjanAYcakre",
+        "jaYjanAmAse",
+        "jaYjanAmbaBUve",
+        "jAjAyAYcakre",
+        "jAjAyAmAse",
+        "jAjAyAmbaBUve",
+        "jaMjanAYcakrAte",
+        "jaMjanAmAsAte",
+        "jaMjanAmbaBUvAte",
+        "jaYjanAYcakrAte",
+        "jaYjanAmAsAte",
+        "jaYjanAmbaBUvAte",
+        "jAjAyAYcakrAte",
+        "jAjAyAmAsAte",
+        "jAjAyAmbaBUvAte",
+        "jaMjanAYcakrire",
+        "jaMjanAmAsire",
+        "jaMjanAmbaBUvire",
+        "jaYjanAYcakrire",
+        "jaYjanAmAsire",
+        "jaYjanAmbaBUvire",
+        "jAjAyAYcakrire",
+        "jAjAyAmAsire",
+        "jAjAyAmbaBUvire",
+        "jaMjanAYcakfze",
+        "jaMjanAmAsize",
+        "jaMjanAmbaBUvize",
+        "jaYjanAYcakfze",
+        "jaYjanAmAsize",
+        "jaYjanAmbaBUvize",
+        "jAjAyAYcakfze",
+        "jAjAyAmAsize",
+        "jAjAyAmbaBUvize",
+        "jaMjanAYcakrATe",
+        "jaMjanAmAsATe",
+        "jaMjanAmbaBUvATe",
+        "jaYjanAYcakrATe",
+        "jaYjanAmAsATe",
+        "jaYjanAmbaBUvATe",
+        "jAjAyAYcakrATe",
+        "jAjAyAmAsATe",
+        "jAjAyAmbaBUvATe",
+        "jaMjanAYcakfQve",
+        "jaMjanAmAsiDve",
+        "jaMjanAmbaBUviQve",
+        "jaYjanAYcakfQve",
+        "jaYjanAmAsiDve",
+        "jaYjanAmbaBUviQve",
+        "jAjAyAYcakfQve",
+        "jAjAyAmAsiDve",
+        "jAjAyAmbaBUviQve",
+        "jaMjanAYcakre",
+        "jaMjanAmAhe",
+        "jaMjanAmbaBUve",
+        "jaYjanAYcakre",
+        "jaYjanAmAhe",
+        "jaYjanAmbaBUve",
+        "jAjAyAYcakre",
+        "jAjAyAmAhe",
+        "jAjAyAmbaBUve",
+        "jaMjanAYcakfvahe",
+        "jaMjanAmAsivahe",
+        "jaMjanAmbaBUvivahe",
+        "jaYjanAYcakfvahe",
+        "jaYjanAmAsivahe",
+        "jaYjanAmbaBUvivahe",
+        "jAjAyAYcakfvahe",
+        "jAjAyAmAsivahe",
+        "jAjAyAmbaBUvivahe",
+        "jaMjanAYcakfmahe",
+        "jaMjanAmAsimahe",
+        "jaMjanAmbaBUvimahe",
+        "jaYjanAYcakfmahe",
+        "jaYjanAmAsimahe",
+        "jaYjanAmbaBUvimahe",
+        "jAjAyAYcakfmahe",
+        "jAjAyAmAsimahe",
+        "jAjAyAmbaBUvimahe"
+      ],
+      "alot": [
+        "jaMjanyatAm",
+        "jaYjanyatAm",
+        "jAjAyyatAm",
+        "jaMjanyetAm",
+        "jaYjanyetAm",
+        "jAjAyyetAm",
+        "jaMjanyantAm",
+        "jaYjanyantAm",
+        "jAjAyyantAm",
+        "jaMjanyasva",
+        "jaYjanyasva",
+        "jAjAyyasva",
+        "jaMjanyeTAm",
+        "jaYjanyeTAm",
+        "jAjAyyeTAm",
+        "jaMjanyaDvam",
+        "jaYjanyaDvam",
+        "jAjAyyaDvam",
+        "jaMjanyE",
+        "jaYjanyE",
+        "jAjAyyE",
+        "jaMjanyAvahE",
+        "jaYjanyAvahE",
+        "jAjAyyAvahE",
+        "jaMjanyAmahE",
+        "jaYjanyAmahE",
+        "jAjAyyAmahE"
+      ],
+      "alrung": [
+        "ajaMjanizyata",
+        "ajaYjanizyata",
+        "ajAjAyizyata",
+        "ajaMjanizyetAm",
+        "ajaYjanizyetAm",
+        "ajAjAyizyetAm",
+        "ajaMjanizyanta",
+        "ajaYjanizyanta",
+        "ajAjAyizyanta",
+        "ajaMjanizyaTAH",
+        "ajaYjanizyaTAH",
+        "ajAjAyizyaTAH",
+        "ajaMjanizyeTAm",
+        "ajaYjanizyeTAm",
+        "ajAjAyizyeTAm",
+        "ajaMjanizyaDvam",
+        "ajaYjanizyaDvam",
+        "ajAjAyizyaDvam",
+        "ajaMjanizye",
+        "ajaYjanizye",
+        "ajAjAyizye",
+        "ajaMjanizyAvahi",
+        "ajaYjanizyAvahi",
+        "ajAjAyizyAvahi",
+        "ajaMjanizyAmahi",
+        "ajaYjanizyAmahi",
+        "ajAjAyizyAmahi"
+      ],
+      "alrut": [
+        "jaMjanizyate",
+        "jaYjanizyate",
+        "jAjAyizyate",
+        "jaMjanizyete",
+        "jaYjanizyete",
+        "jAjAyizyete",
+        "jaMjanizyante",
+        "jaYjanizyante",
+        "jAjAyizyante",
+        "jaMjanizyase",
+        "jaYjanizyase",
+        "jAjAyizyase",
+        "jaMjanizyeTe",
+        "jaYjanizyeTe",
+        "jAjAyizyeTe",
+        "jaMjanizyaDve",
+        "jaYjanizyaDve",
+        "jAjAyizyaDve",
+        "jaMjanizye",
+        "jaYjanizye",
+        "jAjAyizye",
+        "jaMjanizyAvahe",
+        "jaYjanizyAvahe",
+        "jAjAyizyAvahe",
+        "jaMjanizyAmahe",
+        "jaYjanizyAmahe",
+        "jAjAyizyAmahe"
+      ],
+      "alung": [
+        "ajaMjani",
+        "ajaYjani",
+        "ajAjAyi",
+        "ajaMjanizAtAm",
+        "ajaYjanizAtAm",
+        "ajAjAyizAtAm",
+        "ajaMjanizata",
+        "ajaYjanizata",
+        "ajAjAyizata",
+        "ajaMjanizWAH",
+        "ajaYjanizWAH",
+        "ajAjAyizWAH",
+        "ajaMjanizATAm",
+        "ajaYjanizATAm",
+        "ajAjAyizATAm",
+        "ajaMjaniDvam",
+        "ajaYjaniDvam",
+        "ajAjAyiQvam",
+        "ajAjAyiDvam",
+        "ajaMjanizi",
+        "ajaYjanizi",
+        "ajAjAyizi",
+        "ajaMjanizvahi",
+        "ajaYjanizvahi",
+        "ajAjAyizvahi",
+        "ajaMjanizmahi",
+        "ajaYjanizmahi",
+        "ajAjAyizmahi"
+      ],
+      "alut": [
+        "jaMjanitA",
+        "jaYjanitA",
+        "jAjAyitA",
+        "jaMjanitArO",
+        "jaYjanitArO",
+        "jAjAyitArO",
+        "jaMjanitAraH",
+        "jaYjanitAraH",
+        "jAjAyitAraH",
+        "jaMjanitAse",
+        "jaYjanitAse",
+        "jAjAyitAse",
+        "jaMjanitAsATe",
+        "jaYjanitAsATe",
+        "jAjAyitAsATe",
+        "jaMjanitADve",
+        "jaYjanitADve",
+        "jAjAyitADve",
+        "jaMjanitAhe",
+        "jaYjanitAhe",
+        "jAjAyitAhe",
+        "jaMjanitAsvahe",
+        "jaYjanitAsvahe",
+        "jAjAyitAsvahe",
+        "jaMjanitAsmahe",
+        "jaYjanitAsmahe",
+        "jAjAyitAsmahe"
+      ],
+      "avidhiling": [
+        "jaMjanyeta",
+        "jaYjanyeta",
+        "jAjAyyeta",
+        "jaMjanyeyAtAm",
+        "jaYjanyeyAtAm",
+        "jAjAyyeyAtAm",
+        "jaMjanyeran",
+        "jaYjanyeran",
+        "jAjAyyeran",
+        "jaMjanyeTAH",
+        "jaYjanyeTAH",
+        "jAjAyyeTAH",
+        "jaMjanyeyATAm",
+        "jaYjanyeyATAm",
+        "jAjAyyeyATAm",
+        "jaMjanyeDvam",
+        "jaYjanyeDvam",
+        "jAjAyyeDvam",
+        "jaMjanyeya",
+        "jaYjanyeya",
+        "jAjAyyeya",
+        "jaMjanyevahi",
+        "jaYjanyevahi",
+        "jAjAyyevahi",
+        "jaMjanyemahi",
+        "jaYjanyemahi",
+        "jAjAyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "jaMjanyAt",
+        "jaMjanyAd",
+        "jaMjAyAt",
+        "jaMjAyAd",
+        "jaYjanyAt",
+        "jaYjanyAd",
+        "jaYjAyAt",
+        "jaYjAyAd",
+        "jaMjanyAstAm",
+        "jaMjAyAstAm",
+        "jaYjanyAstAm",
+        "jaYjAyAstAm",
+        "jaMjanyAsuH",
+        "jaMjAyAsuH",
+        "jaYjanyAsuH",
+        "jaYjAyAsuH",
+        "jaMjanyAH",
+        "jaMjAyAH",
+        "jaYjanyAH",
+        "jaYjAyAH",
+        "jaMjanyAstam",
+        "jaMjAyAstam",
+        "jaYjanyAstam",
+        "jaYjAyAstam",
+        "jaMjanyAsta",
+        "jaMjAyAsta",
+        "jaYjanyAsta",
+        "jaYjAyAsta",
+        "jaMjanyAsam",
+        "jaMjAyAsam",
+        "jaYjanyAsam",
+        "jaYjAyAsam",
+        "jaMjanyAsva",
+        "jaMjAyAsva",
+        "jaYjanyAsva",
+        "jaYjAyAsva",
+        "jaMjanyAsma",
+        "jaMjAyAsma",
+        "jaYjanyAsma",
+        "jaYjAyAsma"
+      ],
+      "plang": [
+        "ajaMjanIt",
+        "ajaMjanId",
+        "ajaMjan",
+        "ajaYjanIt",
+        "ajaYjanId",
+        "ajaYjan",
+        "ajaMjAtAm",
+        "ajaYjAtAm",
+        "ajaMjYuH",
+        "ajaYjYuH",
+        "ajaMjanIH",
+        "ajaMjan",
+        "ajaYjanIH",
+        "ajaYjan",
+        "ajaMjAtam",
+        "ajaYjAtam",
+        "ajaMjAta",
+        "ajaYjAta",
+        "ajaMjanam",
+        "ajaYjanam",
+        "ajaMjanva",
+        "ajaYjanva",
+        "ajaMjanma",
+        "ajaYjanma"
+      ],
+      "plat": [
+        "jaMjanIti",
+        "jaMjanti",
+        "jaYjanIti",
+        "jaYjanti",
+        "jaMjAtaH",
+        "jaYjAtaH",
+        "jaMjYati",
+        "jaYjYati",
+        "jaMjaMsi",
+        "jaMjanIzi",
+        "jaYjaMsi",
+        "jaYjanIzi",
+        "jaMjATaH",
+        "jaYjATaH",
+        "jaMjATa",
+        "jaYjATa",
+        "jaMjanImi",
+        "jaMjanmi",
+        "jaYjanImi",
+        "jaYjanmi",
+        "jaMjanvaH",
+        "jaYjanvaH",
+        "jaMjanmaH",
+        "jaYjanmaH"
+      ],
+      "plit": [
+        "jaMjanAYcakAra",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakAra",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jaMjanAYcakratuH",
+        "jaMjanAmAsatuH",
+        "jaMjanAmbaBUvatuH",
+        "jaYjanAYcakratuH",
+        "jaYjanAmAsatuH",
+        "jaYjanAmbaBUvatuH",
+        "jaMjanAYcakruH",
+        "jaMjanAmAsuH",
+        "jaMjanAmbaBUvuH",
+        "jaYjanAYcakruH",
+        "jaYjanAmAsuH",
+        "jaYjanAmbaBUvuH",
+        "jaMjanAYcakarTa",
+        "jaMjanAmAsiTa",
+        "jaMjanAmbaBUviTa",
+        "jaYjanAYcakarTa",
+        "jaYjanAmAsiTa",
+        "jaYjanAmbaBUviTa",
+        "jaMjanAYcakraTuH",
+        "jaMjanAmAsaTuH",
+        "jaMjanAmbaBUvaTuH",
+        "jaYjanAYcakraTuH",
+        "jaYjanAmAsaTuH",
+        "jaYjanAmbaBUvaTuH",
+        "jaMjanAYcakra",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakra",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jaMjanAYcakara",
+        "jaMjanAYcakAra",
+        "jaMjanAmAsa",
+        "jaMjanAmbaBUva",
+        "jaYjanAYcakara",
+        "jaYjanAYcakAra",
+        "jaYjanAmAsa",
+        "jaYjanAmbaBUva",
+        "jaMjanAYcakfva",
+        "jaMjanAmAsiva",
+        "jaMjanAmbaBUviva",
+        "jaYjanAYcakfva",
+        "jaYjanAmAsiva",
+        "jaYjanAmbaBUviva",
+        "jaMjanAYcakfma",
+        "jaMjanAmAsima",
+        "jaMjanAmbaBUvima",
+        "jaYjanAYcakfma",
+        "jaYjanAmAsima",
+        "jaYjanAmbaBUvima"
+      ],
+      "plot": [
+        "jaMjanItu",
+        "jaMjantu",
+        "jaMjAtAt",
+        "jaMjAtAd",
+        "jaYjanItu",
+        "jaYjantu",
+        "jaYjAtAt",
+        "jaYjAtAd",
+        "jaMjAtAm",
+        "jaYjAtAm",
+        "jaMjYatu",
+        "jaYjYatu",
+        "jaMjAtAt",
+        "jaMjAtAd",
+        "jaMjAhi",
+        "jaYjAtAt",
+        "jaYjAtAd",
+        "jaYjAhi",
+        "jaMjAtam",
+        "jaYjAtam",
+        "jaMjAta",
+        "jaYjAta",
+        "jaMjanAni",
+        "jaYjanAni",
+        "jaMjanAva",
+        "jaYjanAva",
+        "jaMjanAma",
+        "jaYjanAma"
+      ],
+      "plrung": [
+        "ajaMjanizyat",
+        "ajaMjanizyad",
+        "ajaYjanizyat",
+        "ajaYjanizyad",
+        "ajaMjanizyatAm",
+        "ajaYjanizyatAm",
+        "ajaMjanizyan",
+        "ajaYjanizyan",
+        "ajaMjanizyaH",
+        "ajaYjanizyaH",
+        "ajaMjanizyatam",
+        "ajaYjanizyatam",
+        "ajaMjanizyata",
+        "ajaYjanizyata",
+        "ajaMjanizyam",
+        "ajaYjanizyam",
+        "ajaMjanizyAva",
+        "ajaYjanizyAva",
+        "ajaMjanizyAma",
+        "ajaYjanizyAma"
+      ],
+      "plrut": [
+        "jaMjanizyati",
+        "jaYjanizyati",
+        "jaMjanizyataH",
+        "jaYjanizyataH",
+        "jaMjanizyanti",
+        "jaYjanizyanti",
+        "jaMjanizyasi",
+        "jaYjanizyasi",
+        "jaMjanizyaTaH",
+        "jaYjanizyaTaH",
+        "jaMjanizyaTa",
+        "jaYjanizyaTa",
+        "jaMjanizyAmi",
+        "jaYjanizyAmi",
+        "jaMjanizyAvaH",
+        "jaYjanizyAvaH",
+        "jaMjanizyAmaH",
+        "jaYjanizyAmaH"
+      ],
+      "plung": [
+        "ajaMjanIt",
+        "ajaMjanId",
+        "ajaMjAnIt",
+        "ajaMjAnId",
+        "ajaYjanIt",
+        "ajaYjanId",
+        "ajaYjAnIt",
+        "ajaYjAnId",
+        "ajaMjanizwAm",
+        "ajaMjAnizwAm",
+        "ajaYjanizwAm",
+        "ajaYjAnizwAm",
+        "ajaMjanizuH",
+        "ajaMjAnizuH",
+        "ajaYjanizuH",
+        "ajaYjAnizuH",
+        "ajaMjanIH",
+        "ajaMjAnIH",
+        "ajaYjanIH",
+        "ajaYjAnIH",
+        "ajaMjanizwam",
+        "ajaMjAnizwam",
+        "ajaYjanizwam",
+        "ajaYjAnizwam",
+        "ajaMjanizwa",
+        "ajaMjAnizwa",
+        "ajaYjanizwa",
+        "ajaYjAnizwa",
+        "ajaMjanizam",
+        "ajaMjAnizam",
+        "ajaYjanizam",
+        "ajaYjAnizam",
+        "ajaMjanizva",
+        "ajaMjAnizva",
+        "ajaYjanizva",
+        "ajaYjAnizva",
+        "ajaMjanizma",
+        "ajaMjAnizma",
+        "ajaYjanizma",
+        "ajaYjAnizma"
+      ],
+      "plut": [
+        "jaMjanitA",
+        "jaYjanitA",
+        "jaMjanitArO",
+        "jaYjanitArO",
+        "jaMjanitAraH",
+        "jaYjanitAraH",
+        "jaMjanitAsi",
+        "jaYjanitAsi",
+        "jaMjanitAsTaH",
+        "jaYjanitAsTaH",
+        "jaMjanitAsTa",
+        "jaYjanitAsTa",
+        "jaMjanitAsmi",
+        "jaYjanitAsmi",
+        "jaMjanitAsvaH",
+        "jaYjanitAsvaH",
+        "jaMjanitAsmaH",
+        "jaYjanitAsmaH"
+      ],
+      "pvidhiling": [
+        "jaMjanyAt",
+        "jaMjanyAd",
+        "jaMjAyAt",
+        "jaMjAyAd",
+        "jaYjanyAt",
+        "jaYjanyAd",
+        "jaYjAyAt",
+        "jaYjAyAd",
+        "jaMjanyAtAm",
+        "jaMjAyAtAm",
+        "jaYjanyAtAm",
+        "jaYjAyAtAm",
+        "jaMjanyuH",
+        "jaMjAyuH",
+        "jaYjanyuH",
+        "jaYjAyuH",
+        "jaMjanyAH",
+        "jaMjAyAH",
+        "jaYjanyAH",
+        "jaYjAyAH",
+        "jaMjanyAtam",
+        "jaMjAyAtam",
+        "jaYjanyAtam",
+        "jaYjAyAtam",
+        "jaMjanyAta",
+        "jaMjAyAta",
+        "jaYjanyAta",
+        "jaYjAyAta",
+        "jaMjanyAm",
+        "jaMjAyAm",
+        "jaYjanyAm",
+        "jaYjAyAm",
+        "jaMjanyAva",
+        "jaMjAyAva",
+        "jaYjanyAva",
+        "jaYjAyAva",
+        "jaMjanyAma",
+        "jaMjAyAma",
+        "jaYjanyAma",
+        "jaYjAyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "jaMjanizIzwa",
+        "jaYjanizIzwa",
+        "jaMjanizIyAstAm",
+        "jaYjanizIyAstAm",
+        "jaMjanizIran",
+        "jaYjanizIran",
+        "jaMjanizIzWAH",
+        "jaYjanizIzWAH",
+        "jaMjanizIyAsTAm",
+        "jaYjanizIyAsTAm",
+        "jaMjanizIDvam",
+        "jaYjanizIDvam",
+        "jaMjanizIya",
+        "jaYjanizIya",
+        "jaMjanizIvahi",
+        "jaYjanizIvahi",
+        "jaMjanizImahi",
+        "jaYjanizImahi"
+      ],
+      "alang": [
+        "ajaMjanyata",
+        "ajaMjAyata",
+        "ajaYjanyata",
+        "ajaYjAyata",
+        "ajaMjanyetAm",
+        "ajaMjAyetAm",
+        "ajaYjanyetAm",
+        "ajaYjAyetAm",
+        "ajaMjanyanta",
+        "ajaMjAyanta",
+        "ajaYjanyanta",
+        "ajaYjAyanta",
+        "ajaMjanyaTAH",
+        "ajaMjAyaTAH",
+        "ajaYjanyaTAH",
+        "ajaYjAyaTAH",
+        "ajaMjanyeTAm",
+        "ajaMjAyeTAm",
+        "ajaYjanyeTAm",
+        "ajaYjAyeTAm",
+        "ajaMjanyaDvam",
+        "ajaMjAyaDvam",
+        "ajaYjanyaDvam",
+        "ajaYjAyaDvam",
+        "ajaMjanye",
+        "ajaMjAye",
+        "ajaYjanye",
+        "ajaYjAye",
+        "ajaMjanyAvahi",
+        "ajaMjAyAvahi",
+        "ajaYjanyAvahi",
+        "ajaYjAyAvahi",
+        "ajaMjanyAmahi",
+        "ajaMjAyAmahi",
+        "ajaYjanyAmahi",
+        "ajaYjAyAmahi"
+      ],
+      "alat": [
+        "jaMjanyate",
+        "jaMjAyate",
+        "jaYjanyate",
+        "jaYjAyate",
+        "jaMjanyete",
+        "jaMjAyete",
+        "jaYjanyete",
+        "jaYjAyete",
+        "jaMjanyante",
+        "jaMjAyante",
+        "jaYjanyante",
+        "jaYjAyante",
+        "jaMjanyase",
+        "jaMjAyase",
+        "jaYjanyase",
+        "jaYjAyase",
+        "jaMjanyeTe",
+        "jaMjAyeTe",
+        "jaYjanyeTe",
+        "jaYjAyeTe",
+        "jaMjanyaDve",
+        "jaMjAyaDve",
+        "jaYjanyaDve",
+        "jaYjAyaDve",
+        "jaMjanye",
+        "jaMjAye",
+        "jaYjanye",
+        "jaYjAye",
+        "jaMjanyAvahe",
+        "jaMjAyAvahe",
+        "jaYjanyAvahe",
+        "jaYjAyAvahe",
+        "jaMjanyAmahe",
+        "jaMjAyAmahe",
+        "jaYjanyAmahe",
+        "jaYjAyAmahe"
+      ],
+      "alit": [
+        "jaMjanAYcakre",
+        "jaMjanAmAse",
+        "jaMjanAmbaBUve",
+        "jaYjanAYcakre",
+        "jaYjanAmAse",
+        "jaYjanAmbaBUve",
+        "jaMjanAYcakrAte",
+        "jaMjanAmAsAte",
+        "jaMjanAmbaBUvAte",
+        "jaYjanAYcakrAte",
+        "jaYjanAmAsAte",
+        "jaYjanAmbaBUvAte",
+        "jaMjanAYcakrire",
+        "jaMjanAmAsire",
+        "jaMjanAmbaBUvire",
+        "jaYjanAYcakrire",
+        "jaYjanAmAsire",
+        "jaYjanAmbaBUvire",
+        "jaMjanAYcakfze",
+        "jaMjanAmAsize",
+        "jaMjanAmbaBUvize",
+        "jaYjanAYcakfze",
+        "jaYjanAmAsize",
+        "jaYjanAmbaBUvize",
+        "jaMjanAYcakrATe",
+        "jaMjanAmAsATe",
+        "jaMjanAmbaBUvATe",
+        "jaYjanAYcakrATe",
+        "jaYjanAmAsATe",
+        "jaYjanAmbaBUvATe",
+        "jaMjanAYcakfQve",
+        "jaMjanAmAsiDve",
+        "jaMjanAmbaBUviQve",
+        "jaYjanAYcakfQve",
+        "jaYjanAmAsiDve",
+        "jaYjanAmbaBUviQve",
+        "jaMjanAYcakre",
+        "jaMjanAmAhe",
+        "jaMjanAmbaBUve",
+        "jaYjanAYcakre",
+        "jaYjanAmAhe",
+        "jaYjanAmbaBUve",
+        "jaMjanAYcakfvahe",
+        "jaMjanAmAsivahe",
+        "jaMjanAmbaBUvivahe",
+        "jaYjanAYcakfvahe",
+        "jaYjanAmAsivahe",
+        "jaYjanAmbaBUvivahe",
+        "jaMjanAYcakfmahe",
+        "jaMjanAmAsimahe",
+        "jaMjanAmbaBUvimahe",
+        "jaYjanAYcakfmahe",
+        "jaYjanAmAsimahe",
+        "jaYjanAmbaBUvimahe"
+      ],
+      "alot": [
+        "jaMjanyatAm",
+        "jaMjAyatAm",
+        "jaYjanyatAm",
+        "jaYjAyatAm",
+        "jaMjanyetAm",
+        "jaMjAyetAm",
+        "jaYjanyetAm",
+        "jaYjAyetAm",
+        "jaMjanyantAm",
+        "jaMjAyantAm",
+        "jaYjanyantAm",
+        "jaYjAyantAm",
+        "jaMjanyasva",
+        "jaMjAyasva",
+        "jaYjanyasva",
+        "jaYjAyasva",
+        "jaMjanyeTAm",
+        "jaMjAyeTAm",
+        "jaYjanyeTAm",
+        "jaYjAyeTAm",
+        "jaMjanyaDvam",
+        "jaMjAyaDvam",
+        "jaYjanyaDvam",
+        "jaYjAyaDvam",
+        "jaMjanyE",
+        "jaMjAyE",
+        "jaYjanyE",
+        "jaYjAyE",
+        "jaMjanyAvahE",
+        "jaMjAyAvahE",
+        "jaYjanyAvahE",
+        "jaYjAyAvahE",
+        "jaMjanyAmahE",
+        "jaMjAyAmahE",
+        "jaYjanyAmahE",
+        "jaYjAyAmahE"
+      ],
+      "alrung": [
+        "ajaMjanizyata",
+        "ajaYjanizyata",
+        "ajaMjanizyetAm",
+        "ajaYjanizyetAm",
+        "ajaMjanizyanta",
+        "ajaYjanizyanta",
+        "ajaMjanizyaTAH",
+        "ajaYjanizyaTAH",
+        "ajaMjanizyeTAm",
+        "ajaYjanizyeTAm",
+        "ajaMjanizyaDvam",
+        "ajaYjanizyaDvam",
+        "ajaMjanizye",
+        "ajaYjanizye",
+        "ajaMjanizyAvahi",
+        "ajaYjanizyAvahi",
+        "ajaMjanizyAmahi",
+        "ajaYjanizyAmahi"
+      ],
+      "alrut": [
+        "jaMjanizyate",
+        "jaYjanizyate",
+        "jaMjanizyete",
+        "jaYjanizyete",
+        "jaMjanizyante",
+        "jaYjanizyante",
+        "jaMjanizyase",
+        "jaYjanizyase",
+        "jaMjanizyeTe",
+        "jaYjanizyeTe",
+        "jaMjanizyaDve",
+        "jaYjanizyaDve",
+        "jaMjanizye",
+        "jaYjanizye",
+        "jaMjanizyAvahe",
+        "jaYjanizyAvahe",
+        "jaMjanizyAmahe",
+        "jaYjanizyAmahe"
+      ],
+      "alung": [
+        "ajaMjani",
+        "ajaYjani",
+        "ajaMjanizAtAm",
+        "ajaYjanizAtAm",
+        "ajaMjanizata",
+        "ajaYjanizata",
+        "ajaMjanizWAH",
+        "ajaYjanizWAH",
+        "ajaMjanizATAm",
+        "ajaYjanizATAm",
+        "ajaMjaniDvam",
+        "ajaYjaniDvam",
+        "ajaMjanizi",
+        "ajaYjanizi",
+        "ajaMjanizvahi",
+        "ajaYjanizvahi",
+        "ajaMjanizmahi",
+        "ajaYjanizmahi"
+      ],
+      "alut": [
+        "jaMjanitA",
+        "jaYjanitA",
+        "jaMjanitArO",
+        "jaYjanitArO",
+        "jaMjanitAraH",
+        "jaYjanitAraH",
+        "jaMjanitAse",
+        "jaYjanitAse",
+        "jaMjanitAsATe",
+        "jaYjanitAsATe",
+        "jaMjanitADve",
+        "jaYjanitADve",
+        "jaMjanitAhe",
+        "jaYjanitAhe",
+        "jaMjanitAsvahe",
+        "jaYjanitAsvahe",
+        "jaMjanitAsmahe",
+        "jaYjanitAsmahe"
+      ],
+      "avidhiling": [
+        "jaMjanyeta",
+        "jaMjAyeta",
+        "jaYjanyeta",
+        "jaYjAyeta",
+        "jaMjanyeyAtAm",
+        "jaMjAyeyAtAm",
+        "jaYjanyeyAtAm",
+        "jaYjAyeyAtAm",
+        "jaMjanyeran",
+        "jaMjAyeran",
+        "jaYjanyeran",
+        "jaYjAyeran",
+        "jaMjanyeTAH",
+        "jaMjAyeTAH",
+        "jaYjanyeTAH",
+        "jaYjAyeTAH",
+        "jaMjanyeyATAm",
+        "jaMjAyeyATAm",
+        "jaYjanyeyATAm",
+        "jaYjAyeyATAm",
+        "jaMjanyeDvam",
+        "jaMjAyeDvam",
+        "jaYjanyeDvam",
+        "jaYjAyeDvam",
+        "jaMjanyeya",
+        "jaMjAyeya",
+        "jaYjanyeya",
+        "jaYjAyeya",
+        "jaMjanyevahi",
+        "jaMjAyevahi",
+        "jaYjanyevahi",
+        "jaYjAyevahi",
+        "jaMjanyemahi",
+        "jaMjAyemahi",
+        "jaYjanyemahi",
+        "jaYjAyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "jana",
+          "m": "janaH",
+          "f": "janA",
+          "n": "janam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jananIya",
+          "m": "jananIyaH",
+          "f": "jananIyA",
+          "n": "jananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jYita",
+          "m": "jYitaH",
+          "f": "jYitA",
+          "n": "jYitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jYitavat",
+          "m": "jYitavAn",
+          "f": "jYitavatI",
+          "n": "jYitavat/jYitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAti",
+          "m": "",
+          "f": "jAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "janitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jenivas",
+          "m": "jenivAn",
+          "f": "jenuzI",
+          "n": "jenivat/jenivad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jana",
+          "m": "janaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jajYAna",
+          "m": "jajYAnaH",
+          "f": "jajYAnA",
+          "n": "jajYAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "janam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "janya",
+          "m": "janyaH",
+          "f": "janyA",
+          "n": "janyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "janaka",
+          "m": "janakaH",
+          "f": "janikA",
+          "n": "janakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "janitavya",
+          "m": "janitavyaH",
+          "f": "janitavyA",
+          "n": "janitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "janitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "janitf",
+          "m": "janitA",
+          "f": "janitrI",
+          "n": "janitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAyamAna",
+          "m": "jAyamAnaH",
+          "f": "jAyamAnA",
+          "n": "jAyamAnam"
+        },
+        {
+          "base": "janyamAna",
+          "m": "janyamAnaH",
+          "f": "janyamAnA",
+          "n": "janyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "janana",
+          "m": "",
+          "f": "",
+          "n": "jananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "janaka",
+          "m": "janakaH",
+          "f": "janikA",
+          "n": "janakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jajYat",
+          "m": "jajYat/jajYad",
+          "f": "jajYatI",
+          "n": "jajYat/jajYad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "janizyamARa",
+          "m": "janizyamARaH",
+          "f": "janizyamARA",
+          "n": "janizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "janizyat",
+          "m": "janizyan",
+          "f": "janizyatI/janizyantI",
+          "n": "janizyat/janizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "jijanizA",
+          "m": "",
+          "f": "jijanizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jijaniza",
+          "m": "jijanizaH",
+          "f": "jijanizA",
+          "n": "jijanizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jijanizaRIya",
+          "m": "jijanizaRIyaH",
+          "f": "jijanizaRIyA",
+          "n": "jijanizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "jijanizu",
+          "m": "jijanizuH",
+          "f": "jijanizuH",
+          "n": "jijanizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jijanizita",
+          "m": "jijanizitaH",
+          "f": "jijanizitA",
+          "n": "jijanizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jijanizitavat",
+          "m": "jijanizitavAn",
+          "f": "jijanizitavatI",
+          "n": "jijanizitavat/jijanizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jijanizwi",
+          "m": "",
+          "f": "jijanizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jijanizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jijanizAmbaBUvas",
+          "m": "jijanizAmbaBUvAn",
+          "f": "jijanizAmbaBUzI",
+          "n": "jijanizAmbaBUvat/jijanizAmbaBUvad"
+        },
+        {
+          "base": "jijanizAmAsivas",
+          "m": "jijanizAmAsivAn",
+          "f": "jijanizAmAsyuzI",
+          "n": "jijanizAmAsivat/jijanizAmAsivad"
+        },
+        {
+          "base": "jijanizAYcakfvas",
+          "m": "jijanizAYcakfvAn",
+          "f": "jijanizAYcakruzI",
+          "n": "jijanizAYcakfvat/jijanizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jijaniza",
+          "m": "jijanizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jijanizamARa",
+          "m": "jijanizamARaH",
+          "f": "jijanizamARA",
+          "n": "jijanizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jijanizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jijanizaka",
+          "m": "jijanizakaH",
+          "f": "jijanizikA",
+          "n": "jijanizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jijanizitavya",
+          "m": "jijanizitavyaH",
+          "f": "jijanizitavyA",
+          "n": "jijanizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jijanizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jijanizitf",
+          "m": "jijanizitA",
+          "f": "jijanizitrI",
+          "n": "jijanizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jijanizyamARa",
+          "m": "jijanizyamARaH",
+          "f": "jijanizyamARA",
+          "n": "jijanizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jijanizya",
+          "m": "jijanizyaH",
+          "f": "jijanizyA",
+          "n": "jijanizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajijanizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jijanizaRa",
+          "m": "",
+          "f": "",
+          "n": "jijanizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jijanizaka",
+          "m": "jijanizakaH",
+          "f": "jijanizikA",
+          "n": "jijanizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jijanizat",
+          "m": "jijanizan",
+          "f": "jijanizantI",
+          "n": "jijanizat/jijanizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jijanizizyamARa",
+          "m": "jijanizizyamARaH",
+          "f": "jijanizizyamARA",
+          "n": "jijanizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jijanizizyat",
+          "m": "jijanizizyan",
+          "f": "jijanizizyatI/jijanizizyantI",
+          "n": "jijanizizyat/jijanizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "jAna",
+          "m": "jAnaH",
+          "f": "jAnA",
+          "n": "jAnam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAnanIya",
+          "m": "jAnanIyaH",
+          "f": "jAnanIyA",
+          "n": "jAnanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAnita",
+          "m": "jAnitaH",
+          "f": "jAnitA",
+          "n": "jAnitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAnitavat",
+          "m": "jAnitavAn",
+          "f": "jAnitavatI",
+          "n": "jAnitavat/jAnitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAnti",
+          "m": "",
+          "f": "jAntiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAnayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAnayAmbaBUvas",
+          "m": "jAnayAmbaBUvAn",
+          "f": "jAnayAmbaBUzI",
+          "n": "jAnayAmbaBUvat/jAnayAmbaBUvad"
+        },
+        {
+          "base": "jAnayAmAsivas",
+          "m": "jAnayAmAsivAn",
+          "f": "jAnayAmAsyuzI",
+          "n": "jAnayAmAsivat/jAnayAmAsivad"
+        },
+        {
+          "base": "jAnayAYcakfvas",
+          "m": "jAnayAYcakfvAn",
+          "f": "jAnayAYcakruzI",
+          "n": "jAnayAYcakfvat/jAnayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAnayamAna",
+          "m": "jAnayamAnaH",
+          "f": "jAnayamAnA",
+          "n": "jAnayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAnaka",
+          "m": "jAnakaH",
+          "f": "jAnikA",
+          "n": "jAnakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAnayitavya",
+          "m": "jAnayitavyaH",
+          "f": "jAnayitavyA",
+          "n": "jAnayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAnayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAnayitf",
+          "m": "jAnayitA",
+          "f": "jAnayitrI",
+          "n": "jAnayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAnyamAna",
+          "m": "jAnyamAnaH",
+          "f": "jAnyamAnA",
+          "n": "jAnyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jAnya",
+          "m": "jAnyaH",
+          "f": "jAnyA",
+          "n": "jAnyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAnya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAnana",
+          "m": "",
+          "f": "",
+          "n": "jAnanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAnaka",
+          "m": "jAnakaH",
+          "f": "jAnikA",
+          "n": "jAnakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jAnayat",
+          "m": "jAnayan",
+          "f": "jAnayantI",
+          "n": "jAnayat/jAnayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jAnayamAna",
+          "m": "jAnayamAnaH",
+          "f": "jAnayamAnA",
+          "n": "jAnayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAnizyamARa",
+          "m": "jAnizyamARaH",
+          "f": "jAnizyamARA",
+          "n": "jAnizyamARam"
+        },
+        {
+          "base": "jAnayizyamARa",
+          "m": "jAnayizyamARaH",
+          "f": "jAnayizyamARA",
+          "n": "jAnayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jAnayizyat",
+          "m": "jAnayizyan",
+          "f": "jAnayizyatI/jAnayizyantI",
+          "n": "jAnayizyat/jAnayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jAnayizyamARa",
+          "m": "jAnayizyamARaH",
+          "f": "jAnayizyamARA",
+          "n": "jAnayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "jAjAyA",
+          "m": "",
+          "f": "jAjAyA",
+          "n": ""
+        },
+        {
+          "base": "jaMjanA",
+          "m": "",
+          "f": "jaMjanA",
+          "n": ""
+        },
+        {
+          "base": "jaYjanA",
+          "m": "",
+          "f": "jaYjanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jAjA",
+          "m": "jAjAH",
+          "f": "jAjA",
+          "n": "jAjAm"
+        },
+        {
+          "base": "jaMjana",
+          "m": "jaMjanaH",
+          "f": "jaMjanA",
+          "n": "jaMjanam"
+        },
+        {
+          "base": "jaYjana",
+          "m": "jaYjanaH",
+          "f": "jaYjanA",
+          "n": "jaYjanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAjAyanIya",
+          "m": "jAjAyanIyaH",
+          "f": "jAjAyanIyA",
+          "n": "jAjAyanIyam"
+        },
+        {
+          "base": "jaMjananIya",
+          "m": "jaMjananIyaH",
+          "f": "jaMjananIyA",
+          "n": "jaMjananIyam"
+        },
+        {
+          "base": "jaYjananIya",
+          "m": "jaYjananIyaH",
+          "f": "jaYjananIyA",
+          "n": "jaYjananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAjAyita",
+          "m": "jAjAyitaH",
+          "f": "jAjAyitA",
+          "n": "jAjAyitam"
+        },
+        {
+          "base": "jaMjYita",
+          "m": "jaMjYitaH",
+          "f": "jaMjYitA",
+          "n": "jaMjYitam"
+        },
+        {
+          "base": "jaYjYita",
+          "m": "jaYjYitaH",
+          "f": "jaYjYitA",
+          "n": "jaYjYitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAjAyitavat",
+          "m": "jAjAyitavAn",
+          "f": "jAjAyitavatI",
+          "n": "jAjAyitavat/jAjAyitavad"
+        },
+        {
+          "base": "jaMjYitavat",
+          "m": "jaMjYitavAn",
+          "f": "jaMjYitavatI",
+          "n": "jaMjYitavat/jaMjYitavad"
+        },
+        {
+          "base": "jaYjYitavat",
+          "m": "jaYjYitavAn",
+          "f": "jaYjYitavatI",
+          "n": "jaYjYitavat/jaYjYitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAjAti",
+          "m": "",
+          "f": "jAjAtiH",
+          "n": ""
+        },
+        {
+          "base": "jaMjanti",
+          "m": "",
+          "f": "jaMjantiH",
+          "n": ""
+        },
+        {
+          "base": "jaYjanti",
+          "m": "",
+          "f": "jaYjantiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAjAyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaMjanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAjAyAmbaBUvas",
+          "m": "jAjAyAmbaBUvAn",
+          "f": "jAjAyAmbaBUzI",
+          "n": "jAjAyAmbaBUvat/jAjAyAmbaBUvad"
+        },
+        {
+          "base": "jAjAyAmAsivas",
+          "m": "jAjAyAmAsivAn",
+          "f": "jAjAyAmAsyuzI",
+          "n": "jAjAyAmAsivat/jAjAyAmAsivad"
+        },
+        {
+          "base": "jAjAyAYcakfvas",
+          "m": "jAjAyAYcakfvAn",
+          "f": "jAjAyAYcakruzI",
+          "n": "jAjAyAYcakfvat/jAjAyAYcakfvad"
+        },
+        {
+          "base": "jaMjanAmbaBUvas",
+          "m": "jaMjanAmbaBUvAn",
+          "f": "jaMjanAmbaBUzI",
+          "n": "jaMjanAmbaBUvat/jaMjanAmbaBUvad"
+        },
+        {
+          "base": "jaYjanAmbaBUvas",
+          "m": "jaYjanAmbaBUvAn",
+          "f": "jaYjanAmbaBUzI",
+          "n": "jaYjanAmbaBUvat/jaYjanAmbaBUvad"
+        },
+        {
+          "base": "jaMjanAmAsivas",
+          "m": "jaMjanAmAsivAn",
+          "f": "jaMjanAmAsyuzI",
+          "n": "jaMjanAmAsivat/jaMjanAmAsivad"
+        },
+        {
+          "base": "jaYjanAmAsivas",
+          "m": "jaYjanAmAsivAn",
+          "f": "jaYjanAmAsyuzI",
+          "n": "jaYjanAmAsivat/jaYjanAmAsivad"
+        },
+        {
+          "base": "jaMjanAYcakfvas",
+          "m": "jaMjanAYcakfvAn",
+          "f": "jaMjanAYcakruzI",
+          "n": "jaMjanAYcakfvat/jaMjanAYcakfvad"
+        },
+        {
+          "base": "jaYjanAYcakfvas",
+          "m": "jaYjanAYcakfvAn",
+          "f": "jaYjanAYcakruzI",
+          "n": "jaYjanAYcakfvat/jaYjanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jAjAya",
+          "m": "jAjAyaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaMjana",
+          "m": "jaMjanaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjana",
+          "m": "jaYjanaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAjAyamAna",
+          "m": "jAjAyamAnaH",
+          "f": "jAjAyamAnA",
+          "n": "jAjAyamAnam"
+        },
+        {
+          "base": "jaMjanyamAna",
+          "m": "jaMjanyamAnaH",
+          "f": "jaMjanyamAnA",
+          "n": "jaMjanyamAnam"
+        },
+        {
+          "base": "jaYjanyamAna",
+          "m": "jaYjanyamAnaH",
+          "f": "jaYjanyamAnA",
+          "n": "jaYjanyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAjAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaMjanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAjAyaka",
+          "m": "jAjAyakaH",
+          "f": "jAjAyikA",
+          "n": "jAjAyakam"
+        },
+        {
+          "base": "jaMjanaka",
+          "m": "jaMjanakaH",
+          "f": "jaMjanikA",
+          "n": "jaMjanakam"
+        },
+        {
+          "base": "jaYjanaka",
+          "m": "jaYjanakaH",
+          "f": "jaYjanikA",
+          "n": "jaYjanakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAjAyitavya",
+          "m": "jAjAyitavyaH",
+          "f": "jAjAyitavyA",
+          "n": "jAjAyitavyam"
+        },
+        {
+          "base": "jaMjanitavya",
+          "m": "jaMjanitavyaH",
+          "f": "jaMjanitavyA",
+          "n": "jaMjanitavyam"
+        },
+        {
+          "base": "jaYjanitavya",
+          "m": "jaYjanitavyaH",
+          "f": "jaYjanitavyA",
+          "n": "jaYjanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAjAyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaMjanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAjAyitf",
+          "m": "jAjAyitA",
+          "f": "jAjAyitrI",
+          "n": "jAjAyitf"
+        },
+        {
+          "base": "jaMjanitf",
+          "m": "jaMjanitA",
+          "f": "jaMjanitrI",
+          "n": "jaMjanitf"
+        },
+        {
+          "base": "jaYjanitf",
+          "m": "jaYjanitA",
+          "f": "jaYjanitrI",
+          "n": "jaYjanitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAjAyyamAna",
+          "m": "jAjAyyamAnaH",
+          "f": "jAjAyyamAnA",
+          "n": "jAjAyyamAnam"
+        },
+        {
+          "base": "jaMjanyamAna",
+          "m": "jaMjanyamAnaH",
+          "f": "jaMjanyamAnA",
+          "n": "jaMjanyamAnam"
+        },
+        {
+          "base": "jaYjanyamAna",
+          "m": "jaYjanyamAnaH",
+          "f": "jaYjanyamAnA",
+          "n": "jaYjanyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jAjAyya",
+          "m": "jAjAyyaH",
+          "f": "jAjAyyA",
+          "n": "jAjAyyam"
+        },
+        {
+          "base": "jaMjanya",
+          "m": "jaMjanyaH",
+          "f": "jaMjanyA",
+          "n": "jaMjanyam"
+        },
+        {
+          "base": "jaYjanya",
+          "m": "jaYjanyaH",
+          "f": "jaYjanyA",
+          "n": "jaYjanyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAjAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajaMjanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajaYjanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAjAyana",
+          "m": "",
+          "f": "",
+          "n": "jAjAyanam"
+        },
+        {
+          "base": "jaMjanana",
+          "m": "",
+          "f": "",
+          "n": "jaMjananam"
+        },
+        {
+          "base": "jaYjanana",
+          "m": "",
+          "f": "",
+          "n": "jaYjananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAjAyaka",
+          "m": "jAjAyakaH",
+          "f": "jAjAyikA",
+          "n": "jAjAyakam"
+        },
+        {
+          "base": "jaMjanaka",
+          "m": "jaMjanakaH",
+          "f": "jaMjanikA",
+          "n": "jaMjanakam"
+        },
+        {
+          "base": "jaYjanaka",
+          "m": "jaYjanakaH",
+          "f": "jaYjanikA",
+          "n": "jaYjanakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jAjAyamAna",
+          "m": "jAjAyamAnaH",
+          "f": "jAjAyamAnA",
+          "n": "jAjAyamAnam"
+        },
+        {
+          "base": "jaMjanyamAna",
+          "m": "jaMjanyamAnaH",
+          "f": "jaMjanyamAnA",
+          "n": "jaMjanyamAnam"
+        },
+        {
+          "base": "jaYjanyamAna",
+          "m": "jaYjanyamAnaH",
+          "f": "jaYjanyamAnA",
+          "n": "jaYjanyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAjAyizyamARa",
+          "m": "jAjAyizyamARaH",
+          "f": "jAjAyizyamARA",
+          "n": "jAjAyizyamARam"
+        },
+        {
+          "base": "jaMjanizyamARa",
+          "m": "jaMjanizyamARaH",
+          "f": "jaMjanizyamARA",
+          "n": "jaMjanizyamARam"
+        },
+        {
+          "base": "jaYjanizyamARa",
+          "m": "jaYjanizyamARaH",
+          "f": "jaYjanizyamARA",
+          "n": "jaYjanizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jAjAyizyamARa",
+          "m": "jAjAyizyamARaH",
+          "f": "jAjAyizyamARA",
+          "n": "jAjAyizyamARam"
+        },
+        {
+          "base": "jaMjanizyamARa",
+          "m": "jaMjanizyamARaH",
+          "f": "jaMjanizyamARA",
+          "n": "jaMjanizyamARam"
+        },
+        {
+          "base": "jaYjanizyamARa",
+          "m": "jaYjanizyamARaH",
+          "f": "jaYjanizyamARA",
+          "n": "jaYjanizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "jaMjanA",
+          "m": "",
+          "f": "jaMjanA",
+          "n": ""
+        },
+        {
+          "base": "jaYjanA",
+          "m": "",
+          "f": "jaYjanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jaMjana",
+          "m": "jaMjanaH",
+          "f": "jaMjanA",
+          "n": "jaMjanam"
+        },
+        {
+          "base": "jaYjana",
+          "m": "jaYjanaH",
+          "f": "jaYjanA",
+          "n": "jaYjanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jaMjananIya",
+          "m": "jaMjananIyaH",
+          "f": "jaMjananIyA",
+          "n": "jaMjananIyam"
+        },
+        {
+          "base": "jaYjananIya",
+          "m": "jaYjananIyaH",
+          "f": "jaYjananIyA",
+          "n": "jaYjananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jaMjYita",
+          "m": "jaMjYitaH",
+          "f": "jaMjYitA",
+          "n": "jaMjYitam"
+        },
+        {
+          "base": "jaYjYita",
+          "m": "jaYjYitaH",
+          "f": "jaYjYitA",
+          "n": "jaYjYitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jaMjYitavat",
+          "m": "jaMjYitavAn",
+          "f": "jaMjYitavatI",
+          "n": "jaMjYitavat/jaMjYitavad"
+        },
+        {
+          "base": "jaYjYitavat",
+          "m": "jaYjYitavAn",
+          "f": "jaYjYitavatI",
+          "n": "jaYjYitavat/jaYjYitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jaMjAti",
+          "m": "",
+          "f": "jaMjAtiH",
+          "n": ""
+        },
+        {
+          "base": "jaYjAti",
+          "m": "",
+          "f": "jaYjAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jaMjanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jaMjanAmbaBUvas",
+          "m": "jaMjanAmbaBUvAn",
+          "f": "jaMjanAmbaBUzI",
+          "n": "jaMjanAmbaBUvat/jaMjanAmbaBUvad"
+        },
+        {
+          "base": "jaYjanAmbaBUvas",
+          "m": "jaYjanAmbaBUvAn",
+          "f": "jaYjanAmbaBUzI",
+          "n": "jaYjanAmbaBUvat/jaYjanAmbaBUvad"
+        },
+        {
+          "base": "jaMjanAmAsivas",
+          "m": "jaMjanAmAsivAn",
+          "f": "jaMjanAmAsyuzI",
+          "n": "jaMjanAmAsivat/jaMjanAmAsivad"
+        },
+        {
+          "base": "jaYjanAmAsivas",
+          "m": "jaYjanAmAsivAn",
+          "f": "jaYjanAmAsyuzI",
+          "n": "jaYjanAmAsivat/jaYjanAmAsivad"
+        },
+        {
+          "base": "jaMjanAYcakfvas",
+          "m": "jaMjanAYcakfvAn",
+          "f": "jaMjanAYcakruzI",
+          "n": "jaMjanAYcakfvat/jaMjanAYcakfvad"
+        },
+        {
+          "base": "jaYjanAYcakfvas",
+          "m": "jaYjanAYcakfvAn",
+          "f": "jaYjanAYcakruzI",
+          "n": "jaYjanAYcakfvat/jaYjanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jaMjana",
+          "m": "jaMjanaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjana",
+          "m": "jaYjanaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jaMjYAna",
+          "m": "jaMjYAnaH",
+          "f": "jaMjYAnA",
+          "n": "jaMjYAnam"
+        },
+        {
+          "base": "jaYjYAna",
+          "m": "jaYjYAnaH",
+          "f": "jaYjYAnA",
+          "n": "jaYjYAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jaMjanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jaMjanaka",
+          "m": "jaMjanakaH",
+          "f": "jaMjanikA",
+          "n": "jaMjanakam"
+        },
+        {
+          "base": "jaYjanaka",
+          "m": "jaYjanakaH",
+          "f": "jaYjanikA",
+          "n": "jaYjanakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jaMjanitavya",
+          "m": "jaMjanitavyaH",
+          "f": "jaMjanitavyA",
+          "n": "jaMjanitavyam"
+        },
+        {
+          "base": "jaYjanitavya",
+          "m": "jaYjanitavyaH",
+          "f": "jaYjanitavyA",
+          "n": "jaYjanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jaMjanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jaMjanitf",
+          "m": "jaMjanitA",
+          "f": "jaMjanitrI",
+          "n": "jaMjanitf"
+        },
+        {
+          "base": "jaYjanitf",
+          "m": "jaYjanitA",
+          "f": "jaYjanitrI",
+          "n": "jaYjanitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jaMjAyamAna",
+          "m": "jaMjAyamAnaH",
+          "f": "jaMjAyamAnA",
+          "n": "jaMjAyamAnam"
+        },
+        {
+          "base": "jaYjAyamAna",
+          "m": "jaYjAyamAnaH",
+          "f": "jaYjAyamAnA",
+          "n": "jaYjAyamAnam"
+        },
+        {
+          "base": "jaMjanyamAna",
+          "m": "jaMjanyamAnaH",
+          "f": "jaMjanyamAnA",
+          "n": "jaMjanyamAnam"
+        },
+        {
+          "base": "jaYjanyamAna",
+          "m": "jaYjanyamAnaH",
+          "f": "jaYjanyamAnA",
+          "n": "jaYjanyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajaMjAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajaYjAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajaMjanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajaYjanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jaMjanana",
+          "m": "",
+          "f": "",
+          "n": "jaMjananam"
+        },
+        {
+          "base": "jaYjanana",
+          "m": "",
+          "f": "",
+          "n": "jaYjananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jaMjanaka",
+          "m": "jaMjanakaH",
+          "f": "jaMjanikA",
+          "n": "jaMjanakam"
+        },
+        {
+          "base": "jaYjanaka",
+          "m": "jaYjanakaH",
+          "f": "jaYjanikA",
+          "n": "jaYjanakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jaMjYat",
+          "m": "jaMjYat/jaMjYad",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jaYjYat",
+          "m": "jaYjYan",
+          "f": "jaYjYatI",
+          "n": "jaYjYat/jaYjYad"
+        },
+        {
+          "base": "jaYjYat",
+          "m": "jaYjYan",
+          "f": "jaYjYatI",
+          "n": "jaYjYat/jaYjYad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jaMjanizyamARa",
+          "m": "jaMjanizyamARaH",
+          "f": "jaMjanizyamARA",
+          "n": "jaMjanizyamARam"
+        },
+        {
+          "base": "jaYjanizyamARa",
+          "m": "jaYjanizyamARaH",
+          "f": "jaYjanizyamARA",
+          "n": "jaYjanizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jaMjanizyat",
+          "m": "jaMjanizyan",
+          "f": "jaMjanizyatI/jaMjanizyantI",
+          "n": "jaMjanizyat/jaMjanizyad"
+        },
+        {
+          "base": "jaYjanizyat",
+          "m": "jaYjanizyan",
+          "f": "jaYjanizyatI/jaYjanizyantI",
+          "n": "jaYjanizyat/jaYjanizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "jan",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [
+    {
+      "form": "janizyati",
+      "lakaar": "lfwlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "vAlmIkirAmAyaRe bAlakARqam",
+          "reference": "70.35",
+          "text": "mahAvIryo mahAtejA acirAtsaYjanizyati",
+          "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=70&field_sloka_value=35&"
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {}
+}

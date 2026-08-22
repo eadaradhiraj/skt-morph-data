@@ -1,0 +1,4970 @@
+{
+  "id": "02.0020",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "piji~"
+    },
+    {
+      "name": "arTaH",
+      "value": "varRe samparcane avayave avyakte Sabde ca"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to color, to paint, to make shine, to murmur"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "raMganA, camakIlA karanA, DuMDuruoMkA Sabda honA, wukaq0e wukaq0e karanA, aspazwa Sabda honA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "yaTAyaTaM sakarmakaH akarmakaH ca . ' samparcane ityeke . avayave ityapare . avyakte Sabde itItare ' iti kOmudI .  ' varRe piNkte Bavet piYjerBAzArTe piYjayediti ' (Slo. 60) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "adAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH",
+      "note": "arTam anusftya ayaM DAtuH akarmakaH api Bavati ."
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1028"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1028"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2440",
+      "ext_link": "/sutraani/sk2440?scroll=sutra-commentary-kaumudi-region&highlight=paijai"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "piYjizIzwa",
+        "piYjizIyAstAm",
+        "piYjizIran",
+        "piYjizIzWAH",
+        "piYjizIyAsTAm",
+        "piYjizIDvam",
+        "piYjizIya",
+        "piYjizIvahi",
+        "piYjizImahi"
+      ],
+      "alang": [
+        "apiNkta",
+        "apiYjAtAm",
+        "apiYjata",
+        "apiNkTAH",
+        "apiYjATAm",
+        "apiNgDvam",
+        "apiYji",
+        "apiYjvahi",
+        "apiYjmahi"
+      ],
+      "alat": [
+        "piNkte",
+        "piYjAte",
+        "piYjate",
+        "piNkze",
+        "piYjATe",
+        "piNgDve",
+        "piYje",
+        "piYjvahe",
+        "piYjmahe"
+      ],
+      "alit": [
+        "pipiYje",
+        "pipiYjAte",
+        "pipiYjire",
+        "pipiYjize",
+        "pipiYjATe",
+        "pipiYjiDve",
+        "pipiYje",
+        "pipiYjivahe",
+        "pipiYjimahe"
+      ],
+      "alot": [
+        "piNktAm",
+        "piYjAtAm",
+        "piYjatAm",
+        "piNkzva",
+        "piYjATAm",
+        "piNgDvam",
+        "piYjE",
+        "piYjAvahE",
+        "piYjAmahE"
+      ],
+      "alrung": [
+        "apiYjizyata",
+        "apiYjizyetAm",
+        "apiYjizyanta",
+        "apiYjizyaTAH",
+        "apiYjizyeTAm",
+        "apiYjizyaDvam",
+        "apiYjizye",
+        "apiYjizyAvahi",
+        "apiYjizyAmahi"
+      ],
+      "alrut": [
+        "piYjizyate",
+        "piYjizyete",
+        "piYjizyante",
+        "piYjizyase",
+        "piYjizyeTe",
+        "piYjizyaDve",
+        "piYjizye",
+        "piYjizyAvahe",
+        "piYjizyAmahe"
+      ],
+      "alung": [
+        "apiYjizwa",
+        "apiYjizAtAm",
+        "apiYjizata",
+        "apiYjizWAH",
+        "apiYjizATAm",
+        "apiYjiDvam",
+        "apiYjizi",
+        "apiYjizvahi",
+        "apiYjizmahi"
+      ],
+      "alut": [
+        "piYjitA",
+        "piYjitArO",
+        "piYjitAraH",
+        "piYjitAse",
+        "piYjitAsATe",
+        "piYjitADve",
+        "piYjitAhe",
+        "piYjitAsvahe",
+        "piYjitAsmahe"
+      ],
+      "avidhiling": [
+        "piYjIta",
+        "piYjIyAtAm",
+        "piYjIran",
+        "piYjITAH",
+        "piYjIyATAm",
+        "piYjIDvam",
+        "piYjIya",
+        "piYjIvahi",
+        "piYjImahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "piYjizIzwa",
+        "piYjizIyAstAm",
+        "piYjizIran",
+        "piYjizIzWAH",
+        "piYjizIyAsTAm",
+        "piYjizIDvam",
+        "piYjizIya",
+        "piYjizIvahi",
+        "piYjizImahi"
+      ],
+      "alang": [
+        "apiYjyata",
+        "apiYjyetAm",
+        "apiYjyanta",
+        "apiYjyaTAH",
+        "apiYjyeTAm",
+        "apiYjyaDvam",
+        "apiYjye",
+        "apiYjyAvahi",
+        "apiYjyAmahi"
+      ],
+      "alat": [
+        "piYjyate",
+        "piYjyete",
+        "piYjyante",
+        "piYjyase",
+        "piYjyeTe",
+        "piYjyaDve",
+        "piYjye",
+        "piYjyAvahe",
+        "piYjyAmahe"
+      ],
+      "alit": [
+        "pipiYje",
+        "pipiYjAte",
+        "pipiYjire",
+        "pipiYjize",
+        "pipiYjATe",
+        "pipiYjiDve",
+        "pipiYje",
+        "pipiYjivahe",
+        "pipiYjimahe"
+      ],
+      "alot": [
+        "piYjyatAm",
+        "piYjyetAm",
+        "piYjyantAm",
+        "piYjyasva",
+        "piYjyeTAm",
+        "piYjyaDvam",
+        "piYjyE",
+        "piYjyAvahE",
+        "piYjyAmahE"
+      ],
+      "alrung": [
+        "apiYjizyata",
+        "apiYjizyetAm",
+        "apiYjizyanta",
+        "apiYjizyaTAH",
+        "apiYjizyeTAm",
+        "apiYjizyaDvam",
+        "apiYjizye",
+        "apiYjizyAvahi",
+        "apiYjizyAmahi"
+      ],
+      "alrut": [
+        "piYjizyate",
+        "piYjizyete",
+        "piYjizyante",
+        "piYjizyase",
+        "piYjizyeTe",
+        "piYjizyaDve",
+        "piYjizye",
+        "piYjizyAvahe",
+        "piYjizyAmahe"
+      ],
+      "alung": [
+        "apiYji",
+        "apiYjizAtAm",
+        "apiYjizata",
+        "apiYjizWAH",
+        "apiYjizATAm",
+        "apiYjiDvam",
+        "apiYjizi",
+        "apiYjizvahi",
+        "apiYjizmahi"
+      ],
+      "alut": [
+        "piYjitA",
+        "piYjitArO",
+        "piYjitAraH",
+        "piYjitAse",
+        "piYjitAsATe",
+        "piYjitADve",
+        "piYjitAhe",
+        "piYjitAsvahe",
+        "piYjitAsmahe"
+      ],
+      "avidhiling": [
+        "piYjyeta",
+        "piYjyeyAtAm",
+        "piYjyeran",
+        "piYjyeTAH",
+        "piYjyeyATAm",
+        "piYjyeDvam",
+        "piYjyeya",
+        "piYjyevahi",
+        "piYjyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "pipiYjizizIzwa",
+        "pipiYjizizIyAstAm",
+        "pipiYjizizIran",
+        "pipiYjizizIzWAH",
+        "pipiYjizizIyAsTAm",
+        "pipiYjizizIDvam",
+        "pipiYjizizIya",
+        "pipiYjizizIvahi",
+        "pipiYjizizImahi"
+      ],
+      "alang": [
+        "apipiYjizata",
+        "apipiYjizetAm",
+        "apipiYjizanta",
+        "apipiYjizaTAH",
+        "apipiYjizeTAm",
+        "apipiYjizaDvam",
+        "apipiYjize",
+        "apipiYjizAvahi",
+        "apipiYjizAmahi"
+      ],
+      "alat": [
+        "pipiYjizate",
+        "pipiYjizete",
+        "pipiYjizante",
+        "pipiYjizase",
+        "pipiYjizeTe",
+        "pipiYjizaDve",
+        "pipiYjize",
+        "pipiYjizAvahe",
+        "pipiYjizAmahe"
+      ],
+      "alit": [
+        "pipiYjizAYcakre",
+        "pipiYjizAmAsa",
+        "pipiYjizAmbaBUva",
+        "pipiYjizAYcakrAte",
+        "pipiYjizAmAsatuH",
+        "pipiYjizAmbaBUvatuH",
+        "pipiYjizAYcakrire",
+        "pipiYjizAmAsuH",
+        "pipiYjizAmbaBUvuH",
+        "pipiYjizAYcakfze",
+        "pipiYjizAmAsiTa",
+        "pipiYjizAmbaBUviTa",
+        "pipiYjizAYcakrATe",
+        "pipiYjizAmAsaTuH",
+        "pipiYjizAmbaBUvaTuH",
+        "pipiYjizAYcakfQve",
+        "pipiYjizAmAsa",
+        "pipiYjizAmbaBUva",
+        "pipiYjizAYcakre",
+        "pipiYjizAmAsa",
+        "pipiYjizAmbaBUva",
+        "pipiYjizAYcakfvahe",
+        "pipiYjizAmAsiva",
+        "pipiYjizAmbaBUviva",
+        "pipiYjizAYcakfmahe",
+        "pipiYjizAmAsima",
+        "pipiYjizAmbaBUvima"
+      ],
+      "alot": [
+        "pipiYjizatAm",
+        "pipiYjizetAm",
+        "pipiYjizantAm",
+        "pipiYjizasva",
+        "pipiYjizeTAm",
+        "pipiYjizaDvam",
+        "pipiYjizE",
+        "pipiYjizAvahE",
+        "pipiYjizAmahE"
+      ],
+      "alrung": [
+        "apipiYjizizyata",
+        "apipiYjizizyetAm",
+        "apipiYjizizyanta",
+        "apipiYjizizyaTAH",
+        "apipiYjizizyeTAm",
+        "apipiYjizizyaDvam",
+        "apipiYjizizye",
+        "apipiYjizizyAvahi",
+        "apipiYjizizyAmahi"
+      ],
+      "alrut": [
+        "pipiYjizizyate",
+        "pipiYjizizyete",
+        "pipiYjizizyante",
+        "pipiYjizizyase",
+        "pipiYjizizyeTe",
+        "pipiYjizizyaDve",
+        "pipiYjizizye",
+        "pipiYjizizyAvahe",
+        "pipiYjizizyAmahe"
+      ],
+      "alung": [
+        "apipiYjizizwa",
+        "apipiYjizizAtAm",
+        "apipiYjizizata",
+        "apipiYjizizWAH",
+        "apipiYjizizATAm",
+        "apipiYjiziDvam",
+        "apipiYjizizi",
+        "apipiYjizizvahi",
+        "apipiYjizizmahi"
+      ],
+      "alut": [
+        "pipiYjizitA",
+        "pipiYjizitArO",
+        "pipiYjizitAraH",
+        "pipiYjizitAse",
+        "pipiYjizitAsATe",
+        "pipiYjizitADve",
+        "pipiYjizitAhe",
+        "pipiYjizitAsvahe",
+        "pipiYjizitAsmahe"
+      ],
+      "avidhiling": [
+        "pipiYjizeta",
+        "pipiYjizeyAtAm",
+        "pipiYjizeran",
+        "pipiYjizeTAH",
+        "pipiYjizeyATAm",
+        "pipiYjizeDvam",
+        "pipiYjizeya",
+        "pipiYjizevahi",
+        "pipiYjizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "pipiYjizizIzwa",
+        "pipiYjizizIyAstAm",
+        "pipiYjizizIran",
+        "pipiYjizizIzWAH",
+        "pipiYjizizIyAsTAm",
+        "pipiYjizizIDvam",
+        "pipiYjizizIya",
+        "pipiYjizizIvahi",
+        "pipiYjizizImahi"
+      ],
+      "alang": [
+        "apipiYjizyata",
+        "apipiYjizyetAm",
+        "apipiYjizyanta",
+        "apipiYjizyaTAH",
+        "apipiYjizyeTAm",
+        "apipiYjizyaDvam",
+        "apipiYjizye",
+        "apipiYjizyAvahi",
+        "apipiYjizyAmahi"
+      ],
+      "alat": [
+        "pipiYjizyate",
+        "pipiYjizyete",
+        "pipiYjizyante",
+        "pipiYjizyase",
+        "pipiYjizyeTe",
+        "pipiYjizyaDve",
+        "pipiYjizye",
+        "pipiYjizyAvahe",
+        "pipiYjizyAmahe"
+      ],
+      "alit": [
+        "pipiYjizAYcakre",
+        "pipiYjizAmAse",
+        "pipiYjizAmbaBUve",
+        "pipiYjizAYcakrAte",
+        "pipiYjizAmAsAte",
+        "pipiYjizAmbaBUvAte",
+        "pipiYjizAYcakrire",
+        "pipiYjizAmAsire",
+        "pipiYjizAmbaBUvire",
+        "pipiYjizAYcakfze",
+        "pipiYjizAmAsize",
+        "pipiYjizAmbaBUvize",
+        "pipiYjizAYcakrATe",
+        "pipiYjizAmAsATe",
+        "pipiYjizAmbaBUvATe",
+        "pipiYjizAYcakfQve",
+        "pipiYjizAmAsiDve",
+        "pipiYjizAmbaBUviQve",
+        "pipiYjizAYcakre",
+        "pipiYjizAmAhe",
+        "pipiYjizAmbaBUve",
+        "pipiYjizAYcakfvahe",
+        "pipiYjizAmAsivahe",
+        "pipiYjizAmbaBUvivahe",
+        "pipiYjizAYcakfmahe",
+        "pipiYjizAmAsimahe",
+        "pipiYjizAmbaBUvimahe"
+      ],
+      "alot": [
+        "pipiYjizyatAm",
+        "pipiYjizyetAm",
+        "pipiYjizyantAm",
+        "pipiYjizyasva",
+        "pipiYjizyeTAm",
+        "pipiYjizyaDvam",
+        "pipiYjizyE",
+        "pipiYjizyAvahE",
+        "pipiYjizyAmahE"
+      ],
+      "alrung": [
+        "apipiYjizizyata",
+        "apipiYjizizyetAm",
+        "apipiYjizizyanta",
+        "apipiYjizizyaTAH",
+        "apipiYjizizyeTAm",
+        "apipiYjizizyaDvam",
+        "apipiYjizizye",
+        "apipiYjizizyAvahi",
+        "apipiYjizizyAmahi"
+      ],
+      "alrut": [
+        "pipiYjizizyate",
+        "pipiYjizizyete",
+        "pipiYjizizyante",
+        "pipiYjizizyase",
+        "pipiYjizizyeTe",
+        "pipiYjizizyaDve",
+        "pipiYjizizye",
+        "pipiYjizizyAvahe",
+        "pipiYjizizyAmahe"
+      ],
+      "alung": [
+        "apipiYjizi",
+        "apipiYjizizAtAm",
+        "apipiYjizizata",
+        "apipiYjizizWAH",
+        "apipiYjizizATAm",
+        "apipiYjiziDvam",
+        "apipiYjizizi",
+        "apipiYjizizvahi",
+        "apipiYjizizmahi"
+      ],
+      "alut": [
+        "pipiYjizitA",
+        "pipiYjizitArO",
+        "pipiYjizitAraH",
+        "pipiYjizitAse",
+        "pipiYjizitAsATe",
+        "pipiYjizitADve",
+        "pipiYjizitAhe",
+        "pipiYjizitAsvahe",
+        "pipiYjizitAsmahe"
+      ],
+      "avidhiling": [
+        "pipiYjizyeta",
+        "pipiYjizyeyAtAm",
+        "pipiYjizyeran",
+        "pipiYjizyeTAH",
+        "pipiYjizyeyATAm",
+        "pipiYjizyeDvam",
+        "pipiYjizyeya",
+        "pipiYjizyevahi",
+        "pipiYjizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "piYjayizIzwa",
+        "piYjayizIyAstAm",
+        "piYjayizIran",
+        "piYjayizIzWAH",
+        "piYjayizIyAsTAm",
+        "piYjayizIQvam",
+        "piYjayizIDvam",
+        "piYjayizIya",
+        "piYjayizIvahi",
+        "piYjayizImahi"
+      ],
+      "alang": [
+        "apiYjayata",
+        "apiYjayetAm",
+        "apiYjayanta",
+        "apiYjayaTAH",
+        "apiYjayeTAm",
+        "apiYjayaDvam",
+        "apiYjaye",
+        "apiYjayAvahi",
+        "apiYjayAmahi"
+      ],
+      "alat": [
+        "piYjayate",
+        "piYjayete",
+        "piYjayante",
+        "piYjayase",
+        "piYjayeTe",
+        "piYjayaDve",
+        "piYjaye",
+        "piYjayAvahe",
+        "piYjayAmahe"
+      ],
+      "alit": [
+        "piYjayAYcakre",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakrAte",
+        "piYjayAmAsatuH",
+        "piYjayAmbaBUvatuH",
+        "piYjayAYcakrire",
+        "piYjayAmAsuH",
+        "piYjayAmbaBUvuH",
+        "piYjayAYcakfze",
+        "piYjayAmAsiTa",
+        "piYjayAmbaBUviTa",
+        "piYjayAYcakrATe",
+        "piYjayAmAsaTuH",
+        "piYjayAmbaBUvaTuH",
+        "piYjayAYcakfQve",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakre",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakfvahe",
+        "piYjayAmAsiva",
+        "piYjayAmbaBUviva",
+        "piYjayAYcakfmahe",
+        "piYjayAmAsima",
+        "piYjayAmbaBUvima"
+      ],
+      "alot": [
+        "piYjayatAm",
+        "piYjayetAm",
+        "piYjayantAm",
+        "piYjayasva",
+        "piYjayeTAm",
+        "piYjayaDvam",
+        "piYjayE",
+        "piYjayAvahE",
+        "piYjayAmahE"
+      ],
+      "alrung": [
+        "apiYjayizyata",
+        "apiYjayizyetAm",
+        "apiYjayizyanta",
+        "apiYjayizyaTAH",
+        "apiYjayizyeTAm",
+        "apiYjayizyaDvam",
+        "apiYjayizye",
+        "apiYjayizyAvahi",
+        "apiYjayizyAmahi"
+      ],
+      "alrut": [
+        "piYjayizyate",
+        "piYjayizyete",
+        "piYjayizyante",
+        "piYjayizyase",
+        "piYjayizyeTe",
+        "piYjayizyaDve",
+        "piYjayizye",
+        "piYjayizyAvahe",
+        "piYjayizyAmahe"
+      ],
+      "alung": [
+        "apipiYjata",
+        "apipiYjetAm",
+        "apipiYjanta",
+        "apipiYjaTAH",
+        "apipiYjeTAm",
+        "apipiYjaDvam",
+        "apipiYje",
+        "apipiYjAvahi",
+        "apipiYjAmahi"
+      ],
+      "alut": [
+        "piYjayitA",
+        "piYjayitArO",
+        "piYjayitAraH",
+        "piYjayitAse",
+        "piYjayitAsATe",
+        "piYjayitADve",
+        "piYjayitAhe",
+        "piYjayitAsvahe",
+        "piYjayitAsmahe"
+      ],
+      "avidhiling": [
+        "piYjayeta",
+        "piYjayeyAtAm",
+        "piYjayeran",
+        "piYjayeTAH",
+        "piYjayeyATAm",
+        "piYjayeDvam",
+        "piYjayeya",
+        "piYjayevahi",
+        "piYjayemahi"
+      ],
+      "pashirling": [
+        "piYjyAt",
+        "piYjyAd",
+        "piYjyAstAm",
+        "piYjyAsuH",
+        "piYjyAH",
+        "piYjyAstam",
+        "piYjyAsta",
+        "piYjyAsam",
+        "piYjyAsva",
+        "piYjyAsma"
+      ],
+      "plang": [
+        "apiYjayat",
+        "apiYjayad",
+        "apiYjayatAm",
+        "apiYjayan",
+        "apiYjayaH",
+        "apiYjayatam",
+        "apiYjayata",
+        "apiYjayam",
+        "apiYjayAva",
+        "apiYjayAma"
+      ],
+      "plat": [
+        "piYjayati",
+        "piYjayataH",
+        "piYjayanti",
+        "piYjayasi",
+        "piYjayaTaH",
+        "piYjayaTa",
+        "piYjayAmi",
+        "piYjayAvaH",
+        "piYjayAmaH"
+      ],
+      "plit": [
+        "piYjayAYcakAra",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakratuH",
+        "piYjayAmAsatuH",
+        "piYjayAmbaBUvatuH",
+        "piYjayAYcakruH",
+        "piYjayAmAsuH",
+        "piYjayAmbaBUvuH",
+        "piYjayAYcakarTa",
+        "piYjayAmAsiTa",
+        "piYjayAmbaBUviTa",
+        "piYjayAYcakraTuH",
+        "piYjayAmAsaTuH",
+        "piYjayAmbaBUvaTuH",
+        "piYjayAYcakra",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakara",
+        "piYjayAYcakAra",
+        "piYjayAmAsa",
+        "piYjayAmbaBUva",
+        "piYjayAYcakfva",
+        "piYjayAmAsiva",
+        "piYjayAmbaBUviva",
+        "piYjayAYcakfma",
+        "piYjayAmAsima",
+        "piYjayAmbaBUvima"
+      ],
+      "plot": [
+        "piYjayatAt",
+        "piYjayatAd",
+        "piYjayatu",
+        "piYjayatAm",
+        "piYjayantu",
+        "piYjaya",
+        "piYjayatAt",
+        "piYjayatAd",
+        "piYjayatam",
+        "piYjayata",
+        "piYjayAni",
+        "piYjayAva",
+        "piYjayAma"
+      ],
+      "plrung": [
+        "apiYjayizyat",
+        "apiYjayizyad",
+        "apiYjayizyatAm",
+        "apiYjayizyan",
+        "apiYjayizyaH",
+        "apiYjayizyatam",
+        "apiYjayizyata",
+        "apiYjayizyam",
+        "apiYjayizyAva",
+        "apiYjayizyAma"
+      ],
+      "plrut": [
+        "piYjayizyati",
+        "piYjayizyataH",
+        "piYjayizyanti",
+        "piYjayizyasi",
+        "piYjayizyaTaH",
+        "piYjayizyaTa",
+        "piYjayizyAmi",
+        "piYjayizyAvaH",
+        "piYjayizyAmaH"
+      ],
+      "plung": [
+        "apipiYjat",
+        "apipiYjad",
+        "apipiYjatAm",
+        "apipiYjan",
+        "apipiYjaH",
+        "apipiYjatam",
+        "apipiYjata",
+        "apipiYjam",
+        "apipiYjAva",
+        "apipiYjAma"
+      ],
+      "plut": [
+        "piYjayitA",
+        "piYjayitArO",
+        "piYjayitAraH",
+        "piYjayitAsi",
+        "piYjayitAsTaH",
+        "piYjayitAsTa",
+        "piYjayitAsmi",
+        "piYjayitAsvaH",
+        "piYjayitAsmaH"
+      ],
+      "pvidhiling": [
+        "piYjayet",
+        "piYjayed",
+        "piYjayetAm",
+        "piYjayeyuH",
+        "piYjayeH",
+        "piYjayetam",
+        "piYjayeta",
+        "piYjayeyam",
+        "piYjayeva",
+        "piYjayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "piYjayizIzwa",
+        "piYjizIzwa",
+        "piYjayizIyAstAm",
+        "piYjizIyAstAm",
+        "piYjayizIran",
+        "piYjizIran",
+        "piYjayizIzWAH",
+        "piYjizIzWAH",
+        "piYjayizIyAsTAm",
+        "piYjizIyAsTAm",
+        "piYjayizIQvam",
+        "piYjayizIDvam",
+        "piYjizIDvam",
+        "piYjayizIya",
+        "piYjizIya",
+        "piYjayizIvahi",
+        "piYjizIvahi",
+        "piYjayizImahi",
+        "piYjizImahi"
+      ],
+      "alang": [
+        "apiYjyata",
+        "apiYjyetAm",
+        "apiYjyanta",
+        "apiYjyaTAH",
+        "apiYjyeTAm",
+        "apiYjyaDvam",
+        "apiYjye",
+        "apiYjyAvahi",
+        "apiYjyAmahi"
+      ],
+      "alat": [
+        "piYjyate",
+        "piYjyete",
+        "piYjyante",
+        "piYjyase",
+        "piYjyeTe",
+        "piYjyaDve",
+        "piYjye",
+        "piYjyAvahe",
+        "piYjyAmahe"
+      ],
+      "alit": [
+        "piYjayAYcakre",
+        "piYjayAmAse",
+        "piYjayAmbaBUve",
+        "piYjayAYcakrAte",
+        "piYjayAmAsAte",
+        "piYjayAmbaBUvAte",
+        "piYjayAYcakrire",
+        "piYjayAmAsire",
+        "piYjayAmbaBUvire",
+        "piYjayAYcakfze",
+        "piYjayAmAsize",
+        "piYjayAmbaBUvize",
+        "piYjayAYcakrATe",
+        "piYjayAmAsATe",
+        "piYjayAmbaBUvATe",
+        "piYjayAYcakfQve",
+        "piYjayAmAsiDve",
+        "piYjayAmbaBUviQve",
+        "piYjayAYcakre",
+        "piYjayAmAhe",
+        "piYjayAmbaBUve",
+        "piYjayAYcakfvahe",
+        "piYjayAmAsivahe",
+        "piYjayAmbaBUvivahe",
+        "piYjayAYcakfmahe",
+        "piYjayAmAsimahe",
+        "piYjayAmbaBUvimahe"
+      ],
+      "alot": [
+        "piYjyatAm",
+        "piYjyetAm",
+        "piYjyantAm",
+        "piYjyasva",
+        "piYjyeTAm",
+        "piYjyaDvam",
+        "piYjyE",
+        "piYjyAvahE",
+        "piYjyAmahE"
+      ],
+      "alrung": [
+        "apiYjayizyata",
+        "apiYjizyata",
+        "apiYjayizyetAm",
+        "apiYjizyetAm",
+        "apiYjayizyanta",
+        "apiYjizyanta",
+        "apiYjayizyaTAH",
+        "apiYjizyaTAH",
+        "apiYjayizyeTAm",
+        "apiYjizyeTAm",
+        "apiYjayizyaDvam",
+        "apiYjizyaDvam",
+        "apiYjayizye",
+        "apiYjizye",
+        "apiYjayizyAvahi",
+        "apiYjizyAvahi",
+        "apiYjayizyAmahi",
+        "apiYjizyAmahi"
+      ],
+      "alrut": [
+        "piYjayizyate",
+        "piYjizyate",
+        "piYjayizyete",
+        "piYjizyete",
+        "piYjayizyante",
+        "piYjizyante",
+        "piYjayizyase",
+        "piYjizyase",
+        "piYjayizyeTe",
+        "piYjizyeTe",
+        "piYjayizyaDve",
+        "piYjizyaDve",
+        "piYjayizye",
+        "piYjizye",
+        "piYjayizyAvahe",
+        "piYjizyAvahe",
+        "piYjayizyAmahe",
+        "piYjizyAmahe"
+      ],
+      "alung": [
+        "apiYji",
+        "apiYjayizAtAm",
+        "apiYjizAtAm",
+        "apiYjayizata",
+        "apiYjizata",
+        "apiYjayizWAH",
+        "apiYjizWAH",
+        "apiYjayizATAm",
+        "apiYjizATAm",
+        "apiYjayiQvam",
+        "apiYjayiDvam",
+        "apiYjiDvam",
+        "apiYjayizi",
+        "apiYjizi",
+        "apiYjayizvahi",
+        "apiYjizvahi",
+        "apiYjayizmahi",
+        "apiYjizmahi"
+      ],
+      "alut": [
+        "piYjayitA",
+        "piYjitA",
+        "piYjayitArO",
+        "piYjitArO",
+        "piYjayitAraH",
+        "piYjitAraH",
+        "piYjayitAse",
+        "piYjitAse",
+        "piYjayitAsATe",
+        "piYjitAsATe",
+        "piYjayitADve",
+        "piYjitADve",
+        "piYjayitAhe",
+        "piYjitAhe",
+        "piYjayitAsvahe",
+        "piYjitAsvahe",
+        "piYjayitAsmahe",
+        "piYjitAsmahe"
+      ],
+      "avidhiling": [
+        "piYjyeta",
+        "piYjyeyAtAm",
+        "piYjyeran",
+        "piYjyeTAH",
+        "piYjyeyATAm",
+        "piYjyeDvam",
+        "piYjyeya",
+        "piYjyevahi",
+        "piYjyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "pepiYjizIzwa",
+        "pepiYjizIyAstAm",
+        "pepiYjizIran",
+        "pepiYjizIzWAH",
+        "pepiYjizIyAsTAm",
+        "pepiYjizIDvam",
+        "pepiYjizIya",
+        "pepiYjizIvahi",
+        "pepiYjizImahi"
+      ],
+      "alang": [
+        "apepiYjyata",
+        "apepiYjyetAm",
+        "apepiYjyanta",
+        "apepiYjyaTAH",
+        "apepiYjyeTAm",
+        "apepiYjyaDvam",
+        "apepiYjye",
+        "apepiYjyAvahi",
+        "apepiYjyAmahi"
+      ],
+      "alat": [
+        "pepiYjyate",
+        "pepiYjyete",
+        "pepiYjyante",
+        "pepiYjyase",
+        "pepiYjyeTe",
+        "pepiYjyaDve",
+        "pepiYjye",
+        "pepiYjyAvahe",
+        "pepiYjyAmahe"
+      ],
+      "alit": [
+        "pepiYjAYcakre",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakrAte",
+        "pepiYjAmAsatuH",
+        "pepiYjAmbaBUvatuH",
+        "pepiYjAYcakrire",
+        "pepiYjAmAsuH",
+        "pepiYjAmbaBUvuH",
+        "pepiYjAYcakfze",
+        "pepiYjAmAsiTa",
+        "pepiYjAmbaBUviTa",
+        "pepiYjAYcakrATe",
+        "pepiYjAmAsaTuH",
+        "pepiYjAmbaBUvaTuH",
+        "pepiYjAYcakfQve",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakre",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakfvahe",
+        "pepiYjAmAsiva",
+        "pepiYjAmbaBUviva",
+        "pepiYjAYcakfmahe",
+        "pepiYjAmAsima",
+        "pepiYjAmbaBUvima"
+      ],
+      "alot": [
+        "pepiYjyatAm",
+        "pepiYjyetAm",
+        "pepiYjyantAm",
+        "pepiYjyasva",
+        "pepiYjyeTAm",
+        "pepiYjyaDvam",
+        "pepiYjyE",
+        "pepiYjyAvahE",
+        "pepiYjyAmahE"
+      ],
+      "alrung": [
+        "apepiYjizyata",
+        "apepiYjizyetAm",
+        "apepiYjizyanta",
+        "apepiYjizyaTAH",
+        "apepiYjizyeTAm",
+        "apepiYjizyaDvam",
+        "apepiYjizye",
+        "apepiYjizyAvahi",
+        "apepiYjizyAmahi"
+      ],
+      "alrut": [
+        "pepiYjizyate",
+        "pepiYjizyete",
+        "pepiYjizyante",
+        "pepiYjizyase",
+        "pepiYjizyeTe",
+        "pepiYjizyaDve",
+        "pepiYjizye",
+        "pepiYjizyAvahe",
+        "pepiYjizyAmahe"
+      ],
+      "alung": [
+        "apepiYjizwa",
+        "apepiYjizAtAm",
+        "apepiYjizata",
+        "apepiYjizWAH",
+        "apepiYjizATAm",
+        "apepiYjiDvam",
+        "apepiYjizi",
+        "apepiYjizvahi",
+        "apepiYjizmahi"
+      ],
+      "alut": [
+        "pepiYjitA",
+        "pepiYjitArO",
+        "pepiYjitAraH",
+        "pepiYjitAse",
+        "pepiYjitAsATe",
+        "pepiYjitADve",
+        "pepiYjitAhe",
+        "pepiYjitAsvahe",
+        "pepiYjitAsmahe"
+      ],
+      "avidhiling": [
+        "pepiYjyeta",
+        "pepiYjyeyAtAm",
+        "pepiYjyeran",
+        "pepiYjyeTAH",
+        "pepiYjyeyATAm",
+        "pepiYjyeDvam",
+        "pepiYjyeya",
+        "pepiYjyevahi",
+        "pepiYjyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "pepiYjizIzwa",
+        "pepiYjizIyAstAm",
+        "pepiYjizIran",
+        "pepiYjizIzWAH",
+        "pepiYjizIyAsTAm",
+        "pepiYjizIDvam",
+        "pepiYjizIya",
+        "pepiYjizIvahi",
+        "pepiYjizImahi"
+      ],
+      "alang": [
+        "apepiYjyata",
+        "apepiYjyetAm",
+        "apepiYjyanta",
+        "apepiYjyaTAH",
+        "apepiYjyeTAm",
+        "apepiYjyaDvam",
+        "apepiYjye",
+        "apepiYjyAvahi",
+        "apepiYjyAmahi"
+      ],
+      "alat": [
+        "pepiYjyate",
+        "pepiYjyete",
+        "pepiYjyante",
+        "pepiYjyase",
+        "pepiYjyeTe",
+        "pepiYjyaDve",
+        "pepiYjye",
+        "pepiYjyAvahe",
+        "pepiYjyAmahe"
+      ],
+      "alit": [
+        "pepiYjAYcakre",
+        "pepiYjAmAse",
+        "pepiYjAmbaBUve",
+        "pepiYjAYcakrAte",
+        "pepiYjAmAsAte",
+        "pepiYjAmbaBUvAte",
+        "pepiYjAYcakrire",
+        "pepiYjAmAsire",
+        "pepiYjAmbaBUvire",
+        "pepiYjAYcakfze",
+        "pepiYjAmAsize",
+        "pepiYjAmbaBUvize",
+        "pepiYjAYcakrATe",
+        "pepiYjAmAsATe",
+        "pepiYjAmbaBUvATe",
+        "pepiYjAYcakfQve",
+        "pepiYjAmAsiDve",
+        "pepiYjAmbaBUviQve",
+        "pepiYjAYcakre",
+        "pepiYjAmAhe",
+        "pepiYjAmbaBUve",
+        "pepiYjAYcakfvahe",
+        "pepiYjAmAsivahe",
+        "pepiYjAmbaBUvivahe",
+        "pepiYjAYcakfmahe",
+        "pepiYjAmAsimahe",
+        "pepiYjAmbaBUvimahe"
+      ],
+      "alot": [
+        "pepiYjyatAm",
+        "pepiYjyetAm",
+        "pepiYjyantAm",
+        "pepiYjyasva",
+        "pepiYjyeTAm",
+        "pepiYjyaDvam",
+        "pepiYjyE",
+        "pepiYjyAvahE",
+        "pepiYjyAmahE"
+      ],
+      "alrung": [
+        "apepiYjizyata",
+        "apepiYjizyetAm",
+        "apepiYjizyanta",
+        "apepiYjizyaTAH",
+        "apepiYjizyeTAm",
+        "apepiYjizyaDvam",
+        "apepiYjizye",
+        "apepiYjizyAvahi",
+        "apepiYjizyAmahi"
+      ],
+      "alrut": [
+        "pepiYjizyate",
+        "pepiYjizyete",
+        "pepiYjizyante",
+        "pepiYjizyase",
+        "pepiYjizyeTe",
+        "pepiYjizyaDve",
+        "pepiYjizye",
+        "pepiYjizyAvahe",
+        "pepiYjizyAmahe"
+      ],
+      "alung": [
+        "apepiYji",
+        "apepiYjizAtAm",
+        "apepiYjizata",
+        "apepiYjizWAH",
+        "apepiYjizATAm",
+        "apepiYjiDvam",
+        "apepiYjizi",
+        "apepiYjizvahi",
+        "apepiYjizmahi"
+      ],
+      "alut": [
+        "pepiYjitA",
+        "pepiYjitArO",
+        "pepiYjitAraH",
+        "pepiYjitAse",
+        "pepiYjitAsATe",
+        "pepiYjitADve",
+        "pepiYjitAhe",
+        "pepiYjitAsvahe",
+        "pepiYjitAsmahe"
+      ],
+      "avidhiling": [
+        "pepiYjyeta",
+        "pepiYjyeyAtAm",
+        "pepiYjyeran",
+        "pepiYjyeTAH",
+        "pepiYjyeyATAm",
+        "pepiYjyeDvam",
+        "pepiYjyeya",
+        "pepiYjyevahi",
+        "pepiYjyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "pepiYjyAt",
+        "pepiYjyAd",
+        "pepiYjyAstAm",
+        "pepiYjyAsuH",
+        "pepiYjyAH",
+        "pepiYjyAstam",
+        "pepiYjyAsta",
+        "pepiYjyAsam",
+        "pepiYjyAsva",
+        "pepiYjyAsma"
+      ],
+      "plang": [
+        "apepiYjIt",
+        "apepiYjId",
+        "apepin",
+        "apepiNktAm",
+        "apepiYjuH",
+        "apepiYjIH",
+        "apepin",
+        "apepiNktam",
+        "apepiNkta",
+        "apepiYjam",
+        "apepiYjva",
+        "apepiYjma"
+      ],
+      "plat": [
+        "pepiNkti",
+        "pepiYjIti",
+        "pepiNktaH",
+        "pepiYjati",
+        "pepiNkzi",
+        "pepiYjIzi",
+        "pepiNkTaH",
+        "pepiNkTa",
+        "pepiYjImi",
+        "pepiYjmi",
+        "pepiYjvaH",
+        "pepiYjmaH"
+      ],
+      "plit": [
+        "pepiYjAYcakAra",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakratuH",
+        "pepiYjAmAsatuH",
+        "pepiYjAmbaBUvatuH",
+        "pepiYjAYcakruH",
+        "pepiYjAmAsuH",
+        "pepiYjAmbaBUvuH",
+        "pepiYjAYcakarTa",
+        "pepiYjAmAsiTa",
+        "pepiYjAmbaBUviTa",
+        "pepiYjAYcakraTuH",
+        "pepiYjAmAsaTuH",
+        "pepiYjAmbaBUvaTuH",
+        "pepiYjAYcakra",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakara",
+        "pepiYjAYcakAra",
+        "pepiYjAmAsa",
+        "pepiYjAmbaBUva",
+        "pepiYjAYcakfva",
+        "pepiYjAmAsiva",
+        "pepiYjAmbaBUviva",
+        "pepiYjAYcakfma",
+        "pepiYjAmAsima",
+        "pepiYjAmbaBUvima"
+      ],
+      "plot": [
+        "pepiNktAt",
+        "pepiNktAd",
+        "pepiNktu",
+        "pepiYjItu",
+        "pepiNktAm",
+        "pepiYjatu",
+        "pepiNktAt",
+        "pepiNktAd",
+        "pepiNgDi",
+        "pepiNktam",
+        "pepiNkta",
+        "pepiYjAni",
+        "pepiYjAva",
+        "pepiYjAma"
+      ],
+      "plrung": [
+        "apepiYjizyat",
+        "apepiYjizyad",
+        "apepiYjizyatAm",
+        "apepiYjizyan",
+        "apepiYjizyaH",
+        "apepiYjizyatam",
+        "apepiYjizyata",
+        "apepiYjizyam",
+        "apepiYjizyAva",
+        "apepiYjizyAma"
+      ],
+      "plrut": [
+        "pepiYjizyati",
+        "pepiYjizyataH",
+        "pepiYjizyanti",
+        "pepiYjizyasi",
+        "pepiYjizyaTaH",
+        "pepiYjizyaTa",
+        "pepiYjizyAmi",
+        "pepiYjizyAvaH",
+        "pepiYjizyAmaH"
+      ],
+      "plung": [
+        "apepiYjIt",
+        "apepiYjId",
+        "apepiYjizwAm",
+        "apepiYjizuH",
+        "apepiYjIH",
+        "apepiYjizwam",
+        "apepiYjizwa",
+        "apepiYjizam",
+        "apepiYjizva",
+        "apepiYjizma"
+      ],
+      "plut": [
+        "pepiYjitA",
+        "pepiYjitArO",
+        "pepiYjitAraH",
+        "pepiYjitAsi",
+        "pepiYjitAsTaH",
+        "pepiYjitAsTa",
+        "pepiYjitAsmi",
+        "pepiYjitAsvaH",
+        "pepiYjitAsmaH"
+      ],
+      "pvidhiling": [
+        "pepiYjyAt",
+        "pepiYjyAd",
+        "pepiYjyAtAm",
+        "pepiYjyuH",
+        "pepiYjyAH",
+        "pepiYjyAtam",
+        "pepiYjyAta",
+        "pepiYjyAm",
+        "pepiYjyAva",
+        "pepiYjyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "pepiYjizIzwa",
+        "pepiYjizIyAstAm",
+        "pepiYjizIran",
+        "pepiYjizIzWAH",
+        "pepiYjizIyAsTAm",
+        "pepiYjizIDvam",
+        "pepiYjizIya",
+        "pepiYjizIvahi",
+        "pepiYjizImahi"
+      ],
+      "alang": [
+        "apepiYjyata",
+        "apepiYjyetAm",
+        "apepiYjyanta",
+        "apepiYjyaTAH",
+        "apepiYjyeTAm",
+        "apepiYjyaDvam",
+        "apepiYjye",
+        "apepiYjyAvahi",
+        "apepiYjyAmahi"
+      ],
+      "alat": [
+        "pepiYjyate",
+        "pepiYjyete",
+        "pepiYjyante",
+        "pepiYjyase",
+        "pepiYjyeTe",
+        "pepiYjyaDve",
+        "pepiYjye",
+        "pepiYjyAvahe",
+        "pepiYjyAmahe"
+      ],
+      "alit": [
+        "pepiYjAYcakre",
+        "pepiYjAmAse",
+        "pepiYjAmbaBUve",
+        "pepiYjAYcakrAte",
+        "pepiYjAmAsAte",
+        "pepiYjAmbaBUvAte",
+        "pepiYjAYcakrire",
+        "pepiYjAmAsire",
+        "pepiYjAmbaBUvire",
+        "pepiYjAYcakfze",
+        "pepiYjAmAsize",
+        "pepiYjAmbaBUvize",
+        "pepiYjAYcakrATe",
+        "pepiYjAmAsATe",
+        "pepiYjAmbaBUvATe",
+        "pepiYjAYcakfQve",
+        "pepiYjAmAsiDve",
+        "pepiYjAmbaBUviQve",
+        "pepiYjAYcakre",
+        "pepiYjAmAhe",
+        "pepiYjAmbaBUve",
+        "pepiYjAYcakfvahe",
+        "pepiYjAmAsivahe",
+        "pepiYjAmbaBUvivahe",
+        "pepiYjAYcakfmahe",
+        "pepiYjAmAsimahe",
+        "pepiYjAmbaBUvimahe"
+      ],
+      "alot": [
+        "pepiYjyatAm",
+        "pepiYjyetAm",
+        "pepiYjyantAm",
+        "pepiYjyasva",
+        "pepiYjyeTAm",
+        "pepiYjyaDvam",
+        "pepiYjyE",
+        "pepiYjyAvahE",
+        "pepiYjyAmahE"
+      ],
+      "alrung": [
+        "apepiYjizyata",
+        "apepiYjizyetAm",
+        "apepiYjizyanta",
+        "apepiYjizyaTAH",
+        "apepiYjizyeTAm",
+        "apepiYjizyaDvam",
+        "apepiYjizye",
+        "apepiYjizyAvahi",
+        "apepiYjizyAmahi"
+      ],
+      "alrut": [
+        "pepiYjizyate",
+        "pepiYjizyete",
+        "pepiYjizyante",
+        "pepiYjizyase",
+        "pepiYjizyeTe",
+        "pepiYjizyaDve",
+        "pepiYjizye",
+        "pepiYjizyAvahe",
+        "pepiYjizyAmahe"
+      ],
+      "alung": [
+        "apepiYji",
+        "apepiYjizAtAm",
+        "apepiYjizata",
+        "apepiYjizWAH",
+        "apepiYjizATAm",
+        "apepiYjiDvam",
+        "apepiYjizi",
+        "apepiYjizvahi",
+        "apepiYjizmahi"
+      ],
+      "alut": [
+        "pepiYjitA",
+        "pepiYjitArO",
+        "pepiYjitAraH",
+        "pepiYjitAse",
+        "pepiYjitAsATe",
+        "pepiYjitADve",
+        "pepiYjitAhe",
+        "pepiYjitAsvahe",
+        "pepiYjitAsmahe"
+      ],
+      "avidhiling": [
+        "pepiYjyeta",
+        "pepiYjyeyAtAm",
+        "pepiYjyeran",
+        "pepiYjyeTAH",
+        "pepiYjyeyATAm",
+        "pepiYjyeDvam",
+        "pepiYjyeya",
+        "pepiYjyevahi",
+        "pepiYjyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "piYjA",
+          "m": "",
+          "f": "piYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "piYja",
+          "m": "piYjaH",
+          "f": "piYjA",
+          "n": "piYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "piYjanIya",
+          "m": "piYjanIyaH",
+          "f": "piYjanIyA",
+          "n": "piYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "piYjita",
+          "m": "piYjitaH",
+          "f": "piYjitA",
+          "n": "piYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "piYjitavat",
+          "m": "piYjitavAn",
+          "f": "piYjitavatI",
+          "n": "piYjitavat/piYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "piNkti",
+          "m": "",
+          "f": "piNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "piYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pipiYjvas",
+          "m": "pipiYjvAn",
+          "f": "pipiYjuzI",
+          "n": "pipiYjvat/pipiYjvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "piNga",
+          "m": "piNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "piYjAna",
+          "m": "piYjAnaH",
+          "f": "piYjAnA",
+          "n": "piYjAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "piYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "piYjya",
+          "m": "piYjyaH",
+          "f": "piYjyA",
+          "n": "piYjyam"
+        },
+        {
+          "base": "piNgya",
+          "m": "piNgyaH",
+          "f": "piNgyA",
+          "n": "piNgyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "piYjaka",
+          "m": "piYjakaH",
+          "f": "piYjikA",
+          "n": "piYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "piYjitavya",
+          "m": "piYjitavyaH",
+          "f": "piYjitavyA",
+          "n": "piYjitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "piYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "piYjitf",
+          "m": "piYjitA",
+          "f": "piYjitrI",
+          "n": "piYjitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "piYjyamAna",
+          "m": "piYjyamAnaH",
+          "f": "piYjyamAnA",
+          "n": "piYjyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapijya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapiYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "piYjana",
+          "m": "",
+          "f": "",
+          "n": "piYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "piYjaka",
+          "m": "piYjakaH",
+          "f": "piYjikA",
+          "n": "piYjakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "piYjAna",
+          "m": "piYjAnaH",
+          "f": "piYjAnA",
+          "n": "piYjAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "piYjizyamARa",
+          "m": "piYjizyamARaH",
+          "f": "piYjizyamARA",
+          "n": "piYjizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "piYjizyamARa",
+          "m": "piYjizyamARaH",
+          "f": "piYjizyamARA",
+          "n": "piYjizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "pipiYjizA",
+          "m": "",
+          "f": "pipiYjizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pipiYjiza",
+          "m": "pipiYjizaH",
+          "f": "pipiYjizA",
+          "n": "pipiYjizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pipiYjizaRIya",
+          "m": "pipiYjizaRIyaH",
+          "f": "pipiYjizaRIyA",
+          "n": "pipiYjizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "pipiYjizu",
+          "m": "pipiYjizuH",
+          "f": "pipiYjizuH",
+          "n": "pipiYjizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pipiYjizita",
+          "m": "pipiYjizitaH",
+          "f": "pipiYjizitA",
+          "n": "pipiYjizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pipiYjizitavat",
+          "m": "pipiYjizitavAn",
+          "f": "pipiYjizitavatI",
+          "n": "pipiYjizitavat/pipiYjizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pipiYjizwi",
+          "m": "",
+          "f": "pipiYjizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pipiYjizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pipiYjizAmbaBUvas",
+          "m": "pipiYjizAmbaBUvAn",
+          "f": "pipiYjizAmbaBUzI",
+          "n": "pipiYjizAmbaBUvat/pipiYjizAmbaBUvad"
+        },
+        {
+          "base": "pipiYjizAmAsivas",
+          "m": "pipiYjizAmAsivAn",
+          "f": "pipiYjizAmAsyuzI",
+          "n": "pipiYjizAmAsivat/pipiYjizAmAsivad"
+        },
+        {
+          "base": "pipiYjizAYcakfvas",
+          "m": "pipiYjizAYcakfvAn",
+          "f": "pipiYjizAYcakruzI",
+          "n": "pipiYjizAYcakfvat/pipiYjizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pipiYjiza",
+          "m": "pipiYjizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pipiYjizamARa",
+          "m": "pipiYjizamARaH",
+          "f": "pipiYjizamARA",
+          "n": "pipiYjizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pipiYjizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pipiYjizaka",
+          "m": "pipiYjizakaH",
+          "f": "pipiYjizikA",
+          "n": "pipiYjizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pipiYjizitavya",
+          "m": "pipiYjizitavyaH",
+          "f": "pipiYjizitavyA",
+          "n": "pipiYjizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pipiYjizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pipiYjizitf",
+          "m": "pipiYjizitA",
+          "f": "pipiYjizitrI",
+          "n": "pipiYjizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pipiYjizyamARa",
+          "m": "pipiYjizyamARaH",
+          "f": "pipiYjizyamARA",
+          "n": "pipiYjizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pipiYjizya",
+          "m": "pipiYjizyaH",
+          "f": "pipiYjizyA",
+          "n": "pipiYjizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapipiYjizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pipiYjizaRa",
+          "m": "",
+          "f": "",
+          "n": "pipiYjizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pipiYjizaka",
+          "m": "pipiYjizakaH",
+          "f": "pipiYjizikA",
+          "n": "pipiYjizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "pipiYjizamARa",
+          "m": "pipiYjizamARaH",
+          "f": "pipiYjizamARA",
+          "n": "pipiYjizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pipiYjizizyamARa",
+          "m": "pipiYjizizyamARaH",
+          "f": "pipiYjizizyamARA",
+          "n": "pipiYjizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "pipiYjizizyamARa",
+          "m": "pipiYjizizyamARaH",
+          "f": "pipiYjizizyamARA",
+          "n": "pipiYjizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "piYja",
+          "m": "piYjaH",
+          "f": "piYjA",
+          "n": "piYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "piYjanIya",
+          "m": "piYjanIyaH",
+          "f": "piYjanIyA",
+          "n": "piYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "piYjita",
+          "m": "piYjitaH",
+          "f": "piYjitA",
+          "n": "piYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "piYjitavat",
+          "m": "piYjitavAn",
+          "f": "piYjitavatI",
+          "n": "piYjitavat/piYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "piNkti",
+          "m": "",
+          "f": "piNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "piYjayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piYjayAmbaBUvas",
+          "m": "piYjayAmbaBUvAn",
+          "f": "piYjayAmbaBUzI",
+          "n": "piYjayAmbaBUvat/piYjayAmbaBUvad"
+        },
+        {
+          "base": "piYjayAmAsivas",
+          "m": "piYjayAmAsivAn",
+          "f": "piYjayAmAsyuzI",
+          "n": "piYjayAmAsivat/piYjayAmAsivad"
+        },
+        {
+          "base": "piYjayAYcakfvas",
+          "m": "piYjayAYcakfvAn",
+          "f": "piYjayAYcakruzI",
+          "n": "piYjayAYcakfvat/piYjayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "piYjayamAna",
+          "m": "piYjayamAnaH",
+          "f": "piYjayamAnA",
+          "n": "piYjayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "piYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "piYjaka",
+          "m": "piYjakaH",
+          "f": "piYjikA",
+          "n": "piYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "piYjayitavya",
+          "m": "piYjayitavyaH",
+          "f": "piYjayitavyA",
+          "n": "piYjayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "piYjayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "piYjayitf",
+          "m": "piYjayitA",
+          "f": "piYjayitrI",
+          "n": "piYjayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "piYjyamAna",
+          "m": "piYjyamAnaH",
+          "f": "piYjyamAnA",
+          "n": "piYjyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "piYjya",
+          "m": "piYjyaH",
+          "f": "piYjyA",
+          "n": "piYjyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapiYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "piYjana",
+          "m": "",
+          "f": "",
+          "n": "piYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "piYjaka",
+          "m": "piYjakaH",
+          "f": "piYjikA",
+          "n": "piYjakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "piYjayat",
+          "m": "piYjayan",
+          "f": "piYjayantI",
+          "n": "piYjayat/piYjayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "piYjayamAna",
+          "m": "piYjayamAnaH",
+          "f": "piYjayamAnA",
+          "n": "piYjayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "piYjizyamARa",
+          "m": "piYjizyamARaH",
+          "f": "piYjizyamARA",
+          "n": "piYjizyamARam"
+        },
+        {
+          "base": "piYjayizyamARa",
+          "m": "piYjayizyamARaH",
+          "f": "piYjayizyamARA",
+          "n": "piYjayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "piYjayizyat",
+          "m": "piYjayizyan",
+          "f": "piYjayizyatI/piYjayizyantI",
+          "n": "piYjayizyat/piYjayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "piYjayizyamARa",
+          "m": "piYjayizyamARaH",
+          "f": "piYjayizyamARA",
+          "n": "piYjayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "pepiYjA",
+          "m": "",
+          "f": "pepiYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepiYja",
+          "m": "pepiYjaH",
+          "f": "pepiYjA",
+          "n": "pepiYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pepiYjanIya",
+          "m": "pepiYjanIyaH",
+          "f": "pepiYjanIyA",
+          "n": "pepiYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pepiYjita",
+          "m": "pepiYjitaH",
+          "f": "pepiYjitA",
+          "n": "pepiYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pepiYjitavat",
+          "m": "pepiYjitavAn",
+          "f": "pepiYjitavatI",
+          "n": "pepiYjitavat/pepiYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pepiNkti",
+          "m": "",
+          "f": "pepiNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pepiYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pepiYjAmbaBUvas",
+          "m": "pepiYjAmbaBUvAn",
+          "f": "pepiYjAmbaBUzI",
+          "n": "pepiYjAmbaBUvat/pepiYjAmbaBUvad"
+        },
+        {
+          "base": "pepiYjAmAsivas",
+          "m": "pepiYjAmAsivAn",
+          "f": "pepiYjAmAsyuzI",
+          "n": "pepiYjAmAsivat/pepiYjAmAsivad"
+        },
+        {
+          "base": "pepiYjAYcakfvas",
+          "m": "pepiYjAYcakfvAn",
+          "f": "pepiYjAYcakruzI",
+          "n": "pepiYjAYcakfvat/pepiYjAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pepiNga",
+          "m": "pepiNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pepiYjyamAna",
+          "m": "pepiYjyamAnaH",
+          "f": "pepiYjyamAnA",
+          "n": "pepiYjyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pepiYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pepiYjaka",
+          "m": "pepiYjakaH",
+          "f": "pepiYjikA",
+          "n": "pepiYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pepiYjitavya",
+          "m": "pepiYjitavyaH",
+          "f": "pepiYjitavyA",
+          "n": "pepiYjitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pepiYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pepiYjitf",
+          "m": "pepiYjitA",
+          "f": "pepiYjitrI",
+          "n": "pepiYjitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pepiYjyamAna",
+          "m": "pepiYjyamAnaH",
+          "f": "pepiYjyamAnA",
+          "n": "pepiYjyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pepiYjya",
+          "m": "pepiYjyaH",
+          "f": "pepiYjyA",
+          "n": "pepiYjyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapepiYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pepiYjana",
+          "m": "",
+          "f": "",
+          "n": "pepiYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pepiYjaka",
+          "m": "pepiYjakaH",
+          "f": "pepiYjikA",
+          "n": "pepiYjakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "pepiYjyamAna",
+          "m": "pepiYjyamAnaH",
+          "f": "pepiYjyamAnA",
+          "n": "pepiYjyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pepiYjizyamARa",
+          "m": "pepiYjizyamARaH",
+          "f": "pepiYjizyamARA",
+          "n": "pepiYjizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "pepiYjizyamARa",
+          "m": "pepiYjizyamARaH",
+          "f": "pepiYjizyamARA",
+          "n": "pepiYjizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "pepiYjA",
+          "m": "",
+          "f": "pepiYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepiYja",
+          "m": "pepiYjaH",
+          "f": "pepiYjA",
+          "n": "pepiYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pepiYjanIya",
+          "m": "pepiYjanIyaH",
+          "f": "pepiYjanIyA",
+          "n": "pepiYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pepiYjita",
+          "m": "pepiYjitaH",
+          "f": "pepiYjitA",
+          "n": "pepiYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pepiYjitavat",
+          "m": "pepiYjitavAn",
+          "f": "pepiYjitavatI",
+          "n": "pepiYjitavat/pepiYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pepiNkti",
+          "m": "",
+          "f": "pepiNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pepiYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pepiYjAmbaBUvas",
+          "m": "pepiYjAmbaBUvAn",
+          "f": "pepiYjAmbaBUzI",
+          "n": "pepiYjAmbaBUvat/pepiYjAmbaBUvad"
+        },
+        {
+          "base": "pepiYjAmAsivas",
+          "m": "pepiYjAmAsivAn",
+          "f": "pepiYjAmAsyuzI",
+          "n": "pepiYjAmAsivat/pepiYjAmAsivad"
+        },
+        {
+          "base": "pepiYjAYcakfvas",
+          "m": "pepiYjAYcakfvAn",
+          "f": "pepiYjAYcakruzI",
+          "n": "pepiYjAYcakfvat/pepiYjAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pepiNga",
+          "m": "pepiNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pepiYjAna",
+          "m": "pepiYjAnaH",
+          "f": "pepiYjAnA",
+          "n": "pepiYjAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pepiYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pepiYjaka",
+          "m": "pepiYjakaH",
+          "f": "pepiYjikA",
+          "n": "pepiYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pepiYjitavya",
+          "m": "pepiYjitavyaH",
+          "f": "pepiYjitavyA",
+          "n": "pepiYjitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pepiYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pepiYjitf",
+          "m": "pepiYjitA",
+          "f": "pepiYjitrI",
+          "n": "pepiYjitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pepiYjyamAna",
+          "m": "pepiYjyamAnaH",
+          "f": "pepiYjyamAnA",
+          "n": "pepiYjyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapepijya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapepiYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pepiYjana",
+          "m": "",
+          "f": "",
+          "n": "pepiYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pepiYjaka",
+          "m": "pepiYjakaH",
+          "f": "pepiYjikA",
+          "n": "pepiYjakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "pepiYjat",
+          "m": "pepiYjat/pepiYjad",
+          "f": "pepiYjatI",
+          "n": "pepiYjat/pepiYjad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pepiYjizyamARa",
+          "m": "pepiYjizyamARaH",
+          "f": "pepiYjizyamARA",
+          "n": "pepiYjizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "pepiYjizyat",
+          "m": "pepiYjizyan",
+          "f": "pepiYjizyatI/pepiYjizyantI",
+          "n": "pepiYjizyat/pepiYjizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "piYj",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "ud",
+      "examples": [
+        "'utpiYjotpAdanAsajje tasmin' (rAja0 3.122)."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "ud": {
+      "prefix": "ud",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "utpiYjizIzwa",
+            "utpiYjizIyAstAm",
+            "utpiYjizIran",
+            "utpiYjizIzWAH",
+            "utpiYjizIyAsTAm",
+            "utpiYjizIDvam",
+            "utpiYjizIya",
+            "utpiYjizIvahi",
+            "utpiYjizImahi"
+          ],
+          "alang": [
+            "udapiNkta",
+            "udapiYjAtAm",
+            "udapiYjata",
+            "udapiNkTAH",
+            "udapiYjATAm",
+            "udapiNgDvam",
+            "udapiYji",
+            "udapiYjvahi",
+            "udapiYjmahi"
+          ],
+          "alat": [
+            "utpiNkte",
+            "utpiYjAte",
+            "utpiYjate",
+            "utpiNkze",
+            "utpiYjATe",
+            "utpiNgDve",
+            "utpiYje",
+            "utpiYjvahe",
+            "utpiYjmahe"
+          ],
+          "alit": [
+            "utpipiYje",
+            "utpipiYjAte",
+            "utpipiYjire",
+            "utpipiYjize",
+            "utpipiYjATe",
+            "utpipiYjiDve",
+            "utpipiYje",
+            "utpipiYjivahe",
+            "utpipiYjimahe"
+          ],
+          "alot": [
+            "utpiNktAm",
+            "utpiYjAtAm",
+            "utpiYjatAm",
+            "utpiNkzva",
+            "utpiYjATAm",
+            "utpiNgDvam",
+            "utpiYjE",
+            "utpiYjAvahE",
+            "utpiYjAmahE"
+          ],
+          "alrung": [
+            "udapiYjizyata",
+            "udapiYjizyetAm",
+            "udapiYjizyanta",
+            "udapiYjizyaTAH",
+            "udapiYjizyeTAm",
+            "udapiYjizyaDvam",
+            "udapiYjizye",
+            "udapiYjizyAvahi",
+            "udapiYjizyAmahi"
+          ],
+          "alrut": [
+            "utpiYjizyate",
+            "utpiYjizyete",
+            "utpiYjizyante",
+            "utpiYjizyase",
+            "utpiYjizyeTe",
+            "utpiYjizyaDve",
+            "utpiYjizye",
+            "utpiYjizyAvahe",
+            "utpiYjizyAmahe"
+          ],
+          "alung": [
+            "udapiYjizwa",
+            "udapiYjizAtAm",
+            "udapiYjizata",
+            "udapiYjizWAH",
+            "udapiYjizATAm",
+            "udapiYjiDvam",
+            "udapiYjizi",
+            "udapiYjizvahi",
+            "udapiYjizmahi"
+          ],
+          "alut": [
+            "utpiYjitA",
+            "utpiYjitArO",
+            "utpiYjitAraH",
+            "utpiYjitAse",
+            "utpiYjitAsATe",
+            "utpiYjitADve",
+            "utpiYjitAhe",
+            "utpiYjitAsvahe",
+            "utpiYjitAsmahe"
+          ],
+          "avidhiling": [
+            "utpiYjIta",
+            "utpiYjIyAtAm",
+            "utpiYjIran",
+            "utpiYjITAH",
+            "utpiYjIyATAm",
+            "utpiYjIDvam",
+            "utpiYjIya",
+            "utpiYjIvahi",
+            "utpiYjImahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "utpiYjizIzwa",
+            "utpiYjizIyAstAm",
+            "utpiYjizIran",
+            "utpiYjizIzWAH",
+            "utpiYjizIyAsTAm",
+            "utpiYjizIDvam",
+            "utpiYjizIya",
+            "utpiYjizIvahi",
+            "utpiYjizImahi"
+          ],
+          "alang": [
+            "udapiYjyata",
+            "udapiYjyetAm",
+            "udapiYjyanta",
+            "udapiYjyaTAH",
+            "udapiYjyeTAm",
+            "udapiYjyaDvam",
+            "udapiYjye",
+            "udapiYjyAvahi",
+            "udapiYjyAmahi"
+          ],
+          "alat": [
+            "utpiYjyate",
+            "utpiYjyete",
+            "utpiYjyante",
+            "utpiYjyase",
+            "utpiYjyeTe",
+            "utpiYjyaDve",
+            "utpiYjye",
+            "utpiYjyAvahe",
+            "utpiYjyAmahe"
+          ],
+          "alit": [
+            "utpipiYje",
+            "utpipiYjAte",
+            "utpipiYjire",
+            "utpipiYjize",
+            "utpipiYjATe",
+            "utpipiYjiDve",
+            "utpipiYje",
+            "utpipiYjivahe",
+            "utpipiYjimahe"
+          ],
+          "alot": [
+            "utpiYjyatAm",
+            "utpiYjyetAm",
+            "utpiYjyantAm",
+            "utpiYjyasva",
+            "utpiYjyeTAm",
+            "utpiYjyaDvam",
+            "utpiYjyE",
+            "utpiYjyAvahE",
+            "utpiYjyAmahE"
+          ],
+          "alrung": [
+            "udapiYjizyata",
+            "udapiYjizyetAm",
+            "udapiYjizyanta",
+            "udapiYjizyaTAH",
+            "udapiYjizyeTAm",
+            "udapiYjizyaDvam",
+            "udapiYjizye",
+            "udapiYjizyAvahi",
+            "udapiYjizyAmahi"
+          ],
+          "alrut": [
+            "utpiYjizyate",
+            "utpiYjizyete",
+            "utpiYjizyante",
+            "utpiYjizyase",
+            "utpiYjizyeTe",
+            "utpiYjizyaDve",
+            "utpiYjizye",
+            "utpiYjizyAvahe",
+            "utpiYjizyAmahe"
+          ],
+          "alung": [
+            "udapiYji",
+            "udapiYjizAtAm",
+            "udapiYjizata",
+            "udapiYjizWAH",
+            "udapiYjizATAm",
+            "udapiYjiDvam",
+            "udapiYjizi",
+            "udapiYjizvahi",
+            "udapiYjizmahi"
+          ],
+          "alut": [
+            "utpiYjitA",
+            "utpiYjitArO",
+            "utpiYjitAraH",
+            "utpiYjitAse",
+            "utpiYjitAsATe",
+            "utpiYjitADve",
+            "utpiYjitAhe",
+            "utpiYjitAsvahe",
+            "utpiYjitAsmahe"
+          ],
+          "avidhiling": [
+            "utpiYjyeta",
+            "utpiYjyeyAtAm",
+            "utpiYjyeran",
+            "utpiYjyeTAH",
+            "utpiYjyeyATAm",
+            "utpiYjyeDvam",
+            "utpiYjyeya",
+            "utpiYjyevahi",
+            "utpiYjyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "utpipiYjizizIzwa",
+            "utpipiYjizizIyAstAm",
+            "utpipiYjizizIran",
+            "utpipiYjizizIzWAH",
+            "utpipiYjizizIyAsTAm",
+            "utpipiYjizizIDvam",
+            "utpipiYjizizIya",
+            "utpipiYjizizIvahi",
+            "utpipiYjizizImahi"
+          ],
+          "alang": [
+            "udapipiYjizata",
+            "udapipiYjizetAm",
+            "udapipiYjizanta",
+            "udapipiYjizaTAH",
+            "udapipiYjizeTAm",
+            "udapipiYjizaDvam",
+            "udapipiYjize",
+            "udapipiYjizAvahi",
+            "udapipiYjizAmahi"
+          ],
+          "alat": [
+            "utpipiYjizate",
+            "utpipiYjizete",
+            "utpipiYjizante",
+            "utpipiYjizase",
+            "utpipiYjizeTe",
+            "utpipiYjizaDve",
+            "utpipiYjize",
+            "utpipiYjizAvahe",
+            "utpipiYjizAmahe"
+          ],
+          "alit": [
+            "utpipiYjizAmbaBUva",
+            "utpipiYjizAmAsa",
+            "utpipiYjizAYcakre",
+            "utpipiYjizAmbaBUvatuH",
+            "utpipiYjizAmAsatuH",
+            "utpipiYjizAYcakrAte",
+            "utpipiYjizAmbaBUvuH",
+            "utpipiYjizAmAsuH",
+            "utpipiYjizAYcakrire",
+            "utpipiYjizAmbaBUviTa",
+            "utpipiYjizAmAsiTa",
+            "utpipiYjizAYcakfze",
+            "utpipiYjizAmbaBUvaTuH",
+            "utpipiYjizAmAsaTuH",
+            "utpipiYjizAYcakrATe",
+            "utpipiYjizAmbaBUva",
+            "utpipiYjizAmAsa",
+            "utpipiYjizAYcakfQve",
+            "utpipiYjizAmbaBUva",
+            "utpipiYjizAmAsa",
+            "utpipiYjizAYcakre",
+            "utpipiYjizAmbaBUviva",
+            "utpipiYjizAmAsiva",
+            "utpipiYjizAYcakfvahe",
+            "utpipiYjizAmbaBUvima",
+            "utpipiYjizAmAsima",
+            "utpipiYjizAYcakfmahe"
+          ],
+          "alot": [
+            "utpipiYjizatAm",
+            "utpipiYjizetAm",
+            "utpipiYjizantAm",
+            "utpipiYjizasva",
+            "utpipiYjizeTAm",
+            "utpipiYjizaDvam",
+            "utpipiYjizE",
+            "utpipiYjizAvahE",
+            "utpipiYjizAmahE"
+          ],
+          "alrung": [
+            "udapipiYjizizyata",
+            "udapipiYjizizyetAm",
+            "udapipiYjizizyanta",
+            "udapipiYjizizyaTAH",
+            "udapipiYjizizyeTAm",
+            "udapipiYjizizyaDvam",
+            "udapipiYjizizye",
+            "udapipiYjizizyAvahi",
+            "udapipiYjizizyAmahi"
+          ],
+          "alrut": [
+            "utpipiYjizizyate",
+            "utpipiYjizizyete",
+            "utpipiYjizizyante",
+            "utpipiYjizizyase",
+            "utpipiYjizizyeTe",
+            "utpipiYjizizyaDve",
+            "utpipiYjizizye",
+            "utpipiYjizizyAvahe",
+            "utpipiYjizizyAmahe"
+          ],
+          "alung": [
+            "udapipiYjizizwa",
+            "udapipiYjizizAtAm",
+            "udapipiYjizizata",
+            "udapipiYjizizWAH",
+            "udapipiYjizizATAm",
+            "udapipiYjiziDvam",
+            "udapipiYjizizi",
+            "udapipiYjizizvahi",
+            "udapipiYjizizmahi"
+          ],
+          "alut": [
+            "utpipiYjizitA",
+            "utpipiYjizitArO",
+            "utpipiYjizitAraH",
+            "utpipiYjizitAse",
+            "utpipiYjizitAsATe",
+            "utpipiYjizitADve",
+            "utpipiYjizitAhe",
+            "utpipiYjizitAsvahe",
+            "utpipiYjizitAsmahe"
+          ],
+          "avidhiling": [
+            "utpipiYjizeta",
+            "utpipiYjizeyAtAm",
+            "utpipiYjizeran",
+            "utpipiYjizeTAH",
+            "utpipiYjizeyATAm",
+            "utpipiYjizeDvam",
+            "utpipiYjizeya",
+            "utpipiYjizevahi",
+            "utpipiYjizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "utpipiYjizizIzwa",
+            "utpipiYjizizIyAstAm",
+            "utpipiYjizizIran",
+            "utpipiYjizizIzWAH",
+            "utpipiYjizizIyAsTAm",
+            "utpipiYjizizIDvam",
+            "utpipiYjizizIya",
+            "utpipiYjizizIvahi",
+            "utpipiYjizizImahi"
+          ],
+          "alang": [
+            "udapipiYjizyata",
+            "udapipiYjizyetAm",
+            "udapipiYjizyanta",
+            "udapipiYjizyaTAH",
+            "udapipiYjizyeTAm",
+            "udapipiYjizyaDvam",
+            "udapipiYjizye",
+            "udapipiYjizyAvahi",
+            "udapipiYjizyAmahi"
+          ],
+          "alat": [
+            "utpipiYjizyate",
+            "utpipiYjizyete",
+            "utpipiYjizyante",
+            "utpipiYjizyase",
+            "utpipiYjizyeTe",
+            "utpipiYjizyaDve",
+            "utpipiYjizye",
+            "utpipiYjizyAvahe",
+            "utpipiYjizyAmahe"
+          ],
+          "alit": [
+            "utpipiYjizAmbaBUve",
+            "utpipiYjizAmAse",
+            "utpipiYjizAYcakre",
+            "utpipiYjizAmbaBUvAte",
+            "utpipiYjizAmAsAte",
+            "utpipiYjizAYcakrAte",
+            "utpipiYjizAmbaBUvire",
+            "utpipiYjizAmAsire",
+            "utpipiYjizAYcakrire",
+            "utpipiYjizAmbaBUvize",
+            "utpipiYjizAmAsize",
+            "utpipiYjizAYcakfze",
+            "utpipiYjizAmbaBUvATe",
+            "utpipiYjizAmAsATe",
+            "utpipiYjizAYcakrATe",
+            "utpipiYjizAmbaBUviQve",
+            "utpipiYjizAmAsiDve",
+            "utpipiYjizAYcakfQve",
+            "utpipiYjizAmbaBUve",
+            "utpipiYjizAmAhe",
+            "utpipiYjizAYcakre",
+            "utpipiYjizAmbaBUvivahe",
+            "utpipiYjizAmAsivahe",
+            "utpipiYjizAYcakfvahe",
+            "utpipiYjizAmbaBUvimahe",
+            "utpipiYjizAmAsimahe",
+            "utpipiYjizAYcakfmahe"
+          ],
+          "alot": [
+            "utpipiYjizyatAm",
+            "utpipiYjizyetAm",
+            "utpipiYjizyantAm",
+            "utpipiYjizyasva",
+            "utpipiYjizyeTAm",
+            "utpipiYjizyaDvam",
+            "utpipiYjizyE",
+            "utpipiYjizyAvahE",
+            "utpipiYjizyAmahE"
+          ],
+          "alrung": [
+            "udapipiYjizizyata",
+            "udapipiYjizizyetAm",
+            "udapipiYjizizyanta",
+            "udapipiYjizizyaTAH",
+            "udapipiYjizizyeTAm",
+            "udapipiYjizizyaDvam",
+            "udapipiYjizizye",
+            "udapipiYjizizyAvahi",
+            "udapipiYjizizyAmahi"
+          ],
+          "alrut": [
+            "utpipiYjizizyate",
+            "utpipiYjizizyete",
+            "utpipiYjizizyante",
+            "utpipiYjizizyase",
+            "utpipiYjizizyeTe",
+            "utpipiYjizizyaDve",
+            "utpipiYjizizye",
+            "utpipiYjizizyAvahe",
+            "utpipiYjizizyAmahe"
+          ],
+          "alung": [
+            "udapipiYjizi",
+            "udapipiYjizizAtAm",
+            "udapipiYjizizata",
+            "udapipiYjizizWAH",
+            "udapipiYjizizATAm",
+            "udapipiYjiziDvam",
+            "udapipiYjizizi",
+            "udapipiYjizizvahi",
+            "udapipiYjizizmahi"
+          ],
+          "alut": [
+            "utpipiYjizitA",
+            "utpipiYjizitArO",
+            "utpipiYjizitAraH",
+            "utpipiYjizitAse",
+            "utpipiYjizitAsATe",
+            "utpipiYjizitADve",
+            "utpipiYjizitAhe",
+            "utpipiYjizitAsvahe",
+            "utpipiYjizitAsmahe"
+          ],
+          "avidhiling": [
+            "utpipiYjizyeta",
+            "utpipiYjizyeyAtAm",
+            "utpipiYjizyeran",
+            "utpipiYjizyeTAH",
+            "utpipiYjizyeyATAm",
+            "utpipiYjizyeDvam",
+            "utpipiYjizyeya",
+            "utpipiYjizyevahi",
+            "utpipiYjizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "utpiYjayizIzwa",
+            "utpiYjayizIyAstAm",
+            "utpiYjayizIran",
+            "utpiYjayizIzWAH",
+            "utpiYjayizIyAsTAm",
+            "utpiYjayizIQvam",
+            "utpiYjayizIDvam",
+            "utpiYjayizIya",
+            "utpiYjayizIvahi",
+            "utpiYjayizImahi"
+          ],
+          "alang": [
+            "udapiYjayata",
+            "udapiYjayetAm",
+            "udapiYjayanta",
+            "udapiYjayaTAH",
+            "udapiYjayeTAm",
+            "udapiYjayaDvam",
+            "udapiYjaye",
+            "udapiYjayAvahi",
+            "udapiYjayAmahi"
+          ],
+          "alat": [
+            "utpiYjayate",
+            "utpiYjayete",
+            "utpiYjayante",
+            "utpiYjayase",
+            "utpiYjayeTe",
+            "utpiYjayaDve",
+            "utpiYjaye",
+            "utpiYjayAvahe",
+            "utpiYjayAmahe"
+          ],
+          "alit": [
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakre",
+            "utpiYjayAmbaBUvatuH",
+            "utpiYjayAmAsatuH",
+            "utpiYjayAYcakrAte",
+            "utpiYjayAmbaBUvuH",
+            "utpiYjayAmAsuH",
+            "utpiYjayAYcakrire",
+            "utpiYjayAmbaBUviTa",
+            "utpiYjayAmAsiTa",
+            "utpiYjayAYcakfze",
+            "utpiYjayAmbaBUvaTuH",
+            "utpiYjayAmAsaTuH",
+            "utpiYjayAYcakrATe",
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakfQve",
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakre",
+            "utpiYjayAmbaBUviva",
+            "utpiYjayAmAsiva",
+            "utpiYjayAYcakfvahe",
+            "utpiYjayAmbaBUvima",
+            "utpiYjayAmAsima",
+            "utpiYjayAYcakfmahe"
+          ],
+          "alot": [
+            "utpiYjayatAm",
+            "utpiYjayetAm",
+            "utpiYjayantAm",
+            "utpiYjayasva",
+            "utpiYjayeTAm",
+            "utpiYjayaDvam",
+            "utpiYjayE",
+            "utpiYjayAvahE",
+            "utpiYjayAmahE"
+          ],
+          "alrung": [
+            "udapiYjayizyata",
+            "udapiYjayizyetAm",
+            "udapiYjayizyanta",
+            "udapiYjayizyaTAH",
+            "udapiYjayizyeTAm",
+            "udapiYjayizyaDvam",
+            "udapiYjayizye",
+            "udapiYjayizyAvahi",
+            "udapiYjayizyAmahi"
+          ],
+          "alrut": [
+            "utpiYjayizyate",
+            "utpiYjayizyete",
+            "utpiYjayizyante",
+            "utpiYjayizyase",
+            "utpiYjayizyeTe",
+            "utpiYjayizyaDve",
+            "utpiYjayizye",
+            "utpiYjayizyAvahe",
+            "utpiYjayizyAmahe"
+          ],
+          "alung": [
+            "udapipiYjata",
+            "udapipiYjetAm",
+            "udapipiYjanta",
+            "udapipiYjaTAH",
+            "udapipiYjeTAm",
+            "udapipiYjaDvam",
+            "udapipiYje",
+            "udapipiYjAvahi",
+            "udapipiYjAmahi"
+          ],
+          "alut": [
+            "utpiYjayitA",
+            "utpiYjayitArO",
+            "utpiYjayitAraH",
+            "utpiYjayitAse",
+            "utpiYjayitAsATe",
+            "utpiYjayitADve",
+            "utpiYjayitAhe",
+            "utpiYjayitAsvahe",
+            "utpiYjayitAsmahe"
+          ],
+          "avidhiling": [
+            "utpiYjayeta",
+            "utpiYjayeyAtAm",
+            "utpiYjayeran",
+            "utpiYjayeTAH",
+            "utpiYjayeyATAm",
+            "utpiYjayeDvam",
+            "utpiYjayeya",
+            "utpiYjayevahi",
+            "utpiYjayemahi"
+          ],
+          "pashirling": [
+            "utpiYjyAt",
+            "utpiYjyAd",
+            "utpiYjyAstAm",
+            "utpiYjyAsuH",
+            "utpiYjyAH",
+            "utpiYjyAstam",
+            "utpiYjyAsta",
+            "utpiYjyAsam",
+            "utpiYjyAsva",
+            "utpiYjyAsma"
+          ],
+          "plang": [
+            "udapiYjayat",
+            "udapiYjayad",
+            "udapiYjayatAm",
+            "udapiYjayan",
+            "udapiYjayaH",
+            "udapiYjayatam",
+            "udapiYjayata",
+            "udapiYjayam",
+            "udapiYjayAva",
+            "udapiYjayAma"
+          ],
+          "plat": [
+            "utpiYjayati",
+            "utpiYjayataH",
+            "utpiYjayanti",
+            "utpiYjayasi",
+            "utpiYjayaTaH",
+            "utpiYjayaTa",
+            "utpiYjayAmi",
+            "utpiYjayAvaH",
+            "utpiYjayAmaH"
+          ],
+          "plit": [
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakAra",
+            "utpiYjayAmbaBUvatuH",
+            "utpiYjayAmAsatuH",
+            "utpiYjayAYcakratuH",
+            "utpiYjayAmbaBUvuH",
+            "utpiYjayAmAsuH",
+            "utpiYjayAYcakruH",
+            "utpiYjayAmbaBUviTa",
+            "utpiYjayAmAsiTa",
+            "utpiYjayAYcakarTa",
+            "utpiYjayAmbaBUvaTuH",
+            "utpiYjayAmAsaTuH",
+            "utpiYjayAYcakraTuH",
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakra",
+            "utpiYjayAmbaBUva",
+            "utpiYjayAmAsa",
+            "utpiYjayAYcakara",
+            "utpiYjayAYcakAra",
+            "utpiYjayAmbaBUviva",
+            "utpiYjayAmAsiva",
+            "utpiYjayAYcakfva",
+            "utpiYjayAmbaBUvima",
+            "utpiYjayAmAsima",
+            "utpiYjayAYcakfma"
+          ],
+          "plot": [
+            "utpiYjayatAt",
+            "utpiYjayatAd",
+            "utpiYjayatu",
+            "utpiYjayatAm",
+            "utpiYjayantu",
+            "utpiYjayatAt",
+            "utpiYjayatAd",
+            "utpiYjaya",
+            "utpiYjayatam",
+            "utpiYjayata",
+            "utpiYjayAni",
+            "utpiYjayAva",
+            "utpiYjayAma"
+          ],
+          "plrung": [
+            "udapiYjayizyat",
+            "udapiYjayizyad",
+            "udapiYjayizyatAm",
+            "udapiYjayizyan",
+            "udapiYjayizyaH",
+            "udapiYjayizyatam",
+            "udapiYjayizyata",
+            "udapiYjayizyam",
+            "udapiYjayizyAva",
+            "udapiYjayizyAma"
+          ],
+          "plrut": [
+            "utpiYjayizyati",
+            "utpiYjayizyataH",
+            "utpiYjayizyanti",
+            "utpiYjayizyasi",
+            "utpiYjayizyaTaH",
+            "utpiYjayizyaTa",
+            "utpiYjayizyAmi",
+            "utpiYjayizyAvaH",
+            "utpiYjayizyAmaH"
+          ],
+          "plung": [
+            "udapipiYjat",
+            "udapipiYjad",
+            "udapipiYjatAm",
+            "udapipiYjan",
+            "udapipiYjaH",
+            "udapipiYjatam",
+            "udapipiYjata",
+            "udapipiYjam",
+            "udapipiYjAva",
+            "udapipiYjAma"
+          ],
+          "plut": [
+            "utpiYjayitA",
+            "utpiYjayitArO",
+            "utpiYjayitAraH",
+            "utpiYjayitAsi",
+            "utpiYjayitAsTaH",
+            "utpiYjayitAsTa",
+            "utpiYjayitAsmi",
+            "utpiYjayitAsvaH",
+            "utpiYjayitAsmaH"
+          ],
+          "pvidhiling": [
+            "utpiYjayet",
+            "utpiYjayed",
+            "utpiYjayetAm",
+            "utpiYjayeyuH",
+            "utpiYjayeH",
+            "utpiYjayetam",
+            "utpiYjayeta",
+            "utpiYjayeyam",
+            "utpiYjayeva",
+            "utpiYjayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "utpiYjizIzwa",
+            "utpiYjayizIzwa",
+            "utpiYjizIyAstAm",
+            "utpiYjayizIyAstAm",
+            "utpiYjizIran",
+            "utpiYjayizIran",
+            "utpiYjizIzWAH",
+            "utpiYjayizIzWAH",
+            "utpiYjizIyAsTAm",
+            "utpiYjayizIyAsTAm",
+            "utpiYjizIDvam",
+            "utpiYjayizIQvam",
+            "utpiYjayizIDvam",
+            "utpiYjizIya",
+            "utpiYjayizIya",
+            "utpiYjizIvahi",
+            "utpiYjayizIvahi",
+            "utpiYjizImahi",
+            "utpiYjayizImahi"
+          ],
+          "alang": [
+            "udapiYjyata",
+            "udapiYjyetAm",
+            "udapiYjyanta",
+            "udapiYjyaTAH",
+            "udapiYjyeTAm",
+            "udapiYjyaDvam",
+            "udapiYjye",
+            "udapiYjyAvahi",
+            "udapiYjyAmahi"
+          ],
+          "alat": [
+            "utpiYjyate",
+            "utpiYjyete",
+            "utpiYjyante",
+            "utpiYjyase",
+            "utpiYjyeTe",
+            "utpiYjyaDve",
+            "utpiYjye",
+            "utpiYjyAvahe",
+            "utpiYjyAmahe"
+          ],
+          "alit": [
+            "utpiYjayAmbaBUve",
+            "utpiYjayAmAse",
+            "utpiYjayAYcakre",
+            "utpiYjayAmbaBUvAte",
+            "utpiYjayAmAsAte",
+            "utpiYjayAYcakrAte",
+            "utpiYjayAmbaBUvire",
+            "utpiYjayAmAsire",
+            "utpiYjayAYcakrire",
+            "utpiYjayAmbaBUvize",
+            "utpiYjayAmAsize",
+            "utpiYjayAYcakfze",
+            "utpiYjayAmbaBUvATe",
+            "utpiYjayAmAsATe",
+            "utpiYjayAYcakrATe",
+            "utpiYjayAmbaBUviQve",
+            "utpiYjayAmAsiDve",
+            "utpiYjayAYcakfQve",
+            "utpiYjayAmbaBUve",
+            "utpiYjayAmAhe",
+            "utpiYjayAYcakre",
+            "utpiYjayAmbaBUvivahe",
+            "utpiYjayAmAsivahe",
+            "utpiYjayAYcakfvahe",
+            "utpiYjayAmbaBUvimahe",
+            "utpiYjayAmAsimahe",
+            "utpiYjayAYcakfmahe"
+          ],
+          "alot": [
+            "utpiYjyatAm",
+            "utpiYjyetAm",
+            "utpiYjyantAm",
+            "utpiYjyasva",
+            "utpiYjyeTAm",
+            "utpiYjyaDvam",
+            "utpiYjyE",
+            "utpiYjyAvahE",
+            "utpiYjyAmahE"
+          ],
+          "alrung": [
+            "udapiYjizyata",
+            "udapiYjayizyata",
+            "udapiYjizyetAm",
+            "udapiYjayizyetAm",
+            "udapiYjizyanta",
+            "udapiYjayizyanta",
+            "udapiYjizyaTAH",
+            "udapiYjayizyaTAH",
+            "udapiYjizyeTAm",
+            "udapiYjayizyeTAm",
+            "udapiYjizyaDvam",
+            "udapiYjayizyaDvam",
+            "udapiYjizye",
+            "udapiYjayizye",
+            "udapiYjizyAvahi",
+            "udapiYjayizyAvahi",
+            "udapiYjizyAmahi",
+            "udapiYjayizyAmahi"
+          ],
+          "alrut": [
+            "utpiYjizyate",
+            "utpiYjayizyate",
+            "utpiYjizyete",
+            "utpiYjayizyete",
+            "utpiYjizyante",
+            "utpiYjayizyante",
+            "utpiYjizyase",
+            "utpiYjayizyase",
+            "utpiYjizyeTe",
+            "utpiYjayizyeTe",
+            "utpiYjizyaDve",
+            "utpiYjayizyaDve",
+            "utpiYjizye",
+            "utpiYjayizye",
+            "utpiYjizyAvahe",
+            "utpiYjayizyAvahe",
+            "utpiYjizyAmahe",
+            "utpiYjayizyAmahe"
+          ],
+          "alung": [
+            "udapiYji",
+            "udapiYjizAtAm",
+            "udapiYjayizAtAm",
+            "udapiYjizata",
+            "udapiYjayizata",
+            "udapiYjizWAH",
+            "udapiYjayizWAH",
+            "udapiYjizATAm",
+            "udapiYjayizATAm",
+            "udapiYjiDvam",
+            "udapiYjayiQvam",
+            "udapiYjayiDvam",
+            "udapiYjizi",
+            "udapiYjayizi",
+            "udapiYjizvahi",
+            "udapiYjayizvahi",
+            "udapiYjizmahi",
+            "udapiYjayizmahi"
+          ],
+          "alut": [
+            "utpiYjitA",
+            "utpiYjayitA",
+            "utpiYjitArO",
+            "utpiYjayitArO",
+            "utpiYjitAraH",
+            "utpiYjayitAraH",
+            "utpiYjitAse",
+            "utpiYjayitAse",
+            "utpiYjitAsATe",
+            "utpiYjayitAsATe",
+            "utpiYjitADve",
+            "utpiYjayitADve",
+            "utpiYjitAhe",
+            "utpiYjayitAhe",
+            "utpiYjitAsvahe",
+            "utpiYjayitAsvahe",
+            "utpiYjitAsmahe",
+            "utpiYjayitAsmahe"
+          ],
+          "avidhiling": [
+            "utpiYjyeta",
+            "utpiYjyeyAtAm",
+            "utpiYjyeran",
+            "utpiYjyeTAH",
+            "utpiYjyeyATAm",
+            "utpiYjyeDvam",
+            "utpiYjyeya",
+            "utpiYjyevahi",
+            "utpiYjyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "utpepiYjizIzwa",
+            "utpepiYjizIyAstAm",
+            "utpepiYjizIran",
+            "utpepiYjizIzWAH",
+            "utpepiYjizIyAsTAm",
+            "utpepiYjizIDvam",
+            "utpepiYjizIya",
+            "utpepiYjizIvahi",
+            "utpepiYjizImahi"
+          ],
+          "alang": [
+            "udapepiYjyata",
+            "udapepiYjyetAm",
+            "udapepiYjyanta",
+            "udapepiYjyaTAH",
+            "udapepiYjyeTAm",
+            "udapepiYjyaDvam",
+            "udapepiYjye",
+            "udapepiYjyAvahi",
+            "udapepiYjyAmahi"
+          ],
+          "alat": [
+            "utpepiYjyate",
+            "utpepiYjyete",
+            "utpepiYjyante",
+            "utpepiYjyase",
+            "utpepiYjyeTe",
+            "utpepiYjyaDve",
+            "utpepiYjye",
+            "utpepiYjyAvahe",
+            "utpepiYjyAmahe"
+          ],
+          "alit": [
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUvatuH",
+            "utpepiYjAmAsatuH",
+            "utpepiYjAYcakrAte",
+            "utpepiYjAmbaBUvuH",
+            "utpepiYjAmAsuH",
+            "utpepiYjAYcakrire",
+            "utpepiYjAmbaBUviTa",
+            "utpepiYjAmAsiTa",
+            "utpepiYjAYcakfze",
+            "utpepiYjAmbaBUvaTuH",
+            "utpepiYjAmAsaTuH",
+            "utpepiYjAYcakrATe",
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakfQve",
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUviva",
+            "utpepiYjAmAsiva",
+            "utpepiYjAYcakfvahe",
+            "utpepiYjAmbaBUvima",
+            "utpepiYjAmAsima",
+            "utpepiYjAYcakfmahe"
+          ],
+          "alot": [
+            "utpepiYjyatAm",
+            "utpepiYjyetAm",
+            "utpepiYjyantAm",
+            "utpepiYjyasva",
+            "utpepiYjyeTAm",
+            "utpepiYjyaDvam",
+            "utpepiYjyE",
+            "utpepiYjyAvahE",
+            "utpepiYjyAmahE"
+          ],
+          "alrung": [
+            "udapepiYjizyata",
+            "udapepiYjizyetAm",
+            "udapepiYjizyanta",
+            "udapepiYjizyaTAH",
+            "udapepiYjizyeTAm",
+            "udapepiYjizyaDvam",
+            "udapepiYjizye",
+            "udapepiYjizyAvahi",
+            "udapepiYjizyAmahi"
+          ],
+          "alrut": [
+            "utpepiYjizyate",
+            "utpepiYjizyete",
+            "utpepiYjizyante",
+            "utpepiYjizyase",
+            "utpepiYjizyeTe",
+            "utpepiYjizyaDve",
+            "utpepiYjizye",
+            "utpepiYjizyAvahe",
+            "utpepiYjizyAmahe"
+          ],
+          "alung": [
+            "udapepiYjizwa",
+            "udapepiYjizAtAm",
+            "udapepiYjizata",
+            "udapepiYjizWAH",
+            "udapepiYjizATAm",
+            "udapepiYjiDvam",
+            "udapepiYjizi",
+            "udapepiYjizvahi",
+            "udapepiYjizmahi"
+          ],
+          "alut": [
+            "utpepiYjitA",
+            "utpepiYjitArO",
+            "utpepiYjitAraH",
+            "utpepiYjitAse",
+            "utpepiYjitAsATe",
+            "utpepiYjitADve",
+            "utpepiYjitAhe",
+            "utpepiYjitAsvahe",
+            "utpepiYjitAsmahe"
+          ],
+          "avidhiling": [
+            "utpepiYjyeta",
+            "utpepiYjyeyAtAm",
+            "utpepiYjyeran",
+            "utpepiYjyeTAH",
+            "utpepiYjyeyATAm",
+            "utpepiYjyeDvam",
+            "utpepiYjyeya",
+            "utpepiYjyevahi",
+            "utpepiYjyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "utpepiYjizIzwa",
+            "utpepiYjizIyAstAm",
+            "utpepiYjizIran",
+            "utpepiYjizIzWAH",
+            "utpepiYjizIyAsTAm",
+            "utpepiYjizIDvam",
+            "utpepiYjizIya",
+            "utpepiYjizIvahi",
+            "utpepiYjizImahi"
+          ],
+          "alang": [
+            "udapepiYjyata",
+            "udapepiYjyetAm",
+            "udapepiYjyanta",
+            "udapepiYjyaTAH",
+            "udapepiYjyeTAm",
+            "udapepiYjyaDvam",
+            "udapepiYjye",
+            "udapepiYjyAvahi",
+            "udapepiYjyAmahi"
+          ],
+          "alat": [
+            "utpepiYjyate",
+            "utpepiYjyete",
+            "utpepiYjyante",
+            "utpepiYjyase",
+            "utpepiYjyeTe",
+            "utpepiYjyaDve",
+            "utpepiYjye",
+            "utpepiYjyAvahe",
+            "utpepiYjyAmahe"
+          ],
+          "alit": [
+            "utpepiYjAmbaBUve",
+            "utpepiYjAmAse",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUvAte",
+            "utpepiYjAmAsAte",
+            "utpepiYjAYcakrAte",
+            "utpepiYjAmbaBUvire",
+            "utpepiYjAmAsire",
+            "utpepiYjAYcakrire",
+            "utpepiYjAmbaBUvize",
+            "utpepiYjAmAsize",
+            "utpepiYjAYcakfze",
+            "utpepiYjAmbaBUvATe",
+            "utpepiYjAmAsATe",
+            "utpepiYjAYcakrATe",
+            "utpepiYjAmbaBUviQve",
+            "utpepiYjAmAsiDve",
+            "utpepiYjAYcakfQve",
+            "utpepiYjAmbaBUve",
+            "utpepiYjAmAhe",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUvivahe",
+            "utpepiYjAmAsivahe",
+            "utpepiYjAYcakfvahe",
+            "utpepiYjAmbaBUvimahe",
+            "utpepiYjAmAsimahe",
+            "utpepiYjAYcakfmahe"
+          ],
+          "alot": [
+            "utpepiYjyatAm",
+            "utpepiYjyetAm",
+            "utpepiYjyantAm",
+            "utpepiYjyasva",
+            "utpepiYjyeTAm",
+            "utpepiYjyaDvam",
+            "utpepiYjyE",
+            "utpepiYjyAvahE",
+            "utpepiYjyAmahE"
+          ],
+          "alrung": [
+            "udapepiYjizyata",
+            "udapepiYjizyetAm",
+            "udapepiYjizyanta",
+            "udapepiYjizyaTAH",
+            "udapepiYjizyeTAm",
+            "udapepiYjizyaDvam",
+            "udapepiYjizye",
+            "udapepiYjizyAvahi",
+            "udapepiYjizyAmahi"
+          ],
+          "alrut": [
+            "utpepiYjizyate",
+            "utpepiYjizyete",
+            "utpepiYjizyante",
+            "utpepiYjizyase",
+            "utpepiYjizyeTe",
+            "utpepiYjizyaDve",
+            "utpepiYjizye",
+            "utpepiYjizyAvahe",
+            "utpepiYjizyAmahe"
+          ],
+          "alung": [
+            "udapepiYji",
+            "udapepiYjizAtAm",
+            "udapepiYjizata",
+            "udapepiYjizWAH",
+            "udapepiYjizATAm",
+            "udapepiYjiDvam",
+            "udapepiYjizi",
+            "udapepiYjizvahi",
+            "udapepiYjizmahi"
+          ],
+          "alut": [
+            "utpepiYjitA",
+            "utpepiYjitArO",
+            "utpepiYjitAraH",
+            "utpepiYjitAse",
+            "utpepiYjitAsATe",
+            "utpepiYjitADve",
+            "utpepiYjitAhe",
+            "utpepiYjitAsvahe",
+            "utpepiYjitAsmahe"
+          ],
+          "avidhiling": [
+            "utpepiYjyeta",
+            "utpepiYjyeyAtAm",
+            "utpepiYjyeran",
+            "utpepiYjyeTAH",
+            "utpepiYjyeyATAm",
+            "utpepiYjyeDvam",
+            "utpepiYjyeya",
+            "utpepiYjyevahi",
+            "utpepiYjyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "utpepiYjyAt",
+            "utpepiYjyAd",
+            "utpepiYjyAstAm",
+            "utpepiYjyAsuH",
+            "utpepiYjyAH",
+            "utpepiYjyAstam",
+            "utpepiYjyAsta",
+            "utpepiYjyAsam",
+            "utpepiYjyAsva",
+            "utpepiYjyAsma"
+          ],
+          "plang": [
+            "udapepiYjIt",
+            "udapepiYjId",
+            "udapepin",
+            "udapepiNktAm",
+            "udapepiYjuH",
+            "udapepiYjIH",
+            "udapepin",
+            "udapepiNktam",
+            "udapepiNkta",
+            "udapepiYjam",
+            "udapepiYjva",
+            "udapepiYjma"
+          ],
+          "plat": [
+            "utpepiYjIti",
+            "utpepiNkti",
+            "utpepiNktaH",
+            "utpepiYjati",
+            "utpepiYjIzi",
+            "utpepiNkzi",
+            "utpepiNkTaH",
+            "utpepiNkTa",
+            "utpepiYjImi",
+            "utpepiYjmi",
+            "utpepiYjvaH",
+            "utpepiYjmaH"
+          ],
+          "plit": [
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakAra",
+            "utpepiYjAmbaBUvatuH",
+            "utpepiYjAmAsatuH",
+            "utpepiYjAYcakratuH",
+            "utpepiYjAmbaBUvuH",
+            "utpepiYjAmAsuH",
+            "utpepiYjAYcakruH",
+            "utpepiYjAmbaBUviTa",
+            "utpepiYjAmAsiTa",
+            "utpepiYjAYcakarTa",
+            "utpepiYjAmbaBUvaTuH",
+            "utpepiYjAmAsaTuH",
+            "utpepiYjAYcakraTuH",
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakra",
+            "utpepiYjAmbaBUva",
+            "utpepiYjAmAsa",
+            "utpepiYjAYcakara",
+            "utpepiYjAYcakAra",
+            "utpepiYjAmbaBUviva",
+            "utpepiYjAmAsiva",
+            "utpepiYjAYcakfva",
+            "utpepiYjAmbaBUvima",
+            "utpepiYjAmAsima",
+            "utpepiYjAYcakfma"
+          ],
+          "plot": [
+            "utpepiNktAt",
+            "utpepiNktAd",
+            "utpepiYjItu",
+            "utpepiNktu",
+            "utpepiNktAm",
+            "utpepiYjatu",
+            "utpepiNktAt",
+            "utpepiNktAd",
+            "utpepiNgDi",
+            "utpepiNktam",
+            "utpepiNkta",
+            "utpepiYjAni",
+            "utpepiYjAva",
+            "utpepiYjAma"
+          ],
+          "plrung": [
+            "udapepiYjizyat",
+            "udapepiYjizyad",
+            "udapepiYjizyatAm",
+            "udapepiYjizyan",
+            "udapepiYjizyaH",
+            "udapepiYjizyatam",
+            "udapepiYjizyata",
+            "udapepiYjizyam",
+            "udapepiYjizyAva",
+            "udapepiYjizyAma"
+          ],
+          "plrut": [
+            "utpepiYjizyati",
+            "utpepiYjizyataH",
+            "utpepiYjizyanti",
+            "utpepiYjizyasi",
+            "utpepiYjizyaTaH",
+            "utpepiYjizyaTa",
+            "utpepiYjizyAmi",
+            "utpepiYjizyAvaH",
+            "utpepiYjizyAmaH"
+          ],
+          "plung": [
+            "udapepiYjIt",
+            "udapepiYjId",
+            "udapepiYjizwAm",
+            "udapepiYjizuH",
+            "udapepiYjIH",
+            "udapepiYjizwam",
+            "udapepiYjizwa",
+            "udapepiYjizam",
+            "udapepiYjizva",
+            "udapepiYjizma"
+          ],
+          "plut": [
+            "utpepiYjitA",
+            "utpepiYjitArO",
+            "utpepiYjitAraH",
+            "utpepiYjitAsi",
+            "utpepiYjitAsTaH",
+            "utpepiYjitAsTa",
+            "utpepiYjitAsmi",
+            "utpepiYjitAsvaH",
+            "utpepiYjitAsmaH"
+          ],
+          "pvidhiling": [
+            "utpepiYjyAt",
+            "utpepiYjyAd",
+            "utpepiYjyAtAm",
+            "utpepiYjyuH",
+            "utpepiYjyAH",
+            "utpepiYjyAtam",
+            "utpepiYjyAta",
+            "utpepiYjyAm",
+            "utpepiYjyAva",
+            "utpepiYjyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "utpepiYjizIzwa",
+            "utpepiYjizIyAstAm",
+            "utpepiYjizIran",
+            "utpepiYjizIzWAH",
+            "utpepiYjizIyAsTAm",
+            "utpepiYjizIDvam",
+            "utpepiYjizIya",
+            "utpepiYjizIvahi",
+            "utpepiYjizImahi"
+          ],
+          "alang": [
+            "udapepiYjyata",
+            "udapepiYjyetAm",
+            "udapepiYjyanta",
+            "udapepiYjyaTAH",
+            "udapepiYjyeTAm",
+            "udapepiYjyaDvam",
+            "udapepiYjye",
+            "udapepiYjyAvahi",
+            "udapepiYjyAmahi"
+          ],
+          "alat": [
+            "utpepiYjyate",
+            "utpepiYjyete",
+            "utpepiYjyante",
+            "utpepiYjyase",
+            "utpepiYjyeTe",
+            "utpepiYjyaDve",
+            "utpepiYjye",
+            "utpepiYjyAvahe",
+            "utpepiYjyAmahe"
+          ],
+          "alit": [
+            "utpepiYjAmbaBUve",
+            "utpepiYjAmAse",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUvAte",
+            "utpepiYjAmAsAte",
+            "utpepiYjAYcakrAte",
+            "utpepiYjAmbaBUvire",
+            "utpepiYjAmAsire",
+            "utpepiYjAYcakrire",
+            "utpepiYjAmbaBUvize",
+            "utpepiYjAmAsize",
+            "utpepiYjAYcakfze",
+            "utpepiYjAmbaBUvATe",
+            "utpepiYjAmAsATe",
+            "utpepiYjAYcakrATe",
+            "utpepiYjAmbaBUviQve",
+            "utpepiYjAmAsiDve",
+            "utpepiYjAYcakfQve",
+            "utpepiYjAmbaBUve",
+            "utpepiYjAmAhe",
+            "utpepiYjAYcakre",
+            "utpepiYjAmbaBUvivahe",
+            "utpepiYjAmAsivahe",
+            "utpepiYjAYcakfvahe",
+            "utpepiYjAmbaBUvimahe",
+            "utpepiYjAmAsimahe",
+            "utpepiYjAYcakfmahe"
+          ],
+          "alot": [
+            "utpepiYjyatAm",
+            "utpepiYjyetAm",
+            "utpepiYjyantAm",
+            "utpepiYjyasva",
+            "utpepiYjyeTAm",
+            "utpepiYjyaDvam",
+            "utpepiYjyE",
+            "utpepiYjyAvahE",
+            "utpepiYjyAmahE"
+          ],
+          "alrung": [
+            "udapepiYjizyata",
+            "udapepiYjizyetAm",
+            "udapepiYjizyanta",
+            "udapepiYjizyaTAH",
+            "udapepiYjizyeTAm",
+            "udapepiYjizyaDvam",
+            "udapepiYjizye",
+            "udapepiYjizyAvahi",
+            "udapepiYjizyAmahi"
+          ],
+          "alrut": [
+            "utpepiYjizyate",
+            "utpepiYjizyete",
+            "utpepiYjizyante",
+            "utpepiYjizyase",
+            "utpepiYjizyeTe",
+            "utpepiYjizyaDve",
+            "utpepiYjizye",
+            "utpepiYjizyAvahe",
+            "utpepiYjizyAmahe"
+          ],
+          "alung": [
+            "udapepiYji",
+            "udapepiYjizAtAm",
+            "udapepiYjizata",
+            "udapepiYjizWAH",
+            "udapepiYjizATAm",
+            "udapepiYjiDvam",
+            "udapepiYjizi",
+            "udapepiYjizvahi",
+            "udapepiYjizmahi"
+          ],
+          "alut": [
+            "utpepiYjitA",
+            "utpepiYjitArO",
+            "utpepiYjitAraH",
+            "utpepiYjitAse",
+            "utpepiYjitAsATe",
+            "utpepiYjitADve",
+            "utpepiYjitAhe",
+            "utpepiYjitAsvahe",
+            "utpepiYjitAsmahe"
+          ],
+          "avidhiling": [
+            "utpepiYjyeta",
+            "utpepiYjyeyAtAm",
+            "utpepiYjyeran",
+            "utpepiYjyeTAH",
+            "utpepiYjyeyATAm",
+            "utpepiYjyeDvam",
+            "utpepiYjyeya",
+            "utpepiYjyevahi",
+            "utpepiYjyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "utpiYjA",
+              "m": "",
+              "f": "utpiYjA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "utpiYja",
+              "m": "utpiYjaH",
+              "f": "utpiYjA",
+              "n": "utpiYjam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "utpiYjanIya",
+              "m": "utpiYjanIyaH",
+              "f": "utpiYjanIyA",
+              "n": "utpiYjanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "utpiYjita",
+              "m": "utpiYjitaH",
+              "f": "utpiYjitA",
+              "n": "utpiYjitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "utpiYjitavat",
+              "m": "utpiYjitavAn",
+              "f": "utpiYjitavatI",
+              "n": "utpiYjitavat/utpiYjitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "utpiNkti",
+              "m": "",
+              "f": "utpiNktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "utpipiYjvas",
+              "m": "utpipiYjvAn",
+              "f": "utpipiYjuzI",
+              "n": "utpipiYjvat/utpipiYjvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "utpiNga",
+              "m": "utpiNgaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "utpiYjAna",
+              "m": "utpiYjAnaH",
+              "f": "utpiYjAnA",
+              "n": "utpiYjAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "utpiYjam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "utpiYjya",
+              "m": "utpiYjyaH",
+              "f": "utpiYjyA",
+              "n": "utpiYjyam"
+            },
+            {
+              "base": "utpiNgya",
+              "m": "utpiNgyaH",
+              "f": "utpiNgyA",
+              "n": "utpiNgyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "utpiYjaka",
+              "m": "utpiYjakaH",
+              "f": "utpiYjikA",
+              "n": "utpiYjakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "utpiYjitavya",
+              "m": "utpiYjitavyaH",
+              "f": "utpiYjitavyA",
+              "n": "utpiYjitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "utpiYjitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "utpiYjitf",
+              "m": "utpiYjitA",
+              "f": "utpiYjitrI",
+              "n": "utpiYjitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "utpiYjAna",
+              "m": "utpiYjAnaH",
+              "f": "utpiYjAnA",
+              "n": "utpiYjAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "utpijya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "utpiYjya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "utpiYjana",
+              "m": "",
+              "f": "",
+              "n": "utpiYjanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "utpiYjaka",
+              "m": "utpiYjakaH",
+              "f": "utpiYjikA",
+              "n": "utpiYjakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "utpiYjAna",
+              "m": "utpiYjAnaH",
+              "f": "utpiYjAnA",
+              "n": "utpiYjAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "utpiYjAna",
+              "m": "utpiYjAnaH",
+              "f": "utpiYjAnA",
+              "n": "utpiYjAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "utpiYjAna",
+              "m": "utpiYjAnaH",
+              "f": "utpiYjAnA",
+              "n": "utpiYjAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "utpipiYjizA",
+              "m": "",
+              "f": "utpipiYjizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "utpipiYjiza",
+              "m": "utpipiYjizaH",
+              "f": "utpipiYjizA",
+              "n": "utpipiYjizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "utpipiYjizaRIya",
+              "m": "utpipiYjizaRIyaH",
+              "f": "utpipiYjizaRIyA",
+              "n": "utpipiYjizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "utpipiYjizu",
+              "m": "utpipiYjizuH",
+              "f": "utpipiYjizuH",
+              "n": "utpipiYjizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "utpipiYjizita",
+              "m": "utpipiYjizitaH",
+              "f": "utpipiYjizitA",
+              "n": "utpipiYjizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "utpipiYjizitavat",
+              "m": "utpipiYjizitavAn",
+              "f": "utpipiYjizitavatI",
+              "n": "utpipiYjizitavat/utpipiYjizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "utpipiYjizwi",
+              "m": "",
+              "f": "utpipiYjizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "utpipiYjizAmbaBUvas",
+              "m": "utpipiYjizAmbaBUvAn",
+              "f": "utpipiYjizAmbaBUzI",
+              "n": "utpipiYjizAmbaBUvat/utpipiYjizAmbaBUvad"
+            },
+            {
+              "base": "utpipiYjizAmAsivas",
+              "m": "utpipiYjizAmAsivAn",
+              "f": "utpipiYjizAmAsyuzI",
+              "n": "utpipiYjizAmAsivat/utpipiYjizAmAsivad"
+            },
+            {
+              "base": "utpipiYjizAYcakfvas",
+              "m": "utpipiYjizAYcakfvAn",
+              "f": "utpipiYjizAYcakruzI",
+              "n": "utpipiYjizAYcakfvat/utpipiYjizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "utpipiYjiza",
+              "m": "utpipiYjizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "utpipiYjizamARa",
+              "m": "utpipiYjizamARaH",
+              "f": "utpipiYjizamARA",
+              "n": "utpipiYjizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "utpipiYjizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "utpipiYjizaka",
+              "m": "utpipiYjizakaH",
+              "f": "utpipiYjizikA",
+              "n": "utpipiYjizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "utpipiYjizitavya",
+              "m": "utpipiYjizitavyaH",
+              "f": "utpipiYjizitavyA",
+              "n": "utpipiYjizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "utpipiYjizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "utpipiYjizitf",
+              "m": "utpipiYjizitA",
+              "f": "utpipiYjizitrI",
+              "n": "utpipiYjizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "utpipiYjizamARa",
+              "m": "utpipiYjizamARaH",
+              "f": "utpipiYjizamARA",
+              "n": "utpipiYjizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "utpipiYjizya",
+              "m": "utpipiYjizyaH",
+              "f": "utpipiYjizyA",
+              "n": "utpipiYjizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "utpipiYjizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "utpipiYjizaRa",
+              "m": "",
+              "f": "",
+              "n": "utpipiYjizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "utpipiYjizaka",
+              "m": "utpipiYjizakaH",
+              "f": "utpipiYjizikA",
+              "n": "utpipiYjizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "utpipiYjizamARa",
+              "m": "utpipiYjizamARaH",
+              "f": "utpipiYjizamARA",
+              "n": "utpipiYjizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "utpipiYjizamARa",
+              "m": "utpipiYjizamARaH",
+              "f": "utpipiYjizamARA",
+              "n": "utpipiYjizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "utpipiYjizamARa",
+              "m": "utpipiYjizamARaH",
+              "f": "utpipiYjizamARA",
+              "n": "utpipiYjizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "utpiYja",
+              "m": "utpiYjaH",
+              "f": "utpiYjA",
+              "n": "utpiYjam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "utpiYjanIya",
+              "m": "utpiYjanIyaH",
+              "f": "utpiYjanIyA",
+              "n": "utpiYjanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "utpiYjita",
+              "m": "utpiYjitaH",
+              "f": "utpiYjitA",
+              "n": "utpiYjitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "utpiYjitavat",
+              "m": "utpiYjitavAn",
+              "f": "utpiYjitavatI",
+              "n": "utpiYjitavat/utpiYjitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "utpiNkti",
+              "m": "",
+              "f": "utpiNktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "utpiYjayAmbaBUvas",
+              "m": "utpiYjayAmbaBUvAn",
+              "f": "utpiYjayAmbaBUzI",
+              "n": "utpiYjayAmbaBUvat/utpiYjayAmbaBUvad"
+            },
+            {
+              "base": "utpiYjayAmAsivas",
+              "m": "utpiYjayAmAsivAn",
+              "f": "utpiYjayAmAsyuzI",
+              "n": "utpiYjayAmAsivat/utpiYjayAmAsivad"
+            },
+            {
+              "base": "utpiYjayAYcakfvas",
+              "m": "utpiYjayAYcakfvAn",
+              "f": "utpiYjayAYcakruzI",
+              "n": "utpiYjayAYcakfvat/utpiYjayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "utpiYjayamAna",
+              "m": "utpiYjayamAnaH",
+              "f": "utpiYjayamAnA",
+              "n": "utpiYjayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "utpiYjam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "utpiYjaka",
+              "m": "utpiYjakaH",
+              "f": "utpiYjikA",
+              "n": "utpiYjakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "utpiYjayitavya",
+              "m": "utpiYjayitavyaH",
+              "f": "utpiYjayitavyA",
+              "n": "utpiYjayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "utpiYjayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "utpiYjayitf",
+              "m": "utpiYjayitA",
+              "f": "utpiYjayitrI",
+              "n": "utpiYjayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "utpiYjayamAna",
+              "m": "utpiYjayamAnaH",
+              "f": "utpiYjayamAnA",
+              "n": "utpiYjayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "utpiYjya",
+              "m": "utpiYjyaH",
+              "f": "utpiYjyA",
+              "n": "utpiYjyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "utpiYjya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "utpiYjana",
+              "m": "",
+              "f": "",
+              "n": "utpiYjanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "utpiYjaka",
+              "m": "utpiYjakaH",
+              "f": "utpiYjikA",
+              "n": "utpiYjakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "utpiYjayat",
+              "m": "utpiYjayan",
+              "f": "utpiYjayantI",
+              "n": "utpiYjayat/utpiYjayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "utpiYjayamAna",
+              "m": "utpiYjayamAnaH",
+              "f": "utpiYjayamAnA",
+              "n": "utpiYjayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "utpiYjayamAna",
+              "m": "utpiYjayamAnaH",
+              "f": "utpiYjayamAnA",
+              "n": "utpiYjayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "utpiYjayat",
+              "m": "utpiYjayan",
+              "f": "utpiYjayatI/utpiYjayantI",
+              "n": "utpiYjayat/utpiYjayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "utpiYjayamAna",
+              "m": "utpiYjayamAnaH",
+              "f": "utpiYjayamAnA",
+              "n": "utpiYjayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "utpepiYjA",
+              "m": "",
+              "f": "utpepiYjA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "utpepiYja",
+              "m": "utpepiYjaH",
+              "f": "utpepiYjA",
+              "n": "utpepiYjam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "utpepiYjanIya",
+              "m": "utpepiYjanIyaH",
+              "f": "utpepiYjanIyA",
+              "n": "utpepiYjanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "utpepiYjita",
+              "m": "utpepiYjitaH",
+              "f": "utpepiYjitA",
+              "n": "utpepiYjitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "utpepiYjitavat",
+              "m": "utpepiYjitavAn",
+              "f": "utpepiYjitavatI",
+              "n": "utpepiYjitavat/utpepiYjitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "utpepiNkti",
+              "m": "",
+              "f": "utpepiNktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "utpepiYjAmbaBUvas",
+              "m": "utpepiYjAmbaBUvAn",
+              "f": "utpepiYjAmbaBUzI",
+              "n": "utpepiYjAmbaBUvat/utpepiYjAmbaBUvad"
+            },
+            {
+              "base": "utpepiYjAmAsivas",
+              "m": "utpepiYjAmAsivAn",
+              "f": "utpepiYjAmAsyuzI",
+              "n": "utpepiYjAmAsivat/utpepiYjAmAsivad"
+            },
+            {
+              "base": "utpepiYjAYcakfvas",
+              "m": "utpepiYjAYcakfvAn",
+              "f": "utpepiYjAYcakruzI",
+              "n": "utpepiYjAYcakfvat/utpepiYjAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "utpepiNga",
+              "m": "utpepiNgaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "utpepiYjyamAna",
+              "m": "utpepiYjyamAnaH",
+              "f": "utpepiYjyamAnA",
+              "n": "utpepiYjyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "utpepiYjam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "utpepiYjaka",
+              "m": "utpepiYjakaH",
+              "f": "utpepiYjikA",
+              "n": "utpepiYjakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "utpepiYjitavya",
+              "m": "utpepiYjitavyaH",
+              "f": "utpepiYjitavyA",
+              "n": "utpepiYjitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "utpepiYjitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "utpepiYjitf",
+              "m": "utpepiYjitA",
+              "f": "utpepiYjitrI",
+              "n": "utpepiYjitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "utpepiYjyamAna",
+              "m": "utpepiYjyamAnaH",
+              "f": "utpepiYjyamAnA",
+              "n": "utpepiYjyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "utpepiYjya",
+              "m": "utpepiYjyaH",
+              "f": "utpepiYjyA",
+              "n": "utpepiYjyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "utpepiYjya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "utpepiYjana",
+              "m": "",
+              "f": "",
+              "n": "utpepiYjanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "utpepiYjaka",
+              "m": "utpepiYjakaH",
+              "f": "utpepiYjikA",
+              "n": "utpepiYjakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "utpepiYjyamAna",
+              "m": "utpepiYjyamAnaH",
+              "f": "utpepiYjyamAnA",
+              "n": "utpepiYjyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "utpepiYjyamAna",
+              "m": "utpepiYjyamAnaH",
+              "f": "utpepiYjyamAnA",
+              "n": "utpepiYjyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "utpepiYjyamAna",
+              "m": "utpepiYjyamAnaH",
+              "f": "utpepiYjyamAnA",
+              "n": "utpepiYjyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "utpepiYjA",
+              "m": "",
+              "f": "utpepiYjA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "utpepiYja",
+              "m": "utpepiYjaH",
+              "f": "utpepiYjA",
+              "n": "utpepiYjam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "utpepiYjanIya",
+              "m": "utpepiYjanIyaH",
+              "f": "utpepiYjanIyA",
+              "n": "utpepiYjanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "utpepiYjita",
+              "m": "utpepiYjitaH",
+              "f": "utpepiYjitA",
+              "n": "utpepiYjitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "utpepiYjitavat",
+              "m": "utpepiYjitavAn",
+              "f": "utpepiYjitavatI",
+              "n": "utpepiYjitavat/utpepiYjitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "utpepiNkti",
+              "m": "",
+              "f": "utpepiNktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "utpepiYjAmbaBUvas",
+              "m": "utpepiYjAmbaBUvAn",
+              "f": "utpepiYjAmbaBUzI",
+              "n": "utpepiYjAmbaBUvat/utpepiYjAmbaBUvad"
+            },
+            {
+              "base": "utpepiYjAmAsivas",
+              "m": "utpepiYjAmAsivAn",
+              "f": "utpepiYjAmAsyuzI",
+              "n": "utpepiYjAmAsivat/utpepiYjAmAsivad"
+            },
+            {
+              "base": "utpepiYjAYcakfvas",
+              "m": "utpepiYjAYcakfvAn",
+              "f": "utpepiYjAYcakruzI",
+              "n": "utpepiYjAYcakfvat/utpepiYjAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "utpepiNga",
+              "m": "utpepiNgaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "utpepiYjAna",
+              "m": "utpepiYjAnaH",
+              "f": "utpepiYjAnA",
+              "n": "utpepiYjAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "utpepiYjam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "utpepiYjaka",
+              "m": "utpepiYjakaH",
+              "f": "utpepiYjikA",
+              "n": "utpepiYjakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "utpepiYjitavya",
+              "m": "utpepiYjitavyaH",
+              "f": "utpepiYjitavyA",
+              "n": "utpepiYjitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "utpepiYjitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "utpepiYjitf",
+              "m": "utpepiYjitA",
+              "f": "utpepiYjitrI",
+              "n": "utpepiYjitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "utpepijya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "utpepiYjya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "utpepiYjana",
+              "m": "",
+              "f": "",
+              "n": "utpepiYjanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "utpepiYjaka",
+              "m": "utpepiYjakaH",
+              "f": "utpepiYjikA",
+              "n": "utpepiYjakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "utpepiYjat",
+              "m": "utpepiYjan",
+              "f": "utpepiYjatI",
+              "n": "utpepiYjat/utpepiYjad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "utpepiYjat",
+              "m": "utpepiYjan",
+              "f": "utpepiYjatI/utpepiYjantI",
+              "n": "utpepiYjat/utpepiYjad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

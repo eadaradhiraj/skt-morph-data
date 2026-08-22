@@ -1,0 +1,3580 @@
+{
+  "id": "09.0070",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "svF"
+    },
+    {
+      "name": "arTaH",
+      "value": "varaRe"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to marry, to accept, to own, to choose"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "varaRa karanA, pasanda karanA, ASraya denA, saMBAlanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "kryAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "pvAdiH,lvAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "9.23 svF ityasya ayaM pAWaBedaH sidDAntakOmudyAM pAWitaH nAsti parantu DAtupradIpe dfSyate ."
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "svUryAt",
+        "svUryAd",
+        "svUryAstAm",
+        "svUryAsuH",
+        "svUryAH",
+        "svUryAstam",
+        "svUryAsta",
+        "svUryAsam",
+        "svUryAsva",
+        "svUryAsma"
+      ],
+      "plang": [
+        "asvUrRAt",
+        "asvUrRAd",
+        "asvUrRItAm",
+        "asvUrRan",
+        "asvUrRAH",
+        "asvUrRItam",
+        "asvUrRIta",
+        "asvUrRAm",
+        "asvUrRIva",
+        "asvUrRIma"
+      ],
+      "plat": [
+        "svUrRAti",
+        "svUrRItaH",
+        "svUrRanti",
+        "svUrRAsi",
+        "svUrRITaH",
+        "svUrRITa",
+        "svUrRAmi",
+        "svUrRIvaH",
+        "svUrRImaH"
+      ],
+      "plit": [
+        "sasvAra",
+        "sasvaratuH",
+        "sasvaruH",
+        "sasvariTa",
+        "sasvaraTuH",
+        "sasvara",
+        "sasvara",
+        "sasvAra",
+        "sasvariva",
+        "sasvarima"
+      ],
+      "plot": [
+        "svUrRAtu",
+        "svUrRItAt",
+        "svUrRItAd",
+        "svUrRItAm",
+        "svUrRantu",
+        "svUrRItAt",
+        "svUrRItAd",
+        "svUrRIhi",
+        "svUrRItam",
+        "svUrRIta",
+        "svUrRAni",
+        "svUrRAva",
+        "svUrRAma"
+      ],
+      "plrung": [
+        "asvarizyat",
+        "asvarizyad",
+        "asvarIzyat",
+        "asvarIzyad",
+        "asvarizyatAm",
+        "asvarIzyatAm",
+        "asvarizyan",
+        "asvarIzyan",
+        "asvarizyaH",
+        "asvarIzyaH",
+        "asvarizyatam",
+        "asvarIzyatam",
+        "asvarizyata",
+        "asvarIzyata",
+        "asvarizyam",
+        "asvarIzyam",
+        "asvarizyAva",
+        "asvarIzyAva",
+        "asvarizyAma",
+        "asvarIzyAma"
+      ],
+      "plrut": [
+        "svarizyati",
+        "svarIzyati",
+        "svarizyataH",
+        "svarIzyataH",
+        "svarizyanti",
+        "svarIzyanti",
+        "svarizyasi",
+        "svarIzyasi",
+        "svarizyaTaH",
+        "svarIzyaTaH",
+        "svarizyaTa",
+        "svarIzyaTa",
+        "svarizyAmi",
+        "svarIzyAmi",
+        "svarizyAvaH",
+        "svarIzyAvaH",
+        "svarizyAmaH",
+        "svarIzyAmaH"
+      ],
+      "plung": [
+        "asvArIt",
+        "asvArId",
+        "asvArizwAm",
+        "asvArizuH",
+        "asvArIH",
+        "asvArizwam",
+        "asvArizwa",
+        "asvArizam",
+        "asvArizva",
+        "asvArizma"
+      ],
+      "plut": [
+        "svaritA",
+        "svarItA",
+        "svaritArO",
+        "svarItArO",
+        "svaritAraH",
+        "svarItAraH",
+        "svaritAsi",
+        "svarItAsi",
+        "svaritAsTaH",
+        "svarItAsTaH",
+        "svaritAsTa",
+        "svarItAsTa",
+        "svaritAsmi",
+        "svarItAsmi",
+        "svaritAsvaH",
+        "svarItAsvaH",
+        "svaritAsmaH",
+        "svarItAsmaH"
+      ],
+      "pvidhiling": [
+        "svUrRIyAt",
+        "svUrRIyAd",
+        "svUrRIyAtAm",
+        "svUrRIyuH",
+        "svUrRIyAH",
+        "svUrRIyAtam",
+        "svUrRIyAta",
+        "svUrRIyAm",
+        "svUrRIyAva",
+        "svUrRIyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "svarizIzwa",
+        "svArizIzwa",
+        "svUrzIzwa",
+        "svarizIyAstAm",
+        "svArizIyAstAm",
+        "svUrzIyAstAm",
+        "svarizIran",
+        "svArizIran",
+        "svUrzIran",
+        "svarizIzWAH",
+        "svArizIzWAH",
+        "svUrzIzWAH",
+        "svarizIyAsTAm",
+        "svArizIyAsTAm",
+        "svUrzIyAsTAm",
+        "svarizIQvam",
+        "svarizIDvam",
+        "svArizIQvam",
+        "svArizIDvam",
+        "svUrzIQvam",
+        "svarizIya",
+        "svArizIya",
+        "svUrzIya",
+        "svarizIvahi",
+        "svArizIvahi",
+        "svUrzIvahi",
+        "svarizImahi",
+        "svArizImahi",
+        "svUrzImahi"
+      ],
+      "alang": [
+        "asvUryata",
+        "asvUryetAm",
+        "asvUryanta",
+        "asvUryaTAH",
+        "asvUryeTAm",
+        "asvUryaDvam",
+        "asvUrye",
+        "asvUryAvahi",
+        "asvUryAmahi"
+      ],
+      "alat": [
+        "svUryate",
+        "svUryete",
+        "svUryante",
+        "svUryase",
+        "svUryeTe",
+        "svUryaDve",
+        "svUrye",
+        "svUryAvahe",
+        "svUryAmahe"
+      ],
+      "alit": [
+        "sasvare",
+        "sasvarAte",
+        "sasvarire",
+        "sasvarize",
+        "sasvarATe",
+        "sasvariQve",
+        "sasvariDve",
+        "sasvare",
+        "sasvarivahe",
+        "sasvarimahe"
+      ],
+      "alot": [
+        "svUryatAm",
+        "svUryetAm",
+        "svUryantAm",
+        "svUryasva",
+        "svUryeTAm",
+        "svUryaDvam",
+        "svUryE",
+        "svUryAvahE",
+        "svUryAmahE"
+      ],
+      "alrung": [
+        "asvarizyata",
+        "asvarIzyata",
+        "asvArizyata",
+        "asvArIzyata",
+        "asvarizyetAm",
+        "asvarIzyetAm",
+        "asvArizyetAm",
+        "asvArIzyetAm",
+        "asvarizyanta",
+        "asvarIzyanta",
+        "asvArizyanta",
+        "asvArIzyanta",
+        "asvarizyaTAH",
+        "asvarIzyaTAH",
+        "asvArizyaTAH",
+        "asvArIzyaTAH",
+        "asvarizyeTAm",
+        "asvarIzyeTAm",
+        "asvArizyeTAm",
+        "asvArIzyeTAm",
+        "asvarizyaDvam",
+        "asvarIzyaDvam",
+        "asvArizyaDvam",
+        "asvArIzyaDvam",
+        "asvarizye",
+        "asvarIzye",
+        "asvArizye",
+        "asvArIzye",
+        "asvarizyAvahi",
+        "asvarIzyAvahi",
+        "asvArizyAvahi",
+        "asvArIzyAvahi",
+        "asvarizyAmahi",
+        "asvarIzyAmahi",
+        "asvArizyAmahi",
+        "asvArIzyAmahi"
+      ],
+      "alrut": [
+        "svarizyate",
+        "svarIzyate",
+        "svArizyate",
+        "svArIzyate",
+        "svarizyete",
+        "svarIzyete",
+        "svArizyete",
+        "svArIzyete",
+        "svarizyante",
+        "svarIzyante",
+        "svArizyante",
+        "svArIzyante",
+        "svarizyase",
+        "svarIzyase",
+        "svArizyase",
+        "svArIzyase",
+        "svarizyeTe",
+        "svarIzyeTe",
+        "svArizyeTe",
+        "svArIzyeTe",
+        "svarizyaDve",
+        "svarIzyaDve",
+        "svArizyaDve",
+        "svArIzyaDve",
+        "svarizye",
+        "svarIzye",
+        "svArizye",
+        "svArIzye",
+        "svarizyAvahe",
+        "svarIzyAvahe",
+        "svArizyAvahe",
+        "svArIzyAvahe",
+        "svarizyAmahe",
+        "svarIzyAmahe",
+        "svArizyAmahe",
+        "svArIzyAmahe"
+      ],
+      "alung": [
+        "asvAri",
+        "asvarizAtAm",
+        "asvarIzAtAm",
+        "asvArizAtAm",
+        "asvArIzAtAm",
+        "asvUrzAtAm",
+        "asvarizata",
+        "asvarIzata",
+        "asvArizata",
+        "asvArIzata",
+        "asvUrzata",
+        "asvarizWAH",
+        "asvarIzWAH",
+        "asvArizWAH",
+        "asvArIzWAH",
+        "asvUrzWAH",
+        "asvarizATAm",
+        "asvarIzATAm",
+        "asvArizATAm",
+        "asvArIzATAm",
+        "asvUrzATAm",
+        "asvariQvam",
+        "asvariDvam",
+        "asvarIQvam",
+        "asvarIDvam",
+        "asvAriQvam",
+        "asvAriDvam",
+        "asvArIQvam",
+        "asvArIDvam",
+        "asvUrQvam",
+        "asvarizi",
+        "asvarIzi",
+        "asvArizi",
+        "asvArIzi",
+        "asvUrzi",
+        "asvarizvahi",
+        "asvarIzvahi",
+        "asvArizvahi",
+        "asvArIzvahi",
+        "asvUrzvahi",
+        "asvarizmahi",
+        "asvarIzmahi",
+        "asvArizmahi",
+        "asvArIzmahi",
+        "asvUrzmahi"
+      ],
+      "alut": [
+        "svaritA",
+        "svarItA",
+        "svAritA",
+        "svArItA",
+        "svaritArO",
+        "svarItArO",
+        "svAritArO",
+        "svArItArO",
+        "svaritAraH",
+        "svarItAraH",
+        "svAritAraH",
+        "svArItAraH",
+        "svaritAse",
+        "svarItAse",
+        "svAritAse",
+        "svArItAse",
+        "svaritAsATe",
+        "svarItAsATe",
+        "svAritAsATe",
+        "svArItAsATe",
+        "svaritADve",
+        "svarItADve",
+        "svAritADve",
+        "svArItADve",
+        "svaritAhe",
+        "svarItAhe",
+        "svAritAhe",
+        "svArItAhe",
+        "svaritAsvahe",
+        "svarItAsvahe",
+        "svAritAsvahe",
+        "svArItAsvahe",
+        "svaritAsmahe",
+        "svarItAsmahe",
+        "svAritAsmahe",
+        "svArItAsmahe"
+      ],
+      "avidhiling": [
+        "svUryeta",
+        "svUryeyAtAm",
+        "svUryeran",
+        "svUryeTAH",
+        "svUryeyATAm",
+        "svUryeDvam",
+        "svUryeya",
+        "svUryevahi",
+        "svUryemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "sisvarizyAt",
+        "sisvarizyAd",
+        "sisvarIzyAt",
+        "sisvarIzyAd",
+        "susvUrzyAt",
+        "susvUrzyAd",
+        "sisvarizyAstAm",
+        "sisvarIzyAstAm",
+        "susvUrzyAstAm",
+        "sisvarizyAsuH",
+        "sisvarIzyAsuH",
+        "susvUrzyAsuH",
+        "sisvarizyAH",
+        "sisvarIzyAH",
+        "susvUrzyAH",
+        "sisvarizyAstam",
+        "sisvarIzyAstam",
+        "susvUrzyAstam",
+        "sisvarizyAsta",
+        "sisvarIzyAsta",
+        "susvUrzyAsta",
+        "sisvarizyAsam",
+        "sisvarIzyAsam",
+        "susvUrzyAsam",
+        "sisvarizyAsva",
+        "sisvarIzyAsva",
+        "susvUrzyAsva",
+        "sisvarizyAsma",
+        "sisvarIzyAsma",
+        "susvUrzyAsma"
+      ],
+      "plang": [
+        "asisvarizat",
+        "asisvarizad",
+        "asisvarIzat",
+        "asisvarIzad",
+        "asusvUrzat",
+        "asusvUrzad",
+        "asisvarizatAm",
+        "asisvarIzatAm",
+        "asusvUrzatAm",
+        "asisvarizan",
+        "asisvarIzan",
+        "asusvUrzan",
+        "asisvarizaH",
+        "asisvarIzaH",
+        "asusvUrzaH",
+        "asisvarizatam",
+        "asisvarIzatam",
+        "asusvUrzatam",
+        "asisvarizata",
+        "asisvarIzata",
+        "asusvUrzata",
+        "asisvarizam",
+        "asisvarIzam",
+        "asusvUrzam",
+        "asisvarizAva",
+        "asisvarIzAva",
+        "asusvUrzAva",
+        "asisvarizAma",
+        "asisvarIzAma",
+        "asusvUrzAma"
+      ],
+      "plat": [
+        "sisvarizati",
+        "sisvarIzati",
+        "susvUrzati",
+        "sisvarizataH",
+        "sisvarIzataH",
+        "susvUrzataH",
+        "sisvarizanti",
+        "sisvarIzanti",
+        "susvUrzanti",
+        "sisvarizasi",
+        "sisvarIzasi",
+        "susvUrzasi",
+        "sisvarizaTaH",
+        "sisvarIzaTaH",
+        "susvUrzaTaH",
+        "sisvarizaTa",
+        "sisvarIzaTa",
+        "susvUrzaTa",
+        "sisvarizAmi",
+        "sisvarIzAmi",
+        "susvUrzAmi",
+        "sisvarizAvaH",
+        "sisvarIzAvaH",
+        "susvUrzAvaH",
+        "sisvarizAmaH",
+        "sisvarIzAmaH",
+        "susvUrzAmaH"
+      ],
+      "plit": [
+        "sisvarizAYcakAra",
+        "sisvarizAmAsa",
+        "sisvarizAmbaBUva",
+        "sisvarIzAYcakAra",
+        "sisvarIzAmAsa",
+        "sisvarIzAmbaBUva",
+        "susvUrzAYcakAra",
+        "susvUrzAmAsa",
+        "susvUrzAmbaBUva",
+        "sisvarizAYcakratuH",
+        "sisvarizAmAsatuH",
+        "sisvarizAmbaBUvatuH",
+        "sisvarIzAYcakratuH",
+        "sisvarIzAmAsatuH",
+        "sisvarIzAmbaBUvatuH",
+        "susvUrzAYcakratuH",
+        "susvUrzAmAsatuH",
+        "susvUrzAmbaBUvatuH",
+        "sisvarizAYcakruH",
+        "sisvarizAmAsuH",
+        "sisvarizAmbaBUvuH",
+        "sisvarIzAYcakruH",
+        "sisvarIzAmAsuH",
+        "sisvarIzAmbaBUvuH",
+        "susvUrzAYcakruH",
+        "susvUrzAmAsuH",
+        "susvUrzAmbaBUvuH",
+        "sisvarizAYcakarTa",
+        "sisvarizAmAsiTa",
+        "sisvarizAmbaBUviTa",
+        "sisvarIzAYcakarTa",
+        "sisvarIzAmAsiTa",
+        "sisvarIzAmbaBUviTa",
+        "susvUrzAYcakarTa",
+        "susvUrzAmAsiTa",
+        "susvUrzAmbaBUviTa",
+        "sisvarizAYcakraTuH",
+        "sisvarizAmAsaTuH",
+        "sisvarizAmbaBUvaTuH",
+        "sisvarIzAYcakraTuH",
+        "sisvarIzAmAsaTuH",
+        "sisvarIzAmbaBUvaTuH",
+        "susvUrzAYcakraTuH",
+        "susvUrzAmAsaTuH",
+        "susvUrzAmbaBUvaTuH",
+        "sisvarizAYcakra",
+        "sisvarizAmAsa",
+        "sisvarizAmbaBUva",
+        "sisvarIzAYcakra",
+        "sisvarIzAmAsa",
+        "sisvarIzAmbaBUva",
+        "susvUrzAYcakra",
+        "susvUrzAmAsa",
+        "susvUrzAmbaBUva",
+        "sisvarizAYcakara",
+        "sisvarizAYcakAra",
+        "sisvarizAmAsa",
+        "sisvarizAmbaBUva",
+        "sisvarIzAYcakara",
+        "sisvarIzAYcakAra",
+        "sisvarIzAmAsa",
+        "sisvarIzAmbaBUva",
+        "susvUrzAYcakara",
+        "susvUrzAYcakAra",
+        "susvUrzAmAsa",
+        "susvUrzAmbaBUva",
+        "sisvarizAYcakfva",
+        "sisvarizAmAsiva",
+        "sisvarizAmbaBUviva",
+        "sisvarIzAYcakfva",
+        "sisvarIzAmAsiva",
+        "sisvarIzAmbaBUviva",
+        "susvUrzAYcakfva",
+        "susvUrzAmAsiva",
+        "susvUrzAmbaBUviva",
+        "sisvarizAYcakfma",
+        "sisvarizAmAsima",
+        "sisvarizAmbaBUvima",
+        "sisvarIzAYcakfma",
+        "sisvarIzAmAsima",
+        "sisvarIzAmbaBUvima",
+        "susvUrzAYcakfma",
+        "susvUrzAmAsima",
+        "susvUrzAmbaBUvima"
+      ],
+      "plot": [
+        "sisvarizatAt",
+        "sisvarizatAd",
+        "sisvarizatu",
+        "sisvarIzatAt",
+        "sisvarIzatAd",
+        "sisvarIzatu",
+        "susvUrzatAt",
+        "susvUrzatAd",
+        "susvUrzatu",
+        "sisvarizatAm",
+        "sisvarIzatAm",
+        "susvUrzatAm",
+        "sisvarizantu",
+        "sisvarIzantu",
+        "susvUrzantu",
+        "sisvariza",
+        "sisvarizatAt",
+        "sisvarizatAd",
+        "sisvarIza",
+        "sisvarIzatAt",
+        "sisvarIzatAd",
+        "susvUrza",
+        "susvUrzatAt",
+        "susvUrzatAd",
+        "sisvarizatam",
+        "sisvarIzatam",
+        "susvUrzatam",
+        "sisvarizata",
+        "sisvarIzata",
+        "susvUrzata",
+        "sisvarizARi",
+        "sisvarIzARi",
+        "susvUrzARi",
+        "sisvarizAva",
+        "sisvarIzAva",
+        "susvUrzAva",
+        "sisvarizAma",
+        "sisvarIzAma",
+        "susvUrzAma"
+      ],
+      "plrung": [
+        "asisvarizizyat",
+        "asisvarizizyad",
+        "asisvarIzizyat",
+        "asisvarIzizyad",
+        "asusvUrzizyat",
+        "asusvUrzizyad",
+        "asisvarizizyatAm",
+        "asisvarIzizyatAm",
+        "asusvUrzizyatAm",
+        "asisvarizizyan",
+        "asisvarIzizyan",
+        "asusvUrzizyan",
+        "asisvarizizyaH",
+        "asisvarIzizyaH",
+        "asusvUrzizyaH",
+        "asisvarizizyatam",
+        "asisvarIzizyatam",
+        "asusvUrzizyatam",
+        "asisvarizizyata",
+        "asisvarIzizyata",
+        "asusvUrzizyata",
+        "asisvarizizyam",
+        "asisvarIzizyam",
+        "asusvUrzizyam",
+        "asisvarizizyAva",
+        "asisvarIzizyAva",
+        "asusvUrzizyAva",
+        "asisvarizizyAma",
+        "asisvarIzizyAma",
+        "asusvUrzizyAma"
+      ],
+      "plrut": [
+        "sisvarizizyati",
+        "sisvarIzizyati",
+        "susvUrzizyati",
+        "sisvarizizyataH",
+        "sisvarIzizyataH",
+        "susvUrzizyataH",
+        "sisvarizizyanti",
+        "sisvarIzizyanti",
+        "susvUrzizyanti",
+        "sisvarizizyasi",
+        "sisvarIzizyasi",
+        "susvUrzizyasi",
+        "sisvarizizyaTaH",
+        "sisvarIzizyaTaH",
+        "susvUrzizyaTaH",
+        "sisvarizizyaTa",
+        "sisvarIzizyaTa",
+        "susvUrzizyaTa",
+        "sisvarizizyAmi",
+        "sisvarIzizyAmi",
+        "susvUrzizyAmi",
+        "sisvarizizyAvaH",
+        "sisvarIzizyAvaH",
+        "susvUrzizyAvaH",
+        "sisvarizizyAmaH",
+        "sisvarIzizyAmaH",
+        "susvUrzizyAmaH"
+      ],
+      "plung": [
+        "asisvarizIt",
+        "asisvarizId",
+        "asisvarIzIt",
+        "asisvarIzId",
+        "asusvUrzIt",
+        "asusvUrzId",
+        "asisvarizizwAm",
+        "asisvarIzizwAm",
+        "asusvUrzizwAm",
+        "asisvarizizuH",
+        "asisvarIzizuH",
+        "asusvUrzizuH",
+        "asisvarizIH",
+        "asisvarIzIH",
+        "asusvUrzIH",
+        "asisvarizizwam",
+        "asisvarIzizwam",
+        "asusvUrzizwam",
+        "asisvarizizwa",
+        "asisvarIzizwa",
+        "asusvUrzizwa",
+        "asisvarizizam",
+        "asisvarIzizam",
+        "asusvUrzizam",
+        "asisvarizizva",
+        "asisvarIzizva",
+        "asusvUrzizva",
+        "asisvarizizma",
+        "asisvarIzizma",
+        "asusvUrzizma"
+      ],
+      "plut": [
+        "sisvarizitA",
+        "sisvarIzitA",
+        "susvUrzitA",
+        "sisvarizitArO",
+        "sisvarIzitArO",
+        "susvUrzitArO",
+        "sisvarizitAraH",
+        "sisvarIzitAraH",
+        "susvUrzitAraH",
+        "sisvarizitAsi",
+        "sisvarIzitAsi",
+        "susvUrzitAsi",
+        "sisvarizitAsTaH",
+        "sisvarIzitAsTaH",
+        "susvUrzitAsTaH",
+        "sisvarizitAsTa",
+        "sisvarIzitAsTa",
+        "susvUrzitAsTa",
+        "sisvarizitAsmi",
+        "sisvarIzitAsmi",
+        "susvUrzitAsmi",
+        "sisvarizitAsvaH",
+        "sisvarIzitAsvaH",
+        "susvUrzitAsvaH",
+        "sisvarizitAsmaH",
+        "sisvarIzitAsmaH",
+        "susvUrzitAsmaH"
+      ],
+      "pvidhiling": [
+        "sisvarizet",
+        "sisvarized",
+        "sisvarIzet",
+        "sisvarIzed",
+        "susvUrzet",
+        "susvUrzed",
+        "sisvarizetAm",
+        "sisvarIzetAm",
+        "susvUrzetAm",
+        "sisvarizeyuH",
+        "sisvarIzeyuH",
+        "susvUrzeyuH",
+        "sisvarizeH",
+        "sisvarIzeH",
+        "susvUrzeH",
+        "sisvarizetam",
+        "sisvarIzetam",
+        "susvUrzetam",
+        "sisvarizeta",
+        "sisvarIzeta",
+        "susvUrzeta",
+        "sisvarizeyam",
+        "sisvarIzeyam",
+        "susvUrzeyam",
+        "sisvarizeva",
+        "sisvarIzeva",
+        "susvUrzeva",
+        "sisvarizema",
+        "sisvarIzema",
+        "susvUrzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "sisvarizizIzwa",
+        "sisvarIzizIzwa",
+        "susvUrzizIzwa",
+        "sisvarizizIyAstAm",
+        "sisvarIzizIyAstAm",
+        "susvUrzizIyAstAm",
+        "sisvarizizIran",
+        "sisvarIzizIran",
+        "susvUrzizIran",
+        "sisvarizizIzWAH",
+        "sisvarIzizIzWAH",
+        "susvUrzizIzWAH",
+        "sisvarizizIyAsTAm",
+        "sisvarIzizIyAsTAm",
+        "susvUrzizIyAsTAm",
+        "sisvarizizIDvam",
+        "sisvarIzizIDvam",
+        "susvUrzizIDvam",
+        "sisvarizizIya",
+        "sisvarIzizIya",
+        "susvUrzizIya",
+        "sisvarizizIvahi",
+        "sisvarIzizIvahi",
+        "susvUrzizIvahi",
+        "sisvarizizImahi",
+        "sisvarIzizImahi",
+        "susvUrzizImahi"
+      ],
+      "alang": [
+        "asisvarizyata",
+        "asisvarIzyata",
+        "asusvUrzyata",
+        "asisvarizyetAm",
+        "asisvarIzyetAm",
+        "asusvUrzyetAm",
+        "asisvarizyanta",
+        "asisvarIzyanta",
+        "asusvUrzyanta",
+        "asisvarizyaTAH",
+        "asisvarIzyaTAH",
+        "asusvUrzyaTAH",
+        "asisvarizyeTAm",
+        "asisvarIzyeTAm",
+        "asusvUrzyeTAm",
+        "asisvarizyaDvam",
+        "asisvarIzyaDvam",
+        "asusvUrzyaDvam",
+        "asisvarizye",
+        "asisvarIzye",
+        "asusvUrzye",
+        "asisvarizyAvahi",
+        "asisvarIzyAvahi",
+        "asusvUrzyAvahi",
+        "asisvarizyAmahi",
+        "asisvarIzyAmahi",
+        "asusvUrzyAmahi"
+      ],
+      "alat": [
+        "sisvarizyate",
+        "sisvarIzyate",
+        "susvUrzyate",
+        "sisvarizyete",
+        "sisvarIzyete",
+        "susvUrzyete",
+        "sisvarizyante",
+        "sisvarIzyante",
+        "susvUrzyante",
+        "sisvarizyase",
+        "sisvarIzyase",
+        "susvUrzyase",
+        "sisvarizyeTe",
+        "sisvarIzyeTe",
+        "susvUrzyeTe",
+        "sisvarizyaDve",
+        "sisvarIzyaDve",
+        "susvUrzyaDve",
+        "sisvarizye",
+        "sisvarIzye",
+        "susvUrzye",
+        "sisvarizyAvahe",
+        "sisvarIzyAvahe",
+        "susvUrzyAvahe",
+        "sisvarizyAmahe",
+        "sisvarIzyAmahe",
+        "susvUrzyAmahe"
+      ],
+      "alit": [
+        "sisvarizAYcakre",
+        "sisvarizAmAse",
+        "sisvarizAmbaBUve",
+        "sisvarIzAYcakre",
+        "sisvarIzAmAse",
+        "sisvarIzAmbaBUve",
+        "susvUrzAYcakre",
+        "susvUrzAmAse",
+        "susvUrzAmbaBUve",
+        "sisvarizAYcakrAte",
+        "sisvarizAmAsAte",
+        "sisvarizAmbaBUvAte",
+        "sisvarIzAYcakrAte",
+        "sisvarIzAmAsAte",
+        "sisvarIzAmbaBUvAte",
+        "susvUrzAYcakrAte",
+        "susvUrzAmAsAte",
+        "susvUrzAmbaBUvAte",
+        "sisvarizAYcakrire",
+        "sisvarizAmAsire",
+        "sisvarizAmbaBUvire",
+        "sisvarIzAYcakrire",
+        "sisvarIzAmAsire",
+        "sisvarIzAmbaBUvire",
+        "susvUrzAYcakrire",
+        "susvUrzAmAsire",
+        "susvUrzAmbaBUvire",
+        "sisvarizAYcakfze",
+        "sisvarizAmAsize",
+        "sisvarizAmbaBUvize",
+        "sisvarIzAYcakfze",
+        "sisvarIzAmAsize",
+        "sisvarIzAmbaBUvize",
+        "susvUrzAYcakfze",
+        "susvUrzAmAsize",
+        "susvUrzAmbaBUvize",
+        "sisvarizAYcakrATe",
+        "sisvarizAmAsATe",
+        "sisvarizAmbaBUvATe",
+        "sisvarIzAYcakrATe",
+        "sisvarIzAmAsATe",
+        "sisvarIzAmbaBUvATe",
+        "susvUrzAYcakrATe",
+        "susvUrzAmAsATe",
+        "susvUrzAmbaBUvATe",
+        "sisvarizAYcakfQve",
+        "sisvarizAmAsiDve",
+        "sisvarizAmbaBUviQve",
+        "sisvarIzAYcakfQve",
+        "sisvarIzAmAsiDve",
+        "sisvarIzAmbaBUviQve",
+        "susvUrzAYcakfQve",
+        "susvUrzAmAsiDve",
+        "susvUrzAmbaBUviQve",
+        "sisvarizAYcakre",
+        "sisvarizAmAhe",
+        "sisvarizAmbaBUve",
+        "sisvarIzAYcakre",
+        "sisvarIzAmAhe",
+        "sisvarIzAmbaBUve",
+        "susvUrzAYcakre",
+        "susvUrzAmAhe",
+        "susvUrzAmbaBUve",
+        "sisvarizAYcakfvahe",
+        "sisvarizAmAsivahe",
+        "sisvarizAmbaBUvivahe",
+        "sisvarIzAYcakfvahe",
+        "sisvarIzAmAsivahe",
+        "sisvarIzAmbaBUvivahe",
+        "susvUrzAYcakfvahe",
+        "susvUrzAmAsivahe",
+        "susvUrzAmbaBUvivahe",
+        "sisvarizAYcakfmahe",
+        "sisvarizAmAsimahe",
+        "sisvarizAmbaBUvimahe",
+        "sisvarIzAYcakfmahe",
+        "sisvarIzAmAsimahe",
+        "sisvarIzAmbaBUvimahe",
+        "susvUrzAYcakfmahe",
+        "susvUrzAmAsimahe",
+        "susvUrzAmbaBUvimahe"
+      ],
+      "alot": [
+        "sisvarizyatAm",
+        "sisvarIzyatAm",
+        "susvUrzyatAm",
+        "sisvarizyetAm",
+        "sisvarIzyetAm",
+        "susvUrzyetAm",
+        "sisvarizyantAm",
+        "sisvarIzyantAm",
+        "susvUrzyantAm",
+        "sisvarizyasva",
+        "sisvarIzyasva",
+        "susvUrzyasva",
+        "sisvarizyeTAm",
+        "sisvarIzyeTAm",
+        "susvUrzyeTAm",
+        "sisvarizyaDvam",
+        "sisvarIzyaDvam",
+        "susvUrzyaDvam",
+        "sisvarizyE",
+        "sisvarIzyE",
+        "susvUrzyE",
+        "sisvarizyAvahE",
+        "sisvarIzyAvahE",
+        "susvUrzyAvahE",
+        "sisvarizyAmahE",
+        "sisvarIzyAmahE",
+        "susvUrzyAmahE"
+      ],
+      "alrung": [
+        "asisvarizizyata",
+        "asisvarIzizyata",
+        "asusvUrzizyata",
+        "asisvarizizyetAm",
+        "asisvarIzizyetAm",
+        "asusvUrzizyetAm",
+        "asisvarizizyanta",
+        "asisvarIzizyanta",
+        "asusvUrzizyanta",
+        "asisvarizizyaTAH",
+        "asisvarIzizyaTAH",
+        "asusvUrzizyaTAH",
+        "asisvarizizyeTAm",
+        "asisvarIzizyeTAm",
+        "asusvUrzizyeTAm",
+        "asisvarizizyaDvam",
+        "asisvarIzizyaDvam",
+        "asusvUrzizyaDvam",
+        "asisvarizizye",
+        "asisvarIzizye",
+        "asusvUrzizye",
+        "asisvarizizyAvahi",
+        "asisvarIzizyAvahi",
+        "asusvUrzizyAvahi",
+        "asisvarizizyAmahi",
+        "asisvarIzizyAmahi",
+        "asusvUrzizyAmahi"
+      ],
+      "alrut": [
+        "sisvarizizyate",
+        "sisvarIzizyate",
+        "susvUrzizyate",
+        "sisvarizizyete",
+        "sisvarIzizyete",
+        "susvUrzizyete",
+        "sisvarizizyante",
+        "sisvarIzizyante",
+        "susvUrzizyante",
+        "sisvarizizyase",
+        "sisvarIzizyase",
+        "susvUrzizyase",
+        "sisvarizizyeTe",
+        "sisvarIzizyeTe",
+        "susvUrzizyeTe",
+        "sisvarizizyaDve",
+        "sisvarIzizyaDve",
+        "susvUrzizyaDve",
+        "sisvarizizye",
+        "sisvarIzizye",
+        "susvUrzizye",
+        "sisvarizizyAvahe",
+        "sisvarIzizyAvahe",
+        "susvUrzizyAvahe",
+        "sisvarizizyAmahe",
+        "sisvarIzizyAmahe",
+        "susvUrzizyAmahe"
+      ],
+      "alung": [
+        "asisvarizi",
+        "asisvarIzi",
+        "asusvUrzi",
+        "asisvarizizAtAm",
+        "asisvarIzizAtAm",
+        "asusvUrzizAtAm",
+        "asisvarizizata",
+        "asisvarIzizata",
+        "asusvUrzizata",
+        "asisvarizizWAH",
+        "asisvarIzizWAH",
+        "asusvUrzizWAH",
+        "asisvarizizATAm",
+        "asisvarIzizATAm",
+        "asusvUrzizATAm",
+        "asisvariziDvam",
+        "asisvarIziDvam",
+        "asusvUrziDvam",
+        "asisvarizizi",
+        "asisvarIzizi",
+        "asusvUrzizi",
+        "asisvarizizvahi",
+        "asisvarIzizvahi",
+        "asusvUrzizvahi",
+        "asisvarizizmahi",
+        "asisvarIzizmahi",
+        "asusvUrzizmahi"
+      ],
+      "alut": [
+        "sisvarizitA",
+        "sisvarIzitA",
+        "susvUrzitA",
+        "sisvarizitArO",
+        "sisvarIzitArO",
+        "susvUrzitArO",
+        "sisvarizitAraH",
+        "sisvarIzitAraH",
+        "susvUrzitAraH",
+        "sisvarizitAse",
+        "sisvarIzitAse",
+        "susvUrzitAse",
+        "sisvarizitAsATe",
+        "sisvarIzitAsATe",
+        "susvUrzitAsATe",
+        "sisvarizitADve",
+        "sisvarIzitADve",
+        "susvUrzitADve",
+        "sisvarizitAhe",
+        "sisvarIzitAhe",
+        "susvUrzitAhe",
+        "sisvarizitAsvahe",
+        "sisvarIzitAsvahe",
+        "susvUrzitAsvahe",
+        "sisvarizitAsmahe",
+        "sisvarIzitAsmahe",
+        "susvUrzitAsmahe"
+      ],
+      "avidhiling": [
+        "sisvarizyeta",
+        "sisvarIzyeta",
+        "susvUrzyeta",
+        "sisvarizyeyAtAm",
+        "sisvarIzyeyAtAm",
+        "susvUrzyeyAtAm",
+        "sisvarizyeran",
+        "sisvarIzyeran",
+        "susvUrzyeran",
+        "sisvarizyeTAH",
+        "sisvarIzyeTAH",
+        "susvUrzyeTAH",
+        "sisvarizyeyATAm",
+        "sisvarIzyeyATAm",
+        "susvUrzyeyATAm",
+        "sisvarizyeDvam",
+        "sisvarIzyeDvam",
+        "susvUrzyeDvam",
+        "sisvarizyeya",
+        "sisvarIzyeya",
+        "susvUrzyeya",
+        "sisvarizyevahi",
+        "sisvarIzyevahi",
+        "susvUrzyevahi",
+        "sisvarizyemahi",
+        "sisvarIzyemahi",
+        "susvUrzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "svArayizIzwa",
+        "svArayizIyAstAm",
+        "svArayizIran",
+        "svArayizIzWAH",
+        "svArayizIyAsTAm",
+        "svArayizIQvam",
+        "svArayizIDvam",
+        "svArayizIya",
+        "svArayizIvahi",
+        "svArayizImahi"
+      ],
+      "alang": [
+        "asvArayata",
+        "asvArayetAm",
+        "asvArayanta",
+        "asvArayaTAH",
+        "asvArayeTAm",
+        "asvArayaDvam",
+        "asvAraye",
+        "asvArayAvahi",
+        "asvArayAmahi"
+      ],
+      "alat": [
+        "svArayate",
+        "svArayete",
+        "svArayante",
+        "svArayase",
+        "svArayeTe",
+        "svArayaDve",
+        "svAraye",
+        "svArayAvahe",
+        "svArayAmahe"
+      ],
+      "alit": [
+        "svArayAYcakre",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakrAte",
+        "svArayAmAsatuH",
+        "svArayAmbaBUvatuH",
+        "svArayAYcakrire",
+        "svArayAmAsuH",
+        "svArayAmbaBUvuH",
+        "svArayAYcakfze",
+        "svArayAmAsiTa",
+        "svArayAmbaBUviTa",
+        "svArayAYcakrATe",
+        "svArayAmAsaTuH",
+        "svArayAmbaBUvaTuH",
+        "svArayAYcakfQve",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakre",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakfvahe",
+        "svArayAmAsiva",
+        "svArayAmbaBUviva",
+        "svArayAYcakfmahe",
+        "svArayAmAsima",
+        "svArayAmbaBUvima"
+      ],
+      "alot": [
+        "svArayatAm",
+        "svArayetAm",
+        "svArayantAm",
+        "svArayasva",
+        "svArayeTAm",
+        "svArayaDvam",
+        "svArayE",
+        "svArayAvahE",
+        "svArayAmahE"
+      ],
+      "alrung": [
+        "asvArayizyata",
+        "asvArayizyetAm",
+        "asvArayizyanta",
+        "asvArayizyaTAH",
+        "asvArayizyeTAm",
+        "asvArayizyaDvam",
+        "asvArayizye",
+        "asvArayizyAvahi",
+        "asvArayizyAmahi"
+      ],
+      "alrut": [
+        "svArayizyate",
+        "svArayizyete",
+        "svArayizyante",
+        "svArayizyase",
+        "svArayizyeTe",
+        "svArayizyaDve",
+        "svArayizye",
+        "svArayizyAvahe",
+        "svArayizyAmahe"
+      ],
+      "alung": [
+        "asisvarata",
+        "asisvaretAm",
+        "asisvaranta",
+        "asisvaraTAH",
+        "asisvareTAm",
+        "asisvaraDvam",
+        "asisvare",
+        "asisvarAvahi",
+        "asisvarAmahi"
+      ],
+      "alut": [
+        "svArayitA",
+        "svArayitArO",
+        "svArayitAraH",
+        "svArayitAse",
+        "svArayitAsATe",
+        "svArayitADve",
+        "svArayitAhe",
+        "svArayitAsvahe",
+        "svArayitAsmahe"
+      ],
+      "avidhiling": [
+        "svArayeta",
+        "svArayeyAtAm",
+        "svArayeran",
+        "svArayeTAH",
+        "svArayeyATAm",
+        "svArayeDvam",
+        "svArayeya",
+        "svArayevahi",
+        "svArayemahi"
+      ],
+      "pashirling": [
+        "svAryAt",
+        "svAryAd",
+        "svAryAstAm",
+        "svAryAsuH",
+        "svAryAH",
+        "svAryAstam",
+        "svAryAsta",
+        "svAryAsam",
+        "svAryAsva",
+        "svAryAsma"
+      ],
+      "plang": [
+        "asvArayat",
+        "asvArayad",
+        "asvArayatAm",
+        "asvArayan",
+        "asvArayaH",
+        "asvArayatam",
+        "asvArayata",
+        "asvArayam",
+        "asvArayAva",
+        "asvArayAma"
+      ],
+      "plat": [
+        "svArayati",
+        "svArayataH",
+        "svArayanti",
+        "svArayasi",
+        "svArayaTaH",
+        "svArayaTa",
+        "svArayAmi",
+        "svArayAvaH",
+        "svArayAmaH"
+      ],
+      "plit": [
+        "svArayAYcakAra",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakratuH",
+        "svArayAmAsatuH",
+        "svArayAmbaBUvatuH",
+        "svArayAYcakruH",
+        "svArayAmAsuH",
+        "svArayAmbaBUvuH",
+        "svArayAYcakarTa",
+        "svArayAmAsiTa",
+        "svArayAmbaBUviTa",
+        "svArayAYcakraTuH",
+        "svArayAmAsaTuH",
+        "svArayAmbaBUvaTuH",
+        "svArayAYcakra",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakara",
+        "svArayAYcakAra",
+        "svArayAmAsa",
+        "svArayAmbaBUva",
+        "svArayAYcakfva",
+        "svArayAmAsiva",
+        "svArayAmbaBUviva",
+        "svArayAYcakfma",
+        "svArayAmAsima",
+        "svArayAmbaBUvima"
+      ],
+      "plot": [
+        "svArayatAt",
+        "svArayatAd",
+        "svArayatu",
+        "svArayatAm",
+        "svArayantu",
+        "svAraya",
+        "svArayatAt",
+        "svArayatAd",
+        "svArayatam",
+        "svArayata",
+        "svArayARi",
+        "svArayAva",
+        "svArayAma"
+      ],
+      "plrung": [
+        "asvArayizyat",
+        "asvArayizyad",
+        "asvArayizyatAm",
+        "asvArayizyan",
+        "asvArayizyaH",
+        "asvArayizyatam",
+        "asvArayizyata",
+        "asvArayizyam",
+        "asvArayizyAva",
+        "asvArayizyAma"
+      ],
+      "plrut": [
+        "svArayizyati",
+        "svArayizyataH",
+        "svArayizyanti",
+        "svArayizyasi",
+        "svArayizyaTaH",
+        "svArayizyaTa",
+        "svArayizyAmi",
+        "svArayizyAvaH",
+        "svArayizyAmaH"
+      ],
+      "plung": [
+        "asisvarat",
+        "asisvarad",
+        "asisvaratAm",
+        "asisvaran",
+        "asisvaraH",
+        "asisvaratam",
+        "asisvarata",
+        "asisvaram",
+        "asisvarAva",
+        "asisvarAma"
+      ],
+      "plut": [
+        "svArayitA",
+        "svArayitArO",
+        "svArayitAraH",
+        "svArayitAsi",
+        "svArayitAsTaH",
+        "svArayitAsTa",
+        "svArayitAsmi",
+        "svArayitAsvaH",
+        "svArayitAsmaH"
+      ],
+      "pvidhiling": [
+        "svArayet",
+        "svArayed",
+        "svArayetAm",
+        "svArayeyuH",
+        "svArayeH",
+        "svArayetam",
+        "svArayeta",
+        "svArayeyam",
+        "svArayeva",
+        "svArayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "svArayizIzwa",
+        "svArizIzwa",
+        "svArayizIyAstAm",
+        "svArizIyAstAm",
+        "svArayizIran",
+        "svArizIran",
+        "svArayizIzWAH",
+        "svArizIzWAH",
+        "svArayizIyAsTAm",
+        "svArizIyAsTAm",
+        "svArayizIQvam",
+        "svArayizIDvam",
+        "svArizIQvam",
+        "svArayizIya",
+        "svArizIya",
+        "svArayizIvahi",
+        "svArizIvahi",
+        "svArayizImahi",
+        "svArizImahi"
+      ],
+      "alang": [
+        "asvAryata",
+        "asvAryetAm",
+        "asvAryanta",
+        "asvAryaTAH",
+        "asvAryeTAm",
+        "asvAryaDvam",
+        "asvArye",
+        "asvAryAvahi",
+        "asvAryAmahi"
+      ],
+      "alat": [
+        "svAryate",
+        "svAryete",
+        "svAryante",
+        "svAryase",
+        "svAryeTe",
+        "svAryaDve",
+        "svArye",
+        "svAryAvahe",
+        "svAryAmahe"
+      ],
+      "alit": [
+        "svArayAYcakre",
+        "svArayAmAse",
+        "svArayAmbaBUve",
+        "svArayAYcakrAte",
+        "svArayAmAsAte",
+        "svArayAmbaBUvAte",
+        "svArayAYcakrire",
+        "svArayAmAsire",
+        "svArayAmbaBUvire",
+        "svArayAYcakfze",
+        "svArayAmAsize",
+        "svArayAmbaBUvize",
+        "svArayAYcakrATe",
+        "svArayAmAsATe",
+        "svArayAmbaBUvATe",
+        "svArayAYcakfQve",
+        "svArayAmAsiDve",
+        "svArayAmbaBUviQve",
+        "svArayAYcakre",
+        "svArayAmAhe",
+        "svArayAmbaBUve",
+        "svArayAYcakfvahe",
+        "svArayAmAsivahe",
+        "svArayAmbaBUvivahe",
+        "svArayAYcakfmahe",
+        "svArayAmAsimahe",
+        "svArayAmbaBUvimahe"
+      ],
+      "alot": [
+        "svAryatAm",
+        "svAryetAm",
+        "svAryantAm",
+        "svAryasva",
+        "svAryeTAm",
+        "svAryaDvam",
+        "svAryE",
+        "svAryAvahE",
+        "svAryAmahE"
+      ],
+      "alrung": [
+        "asvArayizyata",
+        "asvArizyata",
+        "asvArayizyetAm",
+        "asvArizyetAm",
+        "asvArayizyanta",
+        "asvArizyanta",
+        "asvArayizyaTAH",
+        "asvArizyaTAH",
+        "asvArayizyeTAm",
+        "asvArizyeTAm",
+        "asvArayizyaDvam",
+        "asvArizyaDvam",
+        "asvArayizye",
+        "asvArizye",
+        "asvArayizyAvahi",
+        "asvArizyAvahi",
+        "asvArayizyAmahi",
+        "asvArizyAmahi"
+      ],
+      "alrut": [
+        "svArayizyate",
+        "svArizyate",
+        "svArayizyete",
+        "svArizyete",
+        "svArayizyante",
+        "svArizyante",
+        "svArayizyase",
+        "svArizyase",
+        "svArayizyeTe",
+        "svArizyeTe",
+        "svArayizyaDve",
+        "svArizyaDve",
+        "svArayizye",
+        "svArizye",
+        "svArayizyAvahe",
+        "svArizyAvahe",
+        "svArayizyAmahe",
+        "svArizyAmahe"
+      ],
+      "alung": [
+        "asvAri",
+        "asvArayizAtAm",
+        "asvArizAtAm",
+        "asvArayizata",
+        "asvArizata",
+        "asvArayizWAH",
+        "asvArizWAH",
+        "asvArayizATAm",
+        "asvArizATAm",
+        "asvArayiQvam",
+        "asvArayiDvam",
+        "asvAriQvam",
+        "asvArayizi",
+        "asvArizi",
+        "asvArayizvahi",
+        "asvArizvahi",
+        "asvArayizmahi",
+        "asvArizmahi"
+      ],
+      "alut": [
+        "svArayitA",
+        "svAritA",
+        "svArayitArO",
+        "svAritArO",
+        "svArayitAraH",
+        "svAritAraH",
+        "svArayitAse",
+        "svAritAse",
+        "svArayitAsATe",
+        "svAritAsATe",
+        "svArayitADve",
+        "svAritADve",
+        "svArayitAhe",
+        "svAritAhe",
+        "svArayitAsvahe",
+        "svAritAsvahe",
+        "svArayitAsmahe",
+        "svAritAsmahe"
+      ],
+      "avidhiling": [
+        "svAryeta",
+        "svAryeyAtAm",
+        "svAryeran",
+        "svAryeTAH",
+        "svAryeyATAm",
+        "svAryeDvam",
+        "svAryeya",
+        "svAryevahi",
+        "svAryemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "sosvurizIzwa",
+        "sosvurizIyAstAm",
+        "sosvurizIran",
+        "sosvurizIzWAH",
+        "sosvurizIyAsTAm",
+        "sosvurizIQvam",
+        "sosvurizIya",
+        "sosvurizIvahi",
+        "sosvurizImahi"
+      ],
+      "alang": [
+        "asosvUryata",
+        "asosvUryetAm",
+        "asosvUryanta",
+        "asosvUryaTAH",
+        "asosvUryeTAm",
+        "asosvUryaDvam",
+        "asosvUrye",
+        "asosvUryAvahi",
+        "asosvUryAmahi"
+      ],
+      "alat": [
+        "sosvUryate",
+        "sosvUryete",
+        "sosvUryante",
+        "sosvUryase",
+        "sosvUryeTe",
+        "sosvUryaDve",
+        "sosvUrye",
+        "sosvUryAvahe",
+        "sosvUryAmahe"
+      ],
+      "alit": [
+        "sosvurAYcakre",
+        "sosvurAmAsa",
+        "sosvurAmbaBUva",
+        "sosvurAYcakrAte",
+        "sosvurAmAsatuH",
+        "sosvurAmbaBUvatuH",
+        "sosvurAYcakrire",
+        "sosvurAmAsuH",
+        "sosvurAmbaBUvuH",
+        "sosvurAYcakfze",
+        "sosvurAmAsiTa",
+        "sosvurAmbaBUviTa",
+        "sosvurAYcakrATe",
+        "sosvurAmAsaTuH",
+        "sosvurAmbaBUvaTuH",
+        "sosvurAYcakfQve",
+        "sosvurAmAsa",
+        "sosvurAmbaBUva",
+        "sosvurAYcakre",
+        "sosvurAmAsa",
+        "sosvurAmbaBUva",
+        "sosvurAYcakfvahe",
+        "sosvurAmAsiva",
+        "sosvurAmbaBUviva",
+        "sosvurAYcakfmahe",
+        "sosvurAmAsima",
+        "sosvurAmbaBUvima"
+      ],
+      "alot": [
+        "sosvUryatAm",
+        "sosvUryetAm",
+        "sosvUryantAm",
+        "sosvUryasva",
+        "sosvUryeTAm",
+        "sosvUryaDvam",
+        "sosvUryE",
+        "sosvUryAvahE",
+        "sosvUryAmahE"
+      ],
+      "alrung": [
+        "asosvurizyata",
+        "asosvurizyetAm",
+        "asosvurizyanta",
+        "asosvurizyaTAH",
+        "asosvurizyeTAm",
+        "asosvurizyaDvam",
+        "asosvurizye",
+        "asosvurizyAvahi",
+        "asosvurizyAmahi"
+      ],
+      "alrut": [
+        "sosvurizyate",
+        "sosvurizyete",
+        "sosvurizyante",
+        "sosvurizyase",
+        "sosvurizyeTe",
+        "sosvurizyaDve",
+        "sosvurizye",
+        "sosvurizyAvahe",
+        "sosvurizyAmahe"
+      ],
+      "alung": [
+        "asosvurizwa",
+        "asosvurizAtAm",
+        "asosvurizata",
+        "asosvurizWAH",
+        "asosvurizATAm",
+        "asosvuriQvam",
+        "asosvurizi",
+        "asosvurizvahi",
+        "asosvurizmahi"
+      ],
+      "alut": [
+        "sosvuritA",
+        "sosvuritArO",
+        "sosvuritAraH",
+        "sosvuritAse",
+        "sosvuritAsATe",
+        "sosvuritADve",
+        "sosvuritAhe",
+        "sosvuritAsvahe",
+        "sosvuritAsmahe"
+      ],
+      "avidhiling": [
+        "sosvUryeta",
+        "sosvUryeyAtAm",
+        "sosvUryeran",
+        "sosvUryeTAH",
+        "sosvUryeyATAm",
+        "sosvUryeDvam",
+        "sosvUryeya",
+        "sosvUryevahi",
+        "sosvUryemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "sosvurizIzwa",
+        "sosvurizIyAstAm",
+        "sosvurizIran",
+        "sosvurizIzWAH",
+        "sosvurizIyAsTAm",
+        "sosvurizIQvam",
+        "sosvurizIya",
+        "sosvurizIvahi",
+        "sosvurizImahi"
+      ],
+      "alang": [
+        "asosvUryata",
+        "asosvUryetAm",
+        "asosvUryanta",
+        "asosvUryaTAH",
+        "asosvUryeTAm",
+        "asosvUryaDvam",
+        "asosvUrye",
+        "asosvUryAvahi",
+        "asosvUryAmahi"
+      ],
+      "alat": [
+        "sosvUryate",
+        "sosvUryete",
+        "sosvUryante",
+        "sosvUryase",
+        "sosvUryeTe",
+        "sosvUryaDve",
+        "sosvUrye",
+        "sosvUryAvahe",
+        "sosvUryAmahe"
+      ],
+      "alit": [
+        "sosvurAYcakre",
+        "sosvurAmAse",
+        "sosvurAmbaBUve",
+        "sosvurAYcakrAte",
+        "sosvurAmAsAte",
+        "sosvurAmbaBUvAte",
+        "sosvurAYcakrire",
+        "sosvurAmAsire",
+        "sosvurAmbaBUvire",
+        "sosvurAYcakfze",
+        "sosvurAmAsize",
+        "sosvurAmbaBUvize",
+        "sosvurAYcakrATe",
+        "sosvurAmAsATe",
+        "sosvurAmbaBUvATe",
+        "sosvurAYcakfQve",
+        "sosvurAmAsiDve",
+        "sosvurAmbaBUviQve",
+        "sosvurAYcakre",
+        "sosvurAmAhe",
+        "sosvurAmbaBUve",
+        "sosvurAYcakfvahe",
+        "sosvurAmAsivahe",
+        "sosvurAmbaBUvivahe",
+        "sosvurAYcakfmahe",
+        "sosvurAmAsimahe",
+        "sosvurAmbaBUvimahe"
+      ],
+      "alot": [
+        "sosvUryatAm",
+        "sosvUryetAm",
+        "sosvUryantAm",
+        "sosvUryasva",
+        "sosvUryeTAm",
+        "sosvUryaDvam",
+        "sosvUryE",
+        "sosvUryAvahE",
+        "sosvUryAmahE"
+      ],
+      "alrung": [
+        "asosvurizyata",
+        "asosvurizyetAm",
+        "asosvurizyanta",
+        "asosvurizyaTAH",
+        "asosvurizyeTAm",
+        "asosvurizyaDvam",
+        "asosvurizye",
+        "asosvurizyAvahi",
+        "asosvurizyAmahi"
+      ],
+      "alrut": [
+        "sosvurizyate",
+        "sosvurizyete",
+        "sosvurizyante",
+        "sosvurizyase",
+        "sosvurizyeTe",
+        "sosvurizyaDve",
+        "sosvurizye",
+        "sosvurizyAvahe",
+        "sosvurizyAmahe"
+      ],
+      "alung": [
+        "asosvuri",
+        "asosvurizAtAm",
+        "asosvurizata",
+        "asosvurizWAH",
+        "asosvurizATAm",
+        "asosvuriQvam",
+        "asosvurizi",
+        "asosvurizvahi",
+        "asosvurizmahi"
+      ],
+      "alut": [
+        "sosvuritA",
+        "sosvuritArO",
+        "sosvuritAraH",
+        "sosvuritAse",
+        "sosvuritAsATe",
+        "sosvuritADve",
+        "sosvuritAhe",
+        "sosvuritAsvahe",
+        "sosvuritAsmahe"
+      ],
+      "avidhiling": [
+        "sosvUryeta",
+        "sosvUryeyAtAm",
+        "sosvUryeran",
+        "sosvUryeTAH",
+        "sosvUryeyATAm",
+        "sosvUryeDvam",
+        "sosvUryeya",
+        "sosvUryevahi",
+        "sosvUryemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "sAsvUryAt",
+        "sAsvUryAd",
+        "sAsvUryAstAm",
+        "sAsvUryAsuH",
+        "sAsvUryAH",
+        "sAsvUryAstam",
+        "sAsvUryAsta",
+        "sAsvUryAsam",
+        "sAsvUryAsva",
+        "sAsvUryAsma"
+      ],
+      "plang": [
+        "asAsvaH",
+        "asAsvarIt",
+        "asAsvarId",
+        "asAsvUrtAm",
+        "asAsvaruH",
+        "asAsvaH",
+        "asAsvarIH",
+        "asAsvUrtam",
+        "asAsvUrta",
+        "asAsvaram",
+        "asAsvUrva",
+        "asAsvUrma"
+      ],
+      "plat": [
+        "sAsvarIti",
+        "sAsvarti",
+        "sAsvUrtaH",
+        "sAsvurati",
+        "sAsvarIzi",
+        "sAsvarzi",
+        "sAsvUrTaH",
+        "sAsvUrTa",
+        "sAsvarImi",
+        "sAsvarmi",
+        "sAsvUrvaH",
+        "sAsvUrmaH"
+      ],
+      "plit": [
+        "sAsvarAYcakAra",
+        "sAsvarAmAsa",
+        "sAsvarAmbaBUva",
+        "sAsvarAYcakratuH",
+        "sAsvarAmAsatuH",
+        "sAsvarAmbaBUvatuH",
+        "sAsvarAYcakruH",
+        "sAsvarAmAsuH",
+        "sAsvarAmbaBUvuH",
+        "sAsvarAYcakarTa",
+        "sAsvarAmAsiTa",
+        "sAsvarAmbaBUviTa",
+        "sAsvarAYcakraTuH",
+        "sAsvarAmAsaTuH",
+        "sAsvarAmbaBUvaTuH",
+        "sAsvarAYcakra",
+        "sAsvarAmAsa",
+        "sAsvarAmbaBUva",
+        "sAsvarAYcakara",
+        "sAsvarAYcakAra",
+        "sAsvarAmAsa",
+        "sAsvarAmbaBUva",
+        "sAsvarAYcakfva",
+        "sAsvarAmAsiva",
+        "sAsvarAmbaBUviva",
+        "sAsvarAYcakfma",
+        "sAsvarAmAsima",
+        "sAsvarAmbaBUvima"
+      ],
+      "plot": [
+        "sAsvarItu",
+        "sAsvartu",
+        "sAsvUrtAt",
+        "sAsvUrtAd",
+        "sAsvUrtAm",
+        "sAsvuratu",
+        "sAsvUrtAt",
+        "sAsvUrtAd",
+        "sAsvUrhi",
+        "sAsvUrtam",
+        "sAsvUrta",
+        "sAsvarARi",
+        "sAsvarAva",
+        "sAsvarAma"
+      ],
+      "plrung": [
+        "asAsvarizyat",
+        "asAsvarizyad",
+        "asAsvarizyatAm",
+        "asAsvarizyan",
+        "asAsvarizyaH",
+        "asAsvarizyatam",
+        "asAsvarizyata",
+        "asAsvarizyam",
+        "asAsvarizyAva",
+        "asAsvarizyAma"
+      ],
+      "plrut": [
+        "sAsvarizyati",
+        "sAsvarizyataH",
+        "sAsvarizyanti",
+        "sAsvarizyasi",
+        "sAsvarizyaTaH",
+        "sAsvarizyaTa",
+        "sAsvarizyAmi",
+        "sAsvarizyAvaH",
+        "sAsvarizyAmaH"
+      ],
+      "plung": [
+        "asAsvArIt",
+        "asAsvArId",
+        "asAsvArizwAm",
+        "asAsvArizuH",
+        "asAsvArIH",
+        "asAsvArizwam",
+        "asAsvArizwa",
+        "asAsvArizam",
+        "asAsvArizva",
+        "asAsvArizma"
+      ],
+      "plut": [
+        "sAsvaritA",
+        "sAsvaritArO",
+        "sAsvaritAraH",
+        "sAsvaritAsi",
+        "sAsvaritAsTaH",
+        "sAsvaritAsTa",
+        "sAsvaritAsmi",
+        "sAsvaritAsvaH",
+        "sAsvaritAsmaH"
+      ],
+      "pvidhiling": [
+        "sAsvUryAt",
+        "sAsvUryAd",
+        "sAsvUryAtAm",
+        "sAsvUryuH",
+        "sAsvUryAH",
+        "sAsvUryAtam",
+        "sAsvUryAta",
+        "sAsvUryAm",
+        "sAsvUryAva",
+        "sAsvUryAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "sAsvarizIzwa",
+        "sAsvarzIzwa",
+        "sAsvArizIzwa",
+        "sAsvarizIyAstAm",
+        "sAsvarzIyAstAm",
+        "sAsvArizIyAstAm",
+        "sAsvarizIran",
+        "sAsvarzIran",
+        "sAsvArizIran",
+        "sAsvarizIzWAH",
+        "sAsvarzIzWAH",
+        "sAsvArizIzWAH",
+        "sAsvarizIyAsTAm",
+        "sAsvarzIyAsTAm",
+        "sAsvArizIyAsTAm",
+        "sAsvarizIQvam",
+        "sAsvarzIQvam",
+        "sAsvArizIQvam",
+        "sAsvarizIya",
+        "sAsvarzIya",
+        "sAsvArizIya",
+        "sAsvarizIvahi",
+        "sAsvarzIvahi",
+        "sAsvArizIvahi",
+        "sAsvarizImahi",
+        "sAsvarzImahi",
+        "sAsvArizImahi"
+      ],
+      "alang": [
+        "asAsvUryata",
+        "asAsvUryetAm",
+        "asAsvUryanta",
+        "asAsvUryaTAH",
+        "asAsvUryeTAm",
+        "asAsvUryaDvam",
+        "asAsvUrye",
+        "asAsvUryAvahi",
+        "asAsvUryAmahi"
+      ],
+      "alat": [
+        "sAsvUryate",
+        "sAsvUryete",
+        "sAsvUryante",
+        "sAsvUryase",
+        "sAsvUryeTe",
+        "sAsvUryaDve",
+        "sAsvUrye",
+        "sAsvUryAvahe",
+        "sAsvUryAmahe"
+      ],
+      "alit": [
+        "sAsvarAYcakre",
+        "sAsvarAmAse",
+        "sAsvarAmbaBUve",
+        "sAsvarAYcakrAte",
+        "sAsvarAmAsAte",
+        "sAsvarAmbaBUvAte",
+        "sAsvarAYcakrire",
+        "sAsvarAmAsire",
+        "sAsvarAmbaBUvire",
+        "sAsvarAYcakfze",
+        "sAsvarAmAsize",
+        "sAsvarAmbaBUvize",
+        "sAsvarAYcakrATe",
+        "sAsvarAmAsATe",
+        "sAsvarAmbaBUvATe",
+        "sAsvarAYcakfQve",
+        "sAsvarAmAsiDve",
+        "sAsvarAmbaBUviQve",
+        "sAsvarAYcakre",
+        "sAsvarAmAhe",
+        "sAsvarAmbaBUve",
+        "sAsvarAYcakfvahe",
+        "sAsvarAmAsivahe",
+        "sAsvarAmbaBUvivahe",
+        "sAsvarAYcakfmahe",
+        "sAsvarAmAsimahe",
+        "sAsvarAmbaBUvimahe"
+      ],
+      "alot": [
+        "sAsvUryatAm",
+        "sAsvUryetAm",
+        "sAsvUryantAm",
+        "sAsvUryasva",
+        "sAsvUryeTAm",
+        "sAsvUryaDvam",
+        "sAsvUryE",
+        "sAsvUryAvahE",
+        "sAsvUryAmahE"
+      ],
+      "alrung": [
+        "asAsvarizyata",
+        "asAsvArizyata",
+        "asAsvarizyetAm",
+        "asAsvArizyetAm",
+        "asAsvarizyanta",
+        "asAsvArizyanta",
+        "asAsvarizyaTAH",
+        "asAsvArizyaTAH",
+        "asAsvarizyeTAm",
+        "asAsvArizyeTAm",
+        "asAsvarizyaDvam",
+        "asAsvArizyaDvam",
+        "asAsvarizye",
+        "asAsvArizye",
+        "asAsvarizyAvahi",
+        "asAsvArizyAvahi",
+        "asAsvarizyAmahi",
+        "asAsvArizyAmahi"
+      ],
+      "alrut": [
+        "sAsvarizyate",
+        "sAsvArizyate",
+        "sAsvarizyete",
+        "sAsvArizyete",
+        "sAsvarizyante",
+        "sAsvArizyante",
+        "sAsvarizyase",
+        "sAsvArizyase",
+        "sAsvarizyeTe",
+        "sAsvArizyeTe",
+        "sAsvarizyaDve",
+        "sAsvArizyaDve",
+        "sAsvarizye",
+        "sAsvArizye",
+        "sAsvarizyAvahe",
+        "sAsvArizyAvahe",
+        "sAsvarizyAmahe",
+        "sAsvArizyAmahe"
+      ],
+      "alung": [
+        "asAsvAri",
+        "asAsvarizAtAm",
+        "asAsvarzAtAm",
+        "asAsvArizAtAm",
+        "asAsvarizata",
+        "asAsvarzata",
+        "asAsvArizata",
+        "asAsvarizWAH",
+        "asAsvarzWAH",
+        "asAsvArizWAH",
+        "asAsvarizATAm",
+        "asAsvarzATAm",
+        "asAsvArizATAm",
+        "asAsvariQvam",
+        "asAsvarQvam",
+        "asAsvAriQvam",
+        "asAsvarizi",
+        "asAsvarzi",
+        "asAsvArizi",
+        "asAsvarizvahi",
+        "asAsvarzvahi",
+        "asAsvArizvahi",
+        "asAsvarizmahi",
+        "asAsvarzmahi",
+        "asAsvArizmahi"
+      ],
+      "alut": [
+        "sAsvaritA",
+        "sAsvAritA",
+        "sAsvaritArO",
+        "sAsvAritArO",
+        "sAsvaritAraH",
+        "sAsvAritAraH",
+        "sAsvaritAse",
+        "sAsvAritAse",
+        "sAsvaritAsATe",
+        "sAsvAritAsATe",
+        "sAsvaritADve",
+        "sAsvAritADve",
+        "sAsvaritAhe",
+        "sAsvAritAhe",
+        "sAsvaritAsvahe",
+        "sAsvAritAsvahe",
+        "sAsvaritAsmahe",
+        "sAsvAritAsmahe"
+      ],
+      "avidhiling": [
+        "sAsvUryeta",
+        "sAsvUryeyAtAm",
+        "sAsvUryeran",
+        "sAsvUryeTAH",
+        "sAsvUryeyATAm",
+        "sAsvUryeDvam",
+        "sAsvUryeya",
+        "sAsvUryevahi",
+        "sAsvUryemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "svara",
+          "m": "svaraH",
+          "f": "svarA",
+          "n": "svaram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "svaraRIya",
+          "m": "svaraRIyaH",
+          "f": "svaraRIyA",
+          "n": "svaraRIyam"
+        }
+      ],
+      "ap": [
+        {
+          "base": "svara",
+          "m": "svaraH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kta": [
+        {
+          "base": "svUrRa",
+          "m": "svUrRaH",
+          "f": "svUrRA",
+          "n": "svUrRam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "svUrRavat",
+          "m": "svUrRavAn",
+          "f": "svUrRavatI",
+          "n": "svUrRavat/svUrRavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "svUrRi",
+          "m": "",
+          "f": "svUrRiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "svUrtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "susvUrvas",
+          "m": "susvUrvAn",
+          "f": "susvUruzI",
+          "n": "susvUrvat/susvUrvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "svUrRAna",
+          "m": "svUrRAnaH",
+          "f": "svUrRAnA",
+          "n": "svUrRAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "svAram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "svArya",
+          "m": "svAryaH",
+          "f": "svAryA",
+          "n": "svAryam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "svAraka",
+          "m": "svArakaH",
+          "f": "svArikA",
+          "n": "svArakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "svarItavya",
+          "m": "svarItavyaH",
+          "f": "svarItavyA",
+          "n": "svarItavyam"
+        },
+        {
+          "base": "svaritavya",
+          "m": "svaritavyaH",
+          "f": "svaritavyA",
+          "n": "svaritavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "svarItum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "svaritum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "svarItf",
+          "m": "svarItA",
+          "f": "svarItrI",
+          "n": "svarItf"
+        },
+        {
+          "base": "svaritf",
+          "m": "svaritA",
+          "f": "svaritrI",
+          "n": "svaritf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "svUryamARa",
+          "m": "svUryamARaH",
+          "f": "svUryamARA",
+          "n": "svUryamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasvUrya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "svaraRa",
+          "m": "",
+          "f": "",
+          "n": "svaraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "svaraka",
+          "m": "svarakaH",
+          "f": "svarikA",
+          "n": "svarakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "svUrRat",
+          "m": "svUrRan",
+          "f": "svUrRatI",
+          "n": "svUrRat/svUrRad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "svArIzyamARa",
+          "m": "svArIzyamARaH",
+          "f": "svArIzyamARA",
+          "n": "svArIzyamARam"
+        },
+        {
+          "base": "svArizyamARa",
+          "m": "svArizyamARaH",
+          "f": "svArizyamARA",
+          "n": "svArizyamARam"
+        },
+        {
+          "base": "svarIzyamARa",
+          "m": "svarIzyamARaH",
+          "f": "svarIzyamARA",
+          "n": "svarIzyamARam"
+        },
+        {
+          "base": "svarizyamARa",
+          "m": "svarizyamARaH",
+          "f": "svarizyamARA",
+          "n": "svarizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "svarIzyat",
+          "m": "svarIzyan",
+          "f": "svarIzyatI/svarIzyantI",
+          "n": "svarIzyat/svarIzyad"
+        },
+        {
+          "base": "svarizyat",
+          "m": "svarizyan",
+          "f": "svarizyatI/svarizyantI",
+          "n": "svarizyat/svarizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "sisvarIzA",
+          "m": "",
+          "f": "sisvarIzA",
+          "n": ""
+        },
+        {
+          "base": "sisvarizA",
+          "m": "",
+          "f": "sisvarizA",
+          "n": ""
+        },
+        {
+          "base": "susvUrzA",
+          "m": "",
+          "f": "susvUrzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sisvarIza",
+          "m": "sisvarIzaH",
+          "f": "sisvarIzA",
+          "n": "sisvarIzam"
+        },
+        {
+          "base": "sisvariza",
+          "m": "sisvarizaH",
+          "f": "sisvarizA",
+          "n": "sisvarizam"
+        },
+        {
+          "base": "susvUrza",
+          "m": "susvUrzaH",
+          "f": "susvUrzA",
+          "n": "susvUrzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sisvarIzaRIya",
+          "m": "sisvarIzaRIyaH",
+          "f": "sisvarIzaRIyA",
+          "n": "sisvarIzaRIyam"
+        },
+        {
+          "base": "sisvarizaRIya",
+          "m": "sisvarizaRIyaH",
+          "f": "sisvarizaRIyA",
+          "n": "sisvarizaRIyam"
+        },
+        {
+          "base": "susvUrzaRIya",
+          "m": "susvUrzaRIyaH",
+          "f": "susvUrzaRIyA",
+          "n": "susvUrzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "sisvarIzu",
+          "m": "sisvarIzuH",
+          "f": "sisvarIzuH",
+          "n": "sisvarIzu"
+        },
+        {
+          "base": "sisvarizu",
+          "m": "sisvarizuH",
+          "f": "sisvarizuH",
+          "n": "sisvarizu"
+        },
+        {
+          "base": "susvUrzu",
+          "m": "susvUrzuH",
+          "f": "susvUrzuH",
+          "n": "susvUrzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sisvarIzita",
+          "m": "sisvarIzitaH",
+          "f": "sisvarIzitA",
+          "n": "sisvarIzitam"
+        },
+        {
+          "base": "sisvarizita",
+          "m": "sisvarizitaH",
+          "f": "sisvarizitA",
+          "n": "sisvarizitam"
+        },
+        {
+          "base": "susvUrzita",
+          "m": "susvUrzitaH",
+          "f": "susvUrzitA",
+          "n": "susvUrzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sisvarIzitavat",
+          "m": "sisvarIzitavAn",
+          "f": "sisvarIzitavatI",
+          "n": "sisvarIzitavat/sisvarIzitavad"
+        },
+        {
+          "base": "sisvarizitavat",
+          "m": "sisvarizitavAn",
+          "f": "sisvarizitavatI",
+          "n": "sisvarizitavat/sisvarizitavad"
+        },
+        {
+          "base": "susvUrzitavat",
+          "m": "susvUrzitavAn",
+          "f": "susvUrzitavatI",
+          "n": "susvUrzitavat/susvUrzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sisvarIzwi",
+          "m": "",
+          "f": "sisvarIzwiH",
+          "n": ""
+        },
+        {
+          "base": "sisvarizwi",
+          "m": "",
+          "f": "sisvarizwiH",
+          "n": ""
+        },
+        {
+          "base": "susvUrzwi",
+          "m": "",
+          "f": "susvUrzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sisvarIzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sisvarizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "susvUrzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sisvarIzAmbaBUvas",
+          "m": "sisvarIzAmbaBUvAn",
+          "f": "sisvarIzAmbaBUzI",
+          "n": "sisvarIzAmbaBUvat/sisvarIzAmbaBUvad"
+        },
+        {
+          "base": "sisvarIzAmAsivas",
+          "m": "sisvarIzAmAsivAn",
+          "f": "sisvarIzAmAsyuzI",
+          "n": "sisvarIzAmAsivat/sisvarIzAmAsivad"
+        },
+        {
+          "base": "sisvarIzAYcakfvas",
+          "m": "sisvarIzAYcakfvAn",
+          "f": "sisvarIzAYcakruzI",
+          "n": "sisvarIzAYcakfvat/sisvarIzAYcakfvad"
+        },
+        {
+          "base": "sisvarizAmbaBUvas",
+          "m": "sisvarizAmbaBUvAn",
+          "f": "sisvarizAmbaBUzI",
+          "n": "sisvarizAmbaBUvat/sisvarizAmbaBUvad"
+        },
+        {
+          "base": "sisvarizAmAsivas",
+          "m": "sisvarizAmAsivAn",
+          "f": "sisvarizAmAsyuzI",
+          "n": "sisvarizAmAsivat/sisvarizAmAsivad"
+        },
+        {
+          "base": "sisvarizAYcakfvas",
+          "m": "sisvarizAYcakfvAn",
+          "f": "sisvarizAYcakruzI",
+          "n": "sisvarizAYcakfvat/sisvarizAYcakfvad"
+        },
+        {
+          "base": "susvUrzAmbaBUvas",
+          "m": "susvUrzAmbaBUvAn",
+          "f": "susvUrzAmbaBUzI",
+          "n": "susvUrzAmbaBUvat/susvUrzAmbaBUvad"
+        },
+        {
+          "base": "susvUrzAmAsivas",
+          "m": "susvUrzAmAsivAn",
+          "f": "susvUrzAmAsyuzI",
+          "n": "susvUrzAmAsivat/susvUrzAmAsivad"
+        },
+        {
+          "base": "susvUrzAYcakfvas",
+          "m": "susvUrzAYcakfvAn",
+          "f": "susvUrzAYcakruzI",
+          "n": "susvUrzAYcakfvat/susvUrzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sisvarIza",
+          "m": "sisvarIzaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sisvariza",
+          "m": "sisvarizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "susvUrza",
+          "m": "susvUrzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sisvarIzamARa",
+          "m": "sisvarIzamARaH",
+          "f": "sisvarIzamARA",
+          "n": "sisvarIzamARam"
+        },
+        {
+          "base": "sisvarizamARa",
+          "m": "sisvarizamARaH",
+          "f": "sisvarizamARA",
+          "n": "sisvarizamARam"
+        },
+        {
+          "base": "susvUrzamARa",
+          "m": "susvUrzamARaH",
+          "f": "susvUrzamARA",
+          "n": "susvUrzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sisvarIzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sisvarizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "susvUrzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sisvarIzaka",
+          "m": "sisvarIzakaH",
+          "f": "sisvarIzikA",
+          "n": "sisvarIzakam"
+        },
+        {
+          "base": "sisvarizaka",
+          "m": "sisvarizakaH",
+          "f": "sisvarizikA",
+          "n": "sisvarizakam"
+        },
+        {
+          "base": "susvUrzaka",
+          "m": "susvUrzakaH",
+          "f": "susvUrzikA",
+          "n": "susvUrzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sisvarIzitavya",
+          "m": "sisvarIzitavyaH",
+          "f": "sisvarIzitavyA",
+          "n": "sisvarIzitavyam"
+        },
+        {
+          "base": "sisvarizitavya",
+          "m": "sisvarizitavyaH",
+          "f": "sisvarizitavyA",
+          "n": "sisvarizitavyam"
+        },
+        {
+          "base": "susvUrzitavya",
+          "m": "susvUrzitavyaH",
+          "f": "susvUrzitavyA",
+          "n": "susvUrzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sisvarIzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sisvarizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "susvUrzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sisvarIzitf",
+          "m": "sisvarIzitA",
+          "f": "sisvarIzitrI",
+          "n": "sisvarIzitf"
+        },
+        {
+          "base": "sisvarizitf",
+          "m": "sisvarizitA",
+          "f": "sisvarizitrI",
+          "n": "sisvarizitf"
+        },
+        {
+          "base": "susvUrzitf",
+          "m": "susvUrzitA",
+          "f": "susvUrzitrI",
+          "n": "susvUrzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sisvarIzyamARa",
+          "m": "sisvarIzyamARaH",
+          "f": "sisvarIzyamARA",
+          "n": "sisvarIzyamARam"
+        },
+        {
+          "base": "sisvarizyamARa",
+          "m": "sisvarizyamARaH",
+          "f": "sisvarizyamARA",
+          "n": "sisvarizyamARam"
+        },
+        {
+          "base": "susvUrzyamARa",
+          "m": "susvUrzyamARaH",
+          "f": "susvUrzyamARA",
+          "n": "susvUrzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sisvarIzya",
+          "m": "sisvarIzyaH",
+          "f": "sisvarIzyA",
+          "n": "sisvarIzyam"
+        },
+        {
+          "base": "sisvarizya",
+          "m": "sisvarizyaH",
+          "f": "sisvarizyA",
+          "n": "sisvarizyam"
+        },
+        {
+          "base": "susvUrzya",
+          "m": "susvUrzyaH",
+          "f": "susvUrzyA",
+          "n": "susvUrzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasisvarIzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasisvarizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasusvUrzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sisvarIzaRa",
+          "m": "",
+          "f": "",
+          "n": "sisvarIzaRam"
+        },
+        {
+          "base": "sisvarizaRa",
+          "m": "",
+          "f": "",
+          "n": "sisvarizaRam"
+        },
+        {
+          "base": "susvUrzaRa",
+          "m": "",
+          "f": "",
+          "n": "susvUrzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sisvarIzaka",
+          "m": "sisvarIzakaH",
+          "f": "sisvarIzikA",
+          "n": "sisvarIzakam"
+        },
+        {
+          "base": "sisvarizaka",
+          "m": "sisvarizakaH",
+          "f": "sisvarizikA",
+          "n": "sisvarizakam"
+        },
+        {
+          "base": "susvUrzaka",
+          "m": "susvUrzakaH",
+          "f": "susvUrzikA",
+          "n": "susvUrzakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sisvarIzat",
+          "m": "sisvarIzan",
+          "f": "sisvarIzantI",
+          "n": "sisvarIzat/sisvarIzad"
+        },
+        {
+          "base": "sisvarizat",
+          "m": "sisvarizan",
+          "f": "sisvarizantI",
+          "n": "sisvarizat/sisvarizad"
+        },
+        {
+          "base": "susvUrzat",
+          "m": "susvUrzan",
+          "f": "susvUrzantI",
+          "n": "susvUrzat/susvUrzad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sisvarIzizyamARa",
+          "m": "sisvarIzizyamARaH",
+          "f": "sisvarIzizyamARA",
+          "n": "sisvarIzizyamARam"
+        },
+        {
+          "base": "sisvarizizyamARa",
+          "m": "sisvarizizyamARaH",
+          "f": "sisvarizizyamARA",
+          "n": "sisvarizizyamARam"
+        },
+        {
+          "base": "susvUrzizyamARa",
+          "m": "susvUrzizyamARaH",
+          "f": "susvUrzizyamARA",
+          "n": "susvUrzizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sisvarIzizyat",
+          "m": "sisvarIzizyan",
+          "f": "sisvarIzizyatI/sisvarIzizyantI",
+          "n": "sisvarIzizyat/sisvarIzizyad"
+        },
+        {
+          "base": "sisvarizizyat",
+          "m": "sisvarizizyan",
+          "f": "sisvarizizyatI/sisvarizizyantI",
+          "n": "sisvarizizyat/sisvarizizyad"
+        },
+        {
+          "base": "susvUrzizyat",
+          "m": "susvUrzizyan",
+          "f": "susvUrzizyatI/susvUrzizyantI",
+          "n": "susvUrzizyat/susvUrzizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "svAra",
+          "m": "svAraH",
+          "f": "svArA",
+          "n": "svAram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "svAraRIya",
+          "m": "svAraRIyaH",
+          "f": "svAraRIyA",
+          "n": "svAraRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "svArita",
+          "m": "svAritaH",
+          "f": "svAritA",
+          "n": "svAritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "svAritavat",
+          "m": "svAritavAn",
+          "f": "svAritavatI",
+          "n": "svAritavat/svAritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "svArti",
+          "m": "",
+          "f": "svArtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "svArayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "svArayAmbaBUvas",
+          "m": "svArayAmbaBUvAn",
+          "f": "svArayAmbaBUzI",
+          "n": "svArayAmbaBUvat/svArayAmbaBUvad"
+        },
+        {
+          "base": "svArayAmAsivas",
+          "m": "svArayAmAsivAn",
+          "f": "svArayAmAsyuzI",
+          "n": "svArayAmAsivat/svArayAmAsivad"
+        },
+        {
+          "base": "svArayAYcakfvas",
+          "m": "svArayAYcakfvAn",
+          "f": "svArayAYcakruzI",
+          "n": "svArayAYcakfvat/svArayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "svArayamARa",
+          "m": "svArayamARaH",
+          "f": "svArayamARA",
+          "n": "svArayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "svAram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "svAraka",
+          "m": "svArakaH",
+          "f": "svArikA",
+          "n": "svArakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "svArayitavya",
+          "m": "svArayitavyaH",
+          "f": "svArayitavyA",
+          "n": "svArayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "svArayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "svArayitf",
+          "m": "svArayitA",
+          "f": "svArayitrI",
+          "n": "svArayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "svAryamARa",
+          "m": "svAryamARaH",
+          "f": "svAryamARA",
+          "n": "svAryamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "svArya",
+          "m": "svAryaH",
+          "f": "svAryA",
+          "n": "svAryam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasvArya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "svAraRa",
+          "m": "",
+          "f": "",
+          "n": "svAraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "svAraka",
+          "m": "svArakaH",
+          "f": "svArikA",
+          "n": "svArakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "svArayat",
+          "m": "svArayan",
+          "f": "svArayantI",
+          "n": "svArayat/svArayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "svArayamARa",
+          "m": "svArayamARaH",
+          "f": "svArayamARA",
+          "n": "svArayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "svArizyamARa",
+          "m": "svArizyamARaH",
+          "f": "svArizyamARA",
+          "n": "svArizyamARam"
+        },
+        {
+          "base": "svArayizyamARa",
+          "m": "svArayizyamARaH",
+          "f": "svArayizyamARA",
+          "n": "svArayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "svArayizyat",
+          "m": "svArayizyan",
+          "f": "svArayizyatI/svArayizyantI",
+          "n": "svArayizyat/svArayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "svArayizyamARa",
+          "m": "svArayizyamARaH",
+          "f": "svArayizyamARA",
+          "n": "svArayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "sosvurA",
+          "m": "",
+          "f": "sosvurA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sosvura",
+          "m": "sosvuraH",
+          "f": "sosvurA",
+          "n": "sosvuram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sosvuraRIya",
+          "m": "sosvuraRIyaH",
+          "f": "sosvuraRIyA",
+          "n": "sosvuraRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sosvurita",
+          "m": "sosvuritaH",
+          "f": "sosvuritA",
+          "n": "sosvuritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sosvuritavat",
+          "m": "sosvuritavAn",
+          "f": "sosvuritavatI",
+          "n": "sosvuritavat/sosvuritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sosvUrti",
+          "m": "",
+          "f": "sosvUrtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sosvuritvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sosvurAmbaBUvas",
+          "m": "sosvurAmbaBUvAn",
+          "f": "sosvurAmbaBUzI",
+          "n": "sosvurAmbaBUvat/sosvurAmbaBUvad"
+        },
+        {
+          "base": "sosvurAmAsivas",
+          "m": "sosvurAmAsivAn",
+          "f": "sosvurAmAsyuzI",
+          "n": "sosvurAmAsivat/sosvurAmAsivad"
+        },
+        {
+          "base": "sosvurAYcakfvas",
+          "m": "sosvurAYcakfvAn",
+          "f": "sosvurAYcakruzI",
+          "n": "sosvurAYcakfvat/sosvurAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sosvura",
+          "m": "sosvuraH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sosvUryamARa",
+          "m": "sosvUryamARaH",
+          "f": "sosvUryamARA",
+          "n": "sosvUryamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sosvuram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sosvuraka",
+          "m": "sosvurakaH",
+          "f": "sosvurikA",
+          "n": "sosvurakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sosvuritavya",
+          "m": "sosvuritavyaH",
+          "f": "sosvuritavyA",
+          "n": "sosvuritavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sosvuritum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sosvuritf",
+          "m": "sosvuritA",
+          "f": "sosvuritrI",
+          "n": "sosvuritf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sosvUryamARa",
+          "m": "sosvUryamARaH",
+          "f": "sosvUryamARA",
+          "n": "sosvUryamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sosvUrya",
+          "m": "sosvUryaH",
+          "f": "sosvUryA",
+          "n": "sosvUryam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasosvUrya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sosvuraRa",
+          "m": "",
+          "f": "",
+          "n": "sosvuraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sosvuraka",
+          "m": "sosvurakaH",
+          "f": "sosvurikA",
+          "n": "sosvurakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sosvUryamARa",
+          "m": "sosvUryamARaH",
+          "f": "sosvUryamARA",
+          "n": "sosvUryamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sosvurizyamARa",
+          "m": "sosvurizyamARaH",
+          "f": "sosvurizyamARA",
+          "n": "sosvurizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sosvurizyamARa",
+          "m": "sosvurizyamARaH",
+          "f": "sosvurizyamARA",
+          "n": "sosvurizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "sAsvarA",
+          "m": "",
+          "f": "sAsvarA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sAsvara",
+          "m": "sAsvaraH",
+          "f": "sAsvarA",
+          "n": "sAsvaram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sAsvaraRIya",
+          "m": "sAsvaraRIyaH",
+          "f": "sAsvaraRIyA",
+          "n": "sAsvaraRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAsvurita",
+          "m": "sAsvuritaH",
+          "f": "sAsvuritA",
+          "n": "sAsvuritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAsvuritavat",
+          "m": "sAsvuritavAn",
+          "f": "sAsvuritavatI",
+          "n": "sAsvuritavat/sAsvuritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAsvUrti",
+          "m": "",
+          "f": "sAsvUrtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAsvaritvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sAsvarAmbaBUvas",
+          "m": "sAsvarAmbaBUvAn",
+          "f": "sAsvarAmbaBUzI",
+          "n": "sAsvarAmbaBUvat/sAsvarAmbaBUvad"
+        },
+        {
+          "base": "sAsvarAmAsivas",
+          "m": "sAsvarAmAsivAn",
+          "f": "sAsvarAmAsyuzI",
+          "n": "sAsvarAmAsivat/sAsvarAmAsivad"
+        },
+        {
+          "base": "sAsvarAYcakfvas",
+          "m": "sAsvarAYcakfvAn",
+          "f": "sAsvarAYcakruzI",
+          "n": "sAsvarAYcakfvat/sAsvarAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sAsvAra",
+          "m": "sAsvAraH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sAsvurARa",
+          "m": "sAsvurARaH",
+          "f": "sAsvurARA",
+          "n": "sAsvurARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAsvAram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAsvAraka",
+          "m": "sAsvArakaH",
+          "f": "sAsvArikA",
+          "n": "sAsvArakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sAsvaritavya",
+          "m": "sAsvaritavyaH",
+          "f": "sAsvaritavyA",
+          "n": "sAsvaritavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sAsvaritum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sAsvaritf",
+          "m": "sAsvaritA",
+          "f": "sAsvaritrI",
+          "n": "sAsvaritf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAsvUryamARa",
+          "m": "sAsvUryamARaH",
+          "f": "sAsvUryamARA",
+          "n": "sAsvUryamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAsvUrya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sAsvaraRa",
+          "m": "",
+          "f": "",
+          "n": "sAsvaraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sAsvaraka",
+          "m": "sAsvarakaH",
+          "f": "sAsvarikA",
+          "n": "sAsvarakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sAsvurat",
+          "m": "sAsvurat/sAsvurad",
+          "f": "sAsvuratI",
+          "n": "sAsvurat/sAsvurad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sAsvArizyamARa",
+          "m": "sAsvArizyamARaH",
+          "f": "sAsvArizyamARA",
+          "n": "sAsvArizyamARam"
+        },
+        {
+          "base": "sAsvarizyamARa",
+          "m": "sAsvarizyamARaH",
+          "f": "sAsvarizyamARA",
+          "n": "sAsvarizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sAsvarizyat",
+          "m": "sAsvarizyan",
+          "f": "sAsvarizyatI/sAsvarizyantI",
+          "n": "sAsvarizyat/sAsvarizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "svF",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

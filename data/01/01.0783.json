@@ -1,0 +1,2550 @@
+{
+  "id": "01.0783",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Siza~"
+    },
+    {
+      "name": "arTaH",
+      "value": "hiMsAyAm"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to kill, to destroy, to hurt"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "mAranA, hiMsA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "tAlavyozmAdiH . ' SizaH asarvopayoge yO Sezayet SezatItyuBe . luqyaBAvAdaNa़oSezIt SinazwIti viSezaRe ' ( Slo. 178 - 9 ) iti devaH . ' SiziM piziM SlizyatipuzyatI tvizim ' iti vyAGraBUtivacanAt (kASikA. 7.2.10 ) aniwtvaM DAtorasya boDyam ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "687"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "687"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2339",
+      "ext_link": "/sutraani/sk2339?scroll=sutra-commentary-kaumudi-region&highlight=Saiza"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "SizyAt",
+        "SizyAd",
+        "SizyAstAm",
+        "SizyAsuH",
+        "SizyAH",
+        "SizyAstam",
+        "SizyAsta",
+        "SizyAsam",
+        "SizyAsva",
+        "SizyAsma"
+      ],
+      "plang": [
+        "aSezat",
+        "aSezad",
+        "aSezatAm",
+        "aSezan",
+        "aSezaH",
+        "aSezatam",
+        "aSezata",
+        "aSezam",
+        "aSezAva",
+        "aSezAma"
+      ],
+      "plat": [
+        "Sezati",
+        "SezataH",
+        "Sezanti",
+        "Sezasi",
+        "SezaTaH",
+        "SezaTa",
+        "SezAmi",
+        "SezAvaH",
+        "SezAmaH"
+      ],
+      "plit": [
+        "SiSeza",
+        "SiSizatuH",
+        "SiSizuH",
+        "SiSeziTa",
+        "SiSizaTuH",
+        "SiSiza",
+        "SiSeza",
+        "SiSiziva",
+        "SiSizima"
+      ],
+      "plot": [
+        "SezatAt",
+        "SezatAd",
+        "Sezatu",
+        "SezatAm",
+        "Sezantu",
+        "Seza",
+        "SezatAt",
+        "SezatAd",
+        "Sezatam",
+        "Sezata",
+        "SezARi",
+        "SezAva",
+        "SezAma"
+      ],
+      "plrung": [
+        "aSekzyat",
+        "aSekzyad",
+        "aSekzyatAm",
+        "aSekzyan",
+        "aSekzyaH",
+        "aSekzyatam",
+        "aSekzyata",
+        "aSekzyam",
+        "aSekzyAva",
+        "aSekzyAma"
+      ],
+      "plrut": [
+        "Sekzyati",
+        "SekzyataH",
+        "Sekzyanti",
+        "Sekzyasi",
+        "SekzyaTaH",
+        "SekzyaTa",
+        "SekzyAmi",
+        "SekzyAvaH",
+        "SekzyAmaH"
+      ],
+      "plung": [
+        "aSikzat",
+        "aSikzad",
+        "aSikzatAm",
+        "aSikzan",
+        "aSikzaH",
+        "aSikzatam",
+        "aSikzata",
+        "aSikzam",
+        "aSikzAva",
+        "aSikzAma"
+      ],
+      "plut": [
+        "SezwA",
+        "SezwArO",
+        "SezwAraH",
+        "SezwAsi",
+        "SezwAsTaH",
+        "SezwAsTa",
+        "SezwAsmi",
+        "SezwAsvaH",
+        "SezwAsmaH"
+      ],
+      "pvidhiling": [
+        "Sezet",
+        "Sezed",
+        "SezetAm",
+        "SezeyuH",
+        "SezeH",
+        "Sezetam",
+        "Sezeta",
+        "Sezeyam",
+        "Sezeva",
+        "Sezema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "SikzIzwa",
+        "SikzIyAstAm",
+        "SikzIran",
+        "SikzIzWAH",
+        "SikzIyAsTAm",
+        "SikzIDvam",
+        "SikzIya",
+        "SikzIvahi",
+        "SikzImahi"
+      ],
+      "alang": [
+        "aSizyata",
+        "aSizyetAm",
+        "aSizyanta",
+        "aSizyaTAH",
+        "aSizyeTAm",
+        "aSizyaDvam",
+        "aSizye",
+        "aSizyAvahi",
+        "aSizyAmahi"
+      ],
+      "alat": [
+        "Sizyate",
+        "Sizyete",
+        "Sizyante",
+        "Sizyase",
+        "SizyeTe",
+        "SizyaDve",
+        "Sizye",
+        "SizyAvahe",
+        "SizyAmahe"
+      ],
+      "alit": [
+        "SiSize",
+        "SiSizAte",
+        "SiSizire",
+        "SiSizize",
+        "SiSizATe",
+        "SiSiziDve",
+        "SiSize",
+        "SiSizivahe",
+        "SiSizimahe"
+      ],
+      "alot": [
+        "SizyatAm",
+        "SizyetAm",
+        "SizyantAm",
+        "Sizyasva",
+        "SizyeTAm",
+        "SizyaDvam",
+        "SizyE",
+        "SizyAvahE",
+        "SizyAmahE"
+      ],
+      "alrung": [
+        "aSekzyata",
+        "aSekzyetAm",
+        "aSekzyanta",
+        "aSekzyaTAH",
+        "aSekzyeTAm",
+        "aSekzyaDvam",
+        "aSekzye",
+        "aSekzyAvahi",
+        "aSekzyAmahi"
+      ],
+      "alrut": [
+        "Sekzyate",
+        "Sekzyete",
+        "Sekzyante",
+        "Sekzyase",
+        "SekzyeTe",
+        "SekzyaDve",
+        "Sekzye",
+        "SekzyAvahe",
+        "SekzyAmahe"
+      ],
+      "alung": [
+        "aSezi",
+        "aSikzAtAm",
+        "aSikzanta",
+        "aSikzaTAH",
+        "aSikzATAm",
+        "aSikzaDvam",
+        "aSikzi",
+        "aSikzAvahi",
+        "aSikzAmahi"
+      ],
+      "alut": [
+        "SezwA",
+        "SezwArO",
+        "SezwAraH",
+        "SezwAse",
+        "SezwAsATe",
+        "SezwADve",
+        "SezwAhe",
+        "SezwAsvahe",
+        "SezwAsmahe"
+      ],
+      "avidhiling": [
+        "Sizyeta",
+        "SizyeyAtAm",
+        "Sizyeran",
+        "SizyeTAH",
+        "SizyeyATAm",
+        "SizyeDvam",
+        "Sizyeya",
+        "Sizyevahi",
+        "Sizyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "SiSikzyAt",
+        "SiSikzyAd",
+        "SiSikzyAstAm",
+        "SiSikzyAsuH",
+        "SiSikzyAH",
+        "SiSikzyAstam",
+        "SiSikzyAsta",
+        "SiSikzyAsam",
+        "SiSikzyAsva",
+        "SiSikzyAsma"
+      ],
+      "plang": [
+        "aSiSikzat",
+        "aSiSikzad",
+        "aSiSikzatAm",
+        "aSiSikzan",
+        "aSiSikzaH",
+        "aSiSikzatam",
+        "aSiSikzata",
+        "aSiSikzam",
+        "aSiSikzAva",
+        "aSiSikzAma"
+      ],
+      "plat": [
+        "SiSikzati",
+        "SiSikzataH",
+        "SiSikzanti",
+        "SiSikzasi",
+        "SiSikzaTaH",
+        "SiSikzaTa",
+        "SiSikzAmi",
+        "SiSikzAvaH",
+        "SiSikzAmaH"
+      ],
+      "plit": [
+        "SiSikzAYcakAra",
+        "SiSikzAmAsa",
+        "SiSikzAmbaBUva",
+        "SiSikzAYcakratuH",
+        "SiSikzAmAsatuH",
+        "SiSikzAmbaBUvatuH",
+        "SiSikzAYcakruH",
+        "SiSikzAmAsuH",
+        "SiSikzAmbaBUvuH",
+        "SiSikzAYcakarTa",
+        "SiSikzAmAsiTa",
+        "SiSikzAmbaBUviTa",
+        "SiSikzAYcakraTuH",
+        "SiSikzAmAsaTuH",
+        "SiSikzAmbaBUvaTuH",
+        "SiSikzAYcakra",
+        "SiSikzAmAsa",
+        "SiSikzAmbaBUva",
+        "SiSikzAYcakara",
+        "SiSikzAYcakAra",
+        "SiSikzAmAsa",
+        "SiSikzAmbaBUva",
+        "SiSikzAYcakfva",
+        "SiSikzAmAsiva",
+        "SiSikzAmbaBUviva",
+        "SiSikzAYcakfma",
+        "SiSikzAmAsima",
+        "SiSikzAmbaBUvima"
+      ],
+      "plot": [
+        "SiSikzatAt",
+        "SiSikzatAd",
+        "SiSikzatu",
+        "SiSikzatAm",
+        "SiSikzantu",
+        "SiSikza",
+        "SiSikzatAt",
+        "SiSikzatAd",
+        "SiSikzatam",
+        "SiSikzata",
+        "SiSikzARi",
+        "SiSikzAva",
+        "SiSikzAma"
+      ],
+      "plrung": [
+        "aSiSikzizyat",
+        "aSiSikzizyad",
+        "aSiSikzizyatAm",
+        "aSiSikzizyan",
+        "aSiSikzizyaH",
+        "aSiSikzizyatam",
+        "aSiSikzizyata",
+        "aSiSikzizyam",
+        "aSiSikzizyAva",
+        "aSiSikzizyAma"
+      ],
+      "plrut": [
+        "SiSikzizyati",
+        "SiSikzizyataH",
+        "SiSikzizyanti",
+        "SiSikzizyasi",
+        "SiSikzizyaTaH",
+        "SiSikzizyaTa",
+        "SiSikzizyAmi",
+        "SiSikzizyAvaH",
+        "SiSikzizyAmaH"
+      ],
+      "plung": [
+        "aSiSikzIt",
+        "aSiSikzId",
+        "aSiSikzizwAm",
+        "aSiSikzizuH",
+        "aSiSikzIH",
+        "aSiSikzizwam",
+        "aSiSikzizwa",
+        "aSiSikzizam",
+        "aSiSikzizva",
+        "aSiSikzizma"
+      ],
+      "plut": [
+        "SiSikzitA",
+        "SiSikzitArO",
+        "SiSikzitAraH",
+        "SiSikzitAsi",
+        "SiSikzitAsTaH",
+        "SiSikzitAsTa",
+        "SiSikzitAsmi",
+        "SiSikzitAsvaH",
+        "SiSikzitAsmaH"
+      ],
+      "pvidhiling": [
+        "SiSikzet",
+        "SiSikzed",
+        "SiSikzetAm",
+        "SiSikzeyuH",
+        "SiSikzeH",
+        "SiSikzetam",
+        "SiSikzeta",
+        "SiSikzeyam",
+        "SiSikzeva",
+        "SiSikzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "SiSikzizIzwa",
+        "SiSikzizIyAstAm",
+        "SiSikzizIran",
+        "SiSikzizIzWAH",
+        "SiSikzizIyAsTAm",
+        "SiSikzizIDvam",
+        "SiSikzizIya",
+        "SiSikzizIvahi",
+        "SiSikzizImahi"
+      ],
+      "alang": [
+        "aSiSikzyata",
+        "aSiSikzyetAm",
+        "aSiSikzyanta",
+        "aSiSikzyaTAH",
+        "aSiSikzyeTAm",
+        "aSiSikzyaDvam",
+        "aSiSikzye",
+        "aSiSikzyAvahi",
+        "aSiSikzyAmahi"
+      ],
+      "alat": [
+        "SiSikzyate",
+        "SiSikzyete",
+        "SiSikzyante",
+        "SiSikzyase",
+        "SiSikzyeTe",
+        "SiSikzyaDve",
+        "SiSikzye",
+        "SiSikzyAvahe",
+        "SiSikzyAmahe"
+      ],
+      "alit": [
+        "SiSikzAYcakre",
+        "SiSikzAmAse",
+        "SiSikzAmbaBUve",
+        "SiSikzAYcakrAte",
+        "SiSikzAmAsAte",
+        "SiSikzAmbaBUvAte",
+        "SiSikzAYcakrire",
+        "SiSikzAmAsire",
+        "SiSikzAmbaBUvire",
+        "SiSikzAYcakfze",
+        "SiSikzAmAsize",
+        "SiSikzAmbaBUvize",
+        "SiSikzAYcakrATe",
+        "SiSikzAmAsATe",
+        "SiSikzAmbaBUvATe",
+        "SiSikzAYcakfQve",
+        "SiSikzAmAsiDve",
+        "SiSikzAmbaBUviQve",
+        "SiSikzAYcakre",
+        "SiSikzAmAhe",
+        "SiSikzAmbaBUve",
+        "SiSikzAYcakfvahe",
+        "SiSikzAmAsivahe",
+        "SiSikzAmbaBUvivahe",
+        "SiSikzAYcakfmahe",
+        "SiSikzAmAsimahe",
+        "SiSikzAmbaBUvimahe"
+      ],
+      "alot": [
+        "SiSikzyatAm",
+        "SiSikzyetAm",
+        "SiSikzyantAm",
+        "SiSikzyasva",
+        "SiSikzyeTAm",
+        "SiSikzyaDvam",
+        "SiSikzyE",
+        "SiSikzyAvahE",
+        "SiSikzyAmahE"
+      ],
+      "alrung": [
+        "aSiSikzizyata",
+        "aSiSikzizyetAm",
+        "aSiSikzizyanta",
+        "aSiSikzizyaTAH",
+        "aSiSikzizyeTAm",
+        "aSiSikzizyaDvam",
+        "aSiSikzizye",
+        "aSiSikzizyAvahi",
+        "aSiSikzizyAmahi"
+      ],
+      "alrut": [
+        "SiSikzizyate",
+        "SiSikzizyete",
+        "SiSikzizyante",
+        "SiSikzizyase",
+        "SiSikzizyeTe",
+        "SiSikzizyaDve",
+        "SiSikzizye",
+        "SiSikzizyAvahe",
+        "SiSikzizyAmahe"
+      ],
+      "alung": [
+        "aSiSikzi",
+        "aSiSikzizAtAm",
+        "aSiSikzizata",
+        "aSiSikzizWAH",
+        "aSiSikzizATAm",
+        "aSiSikziDvam",
+        "aSiSikzizi",
+        "aSiSikzizvahi",
+        "aSiSikzizmahi"
+      ],
+      "alut": [
+        "SiSikzitA",
+        "SiSikzitArO",
+        "SiSikzitAraH",
+        "SiSikzitAse",
+        "SiSikzitAsATe",
+        "SiSikzitADve",
+        "SiSikzitAhe",
+        "SiSikzitAsvahe",
+        "SiSikzitAsmahe"
+      ],
+      "avidhiling": [
+        "SiSikzyeta",
+        "SiSikzyeyAtAm",
+        "SiSikzyeran",
+        "SiSikzyeTAH",
+        "SiSikzyeyATAm",
+        "SiSikzyeDvam",
+        "SiSikzyeya",
+        "SiSikzyevahi",
+        "SiSikzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "SezayizIzwa",
+        "SezayizIyAstAm",
+        "SezayizIran",
+        "SezayizIzWAH",
+        "SezayizIyAsTAm",
+        "SezayizIQvam",
+        "SezayizIDvam",
+        "SezayizIya",
+        "SezayizIvahi",
+        "SezayizImahi"
+      ],
+      "alang": [
+        "aSezayata",
+        "aSezayetAm",
+        "aSezayanta",
+        "aSezayaTAH",
+        "aSezayeTAm",
+        "aSezayaDvam",
+        "aSezaye",
+        "aSezayAvahi",
+        "aSezayAmahi"
+      ],
+      "alat": [
+        "Sezayate",
+        "Sezayete",
+        "Sezayante",
+        "Sezayase",
+        "SezayeTe",
+        "SezayaDve",
+        "Sezaye",
+        "SezayAvahe",
+        "SezayAmahe"
+      ],
+      "alit": [
+        "SezayAYcakre",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakrAte",
+        "SezayAmAsatuH",
+        "SezayAmbaBUvatuH",
+        "SezayAYcakrire",
+        "SezayAmAsuH",
+        "SezayAmbaBUvuH",
+        "SezayAYcakfze",
+        "SezayAmAsiTa",
+        "SezayAmbaBUviTa",
+        "SezayAYcakrATe",
+        "SezayAmAsaTuH",
+        "SezayAmbaBUvaTuH",
+        "SezayAYcakfQve",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakre",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakfvahe",
+        "SezayAmAsiva",
+        "SezayAmbaBUviva",
+        "SezayAYcakfmahe",
+        "SezayAmAsima",
+        "SezayAmbaBUvima"
+      ],
+      "alot": [
+        "SezayatAm",
+        "SezayetAm",
+        "SezayantAm",
+        "Sezayasva",
+        "SezayeTAm",
+        "SezayaDvam",
+        "SezayE",
+        "SezayAvahE",
+        "SezayAmahE"
+      ],
+      "alrung": [
+        "aSezayizyata",
+        "aSezayizyetAm",
+        "aSezayizyanta",
+        "aSezayizyaTAH",
+        "aSezayizyeTAm",
+        "aSezayizyaDvam",
+        "aSezayizye",
+        "aSezayizyAvahi",
+        "aSezayizyAmahi"
+      ],
+      "alrut": [
+        "Sezayizyate",
+        "Sezayizyete",
+        "Sezayizyante",
+        "Sezayizyase",
+        "SezayizyeTe",
+        "SezayizyaDve",
+        "Sezayizye",
+        "SezayizyAvahe",
+        "SezayizyAmahe"
+      ],
+      "alung": [
+        "aSISizata",
+        "aSISizetAm",
+        "aSISizanta",
+        "aSISizaTAH",
+        "aSISizeTAm",
+        "aSISizaDvam",
+        "aSISize",
+        "aSISizAvahi",
+        "aSISizAmahi"
+      ],
+      "alut": [
+        "SezayitA",
+        "SezayitArO",
+        "SezayitAraH",
+        "SezayitAse",
+        "SezayitAsATe",
+        "SezayitADve",
+        "SezayitAhe",
+        "SezayitAsvahe",
+        "SezayitAsmahe"
+      ],
+      "avidhiling": [
+        "Sezayeta",
+        "SezayeyAtAm",
+        "Sezayeran",
+        "SezayeTAH",
+        "SezayeyATAm",
+        "SezayeDvam",
+        "Sezayeya",
+        "Sezayevahi",
+        "Sezayemahi"
+      ],
+      "pashirling": [
+        "SezyAt",
+        "SezyAd",
+        "SezyAstAm",
+        "SezyAsuH",
+        "SezyAH",
+        "SezyAstam",
+        "SezyAsta",
+        "SezyAsam",
+        "SezyAsva",
+        "SezyAsma"
+      ],
+      "plang": [
+        "aSezayat",
+        "aSezayad",
+        "aSezayatAm",
+        "aSezayan",
+        "aSezayaH",
+        "aSezayatam",
+        "aSezayata",
+        "aSezayam",
+        "aSezayAva",
+        "aSezayAma"
+      ],
+      "plat": [
+        "Sezayati",
+        "SezayataH",
+        "Sezayanti",
+        "Sezayasi",
+        "SezayaTaH",
+        "SezayaTa",
+        "SezayAmi",
+        "SezayAvaH",
+        "SezayAmaH"
+      ],
+      "plit": [
+        "SezayAYcakAra",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakratuH",
+        "SezayAmAsatuH",
+        "SezayAmbaBUvatuH",
+        "SezayAYcakruH",
+        "SezayAmAsuH",
+        "SezayAmbaBUvuH",
+        "SezayAYcakarTa",
+        "SezayAmAsiTa",
+        "SezayAmbaBUviTa",
+        "SezayAYcakraTuH",
+        "SezayAmAsaTuH",
+        "SezayAmbaBUvaTuH",
+        "SezayAYcakra",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakara",
+        "SezayAYcakAra",
+        "SezayAmAsa",
+        "SezayAmbaBUva",
+        "SezayAYcakfva",
+        "SezayAmAsiva",
+        "SezayAmbaBUviva",
+        "SezayAYcakfma",
+        "SezayAmAsima",
+        "SezayAmbaBUvima"
+      ],
+      "plot": [
+        "SezayatAt",
+        "SezayatAd",
+        "Sezayatu",
+        "SezayatAm",
+        "Sezayantu",
+        "Sezaya",
+        "SezayatAt",
+        "SezayatAd",
+        "Sezayatam",
+        "Sezayata",
+        "SezayARi",
+        "SezayAva",
+        "SezayAma"
+      ],
+      "plrung": [
+        "aSezayizyat",
+        "aSezayizyad",
+        "aSezayizyatAm",
+        "aSezayizyan",
+        "aSezayizyaH",
+        "aSezayizyatam",
+        "aSezayizyata",
+        "aSezayizyam",
+        "aSezayizyAva",
+        "aSezayizyAma"
+      ],
+      "plrut": [
+        "Sezayizyati",
+        "SezayizyataH",
+        "Sezayizyanti",
+        "Sezayizyasi",
+        "SezayizyaTaH",
+        "SezayizyaTa",
+        "SezayizyAmi",
+        "SezayizyAvaH",
+        "SezayizyAmaH"
+      ],
+      "plung": [
+        "aSISizat",
+        "aSISizad",
+        "aSISizatAm",
+        "aSISizan",
+        "aSISizaH",
+        "aSISizatam",
+        "aSISizata",
+        "aSISizam",
+        "aSISizAva",
+        "aSISizAma"
+      ],
+      "plut": [
+        "SezayitA",
+        "SezayitArO",
+        "SezayitAraH",
+        "SezayitAsi",
+        "SezayitAsTaH",
+        "SezayitAsTa",
+        "SezayitAsmi",
+        "SezayitAsvaH",
+        "SezayitAsmaH"
+      ],
+      "pvidhiling": [
+        "Sezayet",
+        "Sezayed",
+        "SezayetAm",
+        "SezayeyuH",
+        "SezayeH",
+        "Sezayetam",
+        "Sezayeta",
+        "Sezayeyam",
+        "Sezayeva",
+        "Sezayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "SezayizIzwa",
+        "SezizIzwa",
+        "SezayizIyAstAm",
+        "SezizIyAstAm",
+        "SezayizIran",
+        "SezizIran",
+        "SezayizIzWAH",
+        "SezizIzWAH",
+        "SezayizIyAsTAm",
+        "SezizIyAsTAm",
+        "SezayizIQvam",
+        "SezayizIDvam",
+        "SezizIDvam",
+        "SezayizIya",
+        "SezizIya",
+        "SezayizIvahi",
+        "SezizIvahi",
+        "SezayizImahi",
+        "SezizImahi"
+      ],
+      "alang": [
+        "aSezyata",
+        "aSezyetAm",
+        "aSezyanta",
+        "aSezyaTAH",
+        "aSezyeTAm",
+        "aSezyaDvam",
+        "aSezye",
+        "aSezyAvahi",
+        "aSezyAmahi"
+      ],
+      "alat": [
+        "Sezyate",
+        "Sezyete",
+        "Sezyante",
+        "Sezyase",
+        "SezyeTe",
+        "SezyaDve",
+        "Sezye",
+        "SezyAvahe",
+        "SezyAmahe"
+      ],
+      "alit": [
+        "SezayAYcakre",
+        "SezayAmAse",
+        "SezayAmbaBUve",
+        "SezayAYcakrAte",
+        "SezayAmAsAte",
+        "SezayAmbaBUvAte",
+        "SezayAYcakrire",
+        "SezayAmAsire",
+        "SezayAmbaBUvire",
+        "SezayAYcakfze",
+        "SezayAmAsize",
+        "SezayAmbaBUvize",
+        "SezayAYcakrATe",
+        "SezayAmAsATe",
+        "SezayAmbaBUvATe",
+        "SezayAYcakfQve",
+        "SezayAmAsiDve",
+        "SezayAmbaBUviQve",
+        "SezayAYcakre",
+        "SezayAmAhe",
+        "SezayAmbaBUve",
+        "SezayAYcakfvahe",
+        "SezayAmAsivahe",
+        "SezayAmbaBUvivahe",
+        "SezayAYcakfmahe",
+        "SezayAmAsimahe",
+        "SezayAmbaBUvimahe"
+      ],
+      "alot": [
+        "SezyatAm",
+        "SezyetAm",
+        "SezyantAm",
+        "Sezyasva",
+        "SezyeTAm",
+        "SezyaDvam",
+        "SezyE",
+        "SezyAvahE",
+        "SezyAmahE"
+      ],
+      "alrung": [
+        "aSezayizyata",
+        "aSezizyata",
+        "aSezayizyetAm",
+        "aSezizyetAm",
+        "aSezayizyanta",
+        "aSezizyanta",
+        "aSezayizyaTAH",
+        "aSezizyaTAH",
+        "aSezayizyeTAm",
+        "aSezizyeTAm",
+        "aSezayizyaDvam",
+        "aSezizyaDvam",
+        "aSezayizye",
+        "aSezizye",
+        "aSezayizyAvahi",
+        "aSezizyAvahi",
+        "aSezayizyAmahi",
+        "aSezizyAmahi"
+      ],
+      "alrut": [
+        "Sezayizyate",
+        "Sezizyate",
+        "Sezayizyete",
+        "Sezizyete",
+        "Sezayizyante",
+        "Sezizyante",
+        "Sezayizyase",
+        "Sezizyase",
+        "SezayizyeTe",
+        "SezizyeTe",
+        "SezayizyaDve",
+        "SezizyaDve",
+        "Sezayizye",
+        "Sezizye",
+        "SezayizyAvahe",
+        "SezizyAvahe",
+        "SezayizyAmahe",
+        "SezizyAmahe"
+      ],
+      "alung": [
+        "aSezi",
+        "aSezayizAtAm",
+        "aSezizAtAm",
+        "aSezayizata",
+        "aSezizata",
+        "aSezayizWAH",
+        "aSezizWAH",
+        "aSezayizATAm",
+        "aSezizATAm",
+        "aSezayiQvam",
+        "aSezayiDvam",
+        "aSeziDvam",
+        "aSezayizi",
+        "aSezizi",
+        "aSezayizvahi",
+        "aSezizvahi",
+        "aSezayizmahi",
+        "aSezizmahi"
+      ],
+      "alut": [
+        "SezayitA",
+        "SezitA",
+        "SezayitArO",
+        "SezitArO",
+        "SezayitAraH",
+        "SezitAraH",
+        "SezayitAse",
+        "SezitAse",
+        "SezayitAsATe",
+        "SezitAsATe",
+        "SezayitADve",
+        "SezitADve",
+        "SezayitAhe",
+        "SezitAhe",
+        "SezayitAsvahe",
+        "SezitAsvahe",
+        "SezayitAsmahe",
+        "SezitAsmahe"
+      ],
+      "avidhiling": [
+        "Sezyeta",
+        "SezyeyAtAm",
+        "Sezyeran",
+        "SezyeTAH",
+        "SezyeyATAm",
+        "SezyeDvam",
+        "Sezyeya",
+        "Sezyevahi",
+        "Sezyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "SeSizizIzwa",
+        "SeSizizIyAstAm",
+        "SeSizizIran",
+        "SeSizizIzWAH",
+        "SeSizizIyAsTAm",
+        "SeSizizIDvam",
+        "SeSizizIya",
+        "SeSizizIvahi",
+        "SeSizizImahi"
+      ],
+      "alang": [
+        "aSeSizyata",
+        "aSeSizyetAm",
+        "aSeSizyanta",
+        "aSeSizyaTAH",
+        "aSeSizyeTAm",
+        "aSeSizyaDvam",
+        "aSeSizye",
+        "aSeSizyAvahi",
+        "aSeSizyAmahi"
+      ],
+      "alat": [
+        "SeSizyate",
+        "SeSizyete",
+        "SeSizyante",
+        "SeSizyase",
+        "SeSizyeTe",
+        "SeSizyaDve",
+        "SeSizye",
+        "SeSizyAvahe",
+        "SeSizyAmahe"
+      ],
+      "alit": [
+        "SeSizAYcakre",
+        "SeSizAmAsa",
+        "SeSizAmbaBUva",
+        "SeSizAYcakrAte",
+        "SeSizAmAsatuH",
+        "SeSizAmbaBUvatuH",
+        "SeSizAYcakrire",
+        "SeSizAmAsuH",
+        "SeSizAmbaBUvuH",
+        "SeSizAYcakfze",
+        "SeSizAmAsiTa",
+        "SeSizAmbaBUviTa",
+        "SeSizAYcakrATe",
+        "SeSizAmAsaTuH",
+        "SeSizAmbaBUvaTuH",
+        "SeSizAYcakfQve",
+        "SeSizAmAsa",
+        "SeSizAmbaBUva",
+        "SeSizAYcakre",
+        "SeSizAmAsa",
+        "SeSizAmbaBUva",
+        "SeSizAYcakfvahe",
+        "SeSizAmAsiva",
+        "SeSizAmbaBUviva",
+        "SeSizAYcakfmahe",
+        "SeSizAmAsima",
+        "SeSizAmbaBUvima"
+      ],
+      "alot": [
+        "SeSizyatAm",
+        "SeSizyetAm",
+        "SeSizyantAm",
+        "SeSizyasva",
+        "SeSizyeTAm",
+        "SeSizyaDvam",
+        "SeSizyE",
+        "SeSizyAvahE",
+        "SeSizyAmahE"
+      ],
+      "alrung": [
+        "aSeSizizyata",
+        "aSeSizizyetAm",
+        "aSeSizizyanta",
+        "aSeSizizyaTAH",
+        "aSeSizizyeTAm",
+        "aSeSizizyaDvam",
+        "aSeSizizye",
+        "aSeSizizyAvahi",
+        "aSeSizizyAmahi"
+      ],
+      "alrut": [
+        "SeSizizyate",
+        "SeSizizyete",
+        "SeSizizyante",
+        "SeSizizyase",
+        "SeSizizyeTe",
+        "SeSizizyaDve",
+        "SeSizizye",
+        "SeSizizyAvahe",
+        "SeSizizyAmahe"
+      ],
+      "alung": [
+        "aSeSizizwa",
+        "aSeSizizAtAm",
+        "aSeSizizata",
+        "aSeSizizWAH",
+        "aSeSizizATAm",
+        "aSeSiziDvam",
+        "aSeSizizi",
+        "aSeSizizvahi",
+        "aSeSizizmahi"
+      ],
+      "alut": [
+        "SeSizitA",
+        "SeSizitArO",
+        "SeSizitAraH",
+        "SeSizitAse",
+        "SeSizitAsATe",
+        "SeSizitADve",
+        "SeSizitAhe",
+        "SeSizitAsvahe",
+        "SeSizitAsmahe"
+      ],
+      "avidhiling": [
+        "SeSizyeta",
+        "SeSizyeyAtAm",
+        "SeSizyeran",
+        "SeSizyeTAH",
+        "SeSizyeyATAm",
+        "SeSizyeDvam",
+        "SeSizyeya",
+        "SeSizyevahi",
+        "SeSizyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "SeSizizIzwa",
+        "SeSizizIyAstAm",
+        "SeSizizIran",
+        "SeSizizIzWAH",
+        "SeSizizIyAsTAm",
+        "SeSizizIDvam",
+        "SeSizizIya",
+        "SeSizizIvahi",
+        "SeSizizImahi"
+      ],
+      "alang": [
+        "aSeSizyata",
+        "aSeSizyetAm",
+        "aSeSizyanta",
+        "aSeSizyaTAH",
+        "aSeSizyeTAm",
+        "aSeSizyaDvam",
+        "aSeSizye",
+        "aSeSizyAvahi",
+        "aSeSizyAmahi"
+      ],
+      "alat": [
+        "SeSizyate",
+        "SeSizyete",
+        "SeSizyante",
+        "SeSizyase",
+        "SeSizyeTe",
+        "SeSizyaDve",
+        "SeSizye",
+        "SeSizyAvahe",
+        "SeSizyAmahe"
+      ],
+      "alit": [
+        "SeSizAYcakre",
+        "SeSizAmAse",
+        "SeSizAmbaBUve",
+        "SeSizAYcakrAte",
+        "SeSizAmAsAte",
+        "SeSizAmbaBUvAte",
+        "SeSizAYcakrire",
+        "SeSizAmAsire",
+        "SeSizAmbaBUvire",
+        "SeSizAYcakfze",
+        "SeSizAmAsize",
+        "SeSizAmbaBUvize",
+        "SeSizAYcakrATe",
+        "SeSizAmAsATe",
+        "SeSizAmbaBUvATe",
+        "SeSizAYcakfQve",
+        "SeSizAmAsiDve",
+        "SeSizAmbaBUviQve",
+        "SeSizAYcakre",
+        "SeSizAmAhe",
+        "SeSizAmbaBUve",
+        "SeSizAYcakfvahe",
+        "SeSizAmAsivahe",
+        "SeSizAmbaBUvivahe",
+        "SeSizAYcakfmahe",
+        "SeSizAmAsimahe",
+        "SeSizAmbaBUvimahe"
+      ],
+      "alot": [
+        "SeSizyatAm",
+        "SeSizyetAm",
+        "SeSizyantAm",
+        "SeSizyasva",
+        "SeSizyeTAm",
+        "SeSizyaDvam",
+        "SeSizyE",
+        "SeSizyAvahE",
+        "SeSizyAmahE"
+      ],
+      "alrung": [
+        "aSeSizizyata",
+        "aSeSizizyetAm",
+        "aSeSizizyanta",
+        "aSeSizizyaTAH",
+        "aSeSizizyeTAm",
+        "aSeSizizyaDvam",
+        "aSeSizizye",
+        "aSeSizizyAvahi",
+        "aSeSizizyAmahi"
+      ],
+      "alrut": [
+        "SeSizizyate",
+        "SeSizizyete",
+        "SeSizizyante",
+        "SeSizizyase",
+        "SeSizizyeTe",
+        "SeSizizyaDve",
+        "SeSizizye",
+        "SeSizizyAvahe",
+        "SeSizizyAmahe"
+      ],
+      "alung": [
+        "aSeSizi",
+        "aSeSizizAtAm",
+        "aSeSizizata",
+        "aSeSizizWAH",
+        "aSeSizizATAm",
+        "aSeSiziDvam",
+        "aSeSizizi",
+        "aSeSizizvahi",
+        "aSeSizizmahi"
+      ],
+      "alut": [
+        "SeSizitA",
+        "SeSizitArO",
+        "SeSizitAraH",
+        "SeSizitAse",
+        "SeSizitAsATe",
+        "SeSizitADve",
+        "SeSizitAhe",
+        "SeSizitAsvahe",
+        "SeSizitAsmahe"
+      ],
+      "avidhiling": [
+        "SeSizyeta",
+        "SeSizyeyAtAm",
+        "SeSizyeran",
+        "SeSizyeTAH",
+        "SeSizyeyATAm",
+        "SeSizyeDvam",
+        "SeSizyeya",
+        "SeSizyevahi",
+        "SeSizyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "SeSizyAt",
+        "SeSizyAd",
+        "SeSizyAstAm",
+        "SeSizyAsuH",
+        "SeSizyAH",
+        "SeSizyAstam",
+        "SeSizyAsta",
+        "SeSizyAsam",
+        "SeSizyAsva",
+        "SeSizyAsma"
+      ],
+      "plang": [
+        "aSeSizIt",
+        "aSeSizId",
+        "aSeSew",
+        "aSeSeq",
+        "aSeSizwAm",
+        "aSeSizuH",
+        "aSeSizIH",
+        "aSeSew",
+        "aSeSeq",
+        "aSeSizwam",
+        "aSeSizwa",
+        "aSeSizam",
+        "aSeSizva",
+        "aSeSizma"
+      ],
+      "plat": [
+        "SeSizIti",
+        "SeSezwi",
+        "SeSizwaH",
+        "SeSizati",
+        "SeSizIzi",
+        "SeSekzi",
+        "SeSizWaH",
+        "SeSizWa",
+        "SeSizImi",
+        "SeSezmi",
+        "SeSizvaH",
+        "SeSizmaH"
+      ],
+      "plit": [
+        "SeSezAYcakAra",
+        "SeSezAmAsa",
+        "SeSezAmbaBUva",
+        "SeSezAYcakratuH",
+        "SeSezAmAsatuH",
+        "SeSezAmbaBUvatuH",
+        "SeSezAYcakruH",
+        "SeSezAmAsuH",
+        "SeSezAmbaBUvuH",
+        "SeSezAYcakarTa",
+        "SeSezAmAsiTa",
+        "SeSezAmbaBUviTa",
+        "SeSezAYcakraTuH",
+        "SeSezAmAsaTuH",
+        "SeSezAmbaBUvaTuH",
+        "SeSezAYcakra",
+        "SeSezAmAsa",
+        "SeSezAmbaBUva",
+        "SeSezAYcakara",
+        "SeSezAYcakAra",
+        "SeSezAmAsa",
+        "SeSezAmbaBUva",
+        "SeSezAYcakfva",
+        "SeSezAmAsiva",
+        "SeSezAmbaBUviva",
+        "SeSezAYcakfma",
+        "SeSezAmAsima",
+        "SeSezAmbaBUvima"
+      ],
+      "plot": [
+        "SeSizItu",
+        "SeSizwAt",
+        "SeSizwAd",
+        "SeSezwu",
+        "SeSizwAm",
+        "SeSizatu",
+        "SeSiqQi",
+        "SeSizwAt",
+        "SeSizwAd",
+        "SeSizwam",
+        "SeSizwa",
+        "SeSizARi",
+        "SeSizAva",
+        "SeSizAma"
+      ],
+      "plrung": [
+        "aSeSezizyat",
+        "aSeSezizyad",
+        "aSeSezizyatAm",
+        "aSeSezizyan",
+        "aSeSezizyaH",
+        "aSeSezizyatam",
+        "aSeSezizyata",
+        "aSeSezizyam",
+        "aSeSezizyAva",
+        "aSeSezizyAma"
+      ],
+      "plrut": [
+        "SeSezizyati",
+        "SeSezizyataH",
+        "SeSezizyanti",
+        "SeSezizyasi",
+        "SeSezizyaTaH",
+        "SeSezizyaTa",
+        "SeSezizyAmi",
+        "SeSezizyAvaH",
+        "SeSezizyAmaH"
+      ],
+      "plung": [
+        "aSeSezIt",
+        "aSeSezId",
+        "aSeSezizwAm",
+        "aSeSezizuH",
+        "aSeSezIH",
+        "aSeSezizwam",
+        "aSeSezizwa",
+        "aSeSezizam",
+        "aSeSezizva",
+        "aSeSezizma"
+      ],
+      "plut": [
+        "SeSezitA",
+        "SeSezitArO",
+        "SeSezitAraH",
+        "SeSezitAsi",
+        "SeSezitAsTaH",
+        "SeSezitAsTa",
+        "SeSezitAsmi",
+        "SeSezitAsvaH",
+        "SeSezitAsmaH"
+      ],
+      "pvidhiling": [
+        "SeSizyAt",
+        "SeSizyAd",
+        "SeSizyAtAm",
+        "SeSizyuH",
+        "SeSizyAH",
+        "SeSizyAtam",
+        "SeSizyAta",
+        "SeSizyAm",
+        "SeSizyAva",
+        "SeSizyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "SeSezizIzwa",
+        "SeSezizIyAstAm",
+        "SeSezizIran",
+        "SeSezizIzWAH",
+        "SeSezizIyAsTAm",
+        "SeSezizIDvam",
+        "SeSezizIya",
+        "SeSezizIvahi",
+        "SeSezizImahi"
+      ],
+      "alang": [
+        "aSeSizyata",
+        "aSeSizyetAm",
+        "aSeSizyanta",
+        "aSeSizyaTAH",
+        "aSeSizyeTAm",
+        "aSeSizyaDvam",
+        "aSeSizye",
+        "aSeSizyAvahi",
+        "aSeSizyAmahi"
+      ],
+      "alat": [
+        "SeSizyate",
+        "SeSizyete",
+        "SeSizyante",
+        "SeSizyase",
+        "SeSizyeTe",
+        "SeSizyaDve",
+        "SeSizye",
+        "SeSizyAvahe",
+        "SeSizyAmahe"
+      ],
+      "alit": [
+        "SeSezAYcakre",
+        "SeSezAmAse",
+        "SeSezAmbaBUve",
+        "SeSezAYcakrAte",
+        "SeSezAmAsAte",
+        "SeSezAmbaBUvAte",
+        "SeSezAYcakrire",
+        "SeSezAmAsire",
+        "SeSezAmbaBUvire",
+        "SeSezAYcakfze",
+        "SeSezAmAsize",
+        "SeSezAmbaBUvize",
+        "SeSezAYcakrATe",
+        "SeSezAmAsATe",
+        "SeSezAmbaBUvATe",
+        "SeSezAYcakfQve",
+        "SeSezAmAsiDve",
+        "SeSezAmbaBUviQve",
+        "SeSezAYcakre",
+        "SeSezAmAhe",
+        "SeSezAmbaBUve",
+        "SeSezAYcakfvahe",
+        "SeSezAmAsivahe",
+        "SeSezAmbaBUvivahe",
+        "SeSezAYcakfmahe",
+        "SeSezAmAsimahe",
+        "SeSezAmbaBUvimahe"
+      ],
+      "alot": [
+        "SeSizyatAm",
+        "SeSizyetAm",
+        "SeSizyantAm",
+        "SeSizyasva",
+        "SeSizyeTAm",
+        "SeSizyaDvam",
+        "SeSizyE",
+        "SeSizyAvahE",
+        "SeSizyAmahE"
+      ],
+      "alrung": [
+        "aSeSezizyata",
+        "aSeSezizyetAm",
+        "aSeSezizyanta",
+        "aSeSezizyaTAH",
+        "aSeSezizyeTAm",
+        "aSeSezizyaDvam",
+        "aSeSezizye",
+        "aSeSezizyAvahi",
+        "aSeSezizyAmahi"
+      ],
+      "alrut": [
+        "SeSezizyate",
+        "SeSezizyete",
+        "SeSezizyante",
+        "SeSezizyase",
+        "SeSezizyeTe",
+        "SeSezizyaDve",
+        "SeSezizye",
+        "SeSezizyAvahe",
+        "SeSezizyAmahe"
+      ],
+      "alung": [
+        "aSeSezi",
+        "aSeSezizAtAm",
+        "aSeSezizata",
+        "aSeSezizWAH",
+        "aSeSezizATAm",
+        "aSeSeziDvam",
+        "aSeSezizi",
+        "aSeSezizvahi",
+        "aSeSezizmahi"
+      ],
+      "alut": [
+        "SeSezitA",
+        "SeSezitArO",
+        "SeSezitAraH",
+        "SeSezitAse",
+        "SeSezitAsATe",
+        "SeSezitADve",
+        "SeSezitAhe",
+        "SeSezitAsvahe",
+        "SeSezitAsmahe"
+      ],
+      "avidhiling": [
+        "SeSizyeta",
+        "SeSizyeyAtAm",
+        "SeSizyeran",
+        "SeSizyeTAH",
+        "SeSizyeyATAm",
+        "SeSizyeDvam",
+        "SeSizyeya",
+        "SeSizyevahi",
+        "SeSizyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "SezaRIya",
+          "m": "SezaRIyaH",
+          "f": "SezaRIyA",
+          "n": "SezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Sizwa",
+          "m": "SizwaH",
+          "f": "SizwA",
+          "n": "Sizwam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Sizwavat",
+          "m": "SizwavAn",
+          "f": "SizwavatI",
+          "n": "Sizwavat/Sizwavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Sizwi",
+          "m": "",
+          "f": "SizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SizwvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SiSizvas",
+          "m": "SiSizvAn",
+          "f": "SiSizuzI",
+          "n": "SiSizvat/SiSizvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "Seza",
+          "m": "SezaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SezamARa",
+          "m": "SezamARaH",
+          "f": "SezamARA",
+          "n": "SezamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Sezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "Sezya",
+          "m": "SezyaH",
+          "f": "SezyA",
+          "n": "Sezyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Sezaka",
+          "m": "SezakaH",
+          "f": "SezikA",
+          "n": "Sezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Sezwavya",
+          "m": "SezwavyaH",
+          "f": "SezwavyA",
+          "n": "Sezwavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Sezwum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Sezwf",
+          "m": "SezwA",
+          "f": "SezwrI",
+          "n": "Sezwf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SizyamARa",
+          "m": "SizyamARaH",
+          "f": "SizyamARA",
+          "n": "SizyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SezaRa",
+          "m": "",
+          "f": "",
+          "n": "SezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Sezaka",
+          "m": "SezakaH",
+          "f": "SezikA",
+          "n": "Sezakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Sezat",
+          "m": "Sezan",
+          "f": "SezantI",
+          "n": "Sezat/Sezad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SekzyamARa",
+          "m": "SekzyamARaH",
+          "f": "SekzyamARA",
+          "n": "SekzyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Sekzyat",
+          "m": "Sekzyan",
+          "f": "SekzyatI/SekzyantI",
+          "n": "Sekzyat/Sekzyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "SiSikzA",
+          "m": "",
+          "f": "SiSikzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SiSikza",
+          "m": "SiSikzaH",
+          "f": "SiSikzA",
+          "n": "SiSikzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SiSikzaRIya",
+          "m": "SiSikzaRIyaH",
+          "f": "SiSikzaRIyA",
+          "n": "SiSikzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "SiSikzu",
+          "m": "SiSikzuH",
+          "f": "SiSikzuH",
+          "n": "SiSikzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SiSikzita",
+          "m": "SiSikzitaH",
+          "f": "SiSikzitA",
+          "n": "SiSikzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SiSikzitavat",
+          "m": "SiSikzitavAn",
+          "f": "SiSikzitavatI",
+          "n": "SiSikzitavat/SiSikzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SiSikzwi",
+          "m": "",
+          "f": "SiSikzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SiSikzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SiSikzAmbaBUvas",
+          "m": "SiSikzAmbaBUvAn",
+          "f": "SiSikzAmbaBUzI",
+          "n": "SiSikzAmbaBUvat/SiSikzAmbaBUvad"
+        },
+        {
+          "base": "SiSikzAmAsivas",
+          "m": "SiSikzAmAsivAn",
+          "f": "SiSikzAmAsyuzI",
+          "n": "SiSikzAmAsivat/SiSikzAmAsivad"
+        },
+        {
+          "base": "SiSikzAYcakfvas",
+          "m": "SiSikzAYcakfvAn",
+          "f": "SiSikzAYcakruzI",
+          "n": "SiSikzAYcakfvat/SiSikzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SiSikza",
+          "m": "SiSikzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SiSikzamARa",
+          "m": "SiSikzamARaH",
+          "f": "SiSikzamARA",
+          "n": "SiSikzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SiSikzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SiSikzaka",
+          "m": "SiSikzakaH",
+          "f": "SiSikzikA",
+          "n": "SiSikzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SiSikzitavya",
+          "m": "SiSikzitavyaH",
+          "f": "SiSikzitavyA",
+          "n": "SiSikzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SiSikzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SiSikzitf",
+          "m": "SiSikzitA",
+          "f": "SiSikzitrI",
+          "n": "SiSikzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SiSikzyamARa",
+          "m": "SiSikzyamARaH",
+          "f": "SiSikzyamARA",
+          "n": "SiSikzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SiSikzya",
+          "m": "SiSikzyaH",
+          "f": "SiSikzyA",
+          "n": "SiSikzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSiSikzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SiSikzaRa",
+          "m": "",
+          "f": "",
+          "n": "SiSikzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SiSikzaka",
+          "m": "SiSikzakaH",
+          "f": "SiSikzikA",
+          "n": "SiSikzakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SiSikzat",
+          "m": "SiSikzan",
+          "f": "SiSikzantI",
+          "n": "SiSikzat/SiSikzad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SiSikzizyamARa",
+          "m": "SiSikzizyamARaH",
+          "f": "SiSikzizyamARA",
+          "n": "SiSikzizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SiSikzizyat",
+          "m": "SiSikzizyan",
+          "f": "SiSikzizyatI/SiSikzizyantI",
+          "n": "SiSikzizyat/SiSikzizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "Seza",
+          "m": "SezaH",
+          "f": "SezA",
+          "n": "Sezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SezaRIya",
+          "m": "SezaRIyaH",
+          "f": "SezaRIyA",
+          "n": "SezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Sezita",
+          "m": "SezitaH",
+          "f": "SezitA",
+          "n": "Sezitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Sezitavat",
+          "m": "SezitavAn",
+          "f": "SezitavatI",
+          "n": "Sezitavat/Sezitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Sezwi",
+          "m": "",
+          "f": "SezwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SezayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SezayAmbaBUvas",
+          "m": "SezayAmbaBUvAn",
+          "f": "SezayAmbaBUzI",
+          "n": "SezayAmbaBUvat/SezayAmbaBUvad"
+        },
+        {
+          "base": "SezayAmAsivas",
+          "m": "SezayAmAsivAn",
+          "f": "SezayAmAsyuzI",
+          "n": "SezayAmAsivat/SezayAmAsivad"
+        },
+        {
+          "base": "SezayAYcakfvas",
+          "m": "SezayAYcakfvAn",
+          "f": "SezayAYcakruzI",
+          "n": "SezayAYcakfvat/SezayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SezayamARa",
+          "m": "SezayamARaH",
+          "f": "SezayamARA",
+          "n": "SezayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Sezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Sezaka",
+          "m": "SezakaH",
+          "f": "SezikA",
+          "n": "Sezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Sezayitavya",
+          "m": "SezayitavyaH",
+          "f": "SezayitavyA",
+          "n": "Sezayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Sezayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Sezayitf",
+          "m": "SezayitA",
+          "f": "SezayitrI",
+          "n": "Sezayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SezyamARa",
+          "m": "SezyamARaH",
+          "f": "SezyamARA",
+          "n": "SezyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Sezya",
+          "m": "SezyaH",
+          "f": "SezyA",
+          "n": "Sezyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSezya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SezaRa",
+          "m": "",
+          "f": "",
+          "n": "SezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Sezaka",
+          "m": "SezakaH",
+          "f": "SezikA",
+          "n": "Sezakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Sezayat",
+          "m": "Sezayan",
+          "f": "SezayantI",
+          "n": "Sezayat/Sezayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SezayamARa",
+          "m": "SezayamARaH",
+          "f": "SezayamARA",
+          "n": "SezayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SezizyamARa",
+          "m": "SezizyamARaH",
+          "f": "SezizyamARA",
+          "n": "SezizyamARam"
+        },
+        {
+          "base": "SezayizyamARa",
+          "m": "SezayizyamARaH",
+          "f": "SezayizyamARA",
+          "n": "SezayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Sezayizyat",
+          "m": "Sezayizyan",
+          "f": "SezayizyatI/SezayizyantI",
+          "n": "Sezayizyat/Sezayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SezayizyamARa",
+          "m": "SezayizyamARaH",
+          "f": "SezayizyamARA",
+          "n": "SezayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "SeSizA",
+          "m": "",
+          "f": "SeSizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SeSiza",
+          "m": "SeSizaH",
+          "f": "SeSizA",
+          "n": "SeSizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SeSizaRIya",
+          "m": "SeSizaRIyaH",
+          "f": "SeSizaRIyA",
+          "n": "SeSizaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SeSizita",
+          "m": "SeSizitaH",
+          "f": "SeSizitA",
+          "n": "SeSizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SeSizitavat",
+          "m": "SeSizitavAn",
+          "f": "SeSizitavatI",
+          "n": "SeSizitavat/SeSizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SeSizwi",
+          "m": "",
+          "f": "SeSizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SeSizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SeSizAmbaBUvas",
+          "m": "SeSizAmbaBUvAn",
+          "f": "SeSizAmbaBUzI",
+          "n": "SeSizAmbaBUvat/SeSizAmbaBUvad"
+        },
+        {
+          "base": "SeSizAmAsivas",
+          "m": "SeSizAmAsivAn",
+          "f": "SeSizAmAsyuzI",
+          "n": "SeSizAmAsivat/SeSizAmAsivad"
+        },
+        {
+          "base": "SeSizAYcakfvas",
+          "m": "SeSizAYcakfvAn",
+          "f": "SeSizAYcakruzI",
+          "n": "SeSizAYcakfvat/SeSizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SeSiza",
+          "m": "SeSizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SeSizyamARa",
+          "m": "SeSizyamARaH",
+          "f": "SeSizyamARA",
+          "n": "SeSizyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SeSizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SeSizaka",
+          "m": "SeSizakaH",
+          "f": "SeSizikA",
+          "n": "SeSizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SeSizitavya",
+          "m": "SeSizitavyaH",
+          "f": "SeSizitavyA",
+          "n": "SeSizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SeSizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SeSizitf",
+          "m": "SeSizitA",
+          "f": "SeSizitrI",
+          "n": "SeSizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SeSizyamARa",
+          "m": "SeSizyamARaH",
+          "f": "SeSizyamARA",
+          "n": "SeSizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SeSizya",
+          "m": "SeSizyaH",
+          "f": "SeSizyA",
+          "n": "SeSizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSeSizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SeSizaRa",
+          "m": "",
+          "f": "",
+          "n": "SeSizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SeSizaka",
+          "m": "SeSizakaH",
+          "f": "SeSizikA",
+          "n": "SeSizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SeSizyamARa",
+          "m": "SeSizyamARaH",
+          "f": "SeSizyamARA",
+          "n": "SeSizyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SeSizizyamARa",
+          "m": "SeSizizyamARaH",
+          "f": "SeSizizyamARA",
+          "n": "SeSizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SeSizizyamARa",
+          "m": "SeSizizyamARaH",
+          "f": "SeSizizyamARA",
+          "n": "SeSizizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "SeSezA",
+          "m": "",
+          "f": "SeSezA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SeSeza",
+          "m": "SeSezaH",
+          "f": "SeSezA",
+          "n": "SeSezam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SeSezaRIya",
+          "m": "SeSezaRIyaH",
+          "f": "SeSezaRIyA",
+          "n": "SeSezaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SeSizita",
+          "m": "SeSizitaH",
+          "f": "SeSizitA",
+          "n": "SeSizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SeSizitavat",
+          "m": "SeSizitavAn",
+          "f": "SeSizitavatI",
+          "n": "SeSizitavat/SeSizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SeSizwi",
+          "m": "",
+          "f": "SeSizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SeSezitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SeSezAmbaBUvas",
+          "m": "SeSezAmbaBUvAn",
+          "f": "SeSezAmbaBUzI",
+          "n": "SeSezAmbaBUvat/SeSezAmbaBUvad"
+        },
+        {
+          "base": "SeSezAmAsivas",
+          "m": "SeSezAmAsivAn",
+          "f": "SeSezAmAsyuzI",
+          "n": "SeSezAmAsivat/SeSezAmAsivad"
+        },
+        {
+          "base": "SeSezAYcakfvas",
+          "m": "SeSezAYcakfvAn",
+          "f": "SeSezAYcakruzI",
+          "n": "SeSezAYcakfvat/SeSezAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SeSeza",
+          "m": "SeSezaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SeSizARa",
+          "m": "SeSizARaH",
+          "f": "SeSizARA",
+          "n": "SeSizARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SeSezam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SeSezaka",
+          "m": "SeSezakaH",
+          "f": "SeSezikA",
+          "n": "SeSezakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SeSezitavya",
+          "m": "SeSezitavyaH",
+          "f": "SeSezitavyA",
+          "n": "SeSezitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SeSezitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SeSezitf",
+          "m": "SeSezitA",
+          "f": "SeSezitrI",
+          "n": "SeSezitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SeSizyamARa",
+          "m": "SeSizyamARaH",
+          "f": "SeSizyamARA",
+          "n": "SeSizyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSeSizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SeSezaRa",
+          "m": "",
+          "f": "",
+          "n": "SeSezaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SeSezaka",
+          "m": "SeSezakaH",
+          "f": "SeSezikA",
+          "n": "SeSezakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SeSizat",
+          "m": "SeSizat/SeSizad",
+          "f": "SeSizatI",
+          "n": "SeSizat/SeSizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SeSezizyamARa",
+          "m": "SeSezizyamARaH",
+          "f": "SeSezizyamARA",
+          "n": "SeSezizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SeSezizyat",
+          "m": "SeSezizyan",
+          "f": "SeSezizyatI/SeSezizyantI",
+          "n": "SeSezizyat/SeSezizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Siz",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [
+    {
+      "form": "SiSeza",
+      "lakaar": "liwlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "SiSupAlavaDam",
+          "reference": "3.62",
+          "text": "viSezako vA viSiSeza yasyAH",
+          "external": "https://sanskritsahitya.org/shishupalavadham/3.62"
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {}
+}

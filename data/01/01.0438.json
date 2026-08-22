@@ -1,0 +1,1606 @@
+{
+  "id": "01.0438",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "abi~"
+    },
+    {
+      "name": "arTaH",
+      "value": "Sabde"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to sound"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "Sabda karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "378"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "378"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2301",
+      "ext_link": "/sutraani/sk2301?scroll=sutra-commentary-kaumudi-region&highlight=abai"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "ambizIzwa",
+        "ambizIyAstAm",
+        "ambizIran",
+        "ambizIzWAH",
+        "ambizIyAsTAm",
+        "ambizIDvam",
+        "ambizIya",
+        "ambizIvahi",
+        "ambizImahi"
+      ],
+      "alang": [
+        "Ambata",
+        "AmbetAm",
+        "Ambanta",
+        "AmbaTAH",
+        "AmbeTAm",
+        "AmbaDvam",
+        "Ambe",
+        "AmbAvahi",
+        "AmbAmahi"
+      ],
+      "alat": [
+        "ambate",
+        "ambete",
+        "ambante",
+        "ambase",
+        "ambeTe",
+        "ambaDve",
+        "ambe",
+        "ambAvahe",
+        "ambAmahe"
+      ],
+      "alit": [
+        "Anambe",
+        "AnambAte",
+        "Anambire",
+        "Anambize",
+        "AnambATe",
+        "AnambiDve",
+        "Anambe",
+        "Anambivahe",
+        "Anambimahe"
+      ],
+      "alot": [
+        "ambatAm",
+        "ambetAm",
+        "ambantAm",
+        "ambasva",
+        "ambeTAm",
+        "ambaDvam",
+        "ambE",
+        "ambAvahE",
+        "ambAmahE"
+      ],
+      "alrung": [
+        "Ambizyata",
+        "AmbizyetAm",
+        "Ambizyanta",
+        "AmbizyaTAH",
+        "AmbizyeTAm",
+        "AmbizyaDvam",
+        "Ambizye",
+        "AmbizyAvahi",
+        "AmbizyAmahi"
+      ],
+      "alrut": [
+        "ambizyate",
+        "ambizyete",
+        "ambizyante",
+        "ambizyase",
+        "ambizyeTe",
+        "ambizyaDve",
+        "ambizye",
+        "ambizyAvahe",
+        "ambizyAmahe"
+      ],
+      "alung": [
+        "Ambizwa",
+        "AmbizAtAm",
+        "Ambizata",
+        "AmbizWAH",
+        "AmbizATAm",
+        "AmbiDvam",
+        "Ambizi",
+        "Ambizvahi",
+        "Ambizmahi"
+      ],
+      "alut": [
+        "ambitA",
+        "ambitArO",
+        "ambitAraH",
+        "ambitAse",
+        "ambitAsATe",
+        "ambitADve",
+        "ambitAhe",
+        "ambitAsvahe",
+        "ambitAsmahe"
+      ],
+      "avidhiling": [
+        "ambeta",
+        "ambeyAtAm",
+        "amberan",
+        "ambeTAH",
+        "ambeyATAm",
+        "ambeDvam",
+        "ambeya",
+        "ambevahi",
+        "ambemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "ambizIzwa",
+        "ambizIyAstAm",
+        "ambizIran",
+        "ambizIzWAH",
+        "ambizIyAsTAm",
+        "ambizIDvam",
+        "ambizIya",
+        "ambizIvahi",
+        "ambizImahi"
+      ],
+      "alang": [
+        "Ambyata",
+        "AmbyetAm",
+        "Ambyanta",
+        "AmbyaTAH",
+        "AmbyeTAm",
+        "AmbyaDvam",
+        "Ambye",
+        "AmbyAvahi",
+        "AmbyAmahi"
+      ],
+      "alat": [
+        "ambyate",
+        "ambyete",
+        "ambyante",
+        "ambyase",
+        "ambyeTe",
+        "ambyaDve",
+        "ambye",
+        "ambyAvahe",
+        "ambyAmahe"
+      ],
+      "alit": [
+        "Anambe",
+        "AnambAte",
+        "Anambire",
+        "Anambize",
+        "AnambATe",
+        "AnambiDve",
+        "Anambe",
+        "Anambivahe",
+        "Anambimahe"
+      ],
+      "alot": [
+        "ambyatAm",
+        "ambyetAm",
+        "ambyantAm",
+        "ambyasva",
+        "ambyeTAm",
+        "ambyaDvam",
+        "ambyE",
+        "ambyAvahE",
+        "ambyAmahE"
+      ],
+      "alrung": [
+        "Ambizyata",
+        "AmbizyetAm",
+        "Ambizyanta",
+        "AmbizyaTAH",
+        "AmbizyeTAm",
+        "AmbizyaDvam",
+        "Ambizye",
+        "AmbizyAvahi",
+        "AmbizyAmahi"
+      ],
+      "alrut": [
+        "ambizyate",
+        "ambizyete",
+        "ambizyante",
+        "ambizyase",
+        "ambizyeTe",
+        "ambizyaDve",
+        "ambizye",
+        "ambizyAvahe",
+        "ambizyAmahe"
+      ],
+      "alung": [
+        "Ambi",
+        "AmbizAtAm",
+        "Ambizata",
+        "AmbizWAH",
+        "AmbizATAm",
+        "AmbiDvam",
+        "Ambizi",
+        "Ambizvahi",
+        "Ambizmahi"
+      ],
+      "alut": [
+        "ambitA",
+        "ambitArO",
+        "ambitAraH",
+        "ambitAse",
+        "ambitAsATe",
+        "ambitADve",
+        "ambitAhe",
+        "ambitAsvahe",
+        "ambitAsmahe"
+      ],
+      "avidhiling": [
+        "ambyeta",
+        "ambyeyAtAm",
+        "ambyeran",
+        "ambyeTAH",
+        "ambyeyATAm",
+        "ambyeDvam",
+        "ambyeya",
+        "ambyevahi",
+        "ambyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "ambibizizIzwa",
+        "ambibizizIyAstAm",
+        "ambibizizIran",
+        "ambibizizIzWAH",
+        "ambibizizIyAsTAm",
+        "ambibizizIDvam",
+        "ambibizizIya",
+        "ambibizizIvahi",
+        "ambibizizImahi"
+      ],
+      "alang": [
+        "Ambibizata",
+        "AmbibizetAm",
+        "Ambibizanta",
+        "AmbibizaTAH",
+        "AmbibizeTAm",
+        "AmbibizaDvam",
+        "Ambibize",
+        "AmbibizAvahi",
+        "AmbibizAmahi"
+      ],
+      "alat": [
+        "ambibizate",
+        "ambibizete",
+        "ambibizante",
+        "ambibizase",
+        "ambibizeTe",
+        "ambibizaDve",
+        "ambibize",
+        "ambibizAvahe",
+        "ambibizAmahe"
+      ],
+      "alit": [
+        "ambibizAYcakre",
+        "ambibizAmAsa",
+        "ambibizAmbaBUva",
+        "ambibizAYcakrAte",
+        "ambibizAmAsatuH",
+        "ambibizAmbaBUvatuH",
+        "ambibizAYcakrire",
+        "ambibizAmAsuH",
+        "ambibizAmbaBUvuH",
+        "ambibizAYcakfze",
+        "ambibizAmAsiTa",
+        "ambibizAmbaBUviTa",
+        "ambibizAYcakrATe",
+        "ambibizAmAsaTuH",
+        "ambibizAmbaBUvaTuH",
+        "ambibizAYcakfQve",
+        "ambibizAmAsa",
+        "ambibizAmbaBUva",
+        "ambibizAYcakre",
+        "ambibizAmAsa",
+        "ambibizAmbaBUva",
+        "ambibizAYcakfvahe",
+        "ambibizAmAsiva",
+        "ambibizAmbaBUviva",
+        "ambibizAYcakfmahe",
+        "ambibizAmAsima",
+        "ambibizAmbaBUvima"
+      ],
+      "alot": [
+        "ambibizatAm",
+        "ambibizetAm",
+        "ambibizantAm",
+        "ambibizasva",
+        "ambibizeTAm",
+        "ambibizaDvam",
+        "ambibizE",
+        "ambibizAvahE",
+        "ambibizAmahE"
+      ],
+      "alrung": [
+        "Ambibizizyata",
+        "AmbibizizyetAm",
+        "Ambibizizyanta",
+        "AmbibizizyaTAH",
+        "AmbibizizyeTAm",
+        "AmbibizizyaDvam",
+        "Ambibizizye",
+        "AmbibizizyAvahi",
+        "AmbibizizyAmahi"
+      ],
+      "alrut": [
+        "ambibizizyate",
+        "ambibizizyete",
+        "ambibizizyante",
+        "ambibizizyase",
+        "ambibizizyeTe",
+        "ambibizizyaDve",
+        "ambibizizye",
+        "ambibizizyAvahe",
+        "ambibizizyAmahe"
+      ],
+      "alung": [
+        "Ambibizizwa",
+        "AmbibizizAtAm",
+        "Ambibizizata",
+        "AmbibizizWAH",
+        "AmbibizizATAm",
+        "AmbibiziDvam",
+        "Ambibizizi",
+        "Ambibizizvahi",
+        "Ambibizizmahi"
+      ],
+      "alut": [
+        "ambibizitA",
+        "ambibizitArO",
+        "ambibizitAraH",
+        "ambibizitAse",
+        "ambibizitAsATe",
+        "ambibizitADve",
+        "ambibizitAhe",
+        "ambibizitAsvahe",
+        "ambibizitAsmahe"
+      ],
+      "avidhiling": [
+        "ambibizeta",
+        "ambibizeyAtAm",
+        "ambibizeran",
+        "ambibizeTAH",
+        "ambibizeyATAm",
+        "ambibizeDvam",
+        "ambibizeya",
+        "ambibizevahi",
+        "ambibizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ambibizizIzwa",
+        "ambibizizIyAstAm",
+        "ambibizizIran",
+        "ambibizizIzWAH",
+        "ambibizizIyAsTAm",
+        "ambibizizIDvam",
+        "ambibizizIya",
+        "ambibizizIvahi",
+        "ambibizizImahi"
+      ],
+      "alang": [
+        "Ambibizyata",
+        "AmbibizyetAm",
+        "Ambibizyanta",
+        "AmbibizyaTAH",
+        "AmbibizyeTAm",
+        "AmbibizyaDvam",
+        "Ambibizye",
+        "AmbibizyAvahi",
+        "AmbibizyAmahi"
+      ],
+      "alat": [
+        "ambibizyate",
+        "ambibizyete",
+        "ambibizyante",
+        "ambibizyase",
+        "ambibizyeTe",
+        "ambibizyaDve",
+        "ambibizye",
+        "ambibizyAvahe",
+        "ambibizyAmahe"
+      ],
+      "alit": [
+        "ambibizAYcakre",
+        "ambibizAmAse",
+        "ambibizAmbaBUve",
+        "ambibizAYcakrAte",
+        "ambibizAmAsAte",
+        "ambibizAmbaBUvAte",
+        "ambibizAYcakrire",
+        "ambibizAmAsire",
+        "ambibizAmbaBUvire",
+        "ambibizAYcakfze",
+        "ambibizAmAsize",
+        "ambibizAmbaBUvize",
+        "ambibizAYcakrATe",
+        "ambibizAmAsATe",
+        "ambibizAmbaBUvATe",
+        "ambibizAYcakfQve",
+        "ambibizAmAsiDve",
+        "ambibizAmbaBUviQve",
+        "ambibizAYcakre",
+        "ambibizAmAhe",
+        "ambibizAmbaBUve",
+        "ambibizAYcakfvahe",
+        "ambibizAmAsivahe",
+        "ambibizAmbaBUvivahe",
+        "ambibizAYcakfmahe",
+        "ambibizAmAsimahe",
+        "ambibizAmbaBUvimahe"
+      ],
+      "alot": [
+        "ambibizyatAm",
+        "ambibizyetAm",
+        "ambibizyantAm",
+        "ambibizyasva",
+        "ambibizyeTAm",
+        "ambibizyaDvam",
+        "ambibizyE",
+        "ambibizyAvahE",
+        "ambibizyAmahE"
+      ],
+      "alrung": [
+        "Ambibizizyata",
+        "AmbibizizyetAm",
+        "Ambibizizyanta",
+        "AmbibizizyaTAH",
+        "AmbibizizyeTAm",
+        "AmbibizizyaDvam",
+        "Ambibizizye",
+        "AmbibizizyAvahi",
+        "AmbibizizyAmahi"
+      ],
+      "alrut": [
+        "ambibizizyate",
+        "ambibizizyete",
+        "ambibizizyante",
+        "ambibizizyase",
+        "ambibizizyeTe",
+        "ambibizizyaDve",
+        "ambibizizye",
+        "ambibizizyAvahe",
+        "ambibizizyAmahe"
+      ],
+      "alung": [
+        "Ambibizi",
+        "AmbibizizAtAm",
+        "Ambibizizata",
+        "AmbibizizWAH",
+        "AmbibizizATAm",
+        "AmbibiziDvam",
+        "Ambibizizi",
+        "Ambibizizvahi",
+        "Ambibizizmahi"
+      ],
+      "alut": [
+        "ambibizitA",
+        "ambibizitArO",
+        "ambibizitAraH",
+        "ambibizitAse",
+        "ambibizitAsATe",
+        "ambibizitADve",
+        "ambibizitAhe",
+        "ambibizitAsvahe",
+        "ambibizitAsmahe"
+      ],
+      "avidhiling": [
+        "ambibizyeta",
+        "ambibizyeyAtAm",
+        "ambibizyeran",
+        "ambibizyeTAH",
+        "ambibizyeyATAm",
+        "ambibizyeDvam",
+        "ambibizyeya",
+        "ambibizyevahi",
+        "ambibizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "ambayizIzwa",
+        "ambayizIyAstAm",
+        "ambayizIran",
+        "ambayizIzWAH",
+        "ambayizIyAsTAm",
+        "ambayizIQvam",
+        "ambayizIDvam",
+        "ambayizIya",
+        "ambayizIvahi",
+        "ambayizImahi"
+      ],
+      "alang": [
+        "Ambayata",
+        "AmbayetAm",
+        "Ambayanta",
+        "AmbayaTAH",
+        "AmbayeTAm",
+        "AmbayaDvam",
+        "Ambaye",
+        "AmbayAvahi",
+        "AmbayAmahi"
+      ],
+      "alat": [
+        "ambayate",
+        "ambayete",
+        "ambayante",
+        "ambayase",
+        "ambayeTe",
+        "ambayaDve",
+        "ambaye",
+        "ambayAvahe",
+        "ambayAmahe"
+      ],
+      "alit": [
+        "ambayAYcakre",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakrAte",
+        "ambayAmAsatuH",
+        "ambayAmbaBUvatuH",
+        "ambayAYcakrire",
+        "ambayAmAsuH",
+        "ambayAmbaBUvuH",
+        "ambayAYcakfze",
+        "ambayAmAsiTa",
+        "ambayAmbaBUviTa",
+        "ambayAYcakrATe",
+        "ambayAmAsaTuH",
+        "ambayAmbaBUvaTuH",
+        "ambayAYcakfQve",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakre",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakfvahe",
+        "ambayAmAsiva",
+        "ambayAmbaBUviva",
+        "ambayAYcakfmahe",
+        "ambayAmAsima",
+        "ambayAmbaBUvima"
+      ],
+      "alot": [
+        "ambayatAm",
+        "ambayetAm",
+        "ambayantAm",
+        "ambayasva",
+        "ambayeTAm",
+        "ambayaDvam",
+        "ambayE",
+        "ambayAvahE",
+        "ambayAmahE"
+      ],
+      "alrung": [
+        "Ambayizyata",
+        "AmbayizyetAm",
+        "Ambayizyanta",
+        "AmbayizyaTAH",
+        "AmbayizyeTAm",
+        "AmbayizyaDvam",
+        "Ambayizye",
+        "AmbayizyAvahi",
+        "AmbayizyAmahi"
+      ],
+      "alrut": [
+        "ambayizyate",
+        "ambayizyete",
+        "ambayizyante",
+        "ambayizyase",
+        "ambayizyeTe",
+        "ambayizyaDve",
+        "ambayizye",
+        "ambayizyAvahe",
+        "ambayizyAmahe"
+      ],
+      "alung": [
+        "Ambibata",
+        "AmbibetAm",
+        "Ambibanta",
+        "AmbibaTAH",
+        "AmbibeTAm",
+        "AmbibaDvam",
+        "Ambibe",
+        "AmbibAvahi",
+        "AmbibAmahi"
+      ],
+      "alut": [
+        "ambayitA",
+        "ambayitArO",
+        "ambayitAraH",
+        "ambayitAse",
+        "ambayitAsATe",
+        "ambayitADve",
+        "ambayitAhe",
+        "ambayitAsvahe",
+        "ambayitAsmahe"
+      ],
+      "avidhiling": [
+        "ambayeta",
+        "ambayeyAtAm",
+        "ambayeran",
+        "ambayeTAH",
+        "ambayeyATAm",
+        "ambayeDvam",
+        "ambayeya",
+        "ambayevahi",
+        "ambayemahi"
+      ],
+      "pashirling": [
+        "ambyAt",
+        "ambyAd",
+        "ambyAstAm",
+        "ambyAsuH",
+        "ambyAH",
+        "ambyAstam",
+        "ambyAsta",
+        "ambyAsam",
+        "ambyAsva",
+        "ambyAsma"
+      ],
+      "plang": [
+        "Ambayat",
+        "Ambayad",
+        "AmbayatAm",
+        "Ambayan",
+        "AmbayaH",
+        "Ambayatam",
+        "Ambayata",
+        "Ambayam",
+        "AmbayAva",
+        "AmbayAma"
+      ],
+      "plat": [
+        "ambayati",
+        "ambayataH",
+        "ambayanti",
+        "ambayasi",
+        "ambayaTaH",
+        "ambayaTa",
+        "ambayAmi",
+        "ambayAvaH",
+        "ambayAmaH"
+      ],
+      "plit": [
+        "ambayAYcakAra",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakratuH",
+        "ambayAmAsatuH",
+        "ambayAmbaBUvatuH",
+        "ambayAYcakruH",
+        "ambayAmAsuH",
+        "ambayAmbaBUvuH",
+        "ambayAYcakarTa",
+        "ambayAmAsiTa",
+        "ambayAmbaBUviTa",
+        "ambayAYcakraTuH",
+        "ambayAmAsaTuH",
+        "ambayAmbaBUvaTuH",
+        "ambayAYcakra",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakara",
+        "ambayAYcakAra",
+        "ambayAmAsa",
+        "ambayAmbaBUva",
+        "ambayAYcakfva",
+        "ambayAmAsiva",
+        "ambayAmbaBUviva",
+        "ambayAYcakfma",
+        "ambayAmAsima",
+        "ambayAmbaBUvima"
+      ],
+      "plot": [
+        "ambayatAt",
+        "ambayatAd",
+        "ambayatu",
+        "ambayatAm",
+        "ambayantu",
+        "ambaya",
+        "ambayatAt",
+        "ambayatAd",
+        "ambayatam",
+        "ambayata",
+        "ambayAni",
+        "ambayAva",
+        "ambayAma"
+      ],
+      "plrung": [
+        "Ambayizyat",
+        "Ambayizyad",
+        "AmbayizyatAm",
+        "Ambayizyan",
+        "AmbayizyaH",
+        "Ambayizyatam",
+        "Ambayizyata",
+        "Ambayizyam",
+        "AmbayizyAva",
+        "AmbayizyAma"
+      ],
+      "plrut": [
+        "ambayizyati",
+        "ambayizyataH",
+        "ambayizyanti",
+        "ambayizyasi",
+        "ambayizyaTaH",
+        "ambayizyaTa",
+        "ambayizyAmi",
+        "ambayizyAvaH",
+        "ambayizyAmaH"
+      ],
+      "plung": [
+        "Ambibat",
+        "Ambibad",
+        "AmbibatAm",
+        "Ambiban",
+        "AmbibaH",
+        "Ambibatam",
+        "Ambibata",
+        "Ambibam",
+        "AmbibAva",
+        "AmbibAma"
+      ],
+      "plut": [
+        "ambayitA",
+        "ambayitArO",
+        "ambayitAraH",
+        "ambayitAsi",
+        "ambayitAsTaH",
+        "ambayitAsTa",
+        "ambayitAsmi",
+        "ambayitAsvaH",
+        "ambayitAsmaH"
+      ],
+      "pvidhiling": [
+        "ambayet",
+        "ambayed",
+        "ambayetAm",
+        "ambayeyuH",
+        "ambayeH",
+        "ambayetam",
+        "ambayeta",
+        "ambayeyam",
+        "ambayeva",
+        "ambayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "ambayizIzwa",
+        "ambizIzwa",
+        "ambayizIyAstAm",
+        "ambizIyAstAm",
+        "ambayizIran",
+        "ambizIran",
+        "ambayizIzWAH",
+        "ambizIzWAH",
+        "ambayizIyAsTAm",
+        "ambizIyAsTAm",
+        "ambayizIQvam",
+        "ambayizIDvam",
+        "ambizIDvam",
+        "ambayizIya",
+        "ambizIya",
+        "ambayizIvahi",
+        "ambizIvahi",
+        "ambayizImahi",
+        "ambizImahi"
+      ],
+      "alang": [
+        "Ambyata",
+        "AmbyetAm",
+        "Ambyanta",
+        "AmbyaTAH",
+        "AmbyeTAm",
+        "AmbyaDvam",
+        "Ambye",
+        "AmbyAvahi",
+        "AmbyAmahi"
+      ],
+      "alat": [
+        "ambyate",
+        "ambyete",
+        "ambyante",
+        "ambyase",
+        "ambyeTe",
+        "ambyaDve",
+        "ambye",
+        "ambyAvahe",
+        "ambyAmahe"
+      ],
+      "alit": [
+        "ambayAYcakre",
+        "ambayAmAse",
+        "ambayAmbaBUve",
+        "ambayAYcakrAte",
+        "ambayAmAsAte",
+        "ambayAmbaBUvAte",
+        "ambayAYcakrire",
+        "ambayAmAsire",
+        "ambayAmbaBUvire",
+        "ambayAYcakfze",
+        "ambayAmAsize",
+        "ambayAmbaBUvize",
+        "ambayAYcakrATe",
+        "ambayAmAsATe",
+        "ambayAmbaBUvATe",
+        "ambayAYcakfQve",
+        "ambayAmAsiDve",
+        "ambayAmbaBUviQve",
+        "ambayAYcakre",
+        "ambayAmAhe",
+        "ambayAmbaBUve",
+        "ambayAYcakfvahe",
+        "ambayAmAsivahe",
+        "ambayAmbaBUvivahe",
+        "ambayAYcakfmahe",
+        "ambayAmAsimahe",
+        "ambayAmbaBUvimahe"
+      ],
+      "alot": [
+        "ambyatAm",
+        "ambyetAm",
+        "ambyantAm",
+        "ambyasva",
+        "ambyeTAm",
+        "ambyaDvam",
+        "ambyE",
+        "ambyAvahE",
+        "ambyAmahE"
+      ],
+      "alrung": [
+        "Ambayizyata",
+        "Ambizyata",
+        "AmbayizyetAm",
+        "AmbizyetAm",
+        "Ambayizyanta",
+        "Ambizyanta",
+        "AmbayizyaTAH",
+        "AmbizyaTAH",
+        "AmbayizyeTAm",
+        "AmbizyeTAm",
+        "AmbayizyaDvam",
+        "AmbizyaDvam",
+        "Ambayizye",
+        "Ambizye",
+        "AmbayizyAvahi",
+        "AmbizyAvahi",
+        "AmbayizyAmahi",
+        "AmbizyAmahi"
+      ],
+      "alrut": [
+        "ambayizyate",
+        "ambizyate",
+        "ambayizyete",
+        "ambizyete",
+        "ambayizyante",
+        "ambizyante",
+        "ambayizyase",
+        "ambizyase",
+        "ambayizyeTe",
+        "ambizyeTe",
+        "ambayizyaDve",
+        "ambizyaDve",
+        "ambayizye",
+        "ambizye",
+        "ambayizyAvahe",
+        "ambizyAvahe",
+        "ambayizyAmahe",
+        "ambizyAmahe"
+      ],
+      "alung": [
+        "Ambi",
+        "AmbayizAtAm",
+        "AmbizAtAm",
+        "Ambayizata",
+        "Ambizata",
+        "AmbayizWAH",
+        "AmbizWAH",
+        "AmbayizATAm",
+        "AmbizATAm",
+        "AmbayiQvam",
+        "AmbayiDvam",
+        "AmbiDvam",
+        "Ambayizi",
+        "Ambizi",
+        "Ambayizvahi",
+        "Ambizvahi",
+        "Ambayizmahi",
+        "Ambizmahi"
+      ],
+      "alut": [
+        "ambayitA",
+        "ambitA",
+        "ambayitArO",
+        "ambitArO",
+        "ambayitAraH",
+        "ambitAraH",
+        "ambayitAse",
+        "ambitAse",
+        "ambayitAsATe",
+        "ambitAsATe",
+        "ambayitADve",
+        "ambitADve",
+        "ambayitAhe",
+        "ambitAhe",
+        "ambayitAsvahe",
+        "ambitAsvahe",
+        "ambayitAsmahe",
+        "ambitAsmahe"
+      ],
+      "avidhiling": [
+        "ambyeta",
+        "ambyeyAtAm",
+        "ambyeran",
+        "ambyeTAH",
+        "ambyeyATAm",
+        "ambyeDvam",
+        "ambyeya",
+        "ambyevahi",
+        "ambyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "ambA",
+          "m": "",
+          "f": "ambA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "amba",
+          "m": "ambaH",
+          "f": "ambA",
+          "n": "ambam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ambanIya",
+          "m": "ambanIyaH",
+          "f": "ambanIyA",
+          "n": "ambanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ambita",
+          "m": "ambitaH",
+          "f": "ambitA",
+          "n": "ambitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ambitavat",
+          "m": "ambitavAn",
+          "f": "ambitavatI",
+          "n": "ambitavat/ambitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ampti",
+          "m": "",
+          "f": "amptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ambitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "Anambivas",
+          "m": "AnambivAn",
+          "f": "AnambuzI",
+          "n": "Anambivat/Anambivad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "amba",
+          "m": "ambaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ambamAna",
+          "m": "ambamAnaH",
+          "f": "ambamAnA",
+          "n": "ambamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ambam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "ambya",
+          "m": "ambyaH",
+          "f": "ambyA",
+          "n": "ambyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ambaka",
+          "m": "ambakaH",
+          "f": "ambikA",
+          "n": "ambakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ambitavya",
+          "m": "ambitavyaH",
+          "f": "ambitavyA",
+          "n": "ambitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ambitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ambitf",
+          "m": "ambitA",
+          "f": "ambitrI",
+          "n": "ambitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ambyamAna",
+          "m": "ambyamAnaH",
+          "f": "ambyamAnA",
+          "n": "ambyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prAmbya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ambana",
+          "m": "",
+          "f": "",
+          "n": "ambanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ambaka",
+          "m": "ambakaH",
+          "f": "ambikA",
+          "n": "ambakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ambamAna",
+          "m": "ambamAnaH",
+          "f": "ambamAnA",
+          "n": "ambamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ambizyamARa",
+          "m": "ambizyamARaH",
+          "f": "ambizyamARA",
+          "n": "ambizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ambizyamARa",
+          "m": "ambizyamARaH",
+          "f": "ambizyamARA",
+          "n": "ambizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ambibizA",
+          "m": "",
+          "f": "ambibizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ambibiza",
+          "m": "ambibizaH",
+          "f": "ambibizA",
+          "n": "ambibizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ambibizaRIya",
+          "m": "ambibizaRIyaH",
+          "f": "ambibizaRIyA",
+          "n": "ambibizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ambibizu",
+          "m": "ambibizuH",
+          "f": "ambibizuH",
+          "n": "ambibizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ambibizita",
+          "m": "ambibizitaH",
+          "f": "ambibizitA",
+          "n": "ambibizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ambibizitavat",
+          "m": "ambibizitavAn",
+          "f": "ambibizitavatI",
+          "n": "ambibizitavat/ambibizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ambibizwi",
+          "m": "",
+          "f": "ambibizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ambibizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ambibizAmbaBUvas",
+          "m": "ambibizAmbaBUvAn",
+          "f": "ambibizAmbaBUzI",
+          "n": "ambibizAmbaBUvat/ambibizAmbaBUvad"
+        },
+        {
+          "base": "ambibizAmAsivas",
+          "m": "ambibizAmAsivAn",
+          "f": "ambibizAmAsyuzI",
+          "n": "ambibizAmAsivat/ambibizAmAsivad"
+        },
+        {
+          "base": "ambibizAYcakfvas",
+          "m": "ambibizAYcakfvAn",
+          "f": "ambibizAYcakruzI",
+          "n": "ambibizAYcakfvat/ambibizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ambibiza",
+          "m": "ambibizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ambibizamARa",
+          "m": "ambibizamARaH",
+          "f": "ambibizamARA",
+          "n": "ambibizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ambibizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ambibizaka",
+          "m": "ambibizakaH",
+          "f": "ambibizikA",
+          "n": "ambibizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ambibizitavya",
+          "m": "ambibizitavyaH",
+          "f": "ambibizitavyA",
+          "n": "ambibizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ambibizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ambibizitf",
+          "m": "ambibizitA",
+          "f": "ambibizitrI",
+          "n": "ambibizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ambibizyamARa",
+          "m": "ambibizyamARaH",
+          "f": "ambibizyamARA",
+          "n": "ambibizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ambibizya",
+          "m": "ambibizyaH",
+          "f": "ambibizyA",
+          "n": "ambibizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prAmbibizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ambibizaRa",
+          "m": "",
+          "f": "",
+          "n": "ambibizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ambibizaka",
+          "m": "ambibizakaH",
+          "f": "ambibizikA",
+          "n": "ambibizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ambibizamARa",
+          "m": "ambibizamARaH",
+          "f": "ambibizamARA",
+          "n": "ambibizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ambibizizyamARa",
+          "m": "ambibizizyamARaH",
+          "f": "ambibizizyamARA",
+          "n": "ambibizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ambibizizyamARa",
+          "m": "ambibizizyamARaH",
+          "f": "ambibizizyamARA",
+          "n": "ambibizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "amba",
+          "m": "ambaH",
+          "f": "ambA",
+          "n": "ambam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ambanIya",
+          "m": "ambanIyaH",
+          "f": "ambanIyA",
+          "n": "ambanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ambita",
+          "m": "ambitaH",
+          "f": "ambitA",
+          "n": "ambitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ambitavat",
+          "m": "ambitavAn",
+          "f": "ambitavatI",
+          "n": "ambitavat/ambitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ampti",
+          "m": "",
+          "f": "amptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ambayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ambayAmbaBUvas",
+          "m": "ambayAmbaBUvAn",
+          "f": "ambayAmbaBUzI",
+          "n": "ambayAmbaBUvat/ambayAmbaBUvad"
+        },
+        {
+          "base": "ambayAmAsivas",
+          "m": "ambayAmAsivAn",
+          "f": "ambayAmAsyuzI",
+          "n": "ambayAmAsivat/ambayAmAsivad"
+        },
+        {
+          "base": "ambayAYcakfvas",
+          "m": "ambayAYcakfvAn",
+          "f": "ambayAYcakruzI",
+          "n": "ambayAYcakfvat/ambayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ambayamAna",
+          "m": "ambayamAnaH",
+          "f": "ambayamAnA",
+          "n": "ambayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ambam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ambaka",
+          "m": "ambakaH",
+          "f": "ambikA",
+          "n": "ambakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ambayitavya",
+          "m": "ambayitavyaH",
+          "f": "ambayitavyA",
+          "n": "ambayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ambayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ambayitf",
+          "m": "ambayitA",
+          "f": "ambayitrI",
+          "n": "ambayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ambyamAna",
+          "m": "ambyamAnaH",
+          "f": "ambyamAnA",
+          "n": "ambyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ambya",
+          "m": "ambyaH",
+          "f": "ambyA",
+          "n": "ambyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prAmbya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ambana",
+          "m": "",
+          "f": "",
+          "n": "ambanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ambaka",
+          "m": "ambakaH",
+          "f": "ambikA",
+          "n": "ambakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ambayat",
+          "m": "ambayan",
+          "f": "ambayantI",
+          "n": "ambayat/ambayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ambayamAna",
+          "m": "ambayamAnaH",
+          "f": "ambayamAnA",
+          "n": "ambayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ambizyamARa",
+          "m": "ambizyamARaH",
+          "f": "ambizyamARA",
+          "n": "ambizyamARam"
+        },
+        {
+          "base": "ambayizyamARa",
+          "m": "ambayizyamARaH",
+          "f": "ambayizyamARA",
+          "n": "ambayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ambayizyat",
+          "m": "ambayizyan",
+          "f": "ambayizyatI/ambayizyantI",
+          "n": "ambayizyat/ambayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ambayizyamARa",
+          "m": "ambayizyamARaH",
+          "f": "ambayizyamARA",
+          "n": "ambayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "amb",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

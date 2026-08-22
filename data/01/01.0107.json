@@ -1,0 +1,2532 @@
+{
+  "id": "01.0107",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "maska~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "102"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "102"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2289",
+      "ext_link": "/sutraani/sk2289?scroll=sutra-commentary-kaumudi-region&highlight=masaka"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "maskizIzwa",
+        "maskizIyAstAm",
+        "maskizIran",
+        "maskizIzWAH",
+        "maskizIyAsTAm",
+        "maskizIDvam",
+        "maskizIya",
+        "maskizIvahi",
+        "maskizImahi"
+      ],
+      "alang": [
+        "amaskata",
+        "amasketAm",
+        "amaskanta",
+        "amaskaTAH",
+        "amaskeTAm",
+        "amaskaDvam",
+        "amaske",
+        "amaskAvahi",
+        "amaskAmahi"
+      ],
+      "alat": [
+        "maskate",
+        "maskete",
+        "maskante",
+        "maskase",
+        "maskeTe",
+        "maskaDve",
+        "maske",
+        "maskAvahe",
+        "maskAmahe"
+      ],
+      "alit": [
+        "mamaske",
+        "mamaskAte",
+        "mamaskire",
+        "mamaskize",
+        "mamaskATe",
+        "mamaskiDve",
+        "mamaske",
+        "mamaskivahe",
+        "mamaskimahe"
+      ],
+      "alot": [
+        "maskatAm",
+        "masketAm",
+        "maskantAm",
+        "maskasva",
+        "maskeTAm",
+        "maskaDvam",
+        "maskE",
+        "maskAvahE",
+        "maskAmahE"
+      ],
+      "alrung": [
+        "amaskizyata",
+        "amaskizyetAm",
+        "amaskizyanta",
+        "amaskizyaTAH",
+        "amaskizyeTAm",
+        "amaskizyaDvam",
+        "amaskizye",
+        "amaskizyAvahi",
+        "amaskizyAmahi"
+      ],
+      "alrut": [
+        "maskizyate",
+        "maskizyete",
+        "maskizyante",
+        "maskizyase",
+        "maskizyeTe",
+        "maskizyaDve",
+        "maskizye",
+        "maskizyAvahe",
+        "maskizyAmahe"
+      ],
+      "alung": [
+        "amaskizwa",
+        "amaskizAtAm",
+        "amaskizata",
+        "amaskizWAH",
+        "amaskizATAm",
+        "amaskiDvam",
+        "amaskizi",
+        "amaskizvahi",
+        "amaskizmahi"
+      ],
+      "alut": [
+        "maskitA",
+        "maskitArO",
+        "maskitAraH",
+        "maskitAse",
+        "maskitAsATe",
+        "maskitADve",
+        "maskitAhe",
+        "maskitAsvahe",
+        "maskitAsmahe"
+      ],
+      "avidhiling": [
+        "masketa",
+        "maskeyAtAm",
+        "maskeran",
+        "maskeTAH",
+        "maskeyATAm",
+        "maskeDvam",
+        "maskeya",
+        "maskevahi",
+        "maskemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "maskizIzwa",
+        "maskizIyAstAm",
+        "maskizIran",
+        "maskizIzWAH",
+        "maskizIyAsTAm",
+        "maskizIDvam",
+        "maskizIya",
+        "maskizIvahi",
+        "maskizImahi"
+      ],
+      "alang": [
+        "amaskyata",
+        "amaskyetAm",
+        "amaskyanta",
+        "amaskyaTAH",
+        "amaskyeTAm",
+        "amaskyaDvam",
+        "amaskye",
+        "amaskyAvahi",
+        "amaskyAmahi"
+      ],
+      "alat": [
+        "maskyate",
+        "maskyete",
+        "maskyante",
+        "maskyase",
+        "maskyeTe",
+        "maskyaDve",
+        "maskye",
+        "maskyAvahe",
+        "maskyAmahe"
+      ],
+      "alit": [
+        "mamaske",
+        "mamaskAte",
+        "mamaskire",
+        "mamaskize",
+        "mamaskATe",
+        "mamaskiDve",
+        "mamaske",
+        "mamaskivahe",
+        "mamaskimahe"
+      ],
+      "alot": [
+        "maskyatAm",
+        "maskyetAm",
+        "maskyantAm",
+        "maskyasva",
+        "maskyeTAm",
+        "maskyaDvam",
+        "maskyE",
+        "maskyAvahE",
+        "maskyAmahE"
+      ],
+      "alrung": [
+        "amaskizyata",
+        "amaskizyetAm",
+        "amaskizyanta",
+        "amaskizyaTAH",
+        "amaskizyeTAm",
+        "amaskizyaDvam",
+        "amaskizye",
+        "amaskizyAvahi",
+        "amaskizyAmahi"
+      ],
+      "alrut": [
+        "maskizyate",
+        "maskizyete",
+        "maskizyante",
+        "maskizyase",
+        "maskizyeTe",
+        "maskizyaDve",
+        "maskizye",
+        "maskizyAvahe",
+        "maskizyAmahe"
+      ],
+      "alung": [
+        "amaski",
+        "amaskizAtAm",
+        "amaskizata",
+        "amaskizWAH",
+        "amaskizATAm",
+        "amaskiDvam",
+        "amaskizi",
+        "amaskizvahi",
+        "amaskizmahi"
+      ],
+      "alut": [
+        "maskitA",
+        "maskitArO",
+        "maskitAraH",
+        "maskitAse",
+        "maskitAsATe",
+        "maskitADve",
+        "maskitAhe",
+        "maskitAsvahe",
+        "maskitAsmahe"
+      ],
+      "avidhiling": [
+        "maskyeta",
+        "maskyeyAtAm",
+        "maskyeran",
+        "maskyeTAH",
+        "maskyeyATAm",
+        "maskyeDvam",
+        "maskyeya",
+        "maskyevahi",
+        "maskyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "mimaskizizIzwa",
+        "mimaskizizIyAstAm",
+        "mimaskizizIran",
+        "mimaskizizIzWAH",
+        "mimaskizizIyAsTAm",
+        "mimaskizizIDvam",
+        "mimaskizizIya",
+        "mimaskizizIvahi",
+        "mimaskizizImahi"
+      ],
+      "alang": [
+        "amimaskizata",
+        "amimaskizetAm",
+        "amimaskizanta",
+        "amimaskizaTAH",
+        "amimaskizeTAm",
+        "amimaskizaDvam",
+        "amimaskize",
+        "amimaskizAvahi",
+        "amimaskizAmahi"
+      ],
+      "alat": [
+        "mimaskizate",
+        "mimaskizete",
+        "mimaskizante",
+        "mimaskizase",
+        "mimaskizeTe",
+        "mimaskizaDve",
+        "mimaskize",
+        "mimaskizAvahe",
+        "mimaskizAmahe"
+      ],
+      "alit": [
+        "mimaskizAYcakre",
+        "mimaskizAmAsa",
+        "mimaskizAmbaBUva",
+        "mimaskizAYcakrAte",
+        "mimaskizAmAsatuH",
+        "mimaskizAmbaBUvatuH",
+        "mimaskizAYcakrire",
+        "mimaskizAmAsuH",
+        "mimaskizAmbaBUvuH",
+        "mimaskizAYcakfze",
+        "mimaskizAmAsiTa",
+        "mimaskizAmbaBUviTa",
+        "mimaskizAYcakrATe",
+        "mimaskizAmAsaTuH",
+        "mimaskizAmbaBUvaTuH",
+        "mimaskizAYcakfQve",
+        "mimaskizAmAsa",
+        "mimaskizAmbaBUva",
+        "mimaskizAYcakre",
+        "mimaskizAmAsa",
+        "mimaskizAmbaBUva",
+        "mimaskizAYcakfvahe",
+        "mimaskizAmAsiva",
+        "mimaskizAmbaBUviva",
+        "mimaskizAYcakfmahe",
+        "mimaskizAmAsima",
+        "mimaskizAmbaBUvima"
+      ],
+      "alot": [
+        "mimaskizatAm",
+        "mimaskizetAm",
+        "mimaskizantAm",
+        "mimaskizasva",
+        "mimaskizeTAm",
+        "mimaskizaDvam",
+        "mimaskizE",
+        "mimaskizAvahE",
+        "mimaskizAmahE"
+      ],
+      "alrung": [
+        "amimaskizizyata",
+        "amimaskizizyetAm",
+        "amimaskizizyanta",
+        "amimaskizizyaTAH",
+        "amimaskizizyeTAm",
+        "amimaskizizyaDvam",
+        "amimaskizizye",
+        "amimaskizizyAvahi",
+        "amimaskizizyAmahi"
+      ],
+      "alrut": [
+        "mimaskizizyate",
+        "mimaskizizyete",
+        "mimaskizizyante",
+        "mimaskizizyase",
+        "mimaskizizyeTe",
+        "mimaskizizyaDve",
+        "mimaskizizye",
+        "mimaskizizyAvahe",
+        "mimaskizizyAmahe"
+      ],
+      "alung": [
+        "amimaskizizwa",
+        "amimaskizizAtAm",
+        "amimaskizizata",
+        "amimaskizizWAH",
+        "amimaskizizATAm",
+        "amimaskiziDvam",
+        "amimaskizizi",
+        "amimaskizizvahi",
+        "amimaskizizmahi"
+      ],
+      "alut": [
+        "mimaskizitA",
+        "mimaskizitArO",
+        "mimaskizitAraH",
+        "mimaskizitAse",
+        "mimaskizitAsATe",
+        "mimaskizitADve",
+        "mimaskizitAhe",
+        "mimaskizitAsvahe",
+        "mimaskizitAsmahe"
+      ],
+      "avidhiling": [
+        "mimaskizeta",
+        "mimaskizeyAtAm",
+        "mimaskizeran",
+        "mimaskizeTAH",
+        "mimaskizeyATAm",
+        "mimaskizeDvam",
+        "mimaskizeya",
+        "mimaskizevahi",
+        "mimaskizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "mimaskizizIzwa",
+        "mimaskizizIyAstAm",
+        "mimaskizizIran",
+        "mimaskizizIzWAH",
+        "mimaskizizIyAsTAm",
+        "mimaskizizIDvam",
+        "mimaskizizIya",
+        "mimaskizizIvahi",
+        "mimaskizizImahi"
+      ],
+      "alang": [
+        "amimaskizyata",
+        "amimaskizyetAm",
+        "amimaskizyanta",
+        "amimaskizyaTAH",
+        "amimaskizyeTAm",
+        "amimaskizyaDvam",
+        "amimaskizye",
+        "amimaskizyAvahi",
+        "amimaskizyAmahi"
+      ],
+      "alat": [
+        "mimaskizyate",
+        "mimaskizyete",
+        "mimaskizyante",
+        "mimaskizyase",
+        "mimaskizyeTe",
+        "mimaskizyaDve",
+        "mimaskizye",
+        "mimaskizyAvahe",
+        "mimaskizyAmahe"
+      ],
+      "alit": [
+        "mimaskizAYcakre",
+        "mimaskizAmAse",
+        "mimaskizAmbaBUve",
+        "mimaskizAYcakrAte",
+        "mimaskizAmAsAte",
+        "mimaskizAmbaBUvAte",
+        "mimaskizAYcakrire",
+        "mimaskizAmAsire",
+        "mimaskizAmbaBUvire",
+        "mimaskizAYcakfze",
+        "mimaskizAmAsize",
+        "mimaskizAmbaBUvize",
+        "mimaskizAYcakrATe",
+        "mimaskizAmAsATe",
+        "mimaskizAmbaBUvATe",
+        "mimaskizAYcakfQve",
+        "mimaskizAmAsiDve",
+        "mimaskizAmbaBUviQve",
+        "mimaskizAYcakre",
+        "mimaskizAmAhe",
+        "mimaskizAmbaBUve",
+        "mimaskizAYcakfvahe",
+        "mimaskizAmAsivahe",
+        "mimaskizAmbaBUvivahe",
+        "mimaskizAYcakfmahe",
+        "mimaskizAmAsimahe",
+        "mimaskizAmbaBUvimahe"
+      ],
+      "alot": [
+        "mimaskizyatAm",
+        "mimaskizyetAm",
+        "mimaskizyantAm",
+        "mimaskizyasva",
+        "mimaskizyeTAm",
+        "mimaskizyaDvam",
+        "mimaskizyE",
+        "mimaskizyAvahE",
+        "mimaskizyAmahE"
+      ],
+      "alrung": [
+        "amimaskizizyata",
+        "amimaskizizyetAm",
+        "amimaskizizyanta",
+        "amimaskizizyaTAH",
+        "amimaskizizyeTAm",
+        "amimaskizizyaDvam",
+        "amimaskizizye",
+        "amimaskizizyAvahi",
+        "amimaskizizyAmahi"
+      ],
+      "alrut": [
+        "mimaskizizyate",
+        "mimaskizizyete",
+        "mimaskizizyante",
+        "mimaskizizyase",
+        "mimaskizizyeTe",
+        "mimaskizizyaDve",
+        "mimaskizizye",
+        "mimaskizizyAvahe",
+        "mimaskizizyAmahe"
+      ],
+      "alung": [
+        "amimaskizi",
+        "amimaskizizAtAm",
+        "amimaskizizata",
+        "amimaskizizWAH",
+        "amimaskizizATAm",
+        "amimaskiziDvam",
+        "amimaskizizi",
+        "amimaskizizvahi",
+        "amimaskizizmahi"
+      ],
+      "alut": [
+        "mimaskizitA",
+        "mimaskizitArO",
+        "mimaskizitAraH",
+        "mimaskizitAse",
+        "mimaskizitAsATe",
+        "mimaskizitADve",
+        "mimaskizitAhe",
+        "mimaskizitAsvahe",
+        "mimaskizitAsmahe"
+      ],
+      "avidhiling": [
+        "mimaskizyeta",
+        "mimaskizyeyAtAm",
+        "mimaskizyeran",
+        "mimaskizyeTAH",
+        "mimaskizyeyATAm",
+        "mimaskizyeDvam",
+        "mimaskizyeya",
+        "mimaskizyevahi",
+        "mimaskizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "maskayizIzwa",
+        "maskayizIyAstAm",
+        "maskayizIran",
+        "maskayizIzWAH",
+        "maskayizIyAsTAm",
+        "maskayizIQvam",
+        "maskayizIDvam",
+        "maskayizIya",
+        "maskayizIvahi",
+        "maskayizImahi"
+      ],
+      "alang": [
+        "amaskayata",
+        "amaskayetAm",
+        "amaskayanta",
+        "amaskayaTAH",
+        "amaskayeTAm",
+        "amaskayaDvam",
+        "amaskaye",
+        "amaskayAvahi",
+        "amaskayAmahi"
+      ],
+      "alat": [
+        "maskayate",
+        "maskayete",
+        "maskayante",
+        "maskayase",
+        "maskayeTe",
+        "maskayaDve",
+        "maskaye",
+        "maskayAvahe",
+        "maskayAmahe"
+      ],
+      "alit": [
+        "maskayAYcakre",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakrAte",
+        "maskayAmAsatuH",
+        "maskayAmbaBUvatuH",
+        "maskayAYcakrire",
+        "maskayAmAsuH",
+        "maskayAmbaBUvuH",
+        "maskayAYcakfze",
+        "maskayAmAsiTa",
+        "maskayAmbaBUviTa",
+        "maskayAYcakrATe",
+        "maskayAmAsaTuH",
+        "maskayAmbaBUvaTuH",
+        "maskayAYcakfQve",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakre",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakfvahe",
+        "maskayAmAsiva",
+        "maskayAmbaBUviva",
+        "maskayAYcakfmahe",
+        "maskayAmAsima",
+        "maskayAmbaBUvima"
+      ],
+      "alot": [
+        "maskayatAm",
+        "maskayetAm",
+        "maskayantAm",
+        "maskayasva",
+        "maskayeTAm",
+        "maskayaDvam",
+        "maskayE",
+        "maskayAvahE",
+        "maskayAmahE"
+      ],
+      "alrung": [
+        "amaskayizyata",
+        "amaskayizyetAm",
+        "amaskayizyanta",
+        "amaskayizyaTAH",
+        "amaskayizyeTAm",
+        "amaskayizyaDvam",
+        "amaskayizye",
+        "amaskayizyAvahi",
+        "amaskayizyAmahi"
+      ],
+      "alrut": [
+        "maskayizyate",
+        "maskayizyete",
+        "maskayizyante",
+        "maskayizyase",
+        "maskayizyeTe",
+        "maskayizyaDve",
+        "maskayizye",
+        "maskayizyAvahe",
+        "maskayizyAmahe"
+      ],
+      "alung": [
+        "amamaskata",
+        "amamasketAm",
+        "amamaskanta",
+        "amamaskaTAH",
+        "amamaskeTAm",
+        "amamaskaDvam",
+        "amamaske",
+        "amamaskAvahi",
+        "amamaskAmahi"
+      ],
+      "alut": [
+        "maskayitA",
+        "maskayitArO",
+        "maskayitAraH",
+        "maskayitAse",
+        "maskayitAsATe",
+        "maskayitADve",
+        "maskayitAhe",
+        "maskayitAsvahe",
+        "maskayitAsmahe"
+      ],
+      "avidhiling": [
+        "maskayeta",
+        "maskayeyAtAm",
+        "maskayeran",
+        "maskayeTAH",
+        "maskayeyATAm",
+        "maskayeDvam",
+        "maskayeya",
+        "maskayevahi",
+        "maskayemahi"
+      ],
+      "pashirling": [
+        "maskyAt",
+        "maskyAd",
+        "maskyAstAm",
+        "maskyAsuH",
+        "maskyAH",
+        "maskyAstam",
+        "maskyAsta",
+        "maskyAsam",
+        "maskyAsva",
+        "maskyAsma"
+      ],
+      "plang": [
+        "amaskayat",
+        "amaskayad",
+        "amaskayatAm",
+        "amaskayan",
+        "amaskayaH",
+        "amaskayatam",
+        "amaskayata",
+        "amaskayam",
+        "amaskayAva",
+        "amaskayAma"
+      ],
+      "plat": [
+        "maskayati",
+        "maskayataH",
+        "maskayanti",
+        "maskayasi",
+        "maskayaTaH",
+        "maskayaTa",
+        "maskayAmi",
+        "maskayAvaH",
+        "maskayAmaH"
+      ],
+      "plit": [
+        "maskayAYcakAra",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakratuH",
+        "maskayAmAsatuH",
+        "maskayAmbaBUvatuH",
+        "maskayAYcakruH",
+        "maskayAmAsuH",
+        "maskayAmbaBUvuH",
+        "maskayAYcakarTa",
+        "maskayAmAsiTa",
+        "maskayAmbaBUviTa",
+        "maskayAYcakraTuH",
+        "maskayAmAsaTuH",
+        "maskayAmbaBUvaTuH",
+        "maskayAYcakra",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakara",
+        "maskayAYcakAra",
+        "maskayAmAsa",
+        "maskayAmbaBUva",
+        "maskayAYcakfva",
+        "maskayAmAsiva",
+        "maskayAmbaBUviva",
+        "maskayAYcakfma",
+        "maskayAmAsima",
+        "maskayAmbaBUvima"
+      ],
+      "plot": [
+        "maskayatAt",
+        "maskayatAd",
+        "maskayatu",
+        "maskayatAm",
+        "maskayantu",
+        "maskaya",
+        "maskayatAt",
+        "maskayatAd",
+        "maskayatam",
+        "maskayata",
+        "maskayAni",
+        "maskayAva",
+        "maskayAma"
+      ],
+      "plrung": [
+        "amaskayizyat",
+        "amaskayizyad",
+        "amaskayizyatAm",
+        "amaskayizyan",
+        "amaskayizyaH",
+        "amaskayizyatam",
+        "amaskayizyata",
+        "amaskayizyam",
+        "amaskayizyAva",
+        "amaskayizyAma"
+      ],
+      "plrut": [
+        "maskayizyati",
+        "maskayizyataH",
+        "maskayizyanti",
+        "maskayizyasi",
+        "maskayizyaTaH",
+        "maskayizyaTa",
+        "maskayizyAmi",
+        "maskayizyAvaH",
+        "maskayizyAmaH"
+      ],
+      "plung": [
+        "amamaskat",
+        "amamaskad",
+        "amamaskatAm",
+        "amamaskan",
+        "amamaskaH",
+        "amamaskatam",
+        "amamaskata",
+        "amamaskam",
+        "amamaskAva",
+        "amamaskAma"
+      ],
+      "plut": [
+        "maskayitA",
+        "maskayitArO",
+        "maskayitAraH",
+        "maskayitAsi",
+        "maskayitAsTaH",
+        "maskayitAsTa",
+        "maskayitAsmi",
+        "maskayitAsvaH",
+        "maskayitAsmaH"
+      ],
+      "pvidhiling": [
+        "maskayet",
+        "maskayed",
+        "maskayetAm",
+        "maskayeyuH",
+        "maskayeH",
+        "maskayetam",
+        "maskayeta",
+        "maskayeyam",
+        "maskayeva",
+        "maskayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "maskayizIzwa",
+        "maskizIzwa",
+        "maskayizIyAstAm",
+        "maskizIyAstAm",
+        "maskayizIran",
+        "maskizIran",
+        "maskayizIzWAH",
+        "maskizIzWAH",
+        "maskayizIyAsTAm",
+        "maskizIyAsTAm",
+        "maskayizIQvam",
+        "maskayizIDvam",
+        "maskizIDvam",
+        "maskayizIya",
+        "maskizIya",
+        "maskayizIvahi",
+        "maskizIvahi",
+        "maskayizImahi",
+        "maskizImahi"
+      ],
+      "alang": [
+        "amaskyata",
+        "amaskyetAm",
+        "amaskyanta",
+        "amaskyaTAH",
+        "amaskyeTAm",
+        "amaskyaDvam",
+        "amaskye",
+        "amaskyAvahi",
+        "amaskyAmahi"
+      ],
+      "alat": [
+        "maskyate",
+        "maskyete",
+        "maskyante",
+        "maskyase",
+        "maskyeTe",
+        "maskyaDve",
+        "maskye",
+        "maskyAvahe",
+        "maskyAmahe"
+      ],
+      "alit": [
+        "maskayAYcakre",
+        "maskayAmAse",
+        "maskayAmbaBUve",
+        "maskayAYcakrAte",
+        "maskayAmAsAte",
+        "maskayAmbaBUvAte",
+        "maskayAYcakrire",
+        "maskayAmAsire",
+        "maskayAmbaBUvire",
+        "maskayAYcakfze",
+        "maskayAmAsize",
+        "maskayAmbaBUvize",
+        "maskayAYcakrATe",
+        "maskayAmAsATe",
+        "maskayAmbaBUvATe",
+        "maskayAYcakfQve",
+        "maskayAmAsiDve",
+        "maskayAmbaBUviQve",
+        "maskayAYcakre",
+        "maskayAmAhe",
+        "maskayAmbaBUve",
+        "maskayAYcakfvahe",
+        "maskayAmAsivahe",
+        "maskayAmbaBUvivahe",
+        "maskayAYcakfmahe",
+        "maskayAmAsimahe",
+        "maskayAmbaBUvimahe"
+      ],
+      "alot": [
+        "maskyatAm",
+        "maskyetAm",
+        "maskyantAm",
+        "maskyasva",
+        "maskyeTAm",
+        "maskyaDvam",
+        "maskyE",
+        "maskyAvahE",
+        "maskyAmahE"
+      ],
+      "alrung": [
+        "amaskayizyata",
+        "amaskizyata",
+        "amaskayizyetAm",
+        "amaskizyetAm",
+        "amaskayizyanta",
+        "amaskizyanta",
+        "amaskayizyaTAH",
+        "amaskizyaTAH",
+        "amaskayizyeTAm",
+        "amaskizyeTAm",
+        "amaskayizyaDvam",
+        "amaskizyaDvam",
+        "amaskayizye",
+        "amaskizye",
+        "amaskayizyAvahi",
+        "amaskizyAvahi",
+        "amaskayizyAmahi",
+        "amaskizyAmahi"
+      ],
+      "alrut": [
+        "maskayizyate",
+        "maskizyate",
+        "maskayizyete",
+        "maskizyete",
+        "maskayizyante",
+        "maskizyante",
+        "maskayizyase",
+        "maskizyase",
+        "maskayizyeTe",
+        "maskizyeTe",
+        "maskayizyaDve",
+        "maskizyaDve",
+        "maskayizye",
+        "maskizye",
+        "maskayizyAvahe",
+        "maskizyAvahe",
+        "maskayizyAmahe",
+        "maskizyAmahe"
+      ],
+      "alung": [
+        "amaski",
+        "amaskayizAtAm",
+        "amaskizAtAm",
+        "amaskayizata",
+        "amaskizata",
+        "amaskayizWAH",
+        "amaskizWAH",
+        "amaskayizATAm",
+        "amaskizATAm",
+        "amaskayiQvam",
+        "amaskayiDvam",
+        "amaskiDvam",
+        "amaskayizi",
+        "amaskizi",
+        "amaskayizvahi",
+        "amaskizvahi",
+        "amaskayizmahi",
+        "amaskizmahi"
+      ],
+      "alut": [
+        "maskayitA",
+        "maskitA",
+        "maskayitArO",
+        "maskitArO",
+        "maskayitAraH",
+        "maskitAraH",
+        "maskayitAse",
+        "maskitAse",
+        "maskayitAsATe",
+        "maskitAsATe",
+        "maskayitADve",
+        "maskitADve",
+        "maskayitAhe",
+        "maskitAhe",
+        "maskayitAsvahe",
+        "maskitAsvahe",
+        "maskayitAsmahe",
+        "maskitAsmahe"
+      ],
+      "avidhiling": [
+        "maskyeta",
+        "maskyeyAtAm",
+        "maskyeran",
+        "maskyeTAH",
+        "maskyeyATAm",
+        "maskyeDvam",
+        "maskyeya",
+        "maskyevahi",
+        "maskyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "mAmaskizIzwa",
+        "mAmaskizIyAstAm",
+        "mAmaskizIran",
+        "mAmaskizIzWAH",
+        "mAmaskizIyAsTAm",
+        "mAmaskizIDvam",
+        "mAmaskizIya",
+        "mAmaskizIvahi",
+        "mAmaskizImahi"
+      ],
+      "alang": [
+        "amAmaskyata",
+        "amAmaskyetAm",
+        "amAmaskyanta",
+        "amAmaskyaTAH",
+        "amAmaskyeTAm",
+        "amAmaskyaDvam",
+        "amAmaskye",
+        "amAmaskyAvahi",
+        "amAmaskyAmahi"
+      ],
+      "alat": [
+        "mAmaskyate",
+        "mAmaskyete",
+        "mAmaskyante",
+        "mAmaskyase",
+        "mAmaskyeTe",
+        "mAmaskyaDve",
+        "mAmaskye",
+        "mAmaskyAvahe",
+        "mAmaskyAmahe"
+      ],
+      "alit": [
+        "mAmaskAYcakre",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakrAte",
+        "mAmaskAmAsatuH",
+        "mAmaskAmbaBUvatuH",
+        "mAmaskAYcakrire",
+        "mAmaskAmAsuH",
+        "mAmaskAmbaBUvuH",
+        "mAmaskAYcakfze",
+        "mAmaskAmAsiTa",
+        "mAmaskAmbaBUviTa",
+        "mAmaskAYcakrATe",
+        "mAmaskAmAsaTuH",
+        "mAmaskAmbaBUvaTuH",
+        "mAmaskAYcakfQve",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakre",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakfvahe",
+        "mAmaskAmAsiva",
+        "mAmaskAmbaBUviva",
+        "mAmaskAYcakfmahe",
+        "mAmaskAmAsima",
+        "mAmaskAmbaBUvima"
+      ],
+      "alot": [
+        "mAmaskyatAm",
+        "mAmaskyetAm",
+        "mAmaskyantAm",
+        "mAmaskyasva",
+        "mAmaskyeTAm",
+        "mAmaskyaDvam",
+        "mAmaskyE",
+        "mAmaskyAvahE",
+        "mAmaskyAmahE"
+      ],
+      "alrung": [
+        "amAmaskizyata",
+        "amAmaskizyetAm",
+        "amAmaskizyanta",
+        "amAmaskizyaTAH",
+        "amAmaskizyeTAm",
+        "amAmaskizyaDvam",
+        "amAmaskizye",
+        "amAmaskizyAvahi",
+        "amAmaskizyAmahi"
+      ],
+      "alrut": [
+        "mAmaskizyate",
+        "mAmaskizyete",
+        "mAmaskizyante",
+        "mAmaskizyase",
+        "mAmaskizyeTe",
+        "mAmaskizyaDve",
+        "mAmaskizye",
+        "mAmaskizyAvahe",
+        "mAmaskizyAmahe"
+      ],
+      "alung": [
+        "amAmaskizwa",
+        "amAmaskizAtAm",
+        "amAmaskizata",
+        "amAmaskizWAH",
+        "amAmaskizATAm",
+        "amAmaskiDvam",
+        "amAmaskizi",
+        "amAmaskizvahi",
+        "amAmaskizmahi"
+      ],
+      "alut": [
+        "mAmaskitA",
+        "mAmaskitArO",
+        "mAmaskitAraH",
+        "mAmaskitAse",
+        "mAmaskitAsATe",
+        "mAmaskitADve",
+        "mAmaskitAhe",
+        "mAmaskitAsvahe",
+        "mAmaskitAsmahe"
+      ],
+      "avidhiling": [
+        "mAmaskyeta",
+        "mAmaskyeyAtAm",
+        "mAmaskyeran",
+        "mAmaskyeTAH",
+        "mAmaskyeyATAm",
+        "mAmaskyeDvam",
+        "mAmaskyeya",
+        "mAmaskyevahi",
+        "mAmaskyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "mAmaskizIzwa",
+        "mAmaskizIyAstAm",
+        "mAmaskizIran",
+        "mAmaskizIzWAH",
+        "mAmaskizIyAsTAm",
+        "mAmaskizIDvam",
+        "mAmaskizIya",
+        "mAmaskizIvahi",
+        "mAmaskizImahi"
+      ],
+      "alang": [
+        "amAmaskyata",
+        "amAmaskyetAm",
+        "amAmaskyanta",
+        "amAmaskyaTAH",
+        "amAmaskyeTAm",
+        "amAmaskyaDvam",
+        "amAmaskye",
+        "amAmaskyAvahi",
+        "amAmaskyAmahi"
+      ],
+      "alat": [
+        "mAmaskyate",
+        "mAmaskyete",
+        "mAmaskyante",
+        "mAmaskyase",
+        "mAmaskyeTe",
+        "mAmaskyaDve",
+        "mAmaskye",
+        "mAmaskyAvahe",
+        "mAmaskyAmahe"
+      ],
+      "alit": [
+        "mAmaskAYcakre",
+        "mAmaskAmAse",
+        "mAmaskAmbaBUve",
+        "mAmaskAYcakrAte",
+        "mAmaskAmAsAte",
+        "mAmaskAmbaBUvAte",
+        "mAmaskAYcakrire",
+        "mAmaskAmAsire",
+        "mAmaskAmbaBUvire",
+        "mAmaskAYcakfze",
+        "mAmaskAmAsize",
+        "mAmaskAmbaBUvize",
+        "mAmaskAYcakrATe",
+        "mAmaskAmAsATe",
+        "mAmaskAmbaBUvATe",
+        "mAmaskAYcakfQve",
+        "mAmaskAmAsiDve",
+        "mAmaskAmbaBUviQve",
+        "mAmaskAYcakre",
+        "mAmaskAmAhe",
+        "mAmaskAmbaBUve",
+        "mAmaskAYcakfvahe",
+        "mAmaskAmAsivahe",
+        "mAmaskAmbaBUvivahe",
+        "mAmaskAYcakfmahe",
+        "mAmaskAmAsimahe",
+        "mAmaskAmbaBUvimahe"
+      ],
+      "alot": [
+        "mAmaskyatAm",
+        "mAmaskyetAm",
+        "mAmaskyantAm",
+        "mAmaskyasva",
+        "mAmaskyeTAm",
+        "mAmaskyaDvam",
+        "mAmaskyE",
+        "mAmaskyAvahE",
+        "mAmaskyAmahE"
+      ],
+      "alrung": [
+        "amAmaskizyata",
+        "amAmaskizyetAm",
+        "amAmaskizyanta",
+        "amAmaskizyaTAH",
+        "amAmaskizyeTAm",
+        "amAmaskizyaDvam",
+        "amAmaskizye",
+        "amAmaskizyAvahi",
+        "amAmaskizyAmahi"
+      ],
+      "alrut": [
+        "mAmaskizyate",
+        "mAmaskizyete",
+        "mAmaskizyante",
+        "mAmaskizyase",
+        "mAmaskizyeTe",
+        "mAmaskizyaDve",
+        "mAmaskizye",
+        "mAmaskizyAvahe",
+        "mAmaskizyAmahe"
+      ],
+      "alung": [
+        "amAmaski",
+        "amAmaskizAtAm",
+        "amAmaskizata",
+        "amAmaskizWAH",
+        "amAmaskizATAm",
+        "amAmaskiDvam",
+        "amAmaskizi",
+        "amAmaskizvahi",
+        "amAmaskizmahi"
+      ],
+      "alut": [
+        "mAmaskitA",
+        "mAmaskitArO",
+        "mAmaskitAraH",
+        "mAmaskitAse",
+        "mAmaskitAsATe",
+        "mAmaskitADve",
+        "mAmaskitAhe",
+        "mAmaskitAsvahe",
+        "mAmaskitAsmahe"
+      ],
+      "avidhiling": [
+        "mAmaskyeta",
+        "mAmaskyeyAtAm",
+        "mAmaskyeran",
+        "mAmaskyeTAH",
+        "mAmaskyeyATAm",
+        "mAmaskyeDvam",
+        "mAmaskyeya",
+        "mAmaskyevahi",
+        "mAmaskyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "mAmaskyAt",
+        "mAmaskyAd",
+        "mAmaskyAstAm",
+        "mAmaskyAsuH",
+        "mAmaskyAH",
+        "mAmaskyAstam",
+        "mAmaskyAsta",
+        "mAmaskyAsam",
+        "mAmaskyAsva",
+        "mAmaskyAsma"
+      ],
+      "plang": [
+        "amAmak",
+        "amAmag",
+        "amAmaskIt",
+        "amAmaskId",
+        "amAmaktAm",
+        "amAmaskuH",
+        "amAmak",
+        "amAmag",
+        "amAmaskIH",
+        "amAmaktam",
+        "amAmakta",
+        "amAmaskam",
+        "amAmaskva",
+        "amAmaskma"
+      ],
+      "plat": [
+        "mAmakti",
+        "mAmaskIti",
+        "mAmaktaH",
+        "mAmaskati",
+        "mAmakzi",
+        "mAmaskIzi",
+        "mAmakTaH",
+        "mAmakTa",
+        "mAmaskImi",
+        "mAmaskmi",
+        "mAmaskvaH",
+        "mAmaskmaH"
+      ],
+      "plit": [
+        "mAmaskAYcakAra",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakratuH",
+        "mAmaskAmAsatuH",
+        "mAmaskAmbaBUvatuH",
+        "mAmaskAYcakruH",
+        "mAmaskAmAsuH",
+        "mAmaskAmbaBUvuH",
+        "mAmaskAYcakarTa",
+        "mAmaskAmAsiTa",
+        "mAmaskAmbaBUviTa",
+        "mAmaskAYcakraTuH",
+        "mAmaskAmAsaTuH",
+        "mAmaskAmbaBUvaTuH",
+        "mAmaskAYcakra",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakara",
+        "mAmaskAYcakAra",
+        "mAmaskAmAsa",
+        "mAmaskAmbaBUva",
+        "mAmaskAYcakfva",
+        "mAmaskAmAsiva",
+        "mAmaskAmbaBUviva",
+        "mAmaskAYcakfma",
+        "mAmaskAmAsima",
+        "mAmaskAmbaBUvima"
+      ],
+      "plot": [
+        "mAmaktAt",
+        "mAmaktAd",
+        "mAmaktu",
+        "mAmaskItu",
+        "mAmaktAm",
+        "mAmaskatu",
+        "mAmaktAt",
+        "mAmaktAd",
+        "mAmagDi",
+        "mAmaktam",
+        "mAmakta",
+        "mAmaskAni",
+        "mAmaskAva",
+        "mAmaskAma"
+      ],
+      "plrung": [
+        "amAmaskizyat",
+        "amAmaskizyad",
+        "amAmaskizyatAm",
+        "amAmaskizyan",
+        "amAmaskizyaH",
+        "amAmaskizyatam",
+        "amAmaskizyata",
+        "amAmaskizyam",
+        "amAmaskizyAva",
+        "amAmaskizyAma"
+      ],
+      "plrut": [
+        "mAmaskizyati",
+        "mAmaskizyataH",
+        "mAmaskizyanti",
+        "mAmaskizyasi",
+        "mAmaskizyaTaH",
+        "mAmaskizyaTa",
+        "mAmaskizyAmi",
+        "mAmaskizyAvaH",
+        "mAmaskizyAmaH"
+      ],
+      "plung": [
+        "amAmaskIt",
+        "amAmaskId",
+        "amAmaskizwAm",
+        "amAmaskizuH",
+        "amAmaskIH",
+        "amAmaskizwam",
+        "amAmaskizwa",
+        "amAmaskizam",
+        "amAmaskizva",
+        "amAmaskizma"
+      ],
+      "plut": [
+        "mAmaskitA",
+        "mAmaskitArO",
+        "mAmaskitAraH",
+        "mAmaskitAsi",
+        "mAmaskitAsTaH",
+        "mAmaskitAsTa",
+        "mAmaskitAsmi",
+        "mAmaskitAsvaH",
+        "mAmaskitAsmaH"
+      ],
+      "pvidhiling": [
+        "mAmaskyAt",
+        "mAmaskyAd",
+        "mAmaskyAtAm",
+        "mAmaskyuH",
+        "mAmaskyAH",
+        "mAmaskyAtam",
+        "mAmaskyAta",
+        "mAmaskyAm",
+        "mAmaskyAva",
+        "mAmaskyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "mAmaskizIzwa",
+        "mAmaskizIyAstAm",
+        "mAmaskizIran",
+        "mAmaskizIzWAH",
+        "mAmaskizIyAsTAm",
+        "mAmaskizIDvam",
+        "mAmaskizIya",
+        "mAmaskizIvahi",
+        "mAmaskizImahi"
+      ],
+      "alang": [
+        "amAmaskyata",
+        "amAmaskyetAm",
+        "amAmaskyanta",
+        "amAmaskyaTAH",
+        "amAmaskyeTAm",
+        "amAmaskyaDvam",
+        "amAmaskye",
+        "amAmaskyAvahi",
+        "amAmaskyAmahi"
+      ],
+      "alat": [
+        "mAmaskyate",
+        "mAmaskyete",
+        "mAmaskyante",
+        "mAmaskyase",
+        "mAmaskyeTe",
+        "mAmaskyaDve",
+        "mAmaskye",
+        "mAmaskyAvahe",
+        "mAmaskyAmahe"
+      ],
+      "alit": [
+        "mAmaskAYcakre",
+        "mAmaskAmAse",
+        "mAmaskAmbaBUve",
+        "mAmaskAYcakrAte",
+        "mAmaskAmAsAte",
+        "mAmaskAmbaBUvAte",
+        "mAmaskAYcakrire",
+        "mAmaskAmAsire",
+        "mAmaskAmbaBUvire",
+        "mAmaskAYcakfze",
+        "mAmaskAmAsize",
+        "mAmaskAmbaBUvize",
+        "mAmaskAYcakrATe",
+        "mAmaskAmAsATe",
+        "mAmaskAmbaBUvATe",
+        "mAmaskAYcakfQve",
+        "mAmaskAmAsiDve",
+        "mAmaskAmbaBUviQve",
+        "mAmaskAYcakre",
+        "mAmaskAmAhe",
+        "mAmaskAmbaBUve",
+        "mAmaskAYcakfvahe",
+        "mAmaskAmAsivahe",
+        "mAmaskAmbaBUvivahe",
+        "mAmaskAYcakfmahe",
+        "mAmaskAmAsimahe",
+        "mAmaskAmbaBUvimahe"
+      ],
+      "alot": [
+        "mAmaskyatAm",
+        "mAmaskyetAm",
+        "mAmaskyantAm",
+        "mAmaskyasva",
+        "mAmaskyeTAm",
+        "mAmaskyaDvam",
+        "mAmaskyE",
+        "mAmaskyAvahE",
+        "mAmaskyAmahE"
+      ],
+      "alrung": [
+        "amAmaskizyata",
+        "amAmaskizyetAm",
+        "amAmaskizyanta",
+        "amAmaskizyaTAH",
+        "amAmaskizyeTAm",
+        "amAmaskizyaDvam",
+        "amAmaskizye",
+        "amAmaskizyAvahi",
+        "amAmaskizyAmahi"
+      ],
+      "alrut": [
+        "mAmaskizyate",
+        "mAmaskizyete",
+        "mAmaskizyante",
+        "mAmaskizyase",
+        "mAmaskizyeTe",
+        "mAmaskizyaDve",
+        "mAmaskizye",
+        "mAmaskizyAvahe",
+        "mAmaskizyAmahe"
+      ],
+      "alung": [
+        "amAmaski",
+        "amAmaskizAtAm",
+        "amAmaskizata",
+        "amAmaskizWAH",
+        "amAmaskizATAm",
+        "amAmaskiDvam",
+        "amAmaskizi",
+        "amAmaskizvahi",
+        "amAmaskizmahi"
+      ],
+      "alut": [
+        "mAmaskitA",
+        "mAmaskitArO",
+        "mAmaskitAraH",
+        "mAmaskitAse",
+        "mAmaskitAsATe",
+        "mAmaskitADve",
+        "mAmaskitAhe",
+        "mAmaskitAsvahe",
+        "mAmaskitAsmahe"
+      ],
+      "avidhiling": [
+        "mAmaskyeta",
+        "mAmaskyeyAtAm",
+        "mAmaskyeran",
+        "mAmaskyeTAH",
+        "mAmaskyeyATAm",
+        "mAmaskyeDvam",
+        "mAmaskyeya",
+        "mAmaskyevahi",
+        "mAmaskyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "maskA",
+          "m": "",
+          "f": "maskA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "maska",
+          "m": "maskaH",
+          "f": "maskA",
+          "n": "maskam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "maskanIya",
+          "m": "maskanIyaH",
+          "f": "maskanIyA",
+          "n": "maskanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "maskita",
+          "m": "maskitaH",
+          "f": "maskitA",
+          "n": "maskitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "maskitavat",
+          "m": "maskitavAn",
+          "f": "maskitavatI",
+          "n": "maskitavat/maskitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "makti",
+          "m": "",
+          "f": "maktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "maskitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mamaskvas",
+          "m": "mamaskvAn",
+          "f": "mamaskuzI",
+          "n": "mamaskvat/mamaskvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "maska",
+          "m": "maskaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "maskamAna",
+          "m": "maskamAnaH",
+          "f": "maskamAnA",
+          "n": "maskamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "maskam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "maskya",
+          "m": "maskyaH",
+          "f": "maskyA",
+          "n": "maskyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "maskaka",
+          "m": "maskakaH",
+          "f": "maskikA",
+          "n": "maskakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "maskitavya",
+          "m": "maskitavyaH",
+          "f": "maskitavyA",
+          "n": "maskitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "maskitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "maskitf",
+          "m": "maskitA",
+          "f": "maskitrI",
+          "n": "maskitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "maskyamAna",
+          "m": "maskyamAnaH",
+          "f": "maskyamAnA",
+          "n": "maskyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramaskya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "maskana",
+          "m": "",
+          "f": "",
+          "n": "maskanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "maskaka",
+          "m": "maskakaH",
+          "f": "maskikA",
+          "n": "maskakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "maskamAna",
+          "m": "maskamAnaH",
+          "f": "maskamAnA",
+          "n": "maskamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "maskizyamARa",
+          "m": "maskizyamARaH",
+          "f": "maskizyamARA",
+          "n": "maskizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "maskizyamARa",
+          "m": "maskizyamARaH",
+          "f": "maskizyamARA",
+          "n": "maskizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "mimaskizA",
+          "m": "",
+          "f": "mimaskizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "mimaskiza",
+          "m": "mimaskizaH",
+          "f": "mimaskizA",
+          "n": "mimaskizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mimaskizaRIya",
+          "m": "mimaskizaRIyaH",
+          "f": "mimaskizaRIyA",
+          "n": "mimaskizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "mimaskizu",
+          "m": "mimaskizuH",
+          "f": "mimaskizuH",
+          "n": "mimaskizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mimaskizita",
+          "m": "mimaskizitaH",
+          "f": "mimaskizitA",
+          "n": "mimaskizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mimaskizitavat",
+          "m": "mimaskizitavAn",
+          "f": "mimaskizitavatI",
+          "n": "mimaskizitavat/mimaskizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mimaskizwi",
+          "m": "",
+          "f": "mimaskizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mimaskizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mimaskizAmbaBUvas",
+          "m": "mimaskizAmbaBUvAn",
+          "f": "mimaskizAmbaBUzI",
+          "n": "mimaskizAmbaBUvat/mimaskizAmbaBUvad"
+        },
+        {
+          "base": "mimaskizAmAsivas",
+          "m": "mimaskizAmAsivAn",
+          "f": "mimaskizAmAsyuzI",
+          "n": "mimaskizAmAsivat/mimaskizAmAsivad"
+        },
+        {
+          "base": "mimaskizAYcakfvas",
+          "m": "mimaskizAYcakfvAn",
+          "f": "mimaskizAYcakruzI",
+          "n": "mimaskizAYcakfvat/mimaskizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mimaskiza",
+          "m": "mimaskizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mimaskizamARa",
+          "m": "mimaskizamARaH",
+          "f": "mimaskizamARA",
+          "n": "mimaskizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mimaskizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mimaskizaka",
+          "m": "mimaskizakaH",
+          "f": "mimaskizikA",
+          "n": "mimaskizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mimaskizitavya",
+          "m": "mimaskizitavyaH",
+          "f": "mimaskizitavyA",
+          "n": "mimaskizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mimaskizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mimaskizitf",
+          "m": "mimaskizitA",
+          "f": "mimaskizitrI",
+          "n": "mimaskizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mimaskizyamARa",
+          "m": "mimaskizyamARaH",
+          "f": "mimaskizyamARA",
+          "n": "mimaskizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "mimaskizya",
+          "m": "mimaskizyaH",
+          "f": "mimaskizyA",
+          "n": "mimaskizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramimaskizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mimaskizaRa",
+          "m": "",
+          "f": "",
+          "n": "mimaskizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mimaskizaka",
+          "m": "mimaskizakaH",
+          "f": "mimaskizikA",
+          "n": "mimaskizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "mimaskizamARa",
+          "m": "mimaskizamARaH",
+          "f": "mimaskizamARA",
+          "n": "mimaskizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mimaskizizyamARa",
+          "m": "mimaskizizyamARaH",
+          "f": "mimaskizizyamARA",
+          "n": "mimaskizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "mimaskizizyamARa",
+          "m": "mimaskizizyamARaH",
+          "f": "mimaskizizyamARA",
+          "n": "mimaskizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "maska",
+          "m": "maskaH",
+          "f": "maskA",
+          "n": "maskam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "maskanIya",
+          "m": "maskanIyaH",
+          "f": "maskanIyA",
+          "n": "maskanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "maskita",
+          "m": "maskitaH",
+          "f": "maskitA",
+          "n": "maskitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "maskitavat",
+          "m": "maskitavAn",
+          "f": "maskitavatI",
+          "n": "maskitavat/maskitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "makti",
+          "m": "",
+          "f": "maktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "maskayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "maskayAmbaBUvas",
+          "m": "maskayAmbaBUvAn",
+          "f": "maskayAmbaBUzI",
+          "n": "maskayAmbaBUvat/maskayAmbaBUvad"
+        },
+        {
+          "base": "maskayAmAsivas",
+          "m": "maskayAmAsivAn",
+          "f": "maskayAmAsyuzI",
+          "n": "maskayAmAsivat/maskayAmAsivad"
+        },
+        {
+          "base": "maskayAYcakfvas",
+          "m": "maskayAYcakfvAn",
+          "f": "maskayAYcakruzI",
+          "n": "maskayAYcakfvat/maskayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "maskayamAna",
+          "m": "maskayamAnaH",
+          "f": "maskayamAnA",
+          "n": "maskayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "maskam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "maskaka",
+          "m": "maskakaH",
+          "f": "maskikA",
+          "n": "maskakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "maskayitavya",
+          "m": "maskayitavyaH",
+          "f": "maskayitavyA",
+          "n": "maskayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "maskayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "maskayitf",
+          "m": "maskayitA",
+          "f": "maskayitrI",
+          "n": "maskayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "maskyamAna",
+          "m": "maskyamAnaH",
+          "f": "maskyamAnA",
+          "n": "maskyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "maskya",
+          "m": "maskyaH",
+          "f": "maskyA",
+          "n": "maskyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramaskya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "maskana",
+          "m": "",
+          "f": "",
+          "n": "maskanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "maskaka",
+          "m": "maskakaH",
+          "f": "maskikA",
+          "n": "maskakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "maskayat",
+          "m": "maskayan",
+          "f": "maskayantI",
+          "n": "maskayat/maskayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "maskayamAna",
+          "m": "maskayamAnaH",
+          "f": "maskayamAnA",
+          "n": "maskayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "maskizyamARa",
+          "m": "maskizyamARaH",
+          "f": "maskizyamARA",
+          "n": "maskizyamARam"
+        },
+        {
+          "base": "maskayizyamARa",
+          "m": "maskayizyamARaH",
+          "f": "maskayizyamARA",
+          "n": "maskayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "maskayizyat",
+          "m": "maskayizyan",
+          "f": "maskayizyatI/maskayizyantI",
+          "n": "maskayizyat/maskayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "maskayizyamARa",
+          "m": "maskayizyamARaH",
+          "f": "maskayizyamARA",
+          "n": "maskayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "mAmaskA",
+          "m": "",
+          "f": "mAmaskA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "mAmaska",
+          "m": "mAmaskaH",
+          "f": "mAmaskA",
+          "n": "mAmaskam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mAmaskanIya",
+          "m": "mAmaskanIyaH",
+          "f": "mAmaskanIyA",
+          "n": "mAmaskanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mAmaskita",
+          "m": "mAmaskitaH",
+          "f": "mAmaskitA",
+          "n": "mAmaskitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mAmaskitavat",
+          "m": "mAmaskitavAn",
+          "f": "mAmaskitavatI",
+          "n": "mAmaskitavat/mAmaskitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mAmakti",
+          "m": "",
+          "f": "mAmaktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mAmaskitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mAmaskAmbaBUvas",
+          "m": "mAmaskAmbaBUvAn",
+          "f": "mAmaskAmbaBUzI",
+          "n": "mAmaskAmbaBUvat/mAmaskAmbaBUvad"
+        },
+        {
+          "base": "mAmaskAmAsivas",
+          "m": "mAmaskAmAsivAn",
+          "f": "mAmaskAmAsyuzI",
+          "n": "mAmaskAmAsivat/mAmaskAmAsivad"
+        },
+        {
+          "base": "mAmaskAYcakfvas",
+          "m": "mAmaskAYcakfvAn",
+          "f": "mAmaskAYcakruzI",
+          "n": "mAmaskAYcakfvat/mAmaskAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mAmaska",
+          "m": "mAmaskaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mAmaskyamAna",
+          "m": "mAmaskyamAnaH",
+          "f": "mAmaskyamAnA",
+          "n": "mAmaskyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mAmaskam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mAmaskaka",
+          "m": "mAmaskakaH",
+          "f": "mAmaskikA",
+          "n": "mAmaskakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mAmaskitavya",
+          "m": "mAmaskitavyaH",
+          "f": "mAmaskitavyA",
+          "n": "mAmaskitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mAmaskitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mAmaskitf",
+          "m": "mAmaskitA",
+          "f": "mAmaskitrI",
+          "n": "mAmaskitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mAmaskyamAna",
+          "m": "mAmaskyamAnaH",
+          "f": "mAmaskyamAnA",
+          "n": "mAmaskyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "mAmaskya",
+          "m": "mAmaskyaH",
+          "f": "mAmaskyA",
+          "n": "mAmaskyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramAmaskya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mAmaskana",
+          "m": "",
+          "f": "",
+          "n": "mAmaskanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mAmaskaka",
+          "m": "mAmaskakaH",
+          "f": "mAmaskikA",
+          "n": "mAmaskakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "mAmaskyamAna",
+          "m": "mAmaskyamAnaH",
+          "f": "mAmaskyamAnA",
+          "n": "mAmaskyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mAmaskizyamARa",
+          "m": "mAmaskizyamARaH",
+          "f": "mAmaskizyamARA",
+          "n": "mAmaskizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "mAmaskizyamARa",
+          "m": "mAmaskizyamARaH",
+          "f": "mAmaskizyamARA",
+          "n": "mAmaskizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "mAmaskA",
+          "m": "",
+          "f": "mAmaskA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "mAmaska",
+          "m": "mAmaskaH",
+          "f": "mAmaskA",
+          "n": "mAmaskam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mAmaskanIya",
+          "m": "mAmaskanIyaH",
+          "f": "mAmaskanIyA",
+          "n": "mAmaskanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mAmaskita",
+          "m": "mAmaskitaH",
+          "f": "mAmaskitA",
+          "n": "mAmaskitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mAmaskitavat",
+          "m": "mAmaskitavAn",
+          "f": "mAmaskitavatI",
+          "n": "mAmaskitavat/mAmaskitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mAmakti",
+          "m": "",
+          "f": "mAmaktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mAmaskitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mAmaskAmbaBUvas",
+          "m": "mAmaskAmbaBUvAn",
+          "f": "mAmaskAmbaBUzI",
+          "n": "mAmaskAmbaBUvat/mAmaskAmbaBUvad"
+        },
+        {
+          "base": "mAmaskAmAsivas",
+          "m": "mAmaskAmAsivAn",
+          "f": "mAmaskAmAsyuzI",
+          "n": "mAmaskAmAsivat/mAmaskAmAsivad"
+        },
+        {
+          "base": "mAmaskAYcakfvas",
+          "m": "mAmaskAYcakfvAn",
+          "f": "mAmaskAYcakruzI",
+          "n": "mAmaskAYcakfvat/mAmaskAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mAmaska",
+          "m": "mAmaskaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mAmaskAna",
+          "m": "mAmaskAnaH",
+          "f": "mAmaskAnA",
+          "n": "mAmaskAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mAmaskam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mAmaskaka",
+          "m": "mAmaskakaH",
+          "f": "mAmaskikA",
+          "n": "mAmaskakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mAmaskitavya",
+          "m": "mAmaskitavyaH",
+          "f": "mAmaskitavyA",
+          "n": "mAmaskitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mAmaskitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mAmaskitf",
+          "m": "mAmaskitA",
+          "f": "mAmaskitrI",
+          "n": "mAmaskitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mAmaskyamAna",
+          "m": "mAmaskyamAnaH",
+          "f": "mAmaskyamAnA",
+          "n": "mAmaskyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramAmaskya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mAmaskana",
+          "m": "",
+          "f": "",
+          "n": "mAmaskanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mAmaskaka",
+          "m": "mAmaskakaH",
+          "f": "mAmaskikA",
+          "n": "mAmaskakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "mAmaskat",
+          "m": "mAmaskat/mAmaskad",
+          "f": "mAmaskatI",
+          "n": "mAmaskat/mAmaskad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mAmaskizyamARa",
+          "m": "mAmaskizyamARaH",
+          "f": "mAmaskizyamARA",
+          "n": "mAmaskizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "mAmaskizyat",
+          "m": "mAmaskizyan",
+          "f": "mAmaskizyatI/mAmaskizyantI",
+          "n": "mAmaskizyat/mAmaskizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "mask",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

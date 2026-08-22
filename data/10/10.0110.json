@@ -1,0 +1,1999 @@
+{
+  "id": "10.0110",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Sulka~"
+    },
+    {
+      "name": "arTaH",
+      "value": "atisparSane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to tax, to pay tax, to produce goods"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "kara lagAnA, utpatti kara denA, utpanna karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "' sarjane ' iti svAmI . ' BAzaRe ' iti kASakftsnaH . kiM ca anyatra curAdO ' Sukla sarjane ' iti ca tatra dfSyate . ' atisarjane ' iti kecit . ' sarjane , varjane (varRane) iti vopadevaH . ' sarjanam = Arjanam . varjanaBAzaRayoSca drume iti DA.kA.vyAKyA .(3 - 23)"
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1618"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1619"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2567",
+      "ext_link": "/sutraani/sk2567?scroll=sutra-commentary-kaumudi-region&highlight=Saulaka"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "SulkayizIzwa",
+        "SulkayizIyAstAm",
+        "SulkayizIran",
+        "SulkayizIzWAH",
+        "SulkayizIyAsTAm",
+        "SulkayizIQvam",
+        "SulkayizIDvam",
+        "SulkayizIya",
+        "SulkayizIvahi",
+        "SulkayizImahi"
+      ],
+      "alang": [
+        "aSulkayata",
+        "aSulkayetAm",
+        "aSulkayanta",
+        "aSulkayaTAH",
+        "aSulkayeTAm",
+        "aSulkayaDvam",
+        "aSulkaye",
+        "aSulkayAvahi",
+        "aSulkayAmahi"
+      ],
+      "alat": [
+        "Sulkayate",
+        "Sulkayete",
+        "Sulkayante",
+        "Sulkayase",
+        "SulkayeTe",
+        "SulkayaDve",
+        "Sulkaye",
+        "SulkayAvahe",
+        "SulkayAmahe"
+      ],
+      "alit": [
+        "SulkayAYcakre",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakrAte",
+        "SulkayAmAsatuH",
+        "SulkayAmbaBUvatuH",
+        "SulkayAYcakrire",
+        "SulkayAmAsuH",
+        "SulkayAmbaBUvuH",
+        "SulkayAYcakfze",
+        "SulkayAmAsiTa",
+        "SulkayAmbaBUviTa",
+        "SulkayAYcakrATe",
+        "SulkayAmAsaTuH",
+        "SulkayAmbaBUvaTuH",
+        "SulkayAYcakfQve",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakre",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakfvahe",
+        "SulkayAmAsiva",
+        "SulkayAmbaBUviva",
+        "SulkayAYcakfmahe",
+        "SulkayAmAsima",
+        "SulkayAmbaBUvima"
+      ],
+      "alot": [
+        "SulkayatAm",
+        "SulkayetAm",
+        "SulkayantAm",
+        "Sulkayasva",
+        "SulkayeTAm",
+        "SulkayaDvam",
+        "SulkayE",
+        "SulkayAvahE",
+        "SulkayAmahE"
+      ],
+      "alrung": [
+        "aSulkayizyata",
+        "aSulkayizyetAm",
+        "aSulkayizyanta",
+        "aSulkayizyaTAH",
+        "aSulkayizyeTAm",
+        "aSulkayizyaDvam",
+        "aSulkayizye",
+        "aSulkayizyAvahi",
+        "aSulkayizyAmahi"
+      ],
+      "alrut": [
+        "Sulkayizyate",
+        "Sulkayizyete",
+        "Sulkayizyante",
+        "Sulkayizyase",
+        "SulkayizyeTe",
+        "SulkayizyaDve",
+        "Sulkayizye",
+        "SulkayizyAvahe",
+        "SulkayizyAmahe"
+      ],
+      "alung": [
+        "aSuSulkata",
+        "aSuSulketAm",
+        "aSuSulkanta",
+        "aSuSulkaTAH",
+        "aSuSulkeTAm",
+        "aSuSulkaDvam",
+        "aSuSulke",
+        "aSuSulkAvahi",
+        "aSuSulkAmahi"
+      ],
+      "alut": [
+        "SulkayitA",
+        "SulkayitArO",
+        "SulkayitAraH",
+        "SulkayitAse",
+        "SulkayitAsATe",
+        "SulkayitADve",
+        "SulkayitAhe",
+        "SulkayitAsvahe",
+        "SulkayitAsmahe"
+      ],
+      "avidhiling": [
+        "Sulkayeta",
+        "SulkayeyAtAm",
+        "Sulkayeran",
+        "SulkayeTAH",
+        "SulkayeyATAm",
+        "SulkayeDvam",
+        "Sulkayeya",
+        "Sulkayevahi",
+        "Sulkayemahi"
+      ],
+      "pashirling": [
+        "SulkyAt",
+        "SulkyAd",
+        "SulkyAstAm",
+        "SulkyAsuH",
+        "SulkyAH",
+        "SulkyAstam",
+        "SulkyAsta",
+        "SulkyAsam",
+        "SulkyAsva",
+        "SulkyAsma"
+      ],
+      "plang": [
+        "aSulkayat",
+        "aSulkayad",
+        "aSulkayatAm",
+        "aSulkayan",
+        "aSulkayaH",
+        "aSulkayatam",
+        "aSulkayata",
+        "aSulkayam",
+        "aSulkayAva",
+        "aSulkayAma"
+      ],
+      "plat": [
+        "Sulkayati",
+        "SulkayataH",
+        "Sulkayanti",
+        "Sulkayasi",
+        "SulkayaTaH",
+        "SulkayaTa",
+        "SulkayAmi",
+        "SulkayAvaH",
+        "SulkayAmaH"
+      ],
+      "plit": [
+        "SulkayAYcakAra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakratuH",
+        "SulkayAmAsatuH",
+        "SulkayAmbaBUvatuH",
+        "SulkayAYcakruH",
+        "SulkayAmAsuH",
+        "SulkayAmbaBUvuH",
+        "SulkayAYcakarTa",
+        "SulkayAmAsiTa",
+        "SulkayAmbaBUviTa",
+        "SulkayAYcakraTuH",
+        "SulkayAmAsaTuH",
+        "SulkayAmbaBUvaTuH",
+        "SulkayAYcakra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakara",
+        "SulkayAYcakAra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakfva",
+        "SulkayAmAsiva",
+        "SulkayAmbaBUviva",
+        "SulkayAYcakfma",
+        "SulkayAmAsima",
+        "SulkayAmbaBUvima"
+      ],
+      "plot": [
+        "SulkayatAt",
+        "SulkayatAd",
+        "Sulkayatu",
+        "SulkayatAm",
+        "Sulkayantu",
+        "Sulkaya",
+        "SulkayatAt",
+        "SulkayatAd",
+        "Sulkayatam",
+        "Sulkayata",
+        "SulkayAni",
+        "SulkayAva",
+        "SulkayAma"
+      ],
+      "plrung": [
+        "aSulkayizyat",
+        "aSulkayizyad",
+        "aSulkayizyatAm",
+        "aSulkayizyan",
+        "aSulkayizyaH",
+        "aSulkayizyatam",
+        "aSulkayizyata",
+        "aSulkayizyam",
+        "aSulkayizyAva",
+        "aSulkayizyAma"
+      ],
+      "plrut": [
+        "Sulkayizyati",
+        "SulkayizyataH",
+        "Sulkayizyanti",
+        "Sulkayizyasi",
+        "SulkayizyaTaH",
+        "SulkayizyaTa",
+        "SulkayizyAmi",
+        "SulkayizyAvaH",
+        "SulkayizyAmaH"
+      ],
+      "plung": [
+        "aSuSulkat",
+        "aSuSulkad",
+        "aSuSulkatAm",
+        "aSuSulkan",
+        "aSuSulkaH",
+        "aSuSulkatam",
+        "aSuSulkata",
+        "aSuSulkam",
+        "aSuSulkAva",
+        "aSuSulkAma"
+      ],
+      "plut": [
+        "SulkayitA",
+        "SulkayitArO",
+        "SulkayitAraH",
+        "SulkayitAsi",
+        "SulkayitAsTaH",
+        "SulkayitAsTa",
+        "SulkayitAsmi",
+        "SulkayitAsvaH",
+        "SulkayitAsmaH"
+      ],
+      "pvidhiling": [
+        "Sulkayet",
+        "Sulkayed",
+        "SulkayetAm",
+        "SulkayeyuH",
+        "SulkayeH",
+        "Sulkayetam",
+        "Sulkayeta",
+        "Sulkayeyam",
+        "Sulkayeva",
+        "Sulkayema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "SulkayizIzwa",
+        "SulkizIzwa",
+        "SulkayizIyAstAm",
+        "SulkizIyAstAm",
+        "SulkayizIran",
+        "SulkizIran",
+        "SulkayizIzWAH",
+        "SulkizIzWAH",
+        "SulkayizIyAsTAm",
+        "SulkizIyAsTAm",
+        "SulkayizIQvam",
+        "SulkayizIDvam",
+        "SulkizIDvam",
+        "SulkayizIya",
+        "SulkizIya",
+        "SulkayizIvahi",
+        "SulkizIvahi",
+        "SulkayizImahi",
+        "SulkizImahi"
+      ],
+      "alang": [
+        "aSulkyata",
+        "aSulkyetAm",
+        "aSulkyanta",
+        "aSulkyaTAH",
+        "aSulkyeTAm",
+        "aSulkyaDvam",
+        "aSulkye",
+        "aSulkyAvahi",
+        "aSulkyAmahi"
+      ],
+      "alat": [
+        "Sulkyate",
+        "Sulkyete",
+        "Sulkyante",
+        "Sulkyase",
+        "SulkyeTe",
+        "SulkyaDve",
+        "Sulkye",
+        "SulkyAvahe",
+        "SulkyAmahe"
+      ],
+      "alit": [
+        "SulkayAYcakre",
+        "SulkayAmAse",
+        "SulkayAmbaBUve",
+        "SulkayAYcakrAte",
+        "SulkayAmAsAte",
+        "SulkayAmbaBUvAte",
+        "SulkayAYcakrire",
+        "SulkayAmAsire",
+        "SulkayAmbaBUvire",
+        "SulkayAYcakfze",
+        "SulkayAmAsize",
+        "SulkayAmbaBUvize",
+        "SulkayAYcakrATe",
+        "SulkayAmAsATe",
+        "SulkayAmbaBUvATe",
+        "SulkayAYcakfQve",
+        "SulkayAmAsiDve",
+        "SulkayAmbaBUviQve",
+        "SulkayAYcakre",
+        "SulkayAmAhe",
+        "SulkayAmbaBUve",
+        "SulkayAYcakfvahe",
+        "SulkayAmAsivahe",
+        "SulkayAmbaBUvivahe",
+        "SulkayAYcakfmahe",
+        "SulkayAmAsimahe",
+        "SulkayAmbaBUvimahe"
+      ],
+      "alot": [
+        "SulkyatAm",
+        "SulkyetAm",
+        "SulkyantAm",
+        "Sulkyasva",
+        "SulkyeTAm",
+        "SulkyaDvam",
+        "SulkyE",
+        "SulkyAvahE",
+        "SulkyAmahE"
+      ],
+      "alrung": [
+        "aSulkayizyata",
+        "aSulkizyata",
+        "aSulkayizyetAm",
+        "aSulkizyetAm",
+        "aSulkayizyanta",
+        "aSulkizyanta",
+        "aSulkayizyaTAH",
+        "aSulkizyaTAH",
+        "aSulkayizyeTAm",
+        "aSulkizyeTAm",
+        "aSulkayizyaDvam",
+        "aSulkizyaDvam",
+        "aSulkayizye",
+        "aSulkizye",
+        "aSulkayizyAvahi",
+        "aSulkizyAvahi",
+        "aSulkayizyAmahi",
+        "aSulkizyAmahi"
+      ],
+      "alrut": [
+        "Sulkayizyate",
+        "Sulkizyate",
+        "Sulkayizyete",
+        "Sulkizyete",
+        "Sulkayizyante",
+        "Sulkizyante",
+        "Sulkayizyase",
+        "Sulkizyase",
+        "SulkayizyeTe",
+        "SulkizyeTe",
+        "SulkayizyaDve",
+        "SulkizyaDve",
+        "Sulkayizye",
+        "Sulkizye",
+        "SulkayizyAvahe",
+        "SulkizyAvahe",
+        "SulkayizyAmahe",
+        "SulkizyAmahe"
+      ],
+      "alung": [
+        "aSulki",
+        "aSulkayizAtAm",
+        "aSulkizAtAm",
+        "aSulkayizata",
+        "aSulkizata",
+        "aSulkayizWAH",
+        "aSulkizWAH",
+        "aSulkayizATAm",
+        "aSulkizATAm",
+        "aSulkayiQvam",
+        "aSulkayiDvam",
+        "aSulkiDvam",
+        "aSulkayizi",
+        "aSulkizi",
+        "aSulkayizvahi",
+        "aSulkizvahi",
+        "aSulkayizmahi",
+        "aSulkizmahi"
+      ],
+      "alut": [
+        "SulkayitA",
+        "SulkitA",
+        "SulkayitArO",
+        "SulkitArO",
+        "SulkayitAraH",
+        "SulkitAraH",
+        "SulkayitAse",
+        "SulkitAse",
+        "SulkayitAsATe",
+        "SulkitAsATe",
+        "SulkayitADve",
+        "SulkitADve",
+        "SulkayitAhe",
+        "SulkitAhe",
+        "SulkayitAsvahe",
+        "SulkitAsvahe",
+        "SulkayitAsmahe",
+        "SulkitAsmahe"
+      ],
+      "avidhiling": [
+        "Sulkyeta",
+        "SulkyeyAtAm",
+        "Sulkyeran",
+        "SulkyeTAH",
+        "SulkyeyATAm",
+        "SulkyeDvam",
+        "Sulkyeya",
+        "Sulkyevahi",
+        "Sulkyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "SuSulkayizizIzwa",
+        "SuSulkayizizIyAstAm",
+        "SuSulkayizizIran",
+        "SuSulkayizizIzWAH",
+        "SuSulkayizizIyAsTAm",
+        "SuSulkayizizIDvam",
+        "SuSulkayizizIya",
+        "SuSulkayizizIvahi",
+        "SuSulkayizizImahi"
+      ],
+      "alang": [
+        "aSuSulkayizata",
+        "aSuSulkayizetAm",
+        "aSuSulkayizanta",
+        "aSuSulkayizaTAH",
+        "aSuSulkayizeTAm",
+        "aSuSulkayizaDvam",
+        "aSuSulkayize",
+        "aSuSulkayizAvahi",
+        "aSuSulkayizAmahi"
+      ],
+      "alat": [
+        "SuSulkayizate",
+        "SuSulkayizete",
+        "SuSulkayizante",
+        "SuSulkayizase",
+        "SuSulkayizeTe",
+        "SuSulkayizaDve",
+        "SuSulkayize",
+        "SuSulkayizAvahe",
+        "SuSulkayizAmahe"
+      ],
+      "alit": [
+        "SuSulkayizAYcakre",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakrAte",
+        "SuSulkayizAmAsatuH",
+        "SuSulkayizAmbaBUvatuH",
+        "SuSulkayizAYcakrire",
+        "SuSulkayizAmAsuH",
+        "SuSulkayizAmbaBUvuH",
+        "SuSulkayizAYcakfze",
+        "SuSulkayizAmAsiTa",
+        "SuSulkayizAmbaBUviTa",
+        "SuSulkayizAYcakrATe",
+        "SuSulkayizAmAsaTuH",
+        "SuSulkayizAmbaBUvaTuH",
+        "SuSulkayizAYcakfQve",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakre",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakfvahe",
+        "SuSulkayizAmAsiva",
+        "SuSulkayizAmbaBUviva",
+        "SuSulkayizAYcakfmahe",
+        "SuSulkayizAmAsima",
+        "SuSulkayizAmbaBUvima"
+      ],
+      "alot": [
+        "SuSulkayizatAm",
+        "SuSulkayizetAm",
+        "SuSulkayizantAm",
+        "SuSulkayizasva",
+        "SuSulkayizeTAm",
+        "SuSulkayizaDvam",
+        "SuSulkayizE",
+        "SuSulkayizAvahE",
+        "SuSulkayizAmahE"
+      ],
+      "alrung": [
+        "aSuSulkayizizyata",
+        "aSuSulkayizizyetAm",
+        "aSuSulkayizizyanta",
+        "aSuSulkayizizyaTAH",
+        "aSuSulkayizizyeTAm",
+        "aSuSulkayizizyaDvam",
+        "aSuSulkayizizye",
+        "aSuSulkayizizyAvahi",
+        "aSuSulkayizizyAmahi"
+      ],
+      "alrut": [
+        "SuSulkayizizyate",
+        "SuSulkayizizyete",
+        "SuSulkayizizyante",
+        "SuSulkayizizyase",
+        "SuSulkayizizyeTe",
+        "SuSulkayizizyaDve",
+        "SuSulkayizizye",
+        "SuSulkayizizyAvahe",
+        "SuSulkayizizyAmahe"
+      ],
+      "alung": [
+        "aSuSulkayizizwa",
+        "aSuSulkayizizAtAm",
+        "aSuSulkayizizata",
+        "aSuSulkayizizWAH",
+        "aSuSulkayizizATAm",
+        "aSuSulkayiziDvam",
+        "aSuSulkayizizi",
+        "aSuSulkayizizvahi",
+        "aSuSulkayizizmahi"
+      ],
+      "alut": [
+        "SuSulkayizitA",
+        "SuSulkayizitArO",
+        "SuSulkayizitAraH",
+        "SuSulkayizitAse",
+        "SuSulkayizitAsATe",
+        "SuSulkayizitADve",
+        "SuSulkayizitAhe",
+        "SuSulkayizitAsvahe",
+        "SuSulkayizitAsmahe"
+      ],
+      "avidhiling": [
+        "SuSulkayizeta",
+        "SuSulkayizeyAtAm",
+        "SuSulkayizeran",
+        "SuSulkayizeTAH",
+        "SuSulkayizeyATAm",
+        "SuSulkayizeDvam",
+        "SuSulkayizeya",
+        "SuSulkayizevahi",
+        "SuSulkayizemahi"
+      ],
+      "pashirling": [
+        "SuSulkayizyAt",
+        "SuSulkayizyAd",
+        "SuSulkayizyAstAm",
+        "SuSulkayizyAsuH",
+        "SuSulkayizyAH",
+        "SuSulkayizyAstam",
+        "SuSulkayizyAsta",
+        "SuSulkayizyAsam",
+        "SuSulkayizyAsva",
+        "SuSulkayizyAsma"
+      ],
+      "plang": [
+        "aSuSulkayizat",
+        "aSuSulkayizad",
+        "aSuSulkayizatAm",
+        "aSuSulkayizan",
+        "aSuSulkayizaH",
+        "aSuSulkayizatam",
+        "aSuSulkayizata",
+        "aSuSulkayizam",
+        "aSuSulkayizAva",
+        "aSuSulkayizAma"
+      ],
+      "plat": [
+        "SuSulkayizati",
+        "SuSulkayizataH",
+        "SuSulkayizanti",
+        "SuSulkayizasi",
+        "SuSulkayizaTaH",
+        "SuSulkayizaTa",
+        "SuSulkayizAmi",
+        "SuSulkayizAvaH",
+        "SuSulkayizAmaH"
+      ],
+      "plit": [
+        "SuSulkayizAYcakAra",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakratuH",
+        "SuSulkayizAmAsatuH",
+        "SuSulkayizAmbaBUvatuH",
+        "SuSulkayizAYcakruH",
+        "SuSulkayizAmAsuH",
+        "SuSulkayizAmbaBUvuH",
+        "SuSulkayizAYcakarTa",
+        "SuSulkayizAmAsiTa",
+        "SuSulkayizAmbaBUviTa",
+        "SuSulkayizAYcakraTuH",
+        "SuSulkayizAmAsaTuH",
+        "SuSulkayizAmbaBUvaTuH",
+        "SuSulkayizAYcakra",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakara",
+        "SuSulkayizAYcakAra",
+        "SuSulkayizAmAsa",
+        "SuSulkayizAmbaBUva",
+        "SuSulkayizAYcakfva",
+        "SuSulkayizAmAsiva",
+        "SuSulkayizAmbaBUviva",
+        "SuSulkayizAYcakfma",
+        "SuSulkayizAmAsima",
+        "SuSulkayizAmbaBUvima"
+      ],
+      "plot": [
+        "SuSulkayizatAt",
+        "SuSulkayizatAd",
+        "SuSulkayizatu",
+        "SuSulkayizatAm",
+        "SuSulkayizantu",
+        "SuSulkayiza",
+        "SuSulkayizatAt",
+        "SuSulkayizatAd",
+        "SuSulkayizatam",
+        "SuSulkayizata",
+        "SuSulkayizARi",
+        "SuSulkayizAva",
+        "SuSulkayizAma"
+      ],
+      "plrung": [
+        "aSuSulkayizizyat",
+        "aSuSulkayizizyad",
+        "aSuSulkayizizyatAm",
+        "aSuSulkayizizyan",
+        "aSuSulkayizizyaH",
+        "aSuSulkayizizyatam",
+        "aSuSulkayizizyata",
+        "aSuSulkayizizyam",
+        "aSuSulkayizizyAva",
+        "aSuSulkayizizyAma"
+      ],
+      "plrut": [
+        "SuSulkayizizyati",
+        "SuSulkayizizyataH",
+        "SuSulkayizizyanti",
+        "SuSulkayizizyasi",
+        "SuSulkayizizyaTaH",
+        "SuSulkayizizyaTa",
+        "SuSulkayizizyAmi",
+        "SuSulkayizizyAvaH",
+        "SuSulkayizizyAmaH"
+      ],
+      "plung": [
+        "aSuSulkayizIt",
+        "aSuSulkayizId",
+        "aSuSulkayizizwAm",
+        "aSuSulkayizizuH",
+        "aSuSulkayizIH",
+        "aSuSulkayizizwam",
+        "aSuSulkayizizwa",
+        "aSuSulkayizizam",
+        "aSuSulkayizizva",
+        "aSuSulkayizizma"
+      ],
+      "plut": [
+        "SuSulkayizitA",
+        "SuSulkayizitArO",
+        "SuSulkayizitAraH",
+        "SuSulkayizitAsi",
+        "SuSulkayizitAsTaH",
+        "SuSulkayizitAsTa",
+        "SuSulkayizitAsmi",
+        "SuSulkayizitAsvaH",
+        "SuSulkayizitAsmaH"
+      ],
+      "pvidhiling": [
+        "SuSulkayizet",
+        "SuSulkayized",
+        "SuSulkayizetAm",
+        "SuSulkayizeyuH",
+        "SuSulkayizeH",
+        "SuSulkayizetam",
+        "SuSulkayizeta",
+        "SuSulkayizeyam",
+        "SuSulkayizeva",
+        "SuSulkayizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "SuSulkayizizIzwa",
+        "SuSulkayizizIyAstAm",
+        "SuSulkayizizIran",
+        "SuSulkayizizIzWAH",
+        "SuSulkayizizIyAsTAm",
+        "SuSulkayizizIDvam",
+        "SuSulkayizizIya",
+        "SuSulkayizizIvahi",
+        "SuSulkayizizImahi"
+      ],
+      "alang": [
+        "aSuSulkayizyata",
+        "aSuSulkayizyetAm",
+        "aSuSulkayizyanta",
+        "aSuSulkayizyaTAH",
+        "aSuSulkayizyeTAm",
+        "aSuSulkayizyaDvam",
+        "aSuSulkayizye",
+        "aSuSulkayizyAvahi",
+        "aSuSulkayizyAmahi"
+      ],
+      "alat": [
+        "SuSulkayizyate",
+        "SuSulkayizyete",
+        "SuSulkayizyante",
+        "SuSulkayizyase",
+        "SuSulkayizyeTe",
+        "SuSulkayizyaDve",
+        "SuSulkayizye",
+        "SuSulkayizyAvahe",
+        "SuSulkayizyAmahe"
+      ],
+      "alit": [
+        "SuSulkayizAYcakre",
+        "SuSulkayizAmAse",
+        "SuSulkayizAmbaBUve",
+        "SuSulkayizAYcakrAte",
+        "SuSulkayizAmAsAte",
+        "SuSulkayizAmbaBUvAte",
+        "SuSulkayizAYcakrire",
+        "SuSulkayizAmAsire",
+        "SuSulkayizAmbaBUvire",
+        "SuSulkayizAYcakfze",
+        "SuSulkayizAmAsize",
+        "SuSulkayizAmbaBUvize",
+        "SuSulkayizAYcakrATe",
+        "SuSulkayizAmAsATe",
+        "SuSulkayizAmbaBUvATe",
+        "SuSulkayizAYcakfQve",
+        "SuSulkayizAmAsiDve",
+        "SuSulkayizAmbaBUviQve",
+        "SuSulkayizAYcakre",
+        "SuSulkayizAmAhe",
+        "SuSulkayizAmbaBUve",
+        "SuSulkayizAYcakfvahe",
+        "SuSulkayizAmAsivahe",
+        "SuSulkayizAmbaBUvivahe",
+        "SuSulkayizAYcakfmahe",
+        "SuSulkayizAmAsimahe",
+        "SuSulkayizAmbaBUvimahe"
+      ],
+      "alot": [
+        "SuSulkayizyatAm",
+        "SuSulkayizyetAm",
+        "SuSulkayizyantAm",
+        "SuSulkayizyasva",
+        "SuSulkayizyeTAm",
+        "SuSulkayizyaDvam",
+        "SuSulkayizyE",
+        "SuSulkayizyAvahE",
+        "SuSulkayizyAmahE"
+      ],
+      "alrung": [
+        "aSuSulkayizizyata",
+        "aSuSulkayizizyetAm",
+        "aSuSulkayizizyanta",
+        "aSuSulkayizizyaTAH",
+        "aSuSulkayizizyeTAm",
+        "aSuSulkayizizyaDvam",
+        "aSuSulkayizizye",
+        "aSuSulkayizizyAvahi",
+        "aSuSulkayizizyAmahi"
+      ],
+      "alrut": [
+        "SuSulkayizizyate",
+        "SuSulkayizizyete",
+        "SuSulkayizizyante",
+        "SuSulkayizizyase",
+        "SuSulkayizizyeTe",
+        "SuSulkayizizyaDve",
+        "SuSulkayizizye",
+        "SuSulkayizizyAvahe",
+        "SuSulkayizizyAmahe"
+      ],
+      "alung": [
+        "aSuSulkayizi",
+        "aSuSulkayizizAtAm",
+        "aSuSulkayizizata",
+        "aSuSulkayizizWAH",
+        "aSuSulkayizizATAm",
+        "aSuSulkayiziDvam",
+        "aSuSulkayizizi",
+        "aSuSulkayizizvahi",
+        "aSuSulkayizizmahi"
+      ],
+      "alut": [
+        "SuSulkayizitA",
+        "SuSulkayizitArO",
+        "SuSulkayizitAraH",
+        "SuSulkayizitAse",
+        "SuSulkayizitAsATe",
+        "SuSulkayizitADve",
+        "SuSulkayizitAhe",
+        "SuSulkayizitAsvahe",
+        "SuSulkayizitAsmahe"
+      ],
+      "avidhiling": [
+        "SuSulkayizyeta",
+        "SuSulkayizyeyAtAm",
+        "SuSulkayizyeran",
+        "SuSulkayizyeTAH",
+        "SuSulkayizyeyATAm",
+        "SuSulkayizyeDvam",
+        "SuSulkayizyeya",
+        "SuSulkayizyevahi",
+        "SuSulkayizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "SulkayizIzwa",
+        "SulkayizIyAstAm",
+        "SulkayizIran",
+        "SulkayizIzWAH",
+        "SulkayizIyAsTAm",
+        "SulkayizIQvam",
+        "SulkayizIDvam",
+        "SulkayizIya",
+        "SulkayizIvahi",
+        "SulkayizImahi"
+      ],
+      "alang": [
+        "aSulkayata",
+        "aSulkayetAm",
+        "aSulkayanta",
+        "aSulkayaTAH",
+        "aSulkayeTAm",
+        "aSulkayaDvam",
+        "aSulkaye",
+        "aSulkayAvahi",
+        "aSulkayAmahi"
+      ],
+      "alat": [
+        "Sulkayate",
+        "Sulkayete",
+        "Sulkayante",
+        "Sulkayase",
+        "SulkayeTe",
+        "SulkayaDve",
+        "Sulkaye",
+        "SulkayAvahe",
+        "SulkayAmahe"
+      ],
+      "alit": [
+        "SulkayAYcakre",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakrAte",
+        "SulkayAmAsatuH",
+        "SulkayAmbaBUvatuH",
+        "SulkayAYcakrire",
+        "SulkayAmAsuH",
+        "SulkayAmbaBUvuH",
+        "SulkayAYcakfze",
+        "SulkayAmAsiTa",
+        "SulkayAmbaBUviTa",
+        "SulkayAYcakrATe",
+        "SulkayAmAsaTuH",
+        "SulkayAmbaBUvaTuH",
+        "SulkayAYcakfQve",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakre",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakfvahe",
+        "SulkayAmAsiva",
+        "SulkayAmbaBUviva",
+        "SulkayAYcakfmahe",
+        "SulkayAmAsima",
+        "SulkayAmbaBUvima"
+      ],
+      "alot": [
+        "SulkayatAm",
+        "SulkayetAm",
+        "SulkayantAm",
+        "Sulkayasva",
+        "SulkayeTAm",
+        "SulkayaDvam",
+        "SulkayE",
+        "SulkayAvahE",
+        "SulkayAmahE"
+      ],
+      "alrung": [
+        "aSulkayizyata",
+        "aSulkayizyetAm",
+        "aSulkayizyanta",
+        "aSulkayizyaTAH",
+        "aSulkayizyeTAm",
+        "aSulkayizyaDvam",
+        "aSulkayizye",
+        "aSulkayizyAvahi",
+        "aSulkayizyAmahi"
+      ],
+      "alrut": [
+        "Sulkayizyate",
+        "Sulkayizyete",
+        "Sulkayizyante",
+        "Sulkayizyase",
+        "SulkayizyeTe",
+        "SulkayizyaDve",
+        "Sulkayizye",
+        "SulkayizyAvahe",
+        "SulkayizyAmahe"
+      ],
+      "alung": [
+        "aSuSulkata",
+        "aSuSulketAm",
+        "aSuSulkanta",
+        "aSuSulkaTAH",
+        "aSuSulkeTAm",
+        "aSuSulkaDvam",
+        "aSuSulke",
+        "aSuSulkAvahi",
+        "aSuSulkAmahi"
+      ],
+      "alut": [
+        "SulkayitA",
+        "SulkayitArO",
+        "SulkayitAraH",
+        "SulkayitAse",
+        "SulkayitAsATe",
+        "SulkayitADve",
+        "SulkayitAhe",
+        "SulkayitAsvahe",
+        "SulkayitAsmahe"
+      ],
+      "avidhiling": [
+        "Sulkayeta",
+        "SulkayeyAtAm",
+        "Sulkayeran",
+        "SulkayeTAH",
+        "SulkayeyATAm",
+        "SulkayeDvam",
+        "Sulkayeya",
+        "Sulkayevahi",
+        "Sulkayemahi"
+      ],
+      "pashirling": [
+        "SulkyAt",
+        "SulkyAd",
+        "SulkyAstAm",
+        "SulkyAsuH",
+        "SulkyAH",
+        "SulkyAstam",
+        "SulkyAsta",
+        "SulkyAsam",
+        "SulkyAsva",
+        "SulkyAsma"
+      ],
+      "plang": [
+        "aSulkayat",
+        "aSulkayad",
+        "aSulkayatAm",
+        "aSulkayan",
+        "aSulkayaH",
+        "aSulkayatam",
+        "aSulkayata",
+        "aSulkayam",
+        "aSulkayAva",
+        "aSulkayAma"
+      ],
+      "plat": [
+        "Sulkayati",
+        "SulkayataH",
+        "Sulkayanti",
+        "Sulkayasi",
+        "SulkayaTaH",
+        "SulkayaTa",
+        "SulkayAmi",
+        "SulkayAvaH",
+        "SulkayAmaH"
+      ],
+      "plit": [
+        "SulkayAYcakAra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakratuH",
+        "SulkayAmAsatuH",
+        "SulkayAmbaBUvatuH",
+        "SulkayAYcakruH",
+        "SulkayAmAsuH",
+        "SulkayAmbaBUvuH",
+        "SulkayAYcakarTa",
+        "SulkayAmAsiTa",
+        "SulkayAmbaBUviTa",
+        "SulkayAYcakraTuH",
+        "SulkayAmAsaTuH",
+        "SulkayAmbaBUvaTuH",
+        "SulkayAYcakra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakara",
+        "SulkayAYcakAra",
+        "SulkayAmAsa",
+        "SulkayAmbaBUva",
+        "SulkayAYcakfva",
+        "SulkayAmAsiva",
+        "SulkayAmbaBUviva",
+        "SulkayAYcakfma",
+        "SulkayAmAsima",
+        "SulkayAmbaBUvima"
+      ],
+      "plot": [
+        "SulkayatAt",
+        "SulkayatAd",
+        "Sulkayatu",
+        "SulkayatAm",
+        "Sulkayantu",
+        "Sulkaya",
+        "SulkayatAt",
+        "SulkayatAd",
+        "Sulkayatam",
+        "Sulkayata",
+        "SulkayAni",
+        "SulkayAva",
+        "SulkayAma"
+      ],
+      "plrung": [
+        "aSulkayizyat",
+        "aSulkayizyad",
+        "aSulkayizyatAm",
+        "aSulkayizyan",
+        "aSulkayizyaH",
+        "aSulkayizyatam",
+        "aSulkayizyata",
+        "aSulkayizyam",
+        "aSulkayizyAva",
+        "aSulkayizyAma"
+      ],
+      "plrut": [
+        "Sulkayizyati",
+        "SulkayizyataH",
+        "Sulkayizyanti",
+        "Sulkayizyasi",
+        "SulkayizyaTaH",
+        "SulkayizyaTa",
+        "SulkayizyAmi",
+        "SulkayizyAvaH",
+        "SulkayizyAmaH"
+      ],
+      "plung": [
+        "aSuSulkat",
+        "aSuSulkad",
+        "aSuSulkatAm",
+        "aSuSulkan",
+        "aSuSulkaH",
+        "aSuSulkatam",
+        "aSuSulkata",
+        "aSuSulkam",
+        "aSuSulkAva",
+        "aSuSulkAma"
+      ],
+      "plut": [
+        "SulkayitA",
+        "SulkayitArO",
+        "SulkayitAraH",
+        "SulkayitAsi",
+        "SulkayitAsTaH",
+        "SulkayitAsTa",
+        "SulkayitAsmi",
+        "SulkayitAsvaH",
+        "SulkayitAsmaH"
+      ],
+      "pvidhiling": [
+        "Sulkayet",
+        "Sulkayed",
+        "SulkayetAm",
+        "SulkayeyuH",
+        "SulkayeH",
+        "Sulkayetam",
+        "Sulkayeta",
+        "Sulkayeyam",
+        "Sulkayeva",
+        "Sulkayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "SulkayizIzwa",
+        "SulkizIzwa",
+        "SulkayizIyAstAm",
+        "SulkizIyAstAm",
+        "SulkayizIran",
+        "SulkizIran",
+        "SulkayizIzWAH",
+        "SulkizIzWAH",
+        "SulkayizIyAsTAm",
+        "SulkizIyAsTAm",
+        "SulkayizIQvam",
+        "SulkayizIDvam",
+        "SulkizIDvam",
+        "SulkayizIya",
+        "SulkizIya",
+        "SulkayizIvahi",
+        "SulkizIvahi",
+        "SulkayizImahi",
+        "SulkizImahi"
+      ],
+      "alang": [
+        "aSulkyata",
+        "aSulkyetAm",
+        "aSulkyanta",
+        "aSulkyaTAH",
+        "aSulkyeTAm",
+        "aSulkyaDvam",
+        "aSulkye",
+        "aSulkyAvahi",
+        "aSulkyAmahi"
+      ],
+      "alat": [
+        "Sulkyate",
+        "Sulkyete",
+        "Sulkyante",
+        "Sulkyase",
+        "SulkyeTe",
+        "SulkyaDve",
+        "Sulkye",
+        "SulkyAvahe",
+        "SulkyAmahe"
+      ],
+      "alit": [
+        "SulkayAYcakre",
+        "SulkayAmAse",
+        "SulkayAmbaBUve",
+        "SulkayAYcakrAte",
+        "SulkayAmAsAte",
+        "SulkayAmbaBUvAte",
+        "SulkayAYcakrire",
+        "SulkayAmAsire",
+        "SulkayAmbaBUvire",
+        "SulkayAYcakfze",
+        "SulkayAmAsize",
+        "SulkayAmbaBUvize",
+        "SulkayAYcakrATe",
+        "SulkayAmAsATe",
+        "SulkayAmbaBUvATe",
+        "SulkayAYcakfQve",
+        "SulkayAmAsiDve",
+        "SulkayAmbaBUviQve",
+        "SulkayAYcakre",
+        "SulkayAmAhe",
+        "SulkayAmbaBUve",
+        "SulkayAYcakfvahe",
+        "SulkayAmAsivahe",
+        "SulkayAmbaBUvivahe",
+        "SulkayAYcakfmahe",
+        "SulkayAmAsimahe",
+        "SulkayAmbaBUvimahe"
+      ],
+      "alot": [
+        "SulkyatAm",
+        "SulkyetAm",
+        "SulkyantAm",
+        "Sulkyasva",
+        "SulkyeTAm",
+        "SulkyaDvam",
+        "SulkyE",
+        "SulkyAvahE",
+        "SulkyAmahE"
+      ],
+      "alrung": [
+        "aSulkayizyata",
+        "aSulkizyata",
+        "aSulkayizyetAm",
+        "aSulkizyetAm",
+        "aSulkayizyanta",
+        "aSulkizyanta",
+        "aSulkayizyaTAH",
+        "aSulkizyaTAH",
+        "aSulkayizyeTAm",
+        "aSulkizyeTAm",
+        "aSulkayizyaDvam",
+        "aSulkizyaDvam",
+        "aSulkayizye",
+        "aSulkizye",
+        "aSulkayizyAvahi",
+        "aSulkizyAvahi",
+        "aSulkayizyAmahi",
+        "aSulkizyAmahi"
+      ],
+      "alrut": [
+        "Sulkayizyate",
+        "Sulkizyate",
+        "Sulkayizyete",
+        "Sulkizyete",
+        "Sulkayizyante",
+        "Sulkizyante",
+        "Sulkayizyase",
+        "Sulkizyase",
+        "SulkayizyeTe",
+        "SulkizyeTe",
+        "SulkayizyaDve",
+        "SulkizyaDve",
+        "Sulkayizye",
+        "Sulkizye",
+        "SulkayizyAvahe",
+        "SulkizyAvahe",
+        "SulkayizyAmahe",
+        "SulkizyAmahe"
+      ],
+      "alung": [
+        "aSulki",
+        "aSulkayizAtAm",
+        "aSulkizAtAm",
+        "aSulkayizata",
+        "aSulkizata",
+        "aSulkayizWAH",
+        "aSulkizWAH",
+        "aSulkayizATAm",
+        "aSulkizATAm",
+        "aSulkayiQvam",
+        "aSulkayiDvam",
+        "aSulkiDvam",
+        "aSulkayizi",
+        "aSulkizi",
+        "aSulkayizvahi",
+        "aSulkizvahi",
+        "aSulkayizmahi",
+        "aSulkizmahi"
+      ],
+      "alut": [
+        "SulkayitA",
+        "SulkitA",
+        "SulkayitArO",
+        "SulkitArO",
+        "SulkayitAraH",
+        "SulkitAraH",
+        "SulkayitAse",
+        "SulkitAse",
+        "SulkayitAsATe",
+        "SulkitAsATe",
+        "SulkayitADve",
+        "SulkitADve",
+        "SulkayitAhe",
+        "SulkitAhe",
+        "SulkayitAsvahe",
+        "SulkitAsvahe",
+        "SulkayitAsmahe",
+        "SulkitAsmahe"
+      ],
+      "avidhiling": [
+        "Sulkyeta",
+        "SulkyeyAtAm",
+        "Sulkyeran",
+        "SulkyeTAH",
+        "SulkyeyATAm",
+        "SulkyeDvam",
+        "Sulkyeya",
+        "Sulkyevahi",
+        "Sulkyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "Sulka",
+          "m": "SulkaH",
+          "f": "SulkA",
+          "n": "Sulkam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SulkanIya",
+          "m": "SulkanIyaH",
+          "f": "SulkanIyA",
+          "n": "SulkanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Sulkita",
+          "m": "SulkitaH",
+          "f": "SulkitA",
+          "n": "Sulkitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Sulkitavat",
+          "m": "SulkitavAn",
+          "f": "SulkitavatI",
+          "n": "Sulkitavat/Sulkitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Sulkti",
+          "m": "",
+          "f": "SulktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SulkayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SulkayAmbaBUvas",
+          "m": "SulkayAmbaBUvAn",
+          "f": "SulkayAmbaBUzI",
+          "n": "SulkayAmbaBUvat/SulkayAmbaBUvad"
+        },
+        {
+          "base": "SulkayAmAsivas",
+          "m": "SulkayAmAsivAn",
+          "f": "SulkayAmAsuzI",
+          "n": "SulkayAmAsivat/SulkayAmAsivad"
+        },
+        {
+          "base": "SulkayAYcakfvas",
+          "m": "SulkayAYcakfvAn",
+          "f": "SulkayAYcakruzI",
+          "n": "SulkayAYcakfvat/SulkayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SulkayamAna",
+          "m": "SulkayamAnaH",
+          "f": "SulkayamAnA",
+          "n": "SulkayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Sulkam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Sulkaka",
+          "m": "SulkakaH",
+          "f": "SulkikA",
+          "n": "Sulkakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Sulkayitavya",
+          "m": "SulkayitavyaH",
+          "f": "SulkayitavyA",
+          "n": "Sulkayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Sulkayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Sulkayitf",
+          "m": "SulkayitA",
+          "f": "SulkayitrI",
+          "n": "Sulkayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SulkyamAna",
+          "m": "SulkyamAnaH",
+          "f": "SulkyamAnA",
+          "n": "SulkyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Sulkya",
+          "m": "SulkyaH",
+          "f": "SulkyA",
+          "n": "Sulkyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSulkya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Sulkana",
+          "m": "",
+          "f": "",
+          "n": "Sulkanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Sulkaka",
+          "m": "SulkakaH",
+          "f": "SulkikA",
+          "n": "Sulkakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Sulkayat",
+          "m": "Sulkayan",
+          "f": "SulkayantI",
+          "n": "Sulkayat/Sulkayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SulkayamAna",
+          "m": "SulkayamAnaH",
+          "f": "SulkayamAnA",
+          "n": "SulkayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SulkizyamARa",
+          "m": "SulkizyamARaH",
+          "f": "SulkizyamARA",
+          "n": "SulkizyamARam"
+        },
+        {
+          "base": "SulkayizyamARa",
+          "m": "SulkayizyamARaH",
+          "f": "SulkayizyamARA",
+          "n": "SulkayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Sulkayizyat",
+          "m": "Sulkayizyan",
+          "f": "SulkayizyatI/SulkayizyantI",
+          "n": "Sulkayizyat/Sulkayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SulkayizyamARa",
+          "m": "SulkayizyamARaH",
+          "f": "SulkayizyamARA",
+          "n": "SulkayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "SuSulkayizA",
+          "m": "",
+          "f": "SuSulkayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "SuSulkayiza",
+          "m": "SuSulkayizaH",
+          "f": "SuSulkayizA",
+          "n": "SuSulkayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SuSulkayizaRIya",
+          "m": "SuSulkayizaRIyaH",
+          "f": "SuSulkayizaRIyA",
+          "n": "SuSulkayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "SuSulkayizu",
+          "m": "SuSulkayizuH",
+          "f": "SuSulkayizuH",
+          "n": "SuSulkayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "SuSulkayizita",
+          "m": "SuSulkayizitaH",
+          "f": "SuSulkayizitA",
+          "n": "SuSulkayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "SuSulkayizitavat",
+          "m": "SuSulkayizitavAn",
+          "f": "SuSulkayizitavatI",
+          "n": "SuSulkayizitavat/SuSulkayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "SuSulkayizwi",
+          "m": "",
+          "f": "SuSulkayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SuSulkayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SuSulkayizAmbaBUvas",
+          "m": "SuSulkayizAmbaBUvAn",
+          "f": "SuSulkayizAmbaBUzI",
+          "n": "SuSulkayizAmbaBUvat/SuSulkayizAmbaBUvad"
+        },
+        {
+          "base": "SuSulkayizAmAsivas",
+          "m": "SuSulkayizAmAsivAn",
+          "f": "SuSulkayizAmAsyuzI",
+          "n": "SuSulkayizAmAsivat/SuSulkayizAmAsivad"
+        },
+        {
+          "base": "SuSulkayizAYcakfvas",
+          "m": "SuSulkayizAYcakfvAn",
+          "f": "SuSulkayizAYcakruzI",
+          "n": "SuSulkayizAYcakfvat/SuSulkayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "SuSulkayiza",
+          "m": "SuSulkayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SuSulkayizamARa",
+          "m": "SuSulkayizamARaH",
+          "f": "SuSulkayizamARA",
+          "n": "SuSulkayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "SuSulkayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "SuSulkayizaka",
+          "m": "SuSulkayizakaH",
+          "f": "SuSulkayizikA",
+          "n": "SuSulkayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "SuSulkayizitavya",
+          "m": "SuSulkayizitavyaH",
+          "f": "SuSulkayizitavyA",
+          "n": "SuSulkayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "SuSulkayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "SuSulkayizitf",
+          "m": "SuSulkayizitA",
+          "f": "SuSulkayizitrI",
+          "n": "SuSulkayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SuSulkayizyamARa",
+          "m": "SuSulkayizyamARaH",
+          "f": "SuSulkayizyamARA",
+          "n": "SuSulkayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "SuSulkayizya",
+          "m": "SuSulkayizyaH",
+          "f": "SuSulkayizyA",
+          "n": "SuSulkayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSuSulkayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "SuSulkayizaRa",
+          "m": "",
+          "f": "",
+          "n": "SuSulkayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "SuSulkayizaka",
+          "m": "SuSulkayizakaH",
+          "f": "SuSulkayizikA",
+          "n": "SuSulkayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "SuSulkayizat",
+          "m": "SuSulkayizan",
+          "f": "SuSulkayizantI",
+          "n": "SuSulkayizat/SuSulkayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SuSulkayizamARa",
+          "m": "SuSulkayizamARaH",
+          "f": "SuSulkayizamARA",
+          "n": "SuSulkayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SuSulkayizizyamARa",
+          "m": "SuSulkayizizyamARaH",
+          "f": "SuSulkayizizyamARA",
+          "n": "SuSulkayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "SuSulkayizizyat",
+          "m": "SuSulkayizizyan",
+          "f": "SuSulkayizizyatI/SuSulkayizizyantI",
+          "n": "SuSulkayizizyat/SuSulkayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SuSulkayizizyamARa",
+          "m": "SuSulkayizizyamARaH",
+          "f": "SuSulkayizizyamARA",
+          "n": "SuSulkayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "Sulka",
+          "m": "SulkaH",
+          "f": "SulkA",
+          "n": "Sulkam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "SulkanIya",
+          "m": "SulkanIyaH",
+          "f": "SulkanIyA",
+          "n": "SulkanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Sulkita",
+          "m": "SulkitaH",
+          "f": "SulkitA",
+          "n": "Sulkitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Sulkitavat",
+          "m": "SulkitavAn",
+          "f": "SulkitavatI",
+          "n": "Sulkitavat/Sulkitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Sulkti",
+          "m": "",
+          "f": "SulktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "SulkayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "SulkayAmbaBUvas",
+          "m": "SulkayAmbaBUvAn",
+          "f": "SulkayAmbaBUzI",
+          "n": "SulkayAmbaBUvat/SulkayAmbaBUvad"
+        },
+        {
+          "base": "SulkayAmAsivas",
+          "m": "SulkayAmAsivAn",
+          "f": "SulkayAmAsyuzI",
+          "n": "SulkayAmAsivat/SulkayAmAsivad"
+        },
+        {
+          "base": "SulkayAYcakfvas",
+          "m": "SulkayAYcakfvAn",
+          "f": "SulkayAYcakruzI",
+          "n": "SulkayAYcakfvat/SulkayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "SulkayamAna",
+          "m": "SulkayamAnaH",
+          "f": "SulkayamAnA",
+          "n": "SulkayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "Sulkam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "Sulkaka",
+          "m": "SulkakaH",
+          "f": "SulkikA",
+          "n": "Sulkakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "Sulkayitavya",
+          "m": "SulkayitavyaH",
+          "f": "SulkayitavyA",
+          "n": "Sulkayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "Sulkayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "Sulkayitf",
+          "m": "SulkayitA",
+          "f": "SulkayitrI",
+          "n": "Sulkayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "SulkyamAna",
+          "m": "SulkyamAnaH",
+          "f": "SulkyamAnA",
+          "n": "SulkyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "Sulkya",
+          "m": "SulkyaH",
+          "f": "SulkyA",
+          "n": "Sulkyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praSulkya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "Sulkana",
+          "m": "",
+          "f": "",
+          "n": "Sulkanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "Sulkaka",
+          "m": "SulkakaH",
+          "f": "SulkikA",
+          "n": "Sulkakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "Sulkayat",
+          "m": "Sulkayan",
+          "f": "SulkayantI",
+          "n": "Sulkayat/Sulkayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "SulkayamAna",
+          "m": "SulkayamAnaH",
+          "f": "SulkayamAnA",
+          "n": "SulkayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "SulkizyamARa",
+          "m": "SulkizyamARaH",
+          "f": "SulkizyamARA",
+          "n": "SulkizyamARam"
+        },
+        {
+          "base": "SulkayizyamARa",
+          "m": "SulkayizyamARaH",
+          "f": "SulkayizyamARA",
+          "n": "SulkayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "Sulkayizyat",
+          "m": "Sulkayizyan",
+          "f": "SulkayizyatI/SulkayizyantI",
+          "n": "Sulkayizyat/Sulkayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "SulkayizyamARa",
+          "m": "SulkayizyamARaH",
+          "f": "SulkayizyamARA",
+          "n": "SulkayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Sulk",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

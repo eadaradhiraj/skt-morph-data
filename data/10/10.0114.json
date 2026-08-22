@@ -1,0 +1,3493 @@
+{
+  "id": "10.0114",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Caji~"
+    },
+    {
+      "name": "arTaH",
+      "value": "kfcCrajIvane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to live miserably, to live hard life"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "kaWina jIvana vyatIta karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "kzaji ' iti DAtukAvye (3-24) pAWaH . bAlamanoramAyAm api taTEva ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1621"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1622"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2567",
+      "ext_link": "/sutraani/sk2567?scroll=sutra-commentary-kaumudi-region&highlight=Cajai"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "CaYjayizIzwa",
+        "CaYjayizIyAstAm",
+        "CaYjayizIran",
+        "CaYjayizIzWAH",
+        "CaYjayizIyAsTAm",
+        "CaYjayizIQvam",
+        "CaYjayizIDvam",
+        "CaYjayizIya",
+        "CaYjayizIvahi",
+        "CaYjayizImahi"
+      ],
+      "alang": [
+        "acCaYjayata",
+        "acCaYjayetAm",
+        "acCaYjayanta",
+        "acCaYjayaTAH",
+        "acCaYjayeTAm",
+        "acCaYjayaDvam",
+        "acCaYjaye",
+        "acCaYjayAvahi",
+        "acCaYjayAmahi"
+      ],
+      "alat": [
+        "CaYjayate",
+        "CaYjayete",
+        "CaYjayante",
+        "CaYjayase",
+        "CaYjayeTe",
+        "CaYjayaDve",
+        "CaYjaye",
+        "CaYjayAvahe",
+        "CaYjayAmahe"
+      ],
+      "alit": [
+        "CaYjayAYcakre",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakrAte",
+        "CaYjayAmAsatuH",
+        "CaYjayAmbaBUvatuH",
+        "CaYjayAYcakrire",
+        "CaYjayAmAsuH",
+        "CaYjayAmbaBUvuH",
+        "CaYjayAYcakfze",
+        "CaYjayAmAsiTa",
+        "CaYjayAmbaBUviTa",
+        "CaYjayAYcakrATe",
+        "CaYjayAmAsaTuH",
+        "CaYjayAmbaBUvaTuH",
+        "CaYjayAYcakfQve",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakre",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakfvahe",
+        "CaYjayAmAsiva",
+        "CaYjayAmbaBUviva",
+        "CaYjayAYcakfmahe",
+        "CaYjayAmAsima",
+        "CaYjayAmbaBUvima"
+      ],
+      "alot": [
+        "CaYjayatAm",
+        "CaYjayetAm",
+        "CaYjayantAm",
+        "CaYjayasva",
+        "CaYjayeTAm",
+        "CaYjayaDvam",
+        "CaYjayE",
+        "CaYjayAvahE",
+        "CaYjayAmahE"
+      ],
+      "alrung": [
+        "acCaYjayizyata",
+        "acCaYjayizyetAm",
+        "acCaYjayizyanta",
+        "acCaYjayizyaTAH",
+        "acCaYjayizyeTAm",
+        "acCaYjayizyaDvam",
+        "acCaYjayizye",
+        "acCaYjayizyAvahi",
+        "acCaYjayizyAmahi"
+      ],
+      "alrut": [
+        "CaYjayizyate",
+        "CaYjayizyete",
+        "CaYjayizyante",
+        "CaYjayizyase",
+        "CaYjayizyeTe",
+        "CaYjayizyaDve",
+        "CaYjayizye",
+        "CaYjayizyAvahe",
+        "CaYjayizyAmahe"
+      ],
+      "alung": [
+        "acacCaYjata",
+        "acacCaYjetAm",
+        "acacCaYjanta",
+        "acacCaYjaTAH",
+        "acacCaYjeTAm",
+        "acacCaYjaDvam",
+        "acacCaYje",
+        "acacCaYjAvahi",
+        "acacCaYjAmahi"
+      ],
+      "alut": [
+        "CaYjayitA",
+        "CaYjayitArO",
+        "CaYjayitAraH",
+        "CaYjayitAse",
+        "CaYjayitAsATe",
+        "CaYjayitADve",
+        "CaYjayitAhe",
+        "CaYjayitAsvahe",
+        "CaYjayitAsmahe"
+      ],
+      "avidhiling": [
+        "CaYjayeta",
+        "CaYjayeyAtAm",
+        "CaYjayeran",
+        "CaYjayeTAH",
+        "CaYjayeyATAm",
+        "CaYjayeDvam",
+        "CaYjayeya",
+        "CaYjayevahi",
+        "CaYjayemahi"
+      ],
+      "pashirling": [
+        "CaYjyAt",
+        "CaYjyAd",
+        "CaYjyAstAm",
+        "CaYjyAsuH",
+        "CaYjyAH",
+        "CaYjyAstam",
+        "CaYjyAsta",
+        "CaYjyAsam",
+        "CaYjyAsva",
+        "CaYjyAsma"
+      ],
+      "plang": [
+        "acCaYjat",
+        "acCaYjad",
+        "acCaYjayat",
+        "acCaYjayad",
+        "acCaYjatAm",
+        "acCaYjayatAm",
+        "acCaYjan",
+        "acCaYjayan",
+        "acCaYjaH",
+        "acCaYjayaH",
+        "acCaYjatam",
+        "acCaYjayatam",
+        "acCaYjata",
+        "acCaYjayata",
+        "acCaYjam",
+        "acCaYjayam",
+        "acCaYjayAva",
+        "acCaYjAva",
+        "acCaYjayAma",
+        "acCaYjAma"
+      ],
+      "plat": [
+        "CaYjati",
+        "CaYjayati",
+        "CaYjataH",
+        "CaYjayataH",
+        "CaYjanti",
+        "CaYjayanti",
+        "CaYjayasi",
+        "CaYjasi",
+        "CaYjaTaH",
+        "CaYjayaTaH",
+        "CaYjaTa",
+        "CaYjayaTa",
+        "CaYjayAmi",
+        "CaYjAmi",
+        "CaYjayAvaH",
+        "CaYjAvaH",
+        "CaYjayAmaH",
+        "CaYjAmaH"
+      ],
+      "plit": [
+        "cacCaYja",
+        "CaYjayAYcakAra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "cacCaYjatuH",
+        "CaYjayAYcakratuH",
+        "CaYjayAmAsatuH",
+        "CaYjayAmbaBUvatuH",
+        "cacCaYjuH",
+        "CaYjayAYcakruH",
+        "CaYjayAmAsuH",
+        "CaYjayAmbaBUvuH",
+        "cacCaYjiTa",
+        "CaYjayAYcakarTa",
+        "CaYjayAmAsiTa",
+        "CaYjayAmbaBUviTa",
+        "cacCaYjaTuH",
+        "CaYjayAYcakraTuH",
+        "CaYjayAmAsaTuH",
+        "CaYjayAmbaBUvaTuH",
+        "cacCaYja",
+        "CaYjayAYcakra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "cacCaYja",
+        "CaYjayAYcakara",
+        "CaYjayAYcakAra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "cacCaYjiva",
+        "CaYjayAYcakfva",
+        "CaYjayAmAsiva",
+        "CaYjayAmbaBUviva",
+        "cacCaYjima",
+        "CaYjayAYcakfma",
+        "CaYjayAmAsima",
+        "CaYjayAmbaBUvima"
+      ],
+      "plot": [
+        "CaYjatAt",
+        "CaYjatAd",
+        "CaYjatu",
+        "CaYjayatAt",
+        "CaYjayatAd",
+        "CaYjayatu",
+        "CaYjatAm",
+        "CaYjayatAm",
+        "CaYjantu",
+        "CaYjayantu",
+        "CaYja",
+        "CaYjatAt",
+        "CaYjatAd",
+        "CaYjaya",
+        "CaYjayatAt",
+        "CaYjayatAd",
+        "CaYjatam",
+        "CaYjayatam",
+        "CaYjata",
+        "CaYjayata",
+        "CaYjayAni",
+        "CaYjAni",
+        "CaYjayAva",
+        "CaYjAva",
+        "CaYjayAma",
+        "CaYjAma"
+      ],
+      "plrung": [
+        "acCaYjayizyat",
+        "acCaYjayizyad",
+        "acCaYjizyat",
+        "acCaYjizyad",
+        "acCaYjayizyatAm",
+        "acCaYjizyatAm",
+        "acCaYjayizyan",
+        "acCaYjizyan",
+        "acCaYjayizyaH",
+        "acCaYjizyaH",
+        "acCaYjayizyatam",
+        "acCaYjizyatam",
+        "acCaYjayizyata",
+        "acCaYjizyata",
+        "acCaYjayizyam",
+        "acCaYjizyam",
+        "acCaYjayizyAva",
+        "acCaYjizyAva",
+        "acCaYjayizyAma",
+        "acCaYjizyAma"
+      ],
+      "plrut": [
+        "CaYjayizyati",
+        "CaYjizyati",
+        "CaYjayizyataH",
+        "CaYjizyataH",
+        "CaYjayizyanti",
+        "CaYjizyanti",
+        "CaYjayizyasi",
+        "CaYjizyasi",
+        "CaYjayizyaTaH",
+        "CaYjizyaTaH",
+        "CaYjayizyaTa",
+        "CaYjizyaTa",
+        "CaYjayizyAmi",
+        "CaYjizyAmi",
+        "CaYjayizyAvaH",
+        "CaYjizyAvaH",
+        "CaYjayizyAmaH",
+        "CaYjizyAmaH"
+      ],
+      "plung": [
+        "acacCaYjat",
+        "acacCaYjad",
+        "acCaYjIt",
+        "acCaYjId",
+        "acacCaYjatAm",
+        "acCaYjizwAm",
+        "acacCaYjan",
+        "acCaYjizuH",
+        "acacCaYjaH",
+        "acCaYjIH",
+        "acacCaYjatam",
+        "acCaYjizwam",
+        "acacCaYjata",
+        "acCaYjizwa",
+        "acacCaYjam",
+        "acCaYjizam",
+        "acacCaYjAva",
+        "acCaYjizva",
+        "acacCaYjAma",
+        "acCaYjizma"
+      ],
+      "plut": [
+        "CaYjayitA",
+        "CaYjitA",
+        "CaYjayitArO",
+        "CaYjitArO",
+        "CaYjayitAraH",
+        "CaYjitAraH",
+        "CaYjayitAsi",
+        "CaYjitAsi",
+        "CaYjayitAsTaH",
+        "CaYjitAsTaH",
+        "CaYjayitAsTa",
+        "CaYjitAsTa",
+        "CaYjayitAsmi",
+        "CaYjitAsmi",
+        "CaYjayitAsvaH",
+        "CaYjitAsvaH",
+        "CaYjayitAsmaH",
+        "CaYjitAsmaH"
+      ],
+      "pvidhiling": [
+        "CaYjayet",
+        "CaYjayed",
+        "CaYjet",
+        "CaYjed",
+        "CaYjayetAm",
+        "CaYjetAm",
+        "CaYjayeyuH",
+        "CaYjeyuH",
+        "CaYjayeH",
+        "CaYjeH",
+        "CaYjayetam",
+        "CaYjetam",
+        "CaYjayeta",
+        "CaYjeta",
+        "CaYjayeyam",
+        "CaYjeyam",
+        "CaYjayeva",
+        "CaYjeva",
+        "CaYjayema",
+        "CaYjema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "CaYjayizIzwa",
+        "CaYjizIzwa",
+        "CaYjayizIyAstAm",
+        "CaYjizIyAstAm",
+        "CaYjayizIran",
+        "CaYjizIran",
+        "CaYjayizIzWAH",
+        "CaYjizIzWAH",
+        "CaYjayizIyAsTAm",
+        "CaYjizIyAsTAm",
+        "CaYjayizIQvam",
+        "CaYjayizIDvam",
+        "CaYjizIDvam",
+        "CaYjayizIya",
+        "CaYjizIya",
+        "CaYjayizIvahi",
+        "CaYjizIvahi",
+        "CaYjayizImahi",
+        "CaYjizImahi"
+      ],
+      "alang": [
+        "acCaYjyata",
+        "acCaYjyetAm",
+        "acCaYjyanta",
+        "acCaYjyaTAH",
+        "acCaYjyeTAm",
+        "acCaYjyaDvam",
+        "acCaYjye",
+        "acCaYjyAvahi",
+        "acCaYjyAmahi"
+      ],
+      "alat": [
+        "CaYjyate",
+        "CaYjyete",
+        "CaYjyante",
+        "CaYjyase",
+        "CaYjyeTe",
+        "CaYjyaDve",
+        "CaYjye",
+        "CaYjyAvahe",
+        "CaYjyAmahe"
+      ],
+      "alit": [
+        "cacCaYje",
+        "CaYjayAYcakre",
+        "CaYjayAmAse",
+        "CaYjayAmbaBUve",
+        "cacCaYjAte",
+        "CaYjayAYcakrAte",
+        "CaYjayAmAsAte",
+        "CaYjayAmbaBUvAte",
+        "cacCaYjire",
+        "CaYjayAYcakrire",
+        "CaYjayAmAsire",
+        "CaYjayAmbaBUvire",
+        "cacCaYjize",
+        "CaYjayAYcakfze",
+        "CaYjayAmAsize",
+        "CaYjayAmbaBUvize",
+        "cacCaYjATe",
+        "CaYjayAYcakrATe",
+        "CaYjayAmAsATe",
+        "CaYjayAmbaBUvATe",
+        "cacCaYjiDve",
+        "CaYjayAYcakfQve",
+        "CaYjayAmAsiDve",
+        "CaYjayAmbaBUviQve",
+        "cacCaYje",
+        "CaYjayAYcakre",
+        "CaYjayAmAhe",
+        "CaYjayAmbaBUve",
+        "cacCaYjivahe",
+        "CaYjayAYcakfvahe",
+        "CaYjayAmAsivahe",
+        "CaYjayAmbaBUvivahe",
+        "cacCaYjimahe",
+        "CaYjayAYcakfmahe",
+        "CaYjayAmAsimahe",
+        "CaYjayAmbaBUvimahe"
+      ],
+      "alot": [
+        "CaYjyatAm",
+        "CaYjyetAm",
+        "CaYjyantAm",
+        "CaYjyasva",
+        "CaYjyeTAm",
+        "CaYjyaDvam",
+        "CaYjyE",
+        "CaYjyAvahE",
+        "CaYjyAmahE"
+      ],
+      "alrung": [
+        "acCaYjayizyata",
+        "acCaYjizyata",
+        "acCaYjayizyetAm",
+        "acCaYjizyetAm",
+        "acCaYjayizyanta",
+        "acCaYjizyanta",
+        "acCaYjayizyaTAH",
+        "acCaYjizyaTAH",
+        "acCaYjayizyeTAm",
+        "acCaYjizyeTAm",
+        "acCaYjayizyaDvam",
+        "acCaYjizyaDvam",
+        "acCaYjayizye",
+        "acCaYjizye",
+        "acCaYjayizyAvahi",
+        "acCaYjizyAvahi",
+        "acCaYjayizyAmahi",
+        "acCaYjizyAmahi"
+      ],
+      "alrut": [
+        "CaYjayizyate",
+        "CaYjizyate",
+        "CaYjayizyete",
+        "CaYjizyete",
+        "CaYjayizyante",
+        "CaYjizyante",
+        "CaYjayizyase",
+        "CaYjizyase",
+        "CaYjayizyeTe",
+        "CaYjizyeTe",
+        "CaYjayizyaDve",
+        "CaYjizyaDve",
+        "CaYjayizye",
+        "CaYjizye",
+        "CaYjayizyAvahe",
+        "CaYjizyAvahe",
+        "CaYjayizyAmahe",
+        "CaYjizyAmahe"
+      ],
+      "alung": [
+        "acCaYji",
+        "acCaYjayizAtAm",
+        "acCaYjizAtAm",
+        "acCaYjayizata",
+        "acCaYjizata",
+        "acCaYjayizWAH",
+        "acCaYjizWAH",
+        "acCaYjayizATAm",
+        "acCaYjizATAm",
+        "acCaYjayiQvam",
+        "acCaYjayiDvam",
+        "acCaYjiDvam",
+        "acCaYjayizi",
+        "acCaYjizi",
+        "acCaYjayizvahi",
+        "acCaYjizvahi",
+        "acCaYjayizmahi",
+        "acCaYjizmahi"
+      ],
+      "alut": [
+        "CaYjayitA",
+        "CaYjitA",
+        "CaYjayitArO",
+        "CaYjitArO",
+        "CaYjayitAraH",
+        "CaYjitAraH",
+        "CaYjayitAse",
+        "CaYjitAse",
+        "CaYjayitAsATe",
+        "CaYjitAsATe",
+        "CaYjayitADve",
+        "CaYjitADve",
+        "CaYjayitAhe",
+        "CaYjitAhe",
+        "CaYjayitAsvahe",
+        "CaYjitAsvahe",
+        "CaYjayitAsmahe",
+        "CaYjitAsmahe"
+      ],
+      "avidhiling": [
+        "CaYjyeta",
+        "CaYjyeyAtAm",
+        "CaYjyeran",
+        "CaYjyeTAH",
+        "CaYjyeyATAm",
+        "CaYjyeDvam",
+        "CaYjyeya",
+        "CaYjyevahi",
+        "CaYjyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "cicCaYjayizizIzwa",
+        "cicCaYjayizizIyAstAm",
+        "cicCaYjayizizIran",
+        "cicCaYjayizizIzWAH",
+        "cicCaYjayizizIyAsTAm",
+        "cicCaYjayizizIDvam",
+        "cicCaYjayizizIya",
+        "cicCaYjayizizIvahi",
+        "cicCaYjayizizImahi"
+      ],
+      "alang": [
+        "acicCaYjayizata",
+        "acicCaYjayizetAm",
+        "acicCaYjayizanta",
+        "acicCaYjayizaTAH",
+        "acicCaYjayizeTAm",
+        "acicCaYjayizaDvam",
+        "acicCaYjayize",
+        "acicCaYjayizAvahi",
+        "acicCaYjayizAmahi"
+      ],
+      "alat": [
+        "cicCaYjayizate",
+        "cicCaYjayizete",
+        "cicCaYjayizante",
+        "cicCaYjayizase",
+        "cicCaYjayizeTe",
+        "cicCaYjayizaDve",
+        "cicCaYjayize",
+        "cicCaYjayizAvahe",
+        "cicCaYjayizAmahe"
+      ],
+      "alit": [
+        "cicCaYjayizAYcakre",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjayizAYcakrAte",
+        "cicCaYjayizAmAsatuH",
+        "cicCaYjayizAmbaBUvatuH",
+        "cicCaYjayizAYcakrire",
+        "cicCaYjayizAmAsuH",
+        "cicCaYjayizAmbaBUvuH",
+        "cicCaYjayizAYcakfze",
+        "cicCaYjayizAmAsiTa",
+        "cicCaYjayizAmbaBUviTa",
+        "cicCaYjayizAYcakrATe",
+        "cicCaYjayizAmAsaTuH",
+        "cicCaYjayizAmbaBUvaTuH",
+        "cicCaYjayizAYcakfQve",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjayizAYcakre",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjayizAYcakfvahe",
+        "cicCaYjayizAmAsiva",
+        "cicCaYjayizAmbaBUviva",
+        "cicCaYjayizAYcakfmahe",
+        "cicCaYjayizAmAsima",
+        "cicCaYjayizAmbaBUvima"
+      ],
+      "alot": [
+        "cicCaYjayizatAm",
+        "cicCaYjayizetAm",
+        "cicCaYjayizantAm",
+        "cicCaYjayizasva",
+        "cicCaYjayizeTAm",
+        "cicCaYjayizaDvam",
+        "cicCaYjayizE",
+        "cicCaYjayizAvahE",
+        "cicCaYjayizAmahE"
+      ],
+      "alrung": [
+        "acicCaYjayizizyata",
+        "acicCaYjayizizyetAm",
+        "acicCaYjayizizyanta",
+        "acicCaYjayizizyaTAH",
+        "acicCaYjayizizyeTAm",
+        "acicCaYjayizizyaDvam",
+        "acicCaYjayizizye",
+        "acicCaYjayizizyAvahi",
+        "acicCaYjayizizyAmahi"
+      ],
+      "alrut": [
+        "cicCaYjayizizyate",
+        "cicCaYjayizizyete",
+        "cicCaYjayizizyante",
+        "cicCaYjayizizyase",
+        "cicCaYjayizizyeTe",
+        "cicCaYjayizizyaDve",
+        "cicCaYjayizizye",
+        "cicCaYjayizizyAvahe",
+        "cicCaYjayizizyAmahe"
+      ],
+      "alung": [
+        "acicCaYjayizizwa",
+        "acicCaYjayizizAtAm",
+        "acicCaYjayizizata",
+        "acicCaYjayizizWAH",
+        "acicCaYjayizizATAm",
+        "acicCaYjayiziDvam",
+        "acicCaYjayizizi",
+        "acicCaYjayizizvahi",
+        "acicCaYjayizizmahi"
+      ],
+      "alut": [
+        "cicCaYjayizitA",
+        "cicCaYjayizitArO",
+        "cicCaYjayizitAraH",
+        "cicCaYjayizitAse",
+        "cicCaYjayizitAsATe",
+        "cicCaYjayizitADve",
+        "cicCaYjayizitAhe",
+        "cicCaYjayizitAsvahe",
+        "cicCaYjayizitAsmahe"
+      ],
+      "avidhiling": [
+        "cicCaYjayizeta",
+        "cicCaYjayizeyAtAm",
+        "cicCaYjayizeran",
+        "cicCaYjayizeTAH",
+        "cicCaYjayizeyATAm",
+        "cicCaYjayizeDvam",
+        "cicCaYjayizeya",
+        "cicCaYjayizevahi",
+        "cicCaYjayizemahi"
+      ],
+      "pashirling": [
+        "cicCaYjayizyAt",
+        "cicCaYjayizyAd",
+        "cicCaYjizyAt",
+        "cicCaYjizyAd",
+        "cicCaYjayizyAstAm",
+        "cicCaYjizyAstAm",
+        "cicCaYjayizyAsuH",
+        "cicCaYjizyAsuH",
+        "cicCaYjayizyAH",
+        "cicCaYjizyAH",
+        "cicCaYjayizyAstam",
+        "cicCaYjizyAstam",
+        "cicCaYjayizyAsta",
+        "cicCaYjizyAsta",
+        "cicCaYjayizyAsam",
+        "cicCaYjizyAsam",
+        "cicCaYjayizyAsva",
+        "cicCaYjizyAsva",
+        "cicCaYjayizyAsma",
+        "cicCaYjizyAsma"
+      ],
+      "plang": [
+        "acicCaYjayizat",
+        "acicCaYjayizad",
+        "acicCaYjizat",
+        "acicCaYjizad",
+        "acicCaYjayizatAm",
+        "acicCaYjizatAm",
+        "acicCaYjayizan",
+        "acicCaYjizan",
+        "acicCaYjayizaH",
+        "acicCaYjizaH",
+        "acicCaYjayizatam",
+        "acicCaYjizatam",
+        "acicCaYjayizata",
+        "acicCaYjizata",
+        "acicCaYjayizam",
+        "acicCaYjizam",
+        "acicCaYjayizAva",
+        "acicCaYjizAva",
+        "acicCaYjayizAma",
+        "acicCaYjizAma"
+      ],
+      "plat": [
+        "cicCaYjayizati",
+        "cicCaYjizati",
+        "cicCaYjayizataH",
+        "cicCaYjizataH",
+        "cicCaYjayizanti",
+        "cicCaYjizanti",
+        "cicCaYjayizasi",
+        "cicCaYjizasi",
+        "cicCaYjayizaTaH",
+        "cicCaYjizaTaH",
+        "cicCaYjayizaTa",
+        "cicCaYjizaTa",
+        "cicCaYjayizAmi",
+        "cicCaYjizAmi",
+        "cicCaYjayizAvaH",
+        "cicCaYjizAvaH",
+        "cicCaYjayizAmaH",
+        "cicCaYjizAmaH"
+      ],
+      "plit": [
+        "cicCaYjayizAYcakAra",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjizAYcakAra",
+        "cicCaYjizAmAsa",
+        "cicCaYjizAmbaBUva",
+        "cicCaYjayizAYcakratuH",
+        "cicCaYjayizAmAsatuH",
+        "cicCaYjayizAmbaBUvatuH",
+        "cicCaYjizAYcakratuH",
+        "cicCaYjizAmAsatuH",
+        "cicCaYjizAmbaBUvatuH",
+        "cicCaYjayizAYcakruH",
+        "cicCaYjayizAmAsuH",
+        "cicCaYjayizAmbaBUvuH",
+        "cicCaYjizAYcakruH",
+        "cicCaYjizAmAsuH",
+        "cicCaYjizAmbaBUvuH",
+        "cicCaYjayizAYcakarTa",
+        "cicCaYjayizAmAsiTa",
+        "cicCaYjayizAmbaBUviTa",
+        "cicCaYjizAYcakarTa",
+        "cicCaYjizAmAsiTa",
+        "cicCaYjizAmbaBUviTa",
+        "cicCaYjayizAYcakraTuH",
+        "cicCaYjayizAmAsaTuH",
+        "cicCaYjayizAmbaBUvaTuH",
+        "cicCaYjizAYcakraTuH",
+        "cicCaYjizAmAsaTuH",
+        "cicCaYjizAmbaBUvaTuH",
+        "cicCaYjayizAYcakra",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjizAYcakra",
+        "cicCaYjizAmAsa",
+        "cicCaYjizAmbaBUva",
+        "cicCaYjayizAYcakara",
+        "cicCaYjayizAYcakAra",
+        "cicCaYjayizAmAsa",
+        "cicCaYjayizAmbaBUva",
+        "cicCaYjizAYcakara",
+        "cicCaYjizAYcakAra",
+        "cicCaYjizAmAsa",
+        "cicCaYjizAmbaBUva",
+        "cicCaYjayizAYcakfva",
+        "cicCaYjayizAmAsiva",
+        "cicCaYjayizAmbaBUviva",
+        "cicCaYjizAYcakfva",
+        "cicCaYjizAmAsiva",
+        "cicCaYjizAmbaBUviva",
+        "cicCaYjayizAYcakfma",
+        "cicCaYjayizAmAsima",
+        "cicCaYjayizAmbaBUvima",
+        "cicCaYjizAYcakfma",
+        "cicCaYjizAmAsima",
+        "cicCaYjizAmbaBUvima"
+      ],
+      "plot": [
+        "cicCaYjayizatAt",
+        "cicCaYjayizatAd",
+        "cicCaYjayizatu",
+        "cicCaYjizatAt",
+        "cicCaYjizatAd",
+        "cicCaYjizatu",
+        "cicCaYjayizatAm",
+        "cicCaYjizatAm",
+        "cicCaYjayizantu",
+        "cicCaYjizantu",
+        "cicCaYjayiza",
+        "cicCaYjayizatAt",
+        "cicCaYjayizatAd",
+        "cicCaYjiza",
+        "cicCaYjizatAt",
+        "cicCaYjizatAd",
+        "cicCaYjayizatam",
+        "cicCaYjizatam",
+        "cicCaYjayizata",
+        "cicCaYjizata",
+        "cicCaYjayizARi",
+        "cicCaYjizARi",
+        "cicCaYjayizAva",
+        "cicCaYjizAva",
+        "cicCaYjayizAma",
+        "cicCaYjizAma"
+      ],
+      "plrung": [
+        "acicCaYjayizizyat",
+        "acicCaYjayizizyad",
+        "acicCaYjizizyat",
+        "acicCaYjizizyad",
+        "acicCaYjayizizyatAm",
+        "acicCaYjizizyatAm",
+        "acicCaYjayizizyan",
+        "acicCaYjizizyan",
+        "acicCaYjayizizyaH",
+        "acicCaYjizizyaH",
+        "acicCaYjayizizyatam",
+        "acicCaYjizizyatam",
+        "acicCaYjayizizyata",
+        "acicCaYjizizyata",
+        "acicCaYjayizizyam",
+        "acicCaYjizizyam",
+        "acicCaYjayizizyAva",
+        "acicCaYjizizyAva",
+        "acicCaYjayizizyAma",
+        "acicCaYjizizyAma"
+      ],
+      "plrut": [
+        "cicCaYjayizizyati",
+        "cicCaYjizizyati",
+        "cicCaYjayizizyataH",
+        "cicCaYjizizyataH",
+        "cicCaYjayizizyanti",
+        "cicCaYjizizyanti",
+        "cicCaYjayizizyasi",
+        "cicCaYjizizyasi",
+        "cicCaYjayizizyaTaH",
+        "cicCaYjizizyaTaH",
+        "cicCaYjayizizyaTa",
+        "cicCaYjizizyaTa",
+        "cicCaYjayizizyAmi",
+        "cicCaYjizizyAmi",
+        "cicCaYjayizizyAvaH",
+        "cicCaYjizizyAvaH",
+        "cicCaYjayizizyAmaH",
+        "cicCaYjizizyAmaH"
+      ],
+      "plung": [
+        "acicCaYjayizIt",
+        "acicCaYjayizId",
+        "acicCaYjizIt",
+        "acicCaYjizId",
+        "acicCaYjayizizwAm",
+        "acicCaYjizizwAm",
+        "acicCaYjayizizuH",
+        "acicCaYjizizuH",
+        "acicCaYjayizIH",
+        "acicCaYjizIH",
+        "acicCaYjayizizwam",
+        "acicCaYjizizwam",
+        "acicCaYjayizizwa",
+        "acicCaYjizizwa",
+        "acicCaYjayizizam",
+        "acicCaYjizizam",
+        "acicCaYjayizizva",
+        "acicCaYjizizva",
+        "acicCaYjayizizma",
+        "acicCaYjizizma"
+      ],
+      "plut": [
+        "cicCaYjayizitA",
+        "cicCaYjizitA",
+        "cicCaYjayizitArO",
+        "cicCaYjizitArO",
+        "cicCaYjayizitAraH",
+        "cicCaYjizitAraH",
+        "cicCaYjayizitAsi",
+        "cicCaYjizitAsi",
+        "cicCaYjayizitAsTaH",
+        "cicCaYjizitAsTaH",
+        "cicCaYjayizitAsTa",
+        "cicCaYjizitAsTa",
+        "cicCaYjayizitAsmi",
+        "cicCaYjizitAsmi",
+        "cicCaYjayizitAsvaH",
+        "cicCaYjizitAsvaH",
+        "cicCaYjayizitAsmaH",
+        "cicCaYjizitAsmaH"
+      ],
+      "pvidhiling": [
+        "cicCaYjayizet",
+        "cicCaYjayized",
+        "cicCaYjizet",
+        "cicCaYjized",
+        "cicCaYjayizetAm",
+        "cicCaYjizetAm",
+        "cicCaYjayizeyuH",
+        "cicCaYjizeyuH",
+        "cicCaYjayizeH",
+        "cicCaYjizeH",
+        "cicCaYjayizetam",
+        "cicCaYjizetam",
+        "cicCaYjayizeta",
+        "cicCaYjizeta",
+        "cicCaYjayizeyam",
+        "cicCaYjizeyam",
+        "cicCaYjayizeva",
+        "cicCaYjizeva",
+        "cicCaYjayizema",
+        "cicCaYjizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cicCaYjayizizIzwa",
+        "cicCaYjizizIzwa",
+        "cicCaYjayizizIyAstAm",
+        "cicCaYjizizIyAstAm",
+        "cicCaYjayizizIran",
+        "cicCaYjizizIran",
+        "cicCaYjayizizIzWAH",
+        "cicCaYjizizIzWAH",
+        "cicCaYjayizizIyAsTAm",
+        "cicCaYjizizIyAsTAm",
+        "cicCaYjayizizIDvam",
+        "cicCaYjizizIDvam",
+        "cicCaYjayizizIya",
+        "cicCaYjizizIya",
+        "cicCaYjayizizIvahi",
+        "cicCaYjizizIvahi",
+        "cicCaYjayizizImahi",
+        "cicCaYjizizImahi"
+      ],
+      "alang": [
+        "acicCaYjayizyata",
+        "acicCaYjizyata",
+        "acicCaYjayizyetAm",
+        "acicCaYjizyetAm",
+        "acicCaYjayizyanta",
+        "acicCaYjizyanta",
+        "acicCaYjayizyaTAH",
+        "acicCaYjizyaTAH",
+        "acicCaYjayizyeTAm",
+        "acicCaYjizyeTAm",
+        "acicCaYjayizyaDvam",
+        "acicCaYjizyaDvam",
+        "acicCaYjayizye",
+        "acicCaYjizye",
+        "acicCaYjayizyAvahi",
+        "acicCaYjizyAvahi",
+        "acicCaYjayizyAmahi",
+        "acicCaYjizyAmahi"
+      ],
+      "alat": [
+        "cicCaYjayizyate",
+        "cicCaYjizyate",
+        "cicCaYjayizyete",
+        "cicCaYjizyete",
+        "cicCaYjayizyante",
+        "cicCaYjizyante",
+        "cicCaYjayizyase",
+        "cicCaYjizyase",
+        "cicCaYjayizyeTe",
+        "cicCaYjizyeTe",
+        "cicCaYjayizyaDve",
+        "cicCaYjizyaDve",
+        "cicCaYjayizye",
+        "cicCaYjizye",
+        "cicCaYjayizyAvahe",
+        "cicCaYjizyAvahe",
+        "cicCaYjayizyAmahe",
+        "cicCaYjizyAmahe"
+      ],
+      "alit": [
+        "cicCaYjayizAYcakre",
+        "cicCaYjayizAmAse",
+        "cicCaYjayizAmbaBUve",
+        "cicCaYjizAYcakre",
+        "cicCaYjizAmAse",
+        "cicCaYjizAmbaBUve",
+        "cicCaYjayizAYcakrAte",
+        "cicCaYjayizAmAsAte",
+        "cicCaYjayizAmbaBUvAte",
+        "cicCaYjizAYcakrAte",
+        "cicCaYjizAmAsAte",
+        "cicCaYjizAmbaBUvAte",
+        "cicCaYjayizAYcakrire",
+        "cicCaYjayizAmAsire",
+        "cicCaYjayizAmbaBUvire",
+        "cicCaYjizAYcakrire",
+        "cicCaYjizAmAsire",
+        "cicCaYjizAmbaBUvire",
+        "cicCaYjayizAYcakfze",
+        "cicCaYjayizAmAsize",
+        "cicCaYjayizAmbaBUvize",
+        "cicCaYjizAYcakfze",
+        "cicCaYjizAmAsize",
+        "cicCaYjizAmbaBUvize",
+        "cicCaYjayizAYcakrATe",
+        "cicCaYjayizAmAsATe",
+        "cicCaYjayizAmbaBUvATe",
+        "cicCaYjizAYcakrATe",
+        "cicCaYjizAmAsATe",
+        "cicCaYjizAmbaBUvATe",
+        "cicCaYjayizAYcakfQve",
+        "cicCaYjayizAmAsiDve",
+        "cicCaYjayizAmbaBUviQve",
+        "cicCaYjizAYcakfQve",
+        "cicCaYjizAmAsiDve",
+        "cicCaYjizAmbaBUviQve",
+        "cicCaYjayizAYcakre",
+        "cicCaYjayizAmAhe",
+        "cicCaYjayizAmbaBUve",
+        "cicCaYjizAYcakre",
+        "cicCaYjizAmAhe",
+        "cicCaYjizAmbaBUve",
+        "cicCaYjayizAYcakfvahe",
+        "cicCaYjayizAmAsivahe",
+        "cicCaYjayizAmbaBUvivahe",
+        "cicCaYjizAYcakfvahe",
+        "cicCaYjizAmAsivahe",
+        "cicCaYjizAmbaBUvivahe",
+        "cicCaYjayizAYcakfmahe",
+        "cicCaYjayizAmAsimahe",
+        "cicCaYjayizAmbaBUvimahe",
+        "cicCaYjizAYcakfmahe",
+        "cicCaYjizAmAsimahe",
+        "cicCaYjizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cicCaYjayizyatAm",
+        "cicCaYjizyatAm",
+        "cicCaYjayizyetAm",
+        "cicCaYjizyetAm",
+        "cicCaYjayizyantAm",
+        "cicCaYjizyantAm",
+        "cicCaYjayizyasva",
+        "cicCaYjizyasva",
+        "cicCaYjayizyeTAm",
+        "cicCaYjizyeTAm",
+        "cicCaYjayizyaDvam",
+        "cicCaYjizyaDvam",
+        "cicCaYjayizyE",
+        "cicCaYjizyE",
+        "cicCaYjayizyAvahE",
+        "cicCaYjizyAvahE",
+        "cicCaYjayizyAmahE",
+        "cicCaYjizyAmahE"
+      ],
+      "alrung": [
+        "acicCaYjayizizyata",
+        "acicCaYjizizyata",
+        "acicCaYjayizizyetAm",
+        "acicCaYjizizyetAm",
+        "acicCaYjayizizyanta",
+        "acicCaYjizizyanta",
+        "acicCaYjayizizyaTAH",
+        "acicCaYjizizyaTAH",
+        "acicCaYjayizizyeTAm",
+        "acicCaYjizizyeTAm",
+        "acicCaYjayizizyaDvam",
+        "acicCaYjizizyaDvam",
+        "acicCaYjayizizye",
+        "acicCaYjizizye",
+        "acicCaYjayizizyAvahi",
+        "acicCaYjizizyAvahi",
+        "acicCaYjayizizyAmahi",
+        "acicCaYjizizyAmahi"
+      ],
+      "alrut": [
+        "cicCaYjayizizyate",
+        "cicCaYjizizyate",
+        "cicCaYjayizizyete",
+        "cicCaYjizizyete",
+        "cicCaYjayizizyante",
+        "cicCaYjizizyante",
+        "cicCaYjayizizyase",
+        "cicCaYjizizyase",
+        "cicCaYjayizizyeTe",
+        "cicCaYjizizyeTe",
+        "cicCaYjayizizyaDve",
+        "cicCaYjizizyaDve",
+        "cicCaYjayizizye",
+        "cicCaYjizizye",
+        "cicCaYjayizizyAvahe",
+        "cicCaYjizizyAvahe",
+        "cicCaYjayizizyAmahe",
+        "cicCaYjizizyAmahe"
+      ],
+      "alung": [
+        "acicCaYjayizi",
+        "acicCaYjizi",
+        "acicCaYjayizizAtAm",
+        "acicCaYjizizAtAm",
+        "acicCaYjayizizata",
+        "acicCaYjizizata",
+        "acicCaYjayizizWAH",
+        "acicCaYjizizWAH",
+        "acicCaYjayizizATAm",
+        "acicCaYjizizATAm",
+        "acicCaYjayiziDvam",
+        "acicCaYjiziDvam",
+        "acicCaYjayizizi",
+        "acicCaYjizizi",
+        "acicCaYjayizizvahi",
+        "acicCaYjizizvahi",
+        "acicCaYjayizizmahi",
+        "acicCaYjizizmahi"
+      ],
+      "alut": [
+        "cicCaYjayizitA",
+        "cicCaYjizitA",
+        "cicCaYjayizitArO",
+        "cicCaYjizitArO",
+        "cicCaYjayizitAraH",
+        "cicCaYjizitAraH",
+        "cicCaYjayizitAse",
+        "cicCaYjizitAse",
+        "cicCaYjayizitAsATe",
+        "cicCaYjizitAsATe",
+        "cicCaYjayizitADve",
+        "cicCaYjizitADve",
+        "cicCaYjayizitAhe",
+        "cicCaYjizitAhe",
+        "cicCaYjayizitAsvahe",
+        "cicCaYjizitAsvahe",
+        "cicCaYjayizitAsmahe",
+        "cicCaYjizitAsmahe"
+      ],
+      "avidhiling": [
+        "cicCaYjayizyeta",
+        "cicCaYjizyeta",
+        "cicCaYjayizyeyAtAm",
+        "cicCaYjizyeyAtAm",
+        "cicCaYjayizyeran",
+        "cicCaYjizyeran",
+        "cicCaYjayizyeTAH",
+        "cicCaYjizyeTAH",
+        "cicCaYjayizyeyATAm",
+        "cicCaYjizyeyATAm",
+        "cicCaYjayizyeDvam",
+        "cicCaYjizyeDvam",
+        "cicCaYjayizyeya",
+        "cicCaYjizyeya",
+        "cicCaYjayizyevahi",
+        "cicCaYjizyevahi",
+        "cicCaYjayizyemahi",
+        "cicCaYjizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "CaYjayizIzwa",
+        "CaYjayizIyAstAm",
+        "CaYjayizIran",
+        "CaYjayizIzWAH",
+        "CaYjayizIyAsTAm",
+        "CaYjayizIQvam",
+        "CaYjayizIDvam",
+        "CaYjayizIya",
+        "CaYjayizIvahi",
+        "CaYjayizImahi"
+      ],
+      "alang": [
+        "acCaYjayata",
+        "acCaYjayetAm",
+        "acCaYjayanta",
+        "acCaYjayaTAH",
+        "acCaYjayeTAm",
+        "acCaYjayaDvam",
+        "acCaYjaye",
+        "acCaYjayAvahi",
+        "acCaYjayAmahi"
+      ],
+      "alat": [
+        "CaYjayate",
+        "CaYjayete",
+        "CaYjayante",
+        "CaYjayase",
+        "CaYjayeTe",
+        "CaYjayaDve",
+        "CaYjaye",
+        "CaYjayAvahe",
+        "CaYjayAmahe"
+      ],
+      "alit": [
+        "CaYjayAYcakre",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakrAte",
+        "CaYjayAmAsatuH",
+        "CaYjayAmbaBUvatuH",
+        "CaYjayAYcakrire",
+        "CaYjayAmAsuH",
+        "CaYjayAmbaBUvuH",
+        "CaYjayAYcakfze",
+        "CaYjayAmAsiTa",
+        "CaYjayAmbaBUviTa",
+        "CaYjayAYcakrATe",
+        "CaYjayAmAsaTuH",
+        "CaYjayAmbaBUvaTuH",
+        "CaYjayAYcakfQve",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakre",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakfvahe",
+        "CaYjayAmAsiva",
+        "CaYjayAmbaBUviva",
+        "CaYjayAYcakfmahe",
+        "CaYjayAmAsima",
+        "CaYjayAmbaBUvima"
+      ],
+      "alot": [
+        "CaYjayatAm",
+        "CaYjayetAm",
+        "CaYjayantAm",
+        "CaYjayasva",
+        "CaYjayeTAm",
+        "CaYjayaDvam",
+        "CaYjayE",
+        "CaYjayAvahE",
+        "CaYjayAmahE"
+      ],
+      "alrung": [
+        "acCaYjayizyata",
+        "acCaYjayizyetAm",
+        "acCaYjayizyanta",
+        "acCaYjayizyaTAH",
+        "acCaYjayizyeTAm",
+        "acCaYjayizyaDvam",
+        "acCaYjayizye",
+        "acCaYjayizyAvahi",
+        "acCaYjayizyAmahi"
+      ],
+      "alrut": [
+        "CaYjayizyate",
+        "CaYjayizyete",
+        "CaYjayizyante",
+        "CaYjayizyase",
+        "CaYjayizyeTe",
+        "CaYjayizyaDve",
+        "CaYjayizye",
+        "CaYjayizyAvahe",
+        "CaYjayizyAmahe"
+      ],
+      "alung": [
+        "acacCaYjata",
+        "acacCaYjetAm",
+        "acacCaYjanta",
+        "acacCaYjaTAH",
+        "acacCaYjeTAm",
+        "acacCaYjaDvam",
+        "acacCaYje",
+        "acacCaYjAvahi",
+        "acacCaYjAmahi"
+      ],
+      "alut": [
+        "CaYjayitA",
+        "CaYjayitArO",
+        "CaYjayitAraH",
+        "CaYjayitAse",
+        "CaYjayitAsATe",
+        "CaYjayitADve",
+        "CaYjayitAhe",
+        "CaYjayitAsvahe",
+        "CaYjayitAsmahe"
+      ],
+      "avidhiling": [
+        "CaYjayeta",
+        "CaYjayeyAtAm",
+        "CaYjayeran",
+        "CaYjayeTAH",
+        "CaYjayeyATAm",
+        "CaYjayeDvam",
+        "CaYjayeya",
+        "CaYjayevahi",
+        "CaYjayemahi"
+      ],
+      "pashirling": [
+        "CaYjyAt",
+        "CaYjyAd",
+        "CaYjyAstAm",
+        "CaYjyAsuH",
+        "CaYjyAH",
+        "CaYjyAstam",
+        "CaYjyAsta",
+        "CaYjyAsam",
+        "CaYjyAsva",
+        "CaYjyAsma"
+      ],
+      "plang": [
+        "acCaYjayat",
+        "acCaYjayad",
+        "acCaYjayatAm",
+        "acCaYjayan",
+        "acCaYjayaH",
+        "acCaYjayatam",
+        "acCaYjayata",
+        "acCaYjayam",
+        "acCaYjayAva",
+        "acCaYjayAma"
+      ],
+      "plat": [
+        "CaYjayati",
+        "CaYjayataH",
+        "CaYjayanti",
+        "CaYjayasi",
+        "CaYjayaTaH",
+        "CaYjayaTa",
+        "CaYjayAmi",
+        "CaYjayAvaH",
+        "CaYjayAmaH"
+      ],
+      "plit": [
+        "CaYjayAYcakAra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakratuH",
+        "CaYjayAmAsatuH",
+        "CaYjayAmbaBUvatuH",
+        "CaYjayAYcakruH",
+        "CaYjayAmAsuH",
+        "CaYjayAmbaBUvuH",
+        "CaYjayAYcakarTa",
+        "CaYjayAmAsiTa",
+        "CaYjayAmbaBUviTa",
+        "CaYjayAYcakraTuH",
+        "CaYjayAmAsaTuH",
+        "CaYjayAmbaBUvaTuH",
+        "CaYjayAYcakra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakara",
+        "CaYjayAYcakAra",
+        "CaYjayAmAsa",
+        "CaYjayAmbaBUva",
+        "CaYjayAYcakfva",
+        "CaYjayAmAsiva",
+        "CaYjayAmbaBUviva",
+        "CaYjayAYcakfma",
+        "CaYjayAmAsima",
+        "CaYjayAmbaBUvima"
+      ],
+      "plot": [
+        "CaYjayatAt",
+        "CaYjayatAd",
+        "CaYjayatu",
+        "CaYjayatAm",
+        "CaYjayantu",
+        "CaYjaya",
+        "CaYjayatAt",
+        "CaYjayatAd",
+        "CaYjayatam",
+        "CaYjayata",
+        "CaYjayAni",
+        "CaYjayAva",
+        "CaYjayAma"
+      ],
+      "plrung": [
+        "acCaYjayizyat",
+        "acCaYjayizyad",
+        "acCaYjayizyatAm",
+        "acCaYjayizyan",
+        "acCaYjayizyaH",
+        "acCaYjayizyatam",
+        "acCaYjayizyata",
+        "acCaYjayizyam",
+        "acCaYjayizyAva",
+        "acCaYjayizyAma"
+      ],
+      "plrut": [
+        "CaYjayizyati",
+        "CaYjayizyataH",
+        "CaYjayizyanti",
+        "CaYjayizyasi",
+        "CaYjayizyaTaH",
+        "CaYjayizyaTa",
+        "CaYjayizyAmi",
+        "CaYjayizyAvaH",
+        "CaYjayizyAmaH"
+      ],
+      "plung": [
+        "acacCaYjat",
+        "acacCaYjad",
+        "acacCaYjatAm",
+        "acacCaYjan",
+        "acacCaYjaH",
+        "acacCaYjatam",
+        "acacCaYjata",
+        "acacCaYjam",
+        "acacCaYjAva",
+        "acacCaYjAma"
+      ],
+      "plut": [
+        "CaYjayitA",
+        "CaYjayitArO",
+        "CaYjayitAraH",
+        "CaYjayitAsi",
+        "CaYjayitAsTaH",
+        "CaYjayitAsTa",
+        "CaYjayitAsmi",
+        "CaYjayitAsvaH",
+        "CaYjayitAsmaH"
+      ],
+      "pvidhiling": [
+        "CaYjayet",
+        "CaYjayed",
+        "CaYjayetAm",
+        "CaYjayeyuH",
+        "CaYjayeH",
+        "CaYjayetam",
+        "CaYjayeta",
+        "CaYjayeyam",
+        "CaYjayeva",
+        "CaYjayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "CaYjayizIzwa",
+        "CaYjizIzwa",
+        "CaYjayizIyAstAm",
+        "CaYjizIyAstAm",
+        "CaYjayizIran",
+        "CaYjizIran",
+        "CaYjayizIzWAH",
+        "CaYjizIzWAH",
+        "CaYjayizIyAsTAm",
+        "CaYjizIyAsTAm",
+        "CaYjayizIQvam",
+        "CaYjayizIDvam",
+        "CaYjizIDvam",
+        "CaYjayizIya",
+        "CaYjizIya",
+        "CaYjayizIvahi",
+        "CaYjizIvahi",
+        "CaYjayizImahi",
+        "CaYjizImahi"
+      ],
+      "alang": [
+        "acCaYjyata",
+        "acCaYjyetAm",
+        "acCaYjyanta",
+        "acCaYjyaTAH",
+        "acCaYjyeTAm",
+        "acCaYjyaDvam",
+        "acCaYjye",
+        "acCaYjyAvahi",
+        "acCaYjyAmahi"
+      ],
+      "alat": [
+        "CaYjyate",
+        "CaYjyete",
+        "CaYjyante",
+        "CaYjyase",
+        "CaYjyeTe",
+        "CaYjyaDve",
+        "CaYjye",
+        "CaYjyAvahe",
+        "CaYjyAmahe"
+      ],
+      "alit": [
+        "CaYjayAYcakre",
+        "CaYjayAmAse",
+        "CaYjayAmbaBUve",
+        "CaYjayAYcakrAte",
+        "CaYjayAmAsAte",
+        "CaYjayAmbaBUvAte",
+        "CaYjayAYcakrire",
+        "CaYjayAmAsire",
+        "CaYjayAmbaBUvire",
+        "CaYjayAYcakfze",
+        "CaYjayAmAsize",
+        "CaYjayAmbaBUvize",
+        "CaYjayAYcakrATe",
+        "CaYjayAmAsATe",
+        "CaYjayAmbaBUvATe",
+        "CaYjayAYcakfQve",
+        "CaYjayAmAsiDve",
+        "CaYjayAmbaBUviQve",
+        "CaYjayAYcakre",
+        "CaYjayAmAhe",
+        "CaYjayAmbaBUve",
+        "CaYjayAYcakfvahe",
+        "CaYjayAmAsivahe",
+        "CaYjayAmbaBUvivahe",
+        "CaYjayAYcakfmahe",
+        "CaYjayAmAsimahe",
+        "CaYjayAmbaBUvimahe"
+      ],
+      "alot": [
+        "CaYjyatAm",
+        "CaYjyetAm",
+        "CaYjyantAm",
+        "CaYjyasva",
+        "CaYjyeTAm",
+        "CaYjyaDvam",
+        "CaYjyE",
+        "CaYjyAvahE",
+        "CaYjyAmahE"
+      ],
+      "alrung": [
+        "acCaYjayizyata",
+        "acCaYjizyata",
+        "acCaYjayizyetAm",
+        "acCaYjizyetAm",
+        "acCaYjayizyanta",
+        "acCaYjizyanta",
+        "acCaYjayizyaTAH",
+        "acCaYjizyaTAH",
+        "acCaYjayizyeTAm",
+        "acCaYjizyeTAm",
+        "acCaYjayizyaDvam",
+        "acCaYjizyaDvam",
+        "acCaYjayizye",
+        "acCaYjizye",
+        "acCaYjayizyAvahi",
+        "acCaYjizyAvahi",
+        "acCaYjayizyAmahi",
+        "acCaYjizyAmahi"
+      ],
+      "alrut": [
+        "CaYjayizyate",
+        "CaYjizyate",
+        "CaYjayizyete",
+        "CaYjizyete",
+        "CaYjayizyante",
+        "CaYjizyante",
+        "CaYjayizyase",
+        "CaYjizyase",
+        "CaYjayizyeTe",
+        "CaYjizyeTe",
+        "CaYjayizyaDve",
+        "CaYjizyaDve",
+        "CaYjayizye",
+        "CaYjizye",
+        "CaYjayizyAvahe",
+        "CaYjizyAvahe",
+        "CaYjayizyAmahe",
+        "CaYjizyAmahe"
+      ],
+      "alung": [
+        "acCaYji",
+        "acCaYjayizAtAm",
+        "acCaYjizAtAm",
+        "acCaYjayizata",
+        "acCaYjizata",
+        "acCaYjayizWAH",
+        "acCaYjizWAH",
+        "acCaYjayizATAm",
+        "acCaYjizATAm",
+        "acCaYjayiQvam",
+        "acCaYjayiDvam",
+        "acCaYjiDvam",
+        "acCaYjayizi",
+        "acCaYjizi",
+        "acCaYjayizvahi",
+        "acCaYjizvahi",
+        "acCaYjayizmahi",
+        "acCaYjizmahi"
+      ],
+      "alut": [
+        "CaYjayitA",
+        "CaYjitA",
+        "CaYjayitArO",
+        "CaYjitArO",
+        "CaYjayitAraH",
+        "CaYjitAraH",
+        "CaYjayitAse",
+        "CaYjitAse",
+        "CaYjayitAsATe",
+        "CaYjitAsATe",
+        "CaYjayitADve",
+        "CaYjitADve",
+        "CaYjayitAhe",
+        "CaYjitAhe",
+        "CaYjayitAsvahe",
+        "CaYjitAsvahe",
+        "CaYjayitAsmahe",
+        "CaYjitAsmahe"
+      ],
+      "avidhiling": [
+        "CaYjyeta",
+        "CaYjyeyAtAm",
+        "CaYjyeran",
+        "CaYjyeTAH",
+        "CaYjyeyATAm",
+        "CaYjyeDvam",
+        "CaYjyeya",
+        "CaYjyevahi",
+        "CaYjyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "cAcCaYjizIzwa",
+        "cAcCaYjizIyAstAm",
+        "cAcCaYjizIran",
+        "cAcCaYjizIzWAH",
+        "cAcCaYjizIyAsTAm",
+        "cAcCaYjizIDvam",
+        "cAcCaYjizIya",
+        "cAcCaYjizIvahi",
+        "cAcCaYjizImahi"
+      ],
+      "alang": [
+        "acAcCaYjyata",
+        "acAcCaYjyetAm",
+        "acAcCaYjyanta",
+        "acAcCaYjyaTAH",
+        "acAcCaYjyeTAm",
+        "acAcCaYjyaDvam",
+        "acAcCaYjye",
+        "acAcCaYjyAvahi",
+        "acAcCaYjyAmahi"
+      ],
+      "alat": [
+        "cAcCaYjyate",
+        "cAcCaYjyete",
+        "cAcCaYjyante",
+        "cAcCaYjyase",
+        "cAcCaYjyeTe",
+        "cAcCaYjyaDve",
+        "cAcCaYjye",
+        "cAcCaYjyAvahe",
+        "cAcCaYjyAmahe"
+      ],
+      "alit": [
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakrAte",
+        "cAcCaYjAmAsatuH",
+        "cAcCaYjAmbaBUvatuH",
+        "cAcCaYjAYcakrire",
+        "cAcCaYjAmAsuH",
+        "cAcCaYjAmbaBUvuH",
+        "cAcCaYjAYcakfze",
+        "cAcCaYjAmAsiTa",
+        "cAcCaYjAmbaBUviTa",
+        "cAcCaYjAYcakrATe",
+        "cAcCaYjAmAsaTuH",
+        "cAcCaYjAmbaBUvaTuH",
+        "cAcCaYjAYcakfQve",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakfvahe",
+        "cAcCaYjAmAsiva",
+        "cAcCaYjAmbaBUviva",
+        "cAcCaYjAYcakfmahe",
+        "cAcCaYjAmAsima",
+        "cAcCaYjAmbaBUvima"
+      ],
+      "alot": [
+        "cAcCaYjyatAm",
+        "cAcCaYjyetAm",
+        "cAcCaYjyantAm",
+        "cAcCaYjyasva",
+        "cAcCaYjyeTAm",
+        "cAcCaYjyaDvam",
+        "cAcCaYjyE",
+        "cAcCaYjyAvahE",
+        "cAcCaYjyAmahE"
+      ],
+      "alrung": [
+        "acAcCaYjizyata",
+        "acAcCaYjizyetAm",
+        "acAcCaYjizyanta",
+        "acAcCaYjizyaTAH",
+        "acAcCaYjizyeTAm",
+        "acAcCaYjizyaDvam",
+        "acAcCaYjizye",
+        "acAcCaYjizyAvahi",
+        "acAcCaYjizyAmahi"
+      ],
+      "alrut": [
+        "cAcCaYjizyate",
+        "cAcCaYjizyete",
+        "cAcCaYjizyante",
+        "cAcCaYjizyase",
+        "cAcCaYjizyeTe",
+        "cAcCaYjizyaDve",
+        "cAcCaYjizye",
+        "cAcCaYjizyAvahe",
+        "cAcCaYjizyAmahe"
+      ],
+      "alung": [
+        "acAcCaYjizwa",
+        "acAcCaYjizAtAm",
+        "acAcCaYjizata",
+        "acAcCaYjizWAH",
+        "acAcCaYjizATAm",
+        "acAcCaYjiDvam",
+        "acAcCaYjizi",
+        "acAcCaYjizvahi",
+        "acAcCaYjizmahi"
+      ],
+      "alut": [
+        "cAcCaYjitA",
+        "cAcCaYjitArO",
+        "cAcCaYjitAraH",
+        "cAcCaYjitAse",
+        "cAcCaYjitAsATe",
+        "cAcCaYjitADve",
+        "cAcCaYjitAhe",
+        "cAcCaYjitAsvahe",
+        "cAcCaYjitAsmahe"
+      ],
+      "avidhiling": [
+        "cAcCaYjyeta",
+        "cAcCaYjyeyAtAm",
+        "cAcCaYjyeran",
+        "cAcCaYjyeTAH",
+        "cAcCaYjyeyATAm",
+        "cAcCaYjyeDvam",
+        "cAcCaYjyeya",
+        "cAcCaYjyevahi",
+        "cAcCaYjyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "cAcCaYjizIzwa",
+        "cAcCaYjizIyAstAm",
+        "cAcCaYjizIran",
+        "cAcCaYjizIzWAH",
+        "cAcCaYjizIyAsTAm",
+        "cAcCaYjizIDvam",
+        "cAcCaYjizIya",
+        "cAcCaYjizIvahi",
+        "cAcCaYjizImahi"
+      ],
+      "alang": [
+        "acAcCaYjyata",
+        "acAcCaYjyetAm",
+        "acAcCaYjyanta",
+        "acAcCaYjyaTAH",
+        "acAcCaYjyeTAm",
+        "acAcCaYjyaDvam",
+        "acAcCaYjye",
+        "acAcCaYjyAvahi",
+        "acAcCaYjyAmahi"
+      ],
+      "alat": [
+        "cAcCaYjyate",
+        "cAcCaYjyete",
+        "cAcCaYjyante",
+        "cAcCaYjyase",
+        "cAcCaYjyeTe",
+        "cAcCaYjyaDve",
+        "cAcCaYjye",
+        "cAcCaYjyAvahe",
+        "cAcCaYjyAmahe"
+      ],
+      "alit": [
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAse",
+        "cAcCaYjAmbaBUve",
+        "cAcCaYjAYcakrAte",
+        "cAcCaYjAmAsAte",
+        "cAcCaYjAmbaBUvAte",
+        "cAcCaYjAYcakrire",
+        "cAcCaYjAmAsire",
+        "cAcCaYjAmbaBUvire",
+        "cAcCaYjAYcakfze",
+        "cAcCaYjAmAsize",
+        "cAcCaYjAmbaBUvize",
+        "cAcCaYjAYcakrATe",
+        "cAcCaYjAmAsATe",
+        "cAcCaYjAmbaBUvATe",
+        "cAcCaYjAYcakfQve",
+        "cAcCaYjAmAsiDve",
+        "cAcCaYjAmbaBUviQve",
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAhe",
+        "cAcCaYjAmbaBUve",
+        "cAcCaYjAYcakfvahe",
+        "cAcCaYjAmAsivahe",
+        "cAcCaYjAmbaBUvivahe",
+        "cAcCaYjAYcakfmahe",
+        "cAcCaYjAmAsimahe",
+        "cAcCaYjAmbaBUvimahe"
+      ],
+      "alot": [
+        "cAcCaYjyatAm",
+        "cAcCaYjyetAm",
+        "cAcCaYjyantAm",
+        "cAcCaYjyasva",
+        "cAcCaYjyeTAm",
+        "cAcCaYjyaDvam",
+        "cAcCaYjyE",
+        "cAcCaYjyAvahE",
+        "cAcCaYjyAmahE"
+      ],
+      "alrung": [
+        "acAcCaYjizyata",
+        "acAcCaYjizyetAm",
+        "acAcCaYjizyanta",
+        "acAcCaYjizyaTAH",
+        "acAcCaYjizyeTAm",
+        "acAcCaYjizyaDvam",
+        "acAcCaYjizye",
+        "acAcCaYjizyAvahi",
+        "acAcCaYjizyAmahi"
+      ],
+      "alrut": [
+        "cAcCaYjizyate",
+        "cAcCaYjizyete",
+        "cAcCaYjizyante",
+        "cAcCaYjizyase",
+        "cAcCaYjizyeTe",
+        "cAcCaYjizyaDve",
+        "cAcCaYjizye",
+        "cAcCaYjizyAvahe",
+        "cAcCaYjizyAmahe"
+      ],
+      "alung": [
+        "acAcCaYji",
+        "acAcCaYjizAtAm",
+        "acAcCaYjizata",
+        "acAcCaYjizWAH",
+        "acAcCaYjizATAm",
+        "acAcCaYjiDvam",
+        "acAcCaYjizi",
+        "acAcCaYjizvahi",
+        "acAcCaYjizmahi"
+      ],
+      "alut": [
+        "cAcCaYjitA",
+        "cAcCaYjitArO",
+        "cAcCaYjitAraH",
+        "cAcCaYjitAse",
+        "cAcCaYjitAsATe",
+        "cAcCaYjitADve",
+        "cAcCaYjitAhe",
+        "cAcCaYjitAsvahe",
+        "cAcCaYjitAsmahe"
+      ],
+      "avidhiling": [
+        "cAcCaYjyeta",
+        "cAcCaYjyeyAtAm",
+        "cAcCaYjyeran",
+        "cAcCaYjyeTAH",
+        "cAcCaYjyeyATAm",
+        "cAcCaYjyeDvam",
+        "cAcCaYjyeya",
+        "cAcCaYjyevahi",
+        "cAcCaYjyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "cAcCaYjyAt",
+        "cAcCaYjyAd",
+        "cAcCaYjyAstAm",
+        "cAcCaYjyAsuH",
+        "cAcCaYjyAH",
+        "cAcCaYjyAstam",
+        "cAcCaYjyAsta",
+        "cAcCaYjyAsam",
+        "cAcCaYjyAsva",
+        "cAcCaYjyAsma"
+      ],
+      "plang": [
+        "acAcCaYjIt",
+        "acAcCaYjId",
+        "acAcCan",
+        "acAcCaNktAm",
+        "acAcCaYjuH",
+        "acAcCaYjIH",
+        "acAcCan",
+        "acAcCaNktam",
+        "acAcCaNkta",
+        "acAcCaYjam",
+        "acAcCaYjva",
+        "acAcCaYjma"
+      ],
+      "plat": [
+        "cAcCaNkti",
+        "cAcCaYjIti",
+        "cAcCaNktaH",
+        "cAcCaYjati",
+        "cAcCaNkzi",
+        "cAcCaYjIzi",
+        "cAcCaNkTaH",
+        "cAcCaNkTa",
+        "cAcCaYjImi",
+        "cAcCaYjmi",
+        "cAcCaYjvaH",
+        "cAcCaYjmaH"
+      ],
+      "plit": [
+        "cAcCaYjAYcakAra",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakratuH",
+        "cAcCaYjAmAsatuH",
+        "cAcCaYjAmbaBUvatuH",
+        "cAcCaYjAYcakruH",
+        "cAcCaYjAmAsuH",
+        "cAcCaYjAmbaBUvuH",
+        "cAcCaYjAYcakarTa",
+        "cAcCaYjAmAsiTa",
+        "cAcCaYjAmbaBUviTa",
+        "cAcCaYjAYcakraTuH",
+        "cAcCaYjAmAsaTuH",
+        "cAcCaYjAmbaBUvaTuH",
+        "cAcCaYjAYcakra",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakara",
+        "cAcCaYjAYcakAra",
+        "cAcCaYjAmAsa",
+        "cAcCaYjAmbaBUva",
+        "cAcCaYjAYcakfva",
+        "cAcCaYjAmAsiva",
+        "cAcCaYjAmbaBUviva",
+        "cAcCaYjAYcakfma",
+        "cAcCaYjAmAsima",
+        "cAcCaYjAmbaBUvima"
+      ],
+      "plot": [
+        "cAcCaNktAt",
+        "cAcCaNktAd",
+        "cAcCaNktu",
+        "cAcCaYjItu",
+        "cAcCaNktAm",
+        "cAcCaYjatu",
+        "cAcCaNktAt",
+        "cAcCaNktAd",
+        "cAcCaNgDi",
+        "cAcCaNktam",
+        "cAcCaNkta",
+        "cAcCaYjAni",
+        "cAcCaYjAva",
+        "cAcCaYjAma"
+      ],
+      "plrung": [
+        "acAcCaYjizyat",
+        "acAcCaYjizyad",
+        "acAcCaYjizyatAm",
+        "acAcCaYjizyan",
+        "acAcCaYjizyaH",
+        "acAcCaYjizyatam",
+        "acAcCaYjizyata",
+        "acAcCaYjizyam",
+        "acAcCaYjizyAva",
+        "acAcCaYjizyAma"
+      ],
+      "plrut": [
+        "cAcCaYjizyati",
+        "cAcCaYjizyataH",
+        "cAcCaYjizyanti",
+        "cAcCaYjizyasi",
+        "cAcCaYjizyaTaH",
+        "cAcCaYjizyaTa",
+        "cAcCaYjizyAmi",
+        "cAcCaYjizyAvaH",
+        "cAcCaYjizyAmaH"
+      ],
+      "plung": [
+        "acAcCaYjIt",
+        "acAcCaYjId",
+        "acAcCaYjizwAm",
+        "acAcCaYjizuH",
+        "acAcCaYjIH",
+        "acAcCaYjizwam",
+        "acAcCaYjizwa",
+        "acAcCaYjizam",
+        "acAcCaYjizva",
+        "acAcCaYjizma"
+      ],
+      "plut": [
+        "cAcCaYjitA",
+        "cAcCaYjitArO",
+        "cAcCaYjitAraH",
+        "cAcCaYjitAsi",
+        "cAcCaYjitAsTaH",
+        "cAcCaYjitAsTa",
+        "cAcCaYjitAsmi",
+        "cAcCaYjitAsvaH",
+        "cAcCaYjitAsmaH"
+      ],
+      "pvidhiling": [
+        "cAcCaYjyAt",
+        "cAcCaYjyAd",
+        "cAcCaYjyAtAm",
+        "cAcCaYjyuH",
+        "cAcCaYjyAH",
+        "cAcCaYjyAtam",
+        "cAcCaYjyAta",
+        "cAcCaYjyAm",
+        "cAcCaYjyAva",
+        "cAcCaYjyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "cAcCaYjizIzwa",
+        "cAcCaYjizIyAstAm",
+        "cAcCaYjizIran",
+        "cAcCaYjizIzWAH",
+        "cAcCaYjizIyAsTAm",
+        "cAcCaYjizIDvam",
+        "cAcCaYjizIya",
+        "cAcCaYjizIvahi",
+        "cAcCaYjizImahi"
+      ],
+      "alang": [
+        "acAcCaYjyata",
+        "acAcCaYjyetAm",
+        "acAcCaYjyanta",
+        "acAcCaYjyaTAH",
+        "acAcCaYjyeTAm",
+        "acAcCaYjyaDvam",
+        "acAcCaYjye",
+        "acAcCaYjyAvahi",
+        "acAcCaYjyAmahi"
+      ],
+      "alat": [
+        "cAcCaYjyate",
+        "cAcCaYjyete",
+        "cAcCaYjyante",
+        "cAcCaYjyase",
+        "cAcCaYjyeTe",
+        "cAcCaYjyaDve",
+        "cAcCaYjye",
+        "cAcCaYjyAvahe",
+        "cAcCaYjyAmahe"
+      ],
+      "alit": [
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAse",
+        "cAcCaYjAmbaBUve",
+        "cAcCaYjAYcakrAte",
+        "cAcCaYjAmAsAte",
+        "cAcCaYjAmbaBUvAte",
+        "cAcCaYjAYcakrire",
+        "cAcCaYjAmAsire",
+        "cAcCaYjAmbaBUvire",
+        "cAcCaYjAYcakfze",
+        "cAcCaYjAmAsize",
+        "cAcCaYjAmbaBUvize",
+        "cAcCaYjAYcakrATe",
+        "cAcCaYjAmAsATe",
+        "cAcCaYjAmbaBUvATe",
+        "cAcCaYjAYcakfQve",
+        "cAcCaYjAmAsiDve",
+        "cAcCaYjAmbaBUviQve",
+        "cAcCaYjAYcakre",
+        "cAcCaYjAmAhe",
+        "cAcCaYjAmbaBUve",
+        "cAcCaYjAYcakfvahe",
+        "cAcCaYjAmAsivahe",
+        "cAcCaYjAmbaBUvivahe",
+        "cAcCaYjAYcakfmahe",
+        "cAcCaYjAmAsimahe",
+        "cAcCaYjAmbaBUvimahe"
+      ],
+      "alot": [
+        "cAcCaYjyatAm",
+        "cAcCaYjyetAm",
+        "cAcCaYjyantAm",
+        "cAcCaYjyasva",
+        "cAcCaYjyeTAm",
+        "cAcCaYjyaDvam",
+        "cAcCaYjyE",
+        "cAcCaYjyAvahE",
+        "cAcCaYjyAmahE"
+      ],
+      "alrung": [
+        "acAcCaYjizyata",
+        "acAcCaYjizyetAm",
+        "acAcCaYjizyanta",
+        "acAcCaYjizyaTAH",
+        "acAcCaYjizyeTAm",
+        "acAcCaYjizyaDvam",
+        "acAcCaYjizye",
+        "acAcCaYjizyAvahi",
+        "acAcCaYjizyAmahi"
+      ],
+      "alrut": [
+        "cAcCaYjizyate",
+        "cAcCaYjizyete",
+        "cAcCaYjizyante",
+        "cAcCaYjizyase",
+        "cAcCaYjizyeTe",
+        "cAcCaYjizyaDve",
+        "cAcCaYjizye",
+        "cAcCaYjizyAvahe",
+        "cAcCaYjizyAmahe"
+      ],
+      "alung": [
+        "acAcCaYji",
+        "acAcCaYjizAtAm",
+        "acAcCaYjizata",
+        "acAcCaYjizWAH",
+        "acAcCaYjizATAm",
+        "acAcCaYjiDvam",
+        "acAcCaYjizi",
+        "acAcCaYjizvahi",
+        "acAcCaYjizmahi"
+      ],
+      "alut": [
+        "cAcCaYjitA",
+        "cAcCaYjitArO",
+        "cAcCaYjitAraH",
+        "cAcCaYjitAse",
+        "cAcCaYjitAsATe",
+        "cAcCaYjitADve",
+        "cAcCaYjitAhe",
+        "cAcCaYjitAsvahe",
+        "cAcCaYjitAsmahe"
+      ],
+      "avidhiling": [
+        "cAcCaYjyeta",
+        "cAcCaYjyeyAtAm",
+        "cAcCaYjyeran",
+        "cAcCaYjyeTAH",
+        "cAcCaYjyeyATAm",
+        "cAcCaYjyeDvam",
+        "cAcCaYjyeya",
+        "cAcCaYjyevahi",
+        "cAcCaYjyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "CaYjA",
+          "m": "",
+          "f": "CaYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "CaYja",
+          "m": "CaYjaH",
+          "f": "CaYjA",
+          "n": "CaYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "CaYjanIya",
+          "m": "CaYjanIyaH",
+          "f": "CaYjanIyA",
+          "n": "CaYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "CaYjita",
+          "m": "CaYjitaH",
+          "f": "CaYjitA",
+          "n": "CaYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "CaYjitavat",
+          "m": "CaYjitavAn",
+          "f": "CaYjitavatI",
+          "n": "CaYjitavat/CaYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "CaNkti",
+          "m": "",
+          "f": "CaNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "CaYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "CaYjayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cacCaYjvas",
+          "m": "cacCaYjvAn",
+          "f": "cacCaYjuzI",
+          "n": "cacCaYjvat/cacCaYjvad"
+        },
+        {
+          "base": "CaYjayAmbaBUvas",
+          "m": "CaYjayAmbaBUvAn",
+          "f": "CaYjayAmbaBUzI",
+          "n": "CaYjayAmbaBUvat/CaYjayAmbaBUvad"
+        },
+        {
+          "base": "CaYjayAmAsivas",
+          "m": "CaYjayAmAsivAn",
+          "f": "CaYjayAmAsuzI",
+          "n": "CaYjayAmAsivat/CaYjayAmAsivad"
+        },
+        {
+          "base": "CaYjayAYcakfvas",
+          "m": "CaYjayAYcakfvAn",
+          "f": "CaYjayAYcakruzI",
+          "n": "CaYjayAYcakfvat/CaYjayAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "CaNga",
+          "m": "CaNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "CaYjamAna",
+          "m": "CaYjamAnaH",
+          "f": "CaYjamAnA",
+          "n": "CaYjamAnam"
+        },
+        {
+          "base": "CaYjayamAna",
+          "m": "CaYjayamAnaH",
+          "f": "CaYjayamAnA",
+          "n": "CaYjayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "CaYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "CaYjya",
+          "m": "CaYjyaH",
+          "f": "CaYjyA",
+          "n": "CaYjyam"
+        },
+        {
+          "base": "CaNgya",
+          "m": "CaNgyaH",
+          "f": "CaNgyA",
+          "n": "CaNgyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "CaYjaka",
+          "m": "CaYjakaH",
+          "f": "CaYjikA",
+          "n": "CaYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "CaYjitavya",
+          "m": "CaYjitavyaH",
+          "f": "CaYjitavyA",
+          "n": "CaYjitavyam"
+        },
+        {
+          "base": "CaYjayitavya",
+          "m": "CaYjayitavyaH",
+          "f": "CaYjayitavyA",
+          "n": "CaYjayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "CaYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "CaYjayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "CaYjitf",
+          "m": "CaYjitA",
+          "f": "CaYjitrI",
+          "n": "CaYjitf"
+        },
+        {
+          "base": "CaYjayitf",
+          "m": "CaYjayitA",
+          "f": "CaYjayitrI",
+          "n": "CaYjayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "CaYjyamAna",
+          "m": "CaYjyamAnaH",
+          "f": "CaYjyamAnA",
+          "n": "CaYjyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "CaYjya",
+          "m": "CaYjyaH",
+          "f": "CaYjyA",
+          "n": "CaYjyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracCajya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracCaYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "CaYjana",
+          "m": "",
+          "f": "",
+          "n": "CaYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "CaYjaka",
+          "m": "CaYjakaH",
+          "f": "CaYjikA",
+          "n": "CaYjakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "CaYjat",
+          "m": "CaYjan",
+          "f": "CaYjantI",
+          "n": "CaYjat/CaYjad"
+        },
+        {
+          "base": "CaYjayat",
+          "m": "CaYjayan",
+          "f": "CaYjayantI",
+          "n": "CaYjayat/CaYjayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "CaYjayamAna",
+          "m": "CaYjayamAnaH",
+          "f": "CaYjayamAnA",
+          "n": "CaYjayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "CaYjizyamARa",
+          "m": "CaYjizyamARaH",
+          "f": "CaYjizyamARA",
+          "n": "CaYjizyamARam"
+        },
+        {
+          "base": "CaYjayizyamARa",
+          "m": "CaYjayizyamARaH",
+          "f": "CaYjayizyamARA",
+          "n": "CaYjayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "CaYjizyat",
+          "m": "CaYjizyan",
+          "f": "CaYjizyatI/CaYjizyantI",
+          "n": "CaYjizyat/CaYjizyad"
+        },
+        {
+          "base": "CaYjayizyat",
+          "m": "CaYjayizyan",
+          "f": "CaYjayizyatI/CaYjayizyantI",
+          "n": "CaYjayizyat/CaYjayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "CaYjayizyamARa",
+          "m": "CaYjayizyamARaH",
+          "f": "CaYjayizyamARA",
+          "n": "CaYjayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cicCaYjizA",
+          "m": "",
+          "f": "cicCaYjizA",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayizA",
+          "m": "",
+          "f": "cicCaYjayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cicCaYjiza",
+          "m": "cicCaYjizaH",
+          "f": "cicCaYjizA",
+          "n": "cicCaYjizam"
+        },
+        {
+          "base": "cicCaYjayiza",
+          "m": "cicCaYjayizaH",
+          "f": "cicCaYjayizA",
+          "n": "cicCaYjayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cicCaYjizaRIya",
+          "m": "cicCaYjizaRIyaH",
+          "f": "cicCaYjizaRIyA",
+          "n": "cicCaYjizaRIyam"
+        },
+        {
+          "base": "cicCaYjayizaRIya",
+          "m": "cicCaYjayizaRIyaH",
+          "f": "cicCaYjayizaRIyA",
+          "n": "cicCaYjayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cicCaYjizu",
+          "m": "cicCaYjizuH",
+          "f": "cicCaYjizuH",
+          "n": "cicCaYjizu"
+        },
+        {
+          "base": "cicCaYjayizu",
+          "m": "cicCaYjayizuH",
+          "f": "cicCaYjayizuH",
+          "n": "cicCaYjayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cicCaYjizita",
+          "m": "cicCaYjizitaH",
+          "f": "cicCaYjizitA",
+          "n": "cicCaYjizitam"
+        },
+        {
+          "base": "cicCaYjayizita",
+          "m": "cicCaYjayizitaH",
+          "f": "cicCaYjayizitA",
+          "n": "cicCaYjayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cicCaYjizitavat",
+          "m": "cicCaYjizitavAn",
+          "f": "cicCaYjizitavatI",
+          "n": "cicCaYjizitavat/cicCaYjizitavad"
+        },
+        {
+          "base": "cicCaYjayizitavat",
+          "m": "cicCaYjayizitavAn",
+          "f": "cicCaYjayizitavatI",
+          "n": "cicCaYjayizitavat/cicCaYjayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cicCaYjizwi",
+          "m": "",
+          "f": "cicCaYjizwiH",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayizwi",
+          "m": "",
+          "f": "cicCaYjayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cicCaYjizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cicCaYjizAmbaBUvas",
+          "m": "cicCaYjizAmbaBUvAn",
+          "f": "cicCaYjizAmbaBUzI",
+          "n": "cicCaYjizAmbaBUvat/cicCaYjizAmbaBUvad"
+        },
+        {
+          "base": "cicCaYjizAmAsivas",
+          "m": "cicCaYjizAmAsivAn",
+          "f": "cicCaYjizAmAsyuzI",
+          "n": "cicCaYjizAmAsivat/cicCaYjizAmAsivad"
+        },
+        {
+          "base": "cicCaYjizAYcakfvas",
+          "m": "cicCaYjizAYcakfvAn",
+          "f": "cicCaYjizAYcakruzI",
+          "n": "cicCaYjizAYcakfvat/cicCaYjizAYcakfvad"
+        },
+        {
+          "base": "cicCaYjayizAmbaBUvas",
+          "m": "cicCaYjayizAmbaBUvAn",
+          "f": "cicCaYjayizAmbaBUzI",
+          "n": "cicCaYjayizAmbaBUvat/cicCaYjayizAmbaBUvad"
+        },
+        {
+          "base": "cicCaYjayizAmAsivas",
+          "m": "cicCaYjayizAmAsivAn",
+          "f": "cicCaYjayizAmAsyuzI",
+          "n": "cicCaYjayizAmAsivat/cicCaYjayizAmAsivad"
+        },
+        {
+          "base": "cicCaYjayizAYcakfvas",
+          "m": "cicCaYjayizAYcakfvAn",
+          "f": "cicCaYjayizAYcakruzI",
+          "n": "cicCaYjayizAYcakfvat/cicCaYjayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cicCaYjiza",
+          "m": "cicCaYjizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayiza",
+          "m": "cicCaYjayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cicCaYjizamARa",
+          "m": "cicCaYjizamARaH",
+          "f": "cicCaYjizamARA",
+          "n": "cicCaYjizamARam"
+        },
+        {
+          "base": "cicCaYjayizamARa",
+          "m": "cicCaYjayizamARaH",
+          "f": "cicCaYjayizamARA",
+          "n": "cicCaYjayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cicCaYjizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cicCaYjizaka",
+          "m": "cicCaYjizakaH",
+          "f": "cicCaYjizikA",
+          "n": "cicCaYjizakam"
+        },
+        {
+          "base": "cicCaYjayizaka",
+          "m": "cicCaYjayizakaH",
+          "f": "cicCaYjayizikA",
+          "n": "cicCaYjayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cicCaYjizitavya",
+          "m": "cicCaYjizitavyaH",
+          "f": "cicCaYjizitavyA",
+          "n": "cicCaYjizitavyam"
+        },
+        {
+          "base": "cicCaYjayizitavya",
+          "m": "cicCaYjayizitavyaH",
+          "f": "cicCaYjayizitavyA",
+          "n": "cicCaYjayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cicCaYjizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cicCaYjayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cicCaYjizitf",
+          "m": "cicCaYjizitA",
+          "f": "cicCaYjizitrI",
+          "n": "cicCaYjizitf"
+        },
+        {
+          "base": "cicCaYjayizitf",
+          "m": "cicCaYjayizitA",
+          "f": "cicCaYjayizitrI",
+          "n": "cicCaYjayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cicCaYjizyamARa",
+          "m": "cicCaYjizyamARaH",
+          "f": "cicCaYjizyamARA",
+          "n": "cicCaYjizyamARam"
+        },
+        {
+          "base": "cicCaYjayizyamARa",
+          "m": "cicCaYjayizyamARaH",
+          "f": "cicCaYjayizyamARA",
+          "n": "cicCaYjayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cicCaYjizya",
+          "m": "cicCaYjizyaH",
+          "f": "cicCaYjizyA",
+          "n": "cicCaYjizyam"
+        },
+        {
+          "base": "cicCaYjayizya",
+          "m": "cicCaYjayizyaH",
+          "f": "cicCaYjayizyA",
+          "n": "cicCaYjayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracicCaYjizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracicCaYjayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cicCaYjizaRa",
+          "m": "",
+          "f": "",
+          "n": "cicCaYjizaRam"
+        },
+        {
+          "base": "cicCaYjayizaRa",
+          "m": "",
+          "f": "",
+          "n": "cicCaYjayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cicCaYjizaka",
+          "m": "cicCaYjizakaH",
+          "f": "cicCaYjizikA",
+          "n": "cicCaYjizakam"
+        },
+        {
+          "base": "cicCaYjayizaka",
+          "m": "cicCaYjayizakaH",
+          "f": "cicCaYjayizikA",
+          "n": "cicCaYjayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cicCaYjizat",
+          "m": "cicCaYjizan",
+          "f": "cicCaYjizantI",
+          "n": "cicCaYjizat/cicCaYjizad"
+        },
+        {
+          "base": "cicCaYjayizat",
+          "m": "cicCaYjayizan",
+          "f": "cicCaYjayizantI",
+          "n": "cicCaYjayizat/cicCaYjayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cicCaYjayizamARa",
+          "m": "cicCaYjayizamARaH",
+          "f": "cicCaYjayizamARA",
+          "n": "cicCaYjayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cicCaYjizizyamARa",
+          "m": "cicCaYjizizyamARaH",
+          "f": "cicCaYjizizyamARA",
+          "n": "cicCaYjizizyamARam"
+        },
+        {
+          "base": "cicCaYjayizizyamARa",
+          "m": "cicCaYjayizizyamARaH",
+          "f": "cicCaYjayizizyamARA",
+          "n": "cicCaYjayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cicCaYjizizyat",
+          "m": "cicCaYjizizyan",
+          "f": "cicCaYjizizyatI/cicCaYjizizyantI",
+          "n": "cicCaYjizizyat/cicCaYjizizyad"
+        },
+        {
+          "base": "cicCaYjayizizyat",
+          "m": "cicCaYjayizizyan",
+          "f": "cicCaYjayizizyatI/cicCaYjayizizyantI",
+          "n": "cicCaYjayizizyat/cicCaYjayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cicCaYjayizizyamARa",
+          "m": "cicCaYjayizizyamARaH",
+          "f": "cicCaYjayizizyamARA",
+          "n": "cicCaYjayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "CaYja",
+          "m": "CaYjaH",
+          "f": "CaYjA",
+          "n": "CaYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "CaYjanIya",
+          "m": "CaYjanIyaH",
+          "f": "CaYjanIyA",
+          "n": "CaYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "CaYjita",
+          "m": "CaYjitaH",
+          "f": "CaYjitA",
+          "n": "CaYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "CaYjitavat",
+          "m": "CaYjitavAn",
+          "f": "CaYjitavatI",
+          "n": "CaYjitavat/CaYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "CaNkti",
+          "m": "",
+          "f": "CaNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "CaYjayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "CaYjayAmbaBUvas",
+          "m": "CaYjayAmbaBUvAn",
+          "f": "CaYjayAmbaBUzI",
+          "n": "CaYjayAmbaBUvat/CaYjayAmbaBUvad"
+        },
+        {
+          "base": "CaYjayAmAsivas",
+          "m": "CaYjayAmAsivAn",
+          "f": "CaYjayAmAsyuzI",
+          "n": "CaYjayAmAsivat/CaYjayAmAsivad"
+        },
+        {
+          "base": "CaYjayAYcakfvas",
+          "m": "CaYjayAYcakfvAn",
+          "f": "CaYjayAYcakruzI",
+          "n": "CaYjayAYcakfvat/CaYjayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "CaYjayamAna",
+          "m": "CaYjayamAnaH",
+          "f": "CaYjayamAnA",
+          "n": "CaYjayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "CaYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "CaYjaka",
+          "m": "CaYjakaH",
+          "f": "CaYjikA",
+          "n": "CaYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "CaYjayitavya",
+          "m": "CaYjayitavyaH",
+          "f": "CaYjayitavyA",
+          "n": "CaYjayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "CaYjayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "CaYjayitf",
+          "m": "CaYjayitA",
+          "f": "CaYjayitrI",
+          "n": "CaYjayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "CaYjyamAna",
+          "m": "CaYjyamAnaH",
+          "f": "CaYjyamAnA",
+          "n": "CaYjyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "CaYjya",
+          "m": "CaYjyaH",
+          "f": "CaYjyA",
+          "n": "CaYjyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracCaYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "CaYjana",
+          "m": "",
+          "f": "",
+          "n": "CaYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "CaYjaka",
+          "m": "CaYjakaH",
+          "f": "CaYjikA",
+          "n": "CaYjakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "CaYjayat",
+          "m": "CaYjayan",
+          "f": "CaYjayantI",
+          "n": "CaYjayat/CaYjayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "CaYjayamAna",
+          "m": "CaYjayamAnaH",
+          "f": "CaYjayamAnA",
+          "n": "CaYjayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "CaYjizyamARa",
+          "m": "CaYjizyamARaH",
+          "f": "CaYjizyamARA",
+          "n": "CaYjizyamARam"
+        },
+        {
+          "base": "CaYjayizyamARa",
+          "m": "CaYjayizyamARaH",
+          "f": "CaYjayizyamARA",
+          "n": "CaYjayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "CaYjayizyat",
+          "m": "CaYjayizyan",
+          "f": "CaYjayizyatI/CaYjayizyantI",
+          "n": "CaYjayizyat/CaYjayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "CaYjayizyamARa",
+          "m": "CaYjayizyamARaH",
+          "f": "CaYjayizyamARA",
+          "n": "CaYjayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "cAcCaYjA",
+          "m": "",
+          "f": "cAcCaYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cAcCaYja",
+          "m": "cAcCaYjaH",
+          "f": "cAcCaYjA",
+          "n": "cAcCaYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cAcCaYjanIya",
+          "m": "cAcCaYjanIyaH",
+          "f": "cAcCaYjanIyA",
+          "n": "cAcCaYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cAcCaYjita",
+          "m": "cAcCaYjitaH",
+          "f": "cAcCaYjitA",
+          "n": "cAcCaYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cAcCaYjitavat",
+          "m": "cAcCaYjitavAn",
+          "f": "cAcCaYjitavatI",
+          "n": "cAcCaYjitavat/cAcCaYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cAcCaNkti",
+          "m": "",
+          "f": "cAcCaNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cAcCaYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cAcCaYjAmbaBUvas",
+          "m": "cAcCaYjAmbaBUvAn",
+          "f": "cAcCaYjAmbaBUzI",
+          "n": "cAcCaYjAmbaBUvat/cAcCaYjAmbaBUvad"
+        },
+        {
+          "base": "cAcCaYjAmAsivas",
+          "m": "cAcCaYjAmAsivAn",
+          "f": "cAcCaYjAmAsyuzI",
+          "n": "cAcCaYjAmAsivat/cAcCaYjAmAsivad"
+        },
+        {
+          "base": "cAcCaYjAYcakfvas",
+          "m": "cAcCaYjAYcakfvAn",
+          "f": "cAcCaYjAYcakruzI",
+          "n": "cAcCaYjAYcakfvat/cAcCaYjAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cAcCaNga",
+          "m": "cAcCaNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cAcCaYjyamAna",
+          "m": "cAcCaYjyamAnaH",
+          "f": "cAcCaYjyamAnA",
+          "n": "cAcCaYjyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cAcCaYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cAcCaYjaka",
+          "m": "cAcCaYjakaH",
+          "f": "cAcCaYjikA",
+          "n": "cAcCaYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cAcCaYjitavya",
+          "m": "cAcCaYjitavyaH",
+          "f": "cAcCaYjitavyA",
+          "n": "cAcCaYjitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cAcCaYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cAcCaYjitf",
+          "m": "cAcCaYjitA",
+          "f": "cAcCaYjitrI",
+          "n": "cAcCaYjitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cAcCaYjyamAna",
+          "m": "cAcCaYjyamAnaH",
+          "f": "cAcCaYjyamAnA",
+          "n": "cAcCaYjyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cAcCaYjya",
+          "m": "cAcCaYjyaH",
+          "f": "cAcCaYjyA",
+          "n": "cAcCaYjyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracAcCaYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cAcCaYjana",
+          "m": "",
+          "f": "",
+          "n": "cAcCaYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cAcCaYjaka",
+          "m": "cAcCaYjakaH",
+          "f": "cAcCaYjikA",
+          "n": "cAcCaYjakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cAcCaYjyamAna",
+          "m": "cAcCaYjyamAnaH",
+          "f": "cAcCaYjyamAnA",
+          "n": "cAcCaYjyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cAcCaYjizyamARa",
+          "m": "cAcCaYjizyamARaH",
+          "f": "cAcCaYjizyamARA",
+          "n": "cAcCaYjizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cAcCaYjizyamARa",
+          "m": "cAcCaYjizyamARaH",
+          "f": "cAcCaYjizyamARA",
+          "n": "cAcCaYjizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "cAcCaYjA",
+          "m": "",
+          "f": "cAcCaYjA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cAcCaYja",
+          "m": "cAcCaYjaH",
+          "f": "cAcCaYjA",
+          "n": "cAcCaYjam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cAcCaYjanIya",
+          "m": "cAcCaYjanIyaH",
+          "f": "cAcCaYjanIyA",
+          "n": "cAcCaYjanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cAcCaYjita",
+          "m": "cAcCaYjitaH",
+          "f": "cAcCaYjitA",
+          "n": "cAcCaYjitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cAcCaYjitavat",
+          "m": "cAcCaYjitavAn",
+          "f": "cAcCaYjitavatI",
+          "n": "cAcCaYjitavat/cAcCaYjitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cAcCaNkti",
+          "m": "",
+          "f": "cAcCaNktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cAcCaYjitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cAcCaYjAmbaBUvas",
+          "m": "cAcCaYjAmbaBUvAn",
+          "f": "cAcCaYjAmbaBUzI",
+          "n": "cAcCaYjAmbaBUvat/cAcCaYjAmbaBUvad"
+        },
+        {
+          "base": "cAcCaYjAmAsivas",
+          "m": "cAcCaYjAmAsivAn",
+          "f": "cAcCaYjAmAsyuzI",
+          "n": "cAcCaYjAmAsivat/cAcCaYjAmAsivad"
+        },
+        {
+          "base": "cAcCaYjAYcakfvas",
+          "m": "cAcCaYjAYcakfvAn",
+          "f": "cAcCaYjAYcakruzI",
+          "n": "cAcCaYjAYcakfvat/cAcCaYjAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cAcCaNga",
+          "m": "cAcCaNgaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cAcCaYjAna",
+          "m": "cAcCaYjAnaH",
+          "f": "cAcCaYjAnA",
+          "n": "cAcCaYjAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cAcCaYjam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cAcCaYjaka",
+          "m": "cAcCaYjakaH",
+          "f": "cAcCaYjikA",
+          "n": "cAcCaYjakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cAcCaYjitavya",
+          "m": "cAcCaYjitavyaH",
+          "f": "cAcCaYjitavyA",
+          "n": "cAcCaYjitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cAcCaYjitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cAcCaYjitf",
+          "m": "cAcCaYjitA",
+          "f": "cAcCaYjitrI",
+          "n": "cAcCaYjitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cAcCaYjyamAna",
+          "m": "cAcCaYjyamAnaH",
+          "f": "cAcCaYjyamAnA",
+          "n": "cAcCaYjyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracAcCajya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracAcCaYjya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cAcCaYjana",
+          "m": "",
+          "f": "",
+          "n": "cAcCaYjanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cAcCaYjaka",
+          "m": "cAcCaYjakaH",
+          "f": "cAcCaYjikA",
+          "n": "cAcCaYjakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cAcCaYjat",
+          "m": "cAcCaYjat/cAcCaYjad",
+          "f": "cAcCaYjatI",
+          "n": "cAcCaYjat/cAcCaYjad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cAcCaYjizyamARa",
+          "m": "cAcCaYjizyamARaH",
+          "f": "cAcCaYjizyamARA",
+          "n": "cAcCaYjizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cAcCaYjizyat",
+          "m": "cAcCaYjizyan",
+          "f": "cAcCaYjizyatI/cAcCaYjizyantI",
+          "n": "cAcCaYjizyat/cAcCaYjizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "CaYj",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

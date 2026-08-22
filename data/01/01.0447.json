@@ -1,0 +1,4937 @@
+{
+  "id": "01.0447",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "reBf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "Sabde"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to sound"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "Sabda karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "' aBIraTI kvacit paWyete . amBate, ramBate ' iti kOmudI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "385"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "385"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2301",
+      "ext_link": "/sutraani/sk2301?scroll=sutra-commentary-kaumudi-region&highlight=raeBaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "reBizIzwa",
+        "reBizIyAstAm",
+        "reBizIran",
+        "reBizIzWAH",
+        "reBizIyAsTAm",
+        "reBizIDvam",
+        "reBizIya",
+        "reBizIvahi",
+        "reBizImahi"
+      ],
+      "alang": [
+        "areBata",
+        "areBetAm",
+        "areBanta",
+        "areBaTAH",
+        "areBeTAm",
+        "areBaDvam",
+        "areBe",
+        "areBAvahi",
+        "areBAmahi"
+      ],
+      "alat": [
+        "reBate",
+        "reBete",
+        "reBante",
+        "reBase",
+        "reBeTe",
+        "reBaDve",
+        "reBe",
+        "reBAvahe",
+        "reBAmahe"
+      ],
+      "alit": [
+        "rireBe",
+        "rireBAte",
+        "rireBire",
+        "rireBize",
+        "rireBATe",
+        "rireBiDve",
+        "rireBe",
+        "rireBivahe",
+        "rireBimahe"
+      ],
+      "alot": [
+        "reBatAm",
+        "reBetAm",
+        "reBantAm",
+        "reBasva",
+        "reBeTAm",
+        "reBaDvam",
+        "reBE",
+        "reBAvahE",
+        "reBAmahE"
+      ],
+      "alrung": [
+        "areBizyata",
+        "areBizyetAm",
+        "areBizyanta",
+        "areBizyaTAH",
+        "areBizyeTAm",
+        "areBizyaDvam",
+        "areBizye",
+        "areBizyAvahi",
+        "areBizyAmahi"
+      ],
+      "alrut": [
+        "reBizyate",
+        "reBizyete",
+        "reBizyante",
+        "reBizyase",
+        "reBizyeTe",
+        "reBizyaDve",
+        "reBizye",
+        "reBizyAvahe",
+        "reBizyAmahe"
+      ],
+      "alung": [
+        "areBizwa",
+        "areBizAtAm",
+        "areBizata",
+        "areBizWAH",
+        "areBizATAm",
+        "areBiDvam",
+        "areBizi",
+        "areBizvahi",
+        "areBizmahi"
+      ],
+      "alut": [
+        "reBitA",
+        "reBitArO",
+        "reBitAraH",
+        "reBitAse",
+        "reBitAsATe",
+        "reBitADve",
+        "reBitAhe",
+        "reBitAsvahe",
+        "reBitAsmahe"
+      ],
+      "avidhiling": [
+        "reBeta",
+        "reBeyAtAm",
+        "reBeran",
+        "reBeTAH",
+        "reBeyATAm",
+        "reBeDvam",
+        "reBeya",
+        "reBevahi",
+        "reBemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "reBizIzwa",
+        "reBizIyAstAm",
+        "reBizIran",
+        "reBizIzWAH",
+        "reBizIyAsTAm",
+        "reBizIDvam",
+        "reBizIya",
+        "reBizIvahi",
+        "reBizImahi"
+      ],
+      "alang": [
+        "areByata",
+        "areByetAm",
+        "areByanta",
+        "areByaTAH",
+        "areByeTAm",
+        "areByaDvam",
+        "areBye",
+        "areByAvahi",
+        "areByAmahi"
+      ],
+      "alat": [
+        "reByate",
+        "reByete",
+        "reByante",
+        "reByase",
+        "reByeTe",
+        "reByaDve",
+        "reBye",
+        "reByAvahe",
+        "reByAmahe"
+      ],
+      "alit": [
+        "rireBe",
+        "rireBAte",
+        "rireBire",
+        "rireBize",
+        "rireBATe",
+        "rireBiDve",
+        "rireBe",
+        "rireBivahe",
+        "rireBimahe"
+      ],
+      "alot": [
+        "reByatAm",
+        "reByetAm",
+        "reByantAm",
+        "reByasva",
+        "reByeTAm",
+        "reByaDvam",
+        "reByE",
+        "reByAvahE",
+        "reByAmahE"
+      ],
+      "alrung": [
+        "areBizyata",
+        "areBizyetAm",
+        "areBizyanta",
+        "areBizyaTAH",
+        "areBizyeTAm",
+        "areBizyaDvam",
+        "areBizye",
+        "areBizyAvahi",
+        "areBizyAmahi"
+      ],
+      "alrut": [
+        "reBizyate",
+        "reBizyete",
+        "reBizyante",
+        "reBizyase",
+        "reBizyeTe",
+        "reBizyaDve",
+        "reBizye",
+        "reBizyAvahe",
+        "reBizyAmahe"
+      ],
+      "alung": [
+        "areBi",
+        "areBizAtAm",
+        "areBizata",
+        "areBizWAH",
+        "areBizATAm",
+        "areBiDvam",
+        "areBizi",
+        "areBizvahi",
+        "areBizmahi"
+      ],
+      "alut": [
+        "reBitA",
+        "reBitArO",
+        "reBitAraH",
+        "reBitAse",
+        "reBitAsATe",
+        "reBitADve",
+        "reBitAhe",
+        "reBitAsvahe",
+        "reBitAsmahe"
+      ],
+      "avidhiling": [
+        "reByeta",
+        "reByeyAtAm",
+        "reByeran",
+        "reByeTAH",
+        "reByeyATAm",
+        "reByeDvam",
+        "reByeya",
+        "reByevahi",
+        "reByemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "rireBizizIzwa",
+        "rireBizizIyAstAm",
+        "rireBizizIran",
+        "rireBizizIzWAH",
+        "rireBizizIyAsTAm",
+        "rireBizizIDvam",
+        "rireBizizIya",
+        "rireBizizIvahi",
+        "rireBizizImahi"
+      ],
+      "alang": [
+        "arireBizata",
+        "arireBizetAm",
+        "arireBizanta",
+        "arireBizaTAH",
+        "arireBizeTAm",
+        "arireBizaDvam",
+        "arireBize",
+        "arireBizAvahi",
+        "arireBizAmahi"
+      ],
+      "alat": [
+        "rireBizate",
+        "rireBizete",
+        "rireBizante",
+        "rireBizase",
+        "rireBizeTe",
+        "rireBizaDve",
+        "rireBize",
+        "rireBizAvahe",
+        "rireBizAmahe"
+      ],
+      "alit": [
+        "rireBizAYcakre",
+        "rireBizAmAsa",
+        "rireBizAmbaBUva",
+        "rireBizAYcakrAte",
+        "rireBizAmAsatuH",
+        "rireBizAmbaBUvatuH",
+        "rireBizAYcakrire",
+        "rireBizAmAsuH",
+        "rireBizAmbaBUvuH",
+        "rireBizAYcakfze",
+        "rireBizAmAsiTa",
+        "rireBizAmbaBUviTa",
+        "rireBizAYcakrATe",
+        "rireBizAmAsaTuH",
+        "rireBizAmbaBUvaTuH",
+        "rireBizAYcakfQve",
+        "rireBizAmAsa",
+        "rireBizAmbaBUva",
+        "rireBizAYcakre",
+        "rireBizAmAsa",
+        "rireBizAmbaBUva",
+        "rireBizAYcakfvahe",
+        "rireBizAmAsiva",
+        "rireBizAmbaBUviva",
+        "rireBizAYcakfmahe",
+        "rireBizAmAsima",
+        "rireBizAmbaBUvima"
+      ],
+      "alot": [
+        "rireBizatAm",
+        "rireBizetAm",
+        "rireBizantAm",
+        "rireBizasva",
+        "rireBizeTAm",
+        "rireBizaDvam",
+        "rireBizE",
+        "rireBizAvahE",
+        "rireBizAmahE"
+      ],
+      "alrung": [
+        "arireBizizyata",
+        "arireBizizyetAm",
+        "arireBizizyanta",
+        "arireBizizyaTAH",
+        "arireBizizyeTAm",
+        "arireBizizyaDvam",
+        "arireBizizye",
+        "arireBizizyAvahi",
+        "arireBizizyAmahi"
+      ],
+      "alrut": [
+        "rireBizizyate",
+        "rireBizizyete",
+        "rireBizizyante",
+        "rireBizizyase",
+        "rireBizizyeTe",
+        "rireBizizyaDve",
+        "rireBizizye",
+        "rireBizizyAvahe",
+        "rireBizizyAmahe"
+      ],
+      "alung": [
+        "arireBizizwa",
+        "arireBizizAtAm",
+        "arireBizizata",
+        "arireBizizWAH",
+        "arireBizizATAm",
+        "arireBiziDvam",
+        "arireBizizi",
+        "arireBizizvahi",
+        "arireBizizmahi"
+      ],
+      "alut": [
+        "rireBizitA",
+        "rireBizitArO",
+        "rireBizitAraH",
+        "rireBizitAse",
+        "rireBizitAsATe",
+        "rireBizitADve",
+        "rireBizitAhe",
+        "rireBizitAsvahe",
+        "rireBizitAsmahe"
+      ],
+      "avidhiling": [
+        "rireBizeta",
+        "rireBizeyAtAm",
+        "rireBizeran",
+        "rireBizeTAH",
+        "rireBizeyATAm",
+        "rireBizeDvam",
+        "rireBizeya",
+        "rireBizevahi",
+        "rireBizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "rireBizizIzwa",
+        "rireBizizIyAstAm",
+        "rireBizizIran",
+        "rireBizizIzWAH",
+        "rireBizizIyAsTAm",
+        "rireBizizIDvam",
+        "rireBizizIya",
+        "rireBizizIvahi",
+        "rireBizizImahi"
+      ],
+      "alang": [
+        "arireBizyata",
+        "arireBizyetAm",
+        "arireBizyanta",
+        "arireBizyaTAH",
+        "arireBizyeTAm",
+        "arireBizyaDvam",
+        "arireBizye",
+        "arireBizyAvahi",
+        "arireBizyAmahi"
+      ],
+      "alat": [
+        "rireBizyate",
+        "rireBizyete",
+        "rireBizyante",
+        "rireBizyase",
+        "rireBizyeTe",
+        "rireBizyaDve",
+        "rireBizye",
+        "rireBizyAvahe",
+        "rireBizyAmahe"
+      ],
+      "alit": [
+        "rireBizAYcakre",
+        "rireBizAmAse",
+        "rireBizAmbaBUve",
+        "rireBizAYcakrAte",
+        "rireBizAmAsAte",
+        "rireBizAmbaBUvAte",
+        "rireBizAYcakrire",
+        "rireBizAmAsire",
+        "rireBizAmbaBUvire",
+        "rireBizAYcakfze",
+        "rireBizAmAsize",
+        "rireBizAmbaBUvize",
+        "rireBizAYcakrATe",
+        "rireBizAmAsATe",
+        "rireBizAmbaBUvATe",
+        "rireBizAYcakfQve",
+        "rireBizAmAsiDve",
+        "rireBizAmbaBUviQve",
+        "rireBizAYcakre",
+        "rireBizAmAhe",
+        "rireBizAmbaBUve",
+        "rireBizAYcakfvahe",
+        "rireBizAmAsivahe",
+        "rireBizAmbaBUvivahe",
+        "rireBizAYcakfmahe",
+        "rireBizAmAsimahe",
+        "rireBizAmbaBUvimahe"
+      ],
+      "alot": [
+        "rireBizyatAm",
+        "rireBizyetAm",
+        "rireBizyantAm",
+        "rireBizyasva",
+        "rireBizyeTAm",
+        "rireBizyaDvam",
+        "rireBizyE",
+        "rireBizyAvahE",
+        "rireBizyAmahE"
+      ],
+      "alrung": [
+        "arireBizizyata",
+        "arireBizizyetAm",
+        "arireBizizyanta",
+        "arireBizizyaTAH",
+        "arireBizizyeTAm",
+        "arireBizizyaDvam",
+        "arireBizizye",
+        "arireBizizyAvahi",
+        "arireBizizyAmahi"
+      ],
+      "alrut": [
+        "rireBizizyate",
+        "rireBizizyete",
+        "rireBizizyante",
+        "rireBizizyase",
+        "rireBizizyeTe",
+        "rireBizizyaDve",
+        "rireBizizye",
+        "rireBizizyAvahe",
+        "rireBizizyAmahe"
+      ],
+      "alung": [
+        "arireBizi",
+        "arireBizizAtAm",
+        "arireBizizata",
+        "arireBizizWAH",
+        "arireBizizATAm",
+        "arireBiziDvam",
+        "arireBizizi",
+        "arireBizizvahi",
+        "arireBizizmahi"
+      ],
+      "alut": [
+        "rireBizitA",
+        "rireBizitArO",
+        "rireBizitAraH",
+        "rireBizitAse",
+        "rireBizitAsATe",
+        "rireBizitADve",
+        "rireBizitAhe",
+        "rireBizitAsvahe",
+        "rireBizitAsmahe"
+      ],
+      "avidhiling": [
+        "rireBizyeta",
+        "rireBizyeyAtAm",
+        "rireBizyeran",
+        "rireBizyeTAH",
+        "rireBizyeyATAm",
+        "rireBizyeDvam",
+        "rireBizyeya",
+        "rireBizyevahi",
+        "rireBizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "reBayizIzwa",
+        "reBayizIyAstAm",
+        "reBayizIran",
+        "reBayizIzWAH",
+        "reBayizIyAsTAm",
+        "reBayizIQvam",
+        "reBayizIDvam",
+        "reBayizIya",
+        "reBayizIvahi",
+        "reBayizImahi"
+      ],
+      "alang": [
+        "areBayata",
+        "areBayetAm",
+        "areBayanta",
+        "areBayaTAH",
+        "areBayeTAm",
+        "areBayaDvam",
+        "areBaye",
+        "areBayAvahi",
+        "areBayAmahi"
+      ],
+      "alat": [
+        "reBayate",
+        "reBayete",
+        "reBayante",
+        "reBayase",
+        "reBayeTe",
+        "reBayaDve",
+        "reBaye",
+        "reBayAvahe",
+        "reBayAmahe"
+      ],
+      "alit": [
+        "reBayAYcakre",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakrAte",
+        "reBayAmAsatuH",
+        "reBayAmbaBUvatuH",
+        "reBayAYcakrire",
+        "reBayAmAsuH",
+        "reBayAmbaBUvuH",
+        "reBayAYcakfze",
+        "reBayAmAsiTa",
+        "reBayAmbaBUviTa",
+        "reBayAYcakrATe",
+        "reBayAmAsaTuH",
+        "reBayAmbaBUvaTuH",
+        "reBayAYcakfQve",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakre",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakfvahe",
+        "reBayAmAsiva",
+        "reBayAmbaBUviva",
+        "reBayAYcakfmahe",
+        "reBayAmAsima",
+        "reBayAmbaBUvima"
+      ],
+      "alot": [
+        "reBayatAm",
+        "reBayetAm",
+        "reBayantAm",
+        "reBayasva",
+        "reBayeTAm",
+        "reBayaDvam",
+        "reBayE",
+        "reBayAvahE",
+        "reBayAmahE"
+      ],
+      "alrung": [
+        "areBayizyata",
+        "areBayizyetAm",
+        "areBayizyanta",
+        "areBayizyaTAH",
+        "areBayizyeTAm",
+        "areBayizyaDvam",
+        "areBayizye",
+        "areBayizyAvahi",
+        "areBayizyAmahi"
+      ],
+      "alrut": [
+        "reBayizyate",
+        "reBayizyete",
+        "reBayizyante",
+        "reBayizyase",
+        "reBayizyeTe",
+        "reBayizyaDve",
+        "reBayizye",
+        "reBayizyAvahe",
+        "reBayizyAmahe"
+      ],
+      "alung": [
+        "arireBata",
+        "arireBetAm",
+        "arireBanta",
+        "arireBaTAH",
+        "arireBeTAm",
+        "arireBaDvam",
+        "arireBe",
+        "arireBAvahi",
+        "arireBAmahi"
+      ],
+      "alut": [
+        "reBayitA",
+        "reBayitArO",
+        "reBayitAraH",
+        "reBayitAse",
+        "reBayitAsATe",
+        "reBayitADve",
+        "reBayitAhe",
+        "reBayitAsvahe",
+        "reBayitAsmahe"
+      ],
+      "avidhiling": [
+        "reBayeta",
+        "reBayeyAtAm",
+        "reBayeran",
+        "reBayeTAH",
+        "reBayeyATAm",
+        "reBayeDvam",
+        "reBayeya",
+        "reBayevahi",
+        "reBayemahi"
+      ],
+      "pashirling": [
+        "reByAt",
+        "reByAd",
+        "reByAstAm",
+        "reByAsuH",
+        "reByAH",
+        "reByAstam",
+        "reByAsta",
+        "reByAsam",
+        "reByAsva",
+        "reByAsma"
+      ],
+      "plang": [
+        "areBayat",
+        "areBayad",
+        "areBayatAm",
+        "areBayan",
+        "areBayaH",
+        "areBayatam",
+        "areBayata",
+        "areBayam",
+        "areBayAva",
+        "areBayAma"
+      ],
+      "plat": [
+        "reBayati",
+        "reBayataH",
+        "reBayanti",
+        "reBayasi",
+        "reBayaTaH",
+        "reBayaTa",
+        "reBayAmi",
+        "reBayAvaH",
+        "reBayAmaH"
+      ],
+      "plit": [
+        "reBayAYcakAra",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakratuH",
+        "reBayAmAsatuH",
+        "reBayAmbaBUvatuH",
+        "reBayAYcakruH",
+        "reBayAmAsuH",
+        "reBayAmbaBUvuH",
+        "reBayAYcakarTa",
+        "reBayAmAsiTa",
+        "reBayAmbaBUviTa",
+        "reBayAYcakraTuH",
+        "reBayAmAsaTuH",
+        "reBayAmbaBUvaTuH",
+        "reBayAYcakra",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakara",
+        "reBayAYcakAra",
+        "reBayAmAsa",
+        "reBayAmbaBUva",
+        "reBayAYcakfva",
+        "reBayAmAsiva",
+        "reBayAmbaBUviva",
+        "reBayAYcakfma",
+        "reBayAmAsima",
+        "reBayAmbaBUvima"
+      ],
+      "plot": [
+        "reBayatAt",
+        "reBayatAd",
+        "reBayatu",
+        "reBayatAm",
+        "reBayantu",
+        "reBaya",
+        "reBayatAt",
+        "reBayatAd",
+        "reBayatam",
+        "reBayata",
+        "reBayARi",
+        "reBayAva",
+        "reBayAma"
+      ],
+      "plrung": [
+        "areBayizyat",
+        "areBayizyad",
+        "areBayizyatAm",
+        "areBayizyan",
+        "areBayizyaH",
+        "areBayizyatam",
+        "areBayizyata",
+        "areBayizyam",
+        "areBayizyAva",
+        "areBayizyAma"
+      ],
+      "plrut": [
+        "reBayizyati",
+        "reBayizyataH",
+        "reBayizyanti",
+        "reBayizyasi",
+        "reBayizyaTaH",
+        "reBayizyaTa",
+        "reBayizyAmi",
+        "reBayizyAvaH",
+        "reBayizyAmaH"
+      ],
+      "plung": [
+        "arireBat",
+        "arireBad",
+        "arireBatAm",
+        "arireBan",
+        "arireBaH",
+        "arireBatam",
+        "arireBata",
+        "arireBam",
+        "arireBAva",
+        "arireBAma"
+      ],
+      "plut": [
+        "reBayitA",
+        "reBayitArO",
+        "reBayitAraH",
+        "reBayitAsi",
+        "reBayitAsTaH",
+        "reBayitAsTa",
+        "reBayitAsmi",
+        "reBayitAsvaH",
+        "reBayitAsmaH"
+      ],
+      "pvidhiling": [
+        "reBayet",
+        "reBayed",
+        "reBayetAm",
+        "reBayeyuH",
+        "reBayeH",
+        "reBayetam",
+        "reBayeta",
+        "reBayeyam",
+        "reBayeva",
+        "reBayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "reBayizIzwa",
+        "reBizIzwa",
+        "reBayizIyAstAm",
+        "reBizIyAstAm",
+        "reBayizIran",
+        "reBizIran",
+        "reBayizIzWAH",
+        "reBizIzWAH",
+        "reBayizIyAsTAm",
+        "reBizIyAsTAm",
+        "reBayizIQvam",
+        "reBayizIDvam",
+        "reBizIDvam",
+        "reBayizIya",
+        "reBizIya",
+        "reBayizIvahi",
+        "reBizIvahi",
+        "reBayizImahi",
+        "reBizImahi"
+      ],
+      "alang": [
+        "areByata",
+        "areByetAm",
+        "areByanta",
+        "areByaTAH",
+        "areByeTAm",
+        "areByaDvam",
+        "areBye",
+        "areByAvahi",
+        "areByAmahi"
+      ],
+      "alat": [
+        "reByate",
+        "reByete",
+        "reByante",
+        "reByase",
+        "reByeTe",
+        "reByaDve",
+        "reBye",
+        "reByAvahe",
+        "reByAmahe"
+      ],
+      "alit": [
+        "reBayAYcakre",
+        "reBayAmAse",
+        "reBayAmbaBUve",
+        "reBayAYcakrAte",
+        "reBayAmAsAte",
+        "reBayAmbaBUvAte",
+        "reBayAYcakrire",
+        "reBayAmAsire",
+        "reBayAmbaBUvire",
+        "reBayAYcakfze",
+        "reBayAmAsize",
+        "reBayAmbaBUvize",
+        "reBayAYcakrATe",
+        "reBayAmAsATe",
+        "reBayAmbaBUvATe",
+        "reBayAYcakfQve",
+        "reBayAmAsiDve",
+        "reBayAmbaBUviQve",
+        "reBayAYcakre",
+        "reBayAmAhe",
+        "reBayAmbaBUve",
+        "reBayAYcakfvahe",
+        "reBayAmAsivahe",
+        "reBayAmbaBUvivahe",
+        "reBayAYcakfmahe",
+        "reBayAmAsimahe",
+        "reBayAmbaBUvimahe"
+      ],
+      "alot": [
+        "reByatAm",
+        "reByetAm",
+        "reByantAm",
+        "reByasva",
+        "reByeTAm",
+        "reByaDvam",
+        "reByE",
+        "reByAvahE",
+        "reByAmahE"
+      ],
+      "alrung": [
+        "areBayizyata",
+        "areBizyata",
+        "areBayizyetAm",
+        "areBizyetAm",
+        "areBayizyanta",
+        "areBizyanta",
+        "areBayizyaTAH",
+        "areBizyaTAH",
+        "areBayizyeTAm",
+        "areBizyeTAm",
+        "areBayizyaDvam",
+        "areBizyaDvam",
+        "areBayizye",
+        "areBizye",
+        "areBayizyAvahi",
+        "areBizyAvahi",
+        "areBayizyAmahi",
+        "areBizyAmahi"
+      ],
+      "alrut": [
+        "reBayizyate",
+        "reBizyate",
+        "reBayizyete",
+        "reBizyete",
+        "reBayizyante",
+        "reBizyante",
+        "reBayizyase",
+        "reBizyase",
+        "reBayizyeTe",
+        "reBizyeTe",
+        "reBayizyaDve",
+        "reBizyaDve",
+        "reBayizye",
+        "reBizye",
+        "reBayizyAvahe",
+        "reBizyAvahe",
+        "reBayizyAmahe",
+        "reBizyAmahe"
+      ],
+      "alung": [
+        "areBi",
+        "areBayizAtAm",
+        "areBizAtAm",
+        "areBayizata",
+        "areBizata",
+        "areBayizWAH",
+        "areBizWAH",
+        "areBayizATAm",
+        "areBizATAm",
+        "areBayiQvam",
+        "areBayiDvam",
+        "areBiDvam",
+        "areBayizi",
+        "areBizi",
+        "areBayizvahi",
+        "areBizvahi",
+        "areBayizmahi",
+        "areBizmahi"
+      ],
+      "alut": [
+        "reBayitA",
+        "reBitA",
+        "reBayitArO",
+        "reBitArO",
+        "reBayitAraH",
+        "reBitAraH",
+        "reBayitAse",
+        "reBitAse",
+        "reBayitAsATe",
+        "reBitAsATe",
+        "reBayitADve",
+        "reBitADve",
+        "reBayitAhe",
+        "reBitAhe",
+        "reBayitAsvahe",
+        "reBitAsvahe",
+        "reBayitAsmahe",
+        "reBitAsmahe"
+      ],
+      "avidhiling": [
+        "reByeta",
+        "reByeyAtAm",
+        "reByeran",
+        "reByeTAH",
+        "reByeyATAm",
+        "reByeDvam",
+        "reByeya",
+        "reByevahi",
+        "reByemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "rereBizIzwa",
+        "rereBizIyAstAm",
+        "rereBizIran",
+        "rereBizIzWAH",
+        "rereBizIyAsTAm",
+        "rereBizIDvam",
+        "rereBizIya",
+        "rereBizIvahi",
+        "rereBizImahi"
+      ],
+      "alang": [
+        "arereByata",
+        "arereByetAm",
+        "arereByanta",
+        "arereByaTAH",
+        "arereByeTAm",
+        "arereByaDvam",
+        "arereBye",
+        "arereByAvahi",
+        "arereByAmahi"
+      ],
+      "alat": [
+        "rereByate",
+        "rereByete",
+        "rereByante",
+        "rereByase",
+        "rereByeTe",
+        "rereByaDve",
+        "rereBye",
+        "rereByAvahe",
+        "rereByAmahe"
+      ],
+      "alit": [
+        "rereBAYcakre",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakrAte",
+        "rereBAmAsatuH",
+        "rereBAmbaBUvatuH",
+        "rereBAYcakrire",
+        "rereBAmAsuH",
+        "rereBAmbaBUvuH",
+        "rereBAYcakfze",
+        "rereBAmAsiTa",
+        "rereBAmbaBUviTa",
+        "rereBAYcakrATe",
+        "rereBAmAsaTuH",
+        "rereBAmbaBUvaTuH",
+        "rereBAYcakfQve",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakre",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakfvahe",
+        "rereBAmAsiva",
+        "rereBAmbaBUviva",
+        "rereBAYcakfmahe",
+        "rereBAmAsima",
+        "rereBAmbaBUvima"
+      ],
+      "alot": [
+        "rereByatAm",
+        "rereByetAm",
+        "rereByantAm",
+        "rereByasva",
+        "rereByeTAm",
+        "rereByaDvam",
+        "rereByE",
+        "rereByAvahE",
+        "rereByAmahE"
+      ],
+      "alrung": [
+        "arereBizyata",
+        "arereBizyetAm",
+        "arereBizyanta",
+        "arereBizyaTAH",
+        "arereBizyeTAm",
+        "arereBizyaDvam",
+        "arereBizye",
+        "arereBizyAvahi",
+        "arereBizyAmahi"
+      ],
+      "alrut": [
+        "rereBizyate",
+        "rereBizyete",
+        "rereBizyante",
+        "rereBizyase",
+        "rereBizyeTe",
+        "rereBizyaDve",
+        "rereBizye",
+        "rereBizyAvahe",
+        "rereBizyAmahe"
+      ],
+      "alung": [
+        "arereBizwa",
+        "arereBizAtAm",
+        "arereBizata",
+        "arereBizWAH",
+        "arereBizATAm",
+        "arereBiDvam",
+        "arereBizi",
+        "arereBizvahi",
+        "arereBizmahi"
+      ],
+      "alut": [
+        "rereBitA",
+        "rereBitArO",
+        "rereBitAraH",
+        "rereBitAse",
+        "rereBitAsATe",
+        "rereBitADve",
+        "rereBitAhe",
+        "rereBitAsvahe",
+        "rereBitAsmahe"
+      ],
+      "avidhiling": [
+        "rereByeta",
+        "rereByeyAtAm",
+        "rereByeran",
+        "rereByeTAH",
+        "rereByeyATAm",
+        "rereByeDvam",
+        "rereByeya",
+        "rereByevahi",
+        "rereByemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "rereBizIzwa",
+        "rereBizIyAstAm",
+        "rereBizIran",
+        "rereBizIzWAH",
+        "rereBizIyAsTAm",
+        "rereBizIDvam",
+        "rereBizIya",
+        "rereBizIvahi",
+        "rereBizImahi"
+      ],
+      "alang": [
+        "arereByata",
+        "arereByetAm",
+        "arereByanta",
+        "arereByaTAH",
+        "arereByeTAm",
+        "arereByaDvam",
+        "arereBye",
+        "arereByAvahi",
+        "arereByAmahi"
+      ],
+      "alat": [
+        "rereByate",
+        "rereByete",
+        "rereByante",
+        "rereByase",
+        "rereByeTe",
+        "rereByaDve",
+        "rereBye",
+        "rereByAvahe",
+        "rereByAmahe"
+      ],
+      "alit": [
+        "rereBAYcakre",
+        "rereBAmAse",
+        "rereBAmbaBUve",
+        "rereBAYcakrAte",
+        "rereBAmAsAte",
+        "rereBAmbaBUvAte",
+        "rereBAYcakrire",
+        "rereBAmAsire",
+        "rereBAmbaBUvire",
+        "rereBAYcakfze",
+        "rereBAmAsize",
+        "rereBAmbaBUvize",
+        "rereBAYcakrATe",
+        "rereBAmAsATe",
+        "rereBAmbaBUvATe",
+        "rereBAYcakfQve",
+        "rereBAmAsiDve",
+        "rereBAmbaBUviQve",
+        "rereBAYcakre",
+        "rereBAmAhe",
+        "rereBAmbaBUve",
+        "rereBAYcakfvahe",
+        "rereBAmAsivahe",
+        "rereBAmbaBUvivahe",
+        "rereBAYcakfmahe",
+        "rereBAmAsimahe",
+        "rereBAmbaBUvimahe"
+      ],
+      "alot": [
+        "rereByatAm",
+        "rereByetAm",
+        "rereByantAm",
+        "rereByasva",
+        "rereByeTAm",
+        "rereByaDvam",
+        "rereByE",
+        "rereByAvahE",
+        "rereByAmahE"
+      ],
+      "alrung": [
+        "arereBizyata",
+        "arereBizyetAm",
+        "arereBizyanta",
+        "arereBizyaTAH",
+        "arereBizyeTAm",
+        "arereBizyaDvam",
+        "arereBizye",
+        "arereBizyAvahi",
+        "arereBizyAmahi"
+      ],
+      "alrut": [
+        "rereBizyate",
+        "rereBizyete",
+        "rereBizyante",
+        "rereBizyase",
+        "rereBizyeTe",
+        "rereBizyaDve",
+        "rereBizye",
+        "rereBizyAvahe",
+        "rereBizyAmahe"
+      ],
+      "alung": [
+        "arereBi",
+        "arereBizAtAm",
+        "arereBizata",
+        "arereBizWAH",
+        "arereBizATAm",
+        "arereBiDvam",
+        "arereBizi",
+        "arereBizvahi",
+        "arereBizmahi"
+      ],
+      "alut": [
+        "rereBitA",
+        "rereBitArO",
+        "rereBitAraH",
+        "rereBitAse",
+        "rereBitAsATe",
+        "rereBitADve",
+        "rereBitAhe",
+        "rereBitAsvahe",
+        "rereBitAsmahe"
+      ],
+      "avidhiling": [
+        "rereByeta",
+        "rereByeyAtAm",
+        "rereByeran",
+        "rereByeTAH",
+        "rereByeyATAm",
+        "rereByeDvam",
+        "rereByeya",
+        "rereByevahi",
+        "rereByemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "rereByAt",
+        "rereByAd",
+        "rereByAstAm",
+        "rereByAsuH",
+        "rereByAH",
+        "rereByAstam",
+        "rereByAsta",
+        "rereByAsam",
+        "rereByAsva",
+        "rereByAsma"
+      ],
+      "plang": [
+        "arerep",
+        "arereb",
+        "arereBIt",
+        "arereBId",
+        "arerebDAm",
+        "arereBuH",
+        "arerep",
+        "arereb",
+        "arereBIH",
+        "arerebDam",
+        "arerebDa",
+        "arereBam",
+        "arereBva",
+        "arereBma"
+      ],
+      "plat": [
+        "rerebDi",
+        "rereBIti",
+        "rerebDaH",
+        "rereBati",
+        "rerepsi",
+        "rereBIzi",
+        "rerebDaH",
+        "rerebDa",
+        "rereBImi",
+        "rereBmi",
+        "rereBvaH",
+        "rereBmaH"
+      ],
+      "plit": [
+        "rereBAYcakAra",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakratuH",
+        "rereBAmAsatuH",
+        "rereBAmbaBUvatuH",
+        "rereBAYcakruH",
+        "rereBAmAsuH",
+        "rereBAmbaBUvuH",
+        "rereBAYcakarTa",
+        "rereBAmAsiTa",
+        "rereBAmbaBUviTa",
+        "rereBAYcakraTuH",
+        "rereBAmAsaTuH",
+        "rereBAmbaBUvaTuH",
+        "rereBAYcakra",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakara",
+        "rereBAYcakAra",
+        "rereBAmAsa",
+        "rereBAmbaBUva",
+        "rereBAYcakfva",
+        "rereBAmAsiva",
+        "rereBAmbaBUviva",
+        "rereBAYcakfma",
+        "rereBAmAsima",
+        "rereBAmbaBUvima"
+      ],
+      "plot": [
+        "rerebDAt",
+        "rerebDAd",
+        "rerebDu",
+        "rereBItu",
+        "rerebDAm",
+        "rereBatu",
+        "rerebDAt",
+        "rerebDAd",
+        "rerebDi",
+        "rerebDam",
+        "rerebDa",
+        "rereBARi",
+        "rereBAva",
+        "rereBAma"
+      ],
+      "plrung": [
+        "arereBizyat",
+        "arereBizyad",
+        "arereBizyatAm",
+        "arereBizyan",
+        "arereBizyaH",
+        "arereBizyatam",
+        "arereBizyata",
+        "arereBizyam",
+        "arereBizyAva",
+        "arereBizyAma"
+      ],
+      "plrut": [
+        "rereBizyati",
+        "rereBizyataH",
+        "rereBizyanti",
+        "rereBizyasi",
+        "rereBizyaTaH",
+        "rereBizyaTa",
+        "rereBizyAmi",
+        "rereBizyAvaH",
+        "rereBizyAmaH"
+      ],
+      "plung": [
+        "arereBIt",
+        "arereBId",
+        "arereBizwAm",
+        "arereBizuH",
+        "arereBIH",
+        "arereBizwam",
+        "arereBizwa",
+        "arereBizam",
+        "arereBizva",
+        "arereBizma"
+      ],
+      "plut": [
+        "rereBitA",
+        "rereBitArO",
+        "rereBitAraH",
+        "rereBitAsi",
+        "rereBitAsTaH",
+        "rereBitAsTa",
+        "rereBitAsmi",
+        "rereBitAsvaH",
+        "rereBitAsmaH"
+      ],
+      "pvidhiling": [
+        "rereByAt",
+        "rereByAd",
+        "rereByAtAm",
+        "rereByuH",
+        "rereByAH",
+        "rereByAtam",
+        "rereByAta",
+        "rereByAm",
+        "rereByAva",
+        "rereByAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "rereBizIzwa",
+        "rereBizIyAstAm",
+        "rereBizIran",
+        "rereBizIzWAH",
+        "rereBizIyAsTAm",
+        "rereBizIDvam",
+        "rereBizIya",
+        "rereBizIvahi",
+        "rereBizImahi"
+      ],
+      "alang": [
+        "arereByata",
+        "arereByetAm",
+        "arereByanta",
+        "arereByaTAH",
+        "arereByeTAm",
+        "arereByaDvam",
+        "arereBye",
+        "arereByAvahi",
+        "arereByAmahi"
+      ],
+      "alat": [
+        "rereByate",
+        "rereByete",
+        "rereByante",
+        "rereByase",
+        "rereByeTe",
+        "rereByaDve",
+        "rereBye",
+        "rereByAvahe",
+        "rereByAmahe"
+      ],
+      "alit": [
+        "rereBAYcakre",
+        "rereBAmAse",
+        "rereBAmbaBUve",
+        "rereBAYcakrAte",
+        "rereBAmAsAte",
+        "rereBAmbaBUvAte",
+        "rereBAYcakrire",
+        "rereBAmAsire",
+        "rereBAmbaBUvire",
+        "rereBAYcakfze",
+        "rereBAmAsize",
+        "rereBAmbaBUvize",
+        "rereBAYcakrATe",
+        "rereBAmAsATe",
+        "rereBAmbaBUvATe",
+        "rereBAYcakfQve",
+        "rereBAmAsiDve",
+        "rereBAmbaBUviQve",
+        "rereBAYcakre",
+        "rereBAmAhe",
+        "rereBAmbaBUve",
+        "rereBAYcakfvahe",
+        "rereBAmAsivahe",
+        "rereBAmbaBUvivahe",
+        "rereBAYcakfmahe",
+        "rereBAmAsimahe",
+        "rereBAmbaBUvimahe"
+      ],
+      "alot": [
+        "rereByatAm",
+        "rereByetAm",
+        "rereByantAm",
+        "rereByasva",
+        "rereByeTAm",
+        "rereByaDvam",
+        "rereByE",
+        "rereByAvahE",
+        "rereByAmahE"
+      ],
+      "alrung": [
+        "arereBizyata",
+        "arereBizyetAm",
+        "arereBizyanta",
+        "arereBizyaTAH",
+        "arereBizyeTAm",
+        "arereBizyaDvam",
+        "arereBizye",
+        "arereBizyAvahi",
+        "arereBizyAmahi"
+      ],
+      "alrut": [
+        "rereBizyate",
+        "rereBizyete",
+        "rereBizyante",
+        "rereBizyase",
+        "rereBizyeTe",
+        "rereBizyaDve",
+        "rereBizye",
+        "rereBizyAvahe",
+        "rereBizyAmahe"
+      ],
+      "alung": [
+        "arereBi",
+        "arereBizAtAm",
+        "arereBizata",
+        "arereBizWAH",
+        "arereBizATAm",
+        "arereBiDvam",
+        "arereBizi",
+        "arereBizvahi",
+        "arereBizmahi"
+      ],
+      "alut": [
+        "rereBitA",
+        "rereBitArO",
+        "rereBitAraH",
+        "rereBitAse",
+        "rereBitAsATe",
+        "rereBitADve",
+        "rereBitAhe",
+        "rereBitAsvahe",
+        "rereBitAsmahe"
+      ],
+      "avidhiling": [
+        "rereByeta",
+        "rereByeyAtAm",
+        "rereByeran",
+        "rereByeTAH",
+        "rereByeyATAm",
+        "rereByeDvam",
+        "rereByeya",
+        "rereByevahi",
+        "rereByemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "reBA",
+          "m": "",
+          "f": "reBA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "reBa",
+          "m": "reBaH",
+          "f": "reBA",
+          "n": "reBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "reBaRIya",
+          "m": "reBaRIyaH",
+          "f": "reBaRIyA",
+          "n": "reBaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "reBita",
+          "m": "reBitaH",
+          "f": "reBitA",
+          "n": "reBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "reBitavat",
+          "m": "reBitavAn",
+          "f": "reBitavatI",
+          "n": "reBitavat/reBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rebDi",
+          "m": "",
+          "f": "rebDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "reBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rireBvas",
+          "m": "rireBvAn",
+          "f": "rireBuzI",
+          "n": "rireBvat/rireBvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "reBa",
+          "m": "reBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "reBamARa",
+          "m": "reBamARaH",
+          "f": "reBamARA",
+          "n": "reBamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "reBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "reBya",
+          "m": "reByaH",
+          "f": "reByA",
+          "n": "reByam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "reBaka",
+          "m": "reBakaH",
+          "f": "reBikA",
+          "n": "reBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "reBitavya",
+          "m": "reBitavyaH",
+          "f": "reBitavyA",
+          "n": "reBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "reBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "reBitf",
+          "m": "reBitA",
+          "f": "reBitrI",
+          "n": "reBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "reByamARa",
+          "m": "reByamARaH",
+          "f": "reByamARA",
+          "n": "reByamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prareBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "reBaRa",
+          "m": "",
+          "f": "",
+          "n": "reBaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "reBaka",
+          "m": "reBakaH",
+          "f": "reBikA",
+          "n": "reBakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "reBamARa",
+          "m": "reBamARaH",
+          "f": "reBamARA",
+          "n": "reBamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "reBizyamARa",
+          "m": "reBizyamARaH",
+          "f": "reBizyamARA",
+          "n": "reBizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "reBizyamARa",
+          "m": "reBizyamARaH",
+          "f": "reBizyamARA",
+          "n": "reBizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "rireBizA",
+          "m": "",
+          "f": "rireBizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rireBiza",
+          "m": "rireBizaH",
+          "f": "rireBizA",
+          "n": "rireBizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rireBizaRIya",
+          "m": "rireBizaRIyaH",
+          "f": "rireBizaRIyA",
+          "n": "rireBizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "rireBizu",
+          "m": "rireBizuH",
+          "f": "rireBizuH",
+          "n": "rireBizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rireBizita",
+          "m": "rireBizitaH",
+          "f": "rireBizitA",
+          "n": "rireBizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rireBizitavat",
+          "m": "rireBizitavAn",
+          "f": "rireBizitavatI",
+          "n": "rireBizitavat/rireBizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rireBizwi",
+          "m": "",
+          "f": "rireBizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rireBizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rireBizAmbaBUvas",
+          "m": "rireBizAmbaBUvAn",
+          "f": "rireBizAmbaBUzI",
+          "n": "rireBizAmbaBUvat/rireBizAmbaBUvad"
+        },
+        {
+          "base": "rireBizAmAsivas",
+          "m": "rireBizAmAsivAn",
+          "f": "rireBizAmAsyuzI",
+          "n": "rireBizAmAsivat/rireBizAmAsivad"
+        },
+        {
+          "base": "rireBizAYcakfvas",
+          "m": "rireBizAYcakfvAn",
+          "f": "rireBizAYcakruzI",
+          "n": "rireBizAYcakfvat/rireBizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rireBiza",
+          "m": "rireBizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rireBizamARa",
+          "m": "rireBizamARaH",
+          "f": "rireBizamARA",
+          "n": "rireBizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rireBizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rireBizaka",
+          "m": "rireBizakaH",
+          "f": "rireBizikA",
+          "n": "rireBizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rireBizitavya",
+          "m": "rireBizitavyaH",
+          "f": "rireBizitavyA",
+          "n": "rireBizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rireBizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rireBizitf",
+          "m": "rireBizitA",
+          "f": "rireBizitrI",
+          "n": "rireBizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rireBizyamARa",
+          "m": "rireBizyamARaH",
+          "f": "rireBizyamARA",
+          "n": "rireBizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "rireBizya",
+          "m": "rireBizyaH",
+          "f": "rireBizyA",
+          "n": "rireBizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarireBizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rireBizaRa",
+          "m": "",
+          "f": "",
+          "n": "rireBizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rireBizaka",
+          "m": "rireBizakaH",
+          "f": "rireBizikA",
+          "n": "rireBizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "rireBizamARa",
+          "m": "rireBizamARaH",
+          "f": "rireBizamARA",
+          "n": "rireBizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rireBizizyamARa",
+          "m": "rireBizizyamARaH",
+          "f": "rireBizizyamARA",
+          "n": "rireBizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "rireBizizyamARa",
+          "m": "rireBizizyamARaH",
+          "f": "rireBizizyamARA",
+          "n": "rireBizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "reBa",
+          "m": "reBaH",
+          "f": "reBA",
+          "n": "reBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "reBaRIya",
+          "m": "reBaRIyaH",
+          "f": "reBaRIyA",
+          "n": "reBaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "reBita",
+          "m": "reBitaH",
+          "f": "reBitA",
+          "n": "reBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "reBitavat",
+          "m": "reBitavAn",
+          "f": "reBitavatI",
+          "n": "reBitavat/reBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rebDi",
+          "m": "",
+          "f": "rebDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "reBayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "reBayAmbaBUvas",
+          "m": "reBayAmbaBUvAn",
+          "f": "reBayAmbaBUzI",
+          "n": "reBayAmbaBUvat/reBayAmbaBUvad"
+        },
+        {
+          "base": "reBayAmAsivas",
+          "m": "reBayAmAsivAn",
+          "f": "reBayAmAsyuzI",
+          "n": "reBayAmAsivat/reBayAmAsivad"
+        },
+        {
+          "base": "reBayAYcakfvas",
+          "m": "reBayAYcakfvAn",
+          "f": "reBayAYcakruzI",
+          "n": "reBayAYcakfvat/reBayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "reBayamARa",
+          "m": "reBayamARaH",
+          "f": "reBayamARA",
+          "n": "reBayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "reBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "reBaka",
+          "m": "reBakaH",
+          "f": "reBikA",
+          "n": "reBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "reBayitavya",
+          "m": "reBayitavyaH",
+          "f": "reBayitavyA",
+          "n": "reBayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "reBayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "reBayitf",
+          "m": "reBayitA",
+          "f": "reBayitrI",
+          "n": "reBayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "reByamARa",
+          "m": "reByamARaH",
+          "f": "reByamARA",
+          "n": "reByamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "reBya",
+          "m": "reByaH",
+          "f": "reByA",
+          "n": "reByam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prareBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "reBaRa",
+          "m": "",
+          "f": "",
+          "n": "reBaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "reBaka",
+          "m": "reBakaH",
+          "f": "reBikA",
+          "n": "reBakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "reBayat",
+          "m": "reBayan",
+          "f": "reBayantI",
+          "n": "reBayat/reBayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "reBayamARa",
+          "m": "reBayamARaH",
+          "f": "reBayamARA",
+          "n": "reBayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "reBizyamARa",
+          "m": "reBizyamARaH",
+          "f": "reBizyamARA",
+          "n": "reBizyamARam"
+        },
+        {
+          "base": "reBayizyamARa",
+          "m": "reBayizyamARaH",
+          "f": "reBayizyamARA",
+          "n": "reBayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "reBayizyat",
+          "m": "reBayizyan",
+          "f": "reBayizyatI/reBayizyantI",
+          "n": "reBayizyat/reBayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "reBayizyamARa",
+          "m": "reBayizyamARaH",
+          "f": "reBayizyamARA",
+          "n": "reBayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "rereBA",
+          "m": "",
+          "f": "rereBA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rereBa",
+          "m": "rereBaH",
+          "f": "rereBA",
+          "n": "rereBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rereBaRIya",
+          "m": "rereBaRIyaH",
+          "f": "rereBaRIyA",
+          "n": "rereBaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rereBita",
+          "m": "rereBitaH",
+          "f": "rereBitA",
+          "n": "rereBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rereBitavat",
+          "m": "rereBitavAn",
+          "f": "rereBitavatI",
+          "n": "rereBitavat/rereBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rerebDi",
+          "m": "",
+          "f": "rerebDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rereBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rereBAmbaBUvas",
+          "m": "rereBAmbaBUvAn",
+          "f": "rereBAmbaBUzI",
+          "n": "rereBAmbaBUvat/rereBAmbaBUvad"
+        },
+        {
+          "base": "rereBAmAsivas",
+          "m": "rereBAmAsivAn",
+          "f": "rereBAmAsyuzI",
+          "n": "rereBAmAsivat/rereBAmAsivad"
+        },
+        {
+          "base": "rereBAYcakfvas",
+          "m": "rereBAYcakfvAn",
+          "f": "rereBAYcakruzI",
+          "n": "rereBAYcakfvat/rereBAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rereBa",
+          "m": "rereBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rereByamARa",
+          "m": "rereByamARaH",
+          "f": "rereByamARA",
+          "n": "rereByamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rereBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rereBaka",
+          "m": "rereBakaH",
+          "f": "rereBikA",
+          "n": "rereBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rereBitavya",
+          "m": "rereBitavyaH",
+          "f": "rereBitavyA",
+          "n": "rereBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rereBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rereBitf",
+          "m": "rereBitA",
+          "f": "rereBitrI",
+          "n": "rereBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rereByamARa",
+          "m": "rereByamARaH",
+          "f": "rereByamARA",
+          "n": "rereByamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "rereBya",
+          "m": "rereByaH",
+          "f": "rereByA",
+          "n": "rereByam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarereBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rereBaRa",
+          "m": "",
+          "f": "",
+          "n": "rereBaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rereBaka",
+          "m": "rereBakaH",
+          "f": "rereBikA",
+          "n": "rereBakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "rereByamARa",
+          "m": "rereByamARaH",
+          "f": "rereByamARA",
+          "n": "rereByamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rereBizyamARa",
+          "m": "rereBizyamARaH",
+          "f": "rereBizyamARA",
+          "n": "rereBizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "rereBizyamARa",
+          "m": "rereBizyamARaH",
+          "f": "rereBizyamARA",
+          "n": "rereBizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "rereBA",
+          "m": "",
+          "f": "rereBA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rereBa",
+          "m": "rereBaH",
+          "f": "rereBA",
+          "n": "rereBam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rereBaRIya",
+          "m": "rereBaRIyaH",
+          "f": "rereBaRIyA",
+          "n": "rereBaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rereBita",
+          "m": "rereBitaH",
+          "f": "rereBitA",
+          "n": "rereBitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rereBitavat",
+          "m": "rereBitavAn",
+          "f": "rereBitavatI",
+          "n": "rereBitavat/rereBitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rerebDi",
+          "m": "",
+          "f": "rerebDiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rereBitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rereBAmbaBUvas",
+          "m": "rereBAmbaBUvAn",
+          "f": "rereBAmbaBUzI",
+          "n": "rereBAmbaBUvat/rereBAmbaBUvad"
+        },
+        {
+          "base": "rereBAmAsivas",
+          "m": "rereBAmAsivAn",
+          "f": "rereBAmAsyuzI",
+          "n": "rereBAmAsivat/rereBAmAsivad"
+        },
+        {
+          "base": "rereBAYcakfvas",
+          "m": "rereBAYcakfvAn",
+          "f": "rereBAYcakruzI",
+          "n": "rereBAYcakfvat/rereBAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rereBa",
+          "m": "rereBaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rereBARa",
+          "m": "rereBARaH",
+          "f": "rereBARA",
+          "n": "rereBARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rereBam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rereBaka",
+          "m": "rereBakaH",
+          "f": "rereBikA",
+          "n": "rereBakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rereBitavya",
+          "m": "rereBitavyaH",
+          "f": "rereBitavyA",
+          "n": "rereBitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rereBitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rereBitf",
+          "m": "rereBitA",
+          "f": "rereBitrI",
+          "n": "rereBitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rereByamARa",
+          "m": "rereByamARaH",
+          "f": "rereByamARA",
+          "n": "rereByamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarereBya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rereBaRa",
+          "m": "",
+          "f": "",
+          "n": "rereBaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rereBaka",
+          "m": "rereBakaH",
+          "f": "rereBikA",
+          "n": "rereBakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "rereBat",
+          "m": "rereBat/rereBad",
+          "f": "rereBatI",
+          "n": "rereBat/rereBad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rereBizyamARa",
+          "m": "rereBizyamARaH",
+          "f": "rereBizyamARA",
+          "n": "rereBizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "rereBizyat",
+          "m": "rereBizyan",
+          "f": "rereBizyatI/rereBizyantI",
+          "n": "rereBizyat/rereBizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "reB",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "vi",
+      "examples": [
+        "'viDivihitaviribDEH sAmiDenIraDItya.' viribDEH svarEH. kzubDasvAntaDvAntetyAdinA reBernizWAyAM nipAtitama."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "vi": {
+      "prefix": "vi",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "vireBizIzwa",
+            "vireBizIyAstAm",
+            "vireBizIran",
+            "vireBizIzWAH",
+            "vireBizIyAsTAm",
+            "vireBizIDvam",
+            "vireBizIya",
+            "vireBizIvahi",
+            "vireBizImahi"
+          ],
+          "alang": [
+            "vyareBata",
+            "vyareBetAm",
+            "vyareBanta",
+            "vyareBaTAH",
+            "vyareBeTAm",
+            "vyareBaDvam",
+            "vyareBe",
+            "vyareBAvahi",
+            "vyareBAmahi"
+          ],
+          "alat": [
+            "vireBate",
+            "vireBete",
+            "vireBante",
+            "vireBase",
+            "vireBeTe",
+            "vireBaDve",
+            "vireBe",
+            "vireBAvahe",
+            "vireBAmahe"
+          ],
+          "alit": [
+            "virireBe",
+            "virireBAte",
+            "virireBire",
+            "virireBize",
+            "virireBATe",
+            "virireBiDve",
+            "virireBe",
+            "virireBivahe",
+            "virireBimahe"
+          ],
+          "alot": [
+            "vireBatAm",
+            "vireBetAm",
+            "vireBantAm",
+            "vireBasva",
+            "vireBeTAm",
+            "vireBaDvam",
+            "vireBE",
+            "vireBAvahE",
+            "vireBAmahE"
+          ],
+          "alrung": [
+            "vyareBizyata",
+            "vyareBizyetAm",
+            "vyareBizyanta",
+            "vyareBizyaTAH",
+            "vyareBizyeTAm",
+            "vyareBizyaDvam",
+            "vyareBizye",
+            "vyareBizyAvahi",
+            "vyareBizyAmahi"
+          ],
+          "alrut": [
+            "vireBizyate",
+            "vireBizyete",
+            "vireBizyante",
+            "vireBizyase",
+            "vireBizyeTe",
+            "vireBizyaDve",
+            "vireBizye",
+            "vireBizyAvahe",
+            "vireBizyAmahe"
+          ],
+          "alung": [
+            "vyareBizwa",
+            "vyareBizAtAm",
+            "vyareBizata",
+            "vyareBizWAH",
+            "vyareBizATAm",
+            "vyareBiDvam",
+            "vyareBizi",
+            "vyareBizvahi",
+            "vyareBizmahi"
+          ],
+          "alut": [
+            "vireBitA",
+            "vireBitArO",
+            "vireBitAraH",
+            "vireBitAse",
+            "vireBitAsATe",
+            "vireBitADve",
+            "vireBitAhe",
+            "vireBitAsvahe",
+            "vireBitAsmahe"
+          ],
+          "avidhiling": [
+            "vireBeta",
+            "vireBeyAtAm",
+            "vireBeran",
+            "vireBeTAH",
+            "vireBeyATAm",
+            "vireBeDvam",
+            "vireBeya",
+            "vireBevahi",
+            "vireBemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "vireBizIzwa",
+            "vireBizIyAstAm",
+            "vireBizIran",
+            "vireBizIzWAH",
+            "vireBizIyAsTAm",
+            "vireBizIDvam",
+            "vireBizIya",
+            "vireBizIvahi",
+            "vireBizImahi"
+          ],
+          "alang": [
+            "vyareByata",
+            "vyareByetAm",
+            "vyareByanta",
+            "vyareByaTAH",
+            "vyareByeTAm",
+            "vyareByaDvam",
+            "vyareBye",
+            "vyareByAvahi",
+            "vyareByAmahi"
+          ],
+          "alat": [
+            "vireByate",
+            "vireByete",
+            "vireByante",
+            "vireByase",
+            "vireByeTe",
+            "vireByaDve",
+            "vireBye",
+            "vireByAvahe",
+            "vireByAmahe"
+          ],
+          "alit": [
+            "virireBe",
+            "virireBAte",
+            "virireBire",
+            "virireBize",
+            "virireBATe",
+            "virireBiDve",
+            "virireBe",
+            "virireBivahe",
+            "virireBimahe"
+          ],
+          "alot": [
+            "vireByatAm",
+            "vireByetAm",
+            "vireByantAm",
+            "vireByasva",
+            "vireByeTAm",
+            "vireByaDvam",
+            "vireByE",
+            "vireByAvahE",
+            "vireByAmahE"
+          ],
+          "alrung": [
+            "vyareBizyata",
+            "vyareBizyetAm",
+            "vyareBizyanta",
+            "vyareBizyaTAH",
+            "vyareBizyeTAm",
+            "vyareBizyaDvam",
+            "vyareBizye",
+            "vyareBizyAvahi",
+            "vyareBizyAmahi"
+          ],
+          "alrut": [
+            "vireBizyate",
+            "vireBizyete",
+            "vireBizyante",
+            "vireBizyase",
+            "vireBizyeTe",
+            "vireBizyaDve",
+            "vireBizye",
+            "vireBizyAvahe",
+            "vireBizyAmahe"
+          ],
+          "alung": [
+            "vyareBi",
+            "vyareBizAtAm",
+            "vyareBizata",
+            "vyareBizWAH",
+            "vyareBizATAm",
+            "vyareBiDvam",
+            "vyareBizi",
+            "vyareBizvahi",
+            "vyareBizmahi"
+          ],
+          "alut": [
+            "vireBitA",
+            "vireBitArO",
+            "vireBitAraH",
+            "vireBitAse",
+            "vireBitAsATe",
+            "vireBitADve",
+            "vireBitAhe",
+            "vireBitAsvahe",
+            "vireBitAsmahe"
+          ],
+          "avidhiling": [
+            "vireByeta",
+            "vireByeyAtAm",
+            "vireByeran",
+            "vireByeTAH",
+            "vireByeyATAm",
+            "vireByeDvam",
+            "vireByeya",
+            "vireByevahi",
+            "vireByemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "virireBizizIzwa",
+            "virireBizizIyAstAm",
+            "virireBizizIran",
+            "virireBizizIzWAH",
+            "virireBizizIyAsTAm",
+            "virireBizizIDvam",
+            "virireBizizIya",
+            "virireBizizIvahi",
+            "virireBizizImahi"
+          ],
+          "alang": [
+            "vyarireBizata",
+            "vyarireBizetAm",
+            "vyarireBizanta",
+            "vyarireBizaTAH",
+            "vyarireBizeTAm",
+            "vyarireBizaDvam",
+            "vyarireBize",
+            "vyarireBizAvahi",
+            "vyarireBizAmahi"
+          ],
+          "alat": [
+            "virireBizate",
+            "virireBizete",
+            "virireBizante",
+            "virireBizase",
+            "virireBizeTe",
+            "virireBizaDve",
+            "virireBize",
+            "virireBizAvahe",
+            "virireBizAmahe"
+          ],
+          "alit": [
+            "virireBizAmbaBUva",
+            "virireBizAmAsa",
+            "virireBizAYcakre",
+            "virireBizAmbaBUvatuH",
+            "virireBizAmAsatuH",
+            "virireBizAYcakrAte",
+            "virireBizAmbaBUvuH",
+            "virireBizAmAsuH",
+            "virireBizAYcakrire",
+            "virireBizAmbaBUviTa",
+            "virireBizAmAsiTa",
+            "virireBizAYcakfze",
+            "virireBizAmbaBUvaTuH",
+            "virireBizAmAsaTuH",
+            "virireBizAYcakrATe",
+            "virireBizAmbaBUva",
+            "virireBizAmAsa",
+            "virireBizAYcakfQve",
+            "virireBizAmbaBUva",
+            "virireBizAmAsa",
+            "virireBizAYcakre",
+            "virireBizAmbaBUviva",
+            "virireBizAmAsiva",
+            "virireBizAYcakfvahe",
+            "virireBizAmbaBUvima",
+            "virireBizAmAsima",
+            "virireBizAYcakfmahe"
+          ],
+          "alot": [
+            "virireBizatAm",
+            "virireBizetAm",
+            "virireBizantAm",
+            "virireBizasva",
+            "virireBizeTAm",
+            "virireBizaDvam",
+            "virireBizE",
+            "virireBizAvahE",
+            "virireBizAmahE"
+          ],
+          "alrung": [
+            "vyarireBizizyata",
+            "vyarireBizizyetAm",
+            "vyarireBizizyanta",
+            "vyarireBizizyaTAH",
+            "vyarireBizizyeTAm",
+            "vyarireBizizyaDvam",
+            "vyarireBizizye",
+            "vyarireBizizyAvahi",
+            "vyarireBizizyAmahi"
+          ],
+          "alrut": [
+            "virireBizizyate",
+            "virireBizizyete",
+            "virireBizizyante",
+            "virireBizizyase",
+            "virireBizizyeTe",
+            "virireBizizyaDve",
+            "virireBizizye",
+            "virireBizizyAvahe",
+            "virireBizizyAmahe"
+          ],
+          "alung": [
+            "vyarireBizizwa",
+            "vyarireBizizAtAm",
+            "vyarireBizizata",
+            "vyarireBizizWAH",
+            "vyarireBizizATAm",
+            "vyarireBiziDvam",
+            "vyarireBizizi",
+            "vyarireBizizvahi",
+            "vyarireBizizmahi"
+          ],
+          "alut": [
+            "virireBizitA",
+            "virireBizitArO",
+            "virireBizitAraH",
+            "virireBizitAse",
+            "virireBizitAsATe",
+            "virireBizitADve",
+            "virireBizitAhe",
+            "virireBizitAsvahe",
+            "virireBizitAsmahe"
+          ],
+          "avidhiling": [
+            "virireBizeta",
+            "virireBizeyAtAm",
+            "virireBizeran",
+            "virireBizeTAH",
+            "virireBizeyATAm",
+            "virireBizeDvam",
+            "virireBizeya",
+            "virireBizevahi",
+            "virireBizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "virireBizizIzwa",
+            "virireBizizIyAstAm",
+            "virireBizizIran",
+            "virireBizizIzWAH",
+            "virireBizizIyAsTAm",
+            "virireBizizIDvam",
+            "virireBizizIya",
+            "virireBizizIvahi",
+            "virireBizizImahi"
+          ],
+          "alang": [
+            "vyarireBizyata",
+            "vyarireBizyetAm",
+            "vyarireBizyanta",
+            "vyarireBizyaTAH",
+            "vyarireBizyeTAm",
+            "vyarireBizyaDvam",
+            "vyarireBizye",
+            "vyarireBizyAvahi",
+            "vyarireBizyAmahi"
+          ],
+          "alat": [
+            "virireBizyate",
+            "virireBizyete",
+            "virireBizyante",
+            "virireBizyase",
+            "virireBizyeTe",
+            "virireBizyaDve",
+            "virireBizye",
+            "virireBizyAvahe",
+            "virireBizyAmahe"
+          ],
+          "alit": [
+            "virireBizAmbaBUve",
+            "virireBizAmAse",
+            "virireBizAYcakre",
+            "virireBizAmbaBUvAte",
+            "virireBizAmAsAte",
+            "virireBizAYcakrAte",
+            "virireBizAmbaBUvire",
+            "virireBizAmAsire",
+            "virireBizAYcakrire",
+            "virireBizAmbaBUvize",
+            "virireBizAmAsize",
+            "virireBizAYcakfze",
+            "virireBizAmbaBUvATe",
+            "virireBizAmAsATe",
+            "virireBizAYcakrATe",
+            "virireBizAmbaBUviQve",
+            "virireBizAmAsiDve",
+            "virireBizAYcakfQve",
+            "virireBizAmbaBUve",
+            "virireBizAmAhe",
+            "virireBizAYcakre",
+            "virireBizAmbaBUvivahe",
+            "virireBizAmAsivahe",
+            "virireBizAYcakfvahe",
+            "virireBizAmbaBUvimahe",
+            "virireBizAmAsimahe",
+            "virireBizAYcakfmahe"
+          ],
+          "alot": [
+            "virireBizyatAm",
+            "virireBizyetAm",
+            "virireBizyantAm",
+            "virireBizyasva",
+            "virireBizyeTAm",
+            "virireBizyaDvam",
+            "virireBizyE",
+            "virireBizyAvahE",
+            "virireBizyAmahE"
+          ],
+          "alrung": [
+            "vyarireBizizyata",
+            "vyarireBizizyetAm",
+            "vyarireBizizyanta",
+            "vyarireBizizyaTAH",
+            "vyarireBizizyeTAm",
+            "vyarireBizizyaDvam",
+            "vyarireBizizye",
+            "vyarireBizizyAvahi",
+            "vyarireBizizyAmahi"
+          ],
+          "alrut": [
+            "virireBizizyate",
+            "virireBizizyete",
+            "virireBizizyante",
+            "virireBizizyase",
+            "virireBizizyeTe",
+            "virireBizizyaDve",
+            "virireBizizye",
+            "virireBizizyAvahe",
+            "virireBizizyAmahe"
+          ],
+          "alung": [
+            "vyarireBizi",
+            "vyarireBizizAtAm",
+            "vyarireBizizata",
+            "vyarireBizizWAH",
+            "vyarireBizizATAm",
+            "vyarireBiziDvam",
+            "vyarireBizizi",
+            "vyarireBizizvahi",
+            "vyarireBizizmahi"
+          ],
+          "alut": [
+            "virireBizitA",
+            "virireBizitArO",
+            "virireBizitAraH",
+            "virireBizitAse",
+            "virireBizitAsATe",
+            "virireBizitADve",
+            "virireBizitAhe",
+            "virireBizitAsvahe",
+            "virireBizitAsmahe"
+          ],
+          "avidhiling": [
+            "virireBizyeta",
+            "virireBizyeyAtAm",
+            "virireBizyeran",
+            "virireBizyeTAH",
+            "virireBizyeyATAm",
+            "virireBizyeDvam",
+            "virireBizyeya",
+            "virireBizyevahi",
+            "virireBizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "vireBayizIzwa",
+            "vireBayizIyAstAm",
+            "vireBayizIran",
+            "vireBayizIzWAH",
+            "vireBayizIyAsTAm",
+            "vireBayizIQvam",
+            "vireBayizIDvam",
+            "vireBayizIya",
+            "vireBayizIvahi",
+            "vireBayizImahi"
+          ],
+          "alang": [
+            "vyareBayata",
+            "vyareBayetAm",
+            "vyareBayanta",
+            "vyareBayaTAH",
+            "vyareBayeTAm",
+            "vyareBayaDvam",
+            "vyareBaye",
+            "vyareBayAvahi",
+            "vyareBayAmahi"
+          ],
+          "alat": [
+            "vireBayate",
+            "vireBayete",
+            "vireBayante",
+            "vireBayase",
+            "vireBayeTe",
+            "vireBayaDve",
+            "vireBaye",
+            "vireBayAvahe",
+            "vireBayAmahe"
+          ],
+          "alit": [
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakre",
+            "vireBayAmbaBUvatuH",
+            "vireBayAmAsatuH",
+            "vireBayAYcakrAte",
+            "vireBayAmbaBUvuH",
+            "vireBayAmAsuH",
+            "vireBayAYcakrire",
+            "vireBayAmbaBUviTa",
+            "vireBayAmAsiTa",
+            "vireBayAYcakfze",
+            "vireBayAmbaBUvaTuH",
+            "vireBayAmAsaTuH",
+            "vireBayAYcakrATe",
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakfQve",
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakre",
+            "vireBayAmbaBUviva",
+            "vireBayAmAsiva",
+            "vireBayAYcakfvahe",
+            "vireBayAmbaBUvima",
+            "vireBayAmAsima",
+            "vireBayAYcakfmahe"
+          ],
+          "alot": [
+            "vireBayatAm",
+            "vireBayetAm",
+            "vireBayantAm",
+            "vireBayasva",
+            "vireBayeTAm",
+            "vireBayaDvam",
+            "vireBayE",
+            "vireBayAvahE",
+            "vireBayAmahE"
+          ],
+          "alrung": [
+            "vyareBayizyata",
+            "vyareBayizyetAm",
+            "vyareBayizyanta",
+            "vyareBayizyaTAH",
+            "vyareBayizyeTAm",
+            "vyareBayizyaDvam",
+            "vyareBayizye",
+            "vyareBayizyAvahi",
+            "vyareBayizyAmahi"
+          ],
+          "alrut": [
+            "vireBayizyate",
+            "vireBayizyete",
+            "vireBayizyante",
+            "vireBayizyase",
+            "vireBayizyeTe",
+            "vireBayizyaDve",
+            "vireBayizye",
+            "vireBayizyAvahe",
+            "vireBayizyAmahe"
+          ],
+          "alung": [
+            "vyarireBata",
+            "vyarireBetAm",
+            "vyarireBanta",
+            "vyarireBaTAH",
+            "vyarireBeTAm",
+            "vyarireBaDvam",
+            "vyarireBe",
+            "vyarireBAvahi",
+            "vyarireBAmahi"
+          ],
+          "alut": [
+            "vireBayitA",
+            "vireBayitArO",
+            "vireBayitAraH",
+            "vireBayitAse",
+            "vireBayitAsATe",
+            "vireBayitADve",
+            "vireBayitAhe",
+            "vireBayitAsvahe",
+            "vireBayitAsmahe"
+          ],
+          "avidhiling": [
+            "vireBayeta",
+            "vireBayeyAtAm",
+            "vireBayeran",
+            "vireBayeTAH",
+            "vireBayeyATAm",
+            "vireBayeDvam",
+            "vireBayeya",
+            "vireBayevahi",
+            "vireBayemahi"
+          ],
+          "pashirling": [
+            "vireByAt",
+            "vireByAd",
+            "vireByAstAm",
+            "vireByAsuH",
+            "vireByAH",
+            "vireByAstam",
+            "vireByAsta",
+            "vireByAsam",
+            "vireByAsva",
+            "vireByAsma"
+          ],
+          "plang": [
+            "vyareBayat",
+            "vyareBayad",
+            "vyareBayatAm",
+            "vyareBayan",
+            "vyareBayaH",
+            "vyareBayatam",
+            "vyareBayata",
+            "vyareBayam",
+            "vyareBayAva",
+            "vyareBayAma"
+          ],
+          "plat": [
+            "vireBayati",
+            "vireBayataH",
+            "vireBayanti",
+            "vireBayasi",
+            "vireBayaTaH",
+            "vireBayaTa",
+            "vireBayAmi",
+            "vireBayAvaH",
+            "vireBayAmaH"
+          ],
+          "plit": [
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakAra",
+            "vireBayAmbaBUvatuH",
+            "vireBayAmAsatuH",
+            "vireBayAYcakratuH",
+            "vireBayAmbaBUvuH",
+            "vireBayAmAsuH",
+            "vireBayAYcakruH",
+            "vireBayAmbaBUviTa",
+            "vireBayAmAsiTa",
+            "vireBayAYcakarTa",
+            "vireBayAmbaBUvaTuH",
+            "vireBayAmAsaTuH",
+            "vireBayAYcakraTuH",
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakra",
+            "vireBayAmbaBUva",
+            "vireBayAmAsa",
+            "vireBayAYcakara",
+            "vireBayAYcakAra",
+            "vireBayAmbaBUviva",
+            "vireBayAmAsiva",
+            "vireBayAYcakfva",
+            "vireBayAmbaBUvima",
+            "vireBayAmAsima",
+            "vireBayAYcakfma"
+          ],
+          "plot": [
+            "vireBayatAt",
+            "vireBayatAd",
+            "vireBayatu",
+            "vireBayatAm",
+            "vireBayantu",
+            "vireBayatAt",
+            "vireBayatAd",
+            "vireBaya",
+            "vireBayatam",
+            "vireBayata",
+            "vireBayARi",
+            "vireBayAva",
+            "vireBayAma"
+          ],
+          "plrung": [
+            "vyareBayizyat",
+            "vyareBayizyad",
+            "vyareBayizyatAm",
+            "vyareBayizyan",
+            "vyareBayizyaH",
+            "vyareBayizyatam",
+            "vyareBayizyata",
+            "vyareBayizyam",
+            "vyareBayizyAva",
+            "vyareBayizyAma"
+          ],
+          "plrut": [
+            "vireBayizyati",
+            "vireBayizyataH",
+            "vireBayizyanti",
+            "vireBayizyasi",
+            "vireBayizyaTaH",
+            "vireBayizyaTa",
+            "vireBayizyAmi",
+            "vireBayizyAvaH",
+            "vireBayizyAmaH"
+          ],
+          "plung": [
+            "vyarireBat",
+            "vyarireBad",
+            "vyarireBatAm",
+            "vyarireBan",
+            "vyarireBaH",
+            "vyarireBatam",
+            "vyarireBata",
+            "vyarireBam",
+            "vyarireBAva",
+            "vyarireBAma"
+          ],
+          "plut": [
+            "vireBayitA",
+            "vireBayitArO",
+            "vireBayitAraH",
+            "vireBayitAsi",
+            "vireBayitAsTaH",
+            "vireBayitAsTa",
+            "vireBayitAsmi",
+            "vireBayitAsvaH",
+            "vireBayitAsmaH"
+          ],
+          "pvidhiling": [
+            "vireBayet",
+            "vireBayed",
+            "vireBayetAm",
+            "vireBayeyuH",
+            "vireBayeH",
+            "vireBayetam",
+            "vireBayeta",
+            "vireBayeyam",
+            "vireBayeva",
+            "vireBayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "vireBizIzwa",
+            "vireBayizIzwa",
+            "vireBizIyAstAm",
+            "vireBayizIyAstAm",
+            "vireBizIran",
+            "vireBayizIran",
+            "vireBizIzWAH",
+            "vireBayizIzWAH",
+            "vireBizIyAsTAm",
+            "vireBayizIyAsTAm",
+            "vireBizIDvam",
+            "vireBayizIQvam",
+            "vireBayizIDvam",
+            "vireBizIya",
+            "vireBayizIya",
+            "vireBizIvahi",
+            "vireBayizIvahi",
+            "vireBizImahi",
+            "vireBayizImahi"
+          ],
+          "alang": [
+            "vyareByata",
+            "vyareByetAm",
+            "vyareByanta",
+            "vyareByaTAH",
+            "vyareByeTAm",
+            "vyareByaDvam",
+            "vyareBye",
+            "vyareByAvahi",
+            "vyareByAmahi"
+          ],
+          "alat": [
+            "vireByate",
+            "vireByete",
+            "vireByante",
+            "vireByase",
+            "vireByeTe",
+            "vireByaDve",
+            "vireBye",
+            "vireByAvahe",
+            "vireByAmahe"
+          ],
+          "alit": [
+            "vireBayAmbaBUve",
+            "vireBayAmAse",
+            "vireBayAYcakre",
+            "vireBayAmbaBUvAte",
+            "vireBayAmAsAte",
+            "vireBayAYcakrAte",
+            "vireBayAmbaBUvire",
+            "vireBayAmAsire",
+            "vireBayAYcakrire",
+            "vireBayAmbaBUvize",
+            "vireBayAmAsize",
+            "vireBayAYcakfze",
+            "vireBayAmbaBUvATe",
+            "vireBayAmAsATe",
+            "vireBayAYcakrATe",
+            "vireBayAmbaBUviQve",
+            "vireBayAmAsiDve",
+            "vireBayAYcakfQve",
+            "vireBayAmbaBUve",
+            "vireBayAmAhe",
+            "vireBayAYcakre",
+            "vireBayAmbaBUvivahe",
+            "vireBayAmAsivahe",
+            "vireBayAYcakfvahe",
+            "vireBayAmbaBUvimahe",
+            "vireBayAmAsimahe",
+            "vireBayAYcakfmahe"
+          ],
+          "alot": [
+            "vireByatAm",
+            "vireByetAm",
+            "vireByantAm",
+            "vireByasva",
+            "vireByeTAm",
+            "vireByaDvam",
+            "vireByE",
+            "vireByAvahE",
+            "vireByAmahE"
+          ],
+          "alrung": [
+            "vyareBizyata",
+            "vyareBayizyata",
+            "vyareBizyetAm",
+            "vyareBayizyetAm",
+            "vyareBizyanta",
+            "vyareBayizyanta",
+            "vyareBizyaTAH",
+            "vyareBayizyaTAH",
+            "vyareBizyeTAm",
+            "vyareBayizyeTAm",
+            "vyareBizyaDvam",
+            "vyareBayizyaDvam",
+            "vyareBizye",
+            "vyareBayizye",
+            "vyareBizyAvahi",
+            "vyareBayizyAvahi",
+            "vyareBizyAmahi",
+            "vyareBayizyAmahi"
+          ],
+          "alrut": [
+            "vireBizyate",
+            "vireBayizyate",
+            "vireBizyete",
+            "vireBayizyete",
+            "vireBizyante",
+            "vireBayizyante",
+            "vireBizyase",
+            "vireBayizyase",
+            "vireBizyeTe",
+            "vireBayizyeTe",
+            "vireBizyaDve",
+            "vireBayizyaDve",
+            "vireBizye",
+            "vireBayizye",
+            "vireBizyAvahe",
+            "vireBayizyAvahe",
+            "vireBizyAmahe",
+            "vireBayizyAmahe"
+          ],
+          "alung": [
+            "vyareBi",
+            "vyareBizAtAm",
+            "vyareBayizAtAm",
+            "vyareBizata",
+            "vyareBayizata",
+            "vyareBizWAH",
+            "vyareBayizWAH",
+            "vyareBizATAm",
+            "vyareBayizATAm",
+            "vyareBiDvam",
+            "vyareBayiQvam",
+            "vyareBayiDvam",
+            "vyareBizi",
+            "vyareBayizi",
+            "vyareBizvahi",
+            "vyareBayizvahi",
+            "vyareBizmahi",
+            "vyareBayizmahi"
+          ],
+          "alut": [
+            "vireBitA",
+            "vireBayitA",
+            "vireBitArO",
+            "vireBayitArO",
+            "vireBitAraH",
+            "vireBayitAraH",
+            "vireBitAse",
+            "vireBayitAse",
+            "vireBitAsATe",
+            "vireBayitAsATe",
+            "vireBitADve",
+            "vireBayitADve",
+            "vireBitAhe",
+            "vireBayitAhe",
+            "vireBitAsvahe",
+            "vireBayitAsvahe",
+            "vireBitAsmahe",
+            "vireBayitAsmahe"
+          ],
+          "avidhiling": [
+            "vireByeta",
+            "vireByeyAtAm",
+            "vireByeran",
+            "vireByeTAH",
+            "vireByeyATAm",
+            "vireByeDvam",
+            "vireByeya",
+            "vireByevahi",
+            "vireByemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "virereBizIzwa",
+            "virereBizIyAstAm",
+            "virereBizIran",
+            "virereBizIzWAH",
+            "virereBizIyAsTAm",
+            "virereBizIDvam",
+            "virereBizIya",
+            "virereBizIvahi",
+            "virereBizImahi"
+          ],
+          "alang": [
+            "vyarereByata",
+            "vyarereByetAm",
+            "vyarereByanta",
+            "vyarereByaTAH",
+            "vyarereByeTAm",
+            "vyarereByaDvam",
+            "vyarereBye",
+            "vyarereByAvahi",
+            "vyarereByAmahi"
+          ],
+          "alat": [
+            "virereByate",
+            "virereByete",
+            "virereByante",
+            "virereByase",
+            "virereByeTe",
+            "virereByaDve",
+            "virereBye",
+            "virereByAvahe",
+            "virereByAmahe"
+          ],
+          "alit": [
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakre",
+            "virereBAmbaBUvatuH",
+            "virereBAmAsatuH",
+            "virereBAYcakrAte",
+            "virereBAmbaBUvuH",
+            "virereBAmAsuH",
+            "virereBAYcakrire",
+            "virereBAmbaBUviTa",
+            "virereBAmAsiTa",
+            "virereBAYcakfze",
+            "virereBAmbaBUvaTuH",
+            "virereBAmAsaTuH",
+            "virereBAYcakrATe",
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakfQve",
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakre",
+            "virereBAmbaBUviva",
+            "virereBAmAsiva",
+            "virereBAYcakfvahe",
+            "virereBAmbaBUvima",
+            "virereBAmAsima",
+            "virereBAYcakfmahe"
+          ],
+          "alot": [
+            "virereByatAm",
+            "virereByetAm",
+            "virereByantAm",
+            "virereByasva",
+            "virereByeTAm",
+            "virereByaDvam",
+            "virereByE",
+            "virereByAvahE",
+            "virereByAmahE"
+          ],
+          "alrung": [
+            "vyarereBizyata",
+            "vyarereBizyetAm",
+            "vyarereBizyanta",
+            "vyarereBizyaTAH",
+            "vyarereBizyeTAm",
+            "vyarereBizyaDvam",
+            "vyarereBizye",
+            "vyarereBizyAvahi",
+            "vyarereBizyAmahi"
+          ],
+          "alrut": [
+            "virereBizyate",
+            "virereBizyete",
+            "virereBizyante",
+            "virereBizyase",
+            "virereBizyeTe",
+            "virereBizyaDve",
+            "virereBizye",
+            "virereBizyAvahe",
+            "virereBizyAmahe"
+          ],
+          "alung": [
+            "vyarereBizwa",
+            "vyarereBizAtAm",
+            "vyarereBizata",
+            "vyarereBizWAH",
+            "vyarereBizATAm",
+            "vyarereBiDvam",
+            "vyarereBizi",
+            "vyarereBizvahi",
+            "vyarereBizmahi"
+          ],
+          "alut": [
+            "virereBitA",
+            "virereBitArO",
+            "virereBitAraH",
+            "virereBitAse",
+            "virereBitAsATe",
+            "virereBitADve",
+            "virereBitAhe",
+            "virereBitAsvahe",
+            "virereBitAsmahe"
+          ],
+          "avidhiling": [
+            "virereByeta",
+            "virereByeyAtAm",
+            "virereByeran",
+            "virereByeTAH",
+            "virereByeyATAm",
+            "virereByeDvam",
+            "virereByeya",
+            "virereByevahi",
+            "virereByemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "virereBizIzwa",
+            "virereBizIyAstAm",
+            "virereBizIran",
+            "virereBizIzWAH",
+            "virereBizIyAsTAm",
+            "virereBizIDvam",
+            "virereBizIya",
+            "virereBizIvahi",
+            "virereBizImahi"
+          ],
+          "alang": [
+            "vyarereByata",
+            "vyarereByetAm",
+            "vyarereByanta",
+            "vyarereByaTAH",
+            "vyarereByeTAm",
+            "vyarereByaDvam",
+            "vyarereBye",
+            "vyarereByAvahi",
+            "vyarereByAmahi"
+          ],
+          "alat": [
+            "virereByate",
+            "virereByete",
+            "virereByante",
+            "virereByase",
+            "virereByeTe",
+            "virereByaDve",
+            "virereBye",
+            "virereByAvahe",
+            "virereByAmahe"
+          ],
+          "alit": [
+            "virereBAmbaBUve",
+            "virereBAmAse",
+            "virereBAYcakre",
+            "virereBAmbaBUvAte",
+            "virereBAmAsAte",
+            "virereBAYcakrAte",
+            "virereBAmbaBUvire",
+            "virereBAmAsire",
+            "virereBAYcakrire",
+            "virereBAmbaBUvize",
+            "virereBAmAsize",
+            "virereBAYcakfze",
+            "virereBAmbaBUvATe",
+            "virereBAmAsATe",
+            "virereBAYcakrATe",
+            "virereBAmbaBUviQve",
+            "virereBAmAsiDve",
+            "virereBAYcakfQve",
+            "virereBAmbaBUve",
+            "virereBAmAhe",
+            "virereBAYcakre",
+            "virereBAmbaBUvivahe",
+            "virereBAmAsivahe",
+            "virereBAYcakfvahe",
+            "virereBAmbaBUvimahe",
+            "virereBAmAsimahe",
+            "virereBAYcakfmahe"
+          ],
+          "alot": [
+            "virereByatAm",
+            "virereByetAm",
+            "virereByantAm",
+            "virereByasva",
+            "virereByeTAm",
+            "virereByaDvam",
+            "virereByE",
+            "virereByAvahE",
+            "virereByAmahE"
+          ],
+          "alrung": [
+            "vyarereBizyata",
+            "vyarereBizyetAm",
+            "vyarereBizyanta",
+            "vyarereBizyaTAH",
+            "vyarereBizyeTAm",
+            "vyarereBizyaDvam",
+            "vyarereBizye",
+            "vyarereBizyAvahi",
+            "vyarereBizyAmahi"
+          ],
+          "alrut": [
+            "virereBizyate",
+            "virereBizyete",
+            "virereBizyante",
+            "virereBizyase",
+            "virereBizyeTe",
+            "virereBizyaDve",
+            "virereBizye",
+            "virereBizyAvahe",
+            "virereBizyAmahe"
+          ],
+          "alung": [
+            "vyarereBi",
+            "vyarereBizAtAm",
+            "vyarereBizata",
+            "vyarereBizWAH",
+            "vyarereBizATAm",
+            "vyarereBiDvam",
+            "vyarereBizi",
+            "vyarereBizvahi",
+            "vyarereBizmahi"
+          ],
+          "alut": [
+            "virereBitA",
+            "virereBitArO",
+            "virereBitAraH",
+            "virereBitAse",
+            "virereBitAsATe",
+            "virereBitADve",
+            "virereBitAhe",
+            "virereBitAsvahe",
+            "virereBitAsmahe"
+          ],
+          "avidhiling": [
+            "virereByeta",
+            "virereByeyAtAm",
+            "virereByeran",
+            "virereByeTAH",
+            "virereByeyATAm",
+            "virereByeDvam",
+            "virereByeya",
+            "virereByevahi",
+            "virereByemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "virereByAt",
+            "virereByAd",
+            "virereByAstAm",
+            "virereByAsuH",
+            "virereByAH",
+            "virereByAstam",
+            "virereByAsta",
+            "virereByAsam",
+            "virereByAsva",
+            "virereByAsma"
+          ],
+          "plang": [
+            "vyarereBIt",
+            "vyarereBId",
+            "vyarerep",
+            "vyarereb",
+            "vyarerebDAm",
+            "vyarereBuH",
+            "vyarereBIH",
+            "vyarerep",
+            "vyarereb",
+            "vyarerebDam",
+            "vyarerebDa",
+            "vyarereBam",
+            "vyarereBva",
+            "vyarereBma"
+          ],
+          "plat": [
+            "virereBIti",
+            "virerebDi",
+            "virerebDaH",
+            "virereBati",
+            "virereBIzi",
+            "virerepsi",
+            "virerebDaH",
+            "virerebDa",
+            "virereBImi",
+            "virereBmi",
+            "virereBvaH",
+            "virereBmaH"
+          ],
+          "plit": [
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakAra",
+            "virereBAmbaBUvatuH",
+            "virereBAmAsatuH",
+            "virereBAYcakratuH",
+            "virereBAmbaBUvuH",
+            "virereBAmAsuH",
+            "virereBAYcakruH",
+            "virereBAmbaBUviTa",
+            "virereBAmAsiTa",
+            "virereBAYcakarTa",
+            "virereBAmbaBUvaTuH",
+            "virereBAmAsaTuH",
+            "virereBAYcakraTuH",
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakra",
+            "virereBAmbaBUva",
+            "virereBAmAsa",
+            "virereBAYcakara",
+            "virereBAYcakAra",
+            "virereBAmbaBUviva",
+            "virereBAmAsiva",
+            "virereBAYcakfva",
+            "virereBAmbaBUvima",
+            "virereBAmAsima",
+            "virereBAYcakfma"
+          ],
+          "plot": [
+            "virerebDAt",
+            "virerebDAd",
+            "virereBItu",
+            "virerebDu",
+            "virerebDAm",
+            "virereBatu",
+            "virerebDAt",
+            "virerebDAd",
+            "virerebDi",
+            "virerebDam",
+            "virerebDa",
+            "virereBARi",
+            "virereBAva",
+            "virereBAma"
+          ],
+          "plrung": [
+            "vyarereBizyat",
+            "vyarereBizyad",
+            "vyarereBizyatAm",
+            "vyarereBizyan",
+            "vyarereBizyaH",
+            "vyarereBizyatam",
+            "vyarereBizyata",
+            "vyarereBizyam",
+            "vyarereBizyAva",
+            "vyarereBizyAma"
+          ],
+          "plrut": [
+            "virereBizyati",
+            "virereBizyataH",
+            "virereBizyanti",
+            "virereBizyasi",
+            "virereBizyaTaH",
+            "virereBizyaTa",
+            "virereBizyAmi",
+            "virereBizyAvaH",
+            "virereBizyAmaH"
+          ],
+          "plung": [
+            "vyarereBIt",
+            "vyarereBId",
+            "vyarereBizwAm",
+            "vyarereBizuH",
+            "vyarereBIH",
+            "vyarereBizwam",
+            "vyarereBizwa",
+            "vyarereBizam",
+            "vyarereBizva",
+            "vyarereBizma"
+          ],
+          "plut": [
+            "virereBitA",
+            "virereBitArO",
+            "virereBitAraH",
+            "virereBitAsi",
+            "virereBitAsTaH",
+            "virereBitAsTa",
+            "virereBitAsmi",
+            "virereBitAsvaH",
+            "virereBitAsmaH"
+          ],
+          "pvidhiling": [
+            "virereByAt",
+            "virereByAd",
+            "virereByAtAm",
+            "virereByuH",
+            "virereByAH",
+            "virereByAtam",
+            "virereByAta",
+            "virereByAm",
+            "virereByAva",
+            "virereByAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "virereBizIzwa",
+            "virereBizIyAstAm",
+            "virereBizIran",
+            "virereBizIzWAH",
+            "virereBizIyAsTAm",
+            "virereBizIDvam",
+            "virereBizIya",
+            "virereBizIvahi",
+            "virereBizImahi"
+          ],
+          "alang": [
+            "vyarereByata",
+            "vyarereByetAm",
+            "vyarereByanta",
+            "vyarereByaTAH",
+            "vyarereByeTAm",
+            "vyarereByaDvam",
+            "vyarereBye",
+            "vyarereByAvahi",
+            "vyarereByAmahi"
+          ],
+          "alat": [
+            "virereByate",
+            "virereByete",
+            "virereByante",
+            "virereByase",
+            "virereByeTe",
+            "virereByaDve",
+            "virereBye",
+            "virereByAvahe",
+            "virereByAmahe"
+          ],
+          "alit": [
+            "virereBAmbaBUve",
+            "virereBAmAse",
+            "virereBAYcakre",
+            "virereBAmbaBUvAte",
+            "virereBAmAsAte",
+            "virereBAYcakrAte",
+            "virereBAmbaBUvire",
+            "virereBAmAsire",
+            "virereBAYcakrire",
+            "virereBAmbaBUvize",
+            "virereBAmAsize",
+            "virereBAYcakfze",
+            "virereBAmbaBUvATe",
+            "virereBAmAsATe",
+            "virereBAYcakrATe",
+            "virereBAmbaBUviQve",
+            "virereBAmAsiDve",
+            "virereBAYcakfQve",
+            "virereBAmbaBUve",
+            "virereBAmAhe",
+            "virereBAYcakre",
+            "virereBAmbaBUvivahe",
+            "virereBAmAsivahe",
+            "virereBAYcakfvahe",
+            "virereBAmbaBUvimahe",
+            "virereBAmAsimahe",
+            "virereBAYcakfmahe"
+          ],
+          "alot": [
+            "virereByatAm",
+            "virereByetAm",
+            "virereByantAm",
+            "virereByasva",
+            "virereByeTAm",
+            "virereByaDvam",
+            "virereByE",
+            "virereByAvahE",
+            "virereByAmahE"
+          ],
+          "alrung": [
+            "vyarereBizyata",
+            "vyarereBizyetAm",
+            "vyarereBizyanta",
+            "vyarereBizyaTAH",
+            "vyarereBizyeTAm",
+            "vyarereBizyaDvam",
+            "vyarereBizye",
+            "vyarereBizyAvahi",
+            "vyarereBizyAmahi"
+          ],
+          "alrut": [
+            "virereBizyate",
+            "virereBizyete",
+            "virereBizyante",
+            "virereBizyase",
+            "virereBizyeTe",
+            "virereBizyaDve",
+            "virereBizye",
+            "virereBizyAvahe",
+            "virereBizyAmahe"
+          ],
+          "alung": [
+            "vyarereBi",
+            "vyarereBizAtAm",
+            "vyarereBizata",
+            "vyarereBizWAH",
+            "vyarereBizATAm",
+            "vyarereBiDvam",
+            "vyarereBizi",
+            "vyarereBizvahi",
+            "vyarereBizmahi"
+          ],
+          "alut": [
+            "virereBitA",
+            "virereBitArO",
+            "virereBitAraH",
+            "virereBitAse",
+            "virereBitAsATe",
+            "virereBitADve",
+            "virereBitAhe",
+            "virereBitAsvahe",
+            "virereBitAsmahe"
+          ],
+          "avidhiling": [
+            "virereByeta",
+            "virereByeyAtAm",
+            "virereByeran",
+            "virereByeTAH",
+            "virereByeyATAm",
+            "virereByeDvam",
+            "virereByeya",
+            "virereByevahi",
+            "virereByemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "vireBA",
+              "m": "",
+              "f": "vireBA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "vireBa",
+              "m": "vireBaH",
+              "f": "vireBA",
+              "n": "vireBam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "vireBaRIya",
+              "m": "vireBaRIyaH",
+              "f": "vireBaRIyA",
+              "n": "vireBaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "vireBita",
+              "m": "vireBitaH",
+              "f": "vireBitA",
+              "n": "vireBitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "vireBitavat",
+              "m": "vireBitavAn",
+              "f": "vireBitavatI",
+              "n": "vireBitavat/vireBitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "virebDi",
+              "m": "",
+              "f": "virebDiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "virireBvas",
+              "m": "virireBvAn",
+              "f": "virireBuzI",
+              "n": "virireBvat/virireBvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "vireBa",
+              "m": "vireBaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "vireBamARa",
+              "m": "vireBamARaH",
+              "f": "vireBamARA",
+              "n": "vireBamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "vireBam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "vireBya",
+              "m": "vireByaH",
+              "f": "vireByA",
+              "n": "vireByam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "vireBaka",
+              "m": "vireBakaH",
+              "f": "vireBikA",
+              "n": "vireBakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "vireBitavya",
+              "m": "vireBitavyaH",
+              "f": "vireBitavyA",
+              "n": "vireBitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "vireBitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "vireBitf",
+              "m": "vireBitA",
+              "f": "vireBitrI",
+              "n": "vireBitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "vireBamARa",
+              "m": "vireBamARaH",
+              "f": "vireBamARA",
+              "n": "vireBamARam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "vireBya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "vireBaRa",
+              "m": "",
+              "f": "",
+              "n": "vireBaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "vireBaka",
+              "m": "vireBakaH",
+              "f": "vireBikA",
+              "n": "vireBakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "vireBamARa",
+              "m": "vireBamARaH",
+              "f": "vireBamARA",
+              "n": "vireBamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "vireBamARa",
+              "m": "vireBamARaH",
+              "f": "vireBamARA",
+              "n": "vireBamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "vireBamARa",
+              "m": "vireBamARaH",
+              "f": "vireBamARA",
+              "n": "vireBamARam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "virireBizA",
+              "m": "",
+              "f": "virireBizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "virireBiza",
+              "m": "virireBizaH",
+              "f": "virireBizA",
+              "n": "virireBizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "virireBizaRIya",
+              "m": "virireBizaRIyaH",
+              "f": "virireBizaRIyA",
+              "n": "virireBizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "virireBizu",
+              "m": "virireBizuH",
+              "f": "virireBizuH",
+              "n": "virireBizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "virireBizita",
+              "m": "virireBizitaH",
+              "f": "virireBizitA",
+              "n": "virireBizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "virireBizitavat",
+              "m": "virireBizitavAn",
+              "f": "virireBizitavatI",
+              "n": "virireBizitavat/virireBizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "virireBizwi",
+              "m": "",
+              "f": "virireBizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "virireBizAmbaBUvas",
+              "m": "virireBizAmbaBUvAn",
+              "f": "virireBizAmbaBUzI",
+              "n": "virireBizAmbaBUvat/virireBizAmbaBUvad"
+            },
+            {
+              "base": "virireBizAmAsivas",
+              "m": "virireBizAmAsivAn",
+              "f": "virireBizAmAsyuzI",
+              "n": "virireBizAmAsivat/virireBizAmAsivad"
+            },
+            {
+              "base": "virireBizAYcakfvas",
+              "m": "virireBizAYcakfvAn",
+              "f": "virireBizAYcakruzI",
+              "n": "virireBizAYcakfvat/virireBizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "virireBiza",
+              "m": "virireBizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "virireBizamARa",
+              "m": "virireBizamARaH",
+              "f": "virireBizamARA",
+              "n": "virireBizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "virireBizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "virireBizaka",
+              "m": "virireBizakaH",
+              "f": "virireBizikA",
+              "n": "virireBizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "virireBizitavya",
+              "m": "virireBizitavyaH",
+              "f": "virireBizitavyA",
+              "n": "virireBizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "virireBizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "virireBizitf",
+              "m": "virireBizitA",
+              "f": "virireBizitrI",
+              "n": "virireBizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "virireBizamARa",
+              "m": "virireBizamARaH",
+              "f": "virireBizamARA",
+              "n": "virireBizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "virireBizya",
+              "m": "virireBizyaH",
+              "f": "virireBizyA",
+              "n": "virireBizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "virireBizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "virireBizaRa",
+              "m": "",
+              "f": "",
+              "n": "virireBizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "virireBizaka",
+              "m": "virireBizakaH",
+              "f": "virireBizikA",
+              "n": "virireBizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "virireBizamARa",
+              "m": "virireBizamARaH",
+              "f": "virireBizamARA",
+              "n": "virireBizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "virireBizamARa",
+              "m": "virireBizamARaH",
+              "f": "virireBizamARA",
+              "n": "virireBizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "virireBizamARa",
+              "m": "virireBizamARaH",
+              "f": "virireBizamARA",
+              "n": "virireBizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "vireBa",
+              "m": "vireBaH",
+              "f": "vireBA",
+              "n": "vireBam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "vireBaRIya",
+              "m": "vireBaRIyaH",
+              "f": "vireBaRIyA",
+              "n": "vireBaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "vireBita",
+              "m": "vireBitaH",
+              "f": "vireBitA",
+              "n": "vireBitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "vireBitavat",
+              "m": "vireBitavAn",
+              "f": "vireBitavatI",
+              "n": "vireBitavat/vireBitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "virebDi",
+              "m": "",
+              "f": "virebDiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "vireBayAmbaBUvas",
+              "m": "vireBayAmbaBUvAn",
+              "f": "vireBayAmbaBUzI",
+              "n": "vireBayAmbaBUvat/vireBayAmbaBUvad"
+            },
+            {
+              "base": "vireBayAmAsivas",
+              "m": "vireBayAmAsivAn",
+              "f": "vireBayAmAsyuzI",
+              "n": "vireBayAmAsivat/vireBayAmAsivad"
+            },
+            {
+              "base": "vireBayAYcakfvas",
+              "m": "vireBayAYcakfvAn",
+              "f": "vireBayAYcakruzI",
+              "n": "vireBayAYcakfvat/vireBayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "vireBayamARa",
+              "m": "vireBayamARaH",
+              "f": "vireBayamARA",
+              "n": "vireBayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "vireBam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "vireBaka",
+              "m": "vireBakaH",
+              "f": "vireBikA",
+              "n": "vireBakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "vireBayitavya",
+              "m": "vireBayitavyaH",
+              "f": "vireBayitavyA",
+              "n": "vireBayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "vireBayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "vireBayitf",
+              "m": "vireBayitA",
+              "f": "vireBayitrI",
+              "n": "vireBayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "vireBayamARa",
+              "m": "vireBayamARaH",
+              "f": "vireBayamARA",
+              "n": "vireBayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "vireBya",
+              "m": "vireByaH",
+              "f": "vireByA",
+              "n": "vireByam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "vireBya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "vireBaRa",
+              "m": "",
+              "f": "",
+              "n": "vireBaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "vireBaka",
+              "m": "vireBakaH",
+              "f": "vireBikA",
+              "n": "vireBakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "vireBayat",
+              "m": "vireBayan",
+              "f": "vireBayantI",
+              "n": "vireBayat/vireBayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "vireBayamARa",
+              "m": "vireBayamARaH",
+              "f": "vireBayamARA",
+              "n": "vireBayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "vireBayamARa",
+              "m": "vireBayamARaH",
+              "f": "vireBayamARA",
+              "n": "vireBayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "vireBayat",
+              "m": "vireBayan",
+              "f": "vireBayatI/vireBayantI",
+              "n": "vireBayat/vireBayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "vireBayamARa",
+              "m": "vireBayamARaH",
+              "f": "vireBayamARA",
+              "n": "vireBayamARam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "virereBA",
+              "m": "",
+              "f": "virereBA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "virereBa",
+              "m": "virereBaH",
+              "f": "virereBA",
+              "n": "virereBam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "virereBaRIya",
+              "m": "virereBaRIyaH",
+              "f": "virereBaRIyA",
+              "n": "virereBaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "virereBita",
+              "m": "virereBitaH",
+              "f": "virereBitA",
+              "n": "virereBitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "virereBitavat",
+              "m": "virereBitavAn",
+              "f": "virereBitavatI",
+              "n": "virereBitavat/virereBitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "virerebDi",
+              "m": "",
+              "f": "virerebDiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "virereBAmbaBUvas",
+              "m": "virereBAmbaBUvAn",
+              "f": "virereBAmbaBUzI",
+              "n": "virereBAmbaBUvat/virereBAmbaBUvad"
+            },
+            {
+              "base": "virereBAmAsivas",
+              "m": "virereBAmAsivAn",
+              "f": "virereBAmAsyuzI",
+              "n": "virereBAmAsivat/virereBAmAsivad"
+            },
+            {
+              "base": "virereBAYcakfvas",
+              "m": "virereBAYcakfvAn",
+              "f": "virereBAYcakruzI",
+              "n": "virereBAYcakfvat/virereBAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "virereBa",
+              "m": "virereBaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "virereByamARa",
+              "m": "virereByamARaH",
+              "f": "virereByamARA",
+              "n": "virereByamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "virereBam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "virereBaka",
+              "m": "virereBakaH",
+              "f": "virereBikA",
+              "n": "virereBakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "virereBitavya",
+              "m": "virereBitavyaH",
+              "f": "virereBitavyA",
+              "n": "virereBitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "virereBitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "virereBitf",
+              "m": "virereBitA",
+              "f": "virereBitrI",
+              "n": "virereBitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "virereByamARa",
+              "m": "virereByamARaH",
+              "f": "virereByamARA",
+              "n": "virereByamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "virereBya",
+              "m": "virereByaH",
+              "f": "virereByA",
+              "n": "virereByam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "virereBya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "virereBaRa",
+              "m": "",
+              "f": "",
+              "n": "virereBaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "virereBaka",
+              "m": "virereBakaH",
+              "f": "virereBikA",
+              "n": "virereBakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "virereByamARa",
+              "m": "virereByamARaH",
+              "f": "virereByamARA",
+              "n": "virereByamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "virereByamARa",
+              "m": "virereByamARaH",
+              "f": "virereByamARA",
+              "n": "virereByamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "virereByamARa",
+              "m": "virereByamARaH",
+              "f": "virereByamARA",
+              "n": "virereByamARam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "virereBA",
+              "m": "",
+              "f": "virereBA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "virereBa",
+              "m": "virereBaH",
+              "f": "virereBA",
+              "n": "virereBam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "virereBaRIya",
+              "m": "virereBaRIyaH",
+              "f": "virereBaRIyA",
+              "n": "virereBaRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "virereBita",
+              "m": "virereBitaH",
+              "f": "virereBitA",
+              "n": "virereBitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "virereBitavat",
+              "m": "virereBitavAn",
+              "f": "virereBitavatI",
+              "n": "virereBitavat/virereBitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "virerebDi",
+              "m": "",
+              "f": "virerebDiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "virereBAmbaBUvas",
+              "m": "virereBAmbaBUvAn",
+              "f": "virereBAmbaBUzI",
+              "n": "virereBAmbaBUvat/virereBAmbaBUvad"
+            },
+            {
+              "base": "virereBAmAsivas",
+              "m": "virereBAmAsivAn",
+              "f": "virereBAmAsyuzI",
+              "n": "virereBAmAsivat/virereBAmAsivad"
+            },
+            {
+              "base": "virereBAYcakfvas",
+              "m": "virereBAYcakfvAn",
+              "f": "virereBAYcakruzI",
+              "n": "virereBAYcakfvat/virereBAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "virereBa",
+              "m": "virereBaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "virereBARa",
+              "m": "virereBARaH",
+              "f": "virereBARA",
+              "n": "virereBARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "virereBam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "virereBaka",
+              "m": "virereBakaH",
+              "f": "virereBikA",
+              "n": "virereBakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "virereBitavya",
+              "m": "virereBitavyaH",
+              "f": "virereBitavyA",
+              "n": "virereBitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "virereBitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "virereBitf",
+              "m": "virereBitA",
+              "f": "virereBitrI",
+              "n": "virereBitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "virereBya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "virereBaRa",
+              "m": "",
+              "f": "",
+              "n": "virereBaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "virereBaka",
+              "m": "virereBakaH",
+              "f": "virereBikA",
+              "n": "virereBakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "virereBat",
+              "m": "virereBan",
+              "f": "virereBatI",
+              "n": "virereBat/virereBad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "virereBat",
+              "m": "virereBan",
+              "f": "virereBatI/virereBantI",
+              "n": "virereBat/virereBad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

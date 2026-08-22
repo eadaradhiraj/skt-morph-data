@@ -1,0 +1,2556 @@
+{
+  "id": "01.0859",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Bransu~"
+    },
+    {
+      "name": "arTaH",
+      "value": "avasraMsane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to fall down,to drop,to slip off,to hang down, to slide, to deteriorate"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "giranA, KisanA, aDaHpatana honA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "BraMSu ityapi kecit peWuH . atra ( sraMsu DvaMsu BraMsu ityatra ) tftIyaH eva tAlavyAntaH ityanye ' iti kOmudI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "dyutAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI",
+      "note": "dyutAditvAt dyudByo luNiH 1.3.91 ityanena luNlakAre vikalpena parasmEpadarUpARi api Bavanti ."
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "756"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "756"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2346",
+      "ext_link": "/sutraani/sk2346?scroll=sutra-commentary-kaumudi-region&highlight=Baranasau"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "536",
+      "ext_link": "/sutraani/lsk536?scroll=sutra-commentary-laghukaumudi-region&highlight=Baranasau"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "BraMsizIzwa",
+        "BraMsizIyAstAm",
+        "BraMsizIran",
+        "BraMsizIzWAH",
+        "BraMsizIyAsTAm",
+        "BraMsizIDvam",
+        "BraMsizIya",
+        "BraMsizIvahi",
+        "BraMsizImahi"
+      ],
+      "alang": [
+        "aBraMsata",
+        "aBraMsetAm",
+        "aBraMsanta",
+        "aBraMsaTAH",
+        "aBraMseTAm",
+        "aBraMsaDvam",
+        "aBraMse",
+        "aBraMsAvahi",
+        "aBraMsAmahi"
+      ],
+      "alat": [
+        "BraMsate",
+        "BraMsete",
+        "BraMsante",
+        "BraMsase",
+        "BraMseTe",
+        "BraMsaDve",
+        "BraMse",
+        "BraMsAvahe",
+        "BraMsAmahe"
+      ],
+      "alit": [
+        "baBraMse",
+        "baBraMsAte",
+        "baBraMsire",
+        "baBraMsize",
+        "baBraMsATe",
+        "baBraMsiDve",
+        "baBraMse",
+        "baBraMsivahe",
+        "baBraMsimahe"
+      ],
+      "alot": [
+        "BraMsatAm",
+        "BraMsetAm",
+        "BraMsantAm",
+        "BraMsasva",
+        "BraMseTAm",
+        "BraMsaDvam",
+        "BraMsE",
+        "BraMsAvahE",
+        "BraMsAmahE"
+      ],
+      "alrung": [
+        "aBraMsizyata",
+        "aBraMsizyetAm",
+        "aBraMsizyanta",
+        "aBraMsizyaTAH",
+        "aBraMsizyeTAm",
+        "aBraMsizyaDvam",
+        "aBraMsizye",
+        "aBraMsizyAvahi",
+        "aBraMsizyAmahi"
+      ],
+      "alrut": [
+        "BraMsizyate",
+        "BraMsizyete",
+        "BraMsizyante",
+        "BraMsizyase",
+        "BraMsizyeTe",
+        "BraMsizyaDve",
+        "BraMsizye",
+        "BraMsizyAvahe",
+        "BraMsizyAmahe"
+      ],
+      "alung": [
+        "aBraMsizwa",
+        "aBraMsizAtAm",
+        "aBraMsizata",
+        "aBraMsizWAH",
+        "aBraMsizATAm",
+        "aBraMsiDvam",
+        "aBraMsizi",
+        "aBraMsizvahi",
+        "aBraMsizmahi"
+      ],
+      "alut": [
+        "BraMsitA",
+        "BraMsitArO",
+        "BraMsitAraH",
+        "BraMsitAse",
+        "BraMsitAsATe",
+        "BraMsitADve",
+        "BraMsitAhe",
+        "BraMsitAsvahe",
+        "BraMsitAsmahe"
+      ],
+      "avidhiling": [
+        "BraMseta",
+        "BraMseyAtAm",
+        "BraMseran",
+        "BraMseTAH",
+        "BraMseyATAm",
+        "BraMseDvam",
+        "BraMseya",
+        "BraMsevahi",
+        "BraMsemahi"
+      ],
+      "plung": [
+        "aBrasat",
+        "aBrasad",
+        "aBrasatAm",
+        "aBrasan",
+        "aBrasaH",
+        "aBrasatam",
+        "aBrasata",
+        "aBrasam",
+        "aBrasAva",
+        "aBrasAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "BraMsizIzwa",
+        "BraMsizIyAstAm",
+        "BraMsizIran",
+        "BraMsizIzWAH",
+        "BraMsizIyAsTAm",
+        "BraMsizIDvam",
+        "BraMsizIya",
+        "BraMsizIvahi",
+        "BraMsizImahi"
+      ],
+      "alang": [
+        "aBrasyata",
+        "aBrasyetAm",
+        "aBrasyanta",
+        "aBrasyaTAH",
+        "aBrasyeTAm",
+        "aBrasyaDvam",
+        "aBrasye",
+        "aBrasyAvahi",
+        "aBrasyAmahi"
+      ],
+      "alat": [
+        "Brasyate",
+        "Brasyete",
+        "Brasyante",
+        "Brasyase",
+        "BrasyeTe",
+        "BrasyaDve",
+        "Brasye",
+        "BrasyAvahe",
+        "BrasyAmahe"
+      ],
+      "alit": [
+        "baBraMse",
+        "baBraMsAte",
+        "baBraMsire",
+        "baBraMsize",
+        "baBraMsATe",
+        "baBraMsiDve",
+        "baBraMse",
+        "baBraMsivahe",
+        "baBraMsimahe"
+      ],
+      "alot": [
+        "BrasyatAm",
+        "BrasyetAm",
+        "BrasyantAm",
+        "Brasyasva",
+        "BrasyeTAm",
+        "BrasyaDvam",
+        "BrasyE",
+        "BrasyAvahE",
+        "BrasyAmahE"
+      ],
+      "alrung": [
+        "aBraMsizyata",
+        "aBraMsizyetAm",
+        "aBraMsizyanta",
+        "aBraMsizyaTAH",
+        "aBraMsizyeTAm",
+        "aBraMsizyaDvam",
+        "aBraMsizye",
+        "aBraMsizyAvahi",
+        "aBraMsizyAmahi"
+      ],
+      "alrut": [
+        "BraMsizyate",
+        "BraMsizyete",
+        "BraMsizyante",
+        "BraMsizyase",
+        "BraMsizyeTe",
+        "BraMsizyaDve",
+        "BraMsizye",
+        "BraMsizyAvahe",
+        "BraMsizyAmahe"
+      ],
+      "alung": [
+        "aBraMsi",
+        "aBraMsizAtAm",
+        "aBraMsizata",
+        "aBraMsizWAH",
+        "aBraMsizATAm",
+        "aBraMsiDvam",
+        "aBraMsizi",
+        "aBraMsizvahi",
+        "aBraMsizmahi"
+      ],
+      "alut": [
+        "BraMsitA",
+        "BraMsitArO",
+        "BraMsitAraH",
+        "BraMsitAse",
+        "BraMsitAsATe",
+        "BraMsitADve",
+        "BraMsitAhe",
+        "BraMsitAsvahe",
+        "BraMsitAsmahe"
+      ],
+      "avidhiling": [
+        "Brasyeta",
+        "BrasyeyAtAm",
+        "Brasyeran",
+        "BrasyeTAH",
+        "BrasyeyATAm",
+        "BrasyeDvam",
+        "Brasyeya",
+        "Brasyevahi",
+        "Brasyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "biBraMsizizIzwa",
+        "biBraMsizizIyAstAm",
+        "biBraMsizizIran",
+        "biBraMsizizIzWAH",
+        "biBraMsizizIyAsTAm",
+        "biBraMsizizIDvam",
+        "biBraMsizizIya",
+        "biBraMsizizIvahi",
+        "biBraMsizizImahi"
+      ],
+      "alang": [
+        "abiBraMsizata",
+        "abiBraMsizetAm",
+        "abiBraMsizanta",
+        "abiBraMsizaTAH",
+        "abiBraMsizeTAm",
+        "abiBraMsizaDvam",
+        "abiBraMsize",
+        "abiBraMsizAvahi",
+        "abiBraMsizAmahi"
+      ],
+      "alat": [
+        "biBraMsizate",
+        "biBraMsizete",
+        "biBraMsizante",
+        "biBraMsizase",
+        "biBraMsizeTe",
+        "biBraMsizaDve",
+        "biBraMsize",
+        "biBraMsizAvahe",
+        "biBraMsizAmahe"
+      ],
+      "alit": [
+        "biBraMsizAYcakre",
+        "biBraMsizAmAsa",
+        "biBraMsizAmbaBUva",
+        "biBraMsizAYcakrAte",
+        "biBraMsizAmAsatuH",
+        "biBraMsizAmbaBUvatuH",
+        "biBraMsizAYcakrire",
+        "biBraMsizAmAsuH",
+        "biBraMsizAmbaBUvuH",
+        "biBraMsizAYcakfze",
+        "biBraMsizAmAsiTa",
+        "biBraMsizAmbaBUviTa",
+        "biBraMsizAYcakrATe",
+        "biBraMsizAmAsaTuH",
+        "biBraMsizAmbaBUvaTuH",
+        "biBraMsizAYcakfQve",
+        "biBraMsizAmAsa",
+        "biBraMsizAmbaBUva",
+        "biBraMsizAYcakre",
+        "biBraMsizAmAsa",
+        "biBraMsizAmbaBUva",
+        "biBraMsizAYcakfvahe",
+        "biBraMsizAmAsiva",
+        "biBraMsizAmbaBUviva",
+        "biBraMsizAYcakfmahe",
+        "biBraMsizAmAsima",
+        "biBraMsizAmbaBUvima"
+      ],
+      "alot": [
+        "biBraMsizatAm",
+        "biBraMsizetAm",
+        "biBraMsizantAm",
+        "biBraMsizasva",
+        "biBraMsizeTAm",
+        "biBraMsizaDvam",
+        "biBraMsizE",
+        "biBraMsizAvahE",
+        "biBraMsizAmahE"
+      ],
+      "alrung": [
+        "abiBraMsizizyata",
+        "abiBraMsizizyetAm",
+        "abiBraMsizizyanta",
+        "abiBraMsizizyaTAH",
+        "abiBraMsizizyeTAm",
+        "abiBraMsizizyaDvam",
+        "abiBraMsizizye",
+        "abiBraMsizizyAvahi",
+        "abiBraMsizizyAmahi"
+      ],
+      "alrut": [
+        "biBraMsizizyate",
+        "biBraMsizizyete",
+        "biBraMsizizyante",
+        "biBraMsizizyase",
+        "biBraMsizizyeTe",
+        "biBraMsizizyaDve",
+        "biBraMsizizye",
+        "biBraMsizizyAvahe",
+        "biBraMsizizyAmahe"
+      ],
+      "alung": [
+        "abiBraMsizizwa",
+        "abiBraMsizizAtAm",
+        "abiBraMsizizata",
+        "abiBraMsizizWAH",
+        "abiBraMsizizATAm",
+        "abiBraMsiziDvam",
+        "abiBraMsizizi",
+        "abiBraMsizizvahi",
+        "abiBraMsizizmahi"
+      ],
+      "alut": [
+        "biBraMsizitA",
+        "biBraMsizitArO",
+        "biBraMsizitAraH",
+        "biBraMsizitAse",
+        "biBraMsizitAsATe",
+        "biBraMsizitADve",
+        "biBraMsizitAhe",
+        "biBraMsizitAsvahe",
+        "biBraMsizitAsmahe"
+      ],
+      "avidhiling": [
+        "biBraMsizeta",
+        "biBraMsizeyAtAm",
+        "biBraMsizeran",
+        "biBraMsizeTAH",
+        "biBraMsizeyATAm",
+        "biBraMsizeDvam",
+        "biBraMsizeya",
+        "biBraMsizevahi",
+        "biBraMsizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "biBraMsizizIzwa",
+        "biBraMsizizIyAstAm",
+        "biBraMsizizIran",
+        "biBraMsizizIzWAH",
+        "biBraMsizizIyAsTAm",
+        "biBraMsizizIDvam",
+        "biBraMsizizIya",
+        "biBraMsizizIvahi",
+        "biBraMsizizImahi"
+      ],
+      "alang": [
+        "abiBraMsizyata",
+        "abiBraMsizyetAm",
+        "abiBraMsizyanta",
+        "abiBraMsizyaTAH",
+        "abiBraMsizyeTAm",
+        "abiBraMsizyaDvam",
+        "abiBraMsizye",
+        "abiBraMsizyAvahi",
+        "abiBraMsizyAmahi"
+      ],
+      "alat": [
+        "biBraMsizyate",
+        "biBraMsizyete",
+        "biBraMsizyante",
+        "biBraMsizyase",
+        "biBraMsizyeTe",
+        "biBraMsizyaDve",
+        "biBraMsizye",
+        "biBraMsizyAvahe",
+        "biBraMsizyAmahe"
+      ],
+      "alit": [
+        "biBraMsizAYcakre",
+        "biBraMsizAmAse",
+        "biBraMsizAmbaBUve",
+        "biBraMsizAYcakrAte",
+        "biBraMsizAmAsAte",
+        "biBraMsizAmbaBUvAte",
+        "biBraMsizAYcakrire",
+        "biBraMsizAmAsire",
+        "biBraMsizAmbaBUvire",
+        "biBraMsizAYcakfze",
+        "biBraMsizAmAsize",
+        "biBraMsizAmbaBUvize",
+        "biBraMsizAYcakrATe",
+        "biBraMsizAmAsATe",
+        "biBraMsizAmbaBUvATe",
+        "biBraMsizAYcakfQve",
+        "biBraMsizAmAsiDve",
+        "biBraMsizAmbaBUviQve",
+        "biBraMsizAYcakre",
+        "biBraMsizAmAhe",
+        "biBraMsizAmbaBUve",
+        "biBraMsizAYcakfvahe",
+        "biBraMsizAmAsivahe",
+        "biBraMsizAmbaBUvivahe",
+        "biBraMsizAYcakfmahe",
+        "biBraMsizAmAsimahe",
+        "biBraMsizAmbaBUvimahe"
+      ],
+      "alot": [
+        "biBraMsizyatAm",
+        "biBraMsizyetAm",
+        "biBraMsizyantAm",
+        "biBraMsizyasva",
+        "biBraMsizyeTAm",
+        "biBraMsizyaDvam",
+        "biBraMsizyE",
+        "biBraMsizyAvahE",
+        "biBraMsizyAmahE"
+      ],
+      "alrung": [
+        "abiBraMsizizyata",
+        "abiBraMsizizyetAm",
+        "abiBraMsizizyanta",
+        "abiBraMsizizyaTAH",
+        "abiBraMsizizyeTAm",
+        "abiBraMsizizyaDvam",
+        "abiBraMsizizye",
+        "abiBraMsizizyAvahi",
+        "abiBraMsizizyAmahi"
+      ],
+      "alrut": [
+        "biBraMsizizyate",
+        "biBraMsizizyete",
+        "biBraMsizizyante",
+        "biBraMsizizyase",
+        "biBraMsizizyeTe",
+        "biBraMsizizyaDve",
+        "biBraMsizizye",
+        "biBraMsizizyAvahe",
+        "biBraMsizizyAmahe"
+      ],
+      "alung": [
+        "abiBraMsizi",
+        "abiBraMsizizAtAm",
+        "abiBraMsizizata",
+        "abiBraMsizizWAH",
+        "abiBraMsizizATAm",
+        "abiBraMsiziDvam",
+        "abiBraMsizizi",
+        "abiBraMsizizvahi",
+        "abiBraMsizizmahi"
+      ],
+      "alut": [
+        "biBraMsizitA",
+        "biBraMsizitArO",
+        "biBraMsizitAraH",
+        "biBraMsizitAse",
+        "biBraMsizitAsATe",
+        "biBraMsizitADve",
+        "biBraMsizitAhe",
+        "biBraMsizitAsvahe",
+        "biBraMsizitAsmahe"
+      ],
+      "avidhiling": [
+        "biBraMsizyeta",
+        "biBraMsizyeyAtAm",
+        "biBraMsizyeran",
+        "biBraMsizyeTAH",
+        "biBraMsizyeyATAm",
+        "biBraMsizyeDvam",
+        "biBraMsizyeya",
+        "biBraMsizyevahi",
+        "biBraMsizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "BraMsayizIzwa",
+        "BraMsayizIyAstAm",
+        "BraMsayizIran",
+        "BraMsayizIzWAH",
+        "BraMsayizIyAsTAm",
+        "BraMsayizIQvam",
+        "BraMsayizIDvam",
+        "BraMsayizIya",
+        "BraMsayizIvahi",
+        "BraMsayizImahi"
+      ],
+      "alang": [
+        "aBraMsayata",
+        "aBraMsayetAm",
+        "aBraMsayanta",
+        "aBraMsayaTAH",
+        "aBraMsayeTAm",
+        "aBraMsayaDvam",
+        "aBraMsaye",
+        "aBraMsayAvahi",
+        "aBraMsayAmahi"
+      ],
+      "alat": [
+        "BraMsayate",
+        "BraMsayete",
+        "BraMsayante",
+        "BraMsayase",
+        "BraMsayeTe",
+        "BraMsayaDve",
+        "BraMsaye",
+        "BraMsayAvahe",
+        "BraMsayAmahe"
+      ],
+      "alit": [
+        "BraMsayAYcakre",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakrAte",
+        "BraMsayAmAsatuH",
+        "BraMsayAmbaBUvatuH",
+        "BraMsayAYcakrire",
+        "BraMsayAmAsuH",
+        "BraMsayAmbaBUvuH",
+        "BraMsayAYcakfze",
+        "BraMsayAmAsiTa",
+        "BraMsayAmbaBUviTa",
+        "BraMsayAYcakrATe",
+        "BraMsayAmAsaTuH",
+        "BraMsayAmbaBUvaTuH",
+        "BraMsayAYcakfQve",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakre",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakfvahe",
+        "BraMsayAmAsiva",
+        "BraMsayAmbaBUviva",
+        "BraMsayAYcakfmahe",
+        "BraMsayAmAsima",
+        "BraMsayAmbaBUvima"
+      ],
+      "alot": [
+        "BraMsayatAm",
+        "BraMsayetAm",
+        "BraMsayantAm",
+        "BraMsayasva",
+        "BraMsayeTAm",
+        "BraMsayaDvam",
+        "BraMsayE",
+        "BraMsayAvahE",
+        "BraMsayAmahE"
+      ],
+      "alrung": [
+        "aBraMsayizyata",
+        "aBraMsayizyetAm",
+        "aBraMsayizyanta",
+        "aBraMsayizyaTAH",
+        "aBraMsayizyeTAm",
+        "aBraMsayizyaDvam",
+        "aBraMsayizye",
+        "aBraMsayizyAvahi",
+        "aBraMsayizyAmahi"
+      ],
+      "alrut": [
+        "BraMsayizyate",
+        "BraMsayizyete",
+        "BraMsayizyante",
+        "BraMsayizyase",
+        "BraMsayizyeTe",
+        "BraMsayizyaDve",
+        "BraMsayizye",
+        "BraMsayizyAvahe",
+        "BraMsayizyAmahe"
+      ],
+      "alung": [
+        "abaBraMsata",
+        "abaBraMsetAm",
+        "abaBraMsanta",
+        "abaBraMsaTAH",
+        "abaBraMseTAm",
+        "abaBraMsaDvam",
+        "abaBraMse",
+        "abaBraMsAvahi",
+        "abaBraMsAmahi"
+      ],
+      "alut": [
+        "BraMsayitA",
+        "BraMsayitArO",
+        "BraMsayitAraH",
+        "BraMsayitAse",
+        "BraMsayitAsATe",
+        "BraMsayitADve",
+        "BraMsayitAhe",
+        "BraMsayitAsvahe",
+        "BraMsayitAsmahe"
+      ],
+      "avidhiling": [
+        "BraMsayeta",
+        "BraMsayeyAtAm",
+        "BraMsayeran",
+        "BraMsayeTAH",
+        "BraMsayeyATAm",
+        "BraMsayeDvam",
+        "BraMsayeya",
+        "BraMsayevahi",
+        "BraMsayemahi"
+      ],
+      "pashirling": [
+        "BraMsyAt",
+        "BraMsyAd",
+        "BraMsyAstAm",
+        "BraMsyAsuH",
+        "BraMsyAH",
+        "BraMsyAstam",
+        "BraMsyAsta",
+        "BraMsyAsam",
+        "BraMsyAsva",
+        "BraMsyAsma"
+      ],
+      "plang": [
+        "aBraMsayat",
+        "aBraMsayad",
+        "aBraMsayatAm",
+        "aBraMsayan",
+        "aBraMsayaH",
+        "aBraMsayatam",
+        "aBraMsayata",
+        "aBraMsayam",
+        "aBraMsayAva",
+        "aBraMsayAma"
+      ],
+      "plat": [
+        "BraMsayati",
+        "BraMsayataH",
+        "BraMsayanti",
+        "BraMsayasi",
+        "BraMsayaTaH",
+        "BraMsayaTa",
+        "BraMsayAmi",
+        "BraMsayAvaH",
+        "BraMsayAmaH"
+      ],
+      "plit": [
+        "BraMsayAYcakAra",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakratuH",
+        "BraMsayAmAsatuH",
+        "BraMsayAmbaBUvatuH",
+        "BraMsayAYcakruH",
+        "BraMsayAmAsuH",
+        "BraMsayAmbaBUvuH",
+        "BraMsayAYcakarTa",
+        "BraMsayAmAsiTa",
+        "BraMsayAmbaBUviTa",
+        "BraMsayAYcakraTuH",
+        "BraMsayAmAsaTuH",
+        "BraMsayAmbaBUvaTuH",
+        "BraMsayAYcakra",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakara",
+        "BraMsayAYcakAra",
+        "BraMsayAmAsa",
+        "BraMsayAmbaBUva",
+        "BraMsayAYcakfva",
+        "BraMsayAmAsiva",
+        "BraMsayAmbaBUviva",
+        "BraMsayAYcakfma",
+        "BraMsayAmAsima",
+        "BraMsayAmbaBUvima"
+      ],
+      "plot": [
+        "BraMsayatAt",
+        "BraMsayatAd",
+        "BraMsayatu",
+        "BraMsayatAm",
+        "BraMsayantu",
+        "BraMsaya",
+        "BraMsayatAt",
+        "BraMsayatAd",
+        "BraMsayatam",
+        "BraMsayata",
+        "BraMsayAni",
+        "BraMsayAva",
+        "BraMsayAma"
+      ],
+      "plrung": [
+        "aBraMsayizyat",
+        "aBraMsayizyad",
+        "aBraMsayizyatAm",
+        "aBraMsayizyan",
+        "aBraMsayizyaH",
+        "aBraMsayizyatam",
+        "aBraMsayizyata",
+        "aBraMsayizyam",
+        "aBraMsayizyAva",
+        "aBraMsayizyAma"
+      ],
+      "plrut": [
+        "BraMsayizyati",
+        "BraMsayizyataH",
+        "BraMsayizyanti",
+        "BraMsayizyasi",
+        "BraMsayizyaTaH",
+        "BraMsayizyaTa",
+        "BraMsayizyAmi",
+        "BraMsayizyAvaH",
+        "BraMsayizyAmaH"
+      ],
+      "plung": [
+        "abaBraMsat",
+        "abaBraMsad",
+        "abaBraMsatAm",
+        "abaBraMsan",
+        "abaBraMsaH",
+        "abaBraMsatam",
+        "abaBraMsata",
+        "abaBraMsam",
+        "abaBraMsAva",
+        "abaBraMsAma"
+      ],
+      "plut": [
+        "BraMsayitA",
+        "BraMsayitArO",
+        "BraMsayitAraH",
+        "BraMsayitAsi",
+        "BraMsayitAsTaH",
+        "BraMsayitAsTa",
+        "BraMsayitAsmi",
+        "BraMsayitAsvaH",
+        "BraMsayitAsmaH"
+      ],
+      "pvidhiling": [
+        "BraMsayet",
+        "BraMsayed",
+        "BraMsayetAm",
+        "BraMsayeyuH",
+        "BraMsayeH",
+        "BraMsayetam",
+        "BraMsayeta",
+        "BraMsayeyam",
+        "BraMsayeva",
+        "BraMsayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "BraMsayizIzwa",
+        "BraMsizIzwa",
+        "BraMsayizIyAstAm",
+        "BraMsizIyAstAm",
+        "BraMsayizIran",
+        "BraMsizIran",
+        "BraMsayizIzWAH",
+        "BraMsizIzWAH",
+        "BraMsayizIyAsTAm",
+        "BraMsizIyAsTAm",
+        "BraMsayizIQvam",
+        "BraMsayizIDvam",
+        "BraMsizIDvam",
+        "BraMsayizIya",
+        "BraMsizIya",
+        "BraMsayizIvahi",
+        "BraMsizIvahi",
+        "BraMsayizImahi",
+        "BraMsizImahi"
+      ],
+      "alang": [
+        "aBraMsyata",
+        "aBraMsyetAm",
+        "aBraMsyanta",
+        "aBraMsyaTAH",
+        "aBraMsyeTAm",
+        "aBraMsyaDvam",
+        "aBraMsye",
+        "aBraMsyAvahi",
+        "aBraMsyAmahi"
+      ],
+      "alat": [
+        "BraMsyate",
+        "BraMsyete",
+        "BraMsyante",
+        "BraMsyase",
+        "BraMsyeTe",
+        "BraMsyaDve",
+        "BraMsye",
+        "BraMsyAvahe",
+        "BraMsyAmahe"
+      ],
+      "alit": [
+        "BraMsayAYcakre",
+        "BraMsayAmAse",
+        "BraMsayAmbaBUve",
+        "BraMsayAYcakrAte",
+        "BraMsayAmAsAte",
+        "BraMsayAmbaBUvAte",
+        "BraMsayAYcakrire",
+        "BraMsayAmAsire",
+        "BraMsayAmbaBUvire",
+        "BraMsayAYcakfze",
+        "BraMsayAmAsize",
+        "BraMsayAmbaBUvize",
+        "BraMsayAYcakrATe",
+        "BraMsayAmAsATe",
+        "BraMsayAmbaBUvATe",
+        "BraMsayAYcakfQve",
+        "BraMsayAmAsiDve",
+        "BraMsayAmbaBUviQve",
+        "BraMsayAYcakre",
+        "BraMsayAmAhe",
+        "BraMsayAmbaBUve",
+        "BraMsayAYcakfvahe",
+        "BraMsayAmAsivahe",
+        "BraMsayAmbaBUvivahe",
+        "BraMsayAYcakfmahe",
+        "BraMsayAmAsimahe",
+        "BraMsayAmbaBUvimahe"
+      ],
+      "alot": [
+        "BraMsyatAm",
+        "BraMsyetAm",
+        "BraMsyantAm",
+        "BraMsyasva",
+        "BraMsyeTAm",
+        "BraMsyaDvam",
+        "BraMsyE",
+        "BraMsyAvahE",
+        "BraMsyAmahE"
+      ],
+      "alrung": [
+        "aBraMsayizyata",
+        "aBraMsizyata",
+        "aBraMsayizyetAm",
+        "aBraMsizyetAm",
+        "aBraMsayizyanta",
+        "aBraMsizyanta",
+        "aBraMsayizyaTAH",
+        "aBraMsizyaTAH",
+        "aBraMsayizyeTAm",
+        "aBraMsizyeTAm",
+        "aBraMsayizyaDvam",
+        "aBraMsizyaDvam",
+        "aBraMsayizye",
+        "aBraMsizye",
+        "aBraMsayizyAvahi",
+        "aBraMsizyAvahi",
+        "aBraMsayizyAmahi",
+        "aBraMsizyAmahi"
+      ],
+      "alrut": [
+        "BraMsayizyate",
+        "BraMsizyate",
+        "BraMsayizyete",
+        "BraMsizyete",
+        "BraMsayizyante",
+        "BraMsizyante",
+        "BraMsayizyase",
+        "BraMsizyase",
+        "BraMsayizyeTe",
+        "BraMsizyeTe",
+        "BraMsayizyaDve",
+        "BraMsizyaDve",
+        "BraMsayizye",
+        "BraMsizye",
+        "BraMsayizyAvahe",
+        "BraMsizyAvahe",
+        "BraMsayizyAmahe",
+        "BraMsizyAmahe"
+      ],
+      "alung": [
+        "aBraMsi",
+        "aBraMsayizAtAm",
+        "aBraMsizAtAm",
+        "aBraMsayizata",
+        "aBraMsizata",
+        "aBraMsayizWAH",
+        "aBraMsizWAH",
+        "aBraMsayizATAm",
+        "aBraMsizATAm",
+        "aBraMsayiQvam",
+        "aBraMsayiDvam",
+        "aBraMsiDvam",
+        "aBraMsayizi",
+        "aBraMsizi",
+        "aBraMsayizvahi",
+        "aBraMsizvahi",
+        "aBraMsayizmahi",
+        "aBraMsizmahi"
+      ],
+      "alut": [
+        "BraMsayitA",
+        "BraMsitA",
+        "BraMsayitArO",
+        "BraMsitArO",
+        "BraMsayitAraH",
+        "BraMsitAraH",
+        "BraMsayitAse",
+        "BraMsitAse",
+        "BraMsayitAsATe",
+        "BraMsitAsATe",
+        "BraMsayitADve",
+        "BraMsitADve",
+        "BraMsayitAhe",
+        "BraMsitAhe",
+        "BraMsayitAsvahe",
+        "BraMsitAsvahe",
+        "BraMsayitAsmahe",
+        "BraMsitAsmahe"
+      ],
+      "avidhiling": [
+        "BraMsyeta",
+        "BraMsyeyAtAm",
+        "BraMsyeran",
+        "BraMsyeTAH",
+        "BraMsyeyATAm",
+        "BraMsyeDvam",
+        "BraMsyeya",
+        "BraMsyevahi",
+        "BraMsyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "banIBrasizIzwa",
+        "banIBrasizIyAstAm",
+        "banIBrasizIran",
+        "banIBrasizIzWAH",
+        "banIBrasizIyAsTAm",
+        "banIBrasizIDvam",
+        "banIBrasizIya",
+        "banIBrasizIvahi",
+        "banIBrasizImahi"
+      ],
+      "alang": [
+        "abanIBrasyata",
+        "abanIBrasyetAm",
+        "abanIBrasyanta",
+        "abanIBrasyaTAH",
+        "abanIBrasyeTAm",
+        "abanIBrasyaDvam",
+        "abanIBrasye",
+        "abanIBrasyAvahi",
+        "abanIBrasyAmahi"
+      ],
+      "alat": [
+        "banIBrasyate",
+        "banIBrasyete",
+        "banIBrasyante",
+        "banIBrasyase",
+        "banIBrasyeTe",
+        "banIBrasyaDve",
+        "banIBrasye",
+        "banIBrasyAvahe",
+        "banIBrasyAmahe"
+      ],
+      "alit": [
+        "banIBrasAYcakre",
+        "banIBrasAmAsa",
+        "banIBrasAmbaBUva",
+        "banIBrasAYcakrAte",
+        "banIBrasAmAsatuH",
+        "banIBrasAmbaBUvatuH",
+        "banIBrasAYcakrire",
+        "banIBrasAmAsuH",
+        "banIBrasAmbaBUvuH",
+        "banIBrasAYcakfze",
+        "banIBrasAmAsiTa",
+        "banIBrasAmbaBUviTa",
+        "banIBrasAYcakrATe",
+        "banIBrasAmAsaTuH",
+        "banIBrasAmbaBUvaTuH",
+        "banIBrasAYcakfQve",
+        "banIBrasAmAsa",
+        "banIBrasAmbaBUva",
+        "banIBrasAYcakre",
+        "banIBrasAmAsa",
+        "banIBrasAmbaBUva",
+        "banIBrasAYcakfvahe",
+        "banIBrasAmAsiva",
+        "banIBrasAmbaBUviva",
+        "banIBrasAYcakfmahe",
+        "banIBrasAmAsima",
+        "banIBrasAmbaBUvima"
+      ],
+      "alot": [
+        "banIBrasyatAm",
+        "banIBrasyetAm",
+        "banIBrasyantAm",
+        "banIBrasyasva",
+        "banIBrasyeTAm",
+        "banIBrasyaDvam",
+        "banIBrasyE",
+        "banIBrasyAvahE",
+        "banIBrasyAmahE"
+      ],
+      "alrung": [
+        "abanIBrasizyata",
+        "abanIBrasizyetAm",
+        "abanIBrasizyanta",
+        "abanIBrasizyaTAH",
+        "abanIBrasizyeTAm",
+        "abanIBrasizyaDvam",
+        "abanIBrasizye",
+        "abanIBrasizyAvahi",
+        "abanIBrasizyAmahi"
+      ],
+      "alrut": [
+        "banIBrasizyate",
+        "banIBrasizyete",
+        "banIBrasizyante",
+        "banIBrasizyase",
+        "banIBrasizyeTe",
+        "banIBrasizyaDve",
+        "banIBrasizye",
+        "banIBrasizyAvahe",
+        "banIBrasizyAmahe"
+      ],
+      "alung": [
+        "abanIBrasizwa",
+        "abanIBrasizAtAm",
+        "abanIBrasizata",
+        "abanIBrasizWAH",
+        "abanIBrasizATAm",
+        "abanIBrasiDvam",
+        "abanIBrasizi",
+        "abanIBrasizvahi",
+        "abanIBrasizmahi"
+      ],
+      "alut": [
+        "banIBrasitA",
+        "banIBrasitArO",
+        "banIBrasitAraH",
+        "banIBrasitAse",
+        "banIBrasitAsATe",
+        "banIBrasitADve",
+        "banIBrasitAhe",
+        "banIBrasitAsvahe",
+        "banIBrasitAsmahe"
+      ],
+      "avidhiling": [
+        "banIBrasyeta",
+        "banIBrasyeyAtAm",
+        "banIBrasyeran",
+        "banIBrasyeTAH",
+        "banIBrasyeyATAm",
+        "banIBrasyeDvam",
+        "banIBrasyeya",
+        "banIBrasyevahi",
+        "banIBrasyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "banIBrasizIzwa",
+        "banIBrasizIyAstAm",
+        "banIBrasizIran",
+        "banIBrasizIzWAH",
+        "banIBrasizIyAsTAm",
+        "banIBrasizIDvam",
+        "banIBrasizIya",
+        "banIBrasizIvahi",
+        "banIBrasizImahi"
+      ],
+      "alang": [
+        "abanIBrasyata",
+        "abanIBrasyetAm",
+        "abanIBrasyanta",
+        "abanIBrasyaTAH",
+        "abanIBrasyeTAm",
+        "abanIBrasyaDvam",
+        "abanIBrasye",
+        "abanIBrasyAvahi",
+        "abanIBrasyAmahi"
+      ],
+      "alat": [
+        "banIBrasyate",
+        "banIBrasyete",
+        "banIBrasyante",
+        "banIBrasyase",
+        "banIBrasyeTe",
+        "banIBrasyaDve",
+        "banIBrasye",
+        "banIBrasyAvahe",
+        "banIBrasyAmahe"
+      ],
+      "alit": [
+        "banIBrasAYcakre",
+        "banIBrasAmAse",
+        "banIBrasAmbaBUve",
+        "banIBrasAYcakrAte",
+        "banIBrasAmAsAte",
+        "banIBrasAmbaBUvAte",
+        "banIBrasAYcakrire",
+        "banIBrasAmAsire",
+        "banIBrasAmbaBUvire",
+        "banIBrasAYcakfze",
+        "banIBrasAmAsize",
+        "banIBrasAmbaBUvize",
+        "banIBrasAYcakrATe",
+        "banIBrasAmAsATe",
+        "banIBrasAmbaBUvATe",
+        "banIBrasAYcakfQve",
+        "banIBrasAmAsiDve",
+        "banIBrasAmbaBUviQve",
+        "banIBrasAYcakre",
+        "banIBrasAmAhe",
+        "banIBrasAmbaBUve",
+        "banIBrasAYcakfvahe",
+        "banIBrasAmAsivahe",
+        "banIBrasAmbaBUvivahe",
+        "banIBrasAYcakfmahe",
+        "banIBrasAmAsimahe",
+        "banIBrasAmbaBUvimahe"
+      ],
+      "alot": [
+        "banIBrasyatAm",
+        "banIBrasyetAm",
+        "banIBrasyantAm",
+        "banIBrasyasva",
+        "banIBrasyeTAm",
+        "banIBrasyaDvam",
+        "banIBrasyE",
+        "banIBrasyAvahE",
+        "banIBrasyAmahE"
+      ],
+      "alrung": [
+        "abanIBrasizyata",
+        "abanIBrasizyetAm",
+        "abanIBrasizyanta",
+        "abanIBrasizyaTAH",
+        "abanIBrasizyeTAm",
+        "abanIBrasizyaDvam",
+        "abanIBrasizye",
+        "abanIBrasizyAvahi",
+        "abanIBrasizyAmahi"
+      ],
+      "alrut": [
+        "banIBrasizyate",
+        "banIBrasizyete",
+        "banIBrasizyante",
+        "banIBrasizyase",
+        "banIBrasizyeTe",
+        "banIBrasizyaDve",
+        "banIBrasizye",
+        "banIBrasizyAvahe",
+        "banIBrasizyAmahe"
+      ],
+      "alung": [
+        "abanIBrasi",
+        "abanIBrasizAtAm",
+        "abanIBrasizata",
+        "abanIBrasizWAH",
+        "abanIBrasizATAm",
+        "abanIBrasiDvam",
+        "abanIBrasizi",
+        "abanIBrasizvahi",
+        "abanIBrasizmahi"
+      ],
+      "alut": [
+        "banIBrasitA",
+        "banIBrasitArO",
+        "banIBrasitAraH",
+        "banIBrasitAse",
+        "banIBrasitAsATe",
+        "banIBrasitADve",
+        "banIBrasitAhe",
+        "banIBrasitAsvahe",
+        "banIBrasitAsmahe"
+      ],
+      "avidhiling": [
+        "banIBrasyeta",
+        "banIBrasyeyAtAm",
+        "banIBrasyeran",
+        "banIBrasyeTAH",
+        "banIBrasyeyATAm",
+        "banIBrasyeDvam",
+        "banIBrasyeya",
+        "banIBrasyevahi",
+        "banIBrasyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "banIBrasyAt",
+        "banIBrasyAd",
+        "banIBrasyAstAm",
+        "banIBrasyAsuH",
+        "banIBrasyAH",
+        "banIBrasyAstam",
+        "banIBrasyAsta",
+        "banIBrasyAsam",
+        "banIBrasyAsva",
+        "banIBrasyAsma"
+      ],
+      "plang": [
+        "abanIBraMsIt",
+        "abanIBraMsId",
+        "abanIBran",
+        "abanIBrastAm",
+        "abanIBrasuH",
+        "abanIBraMsIH",
+        "abanIBran",
+        "abanIBrastam",
+        "abanIBrasta",
+        "abanIBraMsam",
+        "abanIBrasva",
+        "abanIBrasma"
+      ],
+      "plat": [
+        "banIBraMsIti",
+        "banIBraMsti",
+        "banIBrastaH",
+        "banIBrasati",
+        "banIBraMsIzi",
+        "banIBraMssi",
+        "banIBrasTaH",
+        "banIBrasTa",
+        "banIBraMsImi",
+        "banIBraMsmi",
+        "banIBrasvaH",
+        "banIBrasmaH"
+      ],
+      "plit": [
+        "banIBraMsAYcakAra",
+        "banIBraMsAmAsa",
+        "banIBraMsAmbaBUva",
+        "banIBraMsAYcakratuH",
+        "banIBraMsAmAsatuH",
+        "banIBraMsAmbaBUvatuH",
+        "banIBraMsAYcakruH",
+        "banIBraMsAmAsuH",
+        "banIBraMsAmbaBUvuH",
+        "banIBraMsAYcakarTa",
+        "banIBraMsAmAsiTa",
+        "banIBraMsAmbaBUviTa",
+        "banIBraMsAYcakraTuH",
+        "banIBraMsAmAsaTuH",
+        "banIBraMsAmbaBUvaTuH",
+        "banIBraMsAYcakra",
+        "banIBraMsAmAsa",
+        "banIBraMsAmbaBUva",
+        "banIBraMsAYcakara",
+        "banIBraMsAYcakAra",
+        "banIBraMsAmAsa",
+        "banIBraMsAmbaBUva",
+        "banIBraMsAYcakfva",
+        "banIBraMsAmAsiva",
+        "banIBraMsAmbaBUviva",
+        "banIBraMsAYcakfma",
+        "banIBraMsAmAsima",
+        "banIBraMsAmbaBUvima"
+      ],
+      "plot": [
+        "banIBraMsItu",
+        "banIBraMstu",
+        "banIBrastAt",
+        "banIBrastAd",
+        "banIBrastAm",
+        "banIBrasatu",
+        "banIBraDi",
+        "banIBrastAt",
+        "banIBrastAd",
+        "banIBrastam",
+        "banIBrasta",
+        "banIBraMsAni",
+        "banIBraMsAva",
+        "banIBraMsAma"
+      ],
+      "plrung": [
+        "abanIBraMsizyat",
+        "abanIBraMsizyad",
+        "abanIBraMsizyatAm",
+        "abanIBraMsizyan",
+        "abanIBraMsizyaH",
+        "abanIBraMsizyatam",
+        "abanIBraMsizyata",
+        "abanIBraMsizyam",
+        "abanIBraMsizyAva",
+        "abanIBraMsizyAma"
+      ],
+      "plrut": [
+        "banIBraMsizyati",
+        "banIBraMsizyataH",
+        "banIBraMsizyanti",
+        "banIBraMsizyasi",
+        "banIBraMsizyaTaH",
+        "banIBraMsizyaTa",
+        "banIBraMsizyAmi",
+        "banIBraMsizyAvaH",
+        "banIBraMsizyAmaH"
+      ],
+      "plung": [
+        "abanIBraMsIt",
+        "abanIBraMsId",
+        "abanIBraMsizwAm",
+        "abanIBraMsizuH",
+        "abanIBraMsIH",
+        "abanIBraMsizwam",
+        "abanIBraMsizwa",
+        "abanIBraMsizam",
+        "abanIBraMsizva",
+        "abanIBraMsizma"
+      ],
+      "plut": [
+        "banIBraMsitA",
+        "banIBraMsitArO",
+        "banIBraMsitAraH",
+        "banIBraMsitAsi",
+        "banIBraMsitAsTaH",
+        "banIBraMsitAsTa",
+        "banIBraMsitAsmi",
+        "banIBraMsitAsvaH",
+        "banIBraMsitAsmaH"
+      ],
+      "pvidhiling": [
+        "banIBrasyAt",
+        "banIBrasyAd",
+        "banIBrasyAtAm",
+        "banIBrasyuH",
+        "banIBrasyAH",
+        "banIBrasyAtam",
+        "banIBrasyAta",
+        "banIBrasyAm",
+        "banIBrasyAva",
+        "banIBrasyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "banIBraMsizIzwa",
+        "banIBraMsizIyAstAm",
+        "banIBraMsizIran",
+        "banIBraMsizIzWAH",
+        "banIBraMsizIyAsTAm",
+        "banIBraMsizIDvam",
+        "banIBraMsizIya",
+        "banIBraMsizIvahi",
+        "banIBraMsizImahi"
+      ],
+      "alang": [
+        "abanIBrasyata",
+        "abanIBrasyetAm",
+        "abanIBrasyanta",
+        "abanIBrasyaTAH",
+        "abanIBrasyeTAm",
+        "abanIBrasyaDvam",
+        "abanIBrasye",
+        "abanIBrasyAvahi",
+        "abanIBrasyAmahi"
+      ],
+      "alat": [
+        "banIBrasyate",
+        "banIBrasyete",
+        "banIBrasyante",
+        "banIBrasyase",
+        "banIBrasyeTe",
+        "banIBrasyaDve",
+        "banIBrasye",
+        "banIBrasyAvahe",
+        "banIBrasyAmahe"
+      ],
+      "alit": [
+        "banIBraMsAYcakre",
+        "banIBraMsAmAse",
+        "banIBraMsAmbaBUve",
+        "banIBraMsAYcakrAte",
+        "banIBraMsAmAsAte",
+        "banIBraMsAmbaBUvAte",
+        "banIBraMsAYcakrire",
+        "banIBraMsAmAsire",
+        "banIBraMsAmbaBUvire",
+        "banIBraMsAYcakfze",
+        "banIBraMsAmAsize",
+        "banIBraMsAmbaBUvize",
+        "banIBraMsAYcakrATe",
+        "banIBraMsAmAsATe",
+        "banIBraMsAmbaBUvATe",
+        "banIBraMsAYcakfQve",
+        "banIBraMsAmAsiDve",
+        "banIBraMsAmbaBUviQve",
+        "banIBraMsAYcakre",
+        "banIBraMsAmAhe",
+        "banIBraMsAmbaBUve",
+        "banIBraMsAYcakfvahe",
+        "banIBraMsAmAsivahe",
+        "banIBraMsAmbaBUvivahe",
+        "banIBraMsAYcakfmahe",
+        "banIBraMsAmAsimahe",
+        "banIBraMsAmbaBUvimahe"
+      ],
+      "alot": [
+        "banIBrasyatAm",
+        "banIBrasyetAm",
+        "banIBrasyantAm",
+        "banIBrasyasva",
+        "banIBrasyeTAm",
+        "banIBrasyaDvam",
+        "banIBrasyE",
+        "banIBrasyAvahE",
+        "banIBrasyAmahE"
+      ],
+      "alrung": [
+        "abanIBraMsizyata",
+        "abanIBraMsizyetAm",
+        "abanIBraMsizyanta",
+        "abanIBraMsizyaTAH",
+        "abanIBraMsizyeTAm",
+        "abanIBraMsizyaDvam",
+        "abanIBraMsizye",
+        "abanIBraMsizyAvahi",
+        "abanIBraMsizyAmahi"
+      ],
+      "alrut": [
+        "banIBraMsizyate",
+        "banIBraMsizyete",
+        "banIBraMsizyante",
+        "banIBraMsizyase",
+        "banIBraMsizyeTe",
+        "banIBraMsizyaDve",
+        "banIBraMsizye",
+        "banIBraMsizyAvahe",
+        "banIBraMsizyAmahe"
+      ],
+      "alung": [
+        "abanIBraMsi",
+        "abanIBraMsizAtAm",
+        "abanIBraMsizata",
+        "abanIBraMsizWAH",
+        "abanIBraMsizATAm",
+        "abanIBraMsiDvam",
+        "abanIBraMsizi",
+        "abanIBraMsizvahi",
+        "abanIBraMsizmahi"
+      ],
+      "alut": [
+        "banIBraMsitA",
+        "banIBraMsitArO",
+        "banIBraMsitAraH",
+        "banIBraMsitAse",
+        "banIBraMsitAsATe",
+        "banIBraMsitADve",
+        "banIBraMsitAhe",
+        "banIBraMsitAsvahe",
+        "banIBraMsitAsmahe"
+      ],
+      "avidhiling": [
+        "banIBrasyeta",
+        "banIBrasyeyAtAm",
+        "banIBrasyeran",
+        "banIBrasyeTAH",
+        "banIBrasyeyATAm",
+        "banIBrasyeDvam",
+        "banIBrasyeya",
+        "banIBrasyevahi",
+        "banIBrasyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "BraMsA",
+          "m": "",
+          "f": "BraMsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "BraMsa",
+          "m": "BraMsaH",
+          "f": "BraMsA",
+          "n": "BraMsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "BraMsanIya",
+          "m": "BraMsanIyaH",
+          "f": "BraMsanIyA",
+          "n": "BraMsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "Brasta",
+          "m": "BrastaH",
+          "f": "BrastA",
+          "n": "Brastam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "Brastavat",
+          "m": "BrastavAn",
+          "f": "BrastavatI",
+          "n": "Brastavat/Brastavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "Brasti",
+          "m": "",
+          "f": "BrastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "BrastvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "BraMsitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "baBrasvas",
+          "m": "baBrasvAn",
+          "f": "baBrasuzI",
+          "n": "baBrasvat/baBrasvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "BraMsa",
+          "m": "BraMsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "BraMsamAna",
+          "m": "BraMsamAnaH",
+          "f": "BraMsamAnA",
+          "n": "BraMsamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "BraMsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "BraMsya",
+          "m": "BraMsyaH",
+          "f": "BraMsyA",
+          "n": "BraMsyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "BraMsaka",
+          "m": "BraMsakaH",
+          "f": "BraMsikA",
+          "n": "BraMsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "BraMsitavya",
+          "m": "BraMsitavyaH",
+          "f": "BraMsitavyA",
+          "n": "BraMsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "BraMsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "BraMsitf",
+          "m": "BraMsitA",
+          "f": "BraMsitrI",
+          "n": "BraMsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "BrasyamAna",
+          "m": "BrasyamAnaH",
+          "f": "BrasyamAnA",
+          "n": "BrasyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praBrasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "BraMsana",
+          "m": "",
+          "f": "",
+          "n": "BraMsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "BraMsaka",
+          "m": "BraMsakaH",
+          "f": "BraMsikA",
+          "n": "BraMsakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "BraMsamAna",
+          "m": "BraMsamAnaH",
+          "f": "BraMsamAnA",
+          "n": "BraMsamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "BraMsizyamARa",
+          "m": "BraMsizyamARaH",
+          "f": "BraMsizyamARA",
+          "n": "BraMsizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "BraMsizyamARa",
+          "m": "BraMsizyamARaH",
+          "f": "BraMsizyamARA",
+          "n": "BraMsizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "biBraMsizA",
+          "m": "",
+          "f": "biBraMsizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "biBraMsiza",
+          "m": "biBraMsizaH",
+          "f": "biBraMsizA",
+          "n": "biBraMsizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "biBraMsizaRIya",
+          "m": "biBraMsizaRIyaH",
+          "f": "biBraMsizaRIyA",
+          "n": "biBraMsizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "biBraMsizu",
+          "m": "biBraMsizuH",
+          "f": "biBraMsizuH",
+          "n": "biBraMsizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "biBraMsizita",
+          "m": "biBraMsizitaH",
+          "f": "biBraMsizitA",
+          "n": "biBraMsizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "biBraMsizitavat",
+          "m": "biBraMsizitavAn",
+          "f": "biBraMsizitavatI",
+          "n": "biBraMsizitavat/biBraMsizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "biBraMsizwi",
+          "m": "",
+          "f": "biBraMsizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "biBraMsizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "biBraMsizAmbaBUvas",
+          "m": "biBraMsizAmbaBUvAn",
+          "f": "biBraMsizAmbaBUzI",
+          "n": "biBraMsizAmbaBUvat/biBraMsizAmbaBUvad"
+        },
+        {
+          "base": "biBraMsizAmAsivas",
+          "m": "biBraMsizAmAsivAn",
+          "f": "biBraMsizAmAsyuzI",
+          "n": "biBraMsizAmAsivat/biBraMsizAmAsivad"
+        },
+        {
+          "base": "biBraMsizAYcakfvas",
+          "m": "biBraMsizAYcakfvAn",
+          "f": "biBraMsizAYcakruzI",
+          "n": "biBraMsizAYcakfvat/biBraMsizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "biBraMsiza",
+          "m": "biBraMsizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "biBraMsizamARa",
+          "m": "biBraMsizamARaH",
+          "f": "biBraMsizamARA",
+          "n": "biBraMsizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "biBraMsizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "biBraMsizaka",
+          "m": "biBraMsizakaH",
+          "f": "biBraMsizikA",
+          "n": "biBraMsizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "biBraMsizitavya",
+          "m": "biBraMsizitavyaH",
+          "f": "biBraMsizitavyA",
+          "n": "biBraMsizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "biBraMsizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "biBraMsizitf",
+          "m": "biBraMsizitA",
+          "f": "biBraMsizitrI",
+          "n": "biBraMsizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "biBraMsizyamARa",
+          "m": "biBraMsizyamARaH",
+          "f": "biBraMsizyamARA",
+          "n": "biBraMsizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "biBraMsizya",
+          "m": "biBraMsizyaH",
+          "f": "biBraMsizyA",
+          "n": "biBraMsizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabiBraMsizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "biBraMsizaRa",
+          "m": "",
+          "f": "",
+          "n": "biBraMsizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "biBraMsizaka",
+          "m": "biBraMsizakaH",
+          "f": "biBraMsizikA",
+          "n": "biBraMsizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "biBraMsizamARa",
+          "m": "biBraMsizamARaH",
+          "f": "biBraMsizamARA",
+          "n": "biBraMsizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "biBraMsizizyamARa",
+          "m": "biBraMsizizyamARaH",
+          "f": "biBraMsizizyamARA",
+          "n": "biBraMsizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "biBraMsizizyamARa",
+          "m": "biBraMsizizyamARaH",
+          "f": "biBraMsizizyamARA",
+          "n": "biBraMsizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "BraMsa",
+          "m": "BraMsaH",
+          "f": "BraMsA",
+          "n": "BraMsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "BraMsanIya",
+          "m": "BraMsanIyaH",
+          "f": "BraMsanIyA",
+          "n": "BraMsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "BraMsita",
+          "m": "BraMsitaH",
+          "f": "BraMsitA",
+          "n": "BraMsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "BraMsitavat",
+          "m": "BraMsitavAn",
+          "f": "BraMsitavatI",
+          "n": "BraMsitavat/BraMsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "BraMsti",
+          "m": "",
+          "f": "BraMstiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "BraMsayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "BraMsayAmbaBUvas",
+          "m": "BraMsayAmbaBUvAn",
+          "f": "BraMsayAmbaBUzI",
+          "n": "BraMsayAmbaBUvat/BraMsayAmbaBUvad"
+        },
+        {
+          "base": "BraMsayAmAsivas",
+          "m": "BraMsayAmAsivAn",
+          "f": "BraMsayAmAsyuzI",
+          "n": "BraMsayAmAsivat/BraMsayAmAsivad"
+        },
+        {
+          "base": "BraMsayAYcakfvas",
+          "m": "BraMsayAYcakfvAn",
+          "f": "BraMsayAYcakruzI",
+          "n": "BraMsayAYcakfvat/BraMsayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "BraMsayamAna",
+          "m": "BraMsayamAnaH",
+          "f": "BraMsayamAnA",
+          "n": "BraMsayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "BraMsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "BraMsaka",
+          "m": "BraMsakaH",
+          "f": "BraMsikA",
+          "n": "BraMsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "BraMsayitavya",
+          "m": "BraMsayitavyaH",
+          "f": "BraMsayitavyA",
+          "n": "BraMsayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "BraMsayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "BraMsayitf",
+          "m": "BraMsayitA",
+          "f": "BraMsayitrI",
+          "n": "BraMsayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "BraMsyamAna",
+          "m": "BraMsyamAnaH",
+          "f": "BraMsyamAnA",
+          "n": "BraMsyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "BraMsya",
+          "m": "BraMsyaH",
+          "f": "BraMsyA",
+          "n": "BraMsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praBraMsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "BraMsana",
+          "m": "",
+          "f": "",
+          "n": "BraMsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "BraMsaka",
+          "m": "BraMsakaH",
+          "f": "BraMsikA",
+          "n": "BraMsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "BraMsayat",
+          "m": "BraMsayan",
+          "f": "BraMsayantI",
+          "n": "BraMsayat/BraMsayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "BraMsayamAna",
+          "m": "BraMsayamAnaH",
+          "f": "BraMsayamAnA",
+          "n": "BraMsayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "BraMsizyamARa",
+          "m": "BraMsizyamARaH",
+          "f": "BraMsizyamARA",
+          "n": "BraMsizyamARam"
+        },
+        {
+          "base": "BraMsayizyamARa",
+          "m": "BraMsayizyamARaH",
+          "f": "BraMsayizyamARA",
+          "n": "BraMsayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "BraMsayizyat",
+          "m": "BraMsayizyan",
+          "f": "BraMsayizyatI/BraMsayizyantI",
+          "n": "BraMsayizyat/BraMsayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "BraMsayizyamARa",
+          "m": "BraMsayizyamARaH",
+          "f": "BraMsayizyamARA",
+          "n": "BraMsayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "banIBrasA",
+          "m": "",
+          "f": "banIBrasA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "banIBrasa",
+          "m": "banIBrasaH",
+          "f": "banIBrasA",
+          "n": "banIBrasam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "banIBrasanIya",
+          "m": "banIBrasanIyaH",
+          "f": "banIBrasanIyA",
+          "n": "banIBrasanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "banIBrasita",
+          "m": "banIBrasitaH",
+          "f": "banIBrasitA",
+          "n": "banIBrasitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "banIBrasitavat",
+          "m": "banIBrasitavAn",
+          "f": "banIBrasitavatI",
+          "n": "banIBrasitavat/banIBrasitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "banIBrasti",
+          "m": "",
+          "f": "banIBrastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "banIBrasitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "banIBrasAmbaBUvas",
+          "m": "banIBrasAmbaBUvAn",
+          "f": "banIBrasAmbaBUzI",
+          "n": "banIBrasAmbaBUvat/banIBrasAmbaBUvad"
+        },
+        {
+          "base": "banIBrasAmAsivas",
+          "m": "banIBrasAmAsivAn",
+          "f": "banIBrasAmAsyuzI",
+          "n": "banIBrasAmAsivat/banIBrasAmAsivad"
+        },
+        {
+          "base": "banIBrasAYcakfvas",
+          "m": "banIBrasAYcakfvAn",
+          "f": "banIBrasAYcakruzI",
+          "n": "banIBrasAYcakfvat/banIBrasAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "banIBrasa",
+          "m": "banIBrasaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "banIBrasyamAna",
+          "m": "banIBrasyamAnaH",
+          "f": "banIBrasyamAnA",
+          "n": "banIBrasyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "banIBrasam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "banIBrasaka",
+          "m": "banIBrasakaH",
+          "f": "banIBrasikA",
+          "n": "banIBrasakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "banIBrasitavya",
+          "m": "banIBrasitavyaH",
+          "f": "banIBrasitavyA",
+          "n": "banIBrasitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "banIBrasitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "banIBrasitf",
+          "m": "banIBrasitA",
+          "f": "banIBrasitrI",
+          "n": "banIBrasitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "banIBrasyamAna",
+          "m": "banIBrasyamAnaH",
+          "f": "banIBrasyamAnA",
+          "n": "banIBrasyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "banIBrasya",
+          "m": "banIBrasyaH",
+          "f": "banIBrasyA",
+          "n": "banIBrasyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabanIBrasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "banIBrasana",
+          "m": "",
+          "f": "",
+          "n": "banIBrasanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "banIBrasaka",
+          "m": "banIBrasakaH",
+          "f": "banIBrasikA",
+          "n": "banIBrasakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "banIBrasyamAna",
+          "m": "banIBrasyamAnaH",
+          "f": "banIBrasyamAnA",
+          "n": "banIBrasyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "banIBrasizyamARa",
+          "m": "banIBrasizyamARaH",
+          "f": "banIBrasizyamARA",
+          "n": "banIBrasizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "banIBrasizyamARa",
+          "m": "banIBrasizyamARaH",
+          "f": "banIBrasizyamARA",
+          "n": "banIBrasizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "banIBraMsA",
+          "m": "",
+          "f": "banIBraMsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "banIBraMsa",
+          "m": "banIBraMsaH",
+          "f": "banIBraMsA",
+          "n": "banIBraMsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "banIBraMsanIya",
+          "m": "banIBraMsanIyaH",
+          "f": "banIBraMsanIyA",
+          "n": "banIBraMsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "banIBrasta",
+          "m": "banIBrastaH",
+          "f": "banIBrastA",
+          "n": "banIBrastam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "banIBrastavat",
+          "m": "banIBrastavAn",
+          "f": "banIBrastavatI",
+          "n": "banIBrastavat/banIBrastavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "banIBrasti",
+          "m": "",
+          "f": "banIBrastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "banIBrastvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "banIBraMsitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "banIBraMsAmbaBUvas",
+          "m": "banIBraMsAmbaBUvAn",
+          "f": "banIBraMsAmbaBUzI",
+          "n": "banIBraMsAmbaBUvat/banIBraMsAmbaBUvad"
+        },
+        {
+          "base": "banIBraMsAmAsivas",
+          "m": "banIBraMsAmAsivAn",
+          "f": "banIBraMsAmAsyuzI",
+          "n": "banIBraMsAmAsivat/banIBraMsAmAsivad"
+        },
+        {
+          "base": "banIBraMsAYcakfvas",
+          "m": "banIBraMsAYcakfvAn",
+          "f": "banIBraMsAYcakruzI",
+          "n": "banIBraMsAYcakfvat/banIBraMsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "banIBraMsa",
+          "m": "banIBraMsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "banIBrasAna",
+          "m": "banIBrasAnaH",
+          "f": "banIBrasAnA",
+          "n": "banIBrasAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "banIBraMsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "banIBraMsaka",
+          "m": "banIBraMsakaH",
+          "f": "banIBraMsikA",
+          "n": "banIBraMsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "banIBraMsitavya",
+          "m": "banIBraMsitavyaH",
+          "f": "banIBraMsitavyA",
+          "n": "banIBraMsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "banIBraMsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "banIBraMsitf",
+          "m": "banIBraMsitA",
+          "f": "banIBraMsitrI",
+          "n": "banIBraMsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "banIBrasyamAna",
+          "m": "banIBrasyamAnaH",
+          "f": "banIBrasyamAnA",
+          "n": "banIBrasyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prabanIBrasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "banIBraMsana",
+          "m": "",
+          "f": "",
+          "n": "banIBraMsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "banIBraMsaka",
+          "m": "banIBraMsakaH",
+          "f": "banIBraMsikA",
+          "n": "banIBraMsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "banIBrasat",
+          "m": "banIBrasat/banIBrasad",
+          "f": "banIBrasatI",
+          "n": "banIBrasat/banIBrasad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "banIBraMsizyamARa",
+          "m": "banIBraMsizyamARaH",
+          "f": "banIBraMsizyamARA",
+          "n": "banIBraMsizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "banIBraMsizyat",
+          "m": "banIBraMsizyan",
+          "f": "banIBraMsizyatI/banIBraMsizyantI",
+          "n": "banIBraMsizyat/banIBraMsizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "BraMs",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

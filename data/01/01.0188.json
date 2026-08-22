@@ -1,0 +1,7359 @@
+{
+  "id": "01.0188",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "locf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "darSane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to see,to perceive"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "deKanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "' RO locayati BAzArTe darSane Sapi locane ' (Slo.46) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "164"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "164"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2290",
+      "ext_link": "/sutraani/sk2290?scroll=sutra-commentary-kaumudi-region&highlight=laocaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "locizIzwa",
+        "locizIyAstAm",
+        "locizIran",
+        "locizIzWAH",
+        "locizIyAsTAm",
+        "locizIDvam",
+        "locizIya",
+        "locizIvahi",
+        "locizImahi"
+      ],
+      "alang": [
+        "alocata",
+        "alocetAm",
+        "alocanta",
+        "alocaTAH",
+        "aloceTAm",
+        "alocaDvam",
+        "aloce",
+        "alocAvahi",
+        "alocAmahi"
+      ],
+      "alat": [
+        "locate",
+        "locete",
+        "locante",
+        "locase",
+        "loceTe",
+        "locaDve",
+        "loce",
+        "locAvahe",
+        "locAmahe"
+      ],
+      "alit": [
+        "luloce",
+        "lulocAte",
+        "lulocire",
+        "lulocize",
+        "lulocATe",
+        "lulociDve",
+        "luloce",
+        "lulocivahe",
+        "lulocimahe"
+      ],
+      "alot": [
+        "locatAm",
+        "locetAm",
+        "locantAm",
+        "locasva",
+        "loceTAm",
+        "locaDvam",
+        "locE",
+        "locAvahE",
+        "locAmahE"
+      ],
+      "alrung": [
+        "alocizyata",
+        "alocizyetAm",
+        "alocizyanta",
+        "alocizyaTAH",
+        "alocizyeTAm",
+        "alocizyaDvam",
+        "alocizye",
+        "alocizyAvahi",
+        "alocizyAmahi"
+      ],
+      "alrut": [
+        "locizyate",
+        "locizyete",
+        "locizyante",
+        "locizyase",
+        "locizyeTe",
+        "locizyaDve",
+        "locizye",
+        "locizyAvahe",
+        "locizyAmahe"
+      ],
+      "alung": [
+        "alocizwa",
+        "alocizAtAm",
+        "alocizata",
+        "alocizWAH",
+        "alocizATAm",
+        "alociDvam",
+        "alocizi",
+        "alocizvahi",
+        "alocizmahi"
+      ],
+      "alut": [
+        "locitA",
+        "locitArO",
+        "locitAraH",
+        "locitAse",
+        "locitAsATe",
+        "locitADve",
+        "locitAhe",
+        "locitAsvahe",
+        "locitAsmahe"
+      ],
+      "avidhiling": [
+        "loceta",
+        "loceyAtAm",
+        "loceran",
+        "loceTAH",
+        "loceyATAm",
+        "loceDvam",
+        "loceya",
+        "locevahi",
+        "locemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "locizIzwa",
+        "locizIyAstAm",
+        "locizIran",
+        "locizIzWAH",
+        "locizIyAsTAm",
+        "locizIDvam",
+        "locizIya",
+        "locizIvahi",
+        "locizImahi"
+      ],
+      "alang": [
+        "alocyata",
+        "alocyetAm",
+        "alocyanta",
+        "alocyaTAH",
+        "alocyeTAm",
+        "alocyaDvam",
+        "alocye",
+        "alocyAvahi",
+        "alocyAmahi"
+      ],
+      "alat": [
+        "locyate",
+        "locyete",
+        "locyante",
+        "locyase",
+        "locyeTe",
+        "locyaDve",
+        "locye",
+        "locyAvahe",
+        "locyAmahe"
+      ],
+      "alit": [
+        "luloce",
+        "lulocAte",
+        "lulocire",
+        "lulocize",
+        "lulocATe",
+        "lulociDve",
+        "luloce",
+        "lulocivahe",
+        "lulocimahe"
+      ],
+      "alot": [
+        "locyatAm",
+        "locyetAm",
+        "locyantAm",
+        "locyasva",
+        "locyeTAm",
+        "locyaDvam",
+        "locyE",
+        "locyAvahE",
+        "locyAmahE"
+      ],
+      "alrung": [
+        "alocizyata",
+        "alocizyetAm",
+        "alocizyanta",
+        "alocizyaTAH",
+        "alocizyeTAm",
+        "alocizyaDvam",
+        "alocizye",
+        "alocizyAvahi",
+        "alocizyAmahi"
+      ],
+      "alrut": [
+        "locizyate",
+        "locizyete",
+        "locizyante",
+        "locizyase",
+        "locizyeTe",
+        "locizyaDve",
+        "locizye",
+        "locizyAvahe",
+        "locizyAmahe"
+      ],
+      "alung": [
+        "aloci",
+        "alocizAtAm",
+        "alocizata",
+        "alocizWAH",
+        "alocizATAm",
+        "alociDvam",
+        "alocizi",
+        "alocizvahi",
+        "alocizmahi"
+      ],
+      "alut": [
+        "locitA",
+        "locitArO",
+        "locitAraH",
+        "locitAse",
+        "locitAsATe",
+        "locitADve",
+        "locitAhe",
+        "locitAsvahe",
+        "locitAsmahe"
+      ],
+      "avidhiling": [
+        "locyeta",
+        "locyeyAtAm",
+        "locyeran",
+        "locyeTAH",
+        "locyeyATAm",
+        "locyeDvam",
+        "locyeya",
+        "locyevahi",
+        "locyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "lulocizizIzwa",
+        "lulocizizIyAstAm",
+        "lulocizizIran",
+        "lulocizizIzWAH",
+        "lulocizizIyAsTAm",
+        "lulocizizIDvam",
+        "lulocizizIya",
+        "lulocizizIvahi",
+        "lulocizizImahi"
+      ],
+      "alang": [
+        "alulocizata",
+        "alulocizetAm",
+        "alulocizanta",
+        "alulocizaTAH",
+        "alulocizeTAm",
+        "alulocizaDvam",
+        "alulocize",
+        "alulocizAvahi",
+        "alulocizAmahi"
+      ],
+      "alat": [
+        "lulocizate",
+        "lulocizete",
+        "lulocizante",
+        "lulocizase",
+        "lulocizeTe",
+        "lulocizaDve",
+        "lulocize",
+        "lulocizAvahe",
+        "lulocizAmahe"
+      ],
+      "alit": [
+        "lulocizAYcakre",
+        "lulocizAmAsa",
+        "lulocizAmbaBUva",
+        "lulocizAYcakrAte",
+        "lulocizAmAsatuH",
+        "lulocizAmbaBUvatuH",
+        "lulocizAYcakrire",
+        "lulocizAmAsuH",
+        "lulocizAmbaBUvuH",
+        "lulocizAYcakfze",
+        "lulocizAmAsiTa",
+        "lulocizAmbaBUviTa",
+        "lulocizAYcakrATe",
+        "lulocizAmAsaTuH",
+        "lulocizAmbaBUvaTuH",
+        "lulocizAYcakfQve",
+        "lulocizAmAsa",
+        "lulocizAmbaBUva",
+        "lulocizAYcakre",
+        "lulocizAmAsa",
+        "lulocizAmbaBUva",
+        "lulocizAYcakfvahe",
+        "lulocizAmAsiva",
+        "lulocizAmbaBUviva",
+        "lulocizAYcakfmahe",
+        "lulocizAmAsima",
+        "lulocizAmbaBUvima"
+      ],
+      "alot": [
+        "lulocizatAm",
+        "lulocizetAm",
+        "lulocizantAm",
+        "lulocizasva",
+        "lulocizeTAm",
+        "lulocizaDvam",
+        "lulocizE",
+        "lulocizAvahE",
+        "lulocizAmahE"
+      ],
+      "alrung": [
+        "alulocizizyata",
+        "alulocizizyetAm",
+        "alulocizizyanta",
+        "alulocizizyaTAH",
+        "alulocizizyeTAm",
+        "alulocizizyaDvam",
+        "alulocizizye",
+        "alulocizizyAvahi",
+        "alulocizizyAmahi"
+      ],
+      "alrut": [
+        "lulocizizyate",
+        "lulocizizyete",
+        "lulocizizyante",
+        "lulocizizyase",
+        "lulocizizyeTe",
+        "lulocizizyaDve",
+        "lulocizizye",
+        "lulocizizyAvahe",
+        "lulocizizyAmahe"
+      ],
+      "alung": [
+        "alulocizizwa",
+        "alulocizizAtAm",
+        "alulocizizata",
+        "alulocizizWAH",
+        "alulocizizATAm",
+        "alulociziDvam",
+        "alulocizizi",
+        "alulocizizvahi",
+        "alulocizizmahi"
+      ],
+      "alut": [
+        "lulocizitA",
+        "lulocizitArO",
+        "lulocizitAraH",
+        "lulocizitAse",
+        "lulocizitAsATe",
+        "lulocizitADve",
+        "lulocizitAhe",
+        "lulocizitAsvahe",
+        "lulocizitAsmahe"
+      ],
+      "avidhiling": [
+        "lulocizeta",
+        "lulocizeyAtAm",
+        "lulocizeran",
+        "lulocizeTAH",
+        "lulocizeyATAm",
+        "lulocizeDvam",
+        "lulocizeya",
+        "lulocizevahi",
+        "lulocizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "lulocizizIzwa",
+        "lulocizizIyAstAm",
+        "lulocizizIran",
+        "lulocizizIzWAH",
+        "lulocizizIyAsTAm",
+        "lulocizizIDvam",
+        "lulocizizIya",
+        "lulocizizIvahi",
+        "lulocizizImahi"
+      ],
+      "alang": [
+        "alulocizyata",
+        "alulocizyetAm",
+        "alulocizyanta",
+        "alulocizyaTAH",
+        "alulocizyeTAm",
+        "alulocizyaDvam",
+        "alulocizye",
+        "alulocizyAvahi",
+        "alulocizyAmahi"
+      ],
+      "alat": [
+        "lulocizyate",
+        "lulocizyete",
+        "lulocizyante",
+        "lulocizyase",
+        "lulocizyeTe",
+        "lulocizyaDve",
+        "lulocizye",
+        "lulocizyAvahe",
+        "lulocizyAmahe"
+      ],
+      "alit": [
+        "lulocizAYcakre",
+        "lulocizAmAse",
+        "lulocizAmbaBUve",
+        "lulocizAYcakrAte",
+        "lulocizAmAsAte",
+        "lulocizAmbaBUvAte",
+        "lulocizAYcakrire",
+        "lulocizAmAsire",
+        "lulocizAmbaBUvire",
+        "lulocizAYcakfze",
+        "lulocizAmAsize",
+        "lulocizAmbaBUvize",
+        "lulocizAYcakrATe",
+        "lulocizAmAsATe",
+        "lulocizAmbaBUvATe",
+        "lulocizAYcakfQve",
+        "lulocizAmAsiDve",
+        "lulocizAmbaBUviQve",
+        "lulocizAYcakre",
+        "lulocizAmAhe",
+        "lulocizAmbaBUve",
+        "lulocizAYcakfvahe",
+        "lulocizAmAsivahe",
+        "lulocizAmbaBUvivahe",
+        "lulocizAYcakfmahe",
+        "lulocizAmAsimahe",
+        "lulocizAmbaBUvimahe"
+      ],
+      "alot": [
+        "lulocizyatAm",
+        "lulocizyetAm",
+        "lulocizyantAm",
+        "lulocizyasva",
+        "lulocizyeTAm",
+        "lulocizyaDvam",
+        "lulocizyE",
+        "lulocizyAvahE",
+        "lulocizyAmahE"
+      ],
+      "alrung": [
+        "alulocizizyata",
+        "alulocizizyetAm",
+        "alulocizizyanta",
+        "alulocizizyaTAH",
+        "alulocizizyeTAm",
+        "alulocizizyaDvam",
+        "alulocizizye",
+        "alulocizizyAvahi",
+        "alulocizizyAmahi"
+      ],
+      "alrut": [
+        "lulocizizyate",
+        "lulocizizyete",
+        "lulocizizyante",
+        "lulocizizyase",
+        "lulocizizyeTe",
+        "lulocizizyaDve",
+        "lulocizizye",
+        "lulocizizyAvahe",
+        "lulocizizyAmahe"
+      ],
+      "alung": [
+        "alulocizi",
+        "alulocizizAtAm",
+        "alulocizizata",
+        "alulocizizWAH",
+        "alulocizizATAm",
+        "alulociziDvam",
+        "alulocizizi",
+        "alulocizizvahi",
+        "alulocizizmahi"
+      ],
+      "alut": [
+        "lulocizitA",
+        "lulocizitArO",
+        "lulocizitAraH",
+        "lulocizitAse",
+        "lulocizitAsATe",
+        "lulocizitADve",
+        "lulocizitAhe",
+        "lulocizitAsvahe",
+        "lulocizitAsmahe"
+      ],
+      "avidhiling": [
+        "lulocizyeta",
+        "lulocizyeyAtAm",
+        "lulocizyeran",
+        "lulocizyeTAH",
+        "lulocizyeyATAm",
+        "lulocizyeDvam",
+        "lulocizyeya",
+        "lulocizyevahi",
+        "lulocizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "locayizIzwa",
+        "locayizIyAstAm",
+        "locayizIran",
+        "locayizIzWAH",
+        "locayizIyAsTAm",
+        "locayizIQvam",
+        "locayizIDvam",
+        "locayizIya",
+        "locayizIvahi",
+        "locayizImahi"
+      ],
+      "alang": [
+        "alocayata",
+        "alocayetAm",
+        "alocayanta",
+        "alocayaTAH",
+        "alocayeTAm",
+        "alocayaDvam",
+        "alocaye",
+        "alocayAvahi",
+        "alocayAmahi"
+      ],
+      "alat": [
+        "locayate",
+        "locayete",
+        "locayante",
+        "locayase",
+        "locayeTe",
+        "locayaDve",
+        "locaye",
+        "locayAvahe",
+        "locayAmahe"
+      ],
+      "alit": [
+        "locayAYcakre",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakrAte",
+        "locayAmAsatuH",
+        "locayAmbaBUvatuH",
+        "locayAYcakrire",
+        "locayAmAsuH",
+        "locayAmbaBUvuH",
+        "locayAYcakfze",
+        "locayAmAsiTa",
+        "locayAmbaBUviTa",
+        "locayAYcakrATe",
+        "locayAmAsaTuH",
+        "locayAmbaBUvaTuH",
+        "locayAYcakfQve",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakre",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakfvahe",
+        "locayAmAsiva",
+        "locayAmbaBUviva",
+        "locayAYcakfmahe",
+        "locayAmAsima",
+        "locayAmbaBUvima"
+      ],
+      "alot": [
+        "locayatAm",
+        "locayetAm",
+        "locayantAm",
+        "locayasva",
+        "locayeTAm",
+        "locayaDvam",
+        "locayE",
+        "locayAvahE",
+        "locayAmahE"
+      ],
+      "alrung": [
+        "alocayizyata",
+        "alocayizyetAm",
+        "alocayizyanta",
+        "alocayizyaTAH",
+        "alocayizyeTAm",
+        "alocayizyaDvam",
+        "alocayizye",
+        "alocayizyAvahi",
+        "alocayizyAmahi"
+      ],
+      "alrut": [
+        "locayizyate",
+        "locayizyete",
+        "locayizyante",
+        "locayizyase",
+        "locayizyeTe",
+        "locayizyaDve",
+        "locayizye",
+        "locayizyAvahe",
+        "locayizyAmahe"
+      ],
+      "alung": [
+        "alulocata",
+        "alulocetAm",
+        "alulocanta",
+        "alulocaTAH",
+        "aluloceTAm",
+        "alulocaDvam",
+        "aluloce",
+        "alulocAvahi",
+        "alulocAmahi"
+      ],
+      "alut": [
+        "locayitA",
+        "locayitArO",
+        "locayitAraH",
+        "locayitAse",
+        "locayitAsATe",
+        "locayitADve",
+        "locayitAhe",
+        "locayitAsvahe",
+        "locayitAsmahe"
+      ],
+      "avidhiling": [
+        "locayeta",
+        "locayeyAtAm",
+        "locayeran",
+        "locayeTAH",
+        "locayeyATAm",
+        "locayeDvam",
+        "locayeya",
+        "locayevahi",
+        "locayemahi"
+      ],
+      "pashirling": [
+        "locyAt",
+        "locyAd",
+        "locyAstAm",
+        "locyAsuH",
+        "locyAH",
+        "locyAstam",
+        "locyAsta",
+        "locyAsam",
+        "locyAsva",
+        "locyAsma"
+      ],
+      "plang": [
+        "alocayat",
+        "alocayad",
+        "alocayatAm",
+        "alocayan",
+        "alocayaH",
+        "alocayatam",
+        "alocayata",
+        "alocayam",
+        "alocayAva",
+        "alocayAma"
+      ],
+      "plat": [
+        "locayati",
+        "locayataH",
+        "locayanti",
+        "locayasi",
+        "locayaTaH",
+        "locayaTa",
+        "locayAmi",
+        "locayAvaH",
+        "locayAmaH"
+      ],
+      "plit": [
+        "locayAYcakAra",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakratuH",
+        "locayAmAsatuH",
+        "locayAmbaBUvatuH",
+        "locayAYcakruH",
+        "locayAmAsuH",
+        "locayAmbaBUvuH",
+        "locayAYcakarTa",
+        "locayAmAsiTa",
+        "locayAmbaBUviTa",
+        "locayAYcakraTuH",
+        "locayAmAsaTuH",
+        "locayAmbaBUvaTuH",
+        "locayAYcakra",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakara",
+        "locayAYcakAra",
+        "locayAmAsa",
+        "locayAmbaBUva",
+        "locayAYcakfva",
+        "locayAmAsiva",
+        "locayAmbaBUviva",
+        "locayAYcakfma",
+        "locayAmAsima",
+        "locayAmbaBUvima"
+      ],
+      "plot": [
+        "locayatAt",
+        "locayatAd",
+        "locayatu",
+        "locayatAm",
+        "locayantu",
+        "locaya",
+        "locayatAt",
+        "locayatAd",
+        "locayatam",
+        "locayata",
+        "locayAni",
+        "locayAva",
+        "locayAma"
+      ],
+      "plrung": [
+        "alocayizyat",
+        "alocayizyad",
+        "alocayizyatAm",
+        "alocayizyan",
+        "alocayizyaH",
+        "alocayizyatam",
+        "alocayizyata",
+        "alocayizyam",
+        "alocayizyAva",
+        "alocayizyAma"
+      ],
+      "plrut": [
+        "locayizyati",
+        "locayizyataH",
+        "locayizyanti",
+        "locayizyasi",
+        "locayizyaTaH",
+        "locayizyaTa",
+        "locayizyAmi",
+        "locayizyAvaH",
+        "locayizyAmaH"
+      ],
+      "plung": [
+        "alulocat",
+        "alulocad",
+        "alulocatAm",
+        "alulocan",
+        "alulocaH",
+        "alulocatam",
+        "alulocata",
+        "alulocam",
+        "alulocAva",
+        "alulocAma"
+      ],
+      "plut": [
+        "locayitA",
+        "locayitArO",
+        "locayitAraH",
+        "locayitAsi",
+        "locayitAsTaH",
+        "locayitAsTa",
+        "locayitAsmi",
+        "locayitAsvaH",
+        "locayitAsmaH"
+      ],
+      "pvidhiling": [
+        "locayet",
+        "locayed",
+        "locayetAm",
+        "locayeyuH",
+        "locayeH",
+        "locayetam",
+        "locayeta",
+        "locayeyam",
+        "locayeva",
+        "locayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "locayizIzwa",
+        "locizIzwa",
+        "locayizIyAstAm",
+        "locizIyAstAm",
+        "locayizIran",
+        "locizIran",
+        "locayizIzWAH",
+        "locizIzWAH",
+        "locayizIyAsTAm",
+        "locizIyAsTAm",
+        "locayizIQvam",
+        "locayizIDvam",
+        "locizIDvam",
+        "locayizIya",
+        "locizIya",
+        "locayizIvahi",
+        "locizIvahi",
+        "locayizImahi",
+        "locizImahi"
+      ],
+      "alang": [
+        "alocyata",
+        "alocyetAm",
+        "alocyanta",
+        "alocyaTAH",
+        "alocyeTAm",
+        "alocyaDvam",
+        "alocye",
+        "alocyAvahi",
+        "alocyAmahi"
+      ],
+      "alat": [
+        "locyate",
+        "locyete",
+        "locyante",
+        "locyase",
+        "locyeTe",
+        "locyaDve",
+        "locye",
+        "locyAvahe",
+        "locyAmahe"
+      ],
+      "alit": [
+        "locayAYcakre",
+        "locayAmAse",
+        "locayAmbaBUve",
+        "locayAYcakrAte",
+        "locayAmAsAte",
+        "locayAmbaBUvAte",
+        "locayAYcakrire",
+        "locayAmAsire",
+        "locayAmbaBUvire",
+        "locayAYcakfze",
+        "locayAmAsize",
+        "locayAmbaBUvize",
+        "locayAYcakrATe",
+        "locayAmAsATe",
+        "locayAmbaBUvATe",
+        "locayAYcakfQve",
+        "locayAmAsiDve",
+        "locayAmbaBUviQve",
+        "locayAYcakre",
+        "locayAmAhe",
+        "locayAmbaBUve",
+        "locayAYcakfvahe",
+        "locayAmAsivahe",
+        "locayAmbaBUvivahe",
+        "locayAYcakfmahe",
+        "locayAmAsimahe",
+        "locayAmbaBUvimahe"
+      ],
+      "alot": [
+        "locyatAm",
+        "locyetAm",
+        "locyantAm",
+        "locyasva",
+        "locyeTAm",
+        "locyaDvam",
+        "locyE",
+        "locyAvahE",
+        "locyAmahE"
+      ],
+      "alrung": [
+        "alocayizyata",
+        "alocizyata",
+        "alocayizyetAm",
+        "alocizyetAm",
+        "alocayizyanta",
+        "alocizyanta",
+        "alocayizyaTAH",
+        "alocizyaTAH",
+        "alocayizyeTAm",
+        "alocizyeTAm",
+        "alocayizyaDvam",
+        "alocizyaDvam",
+        "alocayizye",
+        "alocizye",
+        "alocayizyAvahi",
+        "alocizyAvahi",
+        "alocayizyAmahi",
+        "alocizyAmahi"
+      ],
+      "alrut": [
+        "locayizyate",
+        "locizyate",
+        "locayizyete",
+        "locizyete",
+        "locayizyante",
+        "locizyante",
+        "locayizyase",
+        "locizyase",
+        "locayizyeTe",
+        "locizyeTe",
+        "locayizyaDve",
+        "locizyaDve",
+        "locayizye",
+        "locizye",
+        "locayizyAvahe",
+        "locizyAvahe",
+        "locayizyAmahe",
+        "locizyAmahe"
+      ],
+      "alung": [
+        "aloci",
+        "alocayizAtAm",
+        "alocizAtAm",
+        "alocayizata",
+        "alocizata",
+        "alocayizWAH",
+        "alocizWAH",
+        "alocayizATAm",
+        "alocizATAm",
+        "alocayiQvam",
+        "alocayiDvam",
+        "alociDvam",
+        "alocayizi",
+        "alocizi",
+        "alocayizvahi",
+        "alocizvahi",
+        "alocayizmahi",
+        "alocizmahi"
+      ],
+      "alut": [
+        "locayitA",
+        "locitA",
+        "locayitArO",
+        "locitArO",
+        "locayitAraH",
+        "locitAraH",
+        "locayitAse",
+        "locitAse",
+        "locayitAsATe",
+        "locitAsATe",
+        "locayitADve",
+        "locitADve",
+        "locayitAhe",
+        "locitAhe",
+        "locayitAsvahe",
+        "locitAsvahe",
+        "locayitAsmahe",
+        "locitAsmahe"
+      ],
+      "avidhiling": [
+        "locyeta",
+        "locyeyAtAm",
+        "locyeran",
+        "locyeTAH",
+        "locyeyATAm",
+        "locyeDvam",
+        "locyeya",
+        "locyevahi",
+        "locyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "lolocizIzwa",
+        "lolocizIyAstAm",
+        "lolocizIran",
+        "lolocizIzWAH",
+        "lolocizIyAsTAm",
+        "lolocizIDvam",
+        "lolocizIya",
+        "lolocizIvahi",
+        "lolocizImahi"
+      ],
+      "alang": [
+        "alolocyata",
+        "alolocyetAm",
+        "alolocyanta",
+        "alolocyaTAH",
+        "alolocyeTAm",
+        "alolocyaDvam",
+        "alolocye",
+        "alolocyAvahi",
+        "alolocyAmahi"
+      ],
+      "alat": [
+        "lolocyate",
+        "lolocyete",
+        "lolocyante",
+        "lolocyase",
+        "lolocyeTe",
+        "lolocyaDve",
+        "lolocye",
+        "lolocyAvahe",
+        "lolocyAmahe"
+      ],
+      "alit": [
+        "lolocAYcakre",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakrAte",
+        "lolocAmAsatuH",
+        "lolocAmbaBUvatuH",
+        "lolocAYcakrire",
+        "lolocAmAsuH",
+        "lolocAmbaBUvuH",
+        "lolocAYcakfze",
+        "lolocAmAsiTa",
+        "lolocAmbaBUviTa",
+        "lolocAYcakrATe",
+        "lolocAmAsaTuH",
+        "lolocAmbaBUvaTuH",
+        "lolocAYcakfQve",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakre",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakfvahe",
+        "lolocAmAsiva",
+        "lolocAmbaBUviva",
+        "lolocAYcakfmahe",
+        "lolocAmAsima",
+        "lolocAmbaBUvima"
+      ],
+      "alot": [
+        "lolocyatAm",
+        "lolocyetAm",
+        "lolocyantAm",
+        "lolocyasva",
+        "lolocyeTAm",
+        "lolocyaDvam",
+        "lolocyE",
+        "lolocyAvahE",
+        "lolocyAmahE"
+      ],
+      "alrung": [
+        "alolocizyata",
+        "alolocizyetAm",
+        "alolocizyanta",
+        "alolocizyaTAH",
+        "alolocizyeTAm",
+        "alolocizyaDvam",
+        "alolocizye",
+        "alolocizyAvahi",
+        "alolocizyAmahi"
+      ],
+      "alrut": [
+        "lolocizyate",
+        "lolocizyete",
+        "lolocizyante",
+        "lolocizyase",
+        "lolocizyeTe",
+        "lolocizyaDve",
+        "lolocizye",
+        "lolocizyAvahe",
+        "lolocizyAmahe"
+      ],
+      "alung": [
+        "alolocizwa",
+        "alolocizAtAm",
+        "alolocizata",
+        "alolocizWAH",
+        "alolocizATAm",
+        "alolociDvam",
+        "alolocizi",
+        "alolocizvahi",
+        "alolocizmahi"
+      ],
+      "alut": [
+        "lolocitA",
+        "lolocitArO",
+        "lolocitAraH",
+        "lolocitAse",
+        "lolocitAsATe",
+        "lolocitADve",
+        "lolocitAhe",
+        "lolocitAsvahe",
+        "lolocitAsmahe"
+      ],
+      "avidhiling": [
+        "lolocyeta",
+        "lolocyeyAtAm",
+        "lolocyeran",
+        "lolocyeTAH",
+        "lolocyeyATAm",
+        "lolocyeDvam",
+        "lolocyeya",
+        "lolocyevahi",
+        "lolocyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "lolocizIzwa",
+        "lolocizIyAstAm",
+        "lolocizIran",
+        "lolocizIzWAH",
+        "lolocizIyAsTAm",
+        "lolocizIDvam",
+        "lolocizIya",
+        "lolocizIvahi",
+        "lolocizImahi"
+      ],
+      "alang": [
+        "alolocyata",
+        "alolocyetAm",
+        "alolocyanta",
+        "alolocyaTAH",
+        "alolocyeTAm",
+        "alolocyaDvam",
+        "alolocye",
+        "alolocyAvahi",
+        "alolocyAmahi"
+      ],
+      "alat": [
+        "lolocyate",
+        "lolocyete",
+        "lolocyante",
+        "lolocyase",
+        "lolocyeTe",
+        "lolocyaDve",
+        "lolocye",
+        "lolocyAvahe",
+        "lolocyAmahe"
+      ],
+      "alit": [
+        "lolocAYcakre",
+        "lolocAmAse",
+        "lolocAmbaBUve",
+        "lolocAYcakrAte",
+        "lolocAmAsAte",
+        "lolocAmbaBUvAte",
+        "lolocAYcakrire",
+        "lolocAmAsire",
+        "lolocAmbaBUvire",
+        "lolocAYcakfze",
+        "lolocAmAsize",
+        "lolocAmbaBUvize",
+        "lolocAYcakrATe",
+        "lolocAmAsATe",
+        "lolocAmbaBUvATe",
+        "lolocAYcakfQve",
+        "lolocAmAsiDve",
+        "lolocAmbaBUviQve",
+        "lolocAYcakre",
+        "lolocAmAhe",
+        "lolocAmbaBUve",
+        "lolocAYcakfvahe",
+        "lolocAmAsivahe",
+        "lolocAmbaBUvivahe",
+        "lolocAYcakfmahe",
+        "lolocAmAsimahe",
+        "lolocAmbaBUvimahe"
+      ],
+      "alot": [
+        "lolocyatAm",
+        "lolocyetAm",
+        "lolocyantAm",
+        "lolocyasva",
+        "lolocyeTAm",
+        "lolocyaDvam",
+        "lolocyE",
+        "lolocyAvahE",
+        "lolocyAmahE"
+      ],
+      "alrung": [
+        "alolocizyata",
+        "alolocizyetAm",
+        "alolocizyanta",
+        "alolocizyaTAH",
+        "alolocizyeTAm",
+        "alolocizyaDvam",
+        "alolocizye",
+        "alolocizyAvahi",
+        "alolocizyAmahi"
+      ],
+      "alrut": [
+        "lolocizyate",
+        "lolocizyete",
+        "lolocizyante",
+        "lolocizyase",
+        "lolocizyeTe",
+        "lolocizyaDve",
+        "lolocizye",
+        "lolocizyAvahe",
+        "lolocizyAmahe"
+      ],
+      "alung": [
+        "aloloci",
+        "alolocizAtAm",
+        "alolocizata",
+        "alolocizWAH",
+        "alolocizATAm",
+        "alolociDvam",
+        "alolocizi",
+        "alolocizvahi",
+        "alolocizmahi"
+      ],
+      "alut": [
+        "lolocitA",
+        "lolocitArO",
+        "lolocitAraH",
+        "lolocitAse",
+        "lolocitAsATe",
+        "lolocitADve",
+        "lolocitAhe",
+        "lolocitAsvahe",
+        "lolocitAsmahe"
+      ],
+      "avidhiling": [
+        "lolocyeta",
+        "lolocyeyAtAm",
+        "lolocyeran",
+        "lolocyeTAH",
+        "lolocyeyATAm",
+        "lolocyeDvam",
+        "lolocyeya",
+        "lolocyevahi",
+        "lolocyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "lolocyAt",
+        "lolocyAd",
+        "lolocyAstAm",
+        "lolocyAsuH",
+        "lolocyAH",
+        "lolocyAstam",
+        "lolocyAsta",
+        "lolocyAsam",
+        "lolocyAsva",
+        "lolocyAsma"
+      ],
+      "plang": [
+        "alolok",
+        "alolog",
+        "alolocIt",
+        "alolocId",
+        "aloloktAm",
+        "alolocuH",
+        "alolok",
+        "alolog",
+        "alolocIH",
+        "aloloktam",
+        "alolokta",
+        "alolocam",
+        "alolocva",
+        "alolocma"
+      ],
+      "plat": [
+        "lolokti",
+        "lolocIti",
+        "loloktaH",
+        "lolocati",
+        "lolokzi",
+        "lolocIzi",
+        "lolokTaH",
+        "lolokTa",
+        "lolocImi",
+        "lolocmi",
+        "lolocvaH",
+        "lolocmaH"
+      ],
+      "plit": [
+        "lolocAYcakAra",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakratuH",
+        "lolocAmAsatuH",
+        "lolocAmbaBUvatuH",
+        "lolocAYcakruH",
+        "lolocAmAsuH",
+        "lolocAmbaBUvuH",
+        "lolocAYcakarTa",
+        "lolocAmAsiTa",
+        "lolocAmbaBUviTa",
+        "lolocAYcakraTuH",
+        "lolocAmAsaTuH",
+        "lolocAmbaBUvaTuH",
+        "lolocAYcakra",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakara",
+        "lolocAYcakAra",
+        "lolocAmAsa",
+        "lolocAmbaBUva",
+        "lolocAYcakfva",
+        "lolocAmAsiva",
+        "lolocAmbaBUviva",
+        "lolocAYcakfma",
+        "lolocAmAsima",
+        "lolocAmbaBUvima"
+      ],
+      "plot": [
+        "loloktAt",
+        "loloktAd",
+        "loloktu",
+        "lolocItu",
+        "loloktAm",
+        "lolocatu",
+        "loloktAt",
+        "loloktAd",
+        "lologDi",
+        "loloktam",
+        "lolokta",
+        "lolocAni",
+        "lolocAva",
+        "lolocAma"
+      ],
+      "plrung": [
+        "alolocizyat",
+        "alolocizyad",
+        "alolocizyatAm",
+        "alolocizyan",
+        "alolocizyaH",
+        "alolocizyatam",
+        "alolocizyata",
+        "alolocizyam",
+        "alolocizyAva",
+        "alolocizyAma"
+      ],
+      "plrut": [
+        "lolocizyati",
+        "lolocizyataH",
+        "lolocizyanti",
+        "lolocizyasi",
+        "lolocizyaTaH",
+        "lolocizyaTa",
+        "lolocizyAmi",
+        "lolocizyAvaH",
+        "lolocizyAmaH"
+      ],
+      "plung": [
+        "alolocIt",
+        "alolocId",
+        "alolocizwAm",
+        "alolocizuH",
+        "alolocIH",
+        "alolocizwam",
+        "alolocizwa",
+        "alolocizam",
+        "alolocizva",
+        "alolocizma"
+      ],
+      "plut": [
+        "lolocitA",
+        "lolocitArO",
+        "lolocitAraH",
+        "lolocitAsi",
+        "lolocitAsTaH",
+        "lolocitAsTa",
+        "lolocitAsmi",
+        "lolocitAsvaH",
+        "lolocitAsmaH"
+      ],
+      "pvidhiling": [
+        "lolocyAt",
+        "lolocyAd",
+        "lolocyAtAm",
+        "lolocyuH",
+        "lolocyAH",
+        "lolocyAtam",
+        "lolocyAta",
+        "lolocyAm",
+        "lolocyAva",
+        "lolocyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "lolocizIzwa",
+        "lolocizIyAstAm",
+        "lolocizIran",
+        "lolocizIzWAH",
+        "lolocizIyAsTAm",
+        "lolocizIDvam",
+        "lolocizIya",
+        "lolocizIvahi",
+        "lolocizImahi"
+      ],
+      "alang": [
+        "alolocyata",
+        "alolocyetAm",
+        "alolocyanta",
+        "alolocyaTAH",
+        "alolocyeTAm",
+        "alolocyaDvam",
+        "alolocye",
+        "alolocyAvahi",
+        "alolocyAmahi"
+      ],
+      "alat": [
+        "lolocyate",
+        "lolocyete",
+        "lolocyante",
+        "lolocyase",
+        "lolocyeTe",
+        "lolocyaDve",
+        "lolocye",
+        "lolocyAvahe",
+        "lolocyAmahe"
+      ],
+      "alit": [
+        "lolocAYcakre",
+        "lolocAmAse",
+        "lolocAmbaBUve",
+        "lolocAYcakrAte",
+        "lolocAmAsAte",
+        "lolocAmbaBUvAte",
+        "lolocAYcakrire",
+        "lolocAmAsire",
+        "lolocAmbaBUvire",
+        "lolocAYcakfze",
+        "lolocAmAsize",
+        "lolocAmbaBUvize",
+        "lolocAYcakrATe",
+        "lolocAmAsATe",
+        "lolocAmbaBUvATe",
+        "lolocAYcakfQve",
+        "lolocAmAsiDve",
+        "lolocAmbaBUviQve",
+        "lolocAYcakre",
+        "lolocAmAhe",
+        "lolocAmbaBUve",
+        "lolocAYcakfvahe",
+        "lolocAmAsivahe",
+        "lolocAmbaBUvivahe",
+        "lolocAYcakfmahe",
+        "lolocAmAsimahe",
+        "lolocAmbaBUvimahe"
+      ],
+      "alot": [
+        "lolocyatAm",
+        "lolocyetAm",
+        "lolocyantAm",
+        "lolocyasva",
+        "lolocyeTAm",
+        "lolocyaDvam",
+        "lolocyE",
+        "lolocyAvahE",
+        "lolocyAmahE"
+      ],
+      "alrung": [
+        "alolocizyata",
+        "alolocizyetAm",
+        "alolocizyanta",
+        "alolocizyaTAH",
+        "alolocizyeTAm",
+        "alolocizyaDvam",
+        "alolocizye",
+        "alolocizyAvahi",
+        "alolocizyAmahi"
+      ],
+      "alrut": [
+        "lolocizyate",
+        "lolocizyete",
+        "lolocizyante",
+        "lolocizyase",
+        "lolocizyeTe",
+        "lolocizyaDve",
+        "lolocizye",
+        "lolocizyAvahe",
+        "lolocizyAmahe"
+      ],
+      "alung": [
+        "aloloci",
+        "alolocizAtAm",
+        "alolocizata",
+        "alolocizWAH",
+        "alolocizATAm",
+        "alolociDvam",
+        "alolocizi",
+        "alolocizvahi",
+        "alolocizmahi"
+      ],
+      "alut": [
+        "lolocitA",
+        "lolocitArO",
+        "lolocitAraH",
+        "lolocitAse",
+        "lolocitAsATe",
+        "lolocitADve",
+        "lolocitAhe",
+        "lolocitAsvahe",
+        "lolocitAsmahe"
+      ],
+      "avidhiling": [
+        "lolocyeta",
+        "lolocyeyAtAm",
+        "lolocyeran",
+        "lolocyeTAH",
+        "lolocyeyATAm",
+        "lolocyeDvam",
+        "lolocyeya",
+        "lolocyevahi",
+        "lolocyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "locA",
+          "m": "",
+          "f": "locA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "loca",
+          "m": "locaH",
+          "f": "locA",
+          "n": "locam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "locanIya",
+          "m": "locanIyaH",
+          "f": "locanIyA",
+          "n": "locanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "locita",
+          "m": "locitaH",
+          "f": "locitA",
+          "n": "locitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "locitavat",
+          "m": "locitavAn",
+          "f": "locitavatI",
+          "n": "locitavat/locitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lokti",
+          "m": "",
+          "f": "loktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "locitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lulocvas",
+          "m": "lulocvAn",
+          "f": "lulocuzI",
+          "n": "lulocvat/lulocvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "loka",
+          "m": "lokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "locamAna",
+          "m": "locamAnaH",
+          "f": "locamAnA",
+          "n": "locamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "locam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "locya",
+          "m": "locyaH",
+          "f": "locyA",
+          "n": "locyam"
+        },
+        {
+          "base": "lokya",
+          "m": "lokyaH",
+          "f": "lokyA",
+          "n": "lokyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "locaka",
+          "m": "locakaH",
+          "f": "locikA",
+          "n": "locakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "locitavya",
+          "m": "locitavyaH",
+          "f": "locitavyA",
+          "n": "locitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "locitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "locitf",
+          "m": "locitA",
+          "f": "locitrI",
+          "n": "locitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "locyamAna",
+          "m": "locyamAnaH",
+          "f": "locyamAnA",
+          "n": "locyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralocya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "locana",
+          "m": "",
+          "f": "",
+          "n": "locanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "locaka",
+          "m": "locakaH",
+          "f": "locikA",
+          "n": "locakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "locamAna",
+          "m": "locamAnaH",
+          "f": "locamAnA",
+          "n": "locamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "locizyamARa",
+          "m": "locizyamARaH",
+          "f": "locizyamARA",
+          "n": "locizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "locizyamARa",
+          "m": "locizyamARaH",
+          "f": "locizyamARA",
+          "n": "locizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "lulocizA",
+          "m": "",
+          "f": "lulocizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "lulociza",
+          "m": "lulocizaH",
+          "f": "lulocizA",
+          "n": "lulocizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lulocizaRIya",
+          "m": "lulocizaRIyaH",
+          "f": "lulocizaRIyA",
+          "n": "lulocizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "lulocizu",
+          "m": "lulocizuH",
+          "f": "lulocizuH",
+          "n": "lulocizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lulocizita",
+          "m": "lulocizitaH",
+          "f": "lulocizitA",
+          "n": "lulocizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lulocizitavat",
+          "m": "lulocizitavAn",
+          "f": "lulocizitavatI",
+          "n": "lulocizitavat/lulocizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lulocizwi",
+          "m": "",
+          "f": "lulocizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lulocizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lulocizAmbaBUvas",
+          "m": "lulocizAmbaBUvAn",
+          "f": "lulocizAmbaBUzI",
+          "n": "lulocizAmbaBUvat/lulocizAmbaBUvad"
+        },
+        {
+          "base": "lulocizAmAsivas",
+          "m": "lulocizAmAsivAn",
+          "f": "lulocizAmAsyuzI",
+          "n": "lulocizAmAsivat/lulocizAmAsivad"
+        },
+        {
+          "base": "lulocizAYcakfvas",
+          "m": "lulocizAYcakfvAn",
+          "f": "lulocizAYcakruzI",
+          "n": "lulocizAYcakfvat/lulocizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "lulociza",
+          "m": "lulocizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lulocizamARa",
+          "m": "lulocizamARaH",
+          "f": "lulocizamARA",
+          "n": "lulocizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lulocizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lulocizaka",
+          "m": "lulocizakaH",
+          "f": "lulocizikA",
+          "n": "lulocizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lulocizitavya",
+          "m": "lulocizitavyaH",
+          "f": "lulocizitavyA",
+          "n": "lulocizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lulocizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lulocizitf",
+          "m": "lulocizitA",
+          "f": "lulocizitrI",
+          "n": "lulocizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lulocizyamARa",
+          "m": "lulocizyamARaH",
+          "f": "lulocizyamARA",
+          "n": "lulocizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "lulocizya",
+          "m": "lulocizyaH",
+          "f": "lulocizyA",
+          "n": "lulocizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralulocizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lulocizaRa",
+          "m": "",
+          "f": "",
+          "n": "lulocizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lulocizaka",
+          "m": "lulocizakaH",
+          "f": "lulocizikA",
+          "n": "lulocizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lulocizamARa",
+          "m": "lulocizamARaH",
+          "f": "lulocizamARA",
+          "n": "lulocizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lulocizizyamARa",
+          "m": "lulocizizyamARaH",
+          "f": "lulocizizyamARA",
+          "n": "lulocizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lulocizizyamARa",
+          "m": "lulocizizyamARaH",
+          "f": "lulocizizyamARA",
+          "n": "lulocizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "loca",
+          "m": "locaH",
+          "f": "locA",
+          "n": "locam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "locanIya",
+          "m": "locanIyaH",
+          "f": "locanIyA",
+          "n": "locanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "locita",
+          "m": "locitaH",
+          "f": "locitA",
+          "n": "locitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "locitavat",
+          "m": "locitavAn",
+          "f": "locitavatI",
+          "n": "locitavat/locitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lokti",
+          "m": "",
+          "f": "loktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "locayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "locayAmbaBUvas",
+          "m": "locayAmbaBUvAn",
+          "f": "locayAmbaBUzI",
+          "n": "locayAmbaBUvat/locayAmbaBUvad"
+        },
+        {
+          "base": "locayAmAsivas",
+          "m": "locayAmAsivAn",
+          "f": "locayAmAsyuzI",
+          "n": "locayAmAsivat/locayAmAsivad"
+        },
+        {
+          "base": "locayAYcakfvas",
+          "m": "locayAYcakfvAn",
+          "f": "locayAYcakruzI",
+          "n": "locayAYcakfvat/locayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "locayamAna",
+          "m": "locayamAnaH",
+          "f": "locayamAnA",
+          "n": "locayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "locam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "locaka",
+          "m": "locakaH",
+          "f": "locikA",
+          "n": "locakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "locayitavya",
+          "m": "locayitavyaH",
+          "f": "locayitavyA",
+          "n": "locayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "locayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "locayitf",
+          "m": "locayitA",
+          "f": "locayitrI",
+          "n": "locayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "locyamAna",
+          "m": "locyamAnaH",
+          "f": "locyamAnA",
+          "n": "locyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "locya",
+          "m": "locyaH",
+          "f": "locyA",
+          "n": "locyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralocya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "locana",
+          "m": "",
+          "f": "",
+          "n": "locanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "locaka",
+          "m": "locakaH",
+          "f": "locikA",
+          "n": "locakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "locayat",
+          "m": "locayan",
+          "f": "locayantI",
+          "n": "locayat/locayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "locayamAna",
+          "m": "locayamAnaH",
+          "f": "locayamAnA",
+          "n": "locayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "locizyamARa",
+          "m": "locizyamARaH",
+          "f": "locizyamARA",
+          "n": "locizyamARam"
+        },
+        {
+          "base": "locayizyamARa",
+          "m": "locayizyamARaH",
+          "f": "locayizyamARA",
+          "n": "locayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "locayizyat",
+          "m": "locayizyan",
+          "f": "locayizyatI/locayizyantI",
+          "n": "locayizyat/locayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "locayizyamARa",
+          "m": "locayizyamARaH",
+          "f": "locayizyamARA",
+          "n": "locayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "lolocA",
+          "m": "",
+          "f": "lolocA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "loloca",
+          "m": "lolocaH",
+          "f": "lolocA",
+          "n": "lolocam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lolocanIya",
+          "m": "lolocanIyaH",
+          "f": "lolocanIyA",
+          "n": "lolocanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lolocita",
+          "m": "lolocitaH",
+          "f": "lolocitA",
+          "n": "lolocitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lolocitavat",
+          "m": "lolocitavAn",
+          "f": "lolocitavatI",
+          "n": "lolocitavat/lolocitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lolokti",
+          "m": "",
+          "f": "loloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lolocitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lolocAmbaBUvas",
+          "m": "lolocAmbaBUvAn",
+          "f": "lolocAmbaBUzI",
+          "n": "lolocAmbaBUvat/lolocAmbaBUvad"
+        },
+        {
+          "base": "lolocAmAsivas",
+          "m": "lolocAmAsivAn",
+          "f": "lolocAmAsyuzI",
+          "n": "lolocAmAsivat/lolocAmAsivad"
+        },
+        {
+          "base": "lolocAYcakfvas",
+          "m": "lolocAYcakfvAn",
+          "f": "lolocAYcakruzI",
+          "n": "lolocAYcakfvat/lolocAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "loloka",
+          "m": "lolokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lolocyamAna",
+          "m": "lolocyamAnaH",
+          "f": "lolocyamAnA",
+          "n": "lolocyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lolocam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lolocaka",
+          "m": "lolocakaH",
+          "f": "lolocikA",
+          "n": "lolocakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lolocitavya",
+          "m": "lolocitavyaH",
+          "f": "lolocitavyA",
+          "n": "lolocitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lolocitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lolocitf",
+          "m": "lolocitA",
+          "f": "lolocitrI",
+          "n": "lolocitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lolocyamAna",
+          "m": "lolocyamAnaH",
+          "f": "lolocyamAnA",
+          "n": "lolocyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "lolocya",
+          "m": "lolocyaH",
+          "f": "lolocyA",
+          "n": "lolocyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralolocya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lolocana",
+          "m": "",
+          "f": "",
+          "n": "lolocanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lolocaka",
+          "m": "lolocakaH",
+          "f": "lolocikA",
+          "n": "lolocakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "lolocyamAna",
+          "m": "lolocyamAnaH",
+          "f": "lolocyamAnA",
+          "n": "lolocyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lolocizyamARa",
+          "m": "lolocizyamARaH",
+          "f": "lolocizyamARA",
+          "n": "lolocizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "lolocizyamARa",
+          "m": "lolocizyamARaH",
+          "f": "lolocizyamARA",
+          "n": "lolocizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "lolocA",
+          "m": "",
+          "f": "lolocA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "loloca",
+          "m": "lolocaH",
+          "f": "lolocA",
+          "n": "lolocam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "lolocanIya",
+          "m": "lolocanIyaH",
+          "f": "lolocanIyA",
+          "n": "lolocanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "lolocita",
+          "m": "lolocitaH",
+          "f": "lolocitA",
+          "n": "lolocitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "lolocitavat",
+          "m": "lolocitavAn",
+          "f": "lolocitavatI",
+          "n": "lolocitavat/lolocitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "lolokti",
+          "m": "",
+          "f": "loloktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "lolocitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "lolocAmbaBUvas",
+          "m": "lolocAmbaBUvAn",
+          "f": "lolocAmbaBUzI",
+          "n": "lolocAmbaBUvat/lolocAmbaBUvad"
+        },
+        {
+          "base": "lolocAmAsivas",
+          "m": "lolocAmAsivAn",
+          "f": "lolocAmAsyuzI",
+          "n": "lolocAmAsivat/lolocAmAsivad"
+        },
+        {
+          "base": "lolocAYcakfvas",
+          "m": "lolocAYcakfvAn",
+          "f": "lolocAYcakruzI",
+          "n": "lolocAYcakfvat/lolocAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "loloka",
+          "m": "lolokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "lolocAna",
+          "m": "lolocAnaH",
+          "f": "lolocAnA",
+          "n": "lolocAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "lolocam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "lolocaka",
+          "m": "lolocakaH",
+          "f": "lolocikA",
+          "n": "lolocakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "lolocitavya",
+          "m": "lolocitavyaH",
+          "f": "lolocitavyA",
+          "n": "lolocitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "lolocitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "lolocitf",
+          "m": "lolocitA",
+          "f": "lolocitrI",
+          "n": "lolocitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "lolocyamAna",
+          "m": "lolocyamAnaH",
+          "f": "lolocyamAnA",
+          "n": "lolocyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pralolocya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "lolocana",
+          "m": "",
+          "f": "",
+          "n": "lolocanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "lolocaka",
+          "m": "lolocakaH",
+          "f": "lolocikA",
+          "n": "lolocakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "lolocat",
+          "m": "lolocat/lolocad",
+          "f": "lolocatI",
+          "n": "lolocat/lolocad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "lolocizyamARa",
+          "m": "lolocizyamARaH",
+          "f": "lolocizyamARA",
+          "n": "lolocizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "lolocizyat",
+          "m": "lolocizyan",
+          "f": "lolocizyatI/lolocizyantI",
+          "n": "lolocizyat/lolocizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "loc",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "ava",
+      "examples": [
+        "'avalocanamiti kAmavAsanAyA aBAva iti kozaH.'"
+      ]
+    },
+    {
+      "prefix": "AN",
+      "examples": [
+        "'Alocya girimuKyaM (rEvataM) mAgaDaM tIrRameva ca. mADavAH kuruSArdUla parAM mudamavApnuvan' (BA0 saBA0 14.52).",
+        "'parasparamAlocya pratyUcuste na kiYcana' (rA0 3.1.8). uBayatrAN viSezakfnna."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "ava": {
+      "prefix": "ava",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "avalocizIzwa",
+            "avalocizIyAstAm",
+            "avalocizIran",
+            "avalocizIzWAH",
+            "avalocizIyAsTAm",
+            "avalocizIDvam",
+            "avalocizIya",
+            "avalocizIvahi",
+            "avalocizImahi"
+          ],
+          "alang": [
+            "avAlocata",
+            "avAlocetAm",
+            "avAlocanta",
+            "avAlocaTAH",
+            "avAloceTAm",
+            "avAlocaDvam",
+            "avAloce",
+            "avAlocAvahi",
+            "avAlocAmahi"
+          ],
+          "alat": [
+            "avalocate",
+            "avalocete",
+            "avalocante",
+            "avalocase",
+            "avaloceTe",
+            "avalocaDve",
+            "avaloce",
+            "avalocAvahe",
+            "avalocAmahe"
+          ],
+          "alit": [
+            "avaluloce",
+            "avalulocAte",
+            "avalulocire",
+            "avalulocize",
+            "avalulocATe",
+            "avalulociDve",
+            "avaluloce",
+            "avalulocivahe",
+            "avalulocimahe"
+          ],
+          "alot": [
+            "avalocatAm",
+            "avalocetAm",
+            "avalocantAm",
+            "avalocasva",
+            "avaloceTAm",
+            "avalocaDvam",
+            "avalocE",
+            "avalocAvahE",
+            "avalocAmahE"
+          ],
+          "alrung": [
+            "avAlocizyata",
+            "avAlocizyetAm",
+            "avAlocizyanta",
+            "avAlocizyaTAH",
+            "avAlocizyeTAm",
+            "avAlocizyaDvam",
+            "avAlocizye",
+            "avAlocizyAvahi",
+            "avAlocizyAmahi"
+          ],
+          "alrut": [
+            "avalocizyate",
+            "avalocizyete",
+            "avalocizyante",
+            "avalocizyase",
+            "avalocizyeTe",
+            "avalocizyaDve",
+            "avalocizye",
+            "avalocizyAvahe",
+            "avalocizyAmahe"
+          ],
+          "alung": [
+            "avAlocizwa",
+            "avAlocizAtAm",
+            "avAlocizata",
+            "avAlocizWAH",
+            "avAlocizATAm",
+            "avAlociDvam",
+            "avAlocizi",
+            "avAlocizvahi",
+            "avAlocizmahi"
+          ],
+          "alut": [
+            "avalocitA",
+            "avalocitArO",
+            "avalocitAraH",
+            "avalocitAse",
+            "avalocitAsATe",
+            "avalocitADve",
+            "avalocitAhe",
+            "avalocitAsvahe",
+            "avalocitAsmahe"
+          ],
+          "avidhiling": [
+            "avaloceta",
+            "avaloceyAtAm",
+            "avaloceran",
+            "avaloceTAH",
+            "avaloceyATAm",
+            "avaloceDvam",
+            "avaloceya",
+            "avalocevahi",
+            "avalocemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "avalocizIzwa",
+            "avalocizIyAstAm",
+            "avalocizIran",
+            "avalocizIzWAH",
+            "avalocizIyAsTAm",
+            "avalocizIDvam",
+            "avalocizIya",
+            "avalocizIvahi",
+            "avalocizImahi"
+          ],
+          "alang": [
+            "avAlocyata",
+            "avAlocyetAm",
+            "avAlocyanta",
+            "avAlocyaTAH",
+            "avAlocyeTAm",
+            "avAlocyaDvam",
+            "avAlocye",
+            "avAlocyAvahi",
+            "avAlocyAmahi"
+          ],
+          "alat": [
+            "avalocyate",
+            "avalocyete",
+            "avalocyante",
+            "avalocyase",
+            "avalocyeTe",
+            "avalocyaDve",
+            "avalocye",
+            "avalocyAvahe",
+            "avalocyAmahe"
+          ],
+          "alit": [
+            "avaluloce",
+            "avalulocAte",
+            "avalulocire",
+            "avalulocize",
+            "avalulocATe",
+            "avalulociDve",
+            "avaluloce",
+            "avalulocivahe",
+            "avalulocimahe"
+          ],
+          "alot": [
+            "avalocyatAm",
+            "avalocyetAm",
+            "avalocyantAm",
+            "avalocyasva",
+            "avalocyeTAm",
+            "avalocyaDvam",
+            "avalocyE",
+            "avalocyAvahE",
+            "avalocyAmahE"
+          ],
+          "alrung": [
+            "avAlocizyata",
+            "avAlocizyetAm",
+            "avAlocizyanta",
+            "avAlocizyaTAH",
+            "avAlocizyeTAm",
+            "avAlocizyaDvam",
+            "avAlocizye",
+            "avAlocizyAvahi",
+            "avAlocizyAmahi"
+          ],
+          "alrut": [
+            "avalocizyate",
+            "avalocizyete",
+            "avalocizyante",
+            "avalocizyase",
+            "avalocizyeTe",
+            "avalocizyaDve",
+            "avalocizye",
+            "avalocizyAvahe",
+            "avalocizyAmahe"
+          ],
+          "alung": [
+            "avAloci",
+            "avAlocizAtAm",
+            "avAlocizata",
+            "avAlocizWAH",
+            "avAlocizATAm",
+            "avAlociDvam",
+            "avAlocizi",
+            "avAlocizvahi",
+            "avAlocizmahi"
+          ],
+          "alut": [
+            "avalocitA",
+            "avalocitArO",
+            "avalocitAraH",
+            "avalocitAse",
+            "avalocitAsATe",
+            "avalocitADve",
+            "avalocitAhe",
+            "avalocitAsvahe",
+            "avalocitAsmahe"
+          ],
+          "avidhiling": [
+            "avalocyeta",
+            "avalocyeyAtAm",
+            "avalocyeran",
+            "avalocyeTAH",
+            "avalocyeyATAm",
+            "avalocyeDvam",
+            "avalocyeya",
+            "avalocyevahi",
+            "avalocyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "avalulocizizIzwa",
+            "avalulocizizIyAstAm",
+            "avalulocizizIran",
+            "avalulocizizIzWAH",
+            "avalulocizizIyAsTAm",
+            "avalulocizizIDvam",
+            "avalulocizizIya",
+            "avalulocizizIvahi",
+            "avalulocizizImahi"
+          ],
+          "alang": [
+            "avAlulocizata",
+            "avAlulocizetAm",
+            "avAlulocizanta",
+            "avAlulocizaTAH",
+            "avAlulocizeTAm",
+            "avAlulocizaDvam",
+            "avAlulocize",
+            "avAlulocizAvahi",
+            "avAlulocizAmahi"
+          ],
+          "alat": [
+            "avalulocizate",
+            "avalulocizete",
+            "avalulocizante",
+            "avalulocizase",
+            "avalulocizeTe",
+            "avalulocizaDve",
+            "avalulocize",
+            "avalulocizAvahe",
+            "avalulocizAmahe"
+          ],
+          "alit": [
+            "avalulocizAmbaBUva",
+            "avalulocizAmAsa",
+            "avalulocizAYcakre",
+            "avalulocizAmbaBUvatuH",
+            "avalulocizAmAsatuH",
+            "avalulocizAYcakrAte",
+            "avalulocizAmbaBUvuH",
+            "avalulocizAmAsuH",
+            "avalulocizAYcakrire",
+            "avalulocizAmbaBUviTa",
+            "avalulocizAmAsiTa",
+            "avalulocizAYcakfze",
+            "avalulocizAmbaBUvaTuH",
+            "avalulocizAmAsaTuH",
+            "avalulocizAYcakrATe",
+            "avalulocizAmbaBUva",
+            "avalulocizAmAsa",
+            "avalulocizAYcakfQve",
+            "avalulocizAmbaBUva",
+            "avalulocizAmAsa",
+            "avalulocizAYcakre",
+            "avalulocizAmbaBUviva",
+            "avalulocizAmAsiva",
+            "avalulocizAYcakfvahe",
+            "avalulocizAmbaBUvima",
+            "avalulocizAmAsima",
+            "avalulocizAYcakfmahe"
+          ],
+          "alot": [
+            "avalulocizatAm",
+            "avalulocizetAm",
+            "avalulocizantAm",
+            "avalulocizasva",
+            "avalulocizeTAm",
+            "avalulocizaDvam",
+            "avalulocizE",
+            "avalulocizAvahE",
+            "avalulocizAmahE"
+          ],
+          "alrung": [
+            "avAlulocizizyata",
+            "avAlulocizizyetAm",
+            "avAlulocizizyanta",
+            "avAlulocizizyaTAH",
+            "avAlulocizizyeTAm",
+            "avAlulocizizyaDvam",
+            "avAlulocizizye",
+            "avAlulocizizyAvahi",
+            "avAlulocizizyAmahi"
+          ],
+          "alrut": [
+            "avalulocizizyate",
+            "avalulocizizyete",
+            "avalulocizizyante",
+            "avalulocizizyase",
+            "avalulocizizyeTe",
+            "avalulocizizyaDve",
+            "avalulocizizye",
+            "avalulocizizyAvahe",
+            "avalulocizizyAmahe"
+          ],
+          "alung": [
+            "avAlulocizizwa",
+            "avAlulocizizAtAm",
+            "avAlulocizizata",
+            "avAlulocizizWAH",
+            "avAlulocizizATAm",
+            "avAlulociziDvam",
+            "avAlulocizizi",
+            "avAlulocizizvahi",
+            "avAlulocizizmahi"
+          ],
+          "alut": [
+            "avalulocizitA",
+            "avalulocizitArO",
+            "avalulocizitAraH",
+            "avalulocizitAse",
+            "avalulocizitAsATe",
+            "avalulocizitADve",
+            "avalulocizitAhe",
+            "avalulocizitAsvahe",
+            "avalulocizitAsmahe"
+          ],
+          "avidhiling": [
+            "avalulocizeta",
+            "avalulocizeyAtAm",
+            "avalulocizeran",
+            "avalulocizeTAH",
+            "avalulocizeyATAm",
+            "avalulocizeDvam",
+            "avalulocizeya",
+            "avalulocizevahi",
+            "avalulocizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "avalulocizizIzwa",
+            "avalulocizizIyAstAm",
+            "avalulocizizIran",
+            "avalulocizizIzWAH",
+            "avalulocizizIyAsTAm",
+            "avalulocizizIDvam",
+            "avalulocizizIya",
+            "avalulocizizIvahi",
+            "avalulocizizImahi"
+          ],
+          "alang": [
+            "avAlulocizyata",
+            "avAlulocizyetAm",
+            "avAlulocizyanta",
+            "avAlulocizyaTAH",
+            "avAlulocizyeTAm",
+            "avAlulocizyaDvam",
+            "avAlulocizye",
+            "avAlulocizyAvahi",
+            "avAlulocizyAmahi"
+          ],
+          "alat": [
+            "avalulocizyate",
+            "avalulocizyete",
+            "avalulocizyante",
+            "avalulocizyase",
+            "avalulocizyeTe",
+            "avalulocizyaDve",
+            "avalulocizye",
+            "avalulocizyAvahe",
+            "avalulocizyAmahe"
+          ],
+          "alit": [
+            "avalulocizAmbaBUve",
+            "avalulocizAmAse",
+            "avalulocizAYcakre",
+            "avalulocizAmbaBUvAte",
+            "avalulocizAmAsAte",
+            "avalulocizAYcakrAte",
+            "avalulocizAmbaBUvire",
+            "avalulocizAmAsire",
+            "avalulocizAYcakrire",
+            "avalulocizAmbaBUvize",
+            "avalulocizAmAsize",
+            "avalulocizAYcakfze",
+            "avalulocizAmbaBUvATe",
+            "avalulocizAmAsATe",
+            "avalulocizAYcakrATe",
+            "avalulocizAmbaBUviQve",
+            "avalulocizAmAsiDve",
+            "avalulocizAYcakfQve",
+            "avalulocizAmbaBUve",
+            "avalulocizAmAhe",
+            "avalulocizAYcakre",
+            "avalulocizAmbaBUvivahe",
+            "avalulocizAmAsivahe",
+            "avalulocizAYcakfvahe",
+            "avalulocizAmbaBUvimahe",
+            "avalulocizAmAsimahe",
+            "avalulocizAYcakfmahe"
+          ],
+          "alot": [
+            "avalulocizyatAm",
+            "avalulocizyetAm",
+            "avalulocizyantAm",
+            "avalulocizyasva",
+            "avalulocizyeTAm",
+            "avalulocizyaDvam",
+            "avalulocizyE",
+            "avalulocizyAvahE",
+            "avalulocizyAmahE"
+          ],
+          "alrung": [
+            "avAlulocizizyata",
+            "avAlulocizizyetAm",
+            "avAlulocizizyanta",
+            "avAlulocizizyaTAH",
+            "avAlulocizizyeTAm",
+            "avAlulocizizyaDvam",
+            "avAlulocizizye",
+            "avAlulocizizyAvahi",
+            "avAlulocizizyAmahi"
+          ],
+          "alrut": [
+            "avalulocizizyate",
+            "avalulocizizyete",
+            "avalulocizizyante",
+            "avalulocizizyase",
+            "avalulocizizyeTe",
+            "avalulocizizyaDve",
+            "avalulocizizye",
+            "avalulocizizyAvahe",
+            "avalulocizizyAmahe"
+          ],
+          "alung": [
+            "avAlulocizi",
+            "avAlulocizizAtAm",
+            "avAlulocizizata",
+            "avAlulocizizWAH",
+            "avAlulocizizATAm",
+            "avAlulociziDvam",
+            "avAlulocizizi",
+            "avAlulocizizvahi",
+            "avAlulocizizmahi"
+          ],
+          "alut": [
+            "avalulocizitA",
+            "avalulocizitArO",
+            "avalulocizitAraH",
+            "avalulocizitAse",
+            "avalulocizitAsATe",
+            "avalulocizitADve",
+            "avalulocizitAhe",
+            "avalulocizitAsvahe",
+            "avalulocizitAsmahe"
+          ],
+          "avidhiling": [
+            "avalulocizyeta",
+            "avalulocizyeyAtAm",
+            "avalulocizyeran",
+            "avalulocizyeTAH",
+            "avalulocizyeyATAm",
+            "avalulocizyeDvam",
+            "avalulocizyeya",
+            "avalulocizyevahi",
+            "avalulocizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "avalocayizIzwa",
+            "avalocayizIyAstAm",
+            "avalocayizIran",
+            "avalocayizIzWAH",
+            "avalocayizIyAsTAm",
+            "avalocayizIQvam",
+            "avalocayizIDvam",
+            "avalocayizIya",
+            "avalocayizIvahi",
+            "avalocayizImahi"
+          ],
+          "alang": [
+            "avAlocayata",
+            "avAlocayetAm",
+            "avAlocayanta",
+            "avAlocayaTAH",
+            "avAlocayeTAm",
+            "avAlocayaDvam",
+            "avAlocaye",
+            "avAlocayAvahi",
+            "avAlocayAmahi"
+          ],
+          "alat": [
+            "avalocayate",
+            "avalocayete",
+            "avalocayante",
+            "avalocayase",
+            "avalocayeTe",
+            "avalocayaDve",
+            "avalocaye",
+            "avalocayAvahe",
+            "avalocayAmahe"
+          ],
+          "alit": [
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakre",
+            "avalocayAmbaBUvatuH",
+            "avalocayAmAsatuH",
+            "avalocayAYcakrAte",
+            "avalocayAmbaBUvuH",
+            "avalocayAmAsuH",
+            "avalocayAYcakrire",
+            "avalocayAmbaBUviTa",
+            "avalocayAmAsiTa",
+            "avalocayAYcakfze",
+            "avalocayAmbaBUvaTuH",
+            "avalocayAmAsaTuH",
+            "avalocayAYcakrATe",
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakfQve",
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakre",
+            "avalocayAmbaBUviva",
+            "avalocayAmAsiva",
+            "avalocayAYcakfvahe",
+            "avalocayAmbaBUvima",
+            "avalocayAmAsima",
+            "avalocayAYcakfmahe"
+          ],
+          "alot": [
+            "avalocayatAm",
+            "avalocayetAm",
+            "avalocayantAm",
+            "avalocayasva",
+            "avalocayeTAm",
+            "avalocayaDvam",
+            "avalocayE",
+            "avalocayAvahE",
+            "avalocayAmahE"
+          ],
+          "alrung": [
+            "avAlocayizyata",
+            "avAlocayizyetAm",
+            "avAlocayizyanta",
+            "avAlocayizyaTAH",
+            "avAlocayizyeTAm",
+            "avAlocayizyaDvam",
+            "avAlocayizye",
+            "avAlocayizyAvahi",
+            "avAlocayizyAmahi"
+          ],
+          "alrut": [
+            "avalocayizyate",
+            "avalocayizyete",
+            "avalocayizyante",
+            "avalocayizyase",
+            "avalocayizyeTe",
+            "avalocayizyaDve",
+            "avalocayizye",
+            "avalocayizyAvahe",
+            "avalocayizyAmahe"
+          ],
+          "alung": [
+            "avAlulocata",
+            "avAlulocetAm",
+            "avAlulocanta",
+            "avAlulocaTAH",
+            "avAluloceTAm",
+            "avAlulocaDvam",
+            "avAluloce",
+            "avAlulocAvahi",
+            "avAlulocAmahi"
+          ],
+          "alut": [
+            "avalocayitA",
+            "avalocayitArO",
+            "avalocayitAraH",
+            "avalocayitAse",
+            "avalocayitAsATe",
+            "avalocayitADve",
+            "avalocayitAhe",
+            "avalocayitAsvahe",
+            "avalocayitAsmahe"
+          ],
+          "avidhiling": [
+            "avalocayeta",
+            "avalocayeyAtAm",
+            "avalocayeran",
+            "avalocayeTAH",
+            "avalocayeyATAm",
+            "avalocayeDvam",
+            "avalocayeya",
+            "avalocayevahi",
+            "avalocayemahi"
+          ],
+          "pashirling": [
+            "avalocyAt",
+            "avalocyAd",
+            "avalocyAstAm",
+            "avalocyAsuH",
+            "avalocyAH",
+            "avalocyAstam",
+            "avalocyAsta",
+            "avalocyAsam",
+            "avalocyAsva",
+            "avalocyAsma"
+          ],
+          "plang": [
+            "avAlocayat",
+            "avAlocayad",
+            "avAlocayatAm",
+            "avAlocayan",
+            "avAlocayaH",
+            "avAlocayatam",
+            "avAlocayata",
+            "avAlocayam",
+            "avAlocayAva",
+            "avAlocayAma"
+          ],
+          "plat": [
+            "avalocayati",
+            "avalocayataH",
+            "avalocayanti",
+            "avalocayasi",
+            "avalocayaTaH",
+            "avalocayaTa",
+            "avalocayAmi",
+            "avalocayAvaH",
+            "avalocayAmaH"
+          ],
+          "plit": [
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakAra",
+            "avalocayAmbaBUvatuH",
+            "avalocayAmAsatuH",
+            "avalocayAYcakratuH",
+            "avalocayAmbaBUvuH",
+            "avalocayAmAsuH",
+            "avalocayAYcakruH",
+            "avalocayAmbaBUviTa",
+            "avalocayAmAsiTa",
+            "avalocayAYcakarTa",
+            "avalocayAmbaBUvaTuH",
+            "avalocayAmAsaTuH",
+            "avalocayAYcakraTuH",
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakra",
+            "avalocayAmbaBUva",
+            "avalocayAmAsa",
+            "avalocayAYcakara",
+            "avalocayAYcakAra",
+            "avalocayAmbaBUviva",
+            "avalocayAmAsiva",
+            "avalocayAYcakfva",
+            "avalocayAmbaBUvima",
+            "avalocayAmAsima",
+            "avalocayAYcakfma"
+          ],
+          "plot": [
+            "avalocayatAt",
+            "avalocayatAd",
+            "avalocayatu",
+            "avalocayatAm",
+            "avalocayantu",
+            "avalocayatAt",
+            "avalocayatAd",
+            "avalocaya",
+            "avalocayatam",
+            "avalocayata",
+            "avalocayAni",
+            "avalocayAva",
+            "avalocayAma"
+          ],
+          "plrung": [
+            "avAlocayizyat",
+            "avAlocayizyad",
+            "avAlocayizyatAm",
+            "avAlocayizyan",
+            "avAlocayizyaH",
+            "avAlocayizyatam",
+            "avAlocayizyata",
+            "avAlocayizyam",
+            "avAlocayizyAva",
+            "avAlocayizyAma"
+          ],
+          "plrut": [
+            "avalocayizyati",
+            "avalocayizyataH",
+            "avalocayizyanti",
+            "avalocayizyasi",
+            "avalocayizyaTaH",
+            "avalocayizyaTa",
+            "avalocayizyAmi",
+            "avalocayizyAvaH",
+            "avalocayizyAmaH"
+          ],
+          "plung": [
+            "avAlulocat",
+            "avAlulocad",
+            "avAlulocatAm",
+            "avAlulocan",
+            "avAlulocaH",
+            "avAlulocatam",
+            "avAlulocata",
+            "avAlulocam",
+            "avAlulocAva",
+            "avAlulocAma"
+          ],
+          "plut": [
+            "avalocayitA",
+            "avalocayitArO",
+            "avalocayitAraH",
+            "avalocayitAsi",
+            "avalocayitAsTaH",
+            "avalocayitAsTa",
+            "avalocayitAsmi",
+            "avalocayitAsvaH",
+            "avalocayitAsmaH"
+          ],
+          "pvidhiling": [
+            "avalocayet",
+            "avalocayed",
+            "avalocayetAm",
+            "avalocayeyuH",
+            "avalocayeH",
+            "avalocayetam",
+            "avalocayeta",
+            "avalocayeyam",
+            "avalocayeva",
+            "avalocayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "avalocizIzwa",
+            "avalocayizIzwa",
+            "avalocizIyAstAm",
+            "avalocayizIyAstAm",
+            "avalocizIran",
+            "avalocayizIran",
+            "avalocizIzWAH",
+            "avalocayizIzWAH",
+            "avalocizIyAsTAm",
+            "avalocayizIyAsTAm",
+            "avalocizIDvam",
+            "avalocayizIQvam",
+            "avalocayizIDvam",
+            "avalocizIya",
+            "avalocayizIya",
+            "avalocizIvahi",
+            "avalocayizIvahi",
+            "avalocizImahi",
+            "avalocayizImahi"
+          ],
+          "alang": [
+            "avAlocyata",
+            "avAlocyetAm",
+            "avAlocyanta",
+            "avAlocyaTAH",
+            "avAlocyeTAm",
+            "avAlocyaDvam",
+            "avAlocye",
+            "avAlocyAvahi",
+            "avAlocyAmahi"
+          ],
+          "alat": [
+            "avalocyate",
+            "avalocyete",
+            "avalocyante",
+            "avalocyase",
+            "avalocyeTe",
+            "avalocyaDve",
+            "avalocye",
+            "avalocyAvahe",
+            "avalocyAmahe"
+          ],
+          "alit": [
+            "avalocayAmbaBUve",
+            "avalocayAmAse",
+            "avalocayAYcakre",
+            "avalocayAmbaBUvAte",
+            "avalocayAmAsAte",
+            "avalocayAYcakrAte",
+            "avalocayAmbaBUvire",
+            "avalocayAmAsire",
+            "avalocayAYcakrire",
+            "avalocayAmbaBUvize",
+            "avalocayAmAsize",
+            "avalocayAYcakfze",
+            "avalocayAmbaBUvATe",
+            "avalocayAmAsATe",
+            "avalocayAYcakrATe",
+            "avalocayAmbaBUviQve",
+            "avalocayAmAsiDve",
+            "avalocayAYcakfQve",
+            "avalocayAmbaBUve",
+            "avalocayAmAhe",
+            "avalocayAYcakre",
+            "avalocayAmbaBUvivahe",
+            "avalocayAmAsivahe",
+            "avalocayAYcakfvahe",
+            "avalocayAmbaBUvimahe",
+            "avalocayAmAsimahe",
+            "avalocayAYcakfmahe"
+          ],
+          "alot": [
+            "avalocyatAm",
+            "avalocyetAm",
+            "avalocyantAm",
+            "avalocyasva",
+            "avalocyeTAm",
+            "avalocyaDvam",
+            "avalocyE",
+            "avalocyAvahE",
+            "avalocyAmahE"
+          ],
+          "alrung": [
+            "avAlocizyata",
+            "avAlocayizyata",
+            "avAlocizyetAm",
+            "avAlocayizyetAm",
+            "avAlocizyanta",
+            "avAlocayizyanta",
+            "avAlocizyaTAH",
+            "avAlocayizyaTAH",
+            "avAlocizyeTAm",
+            "avAlocayizyeTAm",
+            "avAlocizyaDvam",
+            "avAlocayizyaDvam",
+            "avAlocizye",
+            "avAlocayizye",
+            "avAlocizyAvahi",
+            "avAlocayizyAvahi",
+            "avAlocizyAmahi",
+            "avAlocayizyAmahi"
+          ],
+          "alrut": [
+            "avalocizyate",
+            "avalocayizyate",
+            "avalocizyete",
+            "avalocayizyete",
+            "avalocizyante",
+            "avalocayizyante",
+            "avalocizyase",
+            "avalocayizyase",
+            "avalocizyeTe",
+            "avalocayizyeTe",
+            "avalocizyaDve",
+            "avalocayizyaDve",
+            "avalocizye",
+            "avalocayizye",
+            "avalocizyAvahe",
+            "avalocayizyAvahe",
+            "avalocizyAmahe",
+            "avalocayizyAmahe"
+          ],
+          "alung": [
+            "avAloci",
+            "avAlocizAtAm",
+            "avAlocayizAtAm",
+            "avAlocizata",
+            "avAlocayizata",
+            "avAlocizWAH",
+            "avAlocayizWAH",
+            "avAlocizATAm",
+            "avAlocayizATAm",
+            "avAlociDvam",
+            "avAlocayiQvam",
+            "avAlocayiDvam",
+            "avAlocizi",
+            "avAlocayizi",
+            "avAlocizvahi",
+            "avAlocayizvahi",
+            "avAlocizmahi",
+            "avAlocayizmahi"
+          ],
+          "alut": [
+            "avalocitA",
+            "avalocayitA",
+            "avalocitArO",
+            "avalocayitArO",
+            "avalocitAraH",
+            "avalocayitAraH",
+            "avalocitAse",
+            "avalocayitAse",
+            "avalocitAsATe",
+            "avalocayitAsATe",
+            "avalocitADve",
+            "avalocayitADve",
+            "avalocitAhe",
+            "avalocayitAhe",
+            "avalocitAsvahe",
+            "avalocayitAsvahe",
+            "avalocitAsmahe",
+            "avalocayitAsmahe"
+          ],
+          "avidhiling": [
+            "avalocyeta",
+            "avalocyeyAtAm",
+            "avalocyeran",
+            "avalocyeTAH",
+            "avalocyeyATAm",
+            "avalocyeDvam",
+            "avalocyeya",
+            "avalocyevahi",
+            "avalocyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "avalolocizIzwa",
+            "avalolocizIyAstAm",
+            "avalolocizIran",
+            "avalolocizIzWAH",
+            "avalolocizIyAsTAm",
+            "avalolocizIDvam",
+            "avalolocizIya",
+            "avalolocizIvahi",
+            "avalolocizImahi"
+          ],
+          "alang": [
+            "avAlolocyata",
+            "avAlolocyetAm",
+            "avAlolocyanta",
+            "avAlolocyaTAH",
+            "avAlolocyeTAm",
+            "avAlolocyaDvam",
+            "avAlolocye",
+            "avAlolocyAvahi",
+            "avAlolocyAmahi"
+          ],
+          "alat": [
+            "avalolocyate",
+            "avalolocyete",
+            "avalolocyante",
+            "avalolocyase",
+            "avalolocyeTe",
+            "avalolocyaDve",
+            "avalolocye",
+            "avalolocyAvahe",
+            "avalolocyAmahe"
+          ],
+          "alit": [
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakre",
+            "avalolocAmbaBUvatuH",
+            "avalolocAmAsatuH",
+            "avalolocAYcakrAte",
+            "avalolocAmbaBUvuH",
+            "avalolocAmAsuH",
+            "avalolocAYcakrire",
+            "avalolocAmbaBUviTa",
+            "avalolocAmAsiTa",
+            "avalolocAYcakfze",
+            "avalolocAmbaBUvaTuH",
+            "avalolocAmAsaTuH",
+            "avalolocAYcakrATe",
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakfQve",
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakre",
+            "avalolocAmbaBUviva",
+            "avalolocAmAsiva",
+            "avalolocAYcakfvahe",
+            "avalolocAmbaBUvima",
+            "avalolocAmAsima",
+            "avalolocAYcakfmahe"
+          ],
+          "alot": [
+            "avalolocyatAm",
+            "avalolocyetAm",
+            "avalolocyantAm",
+            "avalolocyasva",
+            "avalolocyeTAm",
+            "avalolocyaDvam",
+            "avalolocyE",
+            "avalolocyAvahE",
+            "avalolocyAmahE"
+          ],
+          "alrung": [
+            "avAlolocizyata",
+            "avAlolocizyetAm",
+            "avAlolocizyanta",
+            "avAlolocizyaTAH",
+            "avAlolocizyeTAm",
+            "avAlolocizyaDvam",
+            "avAlolocizye",
+            "avAlolocizyAvahi",
+            "avAlolocizyAmahi"
+          ],
+          "alrut": [
+            "avalolocizyate",
+            "avalolocizyete",
+            "avalolocizyante",
+            "avalolocizyase",
+            "avalolocizyeTe",
+            "avalolocizyaDve",
+            "avalolocizye",
+            "avalolocizyAvahe",
+            "avalolocizyAmahe"
+          ],
+          "alung": [
+            "avAlolocizwa",
+            "avAlolocizAtAm",
+            "avAlolocizata",
+            "avAlolocizWAH",
+            "avAlolocizATAm",
+            "avAlolociDvam",
+            "avAlolocizi",
+            "avAlolocizvahi",
+            "avAlolocizmahi"
+          ],
+          "alut": [
+            "avalolocitA",
+            "avalolocitArO",
+            "avalolocitAraH",
+            "avalolocitAse",
+            "avalolocitAsATe",
+            "avalolocitADve",
+            "avalolocitAhe",
+            "avalolocitAsvahe",
+            "avalolocitAsmahe"
+          ],
+          "avidhiling": [
+            "avalolocyeta",
+            "avalolocyeyAtAm",
+            "avalolocyeran",
+            "avalolocyeTAH",
+            "avalolocyeyATAm",
+            "avalolocyeDvam",
+            "avalolocyeya",
+            "avalolocyevahi",
+            "avalolocyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "avalolocizIzwa",
+            "avalolocizIyAstAm",
+            "avalolocizIran",
+            "avalolocizIzWAH",
+            "avalolocizIyAsTAm",
+            "avalolocizIDvam",
+            "avalolocizIya",
+            "avalolocizIvahi",
+            "avalolocizImahi"
+          ],
+          "alang": [
+            "avAlolocyata",
+            "avAlolocyetAm",
+            "avAlolocyanta",
+            "avAlolocyaTAH",
+            "avAlolocyeTAm",
+            "avAlolocyaDvam",
+            "avAlolocye",
+            "avAlolocyAvahi",
+            "avAlolocyAmahi"
+          ],
+          "alat": [
+            "avalolocyate",
+            "avalolocyete",
+            "avalolocyante",
+            "avalolocyase",
+            "avalolocyeTe",
+            "avalolocyaDve",
+            "avalolocye",
+            "avalolocyAvahe",
+            "avalolocyAmahe"
+          ],
+          "alit": [
+            "avalolocAmbaBUve",
+            "avalolocAmAse",
+            "avalolocAYcakre",
+            "avalolocAmbaBUvAte",
+            "avalolocAmAsAte",
+            "avalolocAYcakrAte",
+            "avalolocAmbaBUvire",
+            "avalolocAmAsire",
+            "avalolocAYcakrire",
+            "avalolocAmbaBUvize",
+            "avalolocAmAsize",
+            "avalolocAYcakfze",
+            "avalolocAmbaBUvATe",
+            "avalolocAmAsATe",
+            "avalolocAYcakrATe",
+            "avalolocAmbaBUviQve",
+            "avalolocAmAsiDve",
+            "avalolocAYcakfQve",
+            "avalolocAmbaBUve",
+            "avalolocAmAhe",
+            "avalolocAYcakre",
+            "avalolocAmbaBUvivahe",
+            "avalolocAmAsivahe",
+            "avalolocAYcakfvahe",
+            "avalolocAmbaBUvimahe",
+            "avalolocAmAsimahe",
+            "avalolocAYcakfmahe"
+          ],
+          "alot": [
+            "avalolocyatAm",
+            "avalolocyetAm",
+            "avalolocyantAm",
+            "avalolocyasva",
+            "avalolocyeTAm",
+            "avalolocyaDvam",
+            "avalolocyE",
+            "avalolocyAvahE",
+            "avalolocyAmahE"
+          ],
+          "alrung": [
+            "avAlolocizyata",
+            "avAlolocizyetAm",
+            "avAlolocizyanta",
+            "avAlolocizyaTAH",
+            "avAlolocizyeTAm",
+            "avAlolocizyaDvam",
+            "avAlolocizye",
+            "avAlolocizyAvahi",
+            "avAlolocizyAmahi"
+          ],
+          "alrut": [
+            "avalolocizyate",
+            "avalolocizyete",
+            "avalolocizyante",
+            "avalolocizyase",
+            "avalolocizyeTe",
+            "avalolocizyaDve",
+            "avalolocizye",
+            "avalolocizyAvahe",
+            "avalolocizyAmahe"
+          ],
+          "alung": [
+            "avAloloci",
+            "avAlolocizAtAm",
+            "avAlolocizata",
+            "avAlolocizWAH",
+            "avAlolocizATAm",
+            "avAlolociDvam",
+            "avAlolocizi",
+            "avAlolocizvahi",
+            "avAlolocizmahi"
+          ],
+          "alut": [
+            "avalolocitA",
+            "avalolocitArO",
+            "avalolocitAraH",
+            "avalolocitAse",
+            "avalolocitAsATe",
+            "avalolocitADve",
+            "avalolocitAhe",
+            "avalolocitAsvahe",
+            "avalolocitAsmahe"
+          ],
+          "avidhiling": [
+            "avalolocyeta",
+            "avalolocyeyAtAm",
+            "avalolocyeran",
+            "avalolocyeTAH",
+            "avalolocyeyATAm",
+            "avalolocyeDvam",
+            "avalolocyeya",
+            "avalolocyevahi",
+            "avalolocyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "avalolocyAt",
+            "avalolocyAd",
+            "avalolocyAstAm",
+            "avalolocyAsuH",
+            "avalolocyAH",
+            "avalolocyAstam",
+            "avalolocyAsta",
+            "avalolocyAsam",
+            "avalolocyAsva",
+            "avalolocyAsma"
+          ],
+          "plang": [
+            "avAlolocIt",
+            "avAlolocId",
+            "avAlolok",
+            "avAlolog",
+            "avAloloktAm",
+            "avAlolocuH",
+            "avAlolocIH",
+            "avAlolok",
+            "avAlolog",
+            "avAloloktam",
+            "avAlolokta",
+            "avAlolocam",
+            "avAlolocva",
+            "avAlolocma"
+          ],
+          "plat": [
+            "avalolocIti",
+            "avalolokti",
+            "avaloloktaH",
+            "avalolocati",
+            "avalolocIzi",
+            "avalolokzi",
+            "avalolokTaH",
+            "avalolokTa",
+            "avalolocImi",
+            "avalolocmi",
+            "avalolocvaH",
+            "avalolocmaH"
+          ],
+          "plit": [
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakAra",
+            "avalolocAmbaBUvatuH",
+            "avalolocAmAsatuH",
+            "avalolocAYcakratuH",
+            "avalolocAmbaBUvuH",
+            "avalolocAmAsuH",
+            "avalolocAYcakruH",
+            "avalolocAmbaBUviTa",
+            "avalolocAmAsiTa",
+            "avalolocAYcakarTa",
+            "avalolocAmbaBUvaTuH",
+            "avalolocAmAsaTuH",
+            "avalolocAYcakraTuH",
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakra",
+            "avalolocAmbaBUva",
+            "avalolocAmAsa",
+            "avalolocAYcakara",
+            "avalolocAYcakAra",
+            "avalolocAmbaBUviva",
+            "avalolocAmAsiva",
+            "avalolocAYcakfva",
+            "avalolocAmbaBUvima",
+            "avalolocAmAsima",
+            "avalolocAYcakfma"
+          ],
+          "plot": [
+            "avaloloktAt",
+            "avaloloktAd",
+            "avalolocItu",
+            "avaloloktu",
+            "avaloloktAm",
+            "avalolocatu",
+            "avaloloktAt",
+            "avaloloktAd",
+            "avalologDi",
+            "avaloloktam",
+            "avalolokta",
+            "avalolocAni",
+            "avalolocAva",
+            "avalolocAma"
+          ],
+          "plrung": [
+            "avAlolocizyat",
+            "avAlolocizyad",
+            "avAlolocizyatAm",
+            "avAlolocizyan",
+            "avAlolocizyaH",
+            "avAlolocizyatam",
+            "avAlolocizyata",
+            "avAlolocizyam",
+            "avAlolocizyAva",
+            "avAlolocizyAma"
+          ],
+          "plrut": [
+            "avalolocizyati",
+            "avalolocizyataH",
+            "avalolocizyanti",
+            "avalolocizyasi",
+            "avalolocizyaTaH",
+            "avalolocizyaTa",
+            "avalolocizyAmi",
+            "avalolocizyAvaH",
+            "avalolocizyAmaH"
+          ],
+          "plung": [
+            "avAlolocIt",
+            "avAlolocId",
+            "avAlolocizwAm",
+            "avAlolocizuH",
+            "avAlolocIH",
+            "avAlolocizwam",
+            "avAlolocizwa",
+            "avAlolocizam",
+            "avAlolocizva",
+            "avAlolocizma"
+          ],
+          "plut": [
+            "avalolocitA",
+            "avalolocitArO",
+            "avalolocitAraH",
+            "avalolocitAsi",
+            "avalolocitAsTaH",
+            "avalolocitAsTa",
+            "avalolocitAsmi",
+            "avalolocitAsvaH",
+            "avalolocitAsmaH"
+          ],
+          "pvidhiling": [
+            "avalolocyAt",
+            "avalolocyAd",
+            "avalolocyAtAm",
+            "avalolocyuH",
+            "avalolocyAH",
+            "avalolocyAtam",
+            "avalolocyAta",
+            "avalolocyAm",
+            "avalolocyAva",
+            "avalolocyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "avalolocizIzwa",
+            "avalolocizIyAstAm",
+            "avalolocizIran",
+            "avalolocizIzWAH",
+            "avalolocizIyAsTAm",
+            "avalolocizIDvam",
+            "avalolocizIya",
+            "avalolocizIvahi",
+            "avalolocizImahi"
+          ],
+          "alang": [
+            "avAlolocyata",
+            "avAlolocyetAm",
+            "avAlolocyanta",
+            "avAlolocyaTAH",
+            "avAlolocyeTAm",
+            "avAlolocyaDvam",
+            "avAlolocye",
+            "avAlolocyAvahi",
+            "avAlolocyAmahi"
+          ],
+          "alat": [
+            "avalolocyate",
+            "avalolocyete",
+            "avalolocyante",
+            "avalolocyase",
+            "avalolocyeTe",
+            "avalolocyaDve",
+            "avalolocye",
+            "avalolocyAvahe",
+            "avalolocyAmahe"
+          ],
+          "alit": [
+            "avalolocAmbaBUve",
+            "avalolocAmAse",
+            "avalolocAYcakre",
+            "avalolocAmbaBUvAte",
+            "avalolocAmAsAte",
+            "avalolocAYcakrAte",
+            "avalolocAmbaBUvire",
+            "avalolocAmAsire",
+            "avalolocAYcakrire",
+            "avalolocAmbaBUvize",
+            "avalolocAmAsize",
+            "avalolocAYcakfze",
+            "avalolocAmbaBUvATe",
+            "avalolocAmAsATe",
+            "avalolocAYcakrATe",
+            "avalolocAmbaBUviQve",
+            "avalolocAmAsiDve",
+            "avalolocAYcakfQve",
+            "avalolocAmbaBUve",
+            "avalolocAmAhe",
+            "avalolocAYcakre",
+            "avalolocAmbaBUvivahe",
+            "avalolocAmAsivahe",
+            "avalolocAYcakfvahe",
+            "avalolocAmbaBUvimahe",
+            "avalolocAmAsimahe",
+            "avalolocAYcakfmahe"
+          ],
+          "alot": [
+            "avalolocyatAm",
+            "avalolocyetAm",
+            "avalolocyantAm",
+            "avalolocyasva",
+            "avalolocyeTAm",
+            "avalolocyaDvam",
+            "avalolocyE",
+            "avalolocyAvahE",
+            "avalolocyAmahE"
+          ],
+          "alrung": [
+            "avAlolocizyata",
+            "avAlolocizyetAm",
+            "avAlolocizyanta",
+            "avAlolocizyaTAH",
+            "avAlolocizyeTAm",
+            "avAlolocizyaDvam",
+            "avAlolocizye",
+            "avAlolocizyAvahi",
+            "avAlolocizyAmahi"
+          ],
+          "alrut": [
+            "avalolocizyate",
+            "avalolocizyete",
+            "avalolocizyante",
+            "avalolocizyase",
+            "avalolocizyeTe",
+            "avalolocizyaDve",
+            "avalolocizye",
+            "avalolocizyAvahe",
+            "avalolocizyAmahe"
+          ],
+          "alung": [
+            "avAloloci",
+            "avAlolocizAtAm",
+            "avAlolocizata",
+            "avAlolocizWAH",
+            "avAlolocizATAm",
+            "avAlolociDvam",
+            "avAlolocizi",
+            "avAlolocizvahi",
+            "avAlolocizmahi"
+          ],
+          "alut": [
+            "avalolocitA",
+            "avalolocitArO",
+            "avalolocitAraH",
+            "avalolocitAse",
+            "avalolocitAsATe",
+            "avalolocitADve",
+            "avalolocitAhe",
+            "avalolocitAsvahe",
+            "avalolocitAsmahe"
+          ],
+          "avidhiling": [
+            "avalolocyeta",
+            "avalolocyeyAtAm",
+            "avalolocyeran",
+            "avalolocyeTAH",
+            "avalolocyeyATAm",
+            "avalolocyeDvam",
+            "avalolocyeya",
+            "avalolocyevahi",
+            "avalolocyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "avalocA",
+              "m": "",
+              "f": "avalocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "avaloca",
+              "m": "avalocaH",
+              "f": "avalocA",
+              "n": "avalocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "avalocanIya",
+              "m": "avalocanIyaH",
+              "f": "avalocanIyA",
+              "n": "avalocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "avalocita",
+              "m": "avalocitaH",
+              "f": "avalocitA",
+              "n": "avalocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "avalocitavat",
+              "m": "avalocitavAn",
+              "f": "avalocitavatI",
+              "n": "avalocitavat/avalocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "avalokti",
+              "m": "",
+              "f": "avaloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "avalulocvas",
+              "m": "avalulocvAn",
+              "f": "avalulocuzI",
+              "n": "avalulocvat/avalulocvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "avaloka",
+              "m": "avalokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "avalocamAna",
+              "m": "avalocamAnaH",
+              "f": "avalocamAnA",
+              "n": "avalocamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "avalocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "avalocya",
+              "m": "avalocyaH",
+              "f": "avalocyA",
+              "n": "avalocyam"
+            },
+            {
+              "base": "avalokya",
+              "m": "avalokyaH",
+              "f": "avalokyA",
+              "n": "avalokyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "avalocaka",
+              "m": "avalocakaH",
+              "f": "avalocikA",
+              "n": "avalocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "avalocitavya",
+              "m": "avalocitavyaH",
+              "f": "avalocitavyA",
+              "n": "avalocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "avalocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "avalocitf",
+              "m": "avalocitA",
+              "f": "avalocitrI",
+              "n": "avalocitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "avalocamAna",
+              "m": "avalocamAnaH",
+              "f": "avalocamAnA",
+              "n": "avalocamAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "avalocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "avalocana",
+              "m": "",
+              "f": "",
+              "n": "avalocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "avalocaka",
+              "m": "avalocakaH",
+              "f": "avalocikA",
+              "n": "avalocakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "avalocamAna",
+              "m": "avalocamAnaH",
+              "f": "avalocamAnA",
+              "n": "avalocamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "avalocamAna",
+              "m": "avalocamAnaH",
+              "f": "avalocamAnA",
+              "n": "avalocamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "avalocamAna",
+              "m": "avalocamAnaH",
+              "f": "avalocamAnA",
+              "n": "avalocamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "avalulocizA",
+              "m": "",
+              "f": "avalulocizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "avalulociza",
+              "m": "avalulocizaH",
+              "f": "avalulocizA",
+              "n": "avalulocizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "avalulocizaRIya",
+              "m": "avalulocizaRIyaH",
+              "f": "avalulocizaRIyA",
+              "n": "avalulocizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "avalulocizu",
+              "m": "avalulocizuH",
+              "f": "avalulocizuH",
+              "n": "avalulocizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "avalulocizita",
+              "m": "avalulocizitaH",
+              "f": "avalulocizitA",
+              "n": "avalulocizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "avalulocizitavat",
+              "m": "avalulocizitavAn",
+              "f": "avalulocizitavatI",
+              "n": "avalulocizitavat/avalulocizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "avalulocizwi",
+              "m": "",
+              "f": "avalulocizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "avalulocizAmbaBUvas",
+              "m": "avalulocizAmbaBUvAn",
+              "f": "avalulocizAmbaBUzI",
+              "n": "avalulocizAmbaBUvat/avalulocizAmbaBUvad"
+            },
+            {
+              "base": "avalulocizAmAsivas",
+              "m": "avalulocizAmAsivAn",
+              "f": "avalulocizAmAsyuzI",
+              "n": "avalulocizAmAsivat/avalulocizAmAsivad"
+            },
+            {
+              "base": "avalulocizAYcakfvas",
+              "m": "avalulocizAYcakfvAn",
+              "f": "avalulocizAYcakruzI",
+              "n": "avalulocizAYcakfvat/avalulocizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "avalulociza",
+              "m": "avalulocizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "avalulocizamARa",
+              "m": "avalulocizamARaH",
+              "f": "avalulocizamARA",
+              "n": "avalulocizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "avalulocizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "avalulocizaka",
+              "m": "avalulocizakaH",
+              "f": "avalulocizikA",
+              "n": "avalulocizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "avalulocizitavya",
+              "m": "avalulocizitavyaH",
+              "f": "avalulocizitavyA",
+              "n": "avalulocizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "avalulocizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "avalulocizitf",
+              "m": "avalulocizitA",
+              "f": "avalulocizitrI",
+              "n": "avalulocizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "avalulocizamARa",
+              "m": "avalulocizamARaH",
+              "f": "avalulocizamARA",
+              "n": "avalulocizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "avalulocizya",
+              "m": "avalulocizyaH",
+              "f": "avalulocizyA",
+              "n": "avalulocizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "avalulocizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "avalulocizaRa",
+              "m": "",
+              "f": "",
+              "n": "avalulocizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "avalulocizaka",
+              "m": "avalulocizakaH",
+              "f": "avalulocizikA",
+              "n": "avalulocizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "avalulocizamARa",
+              "m": "avalulocizamARaH",
+              "f": "avalulocizamARA",
+              "n": "avalulocizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "avalulocizamARa",
+              "m": "avalulocizamARaH",
+              "f": "avalulocizamARA",
+              "n": "avalulocizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "avalulocizamARa",
+              "m": "avalulocizamARaH",
+              "f": "avalulocizamARA",
+              "n": "avalulocizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "avaloca",
+              "m": "avalocaH",
+              "f": "avalocA",
+              "n": "avalocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "avalocanIya",
+              "m": "avalocanIyaH",
+              "f": "avalocanIyA",
+              "n": "avalocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "avalocita",
+              "m": "avalocitaH",
+              "f": "avalocitA",
+              "n": "avalocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "avalocitavat",
+              "m": "avalocitavAn",
+              "f": "avalocitavatI",
+              "n": "avalocitavat/avalocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "avalokti",
+              "m": "",
+              "f": "avaloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "avalocayAmbaBUvas",
+              "m": "avalocayAmbaBUvAn",
+              "f": "avalocayAmbaBUzI",
+              "n": "avalocayAmbaBUvat/avalocayAmbaBUvad"
+            },
+            {
+              "base": "avalocayAmAsivas",
+              "m": "avalocayAmAsivAn",
+              "f": "avalocayAmAsyuzI",
+              "n": "avalocayAmAsivat/avalocayAmAsivad"
+            },
+            {
+              "base": "avalocayAYcakfvas",
+              "m": "avalocayAYcakfvAn",
+              "f": "avalocayAYcakruzI",
+              "n": "avalocayAYcakfvat/avalocayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "avalocayamAna",
+              "m": "avalocayamAnaH",
+              "f": "avalocayamAnA",
+              "n": "avalocayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "avalocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "avalocaka",
+              "m": "avalocakaH",
+              "f": "avalocikA",
+              "n": "avalocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "avalocayitavya",
+              "m": "avalocayitavyaH",
+              "f": "avalocayitavyA",
+              "n": "avalocayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "avalocayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "avalocayitf",
+              "m": "avalocayitA",
+              "f": "avalocayitrI",
+              "n": "avalocayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "avalocayamAna",
+              "m": "avalocayamAnaH",
+              "f": "avalocayamAnA",
+              "n": "avalocayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "avalocya",
+              "m": "avalocyaH",
+              "f": "avalocyA",
+              "n": "avalocyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "avalocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "avalocana",
+              "m": "",
+              "f": "",
+              "n": "avalocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "avalocaka",
+              "m": "avalocakaH",
+              "f": "avalocikA",
+              "n": "avalocakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "avalocayat",
+              "m": "avalocayan",
+              "f": "avalocayantI",
+              "n": "avalocayat/avalocayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "avalocayamAna",
+              "m": "avalocayamAnaH",
+              "f": "avalocayamAnA",
+              "n": "avalocayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "avalocayamAna",
+              "m": "avalocayamAnaH",
+              "f": "avalocayamAnA",
+              "n": "avalocayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "avalocayat",
+              "m": "avalocayan",
+              "f": "avalocayatI/avalocayantI",
+              "n": "avalocayat/avalocayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "avalocayamAna",
+              "m": "avalocayamAnaH",
+              "f": "avalocayamAnA",
+              "n": "avalocayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "avalolocA",
+              "m": "",
+              "f": "avalolocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "avaloloca",
+              "m": "avalolocaH",
+              "f": "avalolocA",
+              "n": "avalolocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "avalolocanIya",
+              "m": "avalolocanIyaH",
+              "f": "avalolocanIyA",
+              "n": "avalolocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "avalolocita",
+              "m": "avalolocitaH",
+              "f": "avalolocitA",
+              "n": "avalolocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "avalolocitavat",
+              "m": "avalolocitavAn",
+              "f": "avalolocitavatI",
+              "n": "avalolocitavat/avalolocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "avalolokti",
+              "m": "",
+              "f": "avaloloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "avalolocAmbaBUvas",
+              "m": "avalolocAmbaBUvAn",
+              "f": "avalolocAmbaBUzI",
+              "n": "avalolocAmbaBUvat/avalolocAmbaBUvad"
+            },
+            {
+              "base": "avalolocAmAsivas",
+              "m": "avalolocAmAsivAn",
+              "f": "avalolocAmAsyuzI",
+              "n": "avalolocAmAsivat/avalolocAmAsivad"
+            },
+            {
+              "base": "avalolocAYcakfvas",
+              "m": "avalolocAYcakfvAn",
+              "f": "avalolocAYcakruzI",
+              "n": "avalolocAYcakfvat/avalolocAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "avaloloka",
+              "m": "avalolokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "avalolocyamAna",
+              "m": "avalolocyamAnaH",
+              "f": "avalolocyamAnA",
+              "n": "avalolocyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "avalolocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "avalolocaka",
+              "m": "avalolocakaH",
+              "f": "avalolocikA",
+              "n": "avalolocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "avalolocitavya",
+              "m": "avalolocitavyaH",
+              "f": "avalolocitavyA",
+              "n": "avalolocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "avalolocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "avalolocitf",
+              "m": "avalolocitA",
+              "f": "avalolocitrI",
+              "n": "avalolocitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "avalolocyamAna",
+              "m": "avalolocyamAnaH",
+              "f": "avalolocyamAnA",
+              "n": "avalolocyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "avalolocya",
+              "m": "avalolocyaH",
+              "f": "avalolocyA",
+              "n": "avalolocyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "avalolocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "avalolocana",
+              "m": "",
+              "f": "",
+              "n": "avalolocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "avalolocaka",
+              "m": "avalolocakaH",
+              "f": "avalolocikA",
+              "n": "avalolocakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "avalolocyamAna",
+              "m": "avalolocyamAnaH",
+              "f": "avalolocyamAnA",
+              "n": "avalolocyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "avalolocyamAna",
+              "m": "avalolocyamAnaH",
+              "f": "avalolocyamAnA",
+              "n": "avalolocyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "avalolocyamAna",
+              "m": "avalolocyamAnaH",
+              "f": "avalolocyamAnA",
+              "n": "avalolocyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "avalolocA",
+              "m": "",
+              "f": "avalolocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "avaloloca",
+              "m": "avalolocaH",
+              "f": "avalolocA",
+              "n": "avalolocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "avalolocanIya",
+              "m": "avalolocanIyaH",
+              "f": "avalolocanIyA",
+              "n": "avalolocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "avalolocita",
+              "m": "avalolocitaH",
+              "f": "avalolocitA",
+              "n": "avalolocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "avalolocitavat",
+              "m": "avalolocitavAn",
+              "f": "avalolocitavatI",
+              "n": "avalolocitavat/avalolocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "avalolokti",
+              "m": "",
+              "f": "avaloloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "avalolocAmbaBUvas",
+              "m": "avalolocAmbaBUvAn",
+              "f": "avalolocAmbaBUzI",
+              "n": "avalolocAmbaBUvat/avalolocAmbaBUvad"
+            },
+            {
+              "base": "avalolocAmAsivas",
+              "m": "avalolocAmAsivAn",
+              "f": "avalolocAmAsyuzI",
+              "n": "avalolocAmAsivat/avalolocAmAsivad"
+            },
+            {
+              "base": "avalolocAYcakfvas",
+              "m": "avalolocAYcakfvAn",
+              "f": "avalolocAYcakruzI",
+              "n": "avalolocAYcakfvat/avalolocAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "avaloloka",
+              "m": "avalolokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "avalolocAna",
+              "m": "avalolocAnaH",
+              "f": "avalolocAnA",
+              "n": "avalolocAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "avalolocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "avalolocaka",
+              "m": "avalolocakaH",
+              "f": "avalolocikA",
+              "n": "avalolocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "avalolocitavya",
+              "m": "avalolocitavyaH",
+              "f": "avalolocitavyA",
+              "n": "avalolocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "avalolocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "avalolocitf",
+              "m": "avalolocitA",
+              "f": "avalolocitrI",
+              "n": "avalolocitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "avalolocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "avalolocana",
+              "m": "",
+              "f": "",
+              "n": "avalolocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "avalolocaka",
+              "m": "avalolocakaH",
+              "f": "avalolocikA",
+              "n": "avalolocakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "avalolocat",
+              "m": "avalolocan",
+              "f": "avalolocatI",
+              "n": "avalolocat/avalolocad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "avalolocat",
+              "m": "avalolocan",
+              "f": "avalolocatI/avalolocantI",
+              "n": "avalolocat/avalolocad"
+            }
+          ]
+        }
+      }
+    },
+    "AN": {
+      "prefix": "AN",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "AlocizIzwa",
+            "AlocizIyAstAm",
+            "AlocizIran",
+            "AlocizIzWAH",
+            "AlocizIyAsTAm",
+            "AlocizIDvam",
+            "AlocizIya",
+            "AlocizIvahi",
+            "AlocizImahi"
+          ],
+          "alang": [
+            "Alocata",
+            "AlocetAm",
+            "Alocanta",
+            "AlocaTAH",
+            "AloceTAm",
+            "AlocaDvam",
+            "Aloce",
+            "AlocAvahi",
+            "AlocAmahi"
+          ],
+          "alat": [
+            "Alocate",
+            "Alocete",
+            "Alocante",
+            "Alocase",
+            "AloceTe",
+            "AlocaDve",
+            "Aloce",
+            "AlocAvahe",
+            "AlocAmahe"
+          ],
+          "alit": [
+            "Aluloce",
+            "AlulocAte",
+            "Alulocire",
+            "Alulocize",
+            "AlulocATe",
+            "AlulociDve",
+            "Aluloce",
+            "Alulocivahe",
+            "Alulocimahe"
+          ],
+          "alot": [
+            "AlocatAm",
+            "AlocetAm",
+            "AlocantAm",
+            "Alocasva",
+            "AloceTAm",
+            "AlocaDvam",
+            "AlocE",
+            "AlocAvahE",
+            "AlocAmahE"
+          ],
+          "alrung": [
+            "Alocizyata",
+            "AlocizyetAm",
+            "Alocizyanta",
+            "AlocizyaTAH",
+            "AlocizyeTAm",
+            "AlocizyaDvam",
+            "Alocizye",
+            "AlocizyAvahi",
+            "AlocizyAmahi"
+          ],
+          "alrut": [
+            "Alocizyate",
+            "Alocizyete",
+            "Alocizyante",
+            "Alocizyase",
+            "AlocizyeTe",
+            "AlocizyaDve",
+            "Alocizye",
+            "AlocizyAvahe",
+            "AlocizyAmahe"
+          ],
+          "alung": [
+            "Alocizwa",
+            "AlocizAtAm",
+            "Alocizata",
+            "AlocizWAH",
+            "AlocizATAm",
+            "AlociDvam",
+            "Alocizi",
+            "Alocizvahi",
+            "Alocizmahi"
+          ],
+          "alut": [
+            "AlocitA",
+            "AlocitArO",
+            "AlocitAraH",
+            "AlocitAse",
+            "AlocitAsATe",
+            "AlocitADve",
+            "AlocitAhe",
+            "AlocitAsvahe",
+            "AlocitAsmahe"
+          ],
+          "avidhiling": [
+            "Aloceta",
+            "AloceyAtAm",
+            "Aloceran",
+            "AloceTAH",
+            "AloceyATAm",
+            "AloceDvam",
+            "Aloceya",
+            "Alocevahi",
+            "Alocemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "AlocizIzwa",
+            "AlocizIyAstAm",
+            "AlocizIran",
+            "AlocizIzWAH",
+            "AlocizIyAsTAm",
+            "AlocizIDvam",
+            "AlocizIya",
+            "AlocizIvahi",
+            "AlocizImahi"
+          ],
+          "alang": [
+            "Alocyata",
+            "AlocyetAm",
+            "Alocyanta",
+            "AlocyaTAH",
+            "AlocyeTAm",
+            "AlocyaDvam",
+            "Alocye",
+            "AlocyAvahi",
+            "AlocyAmahi"
+          ],
+          "alat": [
+            "Alocyate",
+            "Alocyete",
+            "Alocyante",
+            "Alocyase",
+            "AlocyeTe",
+            "AlocyaDve",
+            "Alocye",
+            "AlocyAvahe",
+            "AlocyAmahe"
+          ],
+          "alit": [
+            "Aluloce",
+            "AlulocAte",
+            "Alulocire",
+            "Alulocize",
+            "AlulocATe",
+            "AlulociDve",
+            "Aluloce",
+            "Alulocivahe",
+            "Alulocimahe"
+          ],
+          "alot": [
+            "AlocyatAm",
+            "AlocyetAm",
+            "AlocyantAm",
+            "Alocyasva",
+            "AlocyeTAm",
+            "AlocyaDvam",
+            "AlocyE",
+            "AlocyAvahE",
+            "AlocyAmahE"
+          ],
+          "alrung": [
+            "Alocizyata",
+            "AlocizyetAm",
+            "Alocizyanta",
+            "AlocizyaTAH",
+            "AlocizyeTAm",
+            "AlocizyaDvam",
+            "Alocizye",
+            "AlocizyAvahi",
+            "AlocizyAmahi"
+          ],
+          "alrut": [
+            "Alocizyate",
+            "Alocizyete",
+            "Alocizyante",
+            "Alocizyase",
+            "AlocizyeTe",
+            "AlocizyaDve",
+            "Alocizye",
+            "AlocizyAvahe",
+            "AlocizyAmahe"
+          ],
+          "alung": [
+            "Aloci",
+            "AlocizAtAm",
+            "Alocizata",
+            "AlocizWAH",
+            "AlocizATAm",
+            "AlociDvam",
+            "Alocizi",
+            "Alocizvahi",
+            "Alocizmahi"
+          ],
+          "alut": [
+            "AlocitA",
+            "AlocitArO",
+            "AlocitAraH",
+            "AlocitAse",
+            "AlocitAsATe",
+            "AlocitADve",
+            "AlocitAhe",
+            "AlocitAsvahe",
+            "AlocitAsmahe"
+          ],
+          "avidhiling": [
+            "Alocyeta",
+            "AlocyeyAtAm",
+            "Alocyeran",
+            "AlocyeTAH",
+            "AlocyeyATAm",
+            "AlocyeDvam",
+            "Alocyeya",
+            "Alocyevahi",
+            "Alocyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "AlulocizizIzwa",
+            "AlulocizizIyAstAm",
+            "AlulocizizIran",
+            "AlulocizizIzWAH",
+            "AlulocizizIyAsTAm",
+            "AlulocizizIDvam",
+            "AlulocizizIya",
+            "AlulocizizIvahi",
+            "AlulocizizImahi"
+          ],
+          "alang": [
+            "Alulocizata",
+            "AlulocizetAm",
+            "Alulocizanta",
+            "AlulocizaTAH",
+            "AlulocizeTAm",
+            "AlulocizaDvam",
+            "Alulocize",
+            "AlulocizAvahi",
+            "AlulocizAmahi"
+          ],
+          "alat": [
+            "Alulocizate",
+            "Alulocizete",
+            "Alulocizante",
+            "Alulocizase",
+            "AlulocizeTe",
+            "AlulocizaDve",
+            "Alulocize",
+            "AlulocizAvahe",
+            "AlulocizAmahe"
+          ],
+          "alit": [
+            "AlulocizAmbaBUva",
+            "AlulocizAmAsa",
+            "AlulocizAYcakre",
+            "AlulocizAmbaBUvatuH",
+            "AlulocizAmAsatuH",
+            "AlulocizAYcakrAte",
+            "AlulocizAmbaBUvuH",
+            "AlulocizAmAsuH",
+            "AlulocizAYcakrire",
+            "AlulocizAmbaBUviTa",
+            "AlulocizAmAsiTa",
+            "AlulocizAYcakfze",
+            "AlulocizAmbaBUvaTuH",
+            "AlulocizAmAsaTuH",
+            "AlulocizAYcakrATe",
+            "AlulocizAmbaBUva",
+            "AlulocizAmAsa",
+            "AlulocizAYcakfQve",
+            "AlulocizAmbaBUva",
+            "AlulocizAmAsa",
+            "AlulocizAYcakre",
+            "AlulocizAmbaBUviva",
+            "AlulocizAmAsiva",
+            "AlulocizAYcakfvahe",
+            "AlulocizAmbaBUvima",
+            "AlulocizAmAsima",
+            "AlulocizAYcakfmahe"
+          ],
+          "alot": [
+            "AlulocizatAm",
+            "AlulocizetAm",
+            "AlulocizantAm",
+            "Alulocizasva",
+            "AlulocizeTAm",
+            "AlulocizaDvam",
+            "AlulocizE",
+            "AlulocizAvahE",
+            "AlulocizAmahE"
+          ],
+          "alrung": [
+            "Alulocizizyata",
+            "AlulocizizyetAm",
+            "Alulocizizyanta",
+            "AlulocizizyaTAH",
+            "AlulocizizyeTAm",
+            "AlulocizizyaDvam",
+            "Alulocizizye",
+            "AlulocizizyAvahi",
+            "AlulocizizyAmahi"
+          ],
+          "alrut": [
+            "Alulocizizyate",
+            "Alulocizizyete",
+            "Alulocizizyante",
+            "Alulocizizyase",
+            "AlulocizizyeTe",
+            "AlulocizizyaDve",
+            "Alulocizizye",
+            "AlulocizizyAvahe",
+            "AlulocizizyAmahe"
+          ],
+          "alung": [
+            "Alulocizizwa",
+            "AlulocizizAtAm",
+            "Alulocizizata",
+            "AlulocizizWAH",
+            "AlulocizizATAm",
+            "AlulociziDvam",
+            "Alulocizizi",
+            "Alulocizizvahi",
+            "Alulocizizmahi"
+          ],
+          "alut": [
+            "AlulocizitA",
+            "AlulocizitArO",
+            "AlulocizitAraH",
+            "AlulocizitAse",
+            "AlulocizitAsATe",
+            "AlulocizitADve",
+            "AlulocizitAhe",
+            "AlulocizitAsvahe",
+            "AlulocizitAsmahe"
+          ],
+          "avidhiling": [
+            "Alulocizeta",
+            "AlulocizeyAtAm",
+            "Alulocizeran",
+            "AlulocizeTAH",
+            "AlulocizeyATAm",
+            "AlulocizeDvam",
+            "Alulocizeya",
+            "Alulocizevahi",
+            "Alulocizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "AlulocizizIzwa",
+            "AlulocizizIyAstAm",
+            "AlulocizizIran",
+            "AlulocizizIzWAH",
+            "AlulocizizIyAsTAm",
+            "AlulocizizIDvam",
+            "AlulocizizIya",
+            "AlulocizizIvahi",
+            "AlulocizizImahi"
+          ],
+          "alang": [
+            "Alulocizyata",
+            "AlulocizyetAm",
+            "Alulocizyanta",
+            "AlulocizyaTAH",
+            "AlulocizyeTAm",
+            "AlulocizyaDvam",
+            "Alulocizye",
+            "AlulocizyAvahi",
+            "AlulocizyAmahi"
+          ],
+          "alat": [
+            "Alulocizyate",
+            "Alulocizyete",
+            "Alulocizyante",
+            "Alulocizyase",
+            "AlulocizyeTe",
+            "AlulocizyaDve",
+            "Alulocizye",
+            "AlulocizyAvahe",
+            "AlulocizyAmahe"
+          ],
+          "alit": [
+            "AlulocizAmbaBUve",
+            "AlulocizAmAse",
+            "AlulocizAYcakre",
+            "AlulocizAmbaBUvAte",
+            "AlulocizAmAsAte",
+            "AlulocizAYcakrAte",
+            "AlulocizAmbaBUvire",
+            "AlulocizAmAsire",
+            "AlulocizAYcakrire",
+            "AlulocizAmbaBUvize",
+            "AlulocizAmAsize",
+            "AlulocizAYcakfze",
+            "AlulocizAmbaBUvATe",
+            "AlulocizAmAsATe",
+            "AlulocizAYcakrATe",
+            "AlulocizAmbaBUviQve",
+            "AlulocizAmAsiDve",
+            "AlulocizAYcakfQve",
+            "AlulocizAmbaBUve",
+            "AlulocizAmAhe",
+            "AlulocizAYcakre",
+            "AlulocizAmbaBUvivahe",
+            "AlulocizAmAsivahe",
+            "AlulocizAYcakfvahe",
+            "AlulocizAmbaBUvimahe",
+            "AlulocizAmAsimahe",
+            "AlulocizAYcakfmahe"
+          ],
+          "alot": [
+            "AlulocizyatAm",
+            "AlulocizyetAm",
+            "AlulocizyantAm",
+            "Alulocizyasva",
+            "AlulocizyeTAm",
+            "AlulocizyaDvam",
+            "AlulocizyE",
+            "AlulocizyAvahE",
+            "AlulocizyAmahE"
+          ],
+          "alrung": [
+            "Alulocizizyata",
+            "AlulocizizyetAm",
+            "Alulocizizyanta",
+            "AlulocizizyaTAH",
+            "AlulocizizyeTAm",
+            "AlulocizizyaDvam",
+            "Alulocizizye",
+            "AlulocizizyAvahi",
+            "AlulocizizyAmahi"
+          ],
+          "alrut": [
+            "Alulocizizyate",
+            "Alulocizizyete",
+            "Alulocizizyante",
+            "Alulocizizyase",
+            "AlulocizizyeTe",
+            "AlulocizizyaDve",
+            "Alulocizizye",
+            "AlulocizizyAvahe",
+            "AlulocizizyAmahe"
+          ],
+          "alung": [
+            "Alulocizi",
+            "AlulocizizAtAm",
+            "Alulocizizata",
+            "AlulocizizWAH",
+            "AlulocizizATAm",
+            "AlulociziDvam",
+            "Alulocizizi",
+            "Alulocizizvahi",
+            "Alulocizizmahi"
+          ],
+          "alut": [
+            "AlulocizitA",
+            "AlulocizitArO",
+            "AlulocizitAraH",
+            "AlulocizitAse",
+            "AlulocizitAsATe",
+            "AlulocizitADve",
+            "AlulocizitAhe",
+            "AlulocizitAsvahe",
+            "AlulocizitAsmahe"
+          ],
+          "avidhiling": [
+            "Alulocizyeta",
+            "AlulocizyeyAtAm",
+            "Alulocizyeran",
+            "AlulocizyeTAH",
+            "AlulocizyeyATAm",
+            "AlulocizyeDvam",
+            "Alulocizyeya",
+            "Alulocizyevahi",
+            "Alulocizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "AlocayizIzwa",
+            "AlocayizIyAstAm",
+            "AlocayizIran",
+            "AlocayizIzWAH",
+            "AlocayizIyAsTAm",
+            "AlocayizIQvam",
+            "AlocayizIDvam",
+            "AlocayizIya",
+            "AlocayizIvahi",
+            "AlocayizImahi"
+          ],
+          "alang": [
+            "Alocayata",
+            "AlocayetAm",
+            "Alocayanta",
+            "AlocayaTAH",
+            "AlocayeTAm",
+            "AlocayaDvam",
+            "Alocaye",
+            "AlocayAvahi",
+            "AlocayAmahi"
+          ],
+          "alat": [
+            "Alocayate",
+            "Alocayete",
+            "Alocayante",
+            "Alocayase",
+            "AlocayeTe",
+            "AlocayaDve",
+            "Alocaye",
+            "AlocayAvahe",
+            "AlocayAmahe"
+          ],
+          "alit": [
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakre",
+            "AlocayAmbaBUvatuH",
+            "AlocayAmAsatuH",
+            "AlocayAYcakrAte",
+            "AlocayAmbaBUvuH",
+            "AlocayAmAsuH",
+            "AlocayAYcakrire",
+            "AlocayAmbaBUviTa",
+            "AlocayAmAsiTa",
+            "AlocayAYcakfze",
+            "AlocayAmbaBUvaTuH",
+            "AlocayAmAsaTuH",
+            "AlocayAYcakrATe",
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakfQve",
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakre",
+            "AlocayAmbaBUviva",
+            "AlocayAmAsiva",
+            "AlocayAYcakfvahe",
+            "AlocayAmbaBUvima",
+            "AlocayAmAsima",
+            "AlocayAYcakfmahe"
+          ],
+          "alot": [
+            "AlocayatAm",
+            "AlocayetAm",
+            "AlocayantAm",
+            "Alocayasva",
+            "AlocayeTAm",
+            "AlocayaDvam",
+            "AlocayE",
+            "AlocayAvahE",
+            "AlocayAmahE"
+          ],
+          "alrung": [
+            "Alocayizyata",
+            "AlocayizyetAm",
+            "Alocayizyanta",
+            "AlocayizyaTAH",
+            "AlocayizyeTAm",
+            "AlocayizyaDvam",
+            "Alocayizye",
+            "AlocayizyAvahi",
+            "AlocayizyAmahi"
+          ],
+          "alrut": [
+            "Alocayizyate",
+            "Alocayizyete",
+            "Alocayizyante",
+            "Alocayizyase",
+            "AlocayizyeTe",
+            "AlocayizyaDve",
+            "Alocayizye",
+            "AlocayizyAvahe",
+            "AlocayizyAmahe"
+          ],
+          "alung": [
+            "Alulocata",
+            "AlulocetAm",
+            "Alulocanta",
+            "AlulocaTAH",
+            "AluloceTAm",
+            "AlulocaDvam",
+            "Aluloce",
+            "AlulocAvahi",
+            "AlulocAmahi"
+          ],
+          "alut": [
+            "AlocayitA",
+            "AlocayitArO",
+            "AlocayitAraH",
+            "AlocayitAse",
+            "AlocayitAsATe",
+            "AlocayitADve",
+            "AlocayitAhe",
+            "AlocayitAsvahe",
+            "AlocayitAsmahe"
+          ],
+          "avidhiling": [
+            "Alocayeta",
+            "AlocayeyAtAm",
+            "Alocayeran",
+            "AlocayeTAH",
+            "AlocayeyATAm",
+            "AlocayeDvam",
+            "Alocayeya",
+            "Alocayevahi",
+            "Alocayemahi"
+          ],
+          "pashirling": [
+            "AlocyAt",
+            "AlocyAd",
+            "AlocyAstAm",
+            "AlocyAsuH",
+            "AlocyAH",
+            "AlocyAstam",
+            "AlocyAsta",
+            "AlocyAsam",
+            "AlocyAsva",
+            "AlocyAsma"
+          ],
+          "plang": [
+            "Alocayat",
+            "Alocayad",
+            "AlocayatAm",
+            "Alocayan",
+            "AlocayaH",
+            "Alocayatam",
+            "Alocayata",
+            "Alocayam",
+            "AlocayAva",
+            "AlocayAma"
+          ],
+          "plat": [
+            "Alocayati",
+            "AlocayataH",
+            "Alocayanti",
+            "Alocayasi",
+            "AlocayaTaH",
+            "AlocayaTa",
+            "AlocayAmi",
+            "AlocayAvaH",
+            "AlocayAmaH"
+          ],
+          "plit": [
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakAra",
+            "AlocayAmbaBUvatuH",
+            "AlocayAmAsatuH",
+            "AlocayAYcakratuH",
+            "AlocayAmbaBUvuH",
+            "AlocayAmAsuH",
+            "AlocayAYcakruH",
+            "AlocayAmbaBUviTa",
+            "AlocayAmAsiTa",
+            "AlocayAYcakarTa",
+            "AlocayAmbaBUvaTuH",
+            "AlocayAmAsaTuH",
+            "AlocayAYcakraTuH",
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakra",
+            "AlocayAmbaBUva",
+            "AlocayAmAsa",
+            "AlocayAYcakara",
+            "AlocayAYcakAra",
+            "AlocayAmbaBUviva",
+            "AlocayAmAsiva",
+            "AlocayAYcakfva",
+            "AlocayAmbaBUvima",
+            "AlocayAmAsima",
+            "AlocayAYcakfma"
+          ],
+          "plot": [
+            "AlocayatAt",
+            "AlocayatAd",
+            "Alocayatu",
+            "AlocayatAm",
+            "Alocayantu",
+            "AlocayatAt",
+            "AlocayatAd",
+            "Alocaya",
+            "Alocayatam",
+            "Alocayata",
+            "AlocayAni",
+            "AlocayAva",
+            "AlocayAma"
+          ],
+          "plrung": [
+            "Alocayizyat",
+            "Alocayizyad",
+            "AlocayizyatAm",
+            "Alocayizyan",
+            "AlocayizyaH",
+            "Alocayizyatam",
+            "Alocayizyata",
+            "Alocayizyam",
+            "AlocayizyAva",
+            "AlocayizyAma"
+          ],
+          "plrut": [
+            "Alocayizyati",
+            "AlocayizyataH",
+            "Alocayizyanti",
+            "Alocayizyasi",
+            "AlocayizyaTaH",
+            "AlocayizyaTa",
+            "AlocayizyAmi",
+            "AlocayizyAvaH",
+            "AlocayizyAmaH"
+          ],
+          "plung": [
+            "Alulocat",
+            "Alulocad",
+            "AlulocatAm",
+            "Alulocan",
+            "AlulocaH",
+            "Alulocatam",
+            "Alulocata",
+            "Alulocam",
+            "AlulocAva",
+            "AlulocAma"
+          ],
+          "plut": [
+            "AlocayitA",
+            "AlocayitArO",
+            "AlocayitAraH",
+            "AlocayitAsi",
+            "AlocayitAsTaH",
+            "AlocayitAsTa",
+            "AlocayitAsmi",
+            "AlocayitAsvaH",
+            "AlocayitAsmaH"
+          ],
+          "pvidhiling": [
+            "Alocayet",
+            "Alocayed",
+            "AlocayetAm",
+            "AlocayeyuH",
+            "AlocayeH",
+            "Alocayetam",
+            "Alocayeta",
+            "Alocayeyam",
+            "Alocayeva",
+            "Alocayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "AlocizIzwa",
+            "AlocayizIzwa",
+            "AlocizIyAstAm",
+            "AlocayizIyAstAm",
+            "AlocizIran",
+            "AlocayizIran",
+            "AlocizIzWAH",
+            "AlocayizIzWAH",
+            "AlocizIyAsTAm",
+            "AlocayizIyAsTAm",
+            "AlocizIDvam",
+            "AlocayizIQvam",
+            "AlocayizIDvam",
+            "AlocizIya",
+            "AlocayizIya",
+            "AlocizIvahi",
+            "AlocayizIvahi",
+            "AlocizImahi",
+            "AlocayizImahi"
+          ],
+          "alang": [
+            "Alocyata",
+            "AlocyetAm",
+            "Alocyanta",
+            "AlocyaTAH",
+            "AlocyeTAm",
+            "AlocyaDvam",
+            "Alocye",
+            "AlocyAvahi",
+            "AlocyAmahi"
+          ],
+          "alat": [
+            "Alocyate",
+            "Alocyete",
+            "Alocyante",
+            "Alocyase",
+            "AlocyeTe",
+            "AlocyaDve",
+            "Alocye",
+            "AlocyAvahe",
+            "AlocyAmahe"
+          ],
+          "alit": [
+            "AlocayAmbaBUve",
+            "AlocayAmAse",
+            "AlocayAYcakre",
+            "AlocayAmbaBUvAte",
+            "AlocayAmAsAte",
+            "AlocayAYcakrAte",
+            "AlocayAmbaBUvire",
+            "AlocayAmAsire",
+            "AlocayAYcakrire",
+            "AlocayAmbaBUvize",
+            "AlocayAmAsize",
+            "AlocayAYcakfze",
+            "AlocayAmbaBUvATe",
+            "AlocayAmAsATe",
+            "AlocayAYcakrATe",
+            "AlocayAmbaBUviQve",
+            "AlocayAmAsiDve",
+            "AlocayAYcakfQve",
+            "AlocayAmbaBUve",
+            "AlocayAmAhe",
+            "AlocayAYcakre",
+            "AlocayAmbaBUvivahe",
+            "AlocayAmAsivahe",
+            "AlocayAYcakfvahe",
+            "AlocayAmbaBUvimahe",
+            "AlocayAmAsimahe",
+            "AlocayAYcakfmahe"
+          ],
+          "alot": [
+            "AlocyatAm",
+            "AlocyetAm",
+            "AlocyantAm",
+            "Alocyasva",
+            "AlocyeTAm",
+            "AlocyaDvam",
+            "AlocyE",
+            "AlocyAvahE",
+            "AlocyAmahE"
+          ],
+          "alrung": [
+            "Alocizyata",
+            "Alocayizyata",
+            "AlocizyetAm",
+            "AlocayizyetAm",
+            "Alocizyanta",
+            "Alocayizyanta",
+            "AlocizyaTAH",
+            "AlocayizyaTAH",
+            "AlocizyeTAm",
+            "AlocayizyeTAm",
+            "AlocizyaDvam",
+            "AlocayizyaDvam",
+            "Alocizye",
+            "Alocayizye",
+            "AlocizyAvahi",
+            "AlocayizyAvahi",
+            "AlocizyAmahi",
+            "AlocayizyAmahi"
+          ],
+          "alrut": [
+            "Alocizyate",
+            "Alocayizyate",
+            "Alocizyete",
+            "Alocayizyete",
+            "Alocizyante",
+            "Alocayizyante",
+            "Alocizyase",
+            "Alocayizyase",
+            "AlocizyeTe",
+            "AlocayizyeTe",
+            "AlocizyaDve",
+            "AlocayizyaDve",
+            "Alocizye",
+            "Alocayizye",
+            "AlocizyAvahe",
+            "AlocayizyAvahe",
+            "AlocizyAmahe",
+            "AlocayizyAmahe"
+          ],
+          "alung": [
+            "Aloci",
+            "AlocizAtAm",
+            "AlocayizAtAm",
+            "Alocizata",
+            "Alocayizata",
+            "AlocizWAH",
+            "AlocayizWAH",
+            "AlocizATAm",
+            "AlocayizATAm",
+            "AlociDvam",
+            "AlocayiQvam",
+            "AlocayiDvam",
+            "Alocizi",
+            "Alocayizi",
+            "Alocizvahi",
+            "Alocayizvahi",
+            "Alocizmahi",
+            "Alocayizmahi"
+          ],
+          "alut": [
+            "AlocitA",
+            "AlocayitA",
+            "AlocitArO",
+            "AlocayitArO",
+            "AlocitAraH",
+            "AlocayitAraH",
+            "AlocitAse",
+            "AlocayitAse",
+            "AlocitAsATe",
+            "AlocayitAsATe",
+            "AlocitADve",
+            "AlocayitADve",
+            "AlocitAhe",
+            "AlocayitAhe",
+            "AlocitAsvahe",
+            "AlocayitAsvahe",
+            "AlocitAsmahe",
+            "AlocayitAsmahe"
+          ],
+          "avidhiling": [
+            "Alocyeta",
+            "AlocyeyAtAm",
+            "Alocyeran",
+            "AlocyeTAH",
+            "AlocyeyATAm",
+            "AlocyeDvam",
+            "Alocyeya",
+            "Alocyevahi",
+            "Alocyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "AlolocizIzwa",
+            "AlolocizIyAstAm",
+            "AlolocizIran",
+            "AlolocizIzWAH",
+            "AlolocizIyAsTAm",
+            "AlolocizIDvam",
+            "AlolocizIya",
+            "AlolocizIvahi",
+            "AlolocizImahi"
+          ],
+          "alang": [
+            "Alolocyata",
+            "AlolocyetAm",
+            "Alolocyanta",
+            "AlolocyaTAH",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "Alolocye",
+            "AlolocyAvahi",
+            "AlolocyAmahi"
+          ],
+          "alat": [
+            "Alolocyate",
+            "Alolocyete",
+            "Alolocyante",
+            "Alolocyase",
+            "AlolocyeTe",
+            "AlolocyaDve",
+            "Alolocye",
+            "AlolocyAvahe",
+            "AlolocyAmahe"
+          ],
+          "alit": [
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakre",
+            "AlolocAmbaBUvatuH",
+            "AlolocAmAsatuH",
+            "AlolocAYcakrAte",
+            "AlolocAmbaBUvuH",
+            "AlolocAmAsuH",
+            "AlolocAYcakrire",
+            "AlolocAmbaBUviTa",
+            "AlolocAmAsiTa",
+            "AlolocAYcakfze",
+            "AlolocAmbaBUvaTuH",
+            "AlolocAmAsaTuH",
+            "AlolocAYcakrATe",
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakfQve",
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakre",
+            "AlolocAmbaBUviva",
+            "AlolocAmAsiva",
+            "AlolocAYcakfvahe",
+            "AlolocAmbaBUvima",
+            "AlolocAmAsima",
+            "AlolocAYcakfmahe"
+          ],
+          "alot": [
+            "AlolocyatAm",
+            "AlolocyetAm",
+            "AlolocyantAm",
+            "Alolocyasva",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "AlolocyE",
+            "AlolocyAvahE",
+            "AlolocyAmahE"
+          ],
+          "alrung": [
+            "Alolocizyata",
+            "AlolocizyetAm",
+            "Alolocizyanta",
+            "AlolocizyaTAH",
+            "AlolocizyeTAm",
+            "AlolocizyaDvam",
+            "Alolocizye",
+            "AlolocizyAvahi",
+            "AlolocizyAmahi"
+          ],
+          "alrut": [
+            "Alolocizyate",
+            "Alolocizyete",
+            "Alolocizyante",
+            "Alolocizyase",
+            "AlolocizyeTe",
+            "AlolocizyaDve",
+            "Alolocizye",
+            "AlolocizyAvahe",
+            "AlolocizyAmahe"
+          ],
+          "alung": [
+            "Alolocizwa",
+            "AlolocizAtAm",
+            "Alolocizata",
+            "AlolocizWAH",
+            "AlolocizATAm",
+            "AlolociDvam",
+            "Alolocizi",
+            "Alolocizvahi",
+            "Alolocizmahi"
+          ],
+          "alut": [
+            "AlolocitA",
+            "AlolocitArO",
+            "AlolocitAraH",
+            "AlolocitAse",
+            "AlolocitAsATe",
+            "AlolocitADve",
+            "AlolocitAhe",
+            "AlolocitAsvahe",
+            "AlolocitAsmahe"
+          ],
+          "avidhiling": [
+            "Alolocyeta",
+            "AlolocyeyAtAm",
+            "Alolocyeran",
+            "AlolocyeTAH",
+            "AlolocyeyATAm",
+            "AlolocyeDvam",
+            "Alolocyeya",
+            "Alolocyevahi",
+            "Alolocyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "AlolocizIzwa",
+            "AlolocizIyAstAm",
+            "AlolocizIran",
+            "AlolocizIzWAH",
+            "AlolocizIyAsTAm",
+            "AlolocizIDvam",
+            "AlolocizIya",
+            "AlolocizIvahi",
+            "AlolocizImahi"
+          ],
+          "alang": [
+            "Alolocyata",
+            "AlolocyetAm",
+            "Alolocyanta",
+            "AlolocyaTAH",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "Alolocye",
+            "AlolocyAvahi",
+            "AlolocyAmahi"
+          ],
+          "alat": [
+            "Alolocyate",
+            "Alolocyete",
+            "Alolocyante",
+            "Alolocyase",
+            "AlolocyeTe",
+            "AlolocyaDve",
+            "Alolocye",
+            "AlolocyAvahe",
+            "AlolocyAmahe"
+          ],
+          "alit": [
+            "AlolocAmbaBUve",
+            "AlolocAmAse",
+            "AlolocAYcakre",
+            "AlolocAmbaBUvAte",
+            "AlolocAmAsAte",
+            "AlolocAYcakrAte",
+            "AlolocAmbaBUvire",
+            "AlolocAmAsire",
+            "AlolocAYcakrire",
+            "AlolocAmbaBUvize",
+            "AlolocAmAsize",
+            "AlolocAYcakfze",
+            "AlolocAmbaBUvATe",
+            "AlolocAmAsATe",
+            "AlolocAYcakrATe",
+            "AlolocAmbaBUviQve",
+            "AlolocAmAsiDve",
+            "AlolocAYcakfQve",
+            "AlolocAmbaBUve",
+            "AlolocAmAhe",
+            "AlolocAYcakre",
+            "AlolocAmbaBUvivahe",
+            "AlolocAmAsivahe",
+            "AlolocAYcakfvahe",
+            "AlolocAmbaBUvimahe",
+            "AlolocAmAsimahe",
+            "AlolocAYcakfmahe"
+          ],
+          "alot": [
+            "AlolocyatAm",
+            "AlolocyetAm",
+            "AlolocyantAm",
+            "Alolocyasva",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "AlolocyE",
+            "AlolocyAvahE",
+            "AlolocyAmahE"
+          ],
+          "alrung": [
+            "Alolocizyata",
+            "AlolocizyetAm",
+            "Alolocizyanta",
+            "AlolocizyaTAH",
+            "AlolocizyeTAm",
+            "AlolocizyaDvam",
+            "Alolocizye",
+            "AlolocizyAvahi",
+            "AlolocizyAmahi"
+          ],
+          "alrut": [
+            "Alolocizyate",
+            "Alolocizyete",
+            "Alolocizyante",
+            "Alolocizyase",
+            "AlolocizyeTe",
+            "AlolocizyaDve",
+            "Alolocizye",
+            "AlolocizyAvahe",
+            "AlolocizyAmahe"
+          ],
+          "alung": [
+            "Aloloci",
+            "AlolocizAtAm",
+            "Alolocizata",
+            "AlolocizWAH",
+            "AlolocizATAm",
+            "AlolociDvam",
+            "Alolocizi",
+            "Alolocizvahi",
+            "Alolocizmahi"
+          ],
+          "alut": [
+            "AlolocitA",
+            "AlolocitArO",
+            "AlolocitAraH",
+            "AlolocitAse",
+            "AlolocitAsATe",
+            "AlolocitADve",
+            "AlolocitAhe",
+            "AlolocitAsvahe",
+            "AlolocitAsmahe"
+          ],
+          "avidhiling": [
+            "Alolocyeta",
+            "AlolocyeyAtAm",
+            "Alolocyeran",
+            "AlolocyeTAH",
+            "AlolocyeyATAm",
+            "AlolocyeDvam",
+            "Alolocyeya",
+            "Alolocyevahi",
+            "Alolocyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "AlolocyAt",
+            "AlolocyAd",
+            "AlolocyAstAm",
+            "AlolocyAsuH",
+            "AlolocyAH",
+            "AlolocyAstam",
+            "AlolocyAsta",
+            "AlolocyAsam",
+            "AlolocyAsva",
+            "AlolocyAsma"
+          ],
+          "plang": [
+            "AlolocIt",
+            "AlolocId",
+            "Alolok",
+            "Alolog",
+            "AloloktAm",
+            "AlolocuH",
+            "AlolocIH",
+            "Alolok",
+            "Alolog",
+            "Aloloktam",
+            "Alolokta",
+            "Alolocam",
+            "Alolocva",
+            "Alolocma"
+          ],
+          "plat": [
+            "AlolocIti",
+            "Alolokti",
+            "AloloktaH",
+            "Alolocati",
+            "AlolocIzi",
+            "Alolokzi",
+            "AlolokTaH",
+            "AlolokTa",
+            "AlolocImi",
+            "Alolocmi",
+            "AlolocvaH",
+            "AlolocmaH"
+          ],
+          "plit": [
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakAra",
+            "AlolocAmbaBUvatuH",
+            "AlolocAmAsatuH",
+            "AlolocAYcakratuH",
+            "AlolocAmbaBUvuH",
+            "AlolocAmAsuH",
+            "AlolocAYcakruH",
+            "AlolocAmbaBUviTa",
+            "AlolocAmAsiTa",
+            "AlolocAYcakarTa",
+            "AlolocAmbaBUvaTuH",
+            "AlolocAmAsaTuH",
+            "AlolocAYcakraTuH",
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakra",
+            "AlolocAmbaBUva",
+            "AlolocAmAsa",
+            "AlolocAYcakara",
+            "AlolocAYcakAra",
+            "AlolocAmbaBUviva",
+            "AlolocAmAsiva",
+            "AlolocAYcakfva",
+            "AlolocAmbaBUvima",
+            "AlolocAmAsima",
+            "AlolocAYcakfma"
+          ],
+          "plot": [
+            "AloloktAt",
+            "AloloktAd",
+            "AlolocItu",
+            "Aloloktu",
+            "AloloktAm",
+            "Alolocatu",
+            "AloloktAt",
+            "AloloktAd",
+            "AlologDi",
+            "Aloloktam",
+            "Alolokta",
+            "AlolocAni",
+            "AlolocAva",
+            "AlolocAma"
+          ],
+          "plrung": [
+            "Alolocizyat",
+            "Alolocizyad",
+            "AlolocizyatAm",
+            "Alolocizyan",
+            "AlolocizyaH",
+            "Alolocizyatam",
+            "Alolocizyata",
+            "Alolocizyam",
+            "AlolocizyAva",
+            "AlolocizyAma"
+          ],
+          "plrut": [
+            "Alolocizyati",
+            "AlolocizyataH",
+            "Alolocizyanti",
+            "Alolocizyasi",
+            "AlolocizyaTaH",
+            "AlolocizyaTa",
+            "AlolocizyAmi",
+            "AlolocizyAvaH",
+            "AlolocizyAmaH"
+          ],
+          "plung": [
+            "AlolocIt",
+            "AlolocId",
+            "AlolocizwAm",
+            "AlolocizuH",
+            "AlolocIH",
+            "Alolocizwam",
+            "Alolocizwa",
+            "Alolocizam",
+            "Alolocizva",
+            "Alolocizma"
+          ],
+          "plut": [
+            "AlolocitA",
+            "AlolocitArO",
+            "AlolocitAraH",
+            "AlolocitAsi",
+            "AlolocitAsTaH",
+            "AlolocitAsTa",
+            "AlolocitAsmi",
+            "AlolocitAsvaH",
+            "AlolocitAsmaH"
+          ],
+          "pvidhiling": [
+            "AlolocyAt",
+            "AlolocyAd",
+            "AlolocyAtAm",
+            "AlolocyuH",
+            "AlolocyAH",
+            "AlolocyAtam",
+            "AlolocyAta",
+            "AlolocyAm",
+            "AlolocyAva",
+            "AlolocyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "AlolocizIzwa",
+            "AlolocizIyAstAm",
+            "AlolocizIran",
+            "AlolocizIzWAH",
+            "AlolocizIyAsTAm",
+            "AlolocizIDvam",
+            "AlolocizIya",
+            "AlolocizIvahi",
+            "AlolocizImahi"
+          ],
+          "alang": [
+            "Alolocyata",
+            "AlolocyetAm",
+            "Alolocyanta",
+            "AlolocyaTAH",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "Alolocye",
+            "AlolocyAvahi",
+            "AlolocyAmahi"
+          ],
+          "alat": [
+            "Alolocyate",
+            "Alolocyete",
+            "Alolocyante",
+            "Alolocyase",
+            "AlolocyeTe",
+            "AlolocyaDve",
+            "Alolocye",
+            "AlolocyAvahe",
+            "AlolocyAmahe"
+          ],
+          "alit": [
+            "AlolocAmbaBUve",
+            "AlolocAmAse",
+            "AlolocAYcakre",
+            "AlolocAmbaBUvAte",
+            "AlolocAmAsAte",
+            "AlolocAYcakrAte",
+            "AlolocAmbaBUvire",
+            "AlolocAmAsire",
+            "AlolocAYcakrire",
+            "AlolocAmbaBUvize",
+            "AlolocAmAsize",
+            "AlolocAYcakfze",
+            "AlolocAmbaBUvATe",
+            "AlolocAmAsATe",
+            "AlolocAYcakrATe",
+            "AlolocAmbaBUviQve",
+            "AlolocAmAsiDve",
+            "AlolocAYcakfQve",
+            "AlolocAmbaBUve",
+            "AlolocAmAhe",
+            "AlolocAYcakre",
+            "AlolocAmbaBUvivahe",
+            "AlolocAmAsivahe",
+            "AlolocAYcakfvahe",
+            "AlolocAmbaBUvimahe",
+            "AlolocAmAsimahe",
+            "AlolocAYcakfmahe"
+          ],
+          "alot": [
+            "AlolocyatAm",
+            "AlolocyetAm",
+            "AlolocyantAm",
+            "Alolocyasva",
+            "AlolocyeTAm",
+            "AlolocyaDvam",
+            "AlolocyE",
+            "AlolocyAvahE",
+            "AlolocyAmahE"
+          ],
+          "alrung": [
+            "Alolocizyata",
+            "AlolocizyetAm",
+            "Alolocizyanta",
+            "AlolocizyaTAH",
+            "AlolocizyeTAm",
+            "AlolocizyaDvam",
+            "Alolocizye",
+            "AlolocizyAvahi",
+            "AlolocizyAmahi"
+          ],
+          "alrut": [
+            "Alolocizyate",
+            "Alolocizyete",
+            "Alolocizyante",
+            "Alolocizyase",
+            "AlolocizyeTe",
+            "AlolocizyaDve",
+            "Alolocizye",
+            "AlolocizyAvahe",
+            "AlolocizyAmahe"
+          ],
+          "alung": [
+            "Aloloci",
+            "AlolocizAtAm",
+            "Alolocizata",
+            "AlolocizWAH",
+            "AlolocizATAm",
+            "AlolociDvam",
+            "Alolocizi",
+            "Alolocizvahi",
+            "Alolocizmahi"
+          ],
+          "alut": [
+            "AlolocitA",
+            "AlolocitArO",
+            "AlolocitAraH",
+            "AlolocitAse",
+            "AlolocitAsATe",
+            "AlolocitADve",
+            "AlolocitAhe",
+            "AlolocitAsvahe",
+            "AlolocitAsmahe"
+          ],
+          "avidhiling": [
+            "Alolocyeta",
+            "AlolocyeyAtAm",
+            "Alolocyeran",
+            "AlolocyeTAH",
+            "AlolocyeyATAm",
+            "AlolocyeDvam",
+            "Alolocyeya",
+            "Alolocyevahi",
+            "Alolocyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "AlocA",
+              "m": "",
+              "f": "AlocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "Aloca",
+              "m": "AlocaH",
+              "f": "AlocA",
+              "n": "Alocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AlocanIya",
+              "m": "AlocanIyaH",
+              "f": "AlocanIyA",
+              "n": "AlocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "Alocita",
+              "m": "AlocitaH",
+              "f": "AlocitA",
+              "n": "Alocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "Alocitavat",
+              "m": "AlocitavAn",
+              "f": "AlocitavatI",
+              "n": "Alocitavat/Alocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "Alokti",
+              "m": "",
+              "f": "AloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "Alulocvas",
+              "m": "AlulocvAn",
+              "f": "AlulocuzI",
+              "n": "Alulocvat/Alulocvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "Aloka",
+              "m": "AlokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AlocamAna",
+              "m": "AlocamAnaH",
+              "f": "AlocamAnA",
+              "n": "AlocamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "Alocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "Alocya",
+              "m": "AlocyaH",
+              "f": "AlocyA",
+              "n": "Alocyam"
+            },
+            {
+              "base": "Alokya",
+              "m": "AlokyaH",
+              "f": "AlokyA",
+              "n": "Alokyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "Alocaka",
+              "m": "AlocakaH",
+              "f": "AlocikA",
+              "n": "Alocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "Alocitavya",
+              "m": "AlocitavyaH",
+              "f": "AlocitavyA",
+              "n": "Alocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "Alocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "Alocitf",
+              "m": "AlocitA",
+              "f": "AlocitrI",
+              "n": "Alocitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AlocamAna",
+              "m": "AlocamAnaH",
+              "f": "AlocamAnA",
+              "n": "AlocamAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "Alocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "Alocana",
+              "m": "",
+              "f": "",
+              "n": "Alocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "Alocaka",
+              "m": "AlocakaH",
+              "f": "AlocikA",
+              "n": "Alocakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AlocamAna",
+              "m": "AlocamAnaH",
+              "f": "AlocamAnA",
+              "n": "AlocamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AlocamAna",
+              "m": "AlocamAnaH",
+              "f": "AlocamAnA",
+              "n": "AlocamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AlocamAna",
+              "m": "AlocamAnaH",
+              "f": "AlocamAnA",
+              "n": "AlocamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "AlulocizA",
+              "m": "",
+              "f": "AlulocizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "Alulociza",
+              "m": "AlulocizaH",
+              "f": "AlulocizA",
+              "n": "Alulocizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AlulocizaRIya",
+              "m": "AlulocizaRIyaH",
+              "f": "AlulocizaRIyA",
+              "n": "AlulocizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "Alulocizu",
+              "m": "AlulocizuH",
+              "f": "AlulocizuH",
+              "n": "Alulocizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "Alulocizita",
+              "m": "AlulocizitaH",
+              "f": "AlulocizitA",
+              "n": "Alulocizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "Alulocizitavat",
+              "m": "AlulocizitavAn",
+              "f": "AlulocizitavatI",
+              "n": "Alulocizitavat/Alulocizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "Alulocizwi",
+              "m": "",
+              "f": "AlulocizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AlulocizAmbaBUvas",
+              "m": "AlulocizAmbaBUvAn",
+              "f": "AlulocizAmbaBUzI",
+              "n": "AlulocizAmbaBUvat/AlulocizAmbaBUvad"
+            },
+            {
+              "base": "AlulocizAmAsivas",
+              "m": "AlulocizAmAsivAn",
+              "f": "AlulocizAmAsyuzI",
+              "n": "AlulocizAmAsivat/AlulocizAmAsivad"
+            },
+            {
+              "base": "AlulocizAYcakfvas",
+              "m": "AlulocizAYcakfvAn",
+              "f": "AlulocizAYcakruzI",
+              "n": "AlulocizAYcakfvat/AlulocizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "Alulociza",
+              "m": "AlulocizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AlulocizamARa",
+              "m": "AlulocizamARaH",
+              "f": "AlulocizamARA",
+              "n": "AlulocizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "Alulocizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "Alulocizaka",
+              "m": "AlulocizakaH",
+              "f": "AlulocizikA",
+              "n": "Alulocizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "Alulocizitavya",
+              "m": "AlulocizitavyaH",
+              "f": "AlulocizitavyA",
+              "n": "Alulocizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "Alulocizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "Alulocizitf",
+              "m": "AlulocizitA",
+              "f": "AlulocizitrI",
+              "n": "Alulocizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AlulocizamARa",
+              "m": "AlulocizamARaH",
+              "f": "AlulocizamARA",
+              "n": "AlulocizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "Alulocizya",
+              "m": "AlulocizyaH",
+              "f": "AlulocizyA",
+              "n": "Alulocizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "Alulocizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "AlulocizaRa",
+              "m": "",
+              "f": "",
+              "n": "AlulocizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "Alulocizaka",
+              "m": "AlulocizakaH",
+              "f": "AlulocizikA",
+              "n": "Alulocizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AlulocizamARa",
+              "m": "AlulocizamARaH",
+              "f": "AlulocizamARA",
+              "n": "AlulocizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AlulocizamARa",
+              "m": "AlulocizamARaH",
+              "f": "AlulocizamARA",
+              "n": "AlulocizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AlulocizamARa",
+              "m": "AlulocizamARaH",
+              "f": "AlulocizamARA",
+              "n": "AlulocizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "Aloca",
+              "m": "AlocaH",
+              "f": "AlocA",
+              "n": "Alocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AlocanIya",
+              "m": "AlocanIyaH",
+              "f": "AlocanIyA",
+              "n": "AlocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "Alocita",
+              "m": "AlocitaH",
+              "f": "AlocitA",
+              "n": "Alocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "Alocitavat",
+              "m": "AlocitavAn",
+              "f": "AlocitavatI",
+              "n": "Alocitavat/Alocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "Alokti",
+              "m": "",
+              "f": "AloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AlocayAmbaBUvas",
+              "m": "AlocayAmbaBUvAn",
+              "f": "AlocayAmbaBUzI",
+              "n": "AlocayAmbaBUvat/AlocayAmbaBUvad"
+            },
+            {
+              "base": "AlocayAmAsivas",
+              "m": "AlocayAmAsivAn",
+              "f": "AlocayAmAsyuzI",
+              "n": "AlocayAmAsivat/AlocayAmAsivad"
+            },
+            {
+              "base": "AlocayAYcakfvas",
+              "m": "AlocayAYcakfvAn",
+              "f": "AlocayAYcakruzI",
+              "n": "AlocayAYcakfvat/AlocayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AlocayamAna",
+              "m": "AlocayamAnaH",
+              "f": "AlocayamAnA",
+              "n": "AlocayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "Alocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "Alocaka",
+              "m": "AlocakaH",
+              "f": "AlocikA",
+              "n": "Alocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "Alocayitavya",
+              "m": "AlocayitavyaH",
+              "f": "AlocayitavyA",
+              "n": "Alocayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "Alocayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "Alocayitf",
+              "m": "AlocayitA",
+              "f": "AlocayitrI",
+              "n": "Alocayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AlocayamAna",
+              "m": "AlocayamAnaH",
+              "f": "AlocayamAnA",
+              "n": "AlocayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "Alocya",
+              "m": "AlocyaH",
+              "f": "AlocyA",
+              "n": "Alocyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "Alocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "Alocana",
+              "m": "",
+              "f": "",
+              "n": "Alocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "Alocaka",
+              "m": "AlocakaH",
+              "f": "AlocikA",
+              "n": "Alocakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "Alocayat",
+              "m": "Alocayan",
+              "f": "AlocayantI",
+              "n": "Alocayat/Alocayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AlocayamAna",
+              "m": "AlocayamAnaH",
+              "f": "AlocayamAnA",
+              "n": "AlocayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AlocayamAna",
+              "m": "AlocayamAnaH",
+              "f": "AlocayamAnA",
+              "n": "AlocayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "Alocayat",
+              "m": "Alocayan",
+              "f": "AlocayatI/AlocayantI",
+              "n": "Alocayat/Alocayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AlocayamAna",
+              "m": "AlocayamAnaH",
+              "f": "AlocayamAnA",
+              "n": "AlocayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "AlolocA",
+              "m": "",
+              "f": "AlolocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "Aloloca",
+              "m": "AlolocaH",
+              "f": "AlolocA",
+              "n": "Alolocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AlolocanIya",
+              "m": "AlolocanIyaH",
+              "f": "AlolocanIyA",
+              "n": "AlolocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "Alolocita",
+              "m": "AlolocitaH",
+              "f": "AlolocitA",
+              "n": "Alolocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "Alolocitavat",
+              "m": "AlolocitavAn",
+              "f": "AlolocitavatI",
+              "n": "Alolocitavat/Alolocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "Alolokti",
+              "m": "",
+              "f": "AloloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AlolocAmbaBUvas",
+              "m": "AlolocAmbaBUvAn",
+              "f": "AlolocAmbaBUzI",
+              "n": "AlolocAmbaBUvat/AlolocAmbaBUvad"
+            },
+            {
+              "base": "AlolocAmAsivas",
+              "m": "AlolocAmAsivAn",
+              "f": "AlolocAmAsyuzI",
+              "n": "AlolocAmAsivat/AlolocAmAsivad"
+            },
+            {
+              "base": "AlolocAYcakfvas",
+              "m": "AlolocAYcakfvAn",
+              "f": "AlolocAYcakruzI",
+              "n": "AlolocAYcakfvat/AlolocAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "Aloloka",
+              "m": "AlolokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AlolocyamAna",
+              "m": "AlolocyamAnaH",
+              "f": "AlolocyamAnA",
+              "n": "AlolocyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "Alolocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "Alolocaka",
+              "m": "AlolocakaH",
+              "f": "AlolocikA",
+              "n": "Alolocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "Alolocitavya",
+              "m": "AlolocitavyaH",
+              "f": "AlolocitavyA",
+              "n": "Alolocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "Alolocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "Alolocitf",
+              "m": "AlolocitA",
+              "f": "AlolocitrI",
+              "n": "Alolocitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AlolocyamAna",
+              "m": "AlolocyamAnaH",
+              "f": "AlolocyamAnA",
+              "n": "AlolocyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "Alolocya",
+              "m": "AlolocyaH",
+              "f": "AlolocyA",
+              "n": "Alolocyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "Alolocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "Alolocana",
+              "m": "",
+              "f": "",
+              "n": "Alolocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "Alolocaka",
+              "m": "AlolocakaH",
+              "f": "AlolocikA",
+              "n": "Alolocakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AlolocyamAna",
+              "m": "AlolocyamAnaH",
+              "f": "AlolocyamAnA",
+              "n": "AlolocyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AlolocyamAna",
+              "m": "AlolocyamAnaH",
+              "f": "AlolocyamAnA",
+              "n": "AlolocyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AlolocyamAna",
+              "m": "AlolocyamAnaH",
+              "f": "AlolocyamAnA",
+              "n": "AlolocyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "AlolocA",
+              "m": "",
+              "f": "AlolocA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "Aloloca",
+              "m": "AlolocaH",
+              "f": "AlolocA",
+              "n": "Alolocam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AlolocanIya",
+              "m": "AlolocanIyaH",
+              "f": "AlolocanIyA",
+              "n": "AlolocanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "Alolocita",
+              "m": "AlolocitaH",
+              "f": "AlolocitA",
+              "n": "Alolocitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "Alolocitavat",
+              "m": "AlolocitavAn",
+              "f": "AlolocitavatI",
+              "n": "Alolocitavat/Alolocitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "Alolokti",
+              "m": "",
+              "f": "AloloktiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AlolocAmbaBUvas",
+              "m": "AlolocAmbaBUvAn",
+              "f": "AlolocAmbaBUzI",
+              "n": "AlolocAmbaBUvat/AlolocAmbaBUvad"
+            },
+            {
+              "base": "AlolocAmAsivas",
+              "m": "AlolocAmAsivAn",
+              "f": "AlolocAmAsyuzI",
+              "n": "AlolocAmAsivat/AlolocAmAsivad"
+            },
+            {
+              "base": "AlolocAYcakfvas",
+              "m": "AlolocAYcakfvAn",
+              "f": "AlolocAYcakruzI",
+              "n": "AlolocAYcakfvat/AlolocAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "Aloloka",
+              "m": "AlolokaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AlolocAna",
+              "m": "AlolocAnaH",
+              "f": "AlolocAnA",
+              "n": "AlolocAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "Alolocam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "Alolocaka",
+              "m": "AlolocakaH",
+              "f": "AlolocikA",
+              "n": "Alolocakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "Alolocitavya",
+              "m": "AlolocitavyaH",
+              "f": "AlolocitavyA",
+              "n": "Alolocitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "Alolocitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "Alolocitf",
+              "m": "AlolocitA",
+              "f": "AlolocitrI",
+              "n": "Alolocitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "Alolocya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "Alolocana",
+              "m": "",
+              "f": "",
+              "n": "Alolocanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "Alolocaka",
+              "m": "AlolocakaH",
+              "f": "AlolocikA",
+              "n": "Alolocakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "Alolocat",
+              "m": "Alolocan",
+              "f": "AlolocatI",
+              "n": "Alolocat/Alolocad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "Alolocat",
+              "m": "Alolocan",
+              "f": "AlolocatI/AlolocantI",
+              "n": "Alolocat/Alolocad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

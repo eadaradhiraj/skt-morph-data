@@ -1,0 +1,2924 @@
+{
+  "id": "06.0087",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Rila~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gahane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to misunderstand,to solidify, to hide, to precipitate"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "kuCa kA kuCa samaJanA, GanA honA, jamanA, Cipa jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "tudAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1360"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1360"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2536",
+      "ext_link": "/sutraani/sk2536?scroll=sutra-commentary-kaumudi-region&highlight=Raila"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "nilyAt",
+        "nilyAd",
+        "nilyAstAm",
+        "nilyAsuH",
+        "nilyAH",
+        "nilyAstam",
+        "nilyAsta",
+        "nilyAsam",
+        "nilyAsva",
+        "nilyAsma"
+      ],
+      "plang": [
+        "anilat",
+        "anilad",
+        "anilatAm",
+        "anilan",
+        "anilaH",
+        "anilatam",
+        "anilata",
+        "anilam",
+        "anilAva",
+        "anilAma"
+      ],
+      "plat": [
+        "nilati",
+        "nilataH",
+        "nilanti",
+        "nilasi",
+        "nilaTaH",
+        "nilaTa",
+        "nilAmi",
+        "nilAvaH",
+        "nilAmaH"
+      ],
+      "plit": [
+        "ninela",
+        "ninilatuH",
+        "niniluH",
+        "nineliTa",
+        "ninilaTuH",
+        "ninila",
+        "ninela",
+        "niniliva",
+        "ninilima"
+      ],
+      "plot": [
+        "nilatAt",
+        "nilatAd",
+        "nilatu",
+        "nilatAm",
+        "nilantu",
+        "nila",
+        "nilatAt",
+        "nilatAd",
+        "nilatam",
+        "nilata",
+        "nilAni",
+        "nilAva",
+        "nilAma"
+      ],
+      "plrung": [
+        "anelizyat",
+        "anelizyad",
+        "anelizyatAm",
+        "anelizyan",
+        "anelizyaH",
+        "anelizyatam",
+        "anelizyata",
+        "anelizyam",
+        "anelizyAva",
+        "anelizyAma"
+      ],
+      "plrut": [
+        "nelizyati",
+        "nelizyataH",
+        "nelizyanti",
+        "nelizyasi",
+        "nelizyaTaH",
+        "nelizyaTa",
+        "nelizyAmi",
+        "nelizyAvaH",
+        "nelizyAmaH"
+      ],
+      "plung": [
+        "anelIt",
+        "anelId",
+        "anelizwAm",
+        "anelizuH",
+        "anelIH",
+        "anelizwam",
+        "anelizwa",
+        "anelizam",
+        "anelizva",
+        "anelizma"
+      ],
+      "plut": [
+        "nelitA",
+        "nelitArO",
+        "nelitAraH",
+        "nelitAsi",
+        "nelitAsTaH",
+        "nelitAsTa",
+        "nelitAsmi",
+        "nelitAsvaH",
+        "nelitAsmaH"
+      ],
+      "pvidhiling": [
+        "nilet",
+        "niled",
+        "niletAm",
+        "nileyuH",
+        "nileH",
+        "niletam",
+        "nileta",
+        "nileyam",
+        "nileva",
+        "nilema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "nelizIzwa",
+        "nelizIyAstAm",
+        "nelizIran",
+        "nelizIzWAH",
+        "nelizIyAsTAm",
+        "nelizIQvam",
+        "nelizIDvam",
+        "nelizIya",
+        "nelizIvahi",
+        "nelizImahi"
+      ],
+      "alang": [
+        "anilyata",
+        "anilyetAm",
+        "anilyanta",
+        "anilyaTAH",
+        "anilyeTAm",
+        "anilyaDvam",
+        "anilye",
+        "anilyAvahi",
+        "anilyAmahi"
+      ],
+      "alat": [
+        "nilyate",
+        "nilyete",
+        "nilyante",
+        "nilyase",
+        "nilyeTe",
+        "nilyaDve",
+        "nilye",
+        "nilyAvahe",
+        "nilyAmahe"
+      ],
+      "alit": [
+        "ninile",
+        "ninilAte",
+        "ninilire",
+        "ninilize",
+        "ninilATe",
+        "niniliQve",
+        "niniliDve",
+        "ninile",
+        "ninilivahe",
+        "ninilimahe"
+      ],
+      "alot": [
+        "nilyatAm",
+        "nilyetAm",
+        "nilyantAm",
+        "nilyasva",
+        "nilyeTAm",
+        "nilyaDvam",
+        "nilyE",
+        "nilyAvahE",
+        "nilyAmahE"
+      ],
+      "alrung": [
+        "anelizyata",
+        "anelizyetAm",
+        "anelizyanta",
+        "anelizyaTAH",
+        "anelizyeTAm",
+        "anelizyaDvam",
+        "anelizye",
+        "anelizyAvahi",
+        "anelizyAmahi"
+      ],
+      "alrut": [
+        "nelizyate",
+        "nelizyete",
+        "nelizyante",
+        "nelizyase",
+        "nelizyeTe",
+        "nelizyaDve",
+        "nelizye",
+        "nelizyAvahe",
+        "nelizyAmahe"
+      ],
+      "alung": [
+        "aneli",
+        "anelizAtAm",
+        "anelizata",
+        "anelizWAH",
+        "anelizATAm",
+        "aneliQvam",
+        "aneliDvam",
+        "anelizi",
+        "anelizvahi",
+        "anelizmahi"
+      ],
+      "alut": [
+        "nelitA",
+        "nelitArO",
+        "nelitAraH",
+        "nelitAse",
+        "nelitAsATe",
+        "nelitADve",
+        "nelitAhe",
+        "nelitAsvahe",
+        "nelitAsmahe"
+      ],
+      "avidhiling": [
+        "nilyeta",
+        "nilyeyAtAm",
+        "nilyeran",
+        "nilyeTAH",
+        "nilyeyATAm",
+        "nilyeDvam",
+        "nilyeya",
+        "nilyevahi",
+        "nilyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "ninilizyAt",
+        "ninilizyAd",
+        "ninelizyAt",
+        "ninelizyAd",
+        "ninilizyAstAm",
+        "ninelizyAstAm",
+        "ninilizyAsuH",
+        "ninelizyAsuH",
+        "ninilizyAH",
+        "ninelizyAH",
+        "ninilizyAstam",
+        "ninelizyAstam",
+        "ninilizyAsta",
+        "ninelizyAsta",
+        "ninilizyAsam",
+        "ninelizyAsam",
+        "ninilizyAsva",
+        "ninelizyAsva",
+        "ninilizyAsma",
+        "ninelizyAsma"
+      ],
+      "plang": [
+        "aninilizat",
+        "aninilizad",
+        "aninelizat",
+        "aninelizad",
+        "aninilizatAm",
+        "aninelizatAm",
+        "aninilizan",
+        "aninelizan",
+        "aninilizaH",
+        "aninelizaH",
+        "aninilizatam",
+        "aninelizatam",
+        "aninilizata",
+        "aninelizata",
+        "aninilizam",
+        "aninelizam",
+        "aninilizAva",
+        "aninelizAva",
+        "aninilizAma",
+        "aninelizAma"
+      ],
+      "plat": [
+        "ninilizati",
+        "ninelizati",
+        "ninilizataH",
+        "ninelizataH",
+        "ninilizanti",
+        "ninelizanti",
+        "ninilizasi",
+        "ninelizasi",
+        "ninilizaTaH",
+        "ninelizaTaH",
+        "ninilizaTa",
+        "ninelizaTa",
+        "ninilizAmi",
+        "ninelizAmi",
+        "ninilizAvaH",
+        "ninelizAvaH",
+        "ninilizAmaH",
+        "ninelizAmaH"
+      ],
+      "plit": [
+        "ninilizAYcakAra",
+        "ninilizAmAsa",
+        "ninilizAmbaBUva",
+        "ninelizAYcakAra",
+        "ninelizAmAsa",
+        "ninelizAmbaBUva",
+        "ninilizAYcakratuH",
+        "ninilizAmAsatuH",
+        "ninilizAmbaBUvatuH",
+        "ninelizAYcakratuH",
+        "ninelizAmAsatuH",
+        "ninelizAmbaBUvatuH",
+        "ninilizAYcakruH",
+        "ninilizAmAsuH",
+        "ninilizAmbaBUvuH",
+        "ninelizAYcakruH",
+        "ninelizAmAsuH",
+        "ninelizAmbaBUvuH",
+        "ninilizAYcakarTa",
+        "ninilizAmAsiTa",
+        "ninilizAmbaBUviTa",
+        "ninelizAYcakarTa",
+        "ninelizAmAsiTa",
+        "ninelizAmbaBUviTa",
+        "ninilizAYcakraTuH",
+        "ninilizAmAsaTuH",
+        "ninilizAmbaBUvaTuH",
+        "ninelizAYcakraTuH",
+        "ninelizAmAsaTuH",
+        "ninelizAmbaBUvaTuH",
+        "ninilizAYcakra",
+        "ninilizAmAsa",
+        "ninilizAmbaBUva",
+        "ninelizAYcakra",
+        "ninelizAmAsa",
+        "ninelizAmbaBUva",
+        "ninilizAYcakara",
+        "ninilizAYcakAra",
+        "ninilizAmAsa",
+        "ninilizAmbaBUva",
+        "ninelizAYcakara",
+        "ninelizAYcakAra",
+        "ninelizAmAsa",
+        "ninelizAmbaBUva",
+        "ninilizAYcakfva",
+        "ninilizAmAsiva",
+        "ninilizAmbaBUviva",
+        "ninelizAYcakfva",
+        "ninelizAmAsiva",
+        "ninelizAmbaBUviva",
+        "ninilizAYcakfma",
+        "ninilizAmAsima",
+        "ninilizAmbaBUvima",
+        "ninelizAYcakfma",
+        "ninelizAmAsima",
+        "ninelizAmbaBUvima"
+      ],
+      "plot": [
+        "ninilizatAt",
+        "ninilizatAd",
+        "ninilizatu",
+        "ninelizatAt",
+        "ninelizatAd",
+        "ninelizatu",
+        "ninilizatAm",
+        "ninelizatAm",
+        "ninilizantu",
+        "ninelizantu",
+        "niniliza",
+        "ninilizatAt",
+        "ninilizatAd",
+        "nineliza",
+        "ninelizatAt",
+        "ninelizatAd",
+        "ninilizatam",
+        "ninelizatam",
+        "ninilizata",
+        "ninelizata",
+        "ninilizARi",
+        "ninelizARi",
+        "ninilizAva",
+        "ninelizAva",
+        "ninilizAma",
+        "ninelizAma"
+      ],
+      "plrung": [
+        "aninilizizyat",
+        "aninilizizyad",
+        "aninelizizyat",
+        "aninelizizyad",
+        "aninilizizyatAm",
+        "aninelizizyatAm",
+        "aninilizizyan",
+        "aninelizizyan",
+        "aninilizizyaH",
+        "aninelizizyaH",
+        "aninilizizyatam",
+        "aninelizizyatam",
+        "aninilizizyata",
+        "aninelizizyata",
+        "aninilizizyam",
+        "aninelizizyam",
+        "aninilizizyAva",
+        "aninelizizyAva",
+        "aninilizizyAma",
+        "aninelizizyAma"
+      ],
+      "plrut": [
+        "ninilizizyati",
+        "ninelizizyati",
+        "ninilizizyataH",
+        "ninelizizyataH",
+        "ninilizizyanti",
+        "ninelizizyanti",
+        "ninilizizyasi",
+        "ninelizizyasi",
+        "ninilizizyaTaH",
+        "ninelizizyaTaH",
+        "ninilizizyaTa",
+        "ninelizizyaTa",
+        "ninilizizyAmi",
+        "ninelizizyAmi",
+        "ninilizizyAvaH",
+        "ninelizizyAvaH",
+        "ninilizizyAmaH",
+        "ninelizizyAmaH"
+      ],
+      "plung": [
+        "aninilizIt",
+        "aninilizId",
+        "aninelizIt",
+        "aninelizId",
+        "aninilizizwAm",
+        "aninelizizwAm",
+        "aninilizizuH",
+        "aninelizizuH",
+        "aninilizIH",
+        "aninelizIH",
+        "aninilizizwam",
+        "aninelizizwam",
+        "aninilizizwa",
+        "aninelizizwa",
+        "aninilizizam",
+        "aninelizizam",
+        "aninilizizva",
+        "aninelizizva",
+        "aninilizizma",
+        "aninelizizma"
+      ],
+      "plut": [
+        "ninilizitA",
+        "ninelizitA",
+        "ninilizitArO",
+        "ninelizitArO",
+        "ninilizitAraH",
+        "ninelizitAraH",
+        "ninilizitAsi",
+        "ninelizitAsi",
+        "ninilizitAsTaH",
+        "ninelizitAsTaH",
+        "ninilizitAsTa",
+        "ninelizitAsTa",
+        "ninilizitAsmi",
+        "ninelizitAsmi",
+        "ninilizitAsvaH",
+        "ninelizitAsvaH",
+        "ninilizitAsmaH",
+        "ninelizitAsmaH"
+      ],
+      "pvidhiling": [
+        "ninilizet",
+        "ninilized",
+        "ninelizet",
+        "ninelized",
+        "ninilizetAm",
+        "ninelizetAm",
+        "ninilizeyuH",
+        "ninelizeyuH",
+        "ninilizeH",
+        "ninelizeH",
+        "ninilizetam",
+        "ninelizetam",
+        "ninilizeta",
+        "ninelizeta",
+        "ninilizeyam",
+        "ninelizeyam",
+        "ninilizeva",
+        "ninelizeva",
+        "ninilizema",
+        "ninelizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ninilizizIzwa",
+        "ninelizizIzwa",
+        "ninilizizIyAstAm",
+        "ninelizizIyAstAm",
+        "ninilizizIran",
+        "ninelizizIran",
+        "ninilizizIzWAH",
+        "ninelizizIzWAH",
+        "ninilizizIyAsTAm",
+        "ninelizizIyAsTAm",
+        "ninilizizIDvam",
+        "ninelizizIDvam",
+        "ninilizizIya",
+        "ninelizizIya",
+        "ninilizizIvahi",
+        "ninelizizIvahi",
+        "ninilizizImahi",
+        "ninelizizImahi"
+      ],
+      "alang": [
+        "aninilizyata",
+        "aninelizyata",
+        "aninilizyetAm",
+        "aninelizyetAm",
+        "aninilizyanta",
+        "aninelizyanta",
+        "aninilizyaTAH",
+        "aninelizyaTAH",
+        "aninilizyeTAm",
+        "aninelizyeTAm",
+        "aninilizyaDvam",
+        "aninelizyaDvam",
+        "aninilizye",
+        "aninelizye",
+        "aninilizyAvahi",
+        "aninelizyAvahi",
+        "aninilizyAmahi",
+        "aninelizyAmahi"
+      ],
+      "alat": [
+        "ninilizyate",
+        "ninelizyate",
+        "ninilizyete",
+        "ninelizyete",
+        "ninilizyante",
+        "ninelizyante",
+        "ninilizyase",
+        "ninelizyase",
+        "ninilizyeTe",
+        "ninelizyeTe",
+        "ninilizyaDve",
+        "ninelizyaDve",
+        "ninilizye",
+        "ninelizye",
+        "ninilizyAvahe",
+        "ninelizyAvahe",
+        "ninilizyAmahe",
+        "ninelizyAmahe"
+      ],
+      "alit": [
+        "ninilizAYcakre",
+        "ninilizAmAse",
+        "ninilizAmbaBUve",
+        "ninelizAYcakre",
+        "ninelizAmAse",
+        "ninelizAmbaBUve",
+        "ninilizAYcakrAte",
+        "ninilizAmAsAte",
+        "ninilizAmbaBUvAte",
+        "ninelizAYcakrAte",
+        "ninelizAmAsAte",
+        "ninelizAmbaBUvAte",
+        "ninilizAYcakrire",
+        "ninilizAmAsire",
+        "ninilizAmbaBUvire",
+        "ninelizAYcakrire",
+        "ninelizAmAsire",
+        "ninelizAmbaBUvire",
+        "ninilizAYcakfze",
+        "ninilizAmAsize",
+        "ninilizAmbaBUvize",
+        "ninelizAYcakfze",
+        "ninelizAmAsize",
+        "ninelizAmbaBUvize",
+        "ninilizAYcakrATe",
+        "ninilizAmAsATe",
+        "ninilizAmbaBUvATe",
+        "ninelizAYcakrATe",
+        "ninelizAmAsATe",
+        "ninelizAmbaBUvATe",
+        "ninilizAYcakfQve",
+        "ninilizAmAsiDve",
+        "ninilizAmbaBUviQve",
+        "ninelizAYcakfQve",
+        "ninelizAmAsiDve",
+        "ninelizAmbaBUviQve",
+        "ninilizAYcakre",
+        "ninilizAmAhe",
+        "ninilizAmbaBUve",
+        "ninelizAYcakre",
+        "ninelizAmAhe",
+        "ninelizAmbaBUve",
+        "ninilizAYcakfvahe",
+        "ninilizAmAsivahe",
+        "ninilizAmbaBUvivahe",
+        "ninelizAYcakfvahe",
+        "ninelizAmAsivahe",
+        "ninelizAmbaBUvivahe",
+        "ninilizAYcakfmahe",
+        "ninilizAmAsimahe",
+        "ninilizAmbaBUvimahe",
+        "ninelizAYcakfmahe",
+        "ninelizAmAsimahe",
+        "ninelizAmbaBUvimahe"
+      ],
+      "alot": [
+        "ninilizyatAm",
+        "ninelizyatAm",
+        "ninilizyetAm",
+        "ninelizyetAm",
+        "ninilizyantAm",
+        "ninelizyantAm",
+        "ninilizyasva",
+        "ninelizyasva",
+        "ninilizyeTAm",
+        "ninelizyeTAm",
+        "ninilizyaDvam",
+        "ninelizyaDvam",
+        "ninilizyE",
+        "ninelizyE",
+        "ninilizyAvahE",
+        "ninelizyAvahE",
+        "ninilizyAmahE",
+        "ninelizyAmahE"
+      ],
+      "alrung": [
+        "aninilizizyata",
+        "aninelizizyata",
+        "aninilizizyetAm",
+        "aninelizizyetAm",
+        "aninilizizyanta",
+        "aninelizizyanta",
+        "aninilizizyaTAH",
+        "aninelizizyaTAH",
+        "aninilizizyeTAm",
+        "aninelizizyeTAm",
+        "aninilizizyaDvam",
+        "aninelizizyaDvam",
+        "aninilizizye",
+        "aninelizizye",
+        "aninilizizyAvahi",
+        "aninelizizyAvahi",
+        "aninilizizyAmahi",
+        "aninelizizyAmahi"
+      ],
+      "alrut": [
+        "ninilizizyate",
+        "ninelizizyate",
+        "ninilizizyete",
+        "ninelizizyete",
+        "ninilizizyante",
+        "ninelizizyante",
+        "ninilizizyase",
+        "ninelizizyase",
+        "ninilizizyeTe",
+        "ninelizizyeTe",
+        "ninilizizyaDve",
+        "ninelizizyaDve",
+        "ninilizizye",
+        "ninelizizye",
+        "ninilizizyAvahe",
+        "ninelizizyAvahe",
+        "ninilizizyAmahe",
+        "ninelizizyAmahe"
+      ],
+      "alung": [
+        "aninilizi",
+        "aninelizi",
+        "aninilizizAtAm",
+        "aninelizizAtAm",
+        "aninilizizata",
+        "aninelizizata",
+        "aninilizizWAH",
+        "aninelizizWAH",
+        "aninilizizATAm",
+        "aninelizizATAm",
+        "aniniliziDvam",
+        "anineliziDvam",
+        "aninilizizi",
+        "aninelizizi",
+        "aninilizizvahi",
+        "aninelizizvahi",
+        "aninilizizmahi",
+        "aninelizizmahi"
+      ],
+      "alut": [
+        "ninilizitA",
+        "ninelizitA",
+        "ninilizitArO",
+        "ninelizitArO",
+        "ninilizitAraH",
+        "ninelizitAraH",
+        "ninilizitAse",
+        "ninelizitAse",
+        "ninilizitAsATe",
+        "ninelizitAsATe",
+        "ninilizitADve",
+        "ninelizitADve",
+        "ninilizitAhe",
+        "ninelizitAhe",
+        "ninilizitAsvahe",
+        "ninelizitAsvahe",
+        "ninilizitAsmahe",
+        "ninelizitAsmahe"
+      ],
+      "avidhiling": [
+        "ninilizyeta",
+        "ninelizyeta",
+        "ninilizyeyAtAm",
+        "ninelizyeyAtAm",
+        "ninilizyeran",
+        "ninelizyeran",
+        "ninilizyeTAH",
+        "ninelizyeTAH",
+        "ninilizyeyATAm",
+        "ninelizyeyATAm",
+        "ninilizyeDvam",
+        "ninelizyeDvam",
+        "ninilizyeya",
+        "ninelizyeya",
+        "ninilizyevahi",
+        "ninelizyevahi",
+        "ninilizyemahi",
+        "ninelizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "nelayizIzwa",
+        "nelayizIyAstAm",
+        "nelayizIran",
+        "nelayizIzWAH",
+        "nelayizIyAsTAm",
+        "nelayizIQvam",
+        "nelayizIDvam",
+        "nelayizIya",
+        "nelayizIvahi",
+        "nelayizImahi"
+      ],
+      "alang": [
+        "anelayata",
+        "anelayetAm",
+        "anelayanta",
+        "anelayaTAH",
+        "anelayeTAm",
+        "anelayaDvam",
+        "anelaye",
+        "anelayAvahi",
+        "anelayAmahi"
+      ],
+      "alat": [
+        "nelayate",
+        "nelayete",
+        "nelayante",
+        "nelayase",
+        "nelayeTe",
+        "nelayaDve",
+        "nelaye",
+        "nelayAvahe",
+        "nelayAmahe"
+      ],
+      "alit": [
+        "nelayAYcakre",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakrAte",
+        "nelayAmAsatuH",
+        "nelayAmbaBUvatuH",
+        "nelayAYcakrire",
+        "nelayAmAsuH",
+        "nelayAmbaBUvuH",
+        "nelayAYcakfze",
+        "nelayAmAsiTa",
+        "nelayAmbaBUviTa",
+        "nelayAYcakrATe",
+        "nelayAmAsaTuH",
+        "nelayAmbaBUvaTuH",
+        "nelayAYcakfQve",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakre",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakfvahe",
+        "nelayAmAsiva",
+        "nelayAmbaBUviva",
+        "nelayAYcakfmahe",
+        "nelayAmAsima",
+        "nelayAmbaBUvima"
+      ],
+      "alot": [
+        "nelayatAm",
+        "nelayetAm",
+        "nelayantAm",
+        "nelayasva",
+        "nelayeTAm",
+        "nelayaDvam",
+        "nelayE",
+        "nelayAvahE",
+        "nelayAmahE"
+      ],
+      "alrung": [
+        "anelayizyata",
+        "anelayizyetAm",
+        "anelayizyanta",
+        "anelayizyaTAH",
+        "anelayizyeTAm",
+        "anelayizyaDvam",
+        "anelayizye",
+        "anelayizyAvahi",
+        "anelayizyAmahi"
+      ],
+      "alrut": [
+        "nelayizyate",
+        "nelayizyete",
+        "nelayizyante",
+        "nelayizyase",
+        "nelayizyeTe",
+        "nelayizyaDve",
+        "nelayizye",
+        "nelayizyAvahe",
+        "nelayizyAmahe"
+      ],
+      "alung": [
+        "anInilata",
+        "anIniletAm",
+        "anInilanta",
+        "anInilaTAH",
+        "anInileTAm",
+        "anInilaDvam",
+        "anInile",
+        "anInilAvahi",
+        "anInilAmahi"
+      ],
+      "alut": [
+        "nelayitA",
+        "nelayitArO",
+        "nelayitAraH",
+        "nelayitAse",
+        "nelayitAsATe",
+        "nelayitADve",
+        "nelayitAhe",
+        "nelayitAsvahe",
+        "nelayitAsmahe"
+      ],
+      "avidhiling": [
+        "nelayeta",
+        "nelayeyAtAm",
+        "nelayeran",
+        "nelayeTAH",
+        "nelayeyATAm",
+        "nelayeDvam",
+        "nelayeya",
+        "nelayevahi",
+        "nelayemahi"
+      ],
+      "pashirling": [
+        "nelyAt",
+        "nelyAd",
+        "nelyAstAm",
+        "nelyAsuH",
+        "nelyAH",
+        "nelyAstam",
+        "nelyAsta",
+        "nelyAsam",
+        "nelyAsva",
+        "nelyAsma"
+      ],
+      "plang": [
+        "anelayat",
+        "anelayad",
+        "anelayatAm",
+        "anelayan",
+        "anelayaH",
+        "anelayatam",
+        "anelayata",
+        "anelayam",
+        "anelayAva",
+        "anelayAma"
+      ],
+      "plat": [
+        "nelayati",
+        "nelayataH",
+        "nelayanti",
+        "nelayasi",
+        "nelayaTaH",
+        "nelayaTa",
+        "nelayAmi",
+        "nelayAvaH",
+        "nelayAmaH"
+      ],
+      "plit": [
+        "nelayAYcakAra",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakratuH",
+        "nelayAmAsatuH",
+        "nelayAmbaBUvatuH",
+        "nelayAYcakruH",
+        "nelayAmAsuH",
+        "nelayAmbaBUvuH",
+        "nelayAYcakarTa",
+        "nelayAmAsiTa",
+        "nelayAmbaBUviTa",
+        "nelayAYcakraTuH",
+        "nelayAmAsaTuH",
+        "nelayAmbaBUvaTuH",
+        "nelayAYcakra",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakara",
+        "nelayAYcakAra",
+        "nelayAmAsa",
+        "nelayAmbaBUva",
+        "nelayAYcakfva",
+        "nelayAmAsiva",
+        "nelayAmbaBUviva",
+        "nelayAYcakfma",
+        "nelayAmAsima",
+        "nelayAmbaBUvima"
+      ],
+      "plot": [
+        "nelayatAt",
+        "nelayatAd",
+        "nelayatu",
+        "nelayatAm",
+        "nelayantu",
+        "nelaya",
+        "nelayatAt",
+        "nelayatAd",
+        "nelayatam",
+        "nelayata",
+        "nelayAni",
+        "nelayAva",
+        "nelayAma"
+      ],
+      "plrung": [
+        "anelayizyat",
+        "anelayizyad",
+        "anelayizyatAm",
+        "anelayizyan",
+        "anelayizyaH",
+        "anelayizyatam",
+        "anelayizyata",
+        "anelayizyam",
+        "anelayizyAva",
+        "anelayizyAma"
+      ],
+      "plrut": [
+        "nelayizyati",
+        "nelayizyataH",
+        "nelayizyanti",
+        "nelayizyasi",
+        "nelayizyaTaH",
+        "nelayizyaTa",
+        "nelayizyAmi",
+        "nelayizyAvaH",
+        "nelayizyAmaH"
+      ],
+      "plung": [
+        "anInilat",
+        "anInilad",
+        "anInilatAm",
+        "anInilan",
+        "anInilaH",
+        "anInilatam",
+        "anInilata",
+        "anInilam",
+        "anInilAva",
+        "anInilAma"
+      ],
+      "plut": [
+        "nelayitA",
+        "nelayitArO",
+        "nelayitAraH",
+        "nelayitAsi",
+        "nelayitAsTaH",
+        "nelayitAsTa",
+        "nelayitAsmi",
+        "nelayitAsvaH",
+        "nelayitAsmaH"
+      ],
+      "pvidhiling": [
+        "nelayet",
+        "nelayed",
+        "nelayetAm",
+        "nelayeyuH",
+        "nelayeH",
+        "nelayetam",
+        "nelayeta",
+        "nelayeyam",
+        "nelayeva",
+        "nelayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "nelayizIzwa",
+        "nelizIzwa",
+        "nelayizIyAstAm",
+        "nelizIyAstAm",
+        "nelayizIran",
+        "nelizIran",
+        "nelayizIzWAH",
+        "nelizIzWAH",
+        "nelayizIyAsTAm",
+        "nelizIyAsTAm",
+        "nelayizIQvam",
+        "nelayizIDvam",
+        "nelizIQvam",
+        "nelayizIya",
+        "nelizIya",
+        "nelayizIvahi",
+        "nelizIvahi",
+        "nelayizImahi",
+        "nelizImahi"
+      ],
+      "alang": [
+        "anelyata",
+        "anelyetAm",
+        "anelyanta",
+        "anelyaTAH",
+        "anelyeTAm",
+        "anelyaDvam",
+        "anelye",
+        "anelyAvahi",
+        "anelyAmahi"
+      ],
+      "alat": [
+        "nelyate",
+        "nelyete",
+        "nelyante",
+        "nelyase",
+        "nelyeTe",
+        "nelyaDve",
+        "nelye",
+        "nelyAvahe",
+        "nelyAmahe"
+      ],
+      "alit": [
+        "nelayAYcakre",
+        "nelayAmAse",
+        "nelayAmbaBUve",
+        "nelayAYcakrAte",
+        "nelayAmAsAte",
+        "nelayAmbaBUvAte",
+        "nelayAYcakrire",
+        "nelayAmAsire",
+        "nelayAmbaBUvire",
+        "nelayAYcakfze",
+        "nelayAmAsize",
+        "nelayAmbaBUvize",
+        "nelayAYcakrATe",
+        "nelayAmAsATe",
+        "nelayAmbaBUvATe",
+        "nelayAYcakfQve",
+        "nelayAmAsiDve",
+        "nelayAmbaBUviQve",
+        "nelayAYcakre",
+        "nelayAmAhe",
+        "nelayAmbaBUve",
+        "nelayAYcakfvahe",
+        "nelayAmAsivahe",
+        "nelayAmbaBUvivahe",
+        "nelayAYcakfmahe",
+        "nelayAmAsimahe",
+        "nelayAmbaBUvimahe"
+      ],
+      "alot": [
+        "nelyatAm",
+        "nelyetAm",
+        "nelyantAm",
+        "nelyasva",
+        "nelyeTAm",
+        "nelyaDvam",
+        "nelyE",
+        "nelyAvahE",
+        "nelyAmahE"
+      ],
+      "alrung": [
+        "anelayizyata",
+        "anelizyata",
+        "anelayizyetAm",
+        "anelizyetAm",
+        "anelayizyanta",
+        "anelizyanta",
+        "anelayizyaTAH",
+        "anelizyaTAH",
+        "anelayizyeTAm",
+        "anelizyeTAm",
+        "anelayizyaDvam",
+        "anelizyaDvam",
+        "anelayizye",
+        "anelizye",
+        "anelayizyAvahi",
+        "anelizyAvahi",
+        "anelayizyAmahi",
+        "anelizyAmahi"
+      ],
+      "alrut": [
+        "nelayizyate",
+        "nelizyate",
+        "nelayizyete",
+        "nelizyete",
+        "nelayizyante",
+        "nelizyante",
+        "nelayizyase",
+        "nelizyase",
+        "nelayizyeTe",
+        "nelizyeTe",
+        "nelayizyaDve",
+        "nelizyaDve",
+        "nelayizye",
+        "nelizye",
+        "nelayizyAvahe",
+        "nelizyAvahe",
+        "nelayizyAmahe",
+        "nelizyAmahe"
+      ],
+      "alung": [
+        "aneli",
+        "anelayizAtAm",
+        "anelizAtAm",
+        "anelayizata",
+        "anelizata",
+        "anelayizWAH",
+        "anelizWAH",
+        "anelayizATAm",
+        "anelizATAm",
+        "anelayiQvam",
+        "anelayiDvam",
+        "aneliQvam",
+        "anelayizi",
+        "anelizi",
+        "anelayizvahi",
+        "anelizvahi",
+        "anelayizmahi",
+        "anelizmahi"
+      ],
+      "alut": [
+        "nelayitA",
+        "nelitA",
+        "nelayitArO",
+        "nelitArO",
+        "nelayitAraH",
+        "nelitAraH",
+        "nelayitAse",
+        "nelitAse",
+        "nelayitAsATe",
+        "nelitAsATe",
+        "nelayitADve",
+        "nelitADve",
+        "nelayitAhe",
+        "nelitAhe",
+        "nelayitAsvahe",
+        "nelitAsvahe",
+        "nelayitAsmahe",
+        "nelitAsmahe"
+      ],
+      "avidhiling": [
+        "nelyeta",
+        "nelyeyAtAm",
+        "nelyeran",
+        "nelyeTAH",
+        "nelyeyATAm",
+        "nelyeDvam",
+        "nelyeya",
+        "nelyevahi",
+        "nelyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "nenilizIzwa",
+        "nenilizIyAstAm",
+        "nenilizIran",
+        "nenilizIzWAH",
+        "nenilizIyAsTAm",
+        "nenilizIQvam",
+        "nenilizIya",
+        "nenilizIvahi",
+        "nenilizImahi"
+      ],
+      "alang": [
+        "anenilyata",
+        "anenilyetAm",
+        "anenilyanta",
+        "anenilyaTAH",
+        "anenilyeTAm",
+        "anenilyaDvam",
+        "anenilye",
+        "anenilyAvahi",
+        "anenilyAmahi"
+      ],
+      "alat": [
+        "nenilyate",
+        "nenilyete",
+        "nenilyante",
+        "nenilyase",
+        "nenilyeTe",
+        "nenilyaDve",
+        "nenilye",
+        "nenilyAvahe",
+        "nenilyAmahe"
+      ],
+      "alit": [
+        "nenilAYcakre",
+        "nenilAmAsa",
+        "nenilAmbaBUva",
+        "nenilAYcakrAte",
+        "nenilAmAsatuH",
+        "nenilAmbaBUvatuH",
+        "nenilAYcakrire",
+        "nenilAmAsuH",
+        "nenilAmbaBUvuH",
+        "nenilAYcakfze",
+        "nenilAmAsiTa",
+        "nenilAmbaBUviTa",
+        "nenilAYcakrATe",
+        "nenilAmAsaTuH",
+        "nenilAmbaBUvaTuH",
+        "nenilAYcakfQve",
+        "nenilAmAsa",
+        "nenilAmbaBUva",
+        "nenilAYcakre",
+        "nenilAmAsa",
+        "nenilAmbaBUva",
+        "nenilAYcakfvahe",
+        "nenilAmAsiva",
+        "nenilAmbaBUviva",
+        "nenilAYcakfmahe",
+        "nenilAmAsima",
+        "nenilAmbaBUvima"
+      ],
+      "alot": [
+        "nenilyatAm",
+        "nenilyetAm",
+        "nenilyantAm",
+        "nenilyasva",
+        "nenilyeTAm",
+        "nenilyaDvam",
+        "nenilyE",
+        "nenilyAvahE",
+        "nenilyAmahE"
+      ],
+      "alrung": [
+        "anenilizyata",
+        "anenilizyetAm",
+        "anenilizyanta",
+        "anenilizyaTAH",
+        "anenilizyeTAm",
+        "anenilizyaDvam",
+        "anenilizye",
+        "anenilizyAvahi",
+        "anenilizyAmahi"
+      ],
+      "alrut": [
+        "nenilizyate",
+        "nenilizyete",
+        "nenilizyante",
+        "nenilizyase",
+        "nenilizyeTe",
+        "nenilizyaDve",
+        "nenilizye",
+        "nenilizyAvahe",
+        "nenilizyAmahe"
+      ],
+      "alung": [
+        "anenilizwa",
+        "anenilizAtAm",
+        "anenilizata",
+        "anenilizWAH",
+        "anenilizATAm",
+        "aneniliQvam",
+        "anenilizi",
+        "anenilizvahi",
+        "anenilizmahi"
+      ],
+      "alut": [
+        "nenilitA",
+        "nenilitArO",
+        "nenilitAraH",
+        "nenilitAse",
+        "nenilitAsATe",
+        "nenilitADve",
+        "nenilitAhe",
+        "nenilitAsvahe",
+        "nenilitAsmahe"
+      ],
+      "avidhiling": [
+        "nenilyeta",
+        "nenilyeyAtAm",
+        "nenilyeran",
+        "nenilyeTAH",
+        "nenilyeyATAm",
+        "nenilyeDvam",
+        "nenilyeya",
+        "nenilyevahi",
+        "nenilyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "nenilizIzwa",
+        "nenilizIyAstAm",
+        "nenilizIran",
+        "nenilizIzWAH",
+        "nenilizIyAsTAm",
+        "nenilizIQvam",
+        "nenilizIya",
+        "nenilizIvahi",
+        "nenilizImahi"
+      ],
+      "alang": [
+        "anenilyata",
+        "anenilyetAm",
+        "anenilyanta",
+        "anenilyaTAH",
+        "anenilyeTAm",
+        "anenilyaDvam",
+        "anenilye",
+        "anenilyAvahi",
+        "anenilyAmahi"
+      ],
+      "alat": [
+        "nenilyate",
+        "nenilyete",
+        "nenilyante",
+        "nenilyase",
+        "nenilyeTe",
+        "nenilyaDve",
+        "nenilye",
+        "nenilyAvahe",
+        "nenilyAmahe"
+      ],
+      "alit": [
+        "nenilAYcakre",
+        "nenilAmAse",
+        "nenilAmbaBUve",
+        "nenilAYcakrAte",
+        "nenilAmAsAte",
+        "nenilAmbaBUvAte",
+        "nenilAYcakrire",
+        "nenilAmAsire",
+        "nenilAmbaBUvire",
+        "nenilAYcakfze",
+        "nenilAmAsize",
+        "nenilAmbaBUvize",
+        "nenilAYcakrATe",
+        "nenilAmAsATe",
+        "nenilAmbaBUvATe",
+        "nenilAYcakfQve",
+        "nenilAmAsiDve",
+        "nenilAmbaBUviQve",
+        "nenilAYcakre",
+        "nenilAmAhe",
+        "nenilAmbaBUve",
+        "nenilAYcakfvahe",
+        "nenilAmAsivahe",
+        "nenilAmbaBUvivahe",
+        "nenilAYcakfmahe",
+        "nenilAmAsimahe",
+        "nenilAmbaBUvimahe"
+      ],
+      "alot": [
+        "nenilyatAm",
+        "nenilyetAm",
+        "nenilyantAm",
+        "nenilyasva",
+        "nenilyeTAm",
+        "nenilyaDvam",
+        "nenilyE",
+        "nenilyAvahE",
+        "nenilyAmahE"
+      ],
+      "alrung": [
+        "anenilizyata",
+        "anenilizyetAm",
+        "anenilizyanta",
+        "anenilizyaTAH",
+        "anenilizyeTAm",
+        "anenilizyaDvam",
+        "anenilizye",
+        "anenilizyAvahi",
+        "anenilizyAmahi"
+      ],
+      "alrut": [
+        "nenilizyate",
+        "nenilizyete",
+        "nenilizyante",
+        "nenilizyase",
+        "nenilizyeTe",
+        "nenilizyaDve",
+        "nenilizye",
+        "nenilizyAvahe",
+        "nenilizyAmahe"
+      ],
+      "alung": [
+        "anenili",
+        "anenilizAtAm",
+        "anenilizata",
+        "anenilizWAH",
+        "anenilizATAm",
+        "aneniliQvam",
+        "anenilizi",
+        "anenilizvahi",
+        "anenilizmahi"
+      ],
+      "alut": [
+        "nenilitA",
+        "nenilitArO",
+        "nenilitAraH",
+        "nenilitAse",
+        "nenilitAsATe",
+        "nenilitADve",
+        "nenilitAhe",
+        "nenilitAsvahe",
+        "nenilitAsmahe"
+      ],
+      "avidhiling": [
+        "nenilyeta",
+        "nenilyeyAtAm",
+        "nenilyeran",
+        "nenilyeTAH",
+        "nenilyeyATAm",
+        "nenilyeDvam",
+        "nenilyeya",
+        "nenilyevahi",
+        "nenilyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "nenilyAt",
+        "nenilyAd",
+        "nenilyAstAm",
+        "nenilyAsuH",
+        "nenilyAH",
+        "nenilyAstam",
+        "nenilyAsta",
+        "nenilyAsam",
+        "nenilyAsva",
+        "nenilyAsma"
+      ],
+      "plang": [
+        "anenilIt",
+        "anenilId",
+        "anenel",
+        "aneniltAm",
+        "aneniluH",
+        "anenilIH",
+        "anenel",
+        "aneniltam",
+        "anenilta",
+        "anenilam",
+        "anenilva",
+        "anenilma"
+      ],
+      "plat": [
+        "nenilIti",
+        "nenelti",
+        "neniltaH",
+        "nenilati",
+        "nenilIzi",
+        "nenelzi",
+        "nenilTaH",
+        "nenilTa",
+        "nenilImi",
+        "nenelmi",
+        "nenilvaH",
+        "nenilmaH"
+      ],
+      "plit": [
+        "nenelAYcakAra",
+        "nenelAmAsa",
+        "nenelAmbaBUva",
+        "nenelAYcakratuH",
+        "nenelAmAsatuH",
+        "nenelAmbaBUvatuH",
+        "nenelAYcakruH",
+        "nenelAmAsuH",
+        "nenelAmbaBUvuH",
+        "nenelAYcakarTa",
+        "nenelAmAsiTa",
+        "nenelAmbaBUviTa",
+        "nenelAYcakraTuH",
+        "nenelAmAsaTuH",
+        "nenelAmbaBUvaTuH",
+        "nenelAYcakra",
+        "nenelAmAsa",
+        "nenelAmbaBUva",
+        "nenelAYcakara",
+        "nenelAYcakAra",
+        "nenelAmAsa",
+        "nenelAmbaBUva",
+        "nenelAYcakfva",
+        "nenelAmAsiva",
+        "nenelAmbaBUviva",
+        "nenelAYcakfma",
+        "nenelAmAsima",
+        "nenelAmbaBUvima"
+      ],
+      "plot": [
+        "nenilItu",
+        "neniltAt",
+        "neniltAd",
+        "neneltu",
+        "neniltAm",
+        "nenilatu",
+        "neniltAt",
+        "neniltAd",
+        "nenilhi",
+        "neniltam",
+        "nenilta",
+        "nenilAni",
+        "nenilAva",
+        "nenilAma"
+      ],
+      "plrung": [
+        "anenelizyat",
+        "anenelizyad",
+        "anenelizyatAm",
+        "anenelizyan",
+        "anenelizyaH",
+        "anenelizyatam",
+        "anenelizyata",
+        "anenelizyam",
+        "anenelizyAva",
+        "anenelizyAma"
+      ],
+      "plrut": [
+        "nenelizyati",
+        "nenelizyataH",
+        "nenelizyanti",
+        "nenelizyasi",
+        "nenelizyaTaH",
+        "nenelizyaTa",
+        "nenelizyAmi",
+        "nenelizyAvaH",
+        "nenelizyAmaH"
+      ],
+      "plung": [
+        "anenelIt",
+        "anenelId",
+        "anenelizwAm",
+        "anenelizuH",
+        "anenelIH",
+        "anenelizwam",
+        "anenelizwa",
+        "anenelizam",
+        "anenelizva",
+        "anenelizma"
+      ],
+      "plut": [
+        "nenelitA",
+        "nenelitArO",
+        "nenelitAraH",
+        "nenelitAsi",
+        "nenelitAsTaH",
+        "nenelitAsTa",
+        "nenelitAsmi",
+        "nenelitAsvaH",
+        "nenelitAsmaH"
+      ],
+      "pvidhiling": [
+        "nenilyAt",
+        "nenilyAd",
+        "nenilyAtAm",
+        "nenilyuH",
+        "nenilyAH",
+        "nenilyAtam",
+        "nenilyAta",
+        "nenilyAm",
+        "nenilyAva",
+        "nenilyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "nenelizIzwa",
+        "nenelizIyAstAm",
+        "nenelizIran",
+        "nenelizIzWAH",
+        "nenelizIyAsTAm",
+        "nenelizIQvam",
+        "nenelizIya",
+        "nenelizIvahi",
+        "nenelizImahi"
+      ],
+      "alang": [
+        "anenilyata",
+        "anenilyetAm",
+        "anenilyanta",
+        "anenilyaTAH",
+        "anenilyeTAm",
+        "anenilyaDvam",
+        "anenilye",
+        "anenilyAvahi",
+        "anenilyAmahi"
+      ],
+      "alat": [
+        "nenilyate",
+        "nenilyete",
+        "nenilyante",
+        "nenilyase",
+        "nenilyeTe",
+        "nenilyaDve",
+        "nenilye",
+        "nenilyAvahe",
+        "nenilyAmahe"
+      ],
+      "alit": [
+        "nenelAYcakre",
+        "nenelAmAse",
+        "nenelAmbaBUve",
+        "nenelAYcakrAte",
+        "nenelAmAsAte",
+        "nenelAmbaBUvAte",
+        "nenelAYcakrire",
+        "nenelAmAsire",
+        "nenelAmbaBUvire",
+        "nenelAYcakfze",
+        "nenelAmAsize",
+        "nenelAmbaBUvize",
+        "nenelAYcakrATe",
+        "nenelAmAsATe",
+        "nenelAmbaBUvATe",
+        "nenelAYcakfQve",
+        "nenelAmAsiDve",
+        "nenelAmbaBUviQve",
+        "nenelAYcakre",
+        "nenelAmAhe",
+        "nenelAmbaBUve",
+        "nenelAYcakfvahe",
+        "nenelAmAsivahe",
+        "nenelAmbaBUvivahe",
+        "nenelAYcakfmahe",
+        "nenelAmAsimahe",
+        "nenelAmbaBUvimahe"
+      ],
+      "alot": [
+        "nenilyatAm",
+        "nenilyetAm",
+        "nenilyantAm",
+        "nenilyasva",
+        "nenilyeTAm",
+        "nenilyaDvam",
+        "nenilyE",
+        "nenilyAvahE",
+        "nenilyAmahE"
+      ],
+      "alrung": [
+        "anenelizyata",
+        "anenelizyetAm",
+        "anenelizyanta",
+        "anenelizyaTAH",
+        "anenelizyeTAm",
+        "anenelizyaDvam",
+        "anenelizye",
+        "anenelizyAvahi",
+        "anenelizyAmahi"
+      ],
+      "alrut": [
+        "nenelizyate",
+        "nenelizyete",
+        "nenelizyante",
+        "nenelizyase",
+        "nenelizyeTe",
+        "nenelizyaDve",
+        "nenelizye",
+        "nenelizyAvahe",
+        "nenelizyAmahe"
+      ],
+      "alung": [
+        "aneneli",
+        "anenelizAtAm",
+        "anenelizata",
+        "anenelizWAH",
+        "anenelizATAm",
+        "aneneliQvam",
+        "anenelizi",
+        "anenelizvahi",
+        "anenelizmahi"
+      ],
+      "alut": [
+        "nenelitA",
+        "nenelitArO",
+        "nenelitAraH",
+        "nenelitAse",
+        "nenelitAsATe",
+        "nenelitADve",
+        "nenelitAhe",
+        "nenelitAsvahe",
+        "nenelitAsmahe"
+      ],
+      "avidhiling": [
+        "nenilyeta",
+        "nenilyeyAtAm",
+        "nenilyeran",
+        "nenilyeTAH",
+        "nenilyeyATAm",
+        "nenilyeDvam",
+        "nenilyeya",
+        "nenilyevahi",
+        "nenilyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "nelanIya",
+          "m": "nelanIyaH",
+          "f": "nelanIyA",
+          "n": "nelanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nilita",
+          "m": "nilitaH",
+          "f": "nilitA",
+          "n": "nilitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nilitavat",
+          "m": "nilitavAn",
+          "f": "nilitavatI",
+          "n": "nilitavat/nilitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nilti",
+          "m": "",
+          "f": "niltiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nilitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "nelitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ninilvas",
+          "m": "ninilvAn",
+          "f": "niniluzI",
+          "n": "ninilvat/ninilvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nela",
+          "m": "nelaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nilamAna",
+          "m": "nilamAnaH",
+          "f": "nilamAnA",
+          "n": "nilamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nelam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "nelya",
+          "m": "nelyaH",
+          "f": "nelyA",
+          "n": "nelyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nelaka",
+          "m": "nelakaH",
+          "f": "nelikA",
+          "n": "nelakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nelitavya",
+          "m": "nelitavyaH",
+          "f": "nelitavyA",
+          "n": "nelitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nelitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nelitf",
+          "m": "nelitA",
+          "f": "nelitrI",
+          "n": "nelitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nilyamAna",
+          "m": "nilyamAnaH",
+          "f": "nilyamAnA",
+          "n": "nilyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praRilya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nelana",
+          "m": "",
+          "f": "",
+          "n": "nelanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nelaka",
+          "m": "nelakaH",
+          "f": "nelikA",
+          "n": "nelakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nilat",
+          "m": "nilan",
+          "f": "nilatI/nilantI",
+          "n": "nilat/nilad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nelizyamARa",
+          "m": "nelizyamARaH",
+          "f": "nelizyamARA",
+          "n": "nelizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nelizyat",
+          "m": "nelizyan",
+          "f": "nelizyatI/nelizyantI",
+          "n": "nelizyat/nelizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ninilizA",
+          "m": "",
+          "f": "ninilizA",
+          "n": ""
+        },
+        {
+          "base": "ninelizA",
+          "m": "",
+          "f": "ninelizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "niniliza",
+          "m": "ninilizaH",
+          "f": "ninilizA",
+          "n": "ninilizam"
+        },
+        {
+          "base": "nineliza",
+          "m": "ninelizaH",
+          "f": "ninelizA",
+          "n": "ninelizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ninilizaRIya",
+          "m": "ninilizaRIyaH",
+          "f": "ninilizaRIyA",
+          "n": "ninilizaRIyam"
+        },
+        {
+          "base": "ninelizaRIya",
+          "m": "ninelizaRIyaH",
+          "f": "ninelizaRIyA",
+          "n": "ninelizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ninilizu",
+          "m": "ninilizuH",
+          "f": "ninilizuH",
+          "n": "ninilizu"
+        },
+        {
+          "base": "ninelizu",
+          "m": "ninelizuH",
+          "f": "ninelizuH",
+          "n": "ninelizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ninilizita",
+          "m": "ninilizitaH",
+          "f": "ninilizitA",
+          "n": "ninilizitam"
+        },
+        {
+          "base": "ninelizita",
+          "m": "ninelizitaH",
+          "f": "ninelizitA",
+          "n": "ninelizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ninilizitavat",
+          "m": "ninilizitavAn",
+          "f": "ninilizitavatI",
+          "n": "ninilizitavat/ninilizitavad"
+        },
+        {
+          "base": "ninelizitavat",
+          "m": "ninelizitavAn",
+          "f": "ninelizitavatI",
+          "n": "ninelizitavat/ninelizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ninilizwi",
+          "m": "",
+          "f": "ninilizwiH",
+          "n": ""
+        },
+        {
+          "base": "ninelizwi",
+          "m": "",
+          "f": "ninelizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ninilizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ninelizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ninilizAmbaBUvas",
+          "m": "ninilizAmbaBUvAn",
+          "f": "ninilizAmbaBUzI",
+          "n": "ninilizAmbaBUvat/ninilizAmbaBUvad"
+        },
+        {
+          "base": "ninilizAmAsivas",
+          "m": "ninilizAmAsivAn",
+          "f": "ninilizAmAsyuzI",
+          "n": "ninilizAmAsivat/ninilizAmAsivad"
+        },
+        {
+          "base": "ninilizAYcakfvas",
+          "m": "ninilizAYcakfvAn",
+          "f": "ninilizAYcakruzI",
+          "n": "ninilizAYcakfvat/ninilizAYcakfvad"
+        },
+        {
+          "base": "ninelizAmbaBUvas",
+          "m": "ninelizAmbaBUvAn",
+          "f": "ninelizAmbaBUzI",
+          "n": "ninelizAmbaBUvat/ninelizAmbaBUvad"
+        },
+        {
+          "base": "ninelizAmAsivas",
+          "m": "ninelizAmAsivAn",
+          "f": "ninelizAmAsyuzI",
+          "n": "ninelizAmAsivat/ninelizAmAsivad"
+        },
+        {
+          "base": "ninelizAYcakfvas",
+          "m": "ninelizAYcakfvAn",
+          "f": "ninelizAYcakruzI",
+          "n": "ninelizAYcakfvat/ninelizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "niniliza",
+          "m": "ninilizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "nineliza",
+          "m": "ninelizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ninilizamARa",
+          "m": "ninilizamARaH",
+          "f": "ninilizamARA",
+          "n": "ninilizamARam"
+        },
+        {
+          "base": "ninelizamARa",
+          "m": "ninelizamARaH",
+          "f": "ninelizamARA",
+          "n": "ninelizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ninilizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ninelizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ninilizaka",
+          "m": "ninilizakaH",
+          "f": "ninilizikA",
+          "n": "ninilizakam"
+        },
+        {
+          "base": "ninelizaka",
+          "m": "ninelizakaH",
+          "f": "ninelizikA",
+          "n": "ninelizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ninilizitavya",
+          "m": "ninilizitavyaH",
+          "f": "ninilizitavyA",
+          "n": "ninilizitavyam"
+        },
+        {
+          "base": "ninelizitavya",
+          "m": "ninelizitavyaH",
+          "f": "ninelizitavyA",
+          "n": "ninelizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ninilizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ninelizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ninilizitf",
+          "m": "ninilizitA",
+          "f": "ninilizitrI",
+          "n": "ninilizitf"
+        },
+        {
+          "base": "ninelizitf",
+          "m": "ninelizitA",
+          "f": "ninelizitrI",
+          "n": "ninelizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ninilizyamARa",
+          "m": "ninilizyamARaH",
+          "f": "ninilizyamARA",
+          "n": "ninilizyamARam"
+        },
+        {
+          "base": "ninelizyamARa",
+          "m": "ninelizyamARaH",
+          "f": "ninelizyamARA",
+          "n": "ninelizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ninilizya",
+          "m": "ninilizyaH",
+          "f": "ninilizyA",
+          "n": "ninilizyam"
+        },
+        {
+          "base": "ninelizya",
+          "m": "ninelizyaH",
+          "f": "ninelizyA",
+          "n": "ninelizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praninilizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "praninelizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ninilizaRa",
+          "m": "",
+          "f": "",
+          "n": "ninilizaRam"
+        },
+        {
+          "base": "ninelizaRa",
+          "m": "",
+          "f": "",
+          "n": "ninelizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ninilizaka",
+          "m": "ninilizakaH",
+          "f": "ninilizikA",
+          "n": "ninilizakam"
+        },
+        {
+          "base": "ninelizaka",
+          "m": "ninelizakaH",
+          "f": "ninelizikA",
+          "n": "ninelizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ninilizat",
+          "m": "ninilizan",
+          "f": "ninilizantI",
+          "n": "ninilizat/ninilizad"
+        },
+        {
+          "base": "ninelizat",
+          "m": "ninelizan",
+          "f": "ninelizantI",
+          "n": "ninelizat/ninelizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ninilizizyamARa",
+          "m": "ninilizizyamARaH",
+          "f": "ninilizizyamARA",
+          "n": "ninilizizyamARam"
+        },
+        {
+          "base": "ninelizizyamARa",
+          "m": "ninelizizyamARaH",
+          "f": "ninelizizyamARA",
+          "n": "ninelizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ninilizizyat",
+          "m": "ninilizizyan",
+          "f": "ninilizizyatI/ninilizizyantI",
+          "n": "ninilizizyat/ninilizizyad"
+        },
+        {
+          "base": "ninelizizyat",
+          "m": "ninelizizyan",
+          "f": "ninelizizyatI/ninelizizyantI",
+          "n": "ninelizizyat/ninelizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "nela",
+          "m": "nelaH",
+          "f": "nelA",
+          "n": "nelam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nelanIya",
+          "m": "nelanIyaH",
+          "f": "nelanIyA",
+          "n": "nelanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nelita",
+          "m": "nelitaH",
+          "f": "nelitA",
+          "n": "nelitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nelitavat",
+          "m": "nelitavAn",
+          "f": "nelitavatI",
+          "n": "nelitavat/nelitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nelti",
+          "m": "",
+          "f": "neltiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nelayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nelayAmbaBUvas",
+          "m": "nelayAmbaBUvAn",
+          "f": "nelayAmbaBUzI",
+          "n": "nelayAmbaBUvat/nelayAmbaBUvad"
+        },
+        {
+          "base": "nelayAmAsivas",
+          "m": "nelayAmAsivAn",
+          "f": "nelayAmAsyuzI",
+          "n": "nelayAmAsivat/nelayAmAsivad"
+        },
+        {
+          "base": "nelayAYcakfvas",
+          "m": "nelayAYcakfvAn",
+          "f": "nelayAYcakruzI",
+          "n": "nelayAYcakfvat/nelayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nelayamAna",
+          "m": "nelayamAnaH",
+          "f": "nelayamAnA",
+          "n": "nelayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nelam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nelaka",
+          "m": "nelakaH",
+          "f": "nelikA",
+          "n": "nelakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nelayitavya",
+          "m": "nelayitavyaH",
+          "f": "nelayitavyA",
+          "n": "nelayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nelayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nelayitf",
+          "m": "nelayitA",
+          "f": "nelayitrI",
+          "n": "nelayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nelyamAna",
+          "m": "nelyamAnaH",
+          "f": "nelyamAnA",
+          "n": "nelyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "nelya",
+          "m": "nelyaH",
+          "f": "nelyA",
+          "n": "nelyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praRelya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nelana",
+          "m": "",
+          "f": "",
+          "n": "nelanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nelaka",
+          "m": "nelakaH",
+          "f": "nelikA",
+          "n": "nelakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nelayat",
+          "m": "nelayan",
+          "f": "nelayantI",
+          "n": "nelayat/nelayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "nelayamAna",
+          "m": "nelayamAnaH",
+          "f": "nelayamAnA",
+          "n": "nelayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nelizyamARa",
+          "m": "nelizyamARaH",
+          "f": "nelizyamARA",
+          "n": "nelizyamARam"
+        },
+        {
+          "base": "nelayizyamARa",
+          "m": "nelayizyamARaH",
+          "f": "nelayizyamARA",
+          "n": "nelayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nelayizyat",
+          "m": "nelayizyan",
+          "f": "nelayizyatI/nelayizyantI",
+          "n": "nelayizyat/nelayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "nelayizyamARa",
+          "m": "nelayizyamARaH",
+          "f": "nelayizyamARA",
+          "n": "nelayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "nenilA",
+          "m": "",
+          "f": "nenilA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "nenila",
+          "m": "nenilaH",
+          "f": "nenilA",
+          "n": "nenilam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nenilanIya",
+          "m": "nenilanIyaH",
+          "f": "nenilanIyA",
+          "n": "nenilanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nenilita",
+          "m": "nenilitaH",
+          "f": "nenilitA",
+          "n": "nenilitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nenilitavat",
+          "m": "nenilitavAn",
+          "f": "nenilitavatI",
+          "n": "nenilitavat/nenilitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nenilti",
+          "m": "",
+          "f": "neniltiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nenilitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nenilAmbaBUvas",
+          "m": "nenilAmbaBUvAn",
+          "f": "nenilAmbaBUzI",
+          "n": "nenilAmbaBUvat/nenilAmbaBUvad"
+        },
+        {
+          "base": "nenilAmAsivas",
+          "m": "nenilAmAsivAn",
+          "f": "nenilAmAsyuzI",
+          "n": "nenilAmAsivat/nenilAmAsivad"
+        },
+        {
+          "base": "nenilAYcakfvas",
+          "m": "nenilAYcakfvAn",
+          "f": "nenilAYcakruzI",
+          "n": "nenilAYcakfvat/nenilAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nenila",
+          "m": "nenilaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nenilyamAna",
+          "m": "nenilyamAnaH",
+          "f": "nenilyamAnA",
+          "n": "nenilyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nenilam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nenilaka",
+          "m": "nenilakaH",
+          "f": "nenilikA",
+          "n": "nenilakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nenilitavya",
+          "m": "nenilitavyaH",
+          "f": "nenilitavyA",
+          "n": "nenilitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nenilitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nenilitf",
+          "m": "nenilitA",
+          "f": "nenilitrI",
+          "n": "nenilitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nenilyamAna",
+          "m": "nenilyamAnaH",
+          "f": "nenilyamAnA",
+          "n": "nenilyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "nenilya",
+          "m": "nenilyaH",
+          "f": "nenilyA",
+          "n": "nenilyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranenilya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nenilana",
+          "m": "",
+          "f": "",
+          "n": "nenilanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nenilaka",
+          "m": "nenilakaH",
+          "f": "nenilikA",
+          "n": "nenilakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "nenilyamAna",
+          "m": "nenilyamAnaH",
+          "f": "nenilyamAnA",
+          "n": "nenilyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nenilizyamARa",
+          "m": "nenilizyamARaH",
+          "f": "nenilizyamARA",
+          "n": "nenilizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "nenilizyamARa",
+          "m": "nenilizyamARaH",
+          "f": "nenilizyamARA",
+          "n": "nenilizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "nenelA",
+          "m": "",
+          "f": "nenelA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "nenela",
+          "m": "nenelaH",
+          "f": "nenelA",
+          "n": "nenelam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "nenelanIya",
+          "m": "nenelanIyaH",
+          "f": "nenelanIyA",
+          "n": "nenelanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "nenilita",
+          "m": "nenilitaH",
+          "f": "nenilitA",
+          "n": "nenilitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "nenilitavat",
+          "m": "nenilitavAn",
+          "f": "nenilitavatI",
+          "n": "nenilitavat/nenilitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "nenilti",
+          "m": "",
+          "f": "neniltiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "nenelitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "nenelAmbaBUvas",
+          "m": "nenelAmbaBUvAn",
+          "f": "nenelAmbaBUzI",
+          "n": "nenelAmbaBUvat/nenelAmbaBUvad"
+        },
+        {
+          "base": "nenelAmAsivas",
+          "m": "nenelAmAsivAn",
+          "f": "nenelAmAsyuzI",
+          "n": "nenelAmAsivat/nenelAmAsivad"
+        },
+        {
+          "base": "nenelAYcakfvas",
+          "m": "nenelAYcakfvAn",
+          "f": "nenelAYcakruzI",
+          "n": "nenelAYcakfvat/nenelAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "nenela",
+          "m": "nenelaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "nenilAna",
+          "m": "nenilAnaH",
+          "f": "nenilAnA",
+          "n": "nenilAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "nenelam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "nenelaka",
+          "m": "nenelakaH",
+          "f": "nenelikA",
+          "n": "nenelakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "nenelitavya",
+          "m": "nenelitavyaH",
+          "f": "nenelitavyA",
+          "n": "nenelitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "nenelitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "nenelitf",
+          "m": "nenelitA",
+          "f": "nenelitrI",
+          "n": "nenelitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "nenilyamAna",
+          "m": "nenilyamAnaH",
+          "f": "nenilyamAnA",
+          "n": "nenilyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pranenilya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "nenelana",
+          "m": "",
+          "f": "",
+          "n": "nenelanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "nenelaka",
+          "m": "nenelakaH",
+          "f": "nenelikA",
+          "n": "nenelakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "nenilat",
+          "m": "nenilat/nenilad",
+          "f": "nenilatI",
+          "n": "nenilat/nenilad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "nenelizyamARa",
+          "m": "nenelizyamARaH",
+          "f": "nenelizyamARA",
+          "n": "nenelizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "nenelizyat",
+          "m": "nenelizyan",
+          "f": "nenelizyatI/nenelizyantI",
+          "n": "nenelizyat/nenelizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "nil",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

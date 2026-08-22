@@ -1,0 +1,3467 @@
+{
+  "id": "09.0002",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "prIY"
+    },
+    {
+      "name": "arTaH",
+      "value": "tarpaRe kAntO ca"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to love, to satisfy, to wish, to desire, to show kindness"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "prItI karanA, tfpta karanA, kAmanA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "kAntiH = kAmanA . ' prIN prItO prIyateprInAt prIRIte tarpaRe YitaH . aRO yO YittvasAPalyAt prIRayet prayate prayet ' (Slo. 19-20) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "kryAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1474"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1474"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2554",
+      "ext_link": "/sutraani/sk2554?scroll=sutra-commentary-kaumudi-region&highlight=paraIYa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "681",
+      "ext_link": "/sutraani/lsk681?scroll=sutra-commentary-laghukaumudi-region&highlight=paraIYa"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "prezIzwa",
+        "prezIyAstAm",
+        "prezIran",
+        "prezIzWAH",
+        "prezIyAsTAm",
+        "prezIQvam",
+        "prezIya",
+        "prezIvahi",
+        "prezImahi"
+      ],
+      "alang": [
+        "aprIRIta",
+        "aprIRAtAm",
+        "aprIRata",
+        "aprIRITAH",
+        "aprIRATAm",
+        "aprIRIDvam",
+        "aprIRi",
+        "aprIRIvahi",
+        "aprIRImahi"
+      ],
+      "alat": [
+        "prIRIte",
+        "prIRAte",
+        "prIRate",
+        "prIRIze",
+        "prIRATe",
+        "prIRIDve",
+        "prIRe",
+        "prIRIvahe",
+        "prIRImahe"
+      ],
+      "alit": [
+        "pipriye",
+        "pipriyAte",
+        "pipriyire",
+        "pipriyize",
+        "pipriyATe",
+        "pipriyiQve",
+        "pipriyiDve",
+        "pipriye",
+        "pipriyivahe",
+        "pipriyimahe"
+      ],
+      "alot": [
+        "prIRItAm",
+        "prIRAtAm",
+        "prIRatAm",
+        "prIRIzva",
+        "prIRATAm",
+        "prIRIDvam",
+        "prIRE",
+        "prIRAvahE",
+        "prIRAmahE"
+      ],
+      "alrung": [
+        "aprezyata",
+        "aprezyetAm",
+        "aprezyanta",
+        "aprezyaTAH",
+        "aprezyeTAm",
+        "aprezyaDvam",
+        "aprezye",
+        "aprezyAvahi",
+        "aprezyAmahi"
+      ],
+      "alrut": [
+        "prezyate",
+        "prezyete",
+        "prezyante",
+        "prezyase",
+        "prezyeTe",
+        "prezyaDve",
+        "prezye",
+        "prezyAvahe",
+        "prezyAmahe"
+      ],
+      "alung": [
+        "aprezwa",
+        "aprezAtAm",
+        "aprezata",
+        "aprezWAH",
+        "aprezATAm",
+        "apreQvam",
+        "aprezi",
+        "aprezvahi",
+        "aprezmahi"
+      ],
+      "alut": [
+        "pretA",
+        "pretArO",
+        "pretAraH",
+        "pretAse",
+        "pretAsATe",
+        "pretADve",
+        "pretAhe",
+        "pretAsvahe",
+        "pretAsmahe"
+      ],
+      "avidhiling": [
+        "prIRIta",
+        "prIRIyAtAm",
+        "prIRIran",
+        "prIRITAH",
+        "prIRIyATAm",
+        "prIRIDvam",
+        "prIRIya",
+        "prIRIvahi",
+        "prIRImahi"
+      ],
+      "pashirling": [
+        "prIyAt",
+        "prIyAd",
+        "prIyAstAm",
+        "prIyAsuH",
+        "prIyAH",
+        "prIyAstam",
+        "prIyAsta",
+        "prIyAsam",
+        "prIyAsva",
+        "prIyAsma"
+      ],
+      "plang": [
+        "aprIRAt",
+        "aprIRAd",
+        "aprIRItAm",
+        "aprIRan",
+        "aprIRAH",
+        "aprIRItam",
+        "aprIRIta",
+        "aprIRAm",
+        "aprIRIva",
+        "aprIRIma"
+      ],
+      "plat": [
+        "prIRAti",
+        "prIRItaH",
+        "prIRanti",
+        "prIRAsi",
+        "prIRITaH",
+        "prIRITa",
+        "prIRAmi",
+        "prIRIvaH",
+        "prIRImaH"
+      ],
+      "plit": [
+        "piprAya",
+        "pipriyatuH",
+        "pipriyuH",
+        "piprayiTa",
+        "pipreTa",
+        "pipriyaTuH",
+        "pipriya",
+        "pipraya",
+        "piprAya",
+        "pipriyiva",
+        "pipriyima"
+      ],
+      "plot": [
+        "prIRAtu",
+        "prIRItAt",
+        "prIRItAd",
+        "prIRItAm",
+        "prIRantu",
+        "prIRItAt",
+        "prIRItAd",
+        "prIRIhi",
+        "prIRItam",
+        "prIRIta",
+        "prIRAni",
+        "prIRAva",
+        "prIRAma"
+      ],
+      "plrung": [
+        "aprezyat",
+        "aprezyad",
+        "aprezyatAm",
+        "aprezyan",
+        "aprezyaH",
+        "aprezyatam",
+        "aprezyata",
+        "aprezyam",
+        "aprezyAva",
+        "aprezyAma"
+      ],
+      "plrut": [
+        "prezyati",
+        "prezyataH",
+        "prezyanti",
+        "prezyasi",
+        "prezyaTaH",
+        "prezyaTa",
+        "prezyAmi",
+        "prezyAvaH",
+        "prezyAmaH"
+      ],
+      "plung": [
+        "aprEzIt",
+        "aprEzId",
+        "aprEzwAm",
+        "aprEzuH",
+        "aprEzIH",
+        "aprEzwam",
+        "aprEzwa",
+        "aprEzam",
+        "aprEzva",
+        "aprEzma"
+      ],
+      "plut": [
+        "pretA",
+        "pretArO",
+        "pretAraH",
+        "pretAsi",
+        "pretAsTaH",
+        "pretAsTa",
+        "pretAsmi",
+        "pretAsvaH",
+        "pretAsmaH"
+      ],
+      "pvidhiling": [
+        "prIRIyAt",
+        "prIRIyAd",
+        "prIRIyAtAm",
+        "prIRIyuH",
+        "prIRIyAH",
+        "prIRIyAtam",
+        "prIRIyAta",
+        "prIRIyAm",
+        "prIRIyAva",
+        "prIRIyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "prAyizIzwa",
+        "prezIzwa",
+        "prAyizIyAstAm",
+        "prezIyAstAm",
+        "prAyizIran",
+        "prezIran",
+        "prAyizIzWAH",
+        "prezIzWAH",
+        "prAyizIyAsTAm",
+        "prezIyAsTAm",
+        "prAyizIQvam",
+        "prAyizIDvam",
+        "prezIQvam",
+        "prAyizIya",
+        "prezIya",
+        "prAyizIvahi",
+        "prezIvahi",
+        "prAyizImahi",
+        "prezImahi"
+      ],
+      "alang": [
+        "aprIyata",
+        "aprIyetAm",
+        "aprIyanta",
+        "aprIyaTAH",
+        "aprIyeTAm",
+        "aprIyaDvam",
+        "aprIye",
+        "aprIyAvahi",
+        "aprIyAmahi"
+      ],
+      "alat": [
+        "prIyate",
+        "prIyete",
+        "prIyante",
+        "prIyase",
+        "prIyeTe",
+        "prIyaDve",
+        "prIye",
+        "prIyAvahe",
+        "prIyAmahe"
+      ],
+      "alit": [
+        "pipriye",
+        "pipriyAte",
+        "pipriyire",
+        "pipriyize",
+        "pipriyATe",
+        "pipriyiQve",
+        "pipriyiDve",
+        "pipriye",
+        "pipriyivahe",
+        "pipriyimahe"
+      ],
+      "alot": [
+        "prIyatAm",
+        "prIyetAm",
+        "prIyantAm",
+        "prIyasva",
+        "prIyeTAm",
+        "prIyaDvam",
+        "prIyE",
+        "prIyAvahE",
+        "prIyAmahE"
+      ],
+      "alrung": [
+        "aprAyizyata",
+        "aprezyata",
+        "aprAyizyetAm",
+        "aprezyetAm",
+        "aprAyizyanta",
+        "aprezyanta",
+        "aprAyizyaTAH",
+        "aprezyaTAH",
+        "aprAyizyeTAm",
+        "aprezyeTAm",
+        "aprAyizyaDvam",
+        "aprezyaDvam",
+        "aprAyizye",
+        "aprezye",
+        "aprAyizyAvahi",
+        "aprezyAvahi",
+        "aprAyizyAmahi",
+        "aprezyAmahi"
+      ],
+      "alrut": [
+        "prAyizyate",
+        "prezyate",
+        "prAyizyete",
+        "prezyete",
+        "prAyizyante",
+        "prezyante",
+        "prAyizyase",
+        "prezyase",
+        "prAyizyeTe",
+        "prezyeTe",
+        "prAyizyaDve",
+        "prezyaDve",
+        "prAyizye",
+        "prezye",
+        "prAyizyAvahe",
+        "prezyAvahe",
+        "prAyizyAmahe",
+        "prezyAmahe"
+      ],
+      "alung": [
+        "aprAyi",
+        "aprAyizAtAm",
+        "aprezAtAm",
+        "aprAyizata",
+        "aprezata",
+        "aprAyizWAH",
+        "aprezWAH",
+        "aprAyizATAm",
+        "aprezATAm",
+        "aprAyiQvam",
+        "aprAyiDvam",
+        "apreQvam",
+        "aprAyizi",
+        "aprezi",
+        "aprAyizvahi",
+        "aprezvahi",
+        "aprAyizmahi",
+        "aprezmahi"
+      ],
+      "alut": [
+        "prAyitA",
+        "pretA",
+        "prAyitArO",
+        "pretArO",
+        "prAyitAraH",
+        "pretAraH",
+        "prAyitAse",
+        "pretAse",
+        "prAyitAsATe",
+        "pretAsATe",
+        "prAyitADve",
+        "pretADve",
+        "prAyitAhe",
+        "pretAhe",
+        "prAyitAsvahe",
+        "pretAsvahe",
+        "prAyitAsmahe",
+        "pretAsmahe"
+      ],
+      "avidhiling": [
+        "prIyeta",
+        "prIyeyAtAm",
+        "prIyeran",
+        "prIyeTAH",
+        "prIyeyATAm",
+        "prIyeDvam",
+        "prIyeya",
+        "prIyevahi",
+        "prIyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "piprIzizIzwa",
+        "piprIzizIyAstAm",
+        "piprIzizIran",
+        "piprIzizIzWAH",
+        "piprIzizIyAsTAm",
+        "piprIzizIDvam",
+        "piprIzizIya",
+        "piprIzizIvahi",
+        "piprIzizImahi"
+      ],
+      "alang": [
+        "apiprIzata",
+        "apiprIzetAm",
+        "apiprIzanta",
+        "apiprIzaTAH",
+        "apiprIzeTAm",
+        "apiprIzaDvam",
+        "apiprIze",
+        "apiprIzAvahi",
+        "apiprIzAmahi"
+      ],
+      "alat": [
+        "piprIzate",
+        "piprIzete",
+        "piprIzante",
+        "piprIzase",
+        "piprIzeTe",
+        "piprIzaDve",
+        "piprIze",
+        "piprIzAvahe",
+        "piprIzAmahe"
+      ],
+      "alit": [
+        "piprIzAYcakre",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakrAte",
+        "piprIzAmAsatuH",
+        "piprIzAmbaBUvatuH",
+        "piprIzAYcakrire",
+        "piprIzAmAsuH",
+        "piprIzAmbaBUvuH",
+        "piprIzAYcakfze",
+        "piprIzAmAsiTa",
+        "piprIzAmbaBUviTa",
+        "piprIzAYcakrATe",
+        "piprIzAmAsaTuH",
+        "piprIzAmbaBUvaTuH",
+        "piprIzAYcakfQve",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakre",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakfvahe",
+        "piprIzAmAsiva",
+        "piprIzAmbaBUviva",
+        "piprIzAYcakfmahe",
+        "piprIzAmAsima",
+        "piprIzAmbaBUvima"
+      ],
+      "alot": [
+        "piprIzatAm",
+        "piprIzetAm",
+        "piprIzantAm",
+        "piprIzasva",
+        "piprIzeTAm",
+        "piprIzaDvam",
+        "piprIzE",
+        "piprIzAvahE",
+        "piprIzAmahE"
+      ],
+      "alrung": [
+        "apiprIzizyata",
+        "apiprIzizyetAm",
+        "apiprIzizyanta",
+        "apiprIzizyaTAH",
+        "apiprIzizyeTAm",
+        "apiprIzizyaDvam",
+        "apiprIzizye",
+        "apiprIzizyAvahi",
+        "apiprIzizyAmahi"
+      ],
+      "alrut": [
+        "piprIzizyate",
+        "piprIzizyete",
+        "piprIzizyante",
+        "piprIzizyase",
+        "piprIzizyeTe",
+        "piprIzizyaDve",
+        "piprIzizye",
+        "piprIzizyAvahe",
+        "piprIzizyAmahe"
+      ],
+      "alung": [
+        "apiprIzizwa",
+        "apiprIzizAtAm",
+        "apiprIzizata",
+        "apiprIzizWAH",
+        "apiprIzizATAm",
+        "apiprIziDvam",
+        "apiprIzizi",
+        "apiprIzizvahi",
+        "apiprIzizmahi"
+      ],
+      "alut": [
+        "piprIzitA",
+        "piprIzitArO",
+        "piprIzitAraH",
+        "piprIzitAse",
+        "piprIzitAsATe",
+        "piprIzitADve",
+        "piprIzitAhe",
+        "piprIzitAsvahe",
+        "piprIzitAsmahe"
+      ],
+      "avidhiling": [
+        "piprIzeta",
+        "piprIzeyAtAm",
+        "piprIzeran",
+        "piprIzeTAH",
+        "piprIzeyATAm",
+        "piprIzeDvam",
+        "piprIzeya",
+        "piprIzevahi",
+        "piprIzemahi"
+      ],
+      "pashirling": [
+        "piprIzyAt",
+        "piprIzyAd",
+        "piprIzyAstAm",
+        "piprIzyAsuH",
+        "piprIzyAH",
+        "piprIzyAstam",
+        "piprIzyAsta",
+        "piprIzyAsam",
+        "piprIzyAsva",
+        "piprIzyAsma"
+      ],
+      "plang": [
+        "apiprIzat",
+        "apiprIzad",
+        "apiprIzatAm",
+        "apiprIzan",
+        "apiprIzaH",
+        "apiprIzatam",
+        "apiprIzata",
+        "apiprIzam",
+        "apiprIzAva",
+        "apiprIzAma"
+      ],
+      "plat": [
+        "piprIzati",
+        "piprIzataH",
+        "piprIzanti",
+        "piprIzasi",
+        "piprIzaTaH",
+        "piprIzaTa",
+        "piprIzAmi",
+        "piprIzAvaH",
+        "piprIzAmaH"
+      ],
+      "plit": [
+        "piprIzAYcakAra",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakratuH",
+        "piprIzAmAsatuH",
+        "piprIzAmbaBUvatuH",
+        "piprIzAYcakruH",
+        "piprIzAmAsuH",
+        "piprIzAmbaBUvuH",
+        "piprIzAYcakarTa",
+        "piprIzAmAsiTa",
+        "piprIzAmbaBUviTa",
+        "piprIzAYcakraTuH",
+        "piprIzAmAsaTuH",
+        "piprIzAmbaBUvaTuH",
+        "piprIzAYcakra",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakara",
+        "piprIzAYcakAra",
+        "piprIzAmAsa",
+        "piprIzAmbaBUva",
+        "piprIzAYcakfva",
+        "piprIzAmAsiva",
+        "piprIzAmbaBUviva",
+        "piprIzAYcakfma",
+        "piprIzAmAsima",
+        "piprIzAmbaBUvima"
+      ],
+      "plot": [
+        "piprIzatAt",
+        "piprIzatAd",
+        "piprIzatu",
+        "piprIzatAm",
+        "piprIzantu",
+        "piprIza",
+        "piprIzatAt",
+        "piprIzatAd",
+        "piprIzatam",
+        "piprIzata",
+        "piprIzARi",
+        "piprIzAva",
+        "piprIzAma"
+      ],
+      "plrung": [
+        "apiprIzizyat",
+        "apiprIzizyad",
+        "apiprIzizyatAm",
+        "apiprIzizyan",
+        "apiprIzizyaH",
+        "apiprIzizyatam",
+        "apiprIzizyata",
+        "apiprIzizyam",
+        "apiprIzizyAva",
+        "apiprIzizyAma"
+      ],
+      "plrut": [
+        "piprIzizyati",
+        "piprIzizyataH",
+        "piprIzizyanti",
+        "piprIzizyasi",
+        "piprIzizyaTaH",
+        "piprIzizyaTa",
+        "piprIzizyAmi",
+        "piprIzizyAvaH",
+        "piprIzizyAmaH"
+      ],
+      "plung": [
+        "apiprIzIt",
+        "apiprIzId",
+        "apiprIzizwAm",
+        "apiprIzizuH",
+        "apiprIzIH",
+        "apiprIzizwam",
+        "apiprIzizwa",
+        "apiprIzizam",
+        "apiprIzizva",
+        "apiprIzizma"
+      ],
+      "plut": [
+        "piprIzitA",
+        "piprIzitArO",
+        "piprIzitAraH",
+        "piprIzitAsi",
+        "piprIzitAsTaH",
+        "piprIzitAsTa",
+        "piprIzitAsmi",
+        "piprIzitAsvaH",
+        "piprIzitAsmaH"
+      ],
+      "pvidhiling": [
+        "piprIzet",
+        "piprIzed",
+        "piprIzetAm",
+        "piprIzeyuH",
+        "piprIzeH",
+        "piprIzetam",
+        "piprIzeta",
+        "piprIzeyam",
+        "piprIzeva",
+        "piprIzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "piprIzizIzwa",
+        "piprIzizIyAstAm",
+        "piprIzizIran",
+        "piprIzizIzWAH",
+        "piprIzizIyAsTAm",
+        "piprIzizIDvam",
+        "piprIzizIya",
+        "piprIzizIvahi",
+        "piprIzizImahi"
+      ],
+      "alang": [
+        "apiprIzyata",
+        "apiprIzyetAm",
+        "apiprIzyanta",
+        "apiprIzyaTAH",
+        "apiprIzyeTAm",
+        "apiprIzyaDvam",
+        "apiprIzye",
+        "apiprIzyAvahi",
+        "apiprIzyAmahi"
+      ],
+      "alat": [
+        "piprIzyate",
+        "piprIzyete",
+        "piprIzyante",
+        "piprIzyase",
+        "piprIzyeTe",
+        "piprIzyaDve",
+        "piprIzye",
+        "piprIzyAvahe",
+        "piprIzyAmahe"
+      ],
+      "alit": [
+        "piprIzAYcakre",
+        "piprIzAmAse",
+        "piprIzAmbaBUve",
+        "piprIzAYcakrAte",
+        "piprIzAmAsAte",
+        "piprIzAmbaBUvAte",
+        "piprIzAYcakrire",
+        "piprIzAmAsire",
+        "piprIzAmbaBUvire",
+        "piprIzAYcakfze",
+        "piprIzAmAsize",
+        "piprIzAmbaBUvize",
+        "piprIzAYcakrATe",
+        "piprIzAmAsATe",
+        "piprIzAmbaBUvATe",
+        "piprIzAYcakfQve",
+        "piprIzAmAsiDve",
+        "piprIzAmbaBUviQve",
+        "piprIzAYcakre",
+        "piprIzAmAhe",
+        "piprIzAmbaBUve",
+        "piprIzAYcakfvahe",
+        "piprIzAmAsivahe",
+        "piprIzAmbaBUvivahe",
+        "piprIzAYcakfmahe",
+        "piprIzAmAsimahe",
+        "piprIzAmbaBUvimahe"
+      ],
+      "alot": [
+        "piprIzyatAm",
+        "piprIzyetAm",
+        "piprIzyantAm",
+        "piprIzyasva",
+        "piprIzyeTAm",
+        "piprIzyaDvam",
+        "piprIzyE",
+        "piprIzyAvahE",
+        "piprIzyAmahE"
+      ],
+      "alrung": [
+        "apiprIzizyata",
+        "apiprIzizyetAm",
+        "apiprIzizyanta",
+        "apiprIzizyaTAH",
+        "apiprIzizyeTAm",
+        "apiprIzizyaDvam",
+        "apiprIzizye",
+        "apiprIzizyAvahi",
+        "apiprIzizyAmahi"
+      ],
+      "alrut": [
+        "piprIzizyate",
+        "piprIzizyete",
+        "piprIzizyante",
+        "piprIzizyase",
+        "piprIzizyeTe",
+        "piprIzizyaDve",
+        "piprIzizye",
+        "piprIzizyAvahe",
+        "piprIzizyAmahe"
+      ],
+      "alung": [
+        "apiprIzi",
+        "apiprIzizAtAm",
+        "apiprIzizata",
+        "apiprIzizWAH",
+        "apiprIzizATAm",
+        "apiprIziDvam",
+        "apiprIzizi",
+        "apiprIzizvahi",
+        "apiprIzizmahi"
+      ],
+      "alut": [
+        "piprIzitA",
+        "piprIzitArO",
+        "piprIzitAraH",
+        "piprIzitAse",
+        "piprIzitAsATe",
+        "piprIzitADve",
+        "piprIzitAhe",
+        "piprIzitAsvahe",
+        "piprIzitAsmahe"
+      ],
+      "avidhiling": [
+        "piprIzyeta",
+        "piprIzyeyAtAm",
+        "piprIzyeran",
+        "piprIzyeTAH",
+        "piprIzyeyATAm",
+        "piprIzyeDvam",
+        "piprIzyeya",
+        "piprIzyevahi",
+        "piprIzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "prAyayizIzwa",
+        "prIRayizIzwa",
+        "prAyayizIyAstAm",
+        "prIRayizIyAstAm",
+        "prAyayizIran",
+        "prIRayizIran",
+        "prAyayizIzWAH",
+        "prIRayizIzWAH",
+        "prAyayizIyAsTAm",
+        "prIRayizIyAsTAm",
+        "prAyayizIQvam",
+        "prAyayizIDvam",
+        "prIRayizIQvam",
+        "prIRayizIDvam",
+        "prAyayizIya",
+        "prIRayizIya",
+        "prAyayizIvahi",
+        "prIRayizIvahi",
+        "prAyayizImahi",
+        "prIRayizImahi"
+      ],
+      "alang": [
+        "aprAyayata",
+        "aprIRayata",
+        "aprAyayetAm",
+        "aprIRayetAm",
+        "aprAyayanta",
+        "aprIRayanta",
+        "aprAyayaTAH",
+        "aprIRayaTAH",
+        "aprAyayeTAm",
+        "aprIRayeTAm",
+        "aprAyayaDvam",
+        "aprIRayaDvam",
+        "aprAyaye",
+        "aprIRaye",
+        "aprAyayAvahi",
+        "aprIRayAvahi",
+        "aprAyayAmahi",
+        "aprIRayAmahi"
+      ],
+      "alat": [
+        "prAyayate",
+        "prIRayate",
+        "prAyayete",
+        "prIRayete",
+        "prAyayante",
+        "prIRayante",
+        "prAyayase",
+        "prIRayase",
+        "prAyayeTe",
+        "prIRayeTe",
+        "prAyayaDve",
+        "prIRayaDve",
+        "prAyaye",
+        "prIRaye",
+        "prAyayAvahe",
+        "prIRayAvahe",
+        "prAyayAmahe",
+        "prIRayAmahe"
+      ],
+      "alit": [
+        "prAyayAYcakre",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakre",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakrAte",
+        "prAyayAmAsatuH",
+        "prAyayAmbaBUvatuH",
+        "prIRayAYcakrAte",
+        "prIRayAmAsatuH",
+        "prIRayAmbaBUvatuH",
+        "prAyayAYcakrire",
+        "prAyayAmAsuH",
+        "prAyayAmbaBUvuH",
+        "prIRayAYcakrire",
+        "prIRayAmAsuH",
+        "prIRayAmbaBUvuH",
+        "prAyayAYcakfze",
+        "prAyayAmAsiTa",
+        "prAyayAmbaBUviTa",
+        "prIRayAYcakfze",
+        "prIRayAmAsiTa",
+        "prIRayAmbaBUviTa",
+        "prAyayAYcakrATe",
+        "prAyayAmAsaTuH",
+        "prAyayAmbaBUvaTuH",
+        "prIRayAYcakrATe",
+        "prIRayAmAsaTuH",
+        "prIRayAmbaBUvaTuH",
+        "prAyayAYcakfQve",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakfQve",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakre",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakre",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakfvahe",
+        "prAyayAmAsiva",
+        "prAyayAmbaBUviva",
+        "prIRayAYcakfvahe",
+        "prIRayAmAsiva",
+        "prIRayAmbaBUviva",
+        "prAyayAYcakfmahe",
+        "prAyayAmAsima",
+        "prAyayAmbaBUvima",
+        "prIRayAYcakfmahe",
+        "prIRayAmAsima",
+        "prIRayAmbaBUvima"
+      ],
+      "alot": [
+        "prAyayatAm",
+        "prIRayatAm",
+        "prAyayetAm",
+        "prIRayetAm",
+        "prAyayantAm",
+        "prIRayantAm",
+        "prAyayasva",
+        "prIRayasva",
+        "prAyayeTAm",
+        "prIRayeTAm",
+        "prAyayaDvam",
+        "prIRayaDvam",
+        "prAyayE",
+        "prIRayE",
+        "prAyayAvahE",
+        "prIRayAvahE",
+        "prAyayAmahE",
+        "prIRayAmahE"
+      ],
+      "alrung": [
+        "aprAyayizyata",
+        "aprIRayizyata",
+        "aprAyayizyetAm",
+        "aprIRayizyetAm",
+        "aprAyayizyanta",
+        "aprIRayizyanta",
+        "aprAyayizyaTAH",
+        "aprIRayizyaTAH",
+        "aprAyayizyeTAm",
+        "aprIRayizyeTAm",
+        "aprAyayizyaDvam",
+        "aprIRayizyaDvam",
+        "aprAyayizye",
+        "aprIRayizye",
+        "aprAyayizyAvahi",
+        "aprIRayizyAvahi",
+        "aprAyayizyAmahi",
+        "aprIRayizyAmahi"
+      ],
+      "alrut": [
+        "prAyayizyate",
+        "prIRayizyate",
+        "prAyayizyete",
+        "prIRayizyete",
+        "prAyayizyante",
+        "prIRayizyante",
+        "prAyayizyase",
+        "prIRayizyase",
+        "prAyayizyeTe",
+        "prIRayizyeTe",
+        "prAyayizyaDve",
+        "prIRayizyaDve",
+        "prAyayizye",
+        "prIRayizye",
+        "prAyayizyAvahe",
+        "prIRayizyAvahe",
+        "prAyayizyAmahe",
+        "prIRayizyAmahe"
+      ],
+      "alung": [
+        "apiprayata",
+        "apipriRata",
+        "apiprayetAm",
+        "apipriRetAm",
+        "apiprayanta",
+        "apipriRanta",
+        "apiprayaTAH",
+        "apipriRaTAH",
+        "apiprayeTAm",
+        "apipriReTAm",
+        "apiprayaDvam",
+        "apipriRaDvam",
+        "apipraye",
+        "apipriRe",
+        "apiprayAvahi",
+        "apipriRAvahi",
+        "apiprayAmahi",
+        "apipriRAmahi"
+      ],
+      "alut": [
+        "prAyayitA",
+        "prIRayitA",
+        "prAyayitArO",
+        "prIRayitArO",
+        "prAyayitAraH",
+        "prIRayitAraH",
+        "prAyayitAse",
+        "prIRayitAse",
+        "prAyayitAsATe",
+        "prIRayitAsATe",
+        "prAyayitADve",
+        "prIRayitADve",
+        "prAyayitAhe",
+        "prIRayitAhe",
+        "prAyayitAsvahe",
+        "prIRayitAsvahe",
+        "prAyayitAsmahe",
+        "prIRayitAsmahe"
+      ],
+      "avidhiling": [
+        "prAyayeta",
+        "prIRayeta",
+        "prAyayeyAtAm",
+        "prIRayeyAtAm",
+        "prAyayeran",
+        "prIRayeran",
+        "prAyayeTAH",
+        "prIRayeTAH",
+        "prAyayeyATAm",
+        "prIRayeyATAm",
+        "prAyayeDvam",
+        "prIRayeDvam",
+        "prAyayeya",
+        "prIRayeya",
+        "prAyayevahi",
+        "prIRayevahi",
+        "prAyayemahi",
+        "prIRayemahi"
+      ],
+      "pashirling": [
+        "prAyyAt",
+        "prAyyAd",
+        "prIRyAt",
+        "prIRyAd",
+        "prAyyAstAm",
+        "prIRyAstAm",
+        "prAyyAsuH",
+        "prIRyAsuH",
+        "prAyyAH",
+        "prIRyAH",
+        "prAyyAstam",
+        "prIRyAstam",
+        "prAyyAsta",
+        "prIRyAsta",
+        "prAyyAsam",
+        "prIRyAsam",
+        "prAyyAsva",
+        "prIRyAsva",
+        "prAyyAsma",
+        "prIRyAsma"
+      ],
+      "plang": [
+        "aprAyayat",
+        "aprAyayad",
+        "aprIRayat",
+        "aprIRayad",
+        "aprAyayatAm",
+        "aprIRayatAm",
+        "aprAyayan",
+        "aprIRayan",
+        "aprAyayaH",
+        "aprIRayaH",
+        "aprAyayatam",
+        "aprIRayatam",
+        "aprAyayata",
+        "aprIRayata",
+        "aprAyayam",
+        "aprIRayam",
+        "aprAyayAva",
+        "aprIRayAva",
+        "aprAyayAma",
+        "aprIRayAma"
+      ],
+      "plat": [
+        "prAyayati",
+        "prIRayati",
+        "prAyayataH",
+        "prIRayataH",
+        "prAyayanti",
+        "prIRayanti",
+        "prAyayasi",
+        "prIRayasi",
+        "prAyayaTaH",
+        "prIRayaTaH",
+        "prAyayaTa",
+        "prIRayaTa",
+        "prAyayAmi",
+        "prIRayAmi",
+        "prAyayAvaH",
+        "prIRayAvaH",
+        "prAyayAmaH",
+        "prIRayAmaH"
+      ],
+      "plit": [
+        "prAyayAYcakAra",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakAra",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakratuH",
+        "prAyayAmAsatuH",
+        "prAyayAmbaBUvatuH",
+        "prIRayAYcakratuH",
+        "prIRayAmAsatuH",
+        "prIRayAmbaBUvatuH",
+        "prAyayAYcakruH",
+        "prAyayAmAsuH",
+        "prAyayAmbaBUvuH",
+        "prIRayAYcakruH",
+        "prIRayAmAsuH",
+        "prIRayAmbaBUvuH",
+        "prAyayAYcakarTa",
+        "prAyayAmAsiTa",
+        "prAyayAmbaBUviTa",
+        "prIRayAYcakarTa",
+        "prIRayAmAsiTa",
+        "prIRayAmbaBUviTa",
+        "prAyayAYcakraTuH",
+        "prAyayAmAsaTuH",
+        "prAyayAmbaBUvaTuH",
+        "prIRayAYcakraTuH",
+        "prIRayAmAsaTuH",
+        "prIRayAmbaBUvaTuH",
+        "prAyayAYcakra",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakra",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakara",
+        "prAyayAYcakAra",
+        "prAyayAmAsa",
+        "prAyayAmbaBUva",
+        "prIRayAYcakara",
+        "prIRayAYcakAra",
+        "prIRayAmAsa",
+        "prIRayAmbaBUva",
+        "prAyayAYcakfva",
+        "prAyayAmAsiva",
+        "prAyayAmbaBUviva",
+        "prIRayAYcakfva",
+        "prIRayAmAsiva",
+        "prIRayAmbaBUviva",
+        "prAyayAYcakfma",
+        "prAyayAmAsima",
+        "prAyayAmbaBUvima",
+        "prIRayAYcakfma",
+        "prIRayAmAsima",
+        "prIRayAmbaBUvima"
+      ],
+      "plot": [
+        "prAyayatAt",
+        "prAyayatAd",
+        "prAyayatu",
+        "prIRayatAt",
+        "prIRayatAd",
+        "prIRayatu",
+        "prAyayatAm",
+        "prIRayatAm",
+        "prAyayantu",
+        "prIRayantu",
+        "prAyaya",
+        "prAyayatAt",
+        "prAyayatAd",
+        "prIRaya",
+        "prIRayatAt",
+        "prIRayatAd",
+        "prAyayatam",
+        "prIRayatam",
+        "prAyayata",
+        "prIRayata",
+        "prAyayARi",
+        "prIRayAni",
+        "prAyayAva",
+        "prIRayAva",
+        "prAyayAma",
+        "prIRayAma"
+      ],
+      "plrung": [
+        "aprAyayizyat",
+        "aprAyayizyad",
+        "aprIRayizyat",
+        "aprIRayizyad",
+        "aprAyayizyatAm",
+        "aprIRayizyatAm",
+        "aprAyayizyan",
+        "aprIRayizyan",
+        "aprAyayizyaH",
+        "aprIRayizyaH",
+        "aprAyayizyatam",
+        "aprIRayizyatam",
+        "aprAyayizyata",
+        "aprIRayizyata",
+        "aprAyayizyam",
+        "aprIRayizyam",
+        "aprAyayizyAva",
+        "aprIRayizyAva",
+        "aprAyayizyAma",
+        "aprIRayizyAma"
+      ],
+      "plrut": [
+        "prAyayizyati",
+        "prIRayizyati",
+        "prAyayizyataH",
+        "prIRayizyataH",
+        "prAyayizyanti",
+        "prIRayizyanti",
+        "prAyayizyasi",
+        "prIRayizyasi",
+        "prAyayizyaTaH",
+        "prIRayizyaTaH",
+        "prAyayizyaTa",
+        "prIRayizyaTa",
+        "prAyayizyAmi",
+        "prIRayizyAmi",
+        "prAyayizyAvaH",
+        "prIRayizyAvaH",
+        "prAyayizyAmaH",
+        "prIRayizyAmaH"
+      ],
+      "plung": [
+        "apiprayat",
+        "apiprayad",
+        "apipriRat",
+        "apipriRad",
+        "apiprayatAm",
+        "apipriRatAm",
+        "apiprayan",
+        "apipriRan",
+        "apiprayaH",
+        "apipriRaH",
+        "apiprayatam",
+        "apipriRatam",
+        "apiprayata",
+        "apipriRata",
+        "apiprayam",
+        "apipriRam",
+        "apiprayAva",
+        "apipriRAva",
+        "apiprayAma",
+        "apipriRAma"
+      ],
+      "plut": [
+        "prAyayitA",
+        "prIRayitA",
+        "prAyayitArO",
+        "prIRayitArO",
+        "prAyayitAraH",
+        "prIRayitAraH",
+        "prAyayitAsi",
+        "prIRayitAsi",
+        "prAyayitAsTaH",
+        "prIRayitAsTaH",
+        "prAyayitAsTa",
+        "prIRayitAsTa",
+        "prAyayitAsmi",
+        "prIRayitAsmi",
+        "prAyayitAsvaH",
+        "prIRayitAsvaH",
+        "prAyayitAsmaH",
+        "prIRayitAsmaH"
+      ],
+      "pvidhiling": [
+        "prAyayet",
+        "prAyayed",
+        "prIRayet",
+        "prIRayed",
+        "prAyayetAm",
+        "prIRayetAm",
+        "prAyayeyuH",
+        "prIRayeyuH",
+        "prAyayeH",
+        "prIRayeH",
+        "prAyayetam",
+        "prIRayetam",
+        "prAyayeta",
+        "prIRayeta",
+        "prAyayeyam",
+        "prIRayeyam",
+        "prAyayeva",
+        "prIRayeva",
+        "prAyayema",
+        "prIRayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "prAyayizIzwa",
+        "prAyizIzwa",
+        "prIRayizIzwa",
+        "prIRizIzwa",
+        "prAyayizIyAstAm",
+        "prAyizIyAstAm",
+        "prIRayizIyAstAm",
+        "prIRizIyAstAm",
+        "prAyayizIran",
+        "prAyizIran",
+        "prIRayizIran",
+        "prIRizIran",
+        "prAyayizIzWAH",
+        "prAyizIzWAH",
+        "prIRayizIzWAH",
+        "prIRizIzWAH",
+        "prAyayizIyAsTAm",
+        "prAyizIyAsTAm",
+        "prIRayizIyAsTAm",
+        "prIRizIyAsTAm",
+        "prAyayizIQvam",
+        "prAyayizIDvam",
+        "prAyizIQvam",
+        "prIRayizIQvam",
+        "prIRayizIDvam",
+        "prIRizIQvam",
+        "prAyayizIya",
+        "prAyizIya",
+        "prIRayizIya",
+        "prIRizIya",
+        "prAyayizIvahi",
+        "prAyizIvahi",
+        "prIRayizIvahi",
+        "prIRizIvahi",
+        "prAyayizImahi",
+        "prAyizImahi",
+        "prIRayizImahi",
+        "prIRizImahi"
+      ],
+      "alang": [
+        "aprAyyata",
+        "aprIRyata",
+        "aprAyyetAm",
+        "aprIRyetAm",
+        "aprAyyanta",
+        "aprIRyanta",
+        "aprAyyaTAH",
+        "aprIRyaTAH",
+        "aprAyyeTAm",
+        "aprIRyeTAm",
+        "aprAyyaDvam",
+        "aprIRyaDvam",
+        "aprAyye",
+        "aprIRye",
+        "aprAyyAvahi",
+        "aprIRyAvahi",
+        "aprAyyAmahi",
+        "aprIRyAmahi"
+      ],
+      "alat": [
+        "prAyyate",
+        "prIRyate",
+        "prAyyete",
+        "prIRyete",
+        "prAyyante",
+        "prIRyante",
+        "prAyyase",
+        "prIRyase",
+        "prAyyeTe",
+        "prIRyeTe",
+        "prAyyaDve",
+        "prIRyaDve",
+        "prAyye",
+        "prIRye",
+        "prAyyAvahe",
+        "prIRyAvahe",
+        "prAyyAmahe",
+        "prIRyAmahe"
+      ],
+      "alit": [
+        "prAyayAYcakre",
+        "prAyayAmAse",
+        "prAyayAmbaBUve",
+        "prIRayAYcakre",
+        "prIRayAmAse",
+        "prIRayAmbaBUve",
+        "prAyayAYcakrAte",
+        "prAyayAmAsAte",
+        "prAyayAmbaBUvAte",
+        "prIRayAYcakrAte",
+        "prIRayAmAsAte",
+        "prIRayAmbaBUvAte",
+        "prAyayAYcakrire",
+        "prAyayAmAsire",
+        "prAyayAmbaBUvire",
+        "prIRayAYcakrire",
+        "prIRayAmAsire",
+        "prIRayAmbaBUvire",
+        "prAyayAYcakfze",
+        "prAyayAmAsize",
+        "prAyayAmbaBUvize",
+        "prIRayAYcakfze",
+        "prIRayAmAsize",
+        "prIRayAmbaBUvize",
+        "prAyayAYcakrATe",
+        "prAyayAmAsATe",
+        "prAyayAmbaBUvATe",
+        "prIRayAYcakrATe",
+        "prIRayAmAsATe",
+        "prIRayAmbaBUvATe",
+        "prAyayAYcakfQve",
+        "prAyayAmAsiDve",
+        "prAyayAmbaBUviQve",
+        "prIRayAYcakfQve",
+        "prIRayAmAsiDve",
+        "prIRayAmbaBUviQve",
+        "prAyayAYcakre",
+        "prAyayAmAhe",
+        "prAyayAmbaBUve",
+        "prIRayAYcakre",
+        "prIRayAmAhe",
+        "prIRayAmbaBUve",
+        "prAyayAYcakfvahe",
+        "prAyayAmAsivahe",
+        "prAyayAmbaBUvivahe",
+        "prIRayAYcakfvahe",
+        "prIRayAmAsivahe",
+        "prIRayAmbaBUvivahe",
+        "prAyayAYcakfmahe",
+        "prAyayAmAsimahe",
+        "prAyayAmbaBUvimahe",
+        "prIRayAYcakfmahe",
+        "prIRayAmAsimahe",
+        "prIRayAmbaBUvimahe"
+      ],
+      "alot": [
+        "prAyyatAm",
+        "prIRyatAm",
+        "prAyyetAm",
+        "prIRyetAm",
+        "prAyyantAm",
+        "prIRyantAm",
+        "prAyyasva",
+        "prIRyasva",
+        "prAyyeTAm",
+        "prIRyeTAm",
+        "prAyyaDvam",
+        "prIRyaDvam",
+        "prAyyE",
+        "prIRyE",
+        "prAyyAvahE",
+        "prIRyAvahE",
+        "prAyyAmahE",
+        "prIRyAmahE"
+      ],
+      "alrung": [
+        "aprAyayizyata",
+        "aprAyizyata",
+        "aprIRayizyata",
+        "aprIRizyata",
+        "aprAyayizyetAm",
+        "aprAyizyetAm",
+        "aprIRayizyetAm",
+        "aprIRizyetAm",
+        "aprAyayizyanta",
+        "aprAyizyanta",
+        "aprIRayizyanta",
+        "aprIRizyanta",
+        "aprAyayizyaTAH",
+        "aprAyizyaTAH",
+        "aprIRayizyaTAH",
+        "aprIRizyaTAH",
+        "aprAyayizyeTAm",
+        "aprAyizyeTAm",
+        "aprIRayizyeTAm",
+        "aprIRizyeTAm",
+        "aprAyayizyaDvam",
+        "aprAyizyaDvam",
+        "aprIRayizyaDvam",
+        "aprIRizyaDvam",
+        "aprAyayizye",
+        "aprAyizye",
+        "aprIRayizye",
+        "aprIRizye",
+        "aprAyayizyAvahi",
+        "aprAyizyAvahi",
+        "aprIRayizyAvahi",
+        "aprIRizyAvahi",
+        "aprAyayizyAmahi",
+        "aprAyizyAmahi",
+        "aprIRayizyAmahi",
+        "aprIRizyAmahi"
+      ],
+      "alrut": [
+        "prAyayizyate",
+        "prAyizyate",
+        "prIRayizyate",
+        "prIRizyate",
+        "prAyayizyete",
+        "prAyizyete",
+        "prIRayizyete",
+        "prIRizyete",
+        "prAyayizyante",
+        "prAyizyante",
+        "prIRayizyante",
+        "prIRizyante",
+        "prAyayizyase",
+        "prAyizyase",
+        "prIRayizyase",
+        "prIRizyase",
+        "prAyayizyeTe",
+        "prAyizyeTe",
+        "prIRayizyeTe",
+        "prIRizyeTe",
+        "prAyayizyaDve",
+        "prAyizyaDve",
+        "prIRayizyaDve",
+        "prIRizyaDve",
+        "prAyayizye",
+        "prAyizye",
+        "prIRayizye",
+        "prIRizye",
+        "prAyayizyAvahe",
+        "prAyizyAvahe",
+        "prIRayizyAvahe",
+        "prIRizyAvahe",
+        "prAyayizyAmahe",
+        "prAyizyAmahe",
+        "prIRayizyAmahe",
+        "prIRizyAmahe"
+      ],
+      "alung": [
+        "aprAyi",
+        "aprIRi",
+        "aprAyayizAtAm",
+        "aprAyizAtAm",
+        "aprIRayizAtAm",
+        "aprIRizAtAm",
+        "aprAyayizata",
+        "aprAyizata",
+        "aprIRayizata",
+        "aprIRizata",
+        "aprAyayizWAH",
+        "aprAyizWAH",
+        "aprIRayizWAH",
+        "aprIRizWAH",
+        "aprAyayizATAm",
+        "aprAyizATAm",
+        "aprIRayizATAm",
+        "aprIRizATAm",
+        "aprAyayiQvam",
+        "aprAyayiDvam",
+        "aprAyiQvam",
+        "aprIRayiQvam",
+        "aprIRayiDvam",
+        "aprIRiQvam",
+        "aprAyayizi",
+        "aprAyizi",
+        "aprIRayizi",
+        "aprIRizi",
+        "aprAyayizvahi",
+        "aprAyizvahi",
+        "aprIRayizvahi",
+        "aprIRizvahi",
+        "aprAyayizmahi",
+        "aprAyizmahi",
+        "aprIRayizmahi",
+        "aprIRizmahi"
+      ],
+      "alut": [
+        "prAyayitA",
+        "prAyitA",
+        "prIRayitA",
+        "prIRitA",
+        "prAyayitArO",
+        "prAyitArO",
+        "prIRayitArO",
+        "prIRitArO",
+        "prAyayitAraH",
+        "prAyitAraH",
+        "prIRayitAraH",
+        "prIRitAraH",
+        "prAyayitAse",
+        "prAyitAse",
+        "prIRayitAse",
+        "prIRitAse",
+        "prAyayitAsATe",
+        "prAyitAsATe",
+        "prIRayitAsATe",
+        "prIRitAsATe",
+        "prAyayitADve",
+        "prAyitADve",
+        "prIRayitADve",
+        "prIRitADve",
+        "prAyayitAhe",
+        "prAyitAhe",
+        "prIRayitAhe",
+        "prIRitAhe",
+        "prAyayitAsvahe",
+        "prAyitAsvahe",
+        "prIRayitAsvahe",
+        "prIRitAsvahe",
+        "prAyayitAsmahe",
+        "prAyitAsmahe",
+        "prIRayitAsmahe",
+        "prIRitAsmahe"
+      ],
+      "avidhiling": [
+        "prAyyeta",
+        "prIRyeta",
+        "prAyyeyAtAm",
+        "prIRyeyAtAm",
+        "prAyyeran",
+        "prIRyeran",
+        "prAyyeTAH",
+        "prIRyeTAH",
+        "prAyyeyATAm",
+        "prIRyeyATAm",
+        "prAyyeDvam",
+        "prIRyeDvam",
+        "prAyyeya",
+        "prIRyeya",
+        "prAyyevahi",
+        "prIRyevahi",
+        "prAyyemahi",
+        "prIRyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "peprIyizIzwa",
+        "peprIyizIyAstAm",
+        "peprIyizIran",
+        "peprIyizIzWAH",
+        "peprIyizIyAsTAm",
+        "peprIyizIQvam",
+        "peprIyizIDvam",
+        "peprIyizIya",
+        "peprIyizIvahi",
+        "peprIyizImahi"
+      ],
+      "alang": [
+        "apeprIyata",
+        "apeprIyetAm",
+        "apeprIyanta",
+        "apeprIyaTAH",
+        "apeprIyeTAm",
+        "apeprIyaDvam",
+        "apeprIye",
+        "apeprIyAvahi",
+        "apeprIyAmahi"
+      ],
+      "alat": [
+        "peprIyate",
+        "peprIyete",
+        "peprIyante",
+        "peprIyase",
+        "peprIyeTe",
+        "peprIyaDve",
+        "peprIye",
+        "peprIyAvahe",
+        "peprIyAmahe"
+      ],
+      "alit": [
+        "peprIyAYcakre",
+        "peprIyAmAsa",
+        "peprIyAmbaBUva",
+        "peprIyAYcakrAte",
+        "peprIyAmAsatuH",
+        "peprIyAmbaBUvatuH",
+        "peprIyAYcakrire",
+        "peprIyAmAsuH",
+        "peprIyAmbaBUvuH",
+        "peprIyAYcakfze",
+        "peprIyAmAsiTa",
+        "peprIyAmbaBUviTa",
+        "peprIyAYcakrATe",
+        "peprIyAmAsaTuH",
+        "peprIyAmbaBUvaTuH",
+        "peprIyAYcakfQve",
+        "peprIyAmAsa",
+        "peprIyAmbaBUva",
+        "peprIyAYcakre",
+        "peprIyAmAsa",
+        "peprIyAmbaBUva",
+        "peprIyAYcakfvahe",
+        "peprIyAmAsiva",
+        "peprIyAmbaBUviva",
+        "peprIyAYcakfmahe",
+        "peprIyAmAsima",
+        "peprIyAmbaBUvima"
+      ],
+      "alot": [
+        "peprIyatAm",
+        "peprIyetAm",
+        "peprIyantAm",
+        "peprIyasva",
+        "peprIyeTAm",
+        "peprIyaDvam",
+        "peprIyE",
+        "peprIyAvahE",
+        "peprIyAmahE"
+      ],
+      "alrung": [
+        "apeprIyizyata",
+        "apeprIyizyetAm",
+        "apeprIyizyanta",
+        "apeprIyizyaTAH",
+        "apeprIyizyeTAm",
+        "apeprIyizyaDvam",
+        "apeprIyizye",
+        "apeprIyizyAvahi",
+        "apeprIyizyAmahi"
+      ],
+      "alrut": [
+        "peprIyizyate",
+        "peprIyizyete",
+        "peprIyizyante",
+        "peprIyizyase",
+        "peprIyizyeTe",
+        "peprIyizyaDve",
+        "peprIyizye",
+        "peprIyizyAvahe",
+        "peprIyizyAmahe"
+      ],
+      "alung": [
+        "apeprIyizwa",
+        "apeprIyizAtAm",
+        "apeprIyizata",
+        "apeprIyizWAH",
+        "apeprIyizATAm",
+        "apeprIyiQvam",
+        "apeprIyiDvam",
+        "apeprIyizi",
+        "apeprIyizvahi",
+        "apeprIyizmahi"
+      ],
+      "alut": [
+        "peprIyitA",
+        "peprIyitArO",
+        "peprIyitAraH",
+        "peprIyitAse",
+        "peprIyitAsATe",
+        "peprIyitADve",
+        "peprIyitAhe",
+        "peprIyitAsvahe",
+        "peprIyitAsmahe"
+      ],
+      "avidhiling": [
+        "peprIyeta",
+        "peprIyeyAtAm",
+        "peprIyeran",
+        "peprIyeTAH",
+        "peprIyeyATAm",
+        "peprIyeDvam",
+        "peprIyeya",
+        "peprIyevahi",
+        "peprIyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "peprIyizIzwa",
+        "peprIyizIyAstAm",
+        "peprIyizIran",
+        "peprIyizIzWAH",
+        "peprIyizIyAsTAm",
+        "peprIyizIQvam",
+        "peprIyizIDvam",
+        "peprIyizIya",
+        "peprIyizIvahi",
+        "peprIyizImahi"
+      ],
+      "alang": [
+        "apeprIyyata",
+        "apeprIyyetAm",
+        "apeprIyyanta",
+        "apeprIyyaTAH",
+        "apeprIyyeTAm",
+        "apeprIyyaDvam",
+        "apeprIyye",
+        "apeprIyyAvahi",
+        "apeprIyyAmahi"
+      ],
+      "alat": [
+        "peprIyyate",
+        "peprIyyete",
+        "peprIyyante",
+        "peprIyyase",
+        "peprIyyeTe",
+        "peprIyyaDve",
+        "peprIyye",
+        "peprIyyAvahe",
+        "peprIyyAmahe"
+      ],
+      "alit": [
+        "peprIyAYcakre",
+        "peprIyAmAse",
+        "peprIyAmbaBUve",
+        "peprIyAYcakrAte",
+        "peprIyAmAsAte",
+        "peprIyAmbaBUvAte",
+        "peprIyAYcakrire",
+        "peprIyAmAsire",
+        "peprIyAmbaBUvire",
+        "peprIyAYcakfze",
+        "peprIyAmAsize",
+        "peprIyAmbaBUvize",
+        "peprIyAYcakrATe",
+        "peprIyAmAsATe",
+        "peprIyAmbaBUvATe",
+        "peprIyAYcakfQve",
+        "peprIyAmAsiDve",
+        "peprIyAmbaBUviQve",
+        "peprIyAYcakre",
+        "peprIyAmAhe",
+        "peprIyAmbaBUve",
+        "peprIyAYcakfvahe",
+        "peprIyAmAsivahe",
+        "peprIyAmbaBUvivahe",
+        "peprIyAYcakfmahe",
+        "peprIyAmAsimahe",
+        "peprIyAmbaBUvimahe"
+      ],
+      "alot": [
+        "peprIyyatAm",
+        "peprIyyetAm",
+        "peprIyyantAm",
+        "peprIyyasva",
+        "peprIyyeTAm",
+        "peprIyyaDvam",
+        "peprIyyE",
+        "peprIyyAvahE",
+        "peprIyyAmahE"
+      ],
+      "alrung": [
+        "apeprIyizyata",
+        "apeprIyizyetAm",
+        "apeprIyizyanta",
+        "apeprIyizyaTAH",
+        "apeprIyizyeTAm",
+        "apeprIyizyaDvam",
+        "apeprIyizye",
+        "apeprIyizyAvahi",
+        "apeprIyizyAmahi"
+      ],
+      "alrut": [
+        "peprIyizyate",
+        "peprIyizyete",
+        "peprIyizyante",
+        "peprIyizyase",
+        "peprIyizyeTe",
+        "peprIyizyaDve",
+        "peprIyizye",
+        "peprIyizyAvahe",
+        "peprIyizyAmahe"
+      ],
+      "alung": [
+        "apeprIyi",
+        "apeprIyizAtAm",
+        "apeprIyizata",
+        "apeprIyizWAH",
+        "apeprIyizATAm",
+        "apeprIyiQvam",
+        "apeprIyiDvam",
+        "apeprIyizi",
+        "apeprIyizvahi",
+        "apeprIyizmahi"
+      ],
+      "alut": [
+        "peprIyitA",
+        "peprIyitArO",
+        "peprIyitAraH",
+        "peprIyitAse",
+        "peprIyitAsATe",
+        "peprIyitADve",
+        "peprIyitAhe",
+        "peprIyitAsvahe",
+        "peprIyitAsmahe"
+      ],
+      "avidhiling": [
+        "peprIyyeta",
+        "peprIyyeyAtAm",
+        "peprIyyeran",
+        "peprIyyeTAH",
+        "peprIyyeyATAm",
+        "peprIyyeDvam",
+        "peprIyyeya",
+        "peprIyyevahi",
+        "peprIyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "peprIyAt",
+        "peprIyAd",
+        "peprIyAstAm",
+        "peprIyAsuH",
+        "peprIyAH",
+        "peprIyAstam",
+        "peprIyAsta",
+        "peprIyAsam",
+        "peprIyAsva",
+        "peprIyAsma"
+      ],
+      "plang": [
+        "apeprayIt",
+        "apeprayId",
+        "apepret",
+        "apepred",
+        "apeprItAm",
+        "apeprayuH",
+        "apeprayIH",
+        "apepreH",
+        "apeprItam",
+        "apeprIta",
+        "apeprayam",
+        "apeprIva",
+        "apeprIma"
+      ],
+      "plat": [
+        "peprayIti",
+        "pepreti",
+        "peprItaH",
+        "pepriyati",
+        "peprayIzi",
+        "peprezi",
+        "peprITaH",
+        "peprITa",
+        "peprayImi",
+        "pepremi",
+        "peprIvaH",
+        "peprImaH"
+      ],
+      "plit": [
+        "peprayAYcakAra",
+        "peprayAmAsa",
+        "peprayAmbaBUva",
+        "peprayAYcakratuH",
+        "peprayAmAsatuH",
+        "peprayAmbaBUvatuH",
+        "peprayAYcakruH",
+        "peprayAmAsuH",
+        "peprayAmbaBUvuH",
+        "peprayAYcakarTa",
+        "peprayAmAsiTa",
+        "peprayAmbaBUviTa",
+        "peprayAYcakraTuH",
+        "peprayAmAsaTuH",
+        "peprayAmbaBUvaTuH",
+        "peprayAYcakra",
+        "peprayAmAsa",
+        "peprayAmbaBUva",
+        "peprayAYcakara",
+        "peprayAYcakAra",
+        "peprayAmAsa",
+        "peprayAmbaBUva",
+        "peprayAYcakfva",
+        "peprayAmAsiva",
+        "peprayAmbaBUviva",
+        "peprayAYcakfma",
+        "peprayAmAsima",
+        "peprayAmbaBUvima"
+      ],
+      "plot": [
+        "peprayItu",
+        "peprItAt",
+        "peprItAd",
+        "pepretu",
+        "peprItAm",
+        "pepriyatu",
+        "peprItAt",
+        "peprItAd",
+        "peprIhi",
+        "peprItam",
+        "peprIta",
+        "peprayARi",
+        "peprayAva",
+        "peprayAma"
+      ],
+      "plrung": [
+        "apeprayizyat",
+        "apeprayizyad",
+        "apeprayizyatAm",
+        "apeprayizyan",
+        "apeprayizyaH",
+        "apeprayizyatam",
+        "apeprayizyata",
+        "apeprayizyam",
+        "apeprayizyAva",
+        "apeprayizyAma"
+      ],
+      "plrut": [
+        "peprayizyati",
+        "peprayizyataH",
+        "peprayizyanti",
+        "peprayizyasi",
+        "peprayizyaTaH",
+        "peprayizyaTa",
+        "peprayizyAmi",
+        "peprayizyAvaH",
+        "peprayizyAmaH"
+      ],
+      "plung": [
+        "apeprAyIt",
+        "apeprAyId",
+        "apeprAyizwAm",
+        "apeprAyizuH",
+        "apeprAyIH",
+        "apeprAyizwam",
+        "apeprAyizwa",
+        "apeprAyizam",
+        "apeprAyizva",
+        "apeprAyizma"
+      ],
+      "plut": [
+        "peprayitA",
+        "peprayitArO",
+        "peprayitAraH",
+        "peprayitAsi",
+        "peprayitAsTaH",
+        "peprayitAsTa",
+        "peprayitAsmi",
+        "peprayitAsvaH",
+        "peprayitAsmaH"
+      ],
+      "pvidhiling": [
+        "peprIyAt",
+        "peprIyAd",
+        "peprIyAtAm",
+        "peprIyuH",
+        "peprIyAH",
+        "peprIyAtam",
+        "peprIyAta",
+        "peprIyAm",
+        "peprIyAva",
+        "peprIyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "peprayizIzwa",
+        "peprAyizIzwa",
+        "peprayizIyAstAm",
+        "peprAyizIyAstAm",
+        "peprayizIran",
+        "peprAyizIran",
+        "peprayizIzWAH",
+        "peprAyizIzWAH",
+        "peprayizIyAsTAm",
+        "peprAyizIyAsTAm",
+        "peprayizIQvam",
+        "peprAyizIQvam",
+        "peprayizIya",
+        "peprAyizIya",
+        "peprayizIvahi",
+        "peprAyizIvahi",
+        "peprayizImahi",
+        "peprAyizImahi"
+      ],
+      "alang": [
+        "apeprIyata",
+        "apeprIyetAm",
+        "apeprIyanta",
+        "apeprIyaTAH",
+        "apeprIyeTAm",
+        "apeprIyaDvam",
+        "apeprIye",
+        "apeprIyAvahi",
+        "apeprIyAmahi"
+      ],
+      "alat": [
+        "peprIyate",
+        "peprIyete",
+        "peprIyante",
+        "peprIyase",
+        "peprIyeTe",
+        "peprIyaDve",
+        "peprIye",
+        "peprIyAvahe",
+        "peprIyAmahe"
+      ],
+      "alit": [
+        "peprayAYcakre",
+        "peprayAmAse",
+        "peprayAmbaBUve",
+        "peprayAYcakrAte",
+        "peprayAmAsAte",
+        "peprayAmbaBUvAte",
+        "peprayAYcakrire",
+        "peprayAmAsire",
+        "peprayAmbaBUvire",
+        "peprayAYcakfze",
+        "peprayAmAsize",
+        "peprayAmbaBUvize",
+        "peprayAYcakrATe",
+        "peprayAmAsATe",
+        "peprayAmbaBUvATe",
+        "peprayAYcakfQve",
+        "peprayAmAsiDve",
+        "peprayAmbaBUviQve",
+        "peprayAYcakre",
+        "peprayAmAhe",
+        "peprayAmbaBUve",
+        "peprayAYcakfvahe",
+        "peprayAmAsivahe",
+        "peprayAmbaBUvivahe",
+        "peprayAYcakfmahe",
+        "peprayAmAsimahe",
+        "peprayAmbaBUvimahe"
+      ],
+      "alot": [
+        "peprIyatAm",
+        "peprIyetAm",
+        "peprIyantAm",
+        "peprIyasva",
+        "peprIyeTAm",
+        "peprIyaDvam",
+        "peprIyE",
+        "peprIyAvahE",
+        "peprIyAmahE"
+      ],
+      "alrung": [
+        "apeprayizyata",
+        "apeprAyizyata",
+        "apeprayizyetAm",
+        "apeprAyizyetAm",
+        "apeprayizyanta",
+        "apeprAyizyanta",
+        "apeprayizyaTAH",
+        "apeprAyizyaTAH",
+        "apeprayizyeTAm",
+        "apeprAyizyeTAm",
+        "apeprayizyaDvam",
+        "apeprAyizyaDvam",
+        "apeprayizye",
+        "apeprAyizye",
+        "apeprayizyAvahi",
+        "apeprAyizyAvahi",
+        "apeprayizyAmahi",
+        "apeprAyizyAmahi"
+      ],
+      "alrut": [
+        "peprayizyate",
+        "peprAyizyate",
+        "peprayizyete",
+        "peprAyizyete",
+        "peprayizyante",
+        "peprAyizyante",
+        "peprayizyase",
+        "peprAyizyase",
+        "peprayizyeTe",
+        "peprAyizyeTe",
+        "peprayizyaDve",
+        "peprAyizyaDve",
+        "peprayizye",
+        "peprAyizye",
+        "peprayizyAvahe",
+        "peprAyizyAvahe",
+        "peprayizyAmahe",
+        "peprAyizyAmahe"
+      ],
+      "alung": [
+        "apeprAyi",
+        "apeprayizAtAm",
+        "apeprAyizAtAm",
+        "apeprayizata",
+        "apeprAyizata",
+        "apeprayizWAH",
+        "apeprAyizWAH",
+        "apeprayizATAm",
+        "apeprAyizATAm",
+        "apeprayiQvam",
+        "apeprAyiQvam",
+        "apeprayizi",
+        "apeprAyizi",
+        "apeprayizvahi",
+        "apeprAyizvahi",
+        "apeprayizmahi",
+        "apeprAyizmahi"
+      ],
+      "alut": [
+        "peprayitA",
+        "peprAyitA",
+        "peprayitArO",
+        "peprAyitArO",
+        "peprayitAraH",
+        "peprAyitAraH",
+        "peprayitAse",
+        "peprAyitAse",
+        "peprayitAsATe",
+        "peprAyitAsATe",
+        "peprayitADve",
+        "peprAyitADve",
+        "peprayitAhe",
+        "peprAyitAhe",
+        "peprayitAsvahe",
+        "peprAyitAsvahe",
+        "peprayitAsmahe",
+        "peprAyitAsmahe"
+      ],
+      "avidhiling": [
+        "peprIyeta",
+        "peprIyeyAtAm",
+        "peprIyeran",
+        "peprIyeTAH",
+        "peprIyeyATAm",
+        "peprIyeDvam",
+        "peprIyeya",
+        "peprIyevahi",
+        "peprIyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "praya",
+          "m": "prayaH",
+          "f": "prayA",
+          "n": "prayam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prayaRIya",
+          "m": "prayaRIyaH",
+          "f": "prayaRIyA",
+          "n": "prayaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prIta",
+          "m": "prItaH",
+          "f": "prItA",
+          "n": "prItam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prItavat",
+          "m": "prItavAn",
+          "f": "prItavatI",
+          "n": "prItavat/prItavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prIti",
+          "m": "",
+          "f": "prItiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prItvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piprIvas",
+          "m": "piprIvAn",
+          "f": "pipruzI",
+          "n": "piprIvat/piprIvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prIRAna",
+          "m": "prIRAnaH",
+          "f": "prIRAnA",
+          "n": "prIRAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prAyaka",
+          "m": "prAyakaH",
+          "f": "prAyikA",
+          "n": "prAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pretavya",
+          "m": "pretavyaH",
+          "f": "pretavyA",
+          "n": "pretavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pretum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pretf",
+          "m": "pretA",
+          "f": "pretrI",
+          "n": "pretf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prIyamARa",
+          "m": "prIyamARaH",
+          "f": "prIyamARA",
+          "n": "prIyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "preya",
+          "m": "preyaH",
+          "f": "preyA",
+          "n": "preyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprIya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prayaRa",
+          "m": "",
+          "f": "",
+          "n": "prayaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prayaka",
+          "m": "prayakaH",
+          "f": "prayikA",
+          "n": "prayakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "prIRat",
+          "m": "prIRan",
+          "f": "prIRatI",
+          "n": "prIRat/prIRad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prIRAna",
+          "m": "prIRAnaH",
+          "f": "prIRAnA",
+          "n": "prIRAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prAyizyamARa",
+          "m": "prAyizyamARaH",
+          "f": "prAyizyamARA",
+          "n": "prAyizyamARam"
+        },
+        {
+          "base": "prezyamARa",
+          "m": "prezyamARaH",
+          "f": "prezyamARA",
+          "n": "prezyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "prezyat",
+          "m": "prezyan",
+          "f": "prezyatI/prezyantI",
+          "n": "prezyat/prezyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prezyamARa",
+          "m": "prezyamARaH",
+          "f": "prezyamARA",
+          "n": "prezyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "piprIzA",
+          "m": "",
+          "f": "piprIzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "piprIza",
+          "m": "piprIzaH",
+          "f": "piprIzA",
+          "n": "piprIzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "piprIzaRIya",
+          "m": "piprIzaRIyaH",
+          "f": "piprIzaRIyA",
+          "n": "piprIzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "piprIzu",
+          "m": "piprIzuH",
+          "f": "piprIzuH",
+          "n": "piprIzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "piprIzita",
+          "m": "piprIzitaH",
+          "f": "piprIzitA",
+          "n": "piprIzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "piprIzitavat",
+          "m": "piprIzitavAn",
+          "f": "piprIzitavatI",
+          "n": "piprIzitavat/piprIzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "piprIzwi",
+          "m": "",
+          "f": "piprIzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "piprIzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piprIzAmbaBUvas",
+          "m": "piprIzAmbaBUvAn",
+          "f": "piprIzAmbaBUzI",
+          "n": "piprIzAmbaBUvat/piprIzAmbaBUvad"
+        },
+        {
+          "base": "piprIzAmAsivas",
+          "m": "piprIzAmAsivAn",
+          "f": "piprIzAmAsyuzI",
+          "n": "piprIzAmAsivat/piprIzAmAsivad"
+        },
+        {
+          "base": "piprIzAYcakfvas",
+          "m": "piprIzAYcakfvAn",
+          "f": "piprIzAYcakruzI",
+          "n": "piprIzAYcakfvat/piprIzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "piprIza",
+          "m": "piprIzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "piprIzamARa",
+          "m": "piprIzamARaH",
+          "f": "piprIzamARA",
+          "n": "piprIzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "piprIzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "piprIzaka",
+          "m": "piprIzakaH",
+          "f": "piprIzikA",
+          "n": "piprIzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "piprIzitavya",
+          "m": "piprIzitavyaH",
+          "f": "piprIzitavyA",
+          "n": "piprIzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "piprIzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "piprIzitf",
+          "m": "piprIzitA",
+          "f": "piprIzitrI",
+          "n": "piprIzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "piprIzyamARa",
+          "m": "piprIzyamARaH",
+          "f": "piprIzyamARA",
+          "n": "piprIzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "piprIzya",
+          "m": "piprIzyaH",
+          "f": "piprIzyA",
+          "n": "piprIzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapiprIzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "piprIzaRa",
+          "m": "",
+          "f": "",
+          "n": "piprIzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "piprIzaka",
+          "m": "piprIzakaH",
+          "f": "piprIzikA",
+          "n": "piprIzakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "piprIzat",
+          "m": "piprIzan",
+          "f": "piprIzantI",
+          "n": "piprIzat/piprIzad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "piprIzamARa",
+          "m": "piprIzamARaH",
+          "f": "piprIzamARA",
+          "n": "piprIzamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "piprIzizyamARa",
+          "m": "piprIzizyamARaH",
+          "f": "piprIzizyamARA",
+          "n": "piprIzizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "piprIzizyat",
+          "m": "piprIzizyan",
+          "f": "piprIzizyatI/piprIzizyantI",
+          "n": "piprIzizyat/piprIzizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "piprIzizyamARa",
+          "m": "piprIzizyamARaH",
+          "f": "piprIzizyamARA",
+          "n": "piprIzizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "prIRa",
+          "m": "prIRaH",
+          "f": "prIRA",
+          "n": "prIRam"
+        },
+        {
+          "base": "prAya",
+          "m": "prAyaH",
+          "f": "prAyA",
+          "n": "prAyam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prIRanIya",
+          "m": "prIRanIyaH",
+          "f": "prIRanIyA",
+          "n": "prIRanIyam"
+        },
+        {
+          "base": "prAyaRIya",
+          "m": "prAyaRIyaH",
+          "f": "prAyaRIyA",
+          "n": "prAyaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prIRita",
+          "m": "prIRitaH",
+          "f": "prIRitA",
+          "n": "prIRitam"
+        },
+        {
+          "base": "prAyita",
+          "m": "prAyitaH",
+          "f": "prAyitA",
+          "n": "prAyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prIRitavat",
+          "m": "prIRitavAn",
+          "f": "prIRitavatI",
+          "n": "prIRitavat/prIRitavad"
+        },
+        {
+          "base": "prAyitavat",
+          "m": "prAyitavAn",
+          "f": "prAyitavatI",
+          "n": "prAyitavat/prAyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prInti",
+          "m": "",
+          "f": "prIntiH",
+          "n": ""
+        },
+        {
+          "base": "prAti",
+          "m": "",
+          "f": "prAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prIRayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prAyayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "prIRayAmbaBUvas",
+          "m": "prIRayAmbaBUvAn",
+          "f": "prIRayAmbaBUzI",
+          "n": "prIRayAmbaBUvat/prIRayAmbaBUvad"
+        },
+        {
+          "base": "prIRayAmAsivas",
+          "m": "prIRayAmAsivAn",
+          "f": "prIRayAmAsyuzI",
+          "n": "prIRayAmAsivat/prIRayAmAsivad"
+        },
+        {
+          "base": "prIRayAYcakfvas",
+          "m": "prIRayAYcakfvAn",
+          "f": "prIRayAYcakruzI",
+          "n": "prIRayAYcakfvat/prIRayAYcakfvad"
+        },
+        {
+          "base": "prAyayAmbaBUvas",
+          "m": "prAyayAmbaBUvAn",
+          "f": "prAyayAmbaBUzI",
+          "n": "prAyayAmbaBUvat/prAyayAmbaBUvad"
+        },
+        {
+          "base": "prAyayAmAsivas",
+          "m": "prAyayAmAsivAn",
+          "f": "prAyayAmAsyuzI",
+          "n": "prAyayAmAsivat/prAyayAmAsivad"
+        },
+        {
+          "base": "prAyayAYcakfvas",
+          "m": "prAyayAYcakfvAn",
+          "f": "prAyayAYcakruzI",
+          "n": "prAyayAYcakfvat/prAyayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prIRayamAna",
+          "m": "prIRayamAnaH",
+          "f": "prIRayamAnA",
+          "n": "prIRayamAnam"
+        },
+        {
+          "base": "prAyayamARa",
+          "m": "prAyayamARaH",
+          "f": "prAyayamARA",
+          "n": "prAyayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prIRam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prIRaka",
+          "m": "prIRakaH",
+          "f": "prIRikA",
+          "n": "prIRakam"
+        },
+        {
+          "base": "prAyaka",
+          "m": "prAyakaH",
+          "f": "prAyikA",
+          "n": "prAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "prIRayitavya",
+          "m": "prIRayitavyaH",
+          "f": "prIRayitavyA",
+          "n": "prIRayitavyam"
+        },
+        {
+          "base": "prAyayitavya",
+          "m": "prAyayitavyaH",
+          "f": "prAyayitavyA",
+          "n": "prAyayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "prIRayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prAyayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "prIRayitf",
+          "m": "prIRayitA",
+          "f": "prIRayitrI",
+          "n": "prIRayitf"
+        },
+        {
+          "base": "prAyayitf",
+          "m": "prAyayitA",
+          "f": "prAyayitrI",
+          "n": "prAyayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prIRyamAna",
+          "m": "prIRyamAnaH",
+          "f": "prIRyamAnA",
+          "n": "prIRyamAnam"
+        },
+        {
+          "base": "prAyyamARa",
+          "m": "prAyyamARaH",
+          "f": "prAyyamARA",
+          "n": "prAyyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "prIRya",
+          "m": "prIRyaH",
+          "f": "prIRyA",
+          "n": "prIRyam"
+        },
+        {
+          "base": "prAyya",
+          "m": "prAyyaH",
+          "f": "prAyyA",
+          "n": "prAyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprIRya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "praprAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prIRana",
+          "m": "",
+          "f": "",
+          "n": "prIRanam"
+        },
+        {
+          "base": "prAyaRa",
+          "m": "",
+          "f": "",
+          "n": "prAyaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prIRaka",
+          "m": "prIRakaH",
+          "f": "prIRikA",
+          "n": "prIRakam"
+        },
+        {
+          "base": "prAyaka",
+          "m": "prAyakaH",
+          "f": "prAyikA",
+          "n": "prAyakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "prIRayat",
+          "m": "prIRayan",
+          "f": "prIRayantI",
+          "n": "prIRayat/prIRayad"
+        },
+        {
+          "base": "prAyayat",
+          "m": "prAyayan",
+          "f": "prAyayantI",
+          "n": "prAyayat/prAyayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prIRayamAna",
+          "m": "prIRayamAnaH",
+          "f": "prIRayamAnA",
+          "n": "prIRayamAnam"
+        },
+        {
+          "base": "prAyayamARa",
+          "m": "prAyayamARaH",
+          "f": "prAyayamARA",
+          "n": "prAyayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prIRizyamARa",
+          "m": "prIRizyamARaH",
+          "f": "prIRizyamARA",
+          "n": "prIRizyamARam"
+        },
+        {
+          "base": "prIRayizyamARa",
+          "m": "prIRayizyamARaH",
+          "f": "prIRayizyamARA",
+          "n": "prIRayizyamARam"
+        },
+        {
+          "base": "prAyizyamARa",
+          "m": "prAyizyamARaH",
+          "f": "prAyizyamARA",
+          "n": "prAyizyamARam"
+        },
+        {
+          "base": "prAyayizyamARa",
+          "m": "prAyayizyamARaH",
+          "f": "prAyayizyamARA",
+          "n": "prAyayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "prIRayizyat",
+          "m": "prIRayizyan",
+          "f": "prIRayizyatI/prIRayizyantI",
+          "n": "prIRayizyat/prIRayizyad"
+        },
+        {
+          "base": "prAyayizyat",
+          "m": "prAyayizyan",
+          "f": "prAyayizyatI/prAyayizyantI",
+          "n": "prAyayizyat/prAyayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prIRayizyamARa",
+          "m": "prIRayizyamARaH",
+          "f": "prIRayizyamARA",
+          "n": "prIRayizyamARam"
+        },
+        {
+          "base": "prAyayizyamARa",
+          "m": "prAyayizyamARaH",
+          "f": "prAyayizyamARA",
+          "n": "prAyayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "peprIyA",
+          "m": "",
+          "f": "peprIyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepriya",
+          "m": "pepriyaH",
+          "f": "pepriyA",
+          "n": "pepriyam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "peprIyaRIya",
+          "m": "peprIyaRIyaH",
+          "f": "peprIyaRIyA",
+          "n": "peprIyaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "peprIyita",
+          "m": "peprIyitaH",
+          "f": "peprIyitA",
+          "n": "peprIyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "peprIyitavat",
+          "m": "peprIyitavAn",
+          "f": "peprIyitavatI",
+          "n": "peprIyitavat/peprIyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "peprIti",
+          "m": "",
+          "f": "peprItiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "peprIyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "peprIyAmbaBUvas",
+          "m": "peprIyAmbaBUvAn",
+          "f": "peprIyAmbaBUzI",
+          "n": "peprIyAmbaBUvat/peprIyAmbaBUvad"
+        },
+        {
+          "base": "peprIyAmAsivas",
+          "m": "peprIyAmAsivAn",
+          "f": "peprIyAmAsyuzI",
+          "n": "peprIyAmAsivat/peprIyAmAsivad"
+        },
+        {
+          "base": "peprIyAYcakfvas",
+          "m": "peprIyAYcakfvAn",
+          "f": "peprIyAYcakruzI",
+          "n": "peprIyAYcakfvat/peprIyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "peprIya",
+          "m": "peprIyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "peprIyamARa",
+          "m": "peprIyamARaH",
+          "f": "peprIyamARA",
+          "n": "peprIyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "peprIyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "peprIyaka",
+          "m": "peprIyakaH",
+          "f": "peprIyikA",
+          "n": "peprIyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "peprIyitavya",
+          "m": "peprIyitavyaH",
+          "f": "peprIyitavyA",
+          "n": "peprIyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "peprIyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "peprIyitf",
+          "m": "peprIyitA",
+          "f": "peprIyitrI",
+          "n": "peprIyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "peprIyyamARa",
+          "m": "peprIyyamARaH",
+          "f": "peprIyyamARA",
+          "n": "peprIyyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "peprIyya",
+          "m": "peprIyyaH",
+          "f": "peprIyyA",
+          "n": "peprIyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapeprIyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "peprIyaRa",
+          "m": "",
+          "f": "",
+          "n": "peprIyaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "peprIyaka",
+          "m": "peprIyakaH",
+          "f": "peprIyikA",
+          "n": "peprIyakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "peprIyamARa",
+          "m": "peprIyamARaH",
+          "f": "peprIyamARA",
+          "n": "peprIyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "peprIyizyamARa",
+          "m": "peprIyizyamARaH",
+          "f": "peprIyizyamARA",
+          "n": "peprIyizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "peprIyizyamARa",
+          "m": "peprIyizyamARaH",
+          "f": "peprIyizyamARA",
+          "n": "peprIyizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "peprayA",
+          "m": "",
+          "f": "peprayA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pepraya",
+          "m": "peprayaH",
+          "f": "peprayA",
+          "n": "peprayam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "peprayaRIya",
+          "m": "peprayaRIyaH",
+          "f": "peprayaRIyA",
+          "n": "peprayaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pepriyita",
+          "m": "pepriyitaH",
+          "f": "pepriyitA",
+          "n": "pepriyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pepriyitavat",
+          "m": "pepriyitavAn",
+          "f": "pepriyitavatI",
+          "n": "pepriyitavat/pepriyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "peprIti",
+          "m": "",
+          "f": "peprItiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "peprayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "peprayAmbaBUvas",
+          "m": "peprayAmbaBUvAn",
+          "f": "peprayAmbaBUzI",
+          "n": "peprayAmbaBUvat/peprayAmbaBUvad"
+        },
+        {
+          "base": "peprayAmAsivas",
+          "m": "peprayAmAsivAn",
+          "f": "peprayAmAsyuzI",
+          "n": "peprayAmAsivat/peprayAmAsivad"
+        },
+        {
+          "base": "peprayAYcakfvas",
+          "m": "peprayAYcakfvAn",
+          "f": "peprayAYcakruzI",
+          "n": "peprayAYcakfvat/peprayAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "peprAya",
+          "m": "peprAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pepriyARa",
+          "m": "pepriyARaH",
+          "f": "pepriyARA",
+          "n": "pepriyARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "peprAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "peprAyaka",
+          "m": "peprAyakaH",
+          "f": "peprAyikA",
+          "n": "peprAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "peprayitavya",
+          "m": "peprayitavyaH",
+          "f": "peprayitavyA",
+          "n": "peprayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "peprayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "peprayitf",
+          "m": "peprayitA",
+          "f": "peprayitrI",
+          "n": "peprayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "peprIyamARa",
+          "m": "peprIyamARaH",
+          "f": "peprIyamARA",
+          "n": "peprIyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapeprIya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "peprayaRa",
+          "m": "",
+          "f": "",
+          "n": "peprayaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "peprayaka",
+          "m": "peprayakaH",
+          "f": "peprayikA",
+          "n": "peprayakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "pepriyat",
+          "m": "pepriyat/pepriyad",
+          "f": "pepriyatI",
+          "n": "pepriyat/pepriyad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "peprAyizyamARa",
+          "m": "peprAyizyamARaH",
+          "f": "peprAyizyamARA",
+          "n": "peprAyizyamARam"
+        },
+        {
+          "base": "peprayizyamARa",
+          "m": "peprayizyamARaH",
+          "f": "peprayizyamARA",
+          "n": "peprayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "peprayizyat",
+          "m": "peprayizyan",
+          "f": "peprayizyatI/peprayizyantI",
+          "n": "peprayizyat/peprayizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "prI",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [
+    {
+      "form": "pipriye",
+      "lakaar": "liwlakAraH (Atmanepadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "ekavacanam",
+      "examples": [
+        {
+          "book": "raGuvaMSam",
+          "reference": "19.30",
+          "text": "pipriye na sa taTA yaTA yuvA.",
+          "external": ""
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {}
+}

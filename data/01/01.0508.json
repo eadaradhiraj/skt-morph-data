@@ -1,0 +1,4115 @@
+{
+  "id": "01.0508",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": "ayaM DAtuH 'stutiH' asmin arTe yadA prayujyate, tadA gupUDUpavicCipaRipaniBya AyaH 3.1.28 ityanena asmAt svArTe 'Aya' iti sanAdyantapratyayaH viDIyate . Aya-pratyaye kfte agre SezAtkartari parasmEpadam 1.3.78 ityanena kevalaM parasmEpadasyEva pratyayAH viDIyante . api ca, ayam Aya-pratyayaH ArDaDAtukapratyayasya vivakzAyAm AyAdaya ArDaDAtuke vA 3.1.31 ityanena vikalpyate, ataH pakze Aya-pratyayaM vinA, DAtoH anudAttasvaram anusftya AtmanepadasyEva rUpARi Bavanti . 'vyavahAre' asmin arTe tu Aya-pratyayaH nEva viDIyate, ataH kevalam Atmanepadasya rUpARi Bavanti ."
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "pana~"
+    },
+    {
+      "name": "arTaH",
+      "value": "vyavahAre stutO ca"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to deal, to transact, to do business, to barter, to praise"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "udyoga karanA, vyavahAra karanA, praSaMsA karanA, stuti karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "440"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "440"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2308",
+      "ext_link": "/sutraani/sk2308?scroll=sutra-commentary-kaumudi-region&highlight=pana"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "panizIzwa",
+        "panizIyAstAm",
+        "panizIran",
+        "panizIzWAH",
+        "panizIyAsTAm",
+        "panizIDvam",
+        "panizIya",
+        "panizIvahi",
+        "panizImahi"
+      ],
+      "alit": [
+        "pene",
+        "penAte",
+        "penire",
+        "penize",
+        "penATe",
+        "peniDve",
+        "pene",
+        "penivahe",
+        "penimahe"
+      ],
+      "alrung": [
+        "apanizyata",
+        "apanizyetAm",
+        "apanizyanta",
+        "apanizyaTAH",
+        "apanizyeTAm",
+        "apanizyaDvam",
+        "apanizye",
+        "apanizyAvahi",
+        "apanizyAmahi"
+      ],
+      "alrut": [
+        "panizyate",
+        "panizyete",
+        "panizyante",
+        "panizyase",
+        "panizyeTe",
+        "panizyaDve",
+        "panizye",
+        "panizyAvahe",
+        "panizyAmahe"
+      ],
+      "alung": [
+        "apanizwa",
+        "apanizAtAm",
+        "apanizata",
+        "apanizWAH",
+        "apanizATAm",
+        "apaniDvam",
+        "apanizi",
+        "apanizvahi",
+        "apanizmahi"
+      ],
+      "alut": [
+        "panitA",
+        "panitArO",
+        "panitAraH",
+        "panitAse",
+        "panitAsATe",
+        "panitADve",
+        "panitAhe",
+        "panitAsvahe",
+        "panitAsmahe"
+      ],
+      "pashirling": [
+        "panAyyAt",
+        "panAyyAd",
+        "panAyyAstAm",
+        "panAyyAsuH",
+        "panAyyAH",
+        "panAyyAstam",
+        "panAyyAsta",
+        "panAyyAsam",
+        "panAyyAsva",
+        "panAyyAsma"
+      ],
+      "plang": [
+        "apanAyat",
+        "apanAyad",
+        "apanAyatAm",
+        "apanAyan",
+        "apanAyaH",
+        "apanAyatam",
+        "apanAyata",
+        "apanAyam",
+        "apanAyAva",
+        "apanAyAma"
+      ],
+      "plat": [
+        "panAyati",
+        "panAyataH",
+        "panAyanti",
+        "panAyasi",
+        "panAyaTaH",
+        "panAyaTa",
+        "panAyAmi",
+        "panAyAvaH",
+        "panAyAmaH"
+      ],
+      "plit": [
+        "panAyAYcakAra",
+        "panAyAmAsa",
+        "panAyAmbaBUva",
+        "panAyAYcakratuH",
+        "panAyAmAsatuH",
+        "panAyAmbaBUvatuH",
+        "panAyAYcakruH",
+        "panAyAmAsuH",
+        "panAyAmbaBUvuH",
+        "panAyAYcakarTa",
+        "panAyAmAsiTa",
+        "panAyAmbaBUviTa",
+        "panAyAYcakraTuH",
+        "panAyAmAsaTuH",
+        "panAyAmbaBUvaTuH",
+        "panAyAYcakra",
+        "panAyAmAsa",
+        "panAyAmbaBUva",
+        "panAyAYcakara",
+        "panAyAYcakAra",
+        "panAyAmAsa",
+        "panAyAmbaBUva",
+        "panAyAYcakfva",
+        "panAyAmAsiva",
+        "panAyAmbaBUviva",
+        "panAyAYcakfma",
+        "panAyAmAsima",
+        "panAyAmbaBUvima"
+      ],
+      "plot": [
+        "panAyatAt",
+        "panAyatAd",
+        "panAyatu",
+        "panAyatAm",
+        "panAyantu",
+        "panAya",
+        "panAyatAt",
+        "panAyatAd",
+        "panAyatam",
+        "panAyata",
+        "panAyAni",
+        "panAyAva",
+        "panAyAma"
+      ],
+      "plrung": [
+        "apanAyizyat",
+        "apanAyizyad",
+        "apanAyizyatAm",
+        "apanAyizyan",
+        "apanAyizyaH",
+        "apanAyizyatam",
+        "apanAyizyata",
+        "apanAyizyam",
+        "apanAyizyAva",
+        "apanAyizyAma"
+      ],
+      "plrut": [
+        "panAyizyati",
+        "panAyizyataH",
+        "panAyizyanti",
+        "panAyizyasi",
+        "panAyizyaTaH",
+        "panAyizyaTa",
+        "panAyizyAmi",
+        "panAyizyAvaH",
+        "panAyizyAmaH"
+      ],
+      "plung": [
+        "apanAyIt",
+        "apanAyId",
+        "apanAyizwAm",
+        "apanAyizuH",
+        "apanAyIH",
+        "apanAyizwam",
+        "apanAyizwa",
+        "apanAyizam",
+        "apanAyizva",
+        "apanAyizma"
+      ],
+      "plut": [
+        "panAyitA",
+        "panAyitArO",
+        "panAyitAraH",
+        "panAyitAsi",
+        "panAyitAsTaH",
+        "panAyitAsTa",
+        "panAyitAsmi",
+        "panAyitAsvaH",
+        "panAyitAsmaH"
+      ],
+      "pvidhiling": [
+        "panAyet",
+        "panAyed",
+        "panAyetAm",
+        "panAyeyuH",
+        "panAyeH",
+        "panAyetam",
+        "panAyeta",
+        "panAyeyam",
+        "panAyeva",
+        "panAyema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "panAyizIzwa",
+        "panizIzwa",
+        "panAyizIyAstAm",
+        "panizIyAstAm",
+        "panAyizIran",
+        "panizIran",
+        "panAyizIzWAH",
+        "panizIzWAH",
+        "panAyizIyAsTAm",
+        "panizIyAsTAm",
+        "panAyizIQvam",
+        "panAyizIDvam",
+        "panizIDvam",
+        "panAyizIya",
+        "panizIya",
+        "panAyizIvahi",
+        "panizIvahi",
+        "panAyizImahi",
+        "panizImahi"
+      ],
+      "alang": [
+        "apanAyyata",
+        "apanyata",
+        "apanAyyetAm",
+        "apanyetAm",
+        "apanAyyanta",
+        "apanyanta",
+        "apanAyyaTAH",
+        "apanyaTAH",
+        "apanAyyeTAm",
+        "apanyeTAm",
+        "apanAyyaDvam",
+        "apanyaDvam",
+        "apanAyye",
+        "apanye",
+        "apanAyyAvahi",
+        "apanyAvahi",
+        "apanAyyAmahi",
+        "apanyAmahi"
+      ],
+      "alat": [
+        "panAyyate",
+        "panyate",
+        "panAyyete",
+        "panyete",
+        "panAyyante",
+        "panyante",
+        "panAyyase",
+        "panyase",
+        "panAyyeTe",
+        "panyeTe",
+        "panAyyaDve",
+        "panyaDve",
+        "panAyye",
+        "panye",
+        "panAyyAvahe",
+        "panyAvahe",
+        "panAyyAmahe",
+        "panyAmahe"
+      ],
+      "alit": [
+        "panAyAYcakre",
+        "panAyAmAse",
+        "panAyAmbaBUve",
+        "pene",
+        "panAyAYcakrAte",
+        "panAyAmAsAte",
+        "panAyAmbaBUvAte",
+        "penAte",
+        "panAyAYcakrire",
+        "panAyAmAsire",
+        "panAyAmbaBUvire",
+        "penire",
+        "panAyAYcakfze",
+        "panAyAmAsize",
+        "panAyAmbaBUvize",
+        "penize",
+        "panAyAYcakrATe",
+        "panAyAmAsATe",
+        "panAyAmbaBUvATe",
+        "penATe",
+        "panAyAYcakfQve",
+        "panAyAmAsiDve",
+        "panAyAmbaBUviQve",
+        "peniDve",
+        "panAyAYcakre",
+        "panAyAmAhe",
+        "panAyAmbaBUve",
+        "pene",
+        "panAyAYcakfvahe",
+        "panAyAmAsivahe",
+        "panAyAmbaBUvivahe",
+        "penivahe",
+        "panAyAYcakfmahe",
+        "panAyAmAsimahe",
+        "panAyAmbaBUvimahe",
+        "penimahe"
+      ],
+      "alot": [
+        "panAyyatAm",
+        "panyatAm",
+        "panAyyetAm",
+        "panyetAm",
+        "panAyyantAm",
+        "panyantAm",
+        "panAyyasva",
+        "panyasva",
+        "panAyyeTAm",
+        "panyeTAm",
+        "panAyyaDvam",
+        "panyaDvam",
+        "panAyyE",
+        "panyE",
+        "panAyyAvahE",
+        "panyAvahE",
+        "panAyyAmahE",
+        "panyAmahE"
+      ],
+      "alrung": [
+        "apanAyizyata",
+        "apanizyata",
+        "apanAyizyetAm",
+        "apanizyetAm",
+        "apanAyizyanta",
+        "apanizyanta",
+        "apanAyizyaTAH",
+        "apanizyaTAH",
+        "apanAyizyeTAm",
+        "apanizyeTAm",
+        "apanAyizyaDvam",
+        "apanizyaDvam",
+        "apanAyizye",
+        "apanizye",
+        "apanAyizyAvahi",
+        "apanizyAvahi",
+        "apanAyizyAmahi",
+        "apanizyAmahi"
+      ],
+      "alrut": [
+        "panAyizyate",
+        "panizyate",
+        "panAyizyete",
+        "panizyete",
+        "panAyizyante",
+        "panizyante",
+        "panAyizyase",
+        "panizyase",
+        "panAyizyeTe",
+        "panizyeTe",
+        "panAyizyaDve",
+        "panizyaDve",
+        "panAyizye",
+        "panizye",
+        "panAyizyAvahe",
+        "panizyAvahe",
+        "panAyizyAmahe",
+        "panizyAmahe"
+      ],
+      "alung": [
+        "apanAyi",
+        "apAni",
+        "apanAyizAtAm",
+        "apanizAtAm",
+        "apanAyizata",
+        "apanizata",
+        "apanAyizWAH",
+        "apanizWAH",
+        "apanAyizATAm",
+        "apanizATAm",
+        "apanAyiQvam",
+        "apanAyiDvam",
+        "apaniDvam",
+        "apanAyizi",
+        "apanizi",
+        "apanAyizvahi",
+        "apanizvahi",
+        "apanAyizmahi",
+        "apanizmahi"
+      ],
+      "alut": [
+        "panAyitA",
+        "panitA",
+        "panAyitArO",
+        "panitArO",
+        "panAyitAraH",
+        "panitAraH",
+        "panAyitAse",
+        "panitAse",
+        "panAyitAsATe",
+        "panitAsATe",
+        "panAyitADve",
+        "panitADve",
+        "panAyitAhe",
+        "panitAhe",
+        "panAyitAsvahe",
+        "panitAsvahe",
+        "panAyitAsmahe",
+        "panitAsmahe"
+      ],
+      "avidhiling": [
+        "panAyyeta",
+        "panyeta",
+        "panAyyeyAtAm",
+        "panyeyAtAm",
+        "panAyyeran",
+        "panyeran",
+        "panAyyeTAH",
+        "panyeTAH",
+        "panAyyeyATAm",
+        "panyeyATAm",
+        "panAyyeDvam",
+        "panyeDvam",
+        "panAyyeya",
+        "panyeya",
+        "panAyyevahi",
+        "panyevahi",
+        "panAyyemahi",
+        "panyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "pipanizizIzwa",
+        "pipanizizIyAstAm",
+        "pipanizizIran",
+        "pipanizizIzWAH",
+        "pipanizizIyAsTAm",
+        "pipanizizIDvam",
+        "pipanizizIya",
+        "pipanizizIvahi",
+        "pipanizizImahi"
+      ],
+      "alit": [
+        "pipanizAYcakre",
+        "pipanizAmAsa",
+        "pipanizAmbaBUva",
+        "pipanizAYcakrAte",
+        "pipanizAmAsatuH",
+        "pipanizAmbaBUvatuH",
+        "pipanizAYcakrire",
+        "pipanizAmAsuH",
+        "pipanizAmbaBUvuH",
+        "pipanizAYcakfze",
+        "pipanizAmAsiTa",
+        "pipanizAmbaBUviTa",
+        "pipanizAYcakrATe",
+        "pipanizAmAsaTuH",
+        "pipanizAmbaBUvaTuH",
+        "pipanizAYcakfQve",
+        "pipanizAmAsa",
+        "pipanizAmbaBUva",
+        "pipanizAYcakre",
+        "pipanizAmAsa",
+        "pipanizAmbaBUva",
+        "pipanizAYcakfvahe",
+        "pipanizAmAsiva",
+        "pipanizAmbaBUviva",
+        "pipanizAYcakfmahe",
+        "pipanizAmAsima",
+        "pipanizAmbaBUvima"
+      ],
+      "alrung": [
+        "apipanizizyata",
+        "apipanizizyetAm",
+        "apipanizizyanta",
+        "apipanizizyaTAH",
+        "apipanizizyeTAm",
+        "apipanizizyaDvam",
+        "apipanizizye",
+        "apipanizizyAvahi",
+        "apipanizizyAmahi"
+      ],
+      "alrut": [
+        "pipanizizyate",
+        "pipanizizyete",
+        "pipanizizyante",
+        "pipanizizyase",
+        "pipanizizyeTe",
+        "pipanizizyaDve",
+        "pipanizizye",
+        "pipanizizyAvahe",
+        "pipanizizyAmahe"
+      ],
+      "alung": [
+        "apipanizizwa",
+        "apipanizizAtAm",
+        "apipanizizata",
+        "apipanizizWAH",
+        "apipanizizATAm",
+        "apipaniziDvam",
+        "apipanizizi",
+        "apipanizizvahi",
+        "apipanizizmahi"
+      ],
+      "alut": [
+        "pipanizitA",
+        "pipanizitArO",
+        "pipanizitAraH",
+        "pipanizitAse",
+        "pipanizitAsATe",
+        "pipanizitADve",
+        "pipanizitAhe",
+        "pipanizitAsvahe",
+        "pipanizitAsmahe"
+      ],
+      "pashirling": [
+        "pipanAyizyAt",
+        "pipanAyizyAd",
+        "pipanAyizyAstAm",
+        "pipanAyizyAsuH",
+        "pipanAyizyAH",
+        "pipanAyizyAstam",
+        "pipanAyizyAsta",
+        "pipanAyizyAsam",
+        "pipanAyizyAsva",
+        "pipanAyizyAsma"
+      ],
+      "plang": [
+        "apipanAyizat",
+        "apipanAyizad",
+        "apipanAyizatAm",
+        "apipanAyizan",
+        "apipanAyizaH",
+        "apipanAyizatam",
+        "apipanAyizata",
+        "apipanAyizam",
+        "apipanAyizAva",
+        "apipanAyizAma"
+      ],
+      "plat": [
+        "pipanAyizati",
+        "pipanAyizataH",
+        "pipanAyizanti",
+        "pipanAyizasi",
+        "pipanAyizaTaH",
+        "pipanAyizaTa",
+        "pipanAyizAmi",
+        "pipanAyizAvaH",
+        "pipanAyizAmaH"
+      ],
+      "plit": [
+        "pipanAyizAYcakAra",
+        "pipanAyizAmAsa",
+        "pipanAyizAmbaBUva",
+        "pipanAyizAYcakratuH",
+        "pipanAyizAmAsatuH",
+        "pipanAyizAmbaBUvatuH",
+        "pipanAyizAYcakruH",
+        "pipanAyizAmAsuH",
+        "pipanAyizAmbaBUvuH",
+        "pipanAyizAYcakarTa",
+        "pipanAyizAmAsiTa",
+        "pipanAyizAmbaBUviTa",
+        "pipanAyizAYcakraTuH",
+        "pipanAyizAmAsaTuH",
+        "pipanAyizAmbaBUvaTuH",
+        "pipanAyizAYcakra",
+        "pipanAyizAmAsa",
+        "pipanAyizAmbaBUva",
+        "pipanAyizAYcakara",
+        "pipanAyizAYcakAra",
+        "pipanAyizAmAsa",
+        "pipanAyizAmbaBUva",
+        "pipanAyizAYcakfva",
+        "pipanAyizAmAsiva",
+        "pipanAyizAmbaBUviva",
+        "pipanAyizAYcakfma",
+        "pipanAyizAmAsima",
+        "pipanAyizAmbaBUvima"
+      ],
+      "plot": [
+        "pipanAyizatAt",
+        "pipanAyizatAd",
+        "pipanAyizatu",
+        "pipanAyizatAm",
+        "pipanAyizantu",
+        "pipanAyiza",
+        "pipanAyizatAt",
+        "pipanAyizatAd",
+        "pipanAyizatam",
+        "pipanAyizata",
+        "pipanAyizARi",
+        "pipanAyizAva",
+        "pipanAyizAma"
+      ],
+      "plrung": [
+        "apipanAyizizyat",
+        "apipanAyizizyad",
+        "apipanAyizizyatAm",
+        "apipanAyizizyan",
+        "apipanAyizizyaH",
+        "apipanAyizizyatam",
+        "apipanAyizizyata",
+        "apipanAyizizyam",
+        "apipanAyizizyAva",
+        "apipanAyizizyAma"
+      ],
+      "plrut": [
+        "pipanAyizizyati",
+        "pipanAyizizyataH",
+        "pipanAyizizyanti",
+        "pipanAyizizyasi",
+        "pipanAyizizyaTaH",
+        "pipanAyizizyaTa",
+        "pipanAyizizyAmi",
+        "pipanAyizizyAvaH",
+        "pipanAyizizyAmaH"
+      ],
+      "plung": [
+        "apipanAyizIt",
+        "apipanAyizId",
+        "apipanAyizizwAm",
+        "apipanAyizizuH",
+        "apipanAyizIH",
+        "apipanAyizizwam",
+        "apipanAyizizwa",
+        "apipanAyizizam",
+        "apipanAyizizva",
+        "apipanAyizizma"
+      ],
+      "plut": [
+        "pipanAyizitA",
+        "pipanAyizitArO",
+        "pipanAyizitAraH",
+        "pipanAyizitAsi",
+        "pipanAyizitAsTaH",
+        "pipanAyizitAsTa",
+        "pipanAyizitAsmi",
+        "pipanAyizitAsvaH",
+        "pipanAyizitAsmaH"
+      ],
+      "pvidhiling": [
+        "pipanAyizet",
+        "pipanAyized",
+        "pipanAyizetAm",
+        "pipanAyizeyuH",
+        "pipanAyizeH",
+        "pipanAyizetam",
+        "pipanAyizeta",
+        "pipanAyizeyam",
+        "pipanAyizeva",
+        "pipanAyizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "pipanAyizizIzwa",
+        "pipanizizIzwa",
+        "pipanAyizizIyAstAm",
+        "pipanizizIyAstAm",
+        "pipanAyizizIran",
+        "pipanizizIran",
+        "pipanAyizizIzWAH",
+        "pipanizizIzWAH",
+        "pipanAyizizIyAsTAm",
+        "pipanizizIyAsTAm",
+        "pipanAyizizIDvam",
+        "pipanizizIDvam",
+        "pipanAyizizIya",
+        "pipanizizIya",
+        "pipanAyizizIvahi",
+        "pipanizizIvahi",
+        "pipanAyizizImahi",
+        "pipanizizImahi"
+      ],
+      "alang": [
+        "apipanAyizyata",
+        "apipanizyata",
+        "apipanAyizyetAm",
+        "apipanizyetAm",
+        "apipanAyizyanta",
+        "apipanizyanta",
+        "apipanAyizyaTAH",
+        "apipanizyaTAH",
+        "apipanAyizyeTAm",
+        "apipanizyeTAm",
+        "apipanAyizyaDvam",
+        "apipanizyaDvam",
+        "apipanAyizye",
+        "apipanizye",
+        "apipanAyizyAvahi",
+        "apipanizyAvahi",
+        "apipanAyizyAmahi",
+        "apipanizyAmahi"
+      ],
+      "alat": [
+        "pipanAyizyate",
+        "pipanizyate",
+        "pipanAyizyete",
+        "pipanizyete",
+        "pipanAyizyante",
+        "pipanizyante",
+        "pipanAyizyase",
+        "pipanizyase",
+        "pipanAyizyeTe",
+        "pipanizyeTe",
+        "pipanAyizyaDve",
+        "pipanizyaDve",
+        "pipanAyizye",
+        "pipanizye",
+        "pipanAyizyAvahe",
+        "pipanizyAvahe",
+        "pipanAyizyAmahe",
+        "pipanizyAmahe"
+      ],
+      "alit": [
+        "pipanAyizAYcakre",
+        "pipanAyizAmAse",
+        "pipanAyizAmbaBUve",
+        "pipanizAYcakre",
+        "pipanizAmAse",
+        "pipanizAmbaBUve",
+        "pipanAyizAYcakrAte",
+        "pipanAyizAmAsAte",
+        "pipanAyizAmbaBUvAte",
+        "pipanizAYcakrAte",
+        "pipanizAmAsAte",
+        "pipanizAmbaBUvAte",
+        "pipanAyizAYcakrire",
+        "pipanAyizAmAsire",
+        "pipanAyizAmbaBUvire",
+        "pipanizAYcakrire",
+        "pipanizAmAsire",
+        "pipanizAmbaBUvire",
+        "pipanAyizAYcakfze",
+        "pipanAyizAmAsize",
+        "pipanAyizAmbaBUvize",
+        "pipanizAYcakfze",
+        "pipanizAmAsize",
+        "pipanizAmbaBUvize",
+        "pipanAyizAYcakrATe",
+        "pipanAyizAmAsATe",
+        "pipanAyizAmbaBUvATe",
+        "pipanizAYcakrATe",
+        "pipanizAmAsATe",
+        "pipanizAmbaBUvATe",
+        "pipanAyizAYcakfQve",
+        "pipanAyizAmAsiDve",
+        "pipanAyizAmbaBUviQve",
+        "pipanizAYcakfQve",
+        "pipanizAmAsiDve",
+        "pipanizAmbaBUviQve",
+        "pipanAyizAYcakre",
+        "pipanAyizAmAhe",
+        "pipanAyizAmbaBUve",
+        "pipanizAYcakre",
+        "pipanizAmAhe",
+        "pipanizAmbaBUve",
+        "pipanAyizAYcakfvahe",
+        "pipanAyizAmAsivahe",
+        "pipanAyizAmbaBUvivahe",
+        "pipanizAYcakfvahe",
+        "pipanizAmAsivahe",
+        "pipanizAmbaBUvivahe",
+        "pipanAyizAYcakfmahe",
+        "pipanAyizAmAsimahe",
+        "pipanAyizAmbaBUvimahe",
+        "pipanizAYcakfmahe",
+        "pipanizAmAsimahe",
+        "pipanizAmbaBUvimahe"
+      ],
+      "alot": [
+        "pipanAyizyatAm",
+        "pipanizyatAm",
+        "pipanAyizyetAm",
+        "pipanizyetAm",
+        "pipanAyizyantAm",
+        "pipanizyantAm",
+        "pipanAyizyasva",
+        "pipanizyasva",
+        "pipanAyizyeTAm",
+        "pipanizyeTAm",
+        "pipanAyizyaDvam",
+        "pipanizyaDvam",
+        "pipanAyizyE",
+        "pipanizyE",
+        "pipanAyizyAvahE",
+        "pipanizyAvahE",
+        "pipanAyizyAmahE",
+        "pipanizyAmahE"
+      ],
+      "alrung": [
+        "apipanAyizizyata",
+        "apipanizizyata",
+        "apipanAyizizyetAm",
+        "apipanizizyetAm",
+        "apipanAyizizyanta",
+        "apipanizizyanta",
+        "apipanAyizizyaTAH",
+        "apipanizizyaTAH",
+        "apipanAyizizyeTAm",
+        "apipanizizyeTAm",
+        "apipanAyizizyaDvam",
+        "apipanizizyaDvam",
+        "apipanAyizizye",
+        "apipanizizye",
+        "apipanAyizizyAvahi",
+        "apipanizizyAvahi",
+        "apipanAyizizyAmahi",
+        "apipanizizyAmahi"
+      ],
+      "alrut": [
+        "pipanAyizizyate",
+        "pipanizizyate",
+        "pipanAyizizyete",
+        "pipanizizyete",
+        "pipanAyizizyante",
+        "pipanizizyante",
+        "pipanAyizizyase",
+        "pipanizizyase",
+        "pipanAyizizyeTe",
+        "pipanizizyeTe",
+        "pipanAyizizyaDve",
+        "pipanizizyaDve",
+        "pipanAyizizye",
+        "pipanizizye",
+        "pipanAyizizyAvahe",
+        "pipanizizyAvahe",
+        "pipanAyizizyAmahe",
+        "pipanizizyAmahe"
+      ],
+      "alung": [
+        "apipanAyizi",
+        "apipanizi",
+        "apipanAyizizAtAm",
+        "apipanizizAtAm",
+        "apipanAyizizata",
+        "apipanizizata",
+        "apipanAyizizWAH",
+        "apipanizizWAH",
+        "apipanAyizizATAm",
+        "apipanizizATAm",
+        "apipanAyiziDvam",
+        "apipaniziDvam",
+        "apipanAyizizi",
+        "apipanizizi",
+        "apipanAyizizvahi",
+        "apipanizizvahi",
+        "apipanAyizizmahi",
+        "apipanizizmahi"
+      ],
+      "alut": [
+        "pipanAyizitA",
+        "pipanizitA",
+        "pipanAyizitArO",
+        "pipanizitArO",
+        "pipanAyizitAraH",
+        "pipanizitAraH",
+        "pipanAyizitAse",
+        "pipanizitAse",
+        "pipanAyizitAsATe",
+        "pipanizitAsATe",
+        "pipanAyizitADve",
+        "pipanizitADve",
+        "pipanAyizitAhe",
+        "pipanizitAhe",
+        "pipanAyizitAsvahe",
+        "pipanizitAsvahe",
+        "pipanAyizitAsmahe",
+        "pipanizitAsmahe"
+      ],
+      "avidhiling": [
+        "pipanAyizyeta",
+        "pipanizyeta",
+        "pipanAyizyeyAtAm",
+        "pipanizyeyAtAm",
+        "pipanAyizyeran",
+        "pipanizyeran",
+        "pipanAyizyeTAH",
+        "pipanizyeTAH",
+        "pipanAyizyeyATAm",
+        "pipanizyeyATAm",
+        "pipanAyizyeDvam",
+        "pipanizyeDvam",
+        "pipanAyizyeya",
+        "pipanizyeya",
+        "pipanAyizyevahi",
+        "pipanizyevahi",
+        "pipanAyizyemahi",
+        "pipanizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "panAyayizIzwa",
+        "pAnayizIzwa",
+        "panAyayizIyAstAm",
+        "pAnayizIyAstAm",
+        "panAyayizIran",
+        "pAnayizIran",
+        "panAyayizIzWAH",
+        "pAnayizIzWAH",
+        "panAyayizIyAsTAm",
+        "pAnayizIyAsTAm",
+        "panAyayizIQvam",
+        "panAyayizIDvam",
+        "pAnayizIQvam",
+        "pAnayizIDvam",
+        "panAyayizIya",
+        "pAnayizIya",
+        "panAyayizIvahi",
+        "pAnayizIvahi",
+        "panAyayizImahi",
+        "pAnayizImahi"
+      ],
+      "alang": [
+        "apanAyayata",
+        "apanAyayetAm",
+        "apanAyayanta",
+        "apanAyayaTAH",
+        "apanAyayeTAm",
+        "apanAyayaDvam",
+        "apanAyaye",
+        "apanAyayAvahi",
+        "apanAyayAmahi"
+      ],
+      "alat": [
+        "panAyayate",
+        "panAyayete",
+        "panAyayante",
+        "panAyayase",
+        "panAyayeTe",
+        "panAyayaDve",
+        "panAyaye",
+        "panAyayAvahe",
+        "panAyayAmahe"
+      ],
+      "alit": [
+        "panAyayAYcakre",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakre",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakrAte",
+        "panAyayAmAsatuH",
+        "panAyayAmbaBUvatuH",
+        "pAnayAYcakrAte",
+        "pAnayAmAsatuH",
+        "pAnayAmbaBUvatuH",
+        "panAyayAYcakrire",
+        "panAyayAmAsuH",
+        "panAyayAmbaBUvuH",
+        "pAnayAYcakrire",
+        "pAnayAmAsuH",
+        "pAnayAmbaBUvuH",
+        "panAyayAYcakfze",
+        "panAyayAmAsiTa",
+        "panAyayAmbaBUviTa",
+        "pAnayAYcakfze",
+        "pAnayAmAsiTa",
+        "pAnayAmbaBUviTa",
+        "panAyayAYcakrATe",
+        "panAyayAmAsaTuH",
+        "panAyayAmbaBUvaTuH",
+        "pAnayAYcakrATe",
+        "pAnayAmAsaTuH",
+        "pAnayAmbaBUvaTuH",
+        "panAyayAYcakfQve",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakfQve",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakre",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakre",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakfvahe",
+        "panAyayAmAsiva",
+        "panAyayAmbaBUviva",
+        "pAnayAYcakfvahe",
+        "pAnayAmAsiva",
+        "pAnayAmbaBUviva",
+        "panAyayAYcakfmahe",
+        "panAyayAmAsima",
+        "panAyayAmbaBUvima",
+        "pAnayAYcakfmahe",
+        "pAnayAmAsima",
+        "pAnayAmbaBUvima"
+      ],
+      "alot": [
+        "panAyayatAm",
+        "panAyayetAm",
+        "panAyayantAm",
+        "panAyayasva",
+        "panAyayeTAm",
+        "panAyayaDvam",
+        "panAyayE",
+        "panAyayAvahE",
+        "panAyayAmahE"
+      ],
+      "alrung": [
+        "apanAyayizyata",
+        "apAnayizyata",
+        "apanAyayizyetAm",
+        "apAnayizyetAm",
+        "apanAyayizyanta",
+        "apAnayizyanta",
+        "apanAyayizyaTAH",
+        "apAnayizyaTAH",
+        "apanAyayizyeTAm",
+        "apAnayizyeTAm",
+        "apanAyayizyaDvam",
+        "apAnayizyaDvam",
+        "apanAyayizye",
+        "apAnayizye",
+        "apanAyayizyAvahi",
+        "apAnayizyAvahi",
+        "apanAyayizyAmahi",
+        "apAnayizyAmahi"
+      ],
+      "alrut": [
+        "panAyayizyate",
+        "pAnayizyate",
+        "panAyayizyete",
+        "pAnayizyete",
+        "panAyayizyante",
+        "pAnayizyante",
+        "panAyayizyase",
+        "pAnayizyase",
+        "panAyayizyeTe",
+        "pAnayizyeTe",
+        "panAyayizyaDve",
+        "pAnayizyaDve",
+        "panAyayizye",
+        "pAnayizye",
+        "panAyayizyAvahe",
+        "pAnayizyAvahe",
+        "panAyayizyAmahe",
+        "pAnayizyAmahe"
+      ],
+      "alung": [
+        "apIpanata",
+        "apIpanAyata",
+        "apIpanAyetAm",
+        "apIpanetAm",
+        "apIpananta",
+        "apIpanAyanta",
+        "apIpanaTAH",
+        "apIpanAyaTAH",
+        "apIpanAyeTAm",
+        "apIpaneTAm",
+        "apIpanaDvam",
+        "apIpanAyaDvam",
+        "apIpanAye",
+        "apIpane",
+        "apIpanAyAvahi",
+        "apIpanAvahi",
+        "apIpanAmahi",
+        "apIpanAyAmahi"
+      ],
+      "alut": [
+        "panAyayitA",
+        "pAnayitA",
+        "panAyayitArO",
+        "pAnayitArO",
+        "panAyayitAraH",
+        "pAnayitAraH",
+        "panAyayitAse",
+        "pAnayitAse",
+        "panAyayitAsATe",
+        "pAnayitAsATe",
+        "panAyayitADve",
+        "pAnayitADve",
+        "panAyayitAhe",
+        "pAnayitAhe",
+        "panAyayitAsvahe",
+        "pAnayitAsvahe",
+        "panAyayitAsmahe",
+        "pAnayitAsmahe"
+      ],
+      "avidhiling": [
+        "panAyayeta",
+        "panAyayeyAtAm",
+        "panAyayeran",
+        "panAyayeTAH",
+        "panAyayeyATAm",
+        "panAyayeDvam",
+        "panAyayeya",
+        "panAyayevahi",
+        "panAyayemahi"
+      ],
+      "pashirling": [
+        "panAyyAt",
+        "panAyyAd",
+        "pAnyAt",
+        "pAnyAd",
+        "panAyyAstAm",
+        "pAnyAstAm",
+        "panAyyAsuH",
+        "pAnyAsuH",
+        "panAyyAH",
+        "pAnyAH",
+        "panAyyAstam",
+        "pAnyAstam",
+        "panAyyAsta",
+        "pAnyAsta",
+        "panAyyAsam",
+        "pAnyAsam",
+        "panAyyAsva",
+        "pAnyAsva",
+        "panAyyAsma",
+        "pAnyAsma"
+      ],
+      "plang": [
+        "apanAyayat",
+        "apanAyayad",
+        "apanAyayatAm",
+        "apanAyayan",
+        "apanAyayaH",
+        "apanAyayatam",
+        "apanAyayata",
+        "apanAyayam",
+        "apanAyayAva",
+        "apanAyayAma"
+      ],
+      "plat": [
+        "panAyayati",
+        "panAyayataH",
+        "panAyayanti",
+        "panAyayasi",
+        "panAyayaTaH",
+        "panAyayaTa",
+        "panAyayAmi",
+        "panAyayAvaH",
+        "panAyayAmaH"
+      ],
+      "plit": [
+        "panAyayAYcakAra",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakAra",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakratuH",
+        "panAyayAmAsatuH",
+        "panAyayAmbaBUvatuH",
+        "pAnayAYcakratuH",
+        "pAnayAmAsatuH",
+        "pAnayAmbaBUvatuH",
+        "panAyayAYcakruH",
+        "panAyayAmAsuH",
+        "panAyayAmbaBUvuH",
+        "pAnayAYcakruH",
+        "pAnayAmAsuH",
+        "pAnayAmbaBUvuH",
+        "panAyayAYcakarTa",
+        "panAyayAmAsiTa",
+        "panAyayAmbaBUviTa",
+        "pAnayAYcakarTa",
+        "pAnayAmAsiTa",
+        "pAnayAmbaBUviTa",
+        "panAyayAYcakraTuH",
+        "panAyayAmAsaTuH",
+        "panAyayAmbaBUvaTuH",
+        "pAnayAYcakraTuH",
+        "pAnayAmAsaTuH",
+        "pAnayAmbaBUvaTuH",
+        "panAyayAYcakra",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakra",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakara",
+        "panAyayAYcakAra",
+        "panAyayAmAsa",
+        "panAyayAmbaBUva",
+        "pAnayAYcakara",
+        "pAnayAYcakAra",
+        "pAnayAmAsa",
+        "pAnayAmbaBUva",
+        "panAyayAYcakfva",
+        "panAyayAmAsiva",
+        "panAyayAmbaBUviva",
+        "pAnayAYcakfva",
+        "pAnayAmAsiva",
+        "pAnayAmbaBUviva",
+        "panAyayAYcakfma",
+        "panAyayAmAsima",
+        "panAyayAmbaBUvima",
+        "pAnayAYcakfma",
+        "pAnayAmAsima",
+        "pAnayAmbaBUvima"
+      ],
+      "plot": [
+        "panAyayatAt",
+        "panAyayatAd",
+        "panAyayatu",
+        "panAyayatAm",
+        "panAyayantu",
+        "panAyaya",
+        "panAyayatAt",
+        "panAyayatAd",
+        "panAyayatam",
+        "panAyayata",
+        "panAyayAni",
+        "panAyayAva",
+        "panAyayAma"
+      ],
+      "plrung": [
+        "apanAyayizyat",
+        "apanAyayizyad",
+        "apAnayizyat",
+        "apAnayizyad",
+        "apanAyayizyatAm",
+        "apAnayizyatAm",
+        "apanAyayizyan",
+        "apAnayizyan",
+        "apanAyayizyaH",
+        "apAnayizyaH",
+        "apanAyayizyatam",
+        "apAnayizyatam",
+        "apanAyayizyata",
+        "apAnayizyata",
+        "apanAyayizyam",
+        "apAnayizyam",
+        "apanAyayizyAva",
+        "apAnayizyAva",
+        "apanAyayizyAma",
+        "apAnayizyAma"
+      ],
+      "plrut": [
+        "panAyayizyati",
+        "pAnayizyati",
+        "panAyayizyataH",
+        "pAnayizyataH",
+        "panAyayizyanti",
+        "pAnayizyanti",
+        "panAyayizyasi",
+        "pAnayizyasi",
+        "panAyayizyaTaH",
+        "pAnayizyaTaH",
+        "panAyayizyaTa",
+        "pAnayizyaTa",
+        "panAyayizyAmi",
+        "pAnayizyAmi",
+        "panAyayizyAvaH",
+        "pAnayizyAvaH",
+        "panAyayizyAmaH",
+        "pAnayizyAmaH"
+      ],
+      "plung": [
+        "apIpanat",
+        "apIpanad",
+        "apIpanAyat",
+        "apIpanAyad",
+        "apIpanatAm",
+        "apIpanAyatAm",
+        "apIpanan",
+        "apIpanAyan",
+        "apIpanaH",
+        "apIpanAyaH",
+        "apIpanatam",
+        "apIpanAyatam",
+        "apIpanata",
+        "apIpanAyata",
+        "apIpanam",
+        "apIpanAyam",
+        "apIpanAyAva",
+        "apIpanAva",
+        "apIpanAma",
+        "apIpanAyAma"
+      ],
+      "plut": [
+        "panAyayitA",
+        "pAnayitA",
+        "panAyayitArO",
+        "pAnayitArO",
+        "panAyayitAraH",
+        "pAnayitAraH",
+        "panAyayitAsi",
+        "pAnayitAsi",
+        "panAyayitAsTaH",
+        "pAnayitAsTaH",
+        "panAyayitAsTa",
+        "pAnayitAsTa",
+        "panAyayitAsmi",
+        "pAnayitAsmi",
+        "panAyayitAsvaH",
+        "pAnayitAsvaH",
+        "panAyayitAsmaH",
+        "pAnayitAsmaH"
+      ],
+      "pvidhiling": [
+        "panAyayet",
+        "panAyayed",
+        "panAyayetAm",
+        "panAyayeyuH",
+        "panAyayeH",
+        "panAyayetam",
+        "panAyayeta",
+        "panAyayeyam",
+        "panAyayeva",
+        "panAyayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "panAyayizIzwa",
+        "panAyizIzwa",
+        "pAnayizIzwa",
+        "pAnizIzwa",
+        "panAyayizIyAstAm",
+        "panAyizIyAstAm",
+        "pAnayizIyAstAm",
+        "pAnizIyAstAm",
+        "panAyayizIran",
+        "panAyizIran",
+        "pAnayizIran",
+        "pAnizIran",
+        "panAyayizIzWAH",
+        "panAyizIzWAH",
+        "pAnayizIzWAH",
+        "pAnizIzWAH",
+        "panAyayizIyAsTAm",
+        "panAyizIyAsTAm",
+        "pAnayizIyAsTAm",
+        "pAnizIyAsTAm",
+        "panAyayizIQvam",
+        "panAyayizIDvam",
+        "panAyizIQvam",
+        "pAnayizIQvam",
+        "pAnayizIDvam",
+        "pAnizIDvam",
+        "panAyayizIya",
+        "panAyizIya",
+        "pAnayizIya",
+        "pAnizIya",
+        "panAyayizIvahi",
+        "panAyizIvahi",
+        "pAnayizIvahi",
+        "pAnizIvahi",
+        "panAyayizImahi",
+        "panAyizImahi",
+        "pAnayizImahi",
+        "pAnizImahi"
+      ],
+      "alang": [
+        "apanAyyata",
+        "apAnyata",
+        "apanAyyetAm",
+        "apAnyetAm",
+        "apanAyyanta",
+        "apAnyanta",
+        "apanAyyaTAH",
+        "apAnyaTAH",
+        "apanAyyeTAm",
+        "apAnyeTAm",
+        "apanAyyaDvam",
+        "apAnyaDvam",
+        "apanAyye",
+        "apAnye",
+        "apanAyyAvahi",
+        "apAnyAvahi",
+        "apanAyyAmahi",
+        "apAnyAmahi"
+      ],
+      "alat": [
+        "panAyyate",
+        "pAnyate",
+        "panAyyete",
+        "pAnyete",
+        "panAyyante",
+        "pAnyante",
+        "panAyyase",
+        "pAnyase",
+        "panAyyeTe",
+        "pAnyeTe",
+        "panAyyaDve",
+        "pAnyaDve",
+        "panAyye",
+        "pAnye",
+        "panAyyAvahe",
+        "pAnyAvahe",
+        "panAyyAmahe",
+        "pAnyAmahe"
+      ],
+      "alit": [
+        "panAyayAYcakre",
+        "panAyayAmAse",
+        "panAyayAmbaBUve",
+        "pAnayAYcakre",
+        "pAnayAmAse",
+        "pAnayAmbaBUve",
+        "panAyayAYcakrAte",
+        "panAyayAmAsAte",
+        "panAyayAmbaBUvAte",
+        "pAnayAYcakrAte",
+        "pAnayAmAsAte",
+        "pAnayAmbaBUvAte",
+        "panAyayAYcakrire",
+        "panAyayAmAsire",
+        "panAyayAmbaBUvire",
+        "pAnayAYcakrire",
+        "pAnayAmAsire",
+        "pAnayAmbaBUvire",
+        "panAyayAYcakfze",
+        "panAyayAmAsize",
+        "panAyayAmbaBUvize",
+        "pAnayAYcakfze",
+        "pAnayAmAsize",
+        "pAnayAmbaBUvize",
+        "panAyayAYcakrATe",
+        "panAyayAmAsATe",
+        "panAyayAmbaBUvATe",
+        "pAnayAYcakrATe",
+        "pAnayAmAsATe",
+        "pAnayAmbaBUvATe",
+        "panAyayAYcakfQve",
+        "panAyayAmAsiDve",
+        "panAyayAmbaBUviQve",
+        "pAnayAYcakfQve",
+        "pAnayAmAsiDve",
+        "pAnayAmbaBUviQve",
+        "panAyayAYcakre",
+        "panAyayAmAhe",
+        "panAyayAmbaBUve",
+        "pAnayAYcakre",
+        "pAnayAmAhe",
+        "pAnayAmbaBUve",
+        "panAyayAYcakfvahe",
+        "panAyayAmAsivahe",
+        "panAyayAmbaBUvivahe",
+        "pAnayAYcakfvahe",
+        "pAnayAmAsivahe",
+        "pAnayAmbaBUvivahe",
+        "panAyayAYcakfmahe",
+        "panAyayAmAsimahe",
+        "panAyayAmbaBUvimahe",
+        "pAnayAYcakfmahe",
+        "pAnayAmAsimahe",
+        "pAnayAmbaBUvimahe"
+      ],
+      "alot": [
+        "panAyyatAm",
+        "pAnyatAm",
+        "panAyyetAm",
+        "pAnyetAm",
+        "panAyyantAm",
+        "pAnyantAm",
+        "panAyyasva",
+        "pAnyasva",
+        "panAyyeTAm",
+        "pAnyeTAm",
+        "panAyyaDvam",
+        "pAnyaDvam",
+        "panAyyE",
+        "pAnyE",
+        "panAyyAvahE",
+        "pAnyAvahE",
+        "panAyyAmahE",
+        "pAnyAmahE"
+      ],
+      "alrung": [
+        "apanAyayizyata",
+        "apanAyizyata",
+        "apAnayizyata",
+        "apAnizyata",
+        "apanAyayizyetAm",
+        "apanAyizyetAm",
+        "apAnayizyetAm",
+        "apAnizyetAm",
+        "apanAyayizyanta",
+        "apanAyizyanta",
+        "apAnayizyanta",
+        "apAnizyanta",
+        "apanAyayizyaTAH",
+        "apanAyizyaTAH",
+        "apAnayizyaTAH",
+        "apAnizyaTAH",
+        "apanAyayizyeTAm",
+        "apanAyizyeTAm",
+        "apAnayizyeTAm",
+        "apAnizyeTAm",
+        "apanAyayizyaDvam",
+        "apanAyizyaDvam",
+        "apAnayizyaDvam",
+        "apAnizyaDvam",
+        "apanAyayizye",
+        "apanAyizye",
+        "apAnayizye",
+        "apAnizye",
+        "apanAyayizyAvahi",
+        "apanAyizyAvahi",
+        "apAnayizyAvahi",
+        "apAnizyAvahi",
+        "apanAyayizyAmahi",
+        "apanAyizyAmahi",
+        "apAnayizyAmahi",
+        "apAnizyAmahi"
+      ],
+      "alrut": [
+        "panAyayizyate",
+        "panAyizyate",
+        "pAnayizyate",
+        "pAnizyate",
+        "panAyayizyete",
+        "panAyizyete",
+        "pAnayizyete",
+        "pAnizyete",
+        "panAyayizyante",
+        "panAyizyante",
+        "pAnayizyante",
+        "pAnizyante",
+        "panAyayizyase",
+        "panAyizyase",
+        "pAnayizyase",
+        "pAnizyase",
+        "panAyayizyeTe",
+        "panAyizyeTe",
+        "pAnayizyeTe",
+        "pAnizyeTe",
+        "panAyayizyaDve",
+        "panAyizyaDve",
+        "pAnayizyaDve",
+        "pAnizyaDve",
+        "panAyayizye",
+        "panAyizye",
+        "pAnayizye",
+        "pAnizye",
+        "panAyayizyAvahe",
+        "panAyizyAvahe",
+        "pAnayizyAvahe",
+        "pAnizyAvahe",
+        "panAyayizyAmahe",
+        "panAyizyAmahe",
+        "pAnayizyAmahe",
+        "pAnizyAmahe"
+      ],
+      "alung": [
+        "apanAyi",
+        "apAni",
+        "apanAyayizAtAm",
+        "apanAyizAtAm",
+        "apAnayizAtAm",
+        "apAnizAtAm",
+        "apanAyayizata",
+        "apanAyizata",
+        "apAnayizata",
+        "apAnizata",
+        "apanAyayizWAH",
+        "apanAyizWAH",
+        "apAnayizWAH",
+        "apAnizWAH",
+        "apanAyayizATAm",
+        "apanAyizATAm",
+        "apAnayizATAm",
+        "apAnizATAm",
+        "apanAyayiQvam",
+        "apanAyayiDvam",
+        "apanAyiQvam",
+        "apAnayiQvam",
+        "apAnayiDvam",
+        "apAniDvam",
+        "apanAyayizi",
+        "apanAyizi",
+        "apAnayizi",
+        "apAnizi",
+        "apanAyayizvahi",
+        "apanAyizvahi",
+        "apAnayizvahi",
+        "apAnizvahi",
+        "apanAyayizmahi",
+        "apanAyizmahi",
+        "apAnayizmahi",
+        "apAnizmahi"
+      ],
+      "alut": [
+        "panAyayitA",
+        "panAyitA",
+        "pAnayitA",
+        "pAnitA",
+        "panAyayitArO",
+        "panAyitArO",
+        "pAnayitArO",
+        "pAnitArO",
+        "panAyayitAraH",
+        "panAyitAraH",
+        "pAnayitAraH",
+        "pAnitAraH",
+        "panAyayitAse",
+        "panAyitAse",
+        "pAnayitAse",
+        "pAnitAse",
+        "panAyayitAsATe",
+        "panAyitAsATe",
+        "pAnayitAsATe",
+        "pAnitAsATe",
+        "panAyayitADve",
+        "panAyitADve",
+        "pAnayitADve",
+        "pAnitADve",
+        "panAyayitAhe",
+        "panAyitAhe",
+        "pAnayitAhe",
+        "pAnitAhe",
+        "panAyayitAsvahe",
+        "panAyitAsvahe",
+        "pAnayitAsvahe",
+        "pAnitAsvahe",
+        "panAyayitAsmahe",
+        "panAyitAsmahe",
+        "pAnayitAsmahe",
+        "pAnitAsmahe"
+      ],
+      "avidhiling": [
+        "panAyyeta",
+        "pAnyeta",
+        "panAyyeyAtAm",
+        "pAnyeyAtAm",
+        "panAyyeran",
+        "pAnyeran",
+        "panAyyeTAH",
+        "pAnyeTAH",
+        "panAyyeyATAm",
+        "pAnyeyATAm",
+        "panAyyeDvam",
+        "pAnyeDvam",
+        "panAyyeya",
+        "pAnyeya",
+        "panAyyevahi",
+        "pAnyevahi",
+        "panAyyemahi",
+        "pAnyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "paMpanizIzwa",
+        "pampanizIzwa",
+        "paMpanizIyAstAm",
+        "pampanizIyAstAm",
+        "paMpanizIran",
+        "pampanizIran",
+        "paMpanizIzWAH",
+        "pampanizIzWAH",
+        "paMpanizIyAsTAm",
+        "pampanizIyAsTAm",
+        "paMpanizIDvam",
+        "pampanizIDvam",
+        "paMpanizIya",
+        "pampanizIya",
+        "paMpanizIvahi",
+        "pampanizIvahi",
+        "paMpanizImahi",
+        "pampanizImahi"
+      ],
+      "alit": [
+        "paMpanAYcakre",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakre",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakrAte",
+        "paMpanAmAsatuH",
+        "paMpanAmbaBUvatuH",
+        "pampanAYcakrAte",
+        "pampanAmAsatuH",
+        "pampanAmbaBUvatuH",
+        "paMpanAYcakrire",
+        "paMpanAmAsuH",
+        "paMpanAmbaBUvuH",
+        "pampanAYcakrire",
+        "pampanAmAsuH",
+        "pampanAmbaBUvuH",
+        "paMpanAYcakfze",
+        "paMpanAmAsiTa",
+        "paMpanAmbaBUviTa",
+        "pampanAYcakfze",
+        "pampanAmAsiTa",
+        "pampanAmbaBUviTa",
+        "paMpanAYcakrATe",
+        "paMpanAmAsaTuH",
+        "paMpanAmbaBUvaTuH",
+        "pampanAYcakrATe",
+        "pampanAmAsaTuH",
+        "pampanAmbaBUvaTuH",
+        "paMpanAYcakfQve",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakfQve",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakre",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakre",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakfvahe",
+        "paMpanAmAsiva",
+        "paMpanAmbaBUviva",
+        "pampanAYcakfvahe",
+        "pampanAmAsiva",
+        "pampanAmbaBUviva",
+        "paMpanAYcakfmahe",
+        "paMpanAmAsima",
+        "paMpanAmbaBUvima",
+        "pampanAYcakfmahe",
+        "pampanAmAsima",
+        "pampanAmbaBUvima"
+      ],
+      "alrung": [
+        "apaMpanizyata",
+        "apampanizyata",
+        "apaMpanizyetAm",
+        "apampanizyetAm",
+        "apaMpanizyanta",
+        "apampanizyanta",
+        "apaMpanizyaTAH",
+        "apampanizyaTAH",
+        "apaMpanizyeTAm",
+        "apampanizyeTAm",
+        "apaMpanizyaDvam",
+        "apampanizyaDvam",
+        "apaMpanizye",
+        "apampanizye",
+        "apaMpanizyAvahi",
+        "apampanizyAvahi",
+        "apaMpanizyAmahi",
+        "apampanizyAmahi"
+      ],
+      "alrut": [
+        "paMpanizyate",
+        "pampanizyate",
+        "paMpanizyete",
+        "pampanizyete",
+        "paMpanizyante",
+        "pampanizyante",
+        "paMpanizyase",
+        "pampanizyase",
+        "paMpanizyeTe",
+        "pampanizyeTe",
+        "paMpanizyaDve",
+        "pampanizyaDve",
+        "paMpanizye",
+        "pampanizye",
+        "paMpanizyAvahe",
+        "pampanizyAvahe",
+        "paMpanizyAmahe",
+        "pampanizyAmahe"
+      ],
+      "alung": [
+        "apaMpanizwa",
+        "apampanizwa",
+        "apaMpanizAtAm",
+        "apampanizAtAm",
+        "apaMpanizata",
+        "apampanizata",
+        "apaMpanizWAH",
+        "apampanizWAH",
+        "apaMpanizATAm",
+        "apampanizATAm",
+        "apaMpaniDvam",
+        "apampaniDvam",
+        "apaMpanizi",
+        "apampanizi",
+        "apaMpanizvahi",
+        "apampanizvahi",
+        "apaMpanizmahi",
+        "apampanizmahi"
+      ],
+      "alut": [
+        "paMpanitA",
+        "pampanitA",
+        "paMpanitArO",
+        "pampanitArO",
+        "paMpanitAraH",
+        "pampanitAraH",
+        "paMpanitAse",
+        "pampanitAse",
+        "paMpanitAsATe",
+        "pampanitAsATe",
+        "paMpanitADve",
+        "pampanitADve",
+        "paMpanitAhe",
+        "pampanitAhe",
+        "paMpanitAsvahe",
+        "pampanitAsvahe",
+        "paMpanitAsmahe",
+        "pampanitAsmahe"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "paMpanizIzwa",
+        "pampanizIzwa",
+        "paMpanizIyAstAm",
+        "pampanizIyAstAm",
+        "paMpanizIran",
+        "pampanizIran",
+        "paMpanizIzWAH",
+        "pampanizIzWAH",
+        "paMpanizIyAsTAm",
+        "pampanizIyAsTAm",
+        "paMpanizIDvam",
+        "pampanizIDvam",
+        "paMpanizIya",
+        "pampanizIya",
+        "paMpanizIvahi",
+        "pampanizIvahi",
+        "paMpanizImahi",
+        "pampanizImahi"
+      ],
+      "alang": [
+        "apaMpanyata",
+        "apampanyata",
+        "apaMpanyetAm",
+        "apampanyetAm",
+        "apaMpanyanta",
+        "apampanyanta",
+        "apaMpanyaTAH",
+        "apampanyaTAH",
+        "apaMpanyeTAm",
+        "apampanyeTAm",
+        "apaMpanyaDvam",
+        "apampanyaDvam",
+        "apaMpanye",
+        "apampanye",
+        "apaMpanyAvahi",
+        "apampanyAvahi",
+        "apaMpanyAmahi",
+        "apampanyAmahi"
+      ],
+      "alat": [
+        "paMpanyate",
+        "pampanyate",
+        "paMpanyete",
+        "pampanyete",
+        "paMpanyante",
+        "pampanyante",
+        "paMpanyase",
+        "pampanyase",
+        "paMpanyeTe",
+        "pampanyeTe",
+        "paMpanyaDve",
+        "pampanyaDve",
+        "paMpanye",
+        "pampanye",
+        "paMpanyAvahe",
+        "pampanyAvahe",
+        "paMpanyAmahe",
+        "pampanyAmahe"
+      ],
+      "alit": [
+        "paMpanAYcakre",
+        "paMpanAmAse",
+        "paMpanAmbaBUve",
+        "pampanAYcakre",
+        "pampanAmAse",
+        "pampanAmbaBUve",
+        "paMpanAYcakrAte",
+        "paMpanAmAsAte",
+        "paMpanAmbaBUvAte",
+        "pampanAYcakrAte",
+        "pampanAmAsAte",
+        "pampanAmbaBUvAte",
+        "paMpanAYcakrire",
+        "paMpanAmAsire",
+        "paMpanAmbaBUvire",
+        "pampanAYcakrire",
+        "pampanAmAsire",
+        "pampanAmbaBUvire",
+        "paMpanAYcakfze",
+        "paMpanAmAsize",
+        "paMpanAmbaBUvize",
+        "pampanAYcakfze",
+        "pampanAmAsize",
+        "pampanAmbaBUvize",
+        "paMpanAYcakrATe",
+        "paMpanAmAsATe",
+        "paMpanAmbaBUvATe",
+        "pampanAYcakrATe",
+        "pampanAmAsATe",
+        "pampanAmbaBUvATe",
+        "paMpanAYcakfQve",
+        "paMpanAmAsiDve",
+        "paMpanAmbaBUviQve",
+        "pampanAYcakfQve",
+        "pampanAmAsiDve",
+        "pampanAmbaBUviQve",
+        "paMpanAYcakre",
+        "paMpanAmAhe",
+        "paMpanAmbaBUve",
+        "pampanAYcakre",
+        "pampanAmAhe",
+        "pampanAmbaBUve",
+        "paMpanAYcakfvahe",
+        "paMpanAmAsivahe",
+        "paMpanAmbaBUvivahe",
+        "pampanAYcakfvahe",
+        "pampanAmAsivahe",
+        "pampanAmbaBUvivahe",
+        "paMpanAYcakfmahe",
+        "paMpanAmAsimahe",
+        "paMpanAmbaBUvimahe",
+        "pampanAYcakfmahe",
+        "pampanAmAsimahe",
+        "pampanAmbaBUvimahe"
+      ],
+      "alot": [
+        "paMpanyatAm",
+        "pampanyatAm",
+        "paMpanyetAm",
+        "pampanyetAm",
+        "paMpanyantAm",
+        "pampanyantAm",
+        "paMpanyasva",
+        "pampanyasva",
+        "paMpanyeTAm",
+        "pampanyeTAm",
+        "paMpanyaDvam",
+        "pampanyaDvam",
+        "paMpanyE",
+        "pampanyE",
+        "paMpanyAvahE",
+        "pampanyAvahE",
+        "paMpanyAmahE",
+        "pampanyAmahE"
+      ],
+      "alrung": [
+        "apaMpanizyata",
+        "apampanizyata",
+        "apaMpanizyetAm",
+        "apampanizyetAm",
+        "apaMpanizyanta",
+        "apampanizyanta",
+        "apaMpanizyaTAH",
+        "apampanizyaTAH",
+        "apaMpanizyeTAm",
+        "apampanizyeTAm",
+        "apaMpanizyaDvam",
+        "apampanizyaDvam",
+        "apaMpanizye",
+        "apampanizye",
+        "apaMpanizyAvahi",
+        "apampanizyAvahi",
+        "apaMpanizyAmahi",
+        "apampanizyAmahi"
+      ],
+      "alrut": [
+        "paMpanizyate",
+        "pampanizyate",
+        "paMpanizyete",
+        "pampanizyete",
+        "paMpanizyante",
+        "pampanizyante",
+        "paMpanizyase",
+        "pampanizyase",
+        "paMpanizyeTe",
+        "pampanizyeTe",
+        "paMpanizyaDve",
+        "pampanizyaDve",
+        "paMpanizye",
+        "pampanizye",
+        "paMpanizyAvahe",
+        "pampanizyAvahe",
+        "paMpanizyAmahe",
+        "pampanizyAmahe"
+      ],
+      "alung": [
+        "apaMpani",
+        "apampani",
+        "apaMpanizAtAm",
+        "apampanizAtAm",
+        "apaMpanizata",
+        "apampanizata",
+        "apaMpanizWAH",
+        "apampanizWAH",
+        "apaMpanizATAm",
+        "apampanizATAm",
+        "apaMpaniDvam",
+        "apampaniDvam",
+        "apaMpanizi",
+        "apampanizi",
+        "apaMpanizvahi",
+        "apampanizvahi",
+        "apaMpanizmahi",
+        "apampanizmahi"
+      ],
+      "alut": [
+        "paMpanitA",
+        "pampanitA",
+        "paMpanitArO",
+        "pampanitArO",
+        "paMpanitAraH",
+        "pampanitAraH",
+        "paMpanitAse",
+        "pampanitAse",
+        "paMpanitAsATe",
+        "pampanitAsATe",
+        "paMpanitADve",
+        "pampanitADve",
+        "paMpanitAhe",
+        "pampanitAhe",
+        "paMpanitAsvahe",
+        "pampanitAsvahe",
+        "paMpanitAsmahe",
+        "pampanitAsmahe"
+      ],
+      "avidhiling": [
+        "paMpanyeta",
+        "pampanyeta",
+        "paMpanyeyAtAm",
+        "pampanyeyAtAm",
+        "paMpanyeran",
+        "pampanyeran",
+        "paMpanyeTAH",
+        "pampanyeTAH",
+        "paMpanyeyATAm",
+        "pampanyeyATAm",
+        "paMpanyeDvam",
+        "pampanyeDvam",
+        "paMpanyeya",
+        "pampanyeya",
+        "paMpanyevahi",
+        "pampanyevahi",
+        "paMpanyemahi",
+        "pampanyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "paMpanyAt",
+        "paMpanyAd",
+        "pampanyAt",
+        "pampanyAd",
+        "paMpanyAstAm",
+        "pampanyAstAm",
+        "paMpanyAsuH",
+        "pampanyAsuH",
+        "paMpanyAH",
+        "pampanyAH",
+        "paMpanyAstam",
+        "pampanyAstam",
+        "paMpanyAsta",
+        "pampanyAsta",
+        "paMpanyAsam",
+        "pampanyAsam",
+        "paMpanyAsva",
+        "pampanyAsva",
+        "paMpanyAsma",
+        "pampanyAsma"
+      ],
+      "plit": [
+        "paMpanAYcakAra",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakAra",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakratuH",
+        "paMpanAmAsatuH",
+        "paMpanAmbaBUvatuH",
+        "pampanAYcakratuH",
+        "pampanAmAsatuH",
+        "pampanAmbaBUvatuH",
+        "paMpanAYcakruH",
+        "paMpanAmAsuH",
+        "paMpanAmbaBUvuH",
+        "pampanAYcakruH",
+        "pampanAmAsuH",
+        "pampanAmbaBUvuH",
+        "paMpanAYcakarTa",
+        "paMpanAmAsiTa",
+        "paMpanAmbaBUviTa",
+        "pampanAYcakarTa",
+        "pampanAmAsiTa",
+        "pampanAmbaBUviTa",
+        "paMpanAYcakraTuH",
+        "paMpanAmAsaTuH",
+        "paMpanAmbaBUvaTuH",
+        "pampanAYcakraTuH",
+        "pampanAmAsaTuH",
+        "pampanAmbaBUvaTuH",
+        "paMpanAYcakra",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakra",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakara",
+        "paMpanAYcakAra",
+        "paMpanAmAsa",
+        "paMpanAmbaBUva",
+        "pampanAYcakara",
+        "pampanAYcakAra",
+        "pampanAmAsa",
+        "pampanAmbaBUva",
+        "paMpanAYcakfva",
+        "paMpanAmAsiva",
+        "paMpanAmbaBUviva",
+        "pampanAYcakfva",
+        "pampanAmAsiva",
+        "pampanAmbaBUviva",
+        "paMpanAYcakfma",
+        "paMpanAmAsima",
+        "paMpanAmbaBUvima",
+        "pampanAYcakfma",
+        "pampanAmAsima",
+        "pampanAmbaBUvima"
+      ],
+      "plrung": [
+        "apaMpanizyat",
+        "apaMpanizyad",
+        "apampanizyat",
+        "apampanizyad",
+        "apaMpanizyatAm",
+        "apampanizyatAm",
+        "apaMpanizyan",
+        "apampanizyan",
+        "apaMpanizyaH",
+        "apampanizyaH",
+        "apaMpanizyatam",
+        "apampanizyatam",
+        "apaMpanizyata",
+        "apampanizyata",
+        "apaMpanizyam",
+        "apampanizyam",
+        "apaMpanizyAva",
+        "apampanizyAva",
+        "apaMpanizyAma",
+        "apampanizyAma"
+      ],
+      "plrut": [
+        "paMpanizyati",
+        "pampanizyati",
+        "paMpanizyataH",
+        "pampanizyataH",
+        "paMpanizyanti",
+        "pampanizyanti",
+        "paMpanizyasi",
+        "pampanizyasi",
+        "paMpanizyaTaH",
+        "pampanizyaTaH",
+        "paMpanizyaTa",
+        "pampanizyaTa",
+        "paMpanizyAmi",
+        "pampanizyAmi",
+        "paMpanizyAvaH",
+        "pampanizyAvaH",
+        "paMpanizyAmaH",
+        "pampanizyAmaH"
+      ],
+      "plung": [
+        "apaMpanIt",
+        "apaMpanId",
+        "apaMpAnIt",
+        "apaMpAnId",
+        "apampanIt",
+        "apampanId",
+        "apampAnIt",
+        "apampAnId",
+        "apaMpanizwAm",
+        "apaMpAnizwAm",
+        "apampanizwAm",
+        "apampAnizwAm",
+        "apaMpanizuH",
+        "apaMpAnizuH",
+        "apampanizuH",
+        "apampAnizuH",
+        "apaMpanIH",
+        "apaMpAnIH",
+        "apampanIH",
+        "apampAnIH",
+        "apaMpanizwam",
+        "apaMpAnizwam",
+        "apampanizwam",
+        "apampAnizwam",
+        "apaMpanizwa",
+        "apaMpAnizwa",
+        "apampanizwa",
+        "apampAnizwa",
+        "apaMpanizam",
+        "apaMpAnizam",
+        "apampanizam",
+        "apampAnizam",
+        "apaMpanizva",
+        "apaMpAnizva",
+        "apampanizva",
+        "apampAnizva",
+        "apaMpanizma",
+        "apaMpAnizma",
+        "apampanizma",
+        "apampAnizma"
+      ],
+      "plut": [
+        "paMpanitA",
+        "pampanitA",
+        "paMpanitArO",
+        "pampanitArO",
+        "paMpanitAraH",
+        "pampanitAraH",
+        "paMpanitAsi",
+        "pampanitAsi",
+        "paMpanitAsTaH",
+        "pampanitAsTaH",
+        "paMpanitAsTa",
+        "pampanitAsTa",
+        "paMpanitAsmi",
+        "pampanitAsmi",
+        "paMpanitAsvaH",
+        "pampanitAsvaH",
+        "paMpanitAsmaH",
+        "pampanitAsmaH"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "paMpanizIzwa",
+        "paMpAnizIzwa",
+        "pampanizIzwa",
+        "pampAnizIzwa",
+        "paMpanizIyAstAm",
+        "paMpAnizIyAstAm",
+        "pampanizIyAstAm",
+        "pampAnizIyAstAm",
+        "paMpanizIran",
+        "paMpAnizIran",
+        "pampanizIran",
+        "pampAnizIran",
+        "paMpanizIzWAH",
+        "paMpAnizIzWAH",
+        "pampanizIzWAH",
+        "pampAnizIzWAH",
+        "paMpanizIyAsTAm",
+        "paMpAnizIyAsTAm",
+        "pampanizIyAsTAm",
+        "pampAnizIyAsTAm",
+        "paMpanizIDvam",
+        "paMpAnizIDvam",
+        "pampanizIDvam",
+        "pampAnizIDvam",
+        "paMpanizIya",
+        "paMpAnizIya",
+        "pampanizIya",
+        "pampAnizIya",
+        "paMpanizIvahi",
+        "paMpAnizIvahi",
+        "pampanizIvahi",
+        "pampAnizIvahi",
+        "paMpanizImahi",
+        "paMpAnizImahi",
+        "pampanizImahi",
+        "pampAnizImahi"
+      ],
+      "alang": [
+        "apaMpanyata",
+        "apampanyata",
+        "apaMpanyetAm",
+        "apampanyetAm",
+        "apaMpanyanta",
+        "apampanyanta",
+        "apaMpanyaTAH",
+        "apampanyaTAH",
+        "apaMpanyeTAm",
+        "apampanyeTAm",
+        "apaMpanyaDvam",
+        "apampanyaDvam",
+        "apaMpanye",
+        "apampanye",
+        "apaMpanyAvahi",
+        "apampanyAvahi",
+        "apaMpanyAmahi",
+        "apampanyAmahi"
+      ],
+      "alat": [
+        "paMpanyate",
+        "pampanyate",
+        "paMpanyete",
+        "pampanyete",
+        "paMpanyante",
+        "pampanyante",
+        "paMpanyase",
+        "pampanyase",
+        "paMpanyeTe",
+        "pampanyeTe",
+        "paMpanyaDve",
+        "pampanyaDve",
+        "paMpanye",
+        "pampanye",
+        "paMpanyAvahe",
+        "pampanyAvahe",
+        "paMpanyAmahe",
+        "pampanyAmahe"
+      ],
+      "alit": [
+        "paMpanAYcakre",
+        "paMpanAmAse",
+        "paMpanAmbaBUve",
+        "pampanAYcakre",
+        "pampanAmAse",
+        "pampanAmbaBUve",
+        "paMpanAYcakrAte",
+        "paMpanAmAsAte",
+        "paMpanAmbaBUvAte",
+        "pampanAYcakrAte",
+        "pampanAmAsAte",
+        "pampanAmbaBUvAte",
+        "paMpanAYcakrire",
+        "paMpanAmAsire",
+        "paMpanAmbaBUvire",
+        "pampanAYcakrire",
+        "pampanAmAsire",
+        "pampanAmbaBUvire",
+        "paMpanAYcakfze",
+        "paMpanAmAsize",
+        "paMpanAmbaBUvize",
+        "pampanAYcakfze",
+        "pampanAmAsize",
+        "pampanAmbaBUvize",
+        "paMpanAYcakrATe",
+        "paMpanAmAsATe",
+        "paMpanAmbaBUvATe",
+        "pampanAYcakrATe",
+        "pampanAmAsATe",
+        "pampanAmbaBUvATe",
+        "paMpanAYcakfQve",
+        "paMpanAmAsiDve",
+        "paMpanAmbaBUviQve",
+        "pampanAYcakfQve",
+        "pampanAmAsiDve",
+        "pampanAmbaBUviQve",
+        "paMpanAYcakre",
+        "paMpanAmAhe",
+        "paMpanAmbaBUve",
+        "pampanAYcakre",
+        "pampanAmAhe",
+        "pampanAmbaBUve",
+        "paMpanAYcakfvahe",
+        "paMpanAmAsivahe",
+        "paMpanAmbaBUvivahe",
+        "pampanAYcakfvahe",
+        "pampanAmAsivahe",
+        "pampanAmbaBUvivahe",
+        "paMpanAYcakfmahe",
+        "paMpanAmAsimahe",
+        "paMpanAmbaBUvimahe",
+        "pampanAYcakfmahe",
+        "pampanAmAsimahe",
+        "pampanAmbaBUvimahe"
+      ],
+      "alot": [
+        "paMpanyatAm",
+        "pampanyatAm",
+        "paMpanyetAm",
+        "pampanyetAm",
+        "paMpanyantAm",
+        "pampanyantAm",
+        "paMpanyasva",
+        "pampanyasva",
+        "paMpanyeTAm",
+        "pampanyeTAm",
+        "paMpanyaDvam",
+        "pampanyaDvam",
+        "paMpanyE",
+        "pampanyE",
+        "paMpanyAvahE",
+        "pampanyAvahE",
+        "paMpanyAmahE",
+        "pampanyAmahE"
+      ],
+      "alrung": [
+        "apaMpanizyata",
+        "apaMpAnizyata",
+        "apampanizyata",
+        "apampAnizyata",
+        "apaMpanizyetAm",
+        "apaMpAnizyetAm",
+        "apampanizyetAm",
+        "apampAnizyetAm",
+        "apaMpanizyanta",
+        "apaMpAnizyanta",
+        "apampanizyanta",
+        "apampAnizyanta",
+        "apaMpanizyaTAH",
+        "apaMpAnizyaTAH",
+        "apampanizyaTAH",
+        "apampAnizyaTAH",
+        "apaMpanizyeTAm",
+        "apaMpAnizyeTAm",
+        "apampanizyeTAm",
+        "apampAnizyeTAm",
+        "apaMpanizyaDvam",
+        "apaMpAnizyaDvam",
+        "apampanizyaDvam",
+        "apampAnizyaDvam",
+        "apaMpanizye",
+        "apaMpAnizye",
+        "apampanizye",
+        "apampAnizye",
+        "apaMpanizyAvahi",
+        "apaMpAnizyAvahi",
+        "apampanizyAvahi",
+        "apampAnizyAvahi",
+        "apaMpanizyAmahi",
+        "apaMpAnizyAmahi",
+        "apampanizyAmahi",
+        "apampAnizyAmahi"
+      ],
+      "alrut": [
+        "paMpanizyate",
+        "paMpAnizyate",
+        "pampanizyate",
+        "pampAnizyate",
+        "paMpanizyete",
+        "paMpAnizyete",
+        "pampanizyete",
+        "pampAnizyete",
+        "paMpanizyante",
+        "paMpAnizyante",
+        "pampanizyante",
+        "pampAnizyante",
+        "paMpanizyase",
+        "paMpAnizyase",
+        "pampanizyase",
+        "pampAnizyase",
+        "paMpanizyeTe",
+        "paMpAnizyeTe",
+        "pampanizyeTe",
+        "pampAnizyeTe",
+        "paMpanizyaDve",
+        "paMpAnizyaDve",
+        "pampanizyaDve",
+        "pampAnizyaDve",
+        "paMpanizye",
+        "paMpAnizye",
+        "pampanizye",
+        "pampAnizye",
+        "paMpanizyAvahe",
+        "paMpAnizyAvahe",
+        "pampanizyAvahe",
+        "pampAnizyAvahe",
+        "paMpanizyAmahe",
+        "paMpAnizyAmahe",
+        "pampanizyAmahe",
+        "pampAnizyAmahe"
+      ],
+      "alung": [
+        "apaMpAni",
+        "apampAni",
+        "apaMpanizAtAm",
+        "apaMpAnizAtAm",
+        "apampanizAtAm",
+        "apampAnizAtAm",
+        "apaMpanizata",
+        "apaMpAnizata",
+        "apampanizata",
+        "apampAnizata",
+        "apaMpanizWAH",
+        "apaMpAnizWAH",
+        "apampanizWAH",
+        "apampAnizWAH",
+        "apaMpanizATAm",
+        "apaMpAnizATAm",
+        "apampanizATAm",
+        "apampAnizATAm",
+        "apaMpaniDvam",
+        "apaMpAniDvam",
+        "apampaniDvam",
+        "apampAniDvam",
+        "apaMpanizi",
+        "apaMpAnizi",
+        "apampanizi",
+        "apampAnizi",
+        "apaMpanizvahi",
+        "apaMpAnizvahi",
+        "apampanizvahi",
+        "apampAnizvahi",
+        "apaMpanizmahi",
+        "apaMpAnizmahi",
+        "apampanizmahi",
+        "apampAnizmahi"
+      ],
+      "alut": [
+        "paMpanitA",
+        "paMpAnitA",
+        "pampanitA",
+        "pampAnitA",
+        "paMpanitArO",
+        "paMpAnitArO",
+        "pampanitArO",
+        "pampAnitArO",
+        "paMpanitAraH",
+        "paMpAnitAraH",
+        "pampanitAraH",
+        "pampAnitAraH",
+        "paMpanitAse",
+        "paMpAnitAse",
+        "pampanitAse",
+        "pampAnitAse",
+        "paMpanitAsATe",
+        "paMpAnitAsATe",
+        "pampanitAsATe",
+        "pampAnitAsATe",
+        "paMpanitADve",
+        "paMpAnitADve",
+        "pampanitADve",
+        "pampAnitADve",
+        "paMpanitAhe",
+        "paMpAnitAhe",
+        "pampanitAhe",
+        "pampAnitAhe",
+        "paMpanitAsvahe",
+        "paMpAnitAsvahe",
+        "pampanitAsvahe",
+        "pampAnitAsvahe",
+        "paMpanitAsmahe",
+        "paMpAnitAsmahe",
+        "pampanitAsmahe",
+        "pampAnitAsmahe"
+      ],
+      "avidhiling": [
+        "paMpanyeta",
+        "pampanyeta",
+        "paMpanyeyAtAm",
+        "pampanyeyAtAm",
+        "paMpanyeran",
+        "pampanyeran",
+        "paMpanyeTAH",
+        "pampanyeTAH",
+        "paMpanyeyATAm",
+        "pampanyeyATAm",
+        "paMpanyeDvam",
+        "pampanyeDvam",
+        "paMpanyeya",
+        "pampanyeya",
+        "paMpanyevahi",
+        "pampanyevahi",
+        "paMpanyemahi",
+        "pampanyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "panAyA",
+          "m": "",
+          "f": "panAyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pana",
+          "m": "panaH",
+          "f": "panA",
+          "n": "panam"
+        },
+        {
+          "base": "panAya",
+          "m": "panAyaH",
+          "f": "panAyA",
+          "n": "panAyam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pananIya",
+          "m": "pananIyaH",
+          "f": "pananIyA",
+          "n": "pananIyam"
+        },
+        {
+          "base": "panAyanIya",
+          "m": "panAyanIyaH",
+          "f": "panAyanIyA",
+          "n": "panAyanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "panita",
+          "m": "panitaH",
+          "f": "panitA",
+          "n": "panitam"
+        },
+        {
+          "base": "panAyita",
+          "m": "panAyitaH",
+          "f": "panAyitA",
+          "n": "panAyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "panitavat",
+          "m": "panitavAn",
+          "f": "panitavatI",
+          "n": "panitavat/panitavad"
+        },
+        {
+          "base": "panAyitavat",
+          "m": "panAyitavAn",
+          "f": "panAyitavatI",
+          "n": "panAyitavat/panAyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pAnti",
+          "m": "",
+          "f": "pAntiH",
+          "n": ""
+        },
+        {
+          "base": "panAti",
+          "m": "",
+          "f": "panAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "panitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "penivas",
+          "m": "penivAn",
+          "f": "penuzI",
+          "n": "penivat/penivad"
+        },
+        {
+          "base": "panAyAmbaBUvas",
+          "m": "panAyAmbaBUvAn",
+          "f": "panAyAmbaBUzI",
+          "n": "panAyAmbaBUvat/panAyAmbaBUvad"
+        },
+        {
+          "base": "panAyAmAsivas",
+          "m": "panAyAmAsivAn",
+          "f": "panAyAmAsuzI",
+          "n": "panAyAmAsivat/panAyAmAsivad"
+        },
+        {
+          "base": "panAyAYcakfvas",
+          "m": "panAyAYcakfvAn",
+          "f": "panAyAYcakruzI",
+          "n": "panAyAYcakfvat/panAyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pAna",
+          "m": "pAnaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAya",
+          "m": "panAyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "panAyamAna",
+          "m": "panAyamAnaH",
+          "f": "panAyamAnA",
+          "n": "panAyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "pAnya",
+          "m": "pAnyaH",
+          "f": "pAnyA",
+          "n": "pAnyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pAnaka",
+          "m": "pAnakaH",
+          "f": "pAnikA",
+          "n": "pAnakam"
+        },
+        {
+          "base": "panAyaka",
+          "m": "panAyakaH",
+          "f": "panAyikA",
+          "n": "panAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "panitavya",
+          "m": "panitavyaH",
+          "f": "panitavyA",
+          "n": "panitavyam"
+        },
+        {
+          "base": "panAyitavya",
+          "m": "panAyitavyaH",
+          "f": "panAyitavyA",
+          "n": "panAyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "panitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "panitf",
+          "m": "panitA",
+          "f": "panitrI",
+          "n": "panitf"
+        },
+        {
+          "base": "panAyitf",
+          "m": "panAyitA",
+          "f": "panAyitrI",
+          "n": "panAyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "panAyyamAna",
+          "m": "panAyyamAnaH",
+          "f": "panAyyamAnA",
+          "n": "panAyyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "panAyya",
+          "m": "panAyyaH",
+          "f": "panAyyA",
+          "n": "panAyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapanAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "panana",
+          "m": "",
+          "f": "",
+          "n": "pananam"
+        },
+        {
+          "base": "panAyana",
+          "m": "",
+          "f": "",
+          "n": "panAyanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "panaka",
+          "m": "panakaH",
+          "f": "panikA",
+          "n": "panakam"
+        },
+        {
+          "base": "panAyaka",
+          "m": "panAyakaH",
+          "f": "panAyikA",
+          "n": "panAyakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "panAyat",
+          "m": "panAyan",
+          "f": "panAyantI",
+          "n": "panAyat/panAyad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "panAyizyamARa",
+          "m": "panAyizyamARaH",
+          "f": "panAyizyamARA",
+          "n": "panAyizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "panAyizyat",
+          "m": "panAyizyan",
+          "f": "panAyizyatI/panAyizyantI",
+          "n": "panAyizyat/panAyizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "pipanizA",
+          "m": "",
+          "f": "pipanizA",
+          "n": ""
+        },
+        {
+          "base": "pipanAyizA",
+          "m": "",
+          "f": "pipanAyizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pipaniza",
+          "m": "pipanizaH",
+          "f": "pipanizA",
+          "n": "pipanizam"
+        },
+        {
+          "base": "pipanAyiza",
+          "m": "pipanAyizaH",
+          "f": "pipanAyizA",
+          "n": "pipanAyizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pipanizaRIya",
+          "m": "pipanizaRIyaH",
+          "f": "pipanizaRIyA",
+          "n": "pipanizaRIyam"
+        },
+        {
+          "base": "pipanAyizaRIya",
+          "m": "pipanAyizaRIyaH",
+          "f": "pipanAyizaRIyA",
+          "n": "pipanAyizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "pipanizu",
+          "m": "pipanizuH",
+          "f": "pipanizuH",
+          "n": "pipanizu"
+        },
+        {
+          "base": "pipanAyizu",
+          "m": "pipanAyizuH",
+          "f": "pipanAyizuH",
+          "n": "pipanAyizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pipanizita",
+          "m": "pipanizitaH",
+          "f": "pipanizitA",
+          "n": "pipanizitam"
+        },
+        {
+          "base": "pipanAyizita",
+          "m": "pipanAyizitaH",
+          "f": "pipanAyizitA",
+          "n": "pipanAyizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pipanizitavat",
+          "m": "pipanizitavAn",
+          "f": "pipanizitavatI",
+          "n": "pipanizitavat/pipanizitavad"
+        },
+        {
+          "base": "pipanAyizitavat",
+          "m": "pipanAyizitavAn",
+          "f": "pipanAyizitavatI",
+          "n": "pipanAyizitavat/pipanAyizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pipanizwi",
+          "m": "",
+          "f": "pipanizwiH",
+          "n": ""
+        },
+        {
+          "base": "pipanAyizwi",
+          "m": "",
+          "f": "pipanAyizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pipanizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pipanAyizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pipanizAmbaBUvas",
+          "m": "pipanizAmbaBUvAn",
+          "f": "pipanizAmbaBUzI",
+          "n": "pipanizAmbaBUvat/pipanizAmbaBUvad"
+        },
+        {
+          "base": "pipanizAmAsivas",
+          "m": "pipanizAmAsivAn",
+          "f": "pipanizAmAsyuzI",
+          "n": "pipanizAmAsivat/pipanizAmAsivad"
+        },
+        {
+          "base": "pipanizAYcakfvas",
+          "m": "pipanizAYcakfvAn",
+          "f": "pipanizAYcakruzI",
+          "n": "pipanizAYcakfvat/pipanizAYcakfvad"
+        },
+        {
+          "base": "pipanAyizAmbaBUvas",
+          "m": "pipanAyizAmbaBUvAn",
+          "f": "pipanAyizAmbaBUzI",
+          "n": "pipanAyizAmbaBUvat/pipanAyizAmbaBUvad"
+        },
+        {
+          "base": "pipanAyizAmAsivas",
+          "m": "pipanAyizAmAsivAn",
+          "f": "pipanAyizAmAsyuzI",
+          "n": "pipanAyizAmAsivat/pipanAyizAmAsivad"
+        },
+        {
+          "base": "pipanAyizAYcakfvas",
+          "m": "pipanAyizAYcakfvAn",
+          "f": "pipanAyizAYcakruzI",
+          "n": "pipanAyizAYcakfvat/pipanAyizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pipaniza",
+          "m": "pipanizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pipanAyiza",
+          "m": "pipanAyizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pipanAyizamARa",
+          "m": "pipanAyizamARaH",
+          "f": "pipanAyizamARA",
+          "n": "pipanAyizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pipanizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pipanAyizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pipanizaka",
+          "m": "pipanizakaH",
+          "f": "pipanizikA",
+          "n": "pipanizakam"
+        },
+        {
+          "base": "pipanAyizaka",
+          "m": "pipanAyizakaH",
+          "f": "pipanAyizikA",
+          "n": "pipanAyizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pipanizitavya",
+          "m": "pipanizitavyaH",
+          "f": "pipanizitavyA",
+          "n": "pipanizitavyam"
+        },
+        {
+          "base": "pipanAyizitavya",
+          "m": "pipanAyizitavyaH",
+          "f": "pipanAyizitavyA",
+          "n": "pipanAyizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pipanizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pipanAyizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pipanizitf",
+          "m": "pipanizitA",
+          "f": "pipanizitrI",
+          "n": "pipanizitf"
+        },
+        {
+          "base": "pipanAyizitf",
+          "m": "pipanAyizitA",
+          "f": "pipanAyizitrI",
+          "n": "pipanAyizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pipanAyizyamARa",
+          "m": "pipanAyizyamARaH",
+          "f": "pipanAyizyamARA",
+          "n": "pipanAyizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pipanizya",
+          "m": "pipanizyaH",
+          "f": "pipanizyA",
+          "n": "pipanizyam"
+        },
+        {
+          "base": "pipanAyizya",
+          "m": "pipanAyizyaH",
+          "f": "pipanAyizyA",
+          "n": "pipanAyizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapipanizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapipanAyizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pipanizaRa",
+          "m": "",
+          "f": "",
+          "n": "pipanizaRam"
+        },
+        {
+          "base": "pipanAyizaRa",
+          "m": "",
+          "f": "",
+          "n": "pipanAyizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pipanizaka",
+          "m": "pipanizakaH",
+          "f": "pipanizikA",
+          "n": "pipanizakam"
+        },
+        {
+          "base": "pipanAyizaka",
+          "m": "pipanAyizakaH",
+          "f": "pipanAyizikA",
+          "n": "pipanAyizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "pipanAyizat",
+          "m": "pipanAyizan",
+          "f": "pipanAyizantI",
+          "n": "pipanAyizat/pipanAyizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pipanAyizizyamARa",
+          "m": "pipanAyizizyamARaH",
+          "f": "pipanAyizizyamARA",
+          "n": "pipanAyizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "pipanAyizizyat",
+          "m": "pipanAyizizyan",
+          "f": "pipanAyizizyatI/pipanAyizizyantI",
+          "n": "pipanAyizizyat/pipanAyizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "pAna",
+          "m": "pAnaH",
+          "f": "pAnA",
+          "n": "pAnam"
+        },
+        {
+          "base": "panAya",
+          "m": "panAyaH",
+          "f": "panAyA",
+          "n": "panAyam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pAnanIya",
+          "m": "pAnanIyaH",
+          "f": "pAnanIyA",
+          "n": "pAnanIyam"
+        },
+        {
+          "base": "panAyanIya",
+          "m": "panAyanIyaH",
+          "f": "panAyanIyA",
+          "n": "panAyanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pAnita",
+          "m": "pAnitaH",
+          "f": "pAnitA",
+          "n": "pAnitam"
+        },
+        {
+          "base": "panAyita",
+          "m": "panAyitaH",
+          "f": "panAyitA",
+          "n": "panAyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pAnitavat",
+          "m": "pAnitavAn",
+          "f": "pAnitavatI",
+          "n": "pAnitavat/pAnitavad"
+        },
+        {
+          "base": "panAyitavat",
+          "m": "panAyitavAn",
+          "f": "panAyitavatI",
+          "n": "panAyitavat/panAyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pAnti",
+          "m": "",
+          "f": "pAntiH",
+          "n": ""
+        },
+        {
+          "base": "panAti",
+          "m": "",
+          "f": "panAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pAnayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pAnayAmbaBUvas",
+          "m": "pAnayAmbaBUvAn",
+          "f": "pAnayAmbaBUzI",
+          "n": "pAnayAmbaBUvat/pAnayAmbaBUvad"
+        },
+        {
+          "base": "pAnayAmAsivas",
+          "m": "pAnayAmAsivAn",
+          "f": "pAnayAmAsyuzI",
+          "n": "pAnayAmAsivat/pAnayAmAsivad"
+        },
+        {
+          "base": "pAnayAYcakfvas",
+          "m": "pAnayAYcakfvAn",
+          "f": "pAnayAYcakruzI",
+          "n": "pAnayAYcakfvat/pAnayAYcakfvad"
+        },
+        {
+          "base": "panAyayAmbaBUvas",
+          "m": "panAyayAmbaBUvAn",
+          "f": "panAyayAmbaBUzI",
+          "n": "panAyayAmbaBUvat/panAyayAmbaBUvad"
+        },
+        {
+          "base": "panAyayAmAsivas",
+          "m": "panAyayAmAsivAn",
+          "f": "panAyayAmAsyuzI",
+          "n": "panAyayAmAsivat/panAyayAmAsivad"
+        },
+        {
+          "base": "panAyayAYcakfvas",
+          "m": "panAyayAYcakfvAn",
+          "f": "panAyayAYcakruzI",
+          "n": "panAyayAYcakfvat/panAyayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "panAyayamAna",
+          "m": "panAyayamAnaH",
+          "f": "panAyayamAnA",
+          "n": "panAyayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pAnaka",
+          "m": "pAnakaH",
+          "f": "pAnikA",
+          "n": "pAnakam"
+        },
+        {
+          "base": "panAyaka",
+          "m": "panAyakaH",
+          "f": "panAyikA",
+          "n": "panAyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pAnayitavya",
+          "m": "pAnayitavyaH",
+          "f": "pAnayitavyA",
+          "n": "pAnayitavyam"
+        },
+        {
+          "base": "panAyayitavya",
+          "m": "panAyayitavyaH",
+          "f": "panAyayitavyA",
+          "n": "panAyayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pAnayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "panAyayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pAnayitf",
+          "m": "pAnayitA",
+          "f": "pAnayitrI",
+          "n": "pAnayitf"
+        },
+        {
+          "base": "panAyayitf",
+          "m": "panAyayitA",
+          "f": "panAyayitrI",
+          "n": "panAyayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "panAyyamAna",
+          "m": "panAyyamAnaH",
+          "f": "panAyyamAnA",
+          "n": "panAyyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pAnya",
+          "m": "pAnyaH",
+          "f": "pAnyA",
+          "n": "pAnyam"
+        },
+        {
+          "base": "panAyya",
+          "m": "panAyyaH",
+          "f": "panAyyA",
+          "n": "panAyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapAnya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapanAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pAnana",
+          "m": "",
+          "f": "",
+          "n": "pAnanam"
+        },
+        {
+          "base": "panAyana",
+          "m": "",
+          "f": "",
+          "n": "panAyanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pAnaka",
+          "m": "pAnakaH",
+          "f": "pAnikA",
+          "n": "pAnakam"
+        },
+        {
+          "base": "panAyaka",
+          "m": "panAyakaH",
+          "f": "panAyikA",
+          "n": "panAyakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "panAyayat",
+          "m": "panAyayan",
+          "f": "panAyayantI",
+          "n": "panAyayat/panAyayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "panAyayamAna",
+          "m": "panAyayamAnaH",
+          "f": "panAyayamAnA",
+          "n": "panAyayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "panAyizyamARa",
+          "m": "panAyizyamARaH",
+          "f": "panAyizyamARA",
+          "n": "panAyizyamARam"
+        },
+        {
+          "base": "panAyayizyamARa",
+          "m": "panAyayizyamARaH",
+          "f": "panAyayizyamARA",
+          "n": "panAyayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "panAyayizyat",
+          "m": "panAyayizyan",
+          "f": "panAyayizyatI/panAyayizyantI",
+          "n": "panAyayizyat/panAyayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "panAyayizyamARa",
+          "m": "panAyayizyamARaH",
+          "f": "panAyayizyamARA",
+          "n": "panAyayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "paMpanA",
+          "m": "",
+          "f": "paMpanA",
+          "n": ""
+        },
+        {
+          "base": "pampanA",
+          "m": "",
+          "f": "pampanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "paMpana",
+          "m": "paMpanaH",
+          "f": "paMpanA",
+          "n": "paMpanam"
+        },
+        {
+          "base": "pampana",
+          "m": "pampanaH",
+          "f": "pampanA",
+          "n": "pampanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "paMpananIya",
+          "m": "paMpananIyaH",
+          "f": "paMpananIyA",
+          "n": "paMpananIyam"
+        },
+        {
+          "base": "pampananIya",
+          "m": "pampananIyaH",
+          "f": "pampananIyA",
+          "n": "pampananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "paMpanita",
+          "m": "paMpanitaH",
+          "f": "paMpanitA",
+          "n": "paMpanitam"
+        },
+        {
+          "base": "pampanita",
+          "m": "pampanitaH",
+          "f": "pampanitA",
+          "n": "pampanitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "paMpanitavat",
+          "m": "paMpanitavAn",
+          "f": "paMpanitavatI",
+          "n": "paMpanitavat/paMpanitavad"
+        },
+        {
+          "base": "pampanitavat",
+          "m": "pampanitavAn",
+          "f": "pampanitavatI",
+          "n": "pampanitavat/pampanitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "paMpanti",
+          "m": "",
+          "f": "paMpantiH",
+          "n": ""
+        },
+        {
+          "base": "pampanti",
+          "m": "",
+          "f": "pampantiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "paMpanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "paMpanAmbaBUvas",
+          "m": "paMpanAmbaBUvAn",
+          "f": "paMpanAmbaBUzI",
+          "n": "paMpanAmbaBUvat/paMpanAmbaBUvad"
+        },
+        {
+          "base": "pampanAmbaBUvas",
+          "m": "pampanAmbaBUvAn",
+          "f": "pampanAmbaBUzI",
+          "n": "pampanAmbaBUvat/pampanAmbaBUvad"
+        },
+        {
+          "base": "paMpanAmAsivas",
+          "m": "paMpanAmAsivAn",
+          "f": "paMpanAmAsyuzI",
+          "n": "paMpanAmAsivat/paMpanAmAsivad"
+        },
+        {
+          "base": "pampanAmAsivas",
+          "m": "pampanAmAsivAn",
+          "f": "pampanAmAsyuzI",
+          "n": "pampanAmAsivat/pampanAmAsivad"
+        },
+        {
+          "base": "paMpanAYcakfvas",
+          "m": "paMpanAYcakfvAn",
+          "f": "paMpanAYcakruzI",
+          "n": "paMpanAYcakfvat/paMpanAYcakfvad"
+        },
+        {
+          "base": "pampanAYcakfvas",
+          "m": "pampanAYcakfvAn",
+          "f": "pampanAYcakruzI",
+          "n": "pampanAYcakfvat/pampanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "paMpana",
+          "m": "paMpanaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampana",
+          "m": "pampanaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "paMpanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "paMpanaka",
+          "m": "paMpanakaH",
+          "f": "paMpanikA",
+          "n": "paMpanakam"
+        },
+        {
+          "base": "pampanaka",
+          "m": "pampanakaH",
+          "f": "pampanikA",
+          "n": "pampanakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "paMpanitavya",
+          "m": "paMpanitavyaH",
+          "f": "paMpanitavyA",
+          "n": "paMpanitavyam"
+        },
+        {
+          "base": "pampanitavya",
+          "m": "pampanitavyaH",
+          "f": "pampanitavyA",
+          "n": "pampanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "paMpanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "paMpanitf",
+          "m": "paMpanitA",
+          "f": "paMpanitrI",
+          "n": "paMpanitf"
+        },
+        {
+          "base": "pampanitf",
+          "m": "pampanitA",
+          "f": "pampanitrI",
+          "n": "pampanitf"
+        }
+      ],
+      "yat": [
+        {
+          "base": "paMpanya",
+          "m": "paMpanyaH",
+          "f": "paMpanyA",
+          "n": "paMpanyam"
+        },
+        {
+          "base": "pampanya",
+          "m": "pampanyaH",
+          "f": "pampanyA",
+          "n": "pampanyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapaMpanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapampanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "paMpanana",
+          "m": "",
+          "f": "",
+          "n": "paMpananam"
+        },
+        {
+          "base": "pampanana",
+          "m": "",
+          "f": "",
+          "n": "pampananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "paMpanaka",
+          "m": "paMpanakaH",
+          "f": "paMpanikA",
+          "n": "paMpanakam"
+        },
+        {
+          "base": "pampanaka",
+          "m": "pampanakaH",
+          "f": "pampanikA",
+          "n": "pampanakam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "paMpanA",
+          "m": "",
+          "f": "paMpanA",
+          "n": ""
+        },
+        {
+          "base": "pampanA",
+          "m": "",
+          "f": "pampanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "paMpana",
+          "m": "paMpanaH",
+          "f": "paMpanA",
+          "n": "paMpanam"
+        },
+        {
+          "base": "pampana",
+          "m": "pampanaH",
+          "f": "pampanA",
+          "n": "pampanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "paMpananIya",
+          "m": "paMpananIyaH",
+          "f": "paMpananIyA",
+          "n": "paMpananIyam"
+        },
+        {
+          "base": "pampananIya",
+          "m": "pampananIyaH",
+          "f": "pampananIyA",
+          "n": "pampananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "paMpanita",
+          "m": "paMpanitaH",
+          "f": "paMpanitA",
+          "n": "paMpanitam"
+        },
+        {
+          "base": "pampanita",
+          "m": "pampanitaH",
+          "f": "pampanitA",
+          "n": "pampanitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "paMpanitavat",
+          "m": "paMpanitavAn",
+          "f": "paMpanitavatI",
+          "n": "paMpanitavat/paMpanitavad"
+        },
+        {
+          "base": "pampanitavat",
+          "m": "pampanitavAn",
+          "f": "pampanitavatI",
+          "n": "pampanitavat/pampanitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "paMpAnti",
+          "m": "",
+          "f": "paMpAntiH",
+          "n": ""
+        },
+        {
+          "base": "pampAnti",
+          "m": "",
+          "f": "pampAntiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "paMpanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "paMpanAmbaBUvas",
+          "m": "paMpanAmbaBUvAn",
+          "f": "paMpanAmbaBUzI",
+          "n": "paMpanAmbaBUvat/paMpanAmbaBUvad"
+        },
+        {
+          "base": "pampanAmbaBUvas",
+          "m": "pampanAmbaBUvAn",
+          "f": "pampanAmbaBUzI",
+          "n": "pampanAmbaBUvat/pampanAmbaBUvad"
+        },
+        {
+          "base": "paMpanAmAsivas",
+          "m": "paMpanAmAsivAn",
+          "f": "paMpanAmAsyuzI",
+          "n": "paMpanAmAsivat/paMpanAmAsivad"
+        },
+        {
+          "base": "pampanAmAsivas",
+          "m": "pampanAmAsivAn",
+          "f": "pampanAmAsyuzI",
+          "n": "pampanAmAsivat/pampanAmAsivad"
+        },
+        {
+          "base": "paMpanAYcakfvas",
+          "m": "paMpanAYcakfvAn",
+          "f": "paMpanAYcakruzI",
+          "n": "paMpanAYcakfvat/paMpanAYcakfvad"
+        },
+        {
+          "base": "pampanAYcakfvas",
+          "m": "pampanAYcakfvAn",
+          "f": "pampanAYcakruzI",
+          "n": "pampanAYcakfvat/pampanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "paMpAna",
+          "m": "paMpAnaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampAna",
+          "m": "pampAnaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "paMpAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "paMpAnaka",
+          "m": "paMpAnakaH",
+          "f": "paMpAnikA",
+          "n": "paMpAnakam"
+        },
+        {
+          "base": "pampAnaka",
+          "m": "pampAnakaH",
+          "f": "pampAnikA",
+          "n": "pampAnakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "paMpanitavya",
+          "m": "paMpanitavyaH",
+          "f": "paMpanitavyA",
+          "n": "paMpanitavyam"
+        },
+        {
+          "base": "pampanitavya",
+          "m": "pampanitavyaH",
+          "f": "pampanitavyA",
+          "n": "pampanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "paMpanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pampanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "paMpanitf",
+          "m": "paMpanitA",
+          "f": "paMpanitrI",
+          "n": "paMpanitf"
+        },
+        {
+          "base": "pampanitf",
+          "m": "pampanitA",
+          "f": "pampanitrI",
+          "n": "pampanitf"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapaMpanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prapampanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "paMpanana",
+          "m": "",
+          "f": "",
+          "n": "paMpananam"
+        },
+        {
+          "base": "pampanana",
+          "m": "",
+          "f": "",
+          "n": "pampananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "paMpanaka",
+          "m": "paMpanakaH",
+          "f": "paMpanikA",
+          "n": "paMpanakam"
+        },
+        {
+          "base": "pampanaka",
+          "m": "pampanakaH",
+          "f": "pampanikA",
+          "n": "pampanakam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "pan",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

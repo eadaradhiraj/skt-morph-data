@@ -1,0 +1,2894 @@
+{
+  "id": "01.0096",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "kuka~"
+    },
+    {
+      "name": "arTaH",
+      "value": "AdAne"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to take,to accept,to seize"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "lenA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "91"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "91"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2289",
+      "ext_link": "/sutraani/sk2289?scroll=sutra-commentary-kaumudi-region&highlight=kauka"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "kokizIzwa",
+        "kokizIyAstAm",
+        "kokizIran",
+        "kokizIzWAH",
+        "kokizIyAsTAm",
+        "kokizIDvam",
+        "kokizIya",
+        "kokizIvahi",
+        "kokizImahi"
+      ],
+      "alang": [
+        "akokata",
+        "akoketAm",
+        "akokanta",
+        "akokaTAH",
+        "akokeTAm",
+        "akokaDvam",
+        "akoke",
+        "akokAvahi",
+        "akokAmahi"
+      ],
+      "alat": [
+        "kokate",
+        "kokete",
+        "kokante",
+        "kokase",
+        "kokeTe",
+        "kokaDve",
+        "koke",
+        "kokAvahe",
+        "kokAmahe"
+      ],
+      "alit": [
+        "cukuke",
+        "cukukAte",
+        "cukukire",
+        "cukukize",
+        "cukukATe",
+        "cukukiDve",
+        "cukuke",
+        "cukukivahe",
+        "cukukimahe"
+      ],
+      "alot": [
+        "kokatAm",
+        "koketAm",
+        "kokantAm",
+        "kokasva",
+        "kokeTAm",
+        "kokaDvam",
+        "kokE",
+        "kokAvahE",
+        "kokAmahE"
+      ],
+      "alrung": [
+        "akokizyata",
+        "akokizyetAm",
+        "akokizyanta",
+        "akokizyaTAH",
+        "akokizyeTAm",
+        "akokizyaDvam",
+        "akokizye",
+        "akokizyAvahi",
+        "akokizyAmahi"
+      ],
+      "alrut": [
+        "kokizyate",
+        "kokizyete",
+        "kokizyante",
+        "kokizyase",
+        "kokizyeTe",
+        "kokizyaDve",
+        "kokizye",
+        "kokizyAvahe",
+        "kokizyAmahe"
+      ],
+      "alung": [
+        "akokizwa",
+        "akokizAtAm",
+        "akokizata",
+        "akokizWAH",
+        "akokizATAm",
+        "akokiDvam",
+        "akokizi",
+        "akokizvahi",
+        "akokizmahi"
+      ],
+      "alut": [
+        "kokitA",
+        "kokitArO",
+        "kokitAraH",
+        "kokitAse",
+        "kokitAsATe",
+        "kokitADve",
+        "kokitAhe",
+        "kokitAsvahe",
+        "kokitAsmahe"
+      ],
+      "avidhiling": [
+        "koketa",
+        "kokeyAtAm",
+        "kokeran",
+        "kokeTAH",
+        "kokeyATAm",
+        "kokeDvam",
+        "kokeya",
+        "kokevahi",
+        "kokemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "kokizIzwa",
+        "kokizIyAstAm",
+        "kokizIran",
+        "kokizIzWAH",
+        "kokizIyAsTAm",
+        "kokizIDvam",
+        "kokizIya",
+        "kokizIvahi",
+        "kokizImahi"
+      ],
+      "alang": [
+        "akukyata",
+        "akukyetAm",
+        "akukyanta",
+        "akukyaTAH",
+        "akukyeTAm",
+        "akukyaDvam",
+        "akukye",
+        "akukyAvahi",
+        "akukyAmahi"
+      ],
+      "alat": [
+        "kukyate",
+        "kukyete",
+        "kukyante",
+        "kukyase",
+        "kukyeTe",
+        "kukyaDve",
+        "kukye",
+        "kukyAvahe",
+        "kukyAmahe"
+      ],
+      "alit": [
+        "cukuke",
+        "cukukAte",
+        "cukukire",
+        "cukukize",
+        "cukukATe",
+        "cukukiDve",
+        "cukuke",
+        "cukukivahe",
+        "cukukimahe"
+      ],
+      "alot": [
+        "kukyatAm",
+        "kukyetAm",
+        "kukyantAm",
+        "kukyasva",
+        "kukyeTAm",
+        "kukyaDvam",
+        "kukyE",
+        "kukyAvahE",
+        "kukyAmahE"
+      ],
+      "alrung": [
+        "akokizyata",
+        "akokizyetAm",
+        "akokizyanta",
+        "akokizyaTAH",
+        "akokizyeTAm",
+        "akokizyaDvam",
+        "akokizye",
+        "akokizyAvahi",
+        "akokizyAmahi"
+      ],
+      "alrut": [
+        "kokizyate",
+        "kokizyete",
+        "kokizyante",
+        "kokizyase",
+        "kokizyeTe",
+        "kokizyaDve",
+        "kokizye",
+        "kokizyAvahe",
+        "kokizyAmahe"
+      ],
+      "alung": [
+        "akoki",
+        "akokizAtAm",
+        "akokizata",
+        "akokizWAH",
+        "akokizATAm",
+        "akokiDvam",
+        "akokizi",
+        "akokizvahi",
+        "akokizmahi"
+      ],
+      "alut": [
+        "kokitA",
+        "kokitArO",
+        "kokitAraH",
+        "kokitAse",
+        "kokitAsATe",
+        "kokitADve",
+        "kokitAhe",
+        "kokitAsvahe",
+        "kokitAsmahe"
+      ],
+      "avidhiling": [
+        "kukyeta",
+        "kukyeyAtAm",
+        "kukyeran",
+        "kukyeTAH",
+        "kukyeyATAm",
+        "kukyeDvam",
+        "kukyeya",
+        "kukyevahi",
+        "kukyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "cukukizizIzwa",
+        "cukokizizIzwa",
+        "cukukizizIyAstAm",
+        "cukokizizIyAstAm",
+        "cukukizizIran",
+        "cukokizizIran",
+        "cukukizizIzWAH",
+        "cukokizizIzWAH",
+        "cukukizizIyAsTAm",
+        "cukokizizIyAsTAm",
+        "cukukizizIDvam",
+        "cukokizizIDvam",
+        "cukukizizIya",
+        "cukokizizIya",
+        "cukukizizIvahi",
+        "cukokizizIvahi",
+        "cukukizizImahi",
+        "cukokizizImahi"
+      ],
+      "alang": [
+        "acukukizata",
+        "acukokizata",
+        "acukukizetAm",
+        "acukokizetAm",
+        "acukukizanta",
+        "acukokizanta",
+        "acukukizaTAH",
+        "acukokizaTAH",
+        "acukukizeTAm",
+        "acukokizeTAm",
+        "acukukizaDvam",
+        "acukokizaDvam",
+        "acukukize",
+        "acukokize",
+        "acukukizAvahi",
+        "acukokizAvahi",
+        "acukukizAmahi",
+        "acukokizAmahi"
+      ],
+      "alat": [
+        "cukukizate",
+        "cukokizate",
+        "cukukizete",
+        "cukokizete",
+        "cukukizante",
+        "cukokizante",
+        "cukukizase",
+        "cukokizase",
+        "cukukizeTe",
+        "cukokizeTe",
+        "cukukizaDve",
+        "cukokizaDve",
+        "cukukize",
+        "cukokize",
+        "cukukizAvahe",
+        "cukokizAvahe",
+        "cukukizAmahe",
+        "cukokizAmahe"
+      ],
+      "alit": [
+        "cukukizAYcakre",
+        "cukukizAmAsa",
+        "cukukizAmbaBUva",
+        "cukokizAYcakre",
+        "cukokizAmAsa",
+        "cukokizAmbaBUva",
+        "cukukizAYcakrAte",
+        "cukukizAmAsatuH",
+        "cukukizAmbaBUvatuH",
+        "cukokizAYcakrAte",
+        "cukokizAmAsatuH",
+        "cukokizAmbaBUvatuH",
+        "cukukizAYcakrire",
+        "cukukizAmAsuH",
+        "cukukizAmbaBUvuH",
+        "cukokizAYcakrire",
+        "cukokizAmAsuH",
+        "cukokizAmbaBUvuH",
+        "cukukizAYcakfze",
+        "cukukizAmAsiTa",
+        "cukukizAmbaBUviTa",
+        "cukokizAYcakfze",
+        "cukokizAmAsiTa",
+        "cukokizAmbaBUviTa",
+        "cukukizAYcakrATe",
+        "cukukizAmAsaTuH",
+        "cukukizAmbaBUvaTuH",
+        "cukokizAYcakrATe",
+        "cukokizAmAsaTuH",
+        "cukokizAmbaBUvaTuH",
+        "cukukizAYcakfQve",
+        "cukukizAmAsa",
+        "cukukizAmbaBUva",
+        "cukokizAYcakfQve",
+        "cukokizAmAsa",
+        "cukokizAmbaBUva",
+        "cukukizAYcakre",
+        "cukukizAmAsa",
+        "cukukizAmbaBUva",
+        "cukokizAYcakre",
+        "cukokizAmAsa",
+        "cukokizAmbaBUva",
+        "cukukizAYcakfvahe",
+        "cukukizAmAsiva",
+        "cukukizAmbaBUviva",
+        "cukokizAYcakfvahe",
+        "cukokizAmAsiva",
+        "cukokizAmbaBUviva",
+        "cukukizAYcakfmahe",
+        "cukukizAmAsima",
+        "cukukizAmbaBUvima",
+        "cukokizAYcakfmahe",
+        "cukokizAmAsima",
+        "cukokizAmbaBUvima"
+      ],
+      "alot": [
+        "cukukizatAm",
+        "cukokizatAm",
+        "cukukizetAm",
+        "cukokizetAm",
+        "cukukizantAm",
+        "cukokizantAm",
+        "cukukizasva",
+        "cukokizasva",
+        "cukukizeTAm",
+        "cukokizeTAm",
+        "cukukizaDvam",
+        "cukokizaDvam",
+        "cukukizE",
+        "cukokizE",
+        "cukukizAvahE",
+        "cukokizAvahE",
+        "cukukizAmahE",
+        "cukokizAmahE"
+      ],
+      "alrung": [
+        "acukukizizyata",
+        "acukokizizyata",
+        "acukukizizyetAm",
+        "acukokizizyetAm",
+        "acukukizizyanta",
+        "acukokizizyanta",
+        "acukukizizyaTAH",
+        "acukokizizyaTAH",
+        "acukukizizyeTAm",
+        "acukokizizyeTAm",
+        "acukukizizyaDvam",
+        "acukokizizyaDvam",
+        "acukukizizye",
+        "acukokizizye",
+        "acukukizizyAvahi",
+        "acukokizizyAvahi",
+        "acukukizizyAmahi",
+        "acukokizizyAmahi"
+      ],
+      "alrut": [
+        "cukukizizyate",
+        "cukokizizyate",
+        "cukukizizyete",
+        "cukokizizyete",
+        "cukukizizyante",
+        "cukokizizyante",
+        "cukukizizyase",
+        "cukokizizyase",
+        "cukukizizyeTe",
+        "cukokizizyeTe",
+        "cukukizizyaDve",
+        "cukokizizyaDve",
+        "cukukizizye",
+        "cukokizizye",
+        "cukukizizyAvahe",
+        "cukokizizyAvahe",
+        "cukukizizyAmahe",
+        "cukokizizyAmahe"
+      ],
+      "alung": [
+        "acukukizizwa",
+        "acukokizizwa",
+        "acukukizizAtAm",
+        "acukokizizAtAm",
+        "acukukizizata",
+        "acukokizizata",
+        "acukukizizWAH",
+        "acukokizizWAH",
+        "acukukizizATAm",
+        "acukokizizATAm",
+        "acukukiziDvam",
+        "acukokiziDvam",
+        "acukukizizi",
+        "acukokizizi",
+        "acukukizizvahi",
+        "acukokizizvahi",
+        "acukukizizmahi",
+        "acukokizizmahi"
+      ],
+      "alut": [
+        "cukukizitA",
+        "cukokizitA",
+        "cukukizitArO",
+        "cukokizitArO",
+        "cukukizitAraH",
+        "cukokizitAraH",
+        "cukukizitAse",
+        "cukokizitAse",
+        "cukukizitAsATe",
+        "cukokizitAsATe",
+        "cukukizitADve",
+        "cukokizitADve",
+        "cukukizitAhe",
+        "cukokizitAhe",
+        "cukukizitAsvahe",
+        "cukokizitAsvahe",
+        "cukukizitAsmahe",
+        "cukokizitAsmahe"
+      ],
+      "avidhiling": [
+        "cukukizeta",
+        "cukokizeta",
+        "cukukizeyAtAm",
+        "cukokizeyAtAm",
+        "cukukizeran",
+        "cukokizeran",
+        "cukukizeTAH",
+        "cukokizeTAH",
+        "cukukizeyATAm",
+        "cukokizeyATAm",
+        "cukukizeDvam",
+        "cukokizeDvam",
+        "cukukizeya",
+        "cukokizeya",
+        "cukukizevahi",
+        "cukokizevahi",
+        "cukukizemahi",
+        "cukokizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cukukizizIzwa",
+        "cukokizizIzwa",
+        "cukukizizIyAstAm",
+        "cukokizizIyAstAm",
+        "cukukizizIran",
+        "cukokizizIran",
+        "cukukizizIzWAH",
+        "cukokizizIzWAH",
+        "cukukizizIyAsTAm",
+        "cukokizizIyAsTAm",
+        "cukukizizIDvam",
+        "cukokizizIDvam",
+        "cukukizizIya",
+        "cukokizizIya",
+        "cukukizizIvahi",
+        "cukokizizIvahi",
+        "cukukizizImahi",
+        "cukokizizImahi"
+      ],
+      "alang": [
+        "acukukizyata",
+        "acukokizyata",
+        "acukukizyetAm",
+        "acukokizyetAm",
+        "acukukizyanta",
+        "acukokizyanta",
+        "acukukizyaTAH",
+        "acukokizyaTAH",
+        "acukukizyeTAm",
+        "acukokizyeTAm",
+        "acukukizyaDvam",
+        "acukokizyaDvam",
+        "acukukizye",
+        "acukokizye",
+        "acukukizyAvahi",
+        "acukokizyAvahi",
+        "acukukizyAmahi",
+        "acukokizyAmahi"
+      ],
+      "alat": [
+        "cukukizyate",
+        "cukokizyate",
+        "cukukizyete",
+        "cukokizyete",
+        "cukukizyante",
+        "cukokizyante",
+        "cukukizyase",
+        "cukokizyase",
+        "cukukizyeTe",
+        "cukokizyeTe",
+        "cukukizyaDve",
+        "cukokizyaDve",
+        "cukukizye",
+        "cukokizye",
+        "cukukizyAvahe",
+        "cukokizyAvahe",
+        "cukukizyAmahe",
+        "cukokizyAmahe"
+      ],
+      "alit": [
+        "cukukizAYcakre",
+        "cukukizAmAse",
+        "cukukizAmbaBUve",
+        "cukokizAYcakre",
+        "cukokizAmAse",
+        "cukokizAmbaBUve",
+        "cukukizAYcakrAte",
+        "cukukizAmAsAte",
+        "cukukizAmbaBUvAte",
+        "cukokizAYcakrAte",
+        "cukokizAmAsAte",
+        "cukokizAmbaBUvAte",
+        "cukukizAYcakrire",
+        "cukukizAmAsire",
+        "cukukizAmbaBUvire",
+        "cukokizAYcakrire",
+        "cukokizAmAsire",
+        "cukokizAmbaBUvire",
+        "cukukizAYcakfze",
+        "cukukizAmAsize",
+        "cukukizAmbaBUvize",
+        "cukokizAYcakfze",
+        "cukokizAmAsize",
+        "cukokizAmbaBUvize",
+        "cukukizAYcakrATe",
+        "cukukizAmAsATe",
+        "cukukizAmbaBUvATe",
+        "cukokizAYcakrATe",
+        "cukokizAmAsATe",
+        "cukokizAmbaBUvATe",
+        "cukukizAYcakfQve",
+        "cukukizAmAsiDve",
+        "cukukizAmbaBUviQve",
+        "cukokizAYcakfQve",
+        "cukokizAmAsiDve",
+        "cukokizAmbaBUviQve",
+        "cukukizAYcakre",
+        "cukukizAmAhe",
+        "cukukizAmbaBUve",
+        "cukokizAYcakre",
+        "cukokizAmAhe",
+        "cukokizAmbaBUve",
+        "cukukizAYcakfvahe",
+        "cukukizAmAsivahe",
+        "cukukizAmbaBUvivahe",
+        "cukokizAYcakfvahe",
+        "cukokizAmAsivahe",
+        "cukokizAmbaBUvivahe",
+        "cukukizAYcakfmahe",
+        "cukukizAmAsimahe",
+        "cukukizAmbaBUvimahe",
+        "cukokizAYcakfmahe",
+        "cukokizAmAsimahe",
+        "cukokizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cukukizyatAm",
+        "cukokizyatAm",
+        "cukukizyetAm",
+        "cukokizyetAm",
+        "cukukizyantAm",
+        "cukokizyantAm",
+        "cukukizyasva",
+        "cukokizyasva",
+        "cukukizyeTAm",
+        "cukokizyeTAm",
+        "cukukizyaDvam",
+        "cukokizyaDvam",
+        "cukukizyE",
+        "cukokizyE",
+        "cukukizyAvahE",
+        "cukokizyAvahE",
+        "cukukizyAmahE",
+        "cukokizyAmahE"
+      ],
+      "alrung": [
+        "acukukizizyata",
+        "acukokizizyata",
+        "acukukizizyetAm",
+        "acukokizizyetAm",
+        "acukukizizyanta",
+        "acukokizizyanta",
+        "acukukizizyaTAH",
+        "acukokizizyaTAH",
+        "acukukizizyeTAm",
+        "acukokizizyeTAm",
+        "acukukizizyaDvam",
+        "acukokizizyaDvam",
+        "acukukizizye",
+        "acukokizizye",
+        "acukukizizyAvahi",
+        "acukokizizyAvahi",
+        "acukukizizyAmahi",
+        "acukokizizyAmahi"
+      ],
+      "alrut": [
+        "cukukizizyate",
+        "cukokizizyate",
+        "cukukizizyete",
+        "cukokizizyete",
+        "cukukizizyante",
+        "cukokizizyante",
+        "cukukizizyase",
+        "cukokizizyase",
+        "cukukizizyeTe",
+        "cukokizizyeTe",
+        "cukukizizyaDve",
+        "cukokizizyaDve",
+        "cukukizizye",
+        "cukokizizye",
+        "cukukizizyAvahe",
+        "cukokizizyAvahe",
+        "cukukizizyAmahe",
+        "cukokizizyAmahe"
+      ],
+      "alung": [
+        "acukukizi",
+        "acukokizi",
+        "acukukizizAtAm",
+        "acukokizizAtAm",
+        "acukukizizata",
+        "acukokizizata",
+        "acukukizizWAH",
+        "acukokizizWAH",
+        "acukukizizATAm",
+        "acukokizizATAm",
+        "acukukiziDvam",
+        "acukokiziDvam",
+        "acukukizizi",
+        "acukokizizi",
+        "acukukizizvahi",
+        "acukokizizvahi",
+        "acukukizizmahi",
+        "acukokizizmahi"
+      ],
+      "alut": [
+        "cukukizitA",
+        "cukokizitA",
+        "cukukizitArO",
+        "cukokizitArO",
+        "cukukizitAraH",
+        "cukokizitAraH",
+        "cukukizitAse",
+        "cukokizitAse",
+        "cukukizitAsATe",
+        "cukokizitAsATe",
+        "cukukizitADve",
+        "cukokizitADve",
+        "cukukizitAhe",
+        "cukokizitAhe",
+        "cukukizitAsvahe",
+        "cukokizitAsvahe",
+        "cukukizitAsmahe",
+        "cukokizitAsmahe"
+      ],
+      "avidhiling": [
+        "cukukizyeta",
+        "cukokizyeta",
+        "cukukizyeyAtAm",
+        "cukokizyeyAtAm",
+        "cukukizyeran",
+        "cukokizyeran",
+        "cukukizyeTAH",
+        "cukokizyeTAH",
+        "cukukizyeyATAm",
+        "cukokizyeyATAm",
+        "cukukizyeDvam",
+        "cukokizyeDvam",
+        "cukukizyeya",
+        "cukokizyeya",
+        "cukukizyevahi",
+        "cukokizyevahi",
+        "cukukizyemahi",
+        "cukokizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "kokayizIzwa",
+        "kokayizIyAstAm",
+        "kokayizIran",
+        "kokayizIzWAH",
+        "kokayizIyAsTAm",
+        "kokayizIQvam",
+        "kokayizIDvam",
+        "kokayizIya",
+        "kokayizIvahi",
+        "kokayizImahi"
+      ],
+      "alang": [
+        "akokayata",
+        "akokayetAm",
+        "akokayanta",
+        "akokayaTAH",
+        "akokayeTAm",
+        "akokayaDvam",
+        "akokaye",
+        "akokayAvahi",
+        "akokayAmahi"
+      ],
+      "alat": [
+        "kokayate",
+        "kokayete",
+        "kokayante",
+        "kokayase",
+        "kokayeTe",
+        "kokayaDve",
+        "kokaye",
+        "kokayAvahe",
+        "kokayAmahe"
+      ],
+      "alit": [
+        "kokayAYcakre",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakrAte",
+        "kokayAmAsatuH",
+        "kokayAmbaBUvatuH",
+        "kokayAYcakrire",
+        "kokayAmAsuH",
+        "kokayAmbaBUvuH",
+        "kokayAYcakfze",
+        "kokayAmAsiTa",
+        "kokayAmbaBUviTa",
+        "kokayAYcakrATe",
+        "kokayAmAsaTuH",
+        "kokayAmbaBUvaTuH",
+        "kokayAYcakfQve",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakre",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakfvahe",
+        "kokayAmAsiva",
+        "kokayAmbaBUviva",
+        "kokayAYcakfmahe",
+        "kokayAmAsima",
+        "kokayAmbaBUvima"
+      ],
+      "alot": [
+        "kokayatAm",
+        "kokayetAm",
+        "kokayantAm",
+        "kokayasva",
+        "kokayeTAm",
+        "kokayaDvam",
+        "kokayE",
+        "kokayAvahE",
+        "kokayAmahE"
+      ],
+      "alrung": [
+        "akokayizyata",
+        "akokayizyetAm",
+        "akokayizyanta",
+        "akokayizyaTAH",
+        "akokayizyeTAm",
+        "akokayizyaDvam",
+        "akokayizye",
+        "akokayizyAvahi",
+        "akokayizyAmahi"
+      ],
+      "alrut": [
+        "kokayizyate",
+        "kokayizyete",
+        "kokayizyante",
+        "kokayizyase",
+        "kokayizyeTe",
+        "kokayizyaDve",
+        "kokayizye",
+        "kokayizyAvahe",
+        "kokayizyAmahe"
+      ],
+      "alung": [
+        "acUkukata",
+        "acUkuketAm",
+        "acUkukanta",
+        "acUkukaTAH",
+        "acUkukeTAm",
+        "acUkukaDvam",
+        "acUkuke",
+        "acUkukAvahi",
+        "acUkukAmahi"
+      ],
+      "alut": [
+        "kokayitA",
+        "kokayitArO",
+        "kokayitAraH",
+        "kokayitAse",
+        "kokayitAsATe",
+        "kokayitADve",
+        "kokayitAhe",
+        "kokayitAsvahe",
+        "kokayitAsmahe"
+      ],
+      "avidhiling": [
+        "kokayeta",
+        "kokayeyAtAm",
+        "kokayeran",
+        "kokayeTAH",
+        "kokayeyATAm",
+        "kokayeDvam",
+        "kokayeya",
+        "kokayevahi",
+        "kokayemahi"
+      ],
+      "pashirling": [
+        "kokyAt",
+        "kokyAd",
+        "kokyAstAm",
+        "kokyAsuH",
+        "kokyAH",
+        "kokyAstam",
+        "kokyAsta",
+        "kokyAsam",
+        "kokyAsva",
+        "kokyAsma"
+      ],
+      "plang": [
+        "akokayat",
+        "akokayad",
+        "akokayatAm",
+        "akokayan",
+        "akokayaH",
+        "akokayatam",
+        "akokayata",
+        "akokayam",
+        "akokayAva",
+        "akokayAma"
+      ],
+      "plat": [
+        "kokayati",
+        "kokayataH",
+        "kokayanti",
+        "kokayasi",
+        "kokayaTaH",
+        "kokayaTa",
+        "kokayAmi",
+        "kokayAvaH",
+        "kokayAmaH"
+      ],
+      "plit": [
+        "kokayAYcakAra",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakratuH",
+        "kokayAmAsatuH",
+        "kokayAmbaBUvatuH",
+        "kokayAYcakruH",
+        "kokayAmAsuH",
+        "kokayAmbaBUvuH",
+        "kokayAYcakarTa",
+        "kokayAmAsiTa",
+        "kokayAmbaBUviTa",
+        "kokayAYcakraTuH",
+        "kokayAmAsaTuH",
+        "kokayAmbaBUvaTuH",
+        "kokayAYcakra",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakara",
+        "kokayAYcakAra",
+        "kokayAmAsa",
+        "kokayAmbaBUva",
+        "kokayAYcakfva",
+        "kokayAmAsiva",
+        "kokayAmbaBUviva",
+        "kokayAYcakfma",
+        "kokayAmAsima",
+        "kokayAmbaBUvima"
+      ],
+      "plot": [
+        "kokayatAt",
+        "kokayatAd",
+        "kokayatu",
+        "kokayatAm",
+        "kokayantu",
+        "kokaya",
+        "kokayatAt",
+        "kokayatAd",
+        "kokayatam",
+        "kokayata",
+        "kokayAni",
+        "kokayAva",
+        "kokayAma"
+      ],
+      "plrung": [
+        "akokayizyat",
+        "akokayizyad",
+        "akokayizyatAm",
+        "akokayizyan",
+        "akokayizyaH",
+        "akokayizyatam",
+        "akokayizyata",
+        "akokayizyam",
+        "akokayizyAva",
+        "akokayizyAma"
+      ],
+      "plrut": [
+        "kokayizyati",
+        "kokayizyataH",
+        "kokayizyanti",
+        "kokayizyasi",
+        "kokayizyaTaH",
+        "kokayizyaTa",
+        "kokayizyAmi",
+        "kokayizyAvaH",
+        "kokayizyAmaH"
+      ],
+      "plung": [
+        "acUkukat",
+        "acUkukad",
+        "acUkukatAm",
+        "acUkukan",
+        "acUkukaH",
+        "acUkukatam",
+        "acUkukata",
+        "acUkukam",
+        "acUkukAva",
+        "acUkukAma"
+      ],
+      "plut": [
+        "kokayitA",
+        "kokayitArO",
+        "kokayitAraH",
+        "kokayitAsi",
+        "kokayitAsTaH",
+        "kokayitAsTa",
+        "kokayitAsmi",
+        "kokayitAsvaH",
+        "kokayitAsmaH"
+      ],
+      "pvidhiling": [
+        "kokayet",
+        "kokayed",
+        "kokayetAm",
+        "kokayeyuH",
+        "kokayeH",
+        "kokayetam",
+        "kokayeta",
+        "kokayeyam",
+        "kokayeva",
+        "kokayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "kokayizIzwa",
+        "kokizIzwa",
+        "kokayizIyAstAm",
+        "kokizIyAstAm",
+        "kokayizIran",
+        "kokizIran",
+        "kokayizIzWAH",
+        "kokizIzWAH",
+        "kokayizIyAsTAm",
+        "kokizIyAsTAm",
+        "kokayizIQvam",
+        "kokayizIDvam",
+        "kokizIDvam",
+        "kokayizIya",
+        "kokizIya",
+        "kokayizIvahi",
+        "kokizIvahi",
+        "kokayizImahi",
+        "kokizImahi"
+      ],
+      "alang": [
+        "akokyata",
+        "akokyetAm",
+        "akokyanta",
+        "akokyaTAH",
+        "akokyeTAm",
+        "akokyaDvam",
+        "akokye",
+        "akokyAvahi",
+        "akokyAmahi"
+      ],
+      "alat": [
+        "kokyate",
+        "kokyete",
+        "kokyante",
+        "kokyase",
+        "kokyeTe",
+        "kokyaDve",
+        "kokye",
+        "kokyAvahe",
+        "kokyAmahe"
+      ],
+      "alit": [
+        "kokayAYcakre",
+        "kokayAmAse",
+        "kokayAmbaBUve",
+        "kokayAYcakrAte",
+        "kokayAmAsAte",
+        "kokayAmbaBUvAte",
+        "kokayAYcakrire",
+        "kokayAmAsire",
+        "kokayAmbaBUvire",
+        "kokayAYcakfze",
+        "kokayAmAsize",
+        "kokayAmbaBUvize",
+        "kokayAYcakrATe",
+        "kokayAmAsATe",
+        "kokayAmbaBUvATe",
+        "kokayAYcakfQve",
+        "kokayAmAsiDve",
+        "kokayAmbaBUviQve",
+        "kokayAYcakre",
+        "kokayAmAhe",
+        "kokayAmbaBUve",
+        "kokayAYcakfvahe",
+        "kokayAmAsivahe",
+        "kokayAmbaBUvivahe",
+        "kokayAYcakfmahe",
+        "kokayAmAsimahe",
+        "kokayAmbaBUvimahe"
+      ],
+      "alot": [
+        "kokyatAm",
+        "kokyetAm",
+        "kokyantAm",
+        "kokyasva",
+        "kokyeTAm",
+        "kokyaDvam",
+        "kokyE",
+        "kokyAvahE",
+        "kokyAmahE"
+      ],
+      "alrung": [
+        "akokayizyata",
+        "akokizyata",
+        "akokayizyetAm",
+        "akokizyetAm",
+        "akokayizyanta",
+        "akokizyanta",
+        "akokayizyaTAH",
+        "akokizyaTAH",
+        "akokayizyeTAm",
+        "akokizyeTAm",
+        "akokayizyaDvam",
+        "akokizyaDvam",
+        "akokayizye",
+        "akokizye",
+        "akokayizyAvahi",
+        "akokizyAvahi",
+        "akokayizyAmahi",
+        "akokizyAmahi"
+      ],
+      "alrut": [
+        "kokayizyate",
+        "kokizyate",
+        "kokayizyete",
+        "kokizyete",
+        "kokayizyante",
+        "kokizyante",
+        "kokayizyase",
+        "kokizyase",
+        "kokayizyeTe",
+        "kokizyeTe",
+        "kokayizyaDve",
+        "kokizyaDve",
+        "kokayizye",
+        "kokizye",
+        "kokayizyAvahe",
+        "kokizyAvahe",
+        "kokayizyAmahe",
+        "kokizyAmahe"
+      ],
+      "alung": [
+        "akoki",
+        "akokayizAtAm",
+        "akokizAtAm",
+        "akokayizata",
+        "akokizata",
+        "akokayizWAH",
+        "akokizWAH",
+        "akokayizATAm",
+        "akokizATAm",
+        "akokayiQvam",
+        "akokayiDvam",
+        "akokiDvam",
+        "akokayizi",
+        "akokizi",
+        "akokayizvahi",
+        "akokizvahi",
+        "akokayizmahi",
+        "akokizmahi"
+      ],
+      "alut": [
+        "kokayitA",
+        "kokitA",
+        "kokayitArO",
+        "kokitArO",
+        "kokayitAraH",
+        "kokitAraH",
+        "kokayitAse",
+        "kokitAse",
+        "kokayitAsATe",
+        "kokitAsATe",
+        "kokayitADve",
+        "kokitADve",
+        "kokayitAhe",
+        "kokitAhe",
+        "kokayitAsvahe",
+        "kokitAsvahe",
+        "kokayitAsmahe",
+        "kokitAsmahe"
+      ],
+      "avidhiling": [
+        "kokyeta",
+        "kokyeyAtAm",
+        "kokyeran",
+        "kokyeTAH",
+        "kokyeyATAm",
+        "kokyeDvam",
+        "kokyeya",
+        "kokyevahi",
+        "kokyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "cokukizIzwa",
+        "cokukizIyAstAm",
+        "cokukizIran",
+        "cokukizIzWAH",
+        "cokukizIyAsTAm",
+        "cokukizIDvam",
+        "cokukizIya",
+        "cokukizIvahi",
+        "cokukizImahi"
+      ],
+      "alang": [
+        "acokukyata",
+        "acokukyetAm",
+        "acokukyanta",
+        "acokukyaTAH",
+        "acokukyeTAm",
+        "acokukyaDvam",
+        "acokukye",
+        "acokukyAvahi",
+        "acokukyAmahi"
+      ],
+      "alat": [
+        "cokukyate",
+        "cokukyete",
+        "cokukyante",
+        "cokukyase",
+        "cokukyeTe",
+        "cokukyaDve",
+        "cokukye",
+        "cokukyAvahe",
+        "cokukyAmahe"
+      ],
+      "alit": [
+        "cokukAYcakre",
+        "cokukAmAsa",
+        "cokukAmbaBUva",
+        "cokukAYcakrAte",
+        "cokukAmAsatuH",
+        "cokukAmbaBUvatuH",
+        "cokukAYcakrire",
+        "cokukAmAsuH",
+        "cokukAmbaBUvuH",
+        "cokukAYcakfze",
+        "cokukAmAsiTa",
+        "cokukAmbaBUviTa",
+        "cokukAYcakrATe",
+        "cokukAmAsaTuH",
+        "cokukAmbaBUvaTuH",
+        "cokukAYcakfQve",
+        "cokukAmAsa",
+        "cokukAmbaBUva",
+        "cokukAYcakre",
+        "cokukAmAsa",
+        "cokukAmbaBUva",
+        "cokukAYcakfvahe",
+        "cokukAmAsiva",
+        "cokukAmbaBUviva",
+        "cokukAYcakfmahe",
+        "cokukAmAsima",
+        "cokukAmbaBUvima"
+      ],
+      "alot": [
+        "cokukyatAm",
+        "cokukyetAm",
+        "cokukyantAm",
+        "cokukyasva",
+        "cokukyeTAm",
+        "cokukyaDvam",
+        "cokukyE",
+        "cokukyAvahE",
+        "cokukyAmahE"
+      ],
+      "alrung": [
+        "acokukizyata",
+        "acokukizyetAm",
+        "acokukizyanta",
+        "acokukizyaTAH",
+        "acokukizyeTAm",
+        "acokukizyaDvam",
+        "acokukizye",
+        "acokukizyAvahi",
+        "acokukizyAmahi"
+      ],
+      "alrut": [
+        "cokukizyate",
+        "cokukizyete",
+        "cokukizyante",
+        "cokukizyase",
+        "cokukizyeTe",
+        "cokukizyaDve",
+        "cokukizye",
+        "cokukizyAvahe",
+        "cokukizyAmahe"
+      ],
+      "alung": [
+        "acokukizwa",
+        "acokukizAtAm",
+        "acokukizata",
+        "acokukizWAH",
+        "acokukizATAm",
+        "acokukiDvam",
+        "acokukizi",
+        "acokukizvahi",
+        "acokukizmahi"
+      ],
+      "alut": [
+        "cokukitA",
+        "cokukitArO",
+        "cokukitAraH",
+        "cokukitAse",
+        "cokukitAsATe",
+        "cokukitADve",
+        "cokukitAhe",
+        "cokukitAsvahe",
+        "cokukitAsmahe"
+      ],
+      "avidhiling": [
+        "cokukyeta",
+        "cokukyeyAtAm",
+        "cokukyeran",
+        "cokukyeTAH",
+        "cokukyeyATAm",
+        "cokukyeDvam",
+        "cokukyeya",
+        "cokukyevahi",
+        "cokukyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "cokukizIzwa",
+        "cokukizIyAstAm",
+        "cokukizIran",
+        "cokukizIzWAH",
+        "cokukizIyAsTAm",
+        "cokukizIDvam",
+        "cokukizIya",
+        "cokukizIvahi",
+        "cokukizImahi"
+      ],
+      "alang": [
+        "acokukyata",
+        "acokukyetAm",
+        "acokukyanta",
+        "acokukyaTAH",
+        "acokukyeTAm",
+        "acokukyaDvam",
+        "acokukye",
+        "acokukyAvahi",
+        "acokukyAmahi"
+      ],
+      "alat": [
+        "cokukyate",
+        "cokukyete",
+        "cokukyante",
+        "cokukyase",
+        "cokukyeTe",
+        "cokukyaDve",
+        "cokukye",
+        "cokukyAvahe",
+        "cokukyAmahe"
+      ],
+      "alit": [
+        "cokukAYcakre",
+        "cokukAmAse",
+        "cokukAmbaBUve",
+        "cokukAYcakrAte",
+        "cokukAmAsAte",
+        "cokukAmbaBUvAte",
+        "cokukAYcakrire",
+        "cokukAmAsire",
+        "cokukAmbaBUvire",
+        "cokukAYcakfze",
+        "cokukAmAsize",
+        "cokukAmbaBUvize",
+        "cokukAYcakrATe",
+        "cokukAmAsATe",
+        "cokukAmbaBUvATe",
+        "cokukAYcakfQve",
+        "cokukAmAsiDve",
+        "cokukAmbaBUviQve",
+        "cokukAYcakre",
+        "cokukAmAhe",
+        "cokukAmbaBUve",
+        "cokukAYcakfvahe",
+        "cokukAmAsivahe",
+        "cokukAmbaBUvivahe",
+        "cokukAYcakfmahe",
+        "cokukAmAsimahe",
+        "cokukAmbaBUvimahe"
+      ],
+      "alot": [
+        "cokukyatAm",
+        "cokukyetAm",
+        "cokukyantAm",
+        "cokukyasva",
+        "cokukyeTAm",
+        "cokukyaDvam",
+        "cokukyE",
+        "cokukyAvahE",
+        "cokukyAmahE"
+      ],
+      "alrung": [
+        "acokukizyata",
+        "acokukizyetAm",
+        "acokukizyanta",
+        "acokukizyaTAH",
+        "acokukizyeTAm",
+        "acokukizyaDvam",
+        "acokukizye",
+        "acokukizyAvahi",
+        "acokukizyAmahi"
+      ],
+      "alrut": [
+        "cokukizyate",
+        "cokukizyete",
+        "cokukizyante",
+        "cokukizyase",
+        "cokukizyeTe",
+        "cokukizyaDve",
+        "cokukizye",
+        "cokukizyAvahe",
+        "cokukizyAmahe"
+      ],
+      "alung": [
+        "acokuki",
+        "acokukizAtAm",
+        "acokukizata",
+        "acokukizWAH",
+        "acokukizATAm",
+        "acokukiDvam",
+        "acokukizi",
+        "acokukizvahi",
+        "acokukizmahi"
+      ],
+      "alut": [
+        "cokukitA",
+        "cokukitArO",
+        "cokukitAraH",
+        "cokukitAse",
+        "cokukitAsATe",
+        "cokukitADve",
+        "cokukitAhe",
+        "cokukitAsvahe",
+        "cokukitAsmahe"
+      ],
+      "avidhiling": [
+        "cokukyeta",
+        "cokukyeyAtAm",
+        "cokukyeran",
+        "cokukyeTAH",
+        "cokukyeyATAm",
+        "cokukyeDvam",
+        "cokukyeya",
+        "cokukyevahi",
+        "cokukyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "cokukyAt",
+        "cokukyAd",
+        "cokukyAstAm",
+        "cokukyAsuH",
+        "cokukyAH",
+        "cokukyAstam",
+        "cokukyAsta",
+        "cokukyAsam",
+        "cokukyAsva",
+        "cokukyAsma"
+      ],
+      "plang": [
+        "acokukIt",
+        "acokukId",
+        "acokok",
+        "acokog",
+        "acokuktAm",
+        "acokukuH",
+        "acokukIH",
+        "acokok",
+        "acokog",
+        "acokuktam",
+        "acokukta",
+        "acokukam",
+        "acokukva",
+        "acokukma"
+      ],
+      "plat": [
+        "cokukIti",
+        "cokokti",
+        "cokuktaH",
+        "cokukati",
+        "cokukIzi",
+        "cokokzi",
+        "cokukTaH",
+        "cokukTa",
+        "cokukImi",
+        "cokokmi",
+        "cokukvaH",
+        "cokukmaH"
+      ],
+      "plit": [
+        "cokokAYcakAra",
+        "cokokAmAsa",
+        "cokokAmbaBUva",
+        "cokokAYcakratuH",
+        "cokokAmAsatuH",
+        "cokokAmbaBUvatuH",
+        "cokokAYcakruH",
+        "cokokAmAsuH",
+        "cokokAmbaBUvuH",
+        "cokokAYcakarTa",
+        "cokokAmAsiTa",
+        "cokokAmbaBUviTa",
+        "cokokAYcakraTuH",
+        "cokokAmAsaTuH",
+        "cokokAmbaBUvaTuH",
+        "cokokAYcakra",
+        "cokokAmAsa",
+        "cokokAmbaBUva",
+        "cokokAYcakara",
+        "cokokAYcakAra",
+        "cokokAmAsa",
+        "cokokAmbaBUva",
+        "cokokAYcakfva",
+        "cokokAmAsiva",
+        "cokokAmbaBUviva",
+        "cokokAYcakfma",
+        "cokokAmAsima",
+        "cokokAmbaBUvima"
+      ],
+      "plot": [
+        "cokukItu",
+        "cokuktAt",
+        "cokuktAd",
+        "cokoktu",
+        "cokuktAm",
+        "cokukatu",
+        "cokuktAt",
+        "cokuktAd",
+        "cokugDi",
+        "cokuktam",
+        "cokukta",
+        "cokukAni",
+        "cokukAva",
+        "cokukAma"
+      ],
+      "plrung": [
+        "acokokizyat",
+        "acokokizyad",
+        "acokokizyatAm",
+        "acokokizyan",
+        "acokokizyaH",
+        "acokokizyatam",
+        "acokokizyata",
+        "acokokizyam",
+        "acokokizyAva",
+        "acokokizyAma"
+      ],
+      "plrut": [
+        "cokokizyati",
+        "cokokizyataH",
+        "cokokizyanti",
+        "cokokizyasi",
+        "cokokizyaTaH",
+        "cokokizyaTa",
+        "cokokizyAmi",
+        "cokokizyAvaH",
+        "cokokizyAmaH"
+      ],
+      "plung": [
+        "acokokIt",
+        "acokokId",
+        "acokokizwAm",
+        "acokokizuH",
+        "acokokIH",
+        "acokokizwam",
+        "acokokizwa",
+        "acokokizam",
+        "acokokizva",
+        "acokokizma"
+      ],
+      "plut": [
+        "cokokitA",
+        "cokokitArO",
+        "cokokitAraH",
+        "cokokitAsi",
+        "cokokitAsTaH",
+        "cokokitAsTa",
+        "cokokitAsmi",
+        "cokokitAsvaH",
+        "cokokitAsmaH"
+      ],
+      "pvidhiling": [
+        "cokukyAt",
+        "cokukyAd",
+        "cokukyAtAm",
+        "cokukyuH",
+        "cokukyAH",
+        "cokukyAtam",
+        "cokukyAta",
+        "cokukyAm",
+        "cokukyAva",
+        "cokukyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "cokokizIzwa",
+        "cokokizIyAstAm",
+        "cokokizIran",
+        "cokokizIzWAH",
+        "cokokizIyAsTAm",
+        "cokokizIDvam",
+        "cokokizIya",
+        "cokokizIvahi",
+        "cokokizImahi"
+      ],
+      "alang": [
+        "acokukyata",
+        "acokukyetAm",
+        "acokukyanta",
+        "acokukyaTAH",
+        "acokukyeTAm",
+        "acokukyaDvam",
+        "acokukye",
+        "acokukyAvahi",
+        "acokukyAmahi"
+      ],
+      "alat": [
+        "cokukyate",
+        "cokukyete",
+        "cokukyante",
+        "cokukyase",
+        "cokukyeTe",
+        "cokukyaDve",
+        "cokukye",
+        "cokukyAvahe",
+        "cokukyAmahe"
+      ],
+      "alit": [
+        "cokokAYcakre",
+        "cokokAmAse",
+        "cokokAmbaBUve",
+        "cokokAYcakrAte",
+        "cokokAmAsAte",
+        "cokokAmbaBUvAte",
+        "cokokAYcakrire",
+        "cokokAmAsire",
+        "cokokAmbaBUvire",
+        "cokokAYcakfze",
+        "cokokAmAsize",
+        "cokokAmbaBUvize",
+        "cokokAYcakrATe",
+        "cokokAmAsATe",
+        "cokokAmbaBUvATe",
+        "cokokAYcakfQve",
+        "cokokAmAsiDve",
+        "cokokAmbaBUviQve",
+        "cokokAYcakre",
+        "cokokAmAhe",
+        "cokokAmbaBUve",
+        "cokokAYcakfvahe",
+        "cokokAmAsivahe",
+        "cokokAmbaBUvivahe",
+        "cokokAYcakfmahe",
+        "cokokAmAsimahe",
+        "cokokAmbaBUvimahe"
+      ],
+      "alot": [
+        "cokukyatAm",
+        "cokukyetAm",
+        "cokukyantAm",
+        "cokukyasva",
+        "cokukyeTAm",
+        "cokukyaDvam",
+        "cokukyE",
+        "cokukyAvahE",
+        "cokukyAmahE"
+      ],
+      "alrung": [
+        "acokokizyata",
+        "acokokizyetAm",
+        "acokokizyanta",
+        "acokokizyaTAH",
+        "acokokizyeTAm",
+        "acokokizyaDvam",
+        "acokokizye",
+        "acokokizyAvahi",
+        "acokokizyAmahi"
+      ],
+      "alrut": [
+        "cokokizyate",
+        "cokokizyete",
+        "cokokizyante",
+        "cokokizyase",
+        "cokokizyeTe",
+        "cokokizyaDve",
+        "cokokizye",
+        "cokokizyAvahe",
+        "cokokizyAmahe"
+      ],
+      "alung": [
+        "acokoki",
+        "acokokizAtAm",
+        "acokokizata",
+        "acokokizWAH",
+        "acokokizATAm",
+        "acokokiDvam",
+        "acokokizi",
+        "acokokizvahi",
+        "acokokizmahi"
+      ],
+      "alut": [
+        "cokokitA",
+        "cokokitArO",
+        "cokokitAraH",
+        "cokokitAse",
+        "cokokitAsATe",
+        "cokokitADve",
+        "cokokitAhe",
+        "cokokitAsvahe",
+        "cokokitAsmahe"
+      ],
+      "avidhiling": [
+        "cokukyeta",
+        "cokukyeyAtAm",
+        "cokukyeran",
+        "cokukyeTAH",
+        "cokukyeyATAm",
+        "cokukyeDvam",
+        "cokukyeya",
+        "cokukyevahi",
+        "cokukyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "kokanIya",
+          "m": "kokanIyaH",
+          "f": "kokanIyA",
+          "n": "kokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "kukita",
+          "m": "kukitaH",
+          "f": "kukitA",
+          "n": "kukitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "kukitavat",
+          "m": "kukitavAn",
+          "f": "kukitavatI",
+          "n": "kukitavat/kukitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "kukti",
+          "m": "",
+          "f": "kuktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "kukitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "kokitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cukukvas",
+          "m": "cukukvAn",
+          "f": "cukukuzI",
+          "n": "cukukvat/cukukvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "koka",
+          "m": "kokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "kokamAna",
+          "m": "kokamAnaH",
+          "f": "kokamAnA",
+          "n": "kokamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "kokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "kokya",
+          "m": "kokyaH",
+          "f": "kokyA",
+          "n": "kokyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "kokaka",
+          "m": "kokakaH",
+          "f": "kokikA",
+          "n": "kokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "kokitavya",
+          "m": "kokitavyaH",
+          "f": "kokitavyA",
+          "n": "kokitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "kokitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "kokitf",
+          "m": "kokitA",
+          "f": "kokitrI",
+          "n": "kokitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "kukyamAna",
+          "m": "kukyamAnaH",
+          "f": "kukyamAnA",
+          "n": "kukyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prakukya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "kokana",
+          "m": "",
+          "f": "",
+          "n": "kokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "kokaka",
+          "m": "kokakaH",
+          "f": "kokikA",
+          "n": "kokakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "kokamAna",
+          "m": "kokamAnaH",
+          "f": "kokamAnA",
+          "n": "kokamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "kokizyamARa",
+          "m": "kokizyamARaH",
+          "f": "kokizyamARA",
+          "n": "kokizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "kokizyamARa",
+          "m": "kokizyamARaH",
+          "f": "kokizyamARA",
+          "n": "kokizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cukukizA",
+          "m": "",
+          "f": "cukukizA",
+          "n": ""
+        },
+        {
+          "base": "cukokizA",
+          "m": "",
+          "f": "cukokizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cukukiza",
+          "m": "cukukizaH",
+          "f": "cukukizA",
+          "n": "cukukizam"
+        },
+        {
+          "base": "cukokiza",
+          "m": "cukokizaH",
+          "f": "cukokizA",
+          "n": "cukokizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cukukizaRIya",
+          "m": "cukukizaRIyaH",
+          "f": "cukukizaRIyA",
+          "n": "cukukizaRIyam"
+        },
+        {
+          "base": "cukokizaRIya",
+          "m": "cukokizaRIyaH",
+          "f": "cukokizaRIyA",
+          "n": "cukokizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cukukizu",
+          "m": "cukukizuH",
+          "f": "cukukizuH",
+          "n": "cukukizu"
+        },
+        {
+          "base": "cukokizu",
+          "m": "cukokizuH",
+          "f": "cukokizuH",
+          "n": "cukokizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cukukizita",
+          "m": "cukukizitaH",
+          "f": "cukukizitA",
+          "n": "cukukizitam"
+        },
+        {
+          "base": "cukokizita",
+          "m": "cukokizitaH",
+          "f": "cukokizitA",
+          "n": "cukokizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cukukizitavat",
+          "m": "cukukizitavAn",
+          "f": "cukukizitavatI",
+          "n": "cukukizitavat/cukukizitavad"
+        },
+        {
+          "base": "cukokizitavat",
+          "m": "cukokizitavAn",
+          "f": "cukokizitavatI",
+          "n": "cukokizitavat/cukokizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cukukizwi",
+          "m": "",
+          "f": "cukukizwiH",
+          "n": ""
+        },
+        {
+          "base": "cukokizwi",
+          "m": "",
+          "f": "cukokizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cukukizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cukokizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cukukizAmbaBUvas",
+          "m": "cukukizAmbaBUvAn",
+          "f": "cukukizAmbaBUzI",
+          "n": "cukukizAmbaBUvat/cukukizAmbaBUvad"
+        },
+        {
+          "base": "cukukizAmAsivas",
+          "m": "cukukizAmAsivAn",
+          "f": "cukukizAmAsyuzI",
+          "n": "cukukizAmAsivat/cukukizAmAsivad"
+        },
+        {
+          "base": "cukukizAYcakfvas",
+          "m": "cukukizAYcakfvAn",
+          "f": "cukukizAYcakruzI",
+          "n": "cukukizAYcakfvat/cukukizAYcakfvad"
+        },
+        {
+          "base": "cukokizAmbaBUvas",
+          "m": "cukokizAmbaBUvAn",
+          "f": "cukokizAmbaBUzI",
+          "n": "cukokizAmbaBUvat/cukokizAmbaBUvad"
+        },
+        {
+          "base": "cukokizAmAsivas",
+          "m": "cukokizAmAsivAn",
+          "f": "cukokizAmAsyuzI",
+          "n": "cukokizAmAsivat/cukokizAmAsivad"
+        },
+        {
+          "base": "cukokizAYcakfvas",
+          "m": "cukokizAYcakfvAn",
+          "f": "cukokizAYcakruzI",
+          "n": "cukokizAYcakfvat/cukokizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cukukiza",
+          "m": "cukukizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cukokiza",
+          "m": "cukokizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cukukizamARa",
+          "m": "cukukizamARaH",
+          "f": "cukukizamARA",
+          "n": "cukukizamARam"
+        },
+        {
+          "base": "cukokizamARa",
+          "m": "cukokizamARaH",
+          "f": "cukokizamARA",
+          "n": "cukokizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cukukizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cukokizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cukukizaka",
+          "m": "cukukizakaH",
+          "f": "cukukizikA",
+          "n": "cukukizakam"
+        },
+        {
+          "base": "cukokizaka",
+          "m": "cukokizakaH",
+          "f": "cukokizikA",
+          "n": "cukokizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cukukizitavya",
+          "m": "cukukizitavyaH",
+          "f": "cukukizitavyA",
+          "n": "cukukizitavyam"
+        },
+        {
+          "base": "cukokizitavya",
+          "m": "cukokizitavyaH",
+          "f": "cukokizitavyA",
+          "n": "cukokizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cukukizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cukokizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cukukizitf",
+          "m": "cukukizitA",
+          "f": "cukukizitrI",
+          "n": "cukukizitf"
+        },
+        {
+          "base": "cukokizitf",
+          "m": "cukokizitA",
+          "f": "cukokizitrI",
+          "n": "cukokizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cukukizyamARa",
+          "m": "cukukizyamARaH",
+          "f": "cukukizyamARA",
+          "n": "cukukizyamARam"
+        },
+        {
+          "base": "cukokizyamARa",
+          "m": "cukokizyamARaH",
+          "f": "cukokizyamARA",
+          "n": "cukokizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cukukizya",
+          "m": "cukukizyaH",
+          "f": "cukukizyA",
+          "n": "cukukizyam"
+        },
+        {
+          "base": "cukokizya",
+          "m": "cukokizyaH",
+          "f": "cukokizyA",
+          "n": "cukokizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracukukizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracukokizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cukukizaRa",
+          "m": "",
+          "f": "",
+          "n": "cukukizaRam"
+        },
+        {
+          "base": "cukokizaRa",
+          "m": "",
+          "f": "",
+          "n": "cukokizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cukukizaka",
+          "m": "cukukizakaH",
+          "f": "cukukizikA",
+          "n": "cukukizakam"
+        },
+        {
+          "base": "cukokizaka",
+          "m": "cukokizakaH",
+          "f": "cukokizikA",
+          "n": "cukokizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cukukizamARa",
+          "m": "cukukizamARaH",
+          "f": "cukukizamARA",
+          "n": "cukukizamARam"
+        },
+        {
+          "base": "cukokizamARa",
+          "m": "cukokizamARaH",
+          "f": "cukokizamARA",
+          "n": "cukokizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cukukizizyamARa",
+          "m": "cukukizizyamARaH",
+          "f": "cukukizizyamARA",
+          "n": "cukukizizyamARam"
+        },
+        {
+          "base": "cukokizizyamARa",
+          "m": "cukokizizyamARaH",
+          "f": "cukokizizyamARA",
+          "n": "cukokizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cukukizizyamARa",
+          "m": "cukukizizyamARaH",
+          "f": "cukukizizyamARA",
+          "n": "cukukizizyamARam"
+        },
+        {
+          "base": "cukokizizyamARa",
+          "m": "cukokizizyamARaH",
+          "f": "cukokizizyamARA",
+          "n": "cukokizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "koka",
+          "m": "kokaH",
+          "f": "kokA",
+          "n": "kokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "kokanIya",
+          "m": "kokanIyaH",
+          "f": "kokanIyA",
+          "n": "kokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "kokita",
+          "m": "kokitaH",
+          "f": "kokitA",
+          "n": "kokitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "kokitavat",
+          "m": "kokitavAn",
+          "f": "kokitavatI",
+          "n": "kokitavat/kokitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "kokti",
+          "m": "",
+          "f": "koktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "kokayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "kokayAmbaBUvas",
+          "m": "kokayAmbaBUvAn",
+          "f": "kokayAmbaBUzI",
+          "n": "kokayAmbaBUvat/kokayAmbaBUvad"
+        },
+        {
+          "base": "kokayAmAsivas",
+          "m": "kokayAmAsivAn",
+          "f": "kokayAmAsyuzI",
+          "n": "kokayAmAsivat/kokayAmAsivad"
+        },
+        {
+          "base": "kokayAYcakfvas",
+          "m": "kokayAYcakfvAn",
+          "f": "kokayAYcakruzI",
+          "n": "kokayAYcakfvat/kokayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "kokayamAna",
+          "m": "kokayamAnaH",
+          "f": "kokayamAnA",
+          "n": "kokayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "kokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "kokaka",
+          "m": "kokakaH",
+          "f": "kokikA",
+          "n": "kokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "kokayitavya",
+          "m": "kokayitavyaH",
+          "f": "kokayitavyA",
+          "n": "kokayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "kokayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "kokayitf",
+          "m": "kokayitA",
+          "f": "kokayitrI",
+          "n": "kokayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "kokyamAna",
+          "m": "kokyamAnaH",
+          "f": "kokyamAnA",
+          "n": "kokyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "kokya",
+          "m": "kokyaH",
+          "f": "kokyA",
+          "n": "kokyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prakokya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "kokana",
+          "m": "",
+          "f": "",
+          "n": "kokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "kokaka",
+          "m": "kokakaH",
+          "f": "kokikA",
+          "n": "kokakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "kokayat",
+          "m": "kokayan",
+          "f": "kokayantI",
+          "n": "kokayat/kokayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "kokayamAna",
+          "m": "kokayamAnaH",
+          "f": "kokayamAnA",
+          "n": "kokayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "kokizyamARa",
+          "m": "kokizyamARaH",
+          "f": "kokizyamARA",
+          "n": "kokizyamARam"
+        },
+        {
+          "base": "kokayizyamARa",
+          "m": "kokayizyamARaH",
+          "f": "kokayizyamARA",
+          "n": "kokayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "kokayizyat",
+          "m": "kokayizyan",
+          "f": "kokayizyatI/kokayizyantI",
+          "n": "kokayizyat/kokayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "kokayizyamARa",
+          "m": "kokayizyamARaH",
+          "f": "kokayizyamARA",
+          "n": "kokayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "cokukA",
+          "m": "",
+          "f": "cokukA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cokuka",
+          "m": "cokukaH",
+          "f": "cokukA",
+          "n": "cokukam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cokukanIya",
+          "m": "cokukanIyaH",
+          "f": "cokukanIyA",
+          "n": "cokukanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cokukita",
+          "m": "cokukitaH",
+          "f": "cokukitA",
+          "n": "cokukitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cokukitavat",
+          "m": "cokukitavAn",
+          "f": "cokukitavatI",
+          "n": "cokukitavat/cokukitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cokukti",
+          "m": "",
+          "f": "cokuktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cokukitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cokukAmbaBUvas",
+          "m": "cokukAmbaBUvAn",
+          "f": "cokukAmbaBUzI",
+          "n": "cokukAmbaBUvat/cokukAmbaBUvad"
+        },
+        {
+          "base": "cokukAmAsivas",
+          "m": "cokukAmAsivAn",
+          "f": "cokukAmAsyuzI",
+          "n": "cokukAmAsivat/cokukAmAsivad"
+        },
+        {
+          "base": "cokukAYcakfvas",
+          "m": "cokukAYcakfvAn",
+          "f": "cokukAYcakruzI",
+          "n": "cokukAYcakfvat/cokukAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cokuka",
+          "m": "cokukaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cokukyamAna",
+          "m": "cokukyamAnaH",
+          "f": "cokukyamAnA",
+          "n": "cokukyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cokukam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cokukaka",
+          "m": "cokukakaH",
+          "f": "cokukikA",
+          "n": "cokukakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cokukitavya",
+          "m": "cokukitavyaH",
+          "f": "cokukitavyA",
+          "n": "cokukitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cokukitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cokukitf",
+          "m": "cokukitA",
+          "f": "cokukitrI",
+          "n": "cokukitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cokukyamAna",
+          "m": "cokukyamAnaH",
+          "f": "cokukyamAnA",
+          "n": "cokukyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cokukya",
+          "m": "cokukyaH",
+          "f": "cokukyA",
+          "n": "cokukyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracokukya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cokukana",
+          "m": "",
+          "f": "",
+          "n": "cokukanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cokukaka",
+          "m": "cokukakaH",
+          "f": "cokukikA",
+          "n": "cokukakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cokukyamAna",
+          "m": "cokukyamAnaH",
+          "f": "cokukyamAnA",
+          "n": "cokukyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cokukizyamARa",
+          "m": "cokukizyamARaH",
+          "f": "cokukizyamARA",
+          "n": "cokukizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cokukizyamARa",
+          "m": "cokukizyamARaH",
+          "f": "cokukizyamARA",
+          "n": "cokukizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "cokokA",
+          "m": "",
+          "f": "cokokA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cokoka",
+          "m": "cokokaH",
+          "f": "cokokA",
+          "n": "cokokam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cokokanIya",
+          "m": "cokokanIyaH",
+          "f": "cokokanIyA",
+          "n": "cokokanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cokukita",
+          "m": "cokukitaH",
+          "f": "cokukitA",
+          "n": "cokukitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cokukitavat",
+          "m": "cokukitavAn",
+          "f": "cokukitavatI",
+          "n": "cokukitavat/cokukitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cokukti",
+          "m": "",
+          "f": "cokuktiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cokokitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cokokAmbaBUvas",
+          "m": "cokokAmbaBUvAn",
+          "f": "cokokAmbaBUzI",
+          "n": "cokokAmbaBUvat/cokokAmbaBUvad"
+        },
+        {
+          "base": "cokokAmAsivas",
+          "m": "cokokAmAsivAn",
+          "f": "cokokAmAsyuzI",
+          "n": "cokokAmAsivat/cokokAmAsivad"
+        },
+        {
+          "base": "cokokAYcakfvas",
+          "m": "cokokAYcakfvAn",
+          "f": "cokokAYcakruzI",
+          "n": "cokokAYcakfvat/cokokAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cokoka",
+          "m": "cokokaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cokukAna",
+          "m": "cokukAnaH",
+          "f": "cokukAnA",
+          "n": "cokukAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cokokam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cokokaka",
+          "m": "cokokakaH",
+          "f": "cokokikA",
+          "n": "cokokakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cokokitavya",
+          "m": "cokokitavyaH",
+          "f": "cokokitavyA",
+          "n": "cokokitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cokokitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cokokitf",
+          "m": "cokokitA",
+          "f": "cokokitrI",
+          "n": "cokokitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cokukyamAna",
+          "m": "cokukyamAnaH",
+          "f": "cokukyamAnA",
+          "n": "cokukyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracokukya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cokokana",
+          "m": "",
+          "f": "",
+          "n": "cokokanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cokokaka",
+          "m": "cokokakaH",
+          "f": "cokokikA",
+          "n": "cokokakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cokukat",
+          "m": "cokukat/cokukad",
+          "f": "cokukatI",
+          "n": "cokukat/cokukad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cokokizyamARa",
+          "m": "cokokizyamARaH",
+          "f": "cokokizyamARA",
+          "n": "cokokizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cokokizyat",
+          "m": "cokokizyan",
+          "f": "cokokizyatI/cokokizyantI",
+          "n": "cokokizyat/cokokizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "kuk",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

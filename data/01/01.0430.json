@@ -1,0 +1,2532 @@
+{
+  "id": "01.0430",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "repf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "Sabde ca ' iti kzIrasvAmI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "372"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "372"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2300",
+      "ext_link": "/sutraani/sk2300?scroll=sutra-commentary-kaumudi-region&highlight=raepaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "repizIzwa",
+        "repizIyAstAm",
+        "repizIran",
+        "repizIzWAH",
+        "repizIyAsTAm",
+        "repizIDvam",
+        "repizIya",
+        "repizIvahi",
+        "repizImahi"
+      ],
+      "alang": [
+        "arepata",
+        "arepetAm",
+        "arepanta",
+        "arepaTAH",
+        "arepeTAm",
+        "arepaDvam",
+        "arepe",
+        "arepAvahi",
+        "arepAmahi"
+      ],
+      "alat": [
+        "repate",
+        "repete",
+        "repante",
+        "repase",
+        "repeTe",
+        "repaDve",
+        "repe",
+        "repAvahe",
+        "repAmahe"
+      ],
+      "alit": [
+        "rirepe",
+        "rirepAte",
+        "rirepire",
+        "rirepize",
+        "rirepATe",
+        "rirepiDve",
+        "rirepe",
+        "rirepivahe",
+        "rirepimahe"
+      ],
+      "alot": [
+        "repatAm",
+        "repetAm",
+        "repantAm",
+        "repasva",
+        "repeTAm",
+        "repaDvam",
+        "repE",
+        "repAvahE",
+        "repAmahE"
+      ],
+      "alrung": [
+        "arepizyata",
+        "arepizyetAm",
+        "arepizyanta",
+        "arepizyaTAH",
+        "arepizyeTAm",
+        "arepizyaDvam",
+        "arepizye",
+        "arepizyAvahi",
+        "arepizyAmahi"
+      ],
+      "alrut": [
+        "repizyate",
+        "repizyete",
+        "repizyante",
+        "repizyase",
+        "repizyeTe",
+        "repizyaDve",
+        "repizye",
+        "repizyAvahe",
+        "repizyAmahe"
+      ],
+      "alung": [
+        "arepizwa",
+        "arepizAtAm",
+        "arepizata",
+        "arepizWAH",
+        "arepizATAm",
+        "arepiDvam",
+        "arepizi",
+        "arepizvahi",
+        "arepizmahi"
+      ],
+      "alut": [
+        "repitA",
+        "repitArO",
+        "repitAraH",
+        "repitAse",
+        "repitAsATe",
+        "repitADve",
+        "repitAhe",
+        "repitAsvahe",
+        "repitAsmahe"
+      ],
+      "avidhiling": [
+        "repeta",
+        "repeyAtAm",
+        "reperan",
+        "repeTAH",
+        "repeyATAm",
+        "repeDvam",
+        "repeya",
+        "repevahi",
+        "repemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "repizIzwa",
+        "repizIyAstAm",
+        "repizIran",
+        "repizIzWAH",
+        "repizIyAsTAm",
+        "repizIDvam",
+        "repizIya",
+        "repizIvahi",
+        "repizImahi"
+      ],
+      "alang": [
+        "arepyata",
+        "arepyetAm",
+        "arepyanta",
+        "arepyaTAH",
+        "arepyeTAm",
+        "arepyaDvam",
+        "arepye",
+        "arepyAvahi",
+        "arepyAmahi"
+      ],
+      "alat": [
+        "repyate",
+        "repyete",
+        "repyante",
+        "repyase",
+        "repyeTe",
+        "repyaDve",
+        "repye",
+        "repyAvahe",
+        "repyAmahe"
+      ],
+      "alit": [
+        "rirepe",
+        "rirepAte",
+        "rirepire",
+        "rirepize",
+        "rirepATe",
+        "rirepiDve",
+        "rirepe",
+        "rirepivahe",
+        "rirepimahe"
+      ],
+      "alot": [
+        "repyatAm",
+        "repyetAm",
+        "repyantAm",
+        "repyasva",
+        "repyeTAm",
+        "repyaDvam",
+        "repyE",
+        "repyAvahE",
+        "repyAmahE"
+      ],
+      "alrung": [
+        "arepizyata",
+        "arepizyetAm",
+        "arepizyanta",
+        "arepizyaTAH",
+        "arepizyeTAm",
+        "arepizyaDvam",
+        "arepizye",
+        "arepizyAvahi",
+        "arepizyAmahi"
+      ],
+      "alrut": [
+        "repizyate",
+        "repizyete",
+        "repizyante",
+        "repizyase",
+        "repizyeTe",
+        "repizyaDve",
+        "repizye",
+        "repizyAvahe",
+        "repizyAmahe"
+      ],
+      "alung": [
+        "arepi",
+        "arepizAtAm",
+        "arepizata",
+        "arepizWAH",
+        "arepizATAm",
+        "arepiDvam",
+        "arepizi",
+        "arepizvahi",
+        "arepizmahi"
+      ],
+      "alut": [
+        "repitA",
+        "repitArO",
+        "repitAraH",
+        "repitAse",
+        "repitAsATe",
+        "repitADve",
+        "repitAhe",
+        "repitAsvahe",
+        "repitAsmahe"
+      ],
+      "avidhiling": [
+        "repyeta",
+        "repyeyAtAm",
+        "repyeran",
+        "repyeTAH",
+        "repyeyATAm",
+        "repyeDvam",
+        "repyeya",
+        "repyevahi",
+        "repyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "rirepizizIzwa",
+        "rirepizizIyAstAm",
+        "rirepizizIran",
+        "rirepizizIzWAH",
+        "rirepizizIyAsTAm",
+        "rirepizizIDvam",
+        "rirepizizIya",
+        "rirepizizIvahi",
+        "rirepizizImahi"
+      ],
+      "alang": [
+        "arirepizata",
+        "arirepizetAm",
+        "arirepizanta",
+        "arirepizaTAH",
+        "arirepizeTAm",
+        "arirepizaDvam",
+        "arirepize",
+        "arirepizAvahi",
+        "arirepizAmahi"
+      ],
+      "alat": [
+        "rirepizate",
+        "rirepizete",
+        "rirepizante",
+        "rirepizase",
+        "rirepizeTe",
+        "rirepizaDve",
+        "rirepize",
+        "rirepizAvahe",
+        "rirepizAmahe"
+      ],
+      "alit": [
+        "rirepizAYcakre",
+        "rirepizAmAsa",
+        "rirepizAmbaBUva",
+        "rirepizAYcakrAte",
+        "rirepizAmAsatuH",
+        "rirepizAmbaBUvatuH",
+        "rirepizAYcakrire",
+        "rirepizAmAsuH",
+        "rirepizAmbaBUvuH",
+        "rirepizAYcakfze",
+        "rirepizAmAsiTa",
+        "rirepizAmbaBUviTa",
+        "rirepizAYcakrATe",
+        "rirepizAmAsaTuH",
+        "rirepizAmbaBUvaTuH",
+        "rirepizAYcakfQve",
+        "rirepizAmAsa",
+        "rirepizAmbaBUva",
+        "rirepizAYcakre",
+        "rirepizAmAsa",
+        "rirepizAmbaBUva",
+        "rirepizAYcakfvahe",
+        "rirepizAmAsiva",
+        "rirepizAmbaBUviva",
+        "rirepizAYcakfmahe",
+        "rirepizAmAsima",
+        "rirepizAmbaBUvima"
+      ],
+      "alot": [
+        "rirepizatAm",
+        "rirepizetAm",
+        "rirepizantAm",
+        "rirepizasva",
+        "rirepizeTAm",
+        "rirepizaDvam",
+        "rirepizE",
+        "rirepizAvahE",
+        "rirepizAmahE"
+      ],
+      "alrung": [
+        "arirepizizyata",
+        "arirepizizyetAm",
+        "arirepizizyanta",
+        "arirepizizyaTAH",
+        "arirepizizyeTAm",
+        "arirepizizyaDvam",
+        "arirepizizye",
+        "arirepizizyAvahi",
+        "arirepizizyAmahi"
+      ],
+      "alrut": [
+        "rirepizizyate",
+        "rirepizizyete",
+        "rirepizizyante",
+        "rirepizizyase",
+        "rirepizizyeTe",
+        "rirepizizyaDve",
+        "rirepizizye",
+        "rirepizizyAvahe",
+        "rirepizizyAmahe"
+      ],
+      "alung": [
+        "arirepizizwa",
+        "arirepizizAtAm",
+        "arirepizizata",
+        "arirepizizWAH",
+        "arirepizizATAm",
+        "arirepiziDvam",
+        "arirepizizi",
+        "arirepizizvahi",
+        "arirepizizmahi"
+      ],
+      "alut": [
+        "rirepizitA",
+        "rirepizitArO",
+        "rirepizitAraH",
+        "rirepizitAse",
+        "rirepizitAsATe",
+        "rirepizitADve",
+        "rirepizitAhe",
+        "rirepizitAsvahe",
+        "rirepizitAsmahe"
+      ],
+      "avidhiling": [
+        "rirepizeta",
+        "rirepizeyAtAm",
+        "rirepizeran",
+        "rirepizeTAH",
+        "rirepizeyATAm",
+        "rirepizeDvam",
+        "rirepizeya",
+        "rirepizevahi",
+        "rirepizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "rirepizizIzwa",
+        "rirepizizIyAstAm",
+        "rirepizizIran",
+        "rirepizizIzWAH",
+        "rirepizizIyAsTAm",
+        "rirepizizIDvam",
+        "rirepizizIya",
+        "rirepizizIvahi",
+        "rirepizizImahi"
+      ],
+      "alang": [
+        "arirepizyata",
+        "arirepizyetAm",
+        "arirepizyanta",
+        "arirepizyaTAH",
+        "arirepizyeTAm",
+        "arirepizyaDvam",
+        "arirepizye",
+        "arirepizyAvahi",
+        "arirepizyAmahi"
+      ],
+      "alat": [
+        "rirepizyate",
+        "rirepizyete",
+        "rirepizyante",
+        "rirepizyase",
+        "rirepizyeTe",
+        "rirepizyaDve",
+        "rirepizye",
+        "rirepizyAvahe",
+        "rirepizyAmahe"
+      ],
+      "alit": [
+        "rirepizAYcakre",
+        "rirepizAmAse",
+        "rirepizAmbaBUve",
+        "rirepizAYcakrAte",
+        "rirepizAmAsAte",
+        "rirepizAmbaBUvAte",
+        "rirepizAYcakrire",
+        "rirepizAmAsire",
+        "rirepizAmbaBUvire",
+        "rirepizAYcakfze",
+        "rirepizAmAsize",
+        "rirepizAmbaBUvize",
+        "rirepizAYcakrATe",
+        "rirepizAmAsATe",
+        "rirepizAmbaBUvATe",
+        "rirepizAYcakfQve",
+        "rirepizAmAsiDve",
+        "rirepizAmbaBUviQve",
+        "rirepizAYcakre",
+        "rirepizAmAhe",
+        "rirepizAmbaBUve",
+        "rirepizAYcakfvahe",
+        "rirepizAmAsivahe",
+        "rirepizAmbaBUvivahe",
+        "rirepizAYcakfmahe",
+        "rirepizAmAsimahe",
+        "rirepizAmbaBUvimahe"
+      ],
+      "alot": [
+        "rirepizyatAm",
+        "rirepizyetAm",
+        "rirepizyantAm",
+        "rirepizyasva",
+        "rirepizyeTAm",
+        "rirepizyaDvam",
+        "rirepizyE",
+        "rirepizyAvahE",
+        "rirepizyAmahE"
+      ],
+      "alrung": [
+        "arirepizizyata",
+        "arirepizizyetAm",
+        "arirepizizyanta",
+        "arirepizizyaTAH",
+        "arirepizizyeTAm",
+        "arirepizizyaDvam",
+        "arirepizizye",
+        "arirepizizyAvahi",
+        "arirepizizyAmahi"
+      ],
+      "alrut": [
+        "rirepizizyate",
+        "rirepizizyete",
+        "rirepizizyante",
+        "rirepizizyase",
+        "rirepizizyeTe",
+        "rirepizizyaDve",
+        "rirepizizye",
+        "rirepizizyAvahe",
+        "rirepizizyAmahe"
+      ],
+      "alung": [
+        "arirepizi",
+        "arirepizizAtAm",
+        "arirepizizata",
+        "arirepizizWAH",
+        "arirepizizATAm",
+        "arirepiziDvam",
+        "arirepizizi",
+        "arirepizizvahi",
+        "arirepizizmahi"
+      ],
+      "alut": [
+        "rirepizitA",
+        "rirepizitArO",
+        "rirepizitAraH",
+        "rirepizitAse",
+        "rirepizitAsATe",
+        "rirepizitADve",
+        "rirepizitAhe",
+        "rirepizitAsvahe",
+        "rirepizitAsmahe"
+      ],
+      "avidhiling": [
+        "rirepizyeta",
+        "rirepizyeyAtAm",
+        "rirepizyeran",
+        "rirepizyeTAH",
+        "rirepizyeyATAm",
+        "rirepizyeDvam",
+        "rirepizyeya",
+        "rirepizyevahi",
+        "rirepizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "repayizIzwa",
+        "repayizIyAstAm",
+        "repayizIran",
+        "repayizIzWAH",
+        "repayizIyAsTAm",
+        "repayizIQvam",
+        "repayizIDvam",
+        "repayizIya",
+        "repayizIvahi",
+        "repayizImahi"
+      ],
+      "alang": [
+        "arepayata",
+        "arepayetAm",
+        "arepayanta",
+        "arepayaTAH",
+        "arepayeTAm",
+        "arepayaDvam",
+        "arepaye",
+        "arepayAvahi",
+        "arepayAmahi"
+      ],
+      "alat": [
+        "repayate",
+        "repayete",
+        "repayante",
+        "repayase",
+        "repayeTe",
+        "repayaDve",
+        "repaye",
+        "repayAvahe",
+        "repayAmahe"
+      ],
+      "alit": [
+        "repayAYcakre",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakrAte",
+        "repayAmAsatuH",
+        "repayAmbaBUvatuH",
+        "repayAYcakrire",
+        "repayAmAsuH",
+        "repayAmbaBUvuH",
+        "repayAYcakfze",
+        "repayAmAsiTa",
+        "repayAmbaBUviTa",
+        "repayAYcakrATe",
+        "repayAmAsaTuH",
+        "repayAmbaBUvaTuH",
+        "repayAYcakfQve",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakre",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakfvahe",
+        "repayAmAsiva",
+        "repayAmbaBUviva",
+        "repayAYcakfmahe",
+        "repayAmAsima",
+        "repayAmbaBUvima"
+      ],
+      "alot": [
+        "repayatAm",
+        "repayetAm",
+        "repayantAm",
+        "repayasva",
+        "repayeTAm",
+        "repayaDvam",
+        "repayE",
+        "repayAvahE",
+        "repayAmahE"
+      ],
+      "alrung": [
+        "arepayizyata",
+        "arepayizyetAm",
+        "arepayizyanta",
+        "arepayizyaTAH",
+        "arepayizyeTAm",
+        "arepayizyaDvam",
+        "arepayizye",
+        "arepayizyAvahi",
+        "arepayizyAmahi"
+      ],
+      "alrut": [
+        "repayizyate",
+        "repayizyete",
+        "repayizyante",
+        "repayizyase",
+        "repayizyeTe",
+        "repayizyaDve",
+        "repayizye",
+        "repayizyAvahe",
+        "repayizyAmahe"
+      ],
+      "alung": [
+        "arirepata",
+        "arirepetAm",
+        "arirepanta",
+        "arirepaTAH",
+        "arirepeTAm",
+        "arirepaDvam",
+        "arirepe",
+        "arirepAvahi",
+        "arirepAmahi"
+      ],
+      "alut": [
+        "repayitA",
+        "repayitArO",
+        "repayitAraH",
+        "repayitAse",
+        "repayitAsATe",
+        "repayitADve",
+        "repayitAhe",
+        "repayitAsvahe",
+        "repayitAsmahe"
+      ],
+      "avidhiling": [
+        "repayeta",
+        "repayeyAtAm",
+        "repayeran",
+        "repayeTAH",
+        "repayeyATAm",
+        "repayeDvam",
+        "repayeya",
+        "repayevahi",
+        "repayemahi"
+      ],
+      "pashirling": [
+        "repyAt",
+        "repyAd",
+        "repyAstAm",
+        "repyAsuH",
+        "repyAH",
+        "repyAstam",
+        "repyAsta",
+        "repyAsam",
+        "repyAsva",
+        "repyAsma"
+      ],
+      "plang": [
+        "arepayat",
+        "arepayad",
+        "arepayatAm",
+        "arepayan",
+        "arepayaH",
+        "arepayatam",
+        "arepayata",
+        "arepayam",
+        "arepayAva",
+        "arepayAma"
+      ],
+      "plat": [
+        "repayati",
+        "repayataH",
+        "repayanti",
+        "repayasi",
+        "repayaTaH",
+        "repayaTa",
+        "repayAmi",
+        "repayAvaH",
+        "repayAmaH"
+      ],
+      "plit": [
+        "repayAYcakAra",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakratuH",
+        "repayAmAsatuH",
+        "repayAmbaBUvatuH",
+        "repayAYcakruH",
+        "repayAmAsuH",
+        "repayAmbaBUvuH",
+        "repayAYcakarTa",
+        "repayAmAsiTa",
+        "repayAmbaBUviTa",
+        "repayAYcakraTuH",
+        "repayAmAsaTuH",
+        "repayAmbaBUvaTuH",
+        "repayAYcakra",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakara",
+        "repayAYcakAra",
+        "repayAmAsa",
+        "repayAmbaBUva",
+        "repayAYcakfva",
+        "repayAmAsiva",
+        "repayAmbaBUviva",
+        "repayAYcakfma",
+        "repayAmAsima",
+        "repayAmbaBUvima"
+      ],
+      "plot": [
+        "repayatAt",
+        "repayatAd",
+        "repayatu",
+        "repayatAm",
+        "repayantu",
+        "repaya",
+        "repayatAt",
+        "repayatAd",
+        "repayatam",
+        "repayata",
+        "repayARi",
+        "repayAva",
+        "repayAma"
+      ],
+      "plrung": [
+        "arepayizyat",
+        "arepayizyad",
+        "arepayizyatAm",
+        "arepayizyan",
+        "arepayizyaH",
+        "arepayizyatam",
+        "arepayizyata",
+        "arepayizyam",
+        "arepayizyAva",
+        "arepayizyAma"
+      ],
+      "plrut": [
+        "repayizyati",
+        "repayizyataH",
+        "repayizyanti",
+        "repayizyasi",
+        "repayizyaTaH",
+        "repayizyaTa",
+        "repayizyAmi",
+        "repayizyAvaH",
+        "repayizyAmaH"
+      ],
+      "plung": [
+        "arirepat",
+        "arirepad",
+        "arirepatAm",
+        "arirepan",
+        "arirepaH",
+        "arirepatam",
+        "arirepata",
+        "arirepam",
+        "arirepAva",
+        "arirepAma"
+      ],
+      "plut": [
+        "repayitA",
+        "repayitArO",
+        "repayitAraH",
+        "repayitAsi",
+        "repayitAsTaH",
+        "repayitAsTa",
+        "repayitAsmi",
+        "repayitAsvaH",
+        "repayitAsmaH"
+      ],
+      "pvidhiling": [
+        "repayet",
+        "repayed",
+        "repayetAm",
+        "repayeyuH",
+        "repayeH",
+        "repayetam",
+        "repayeta",
+        "repayeyam",
+        "repayeva",
+        "repayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "repayizIzwa",
+        "repizIzwa",
+        "repayizIyAstAm",
+        "repizIyAstAm",
+        "repayizIran",
+        "repizIran",
+        "repayizIzWAH",
+        "repizIzWAH",
+        "repayizIyAsTAm",
+        "repizIyAsTAm",
+        "repayizIQvam",
+        "repayizIDvam",
+        "repizIDvam",
+        "repayizIya",
+        "repizIya",
+        "repayizIvahi",
+        "repizIvahi",
+        "repayizImahi",
+        "repizImahi"
+      ],
+      "alang": [
+        "arepyata",
+        "arepyetAm",
+        "arepyanta",
+        "arepyaTAH",
+        "arepyeTAm",
+        "arepyaDvam",
+        "arepye",
+        "arepyAvahi",
+        "arepyAmahi"
+      ],
+      "alat": [
+        "repyate",
+        "repyete",
+        "repyante",
+        "repyase",
+        "repyeTe",
+        "repyaDve",
+        "repye",
+        "repyAvahe",
+        "repyAmahe"
+      ],
+      "alit": [
+        "repayAYcakre",
+        "repayAmAse",
+        "repayAmbaBUve",
+        "repayAYcakrAte",
+        "repayAmAsAte",
+        "repayAmbaBUvAte",
+        "repayAYcakrire",
+        "repayAmAsire",
+        "repayAmbaBUvire",
+        "repayAYcakfze",
+        "repayAmAsize",
+        "repayAmbaBUvize",
+        "repayAYcakrATe",
+        "repayAmAsATe",
+        "repayAmbaBUvATe",
+        "repayAYcakfQve",
+        "repayAmAsiDve",
+        "repayAmbaBUviQve",
+        "repayAYcakre",
+        "repayAmAhe",
+        "repayAmbaBUve",
+        "repayAYcakfvahe",
+        "repayAmAsivahe",
+        "repayAmbaBUvivahe",
+        "repayAYcakfmahe",
+        "repayAmAsimahe",
+        "repayAmbaBUvimahe"
+      ],
+      "alot": [
+        "repyatAm",
+        "repyetAm",
+        "repyantAm",
+        "repyasva",
+        "repyeTAm",
+        "repyaDvam",
+        "repyE",
+        "repyAvahE",
+        "repyAmahE"
+      ],
+      "alrung": [
+        "arepayizyata",
+        "arepizyata",
+        "arepayizyetAm",
+        "arepizyetAm",
+        "arepayizyanta",
+        "arepizyanta",
+        "arepayizyaTAH",
+        "arepizyaTAH",
+        "arepayizyeTAm",
+        "arepizyeTAm",
+        "arepayizyaDvam",
+        "arepizyaDvam",
+        "arepayizye",
+        "arepizye",
+        "arepayizyAvahi",
+        "arepizyAvahi",
+        "arepayizyAmahi",
+        "arepizyAmahi"
+      ],
+      "alrut": [
+        "repayizyate",
+        "repizyate",
+        "repayizyete",
+        "repizyete",
+        "repayizyante",
+        "repizyante",
+        "repayizyase",
+        "repizyase",
+        "repayizyeTe",
+        "repizyeTe",
+        "repayizyaDve",
+        "repizyaDve",
+        "repayizye",
+        "repizye",
+        "repayizyAvahe",
+        "repizyAvahe",
+        "repayizyAmahe",
+        "repizyAmahe"
+      ],
+      "alung": [
+        "arepi",
+        "arepayizAtAm",
+        "arepizAtAm",
+        "arepayizata",
+        "arepizata",
+        "arepayizWAH",
+        "arepizWAH",
+        "arepayizATAm",
+        "arepizATAm",
+        "arepayiQvam",
+        "arepayiDvam",
+        "arepiDvam",
+        "arepayizi",
+        "arepizi",
+        "arepayizvahi",
+        "arepizvahi",
+        "arepayizmahi",
+        "arepizmahi"
+      ],
+      "alut": [
+        "repayitA",
+        "repitA",
+        "repayitArO",
+        "repitArO",
+        "repayitAraH",
+        "repitAraH",
+        "repayitAse",
+        "repitAse",
+        "repayitAsATe",
+        "repitAsATe",
+        "repayitADve",
+        "repitADve",
+        "repayitAhe",
+        "repitAhe",
+        "repayitAsvahe",
+        "repitAsvahe",
+        "repayitAsmahe",
+        "repitAsmahe"
+      ],
+      "avidhiling": [
+        "repyeta",
+        "repyeyAtAm",
+        "repyeran",
+        "repyeTAH",
+        "repyeyATAm",
+        "repyeDvam",
+        "repyeya",
+        "repyevahi",
+        "repyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "rerepizIzwa",
+        "rerepizIyAstAm",
+        "rerepizIran",
+        "rerepizIzWAH",
+        "rerepizIyAsTAm",
+        "rerepizIDvam",
+        "rerepizIya",
+        "rerepizIvahi",
+        "rerepizImahi"
+      ],
+      "alang": [
+        "arerepyata",
+        "arerepyetAm",
+        "arerepyanta",
+        "arerepyaTAH",
+        "arerepyeTAm",
+        "arerepyaDvam",
+        "arerepye",
+        "arerepyAvahi",
+        "arerepyAmahi"
+      ],
+      "alat": [
+        "rerepyate",
+        "rerepyete",
+        "rerepyante",
+        "rerepyase",
+        "rerepyeTe",
+        "rerepyaDve",
+        "rerepye",
+        "rerepyAvahe",
+        "rerepyAmahe"
+      ],
+      "alit": [
+        "rerepAYcakre",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakrAte",
+        "rerepAmAsatuH",
+        "rerepAmbaBUvatuH",
+        "rerepAYcakrire",
+        "rerepAmAsuH",
+        "rerepAmbaBUvuH",
+        "rerepAYcakfze",
+        "rerepAmAsiTa",
+        "rerepAmbaBUviTa",
+        "rerepAYcakrATe",
+        "rerepAmAsaTuH",
+        "rerepAmbaBUvaTuH",
+        "rerepAYcakfQve",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakre",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakfvahe",
+        "rerepAmAsiva",
+        "rerepAmbaBUviva",
+        "rerepAYcakfmahe",
+        "rerepAmAsima",
+        "rerepAmbaBUvima"
+      ],
+      "alot": [
+        "rerepyatAm",
+        "rerepyetAm",
+        "rerepyantAm",
+        "rerepyasva",
+        "rerepyeTAm",
+        "rerepyaDvam",
+        "rerepyE",
+        "rerepyAvahE",
+        "rerepyAmahE"
+      ],
+      "alrung": [
+        "arerepizyata",
+        "arerepizyetAm",
+        "arerepizyanta",
+        "arerepizyaTAH",
+        "arerepizyeTAm",
+        "arerepizyaDvam",
+        "arerepizye",
+        "arerepizyAvahi",
+        "arerepizyAmahi"
+      ],
+      "alrut": [
+        "rerepizyate",
+        "rerepizyete",
+        "rerepizyante",
+        "rerepizyase",
+        "rerepizyeTe",
+        "rerepizyaDve",
+        "rerepizye",
+        "rerepizyAvahe",
+        "rerepizyAmahe"
+      ],
+      "alung": [
+        "arerepizwa",
+        "arerepizAtAm",
+        "arerepizata",
+        "arerepizWAH",
+        "arerepizATAm",
+        "arerepiDvam",
+        "arerepizi",
+        "arerepizvahi",
+        "arerepizmahi"
+      ],
+      "alut": [
+        "rerepitA",
+        "rerepitArO",
+        "rerepitAraH",
+        "rerepitAse",
+        "rerepitAsATe",
+        "rerepitADve",
+        "rerepitAhe",
+        "rerepitAsvahe",
+        "rerepitAsmahe"
+      ],
+      "avidhiling": [
+        "rerepyeta",
+        "rerepyeyAtAm",
+        "rerepyeran",
+        "rerepyeTAH",
+        "rerepyeyATAm",
+        "rerepyeDvam",
+        "rerepyeya",
+        "rerepyevahi",
+        "rerepyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "rerepizIzwa",
+        "rerepizIyAstAm",
+        "rerepizIran",
+        "rerepizIzWAH",
+        "rerepizIyAsTAm",
+        "rerepizIDvam",
+        "rerepizIya",
+        "rerepizIvahi",
+        "rerepizImahi"
+      ],
+      "alang": [
+        "arerepyata",
+        "arerepyetAm",
+        "arerepyanta",
+        "arerepyaTAH",
+        "arerepyeTAm",
+        "arerepyaDvam",
+        "arerepye",
+        "arerepyAvahi",
+        "arerepyAmahi"
+      ],
+      "alat": [
+        "rerepyate",
+        "rerepyete",
+        "rerepyante",
+        "rerepyase",
+        "rerepyeTe",
+        "rerepyaDve",
+        "rerepye",
+        "rerepyAvahe",
+        "rerepyAmahe"
+      ],
+      "alit": [
+        "rerepAYcakre",
+        "rerepAmAse",
+        "rerepAmbaBUve",
+        "rerepAYcakrAte",
+        "rerepAmAsAte",
+        "rerepAmbaBUvAte",
+        "rerepAYcakrire",
+        "rerepAmAsire",
+        "rerepAmbaBUvire",
+        "rerepAYcakfze",
+        "rerepAmAsize",
+        "rerepAmbaBUvize",
+        "rerepAYcakrATe",
+        "rerepAmAsATe",
+        "rerepAmbaBUvATe",
+        "rerepAYcakfQve",
+        "rerepAmAsiDve",
+        "rerepAmbaBUviQve",
+        "rerepAYcakre",
+        "rerepAmAhe",
+        "rerepAmbaBUve",
+        "rerepAYcakfvahe",
+        "rerepAmAsivahe",
+        "rerepAmbaBUvivahe",
+        "rerepAYcakfmahe",
+        "rerepAmAsimahe",
+        "rerepAmbaBUvimahe"
+      ],
+      "alot": [
+        "rerepyatAm",
+        "rerepyetAm",
+        "rerepyantAm",
+        "rerepyasva",
+        "rerepyeTAm",
+        "rerepyaDvam",
+        "rerepyE",
+        "rerepyAvahE",
+        "rerepyAmahE"
+      ],
+      "alrung": [
+        "arerepizyata",
+        "arerepizyetAm",
+        "arerepizyanta",
+        "arerepizyaTAH",
+        "arerepizyeTAm",
+        "arerepizyaDvam",
+        "arerepizye",
+        "arerepizyAvahi",
+        "arerepizyAmahi"
+      ],
+      "alrut": [
+        "rerepizyate",
+        "rerepizyete",
+        "rerepizyante",
+        "rerepizyase",
+        "rerepizyeTe",
+        "rerepizyaDve",
+        "rerepizye",
+        "rerepizyAvahe",
+        "rerepizyAmahe"
+      ],
+      "alung": [
+        "arerepi",
+        "arerepizAtAm",
+        "arerepizata",
+        "arerepizWAH",
+        "arerepizATAm",
+        "arerepiDvam",
+        "arerepizi",
+        "arerepizvahi",
+        "arerepizmahi"
+      ],
+      "alut": [
+        "rerepitA",
+        "rerepitArO",
+        "rerepitAraH",
+        "rerepitAse",
+        "rerepitAsATe",
+        "rerepitADve",
+        "rerepitAhe",
+        "rerepitAsvahe",
+        "rerepitAsmahe"
+      ],
+      "avidhiling": [
+        "rerepyeta",
+        "rerepyeyAtAm",
+        "rerepyeran",
+        "rerepyeTAH",
+        "rerepyeyATAm",
+        "rerepyeDvam",
+        "rerepyeya",
+        "rerepyevahi",
+        "rerepyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "rerepyAt",
+        "rerepyAd",
+        "rerepyAstAm",
+        "rerepyAsuH",
+        "rerepyAH",
+        "rerepyAstam",
+        "rerepyAsta",
+        "rerepyAsam",
+        "rerepyAsva",
+        "rerepyAsma"
+      ],
+      "plang": [
+        "arerepIt",
+        "arerepId",
+        "arerep",
+        "arereb",
+        "arereptAm",
+        "arerepuH",
+        "arerepIH",
+        "arerep",
+        "arereb",
+        "arereptam",
+        "arerepta",
+        "arerepam",
+        "arerepva",
+        "arerepma"
+      ],
+      "plat": [
+        "rerepIti",
+        "rerepti",
+        "rereptaH",
+        "rerepati",
+        "rerepIzi",
+        "rerepsi",
+        "rerepTaH",
+        "rerepTa",
+        "rerepImi",
+        "rerepmi",
+        "rerepvaH",
+        "rerepmaH"
+      ],
+      "plit": [
+        "rerepAYcakAra",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakratuH",
+        "rerepAmAsatuH",
+        "rerepAmbaBUvatuH",
+        "rerepAYcakruH",
+        "rerepAmAsuH",
+        "rerepAmbaBUvuH",
+        "rerepAYcakarTa",
+        "rerepAmAsiTa",
+        "rerepAmbaBUviTa",
+        "rerepAYcakraTuH",
+        "rerepAmAsaTuH",
+        "rerepAmbaBUvaTuH",
+        "rerepAYcakra",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakara",
+        "rerepAYcakAra",
+        "rerepAmAsa",
+        "rerepAmbaBUva",
+        "rerepAYcakfva",
+        "rerepAmAsiva",
+        "rerepAmbaBUviva",
+        "rerepAYcakfma",
+        "rerepAmAsima",
+        "rerepAmbaBUvima"
+      ],
+      "plot": [
+        "rerepItu",
+        "rereptAt",
+        "rereptAd",
+        "rereptu",
+        "rereptAm",
+        "rerepatu",
+        "rereptAt",
+        "rereptAd",
+        "rerebDi",
+        "rereptam",
+        "rerepta",
+        "rerepARi",
+        "rerepAva",
+        "rerepAma"
+      ],
+      "plrung": [
+        "arerepizyat",
+        "arerepizyad",
+        "arerepizyatAm",
+        "arerepizyan",
+        "arerepizyaH",
+        "arerepizyatam",
+        "arerepizyata",
+        "arerepizyam",
+        "arerepizyAva",
+        "arerepizyAma"
+      ],
+      "plrut": [
+        "rerepizyati",
+        "rerepizyataH",
+        "rerepizyanti",
+        "rerepizyasi",
+        "rerepizyaTaH",
+        "rerepizyaTa",
+        "rerepizyAmi",
+        "rerepizyAvaH",
+        "rerepizyAmaH"
+      ],
+      "plung": [
+        "arerepIt",
+        "arerepId",
+        "arerepizwAm",
+        "arerepizuH",
+        "arerepIH",
+        "arerepizwam",
+        "arerepizwa",
+        "arerepizam",
+        "arerepizva",
+        "arerepizma"
+      ],
+      "plut": [
+        "rerepitA",
+        "rerepitArO",
+        "rerepitAraH",
+        "rerepitAsi",
+        "rerepitAsTaH",
+        "rerepitAsTa",
+        "rerepitAsmi",
+        "rerepitAsvaH",
+        "rerepitAsmaH"
+      ],
+      "pvidhiling": [
+        "rerepyAt",
+        "rerepyAd",
+        "rerepyAtAm",
+        "rerepyuH",
+        "rerepyAH",
+        "rerepyAtam",
+        "rerepyAta",
+        "rerepyAm",
+        "rerepyAva",
+        "rerepyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "rerepizIzwa",
+        "rerepizIyAstAm",
+        "rerepizIran",
+        "rerepizIzWAH",
+        "rerepizIyAsTAm",
+        "rerepizIDvam",
+        "rerepizIya",
+        "rerepizIvahi",
+        "rerepizImahi"
+      ],
+      "alang": [
+        "arerepyata",
+        "arerepyetAm",
+        "arerepyanta",
+        "arerepyaTAH",
+        "arerepyeTAm",
+        "arerepyaDvam",
+        "arerepye",
+        "arerepyAvahi",
+        "arerepyAmahi"
+      ],
+      "alat": [
+        "rerepyate",
+        "rerepyete",
+        "rerepyante",
+        "rerepyase",
+        "rerepyeTe",
+        "rerepyaDve",
+        "rerepye",
+        "rerepyAvahe",
+        "rerepyAmahe"
+      ],
+      "alit": [
+        "rerepAYcakre",
+        "rerepAmAse",
+        "rerepAmbaBUve",
+        "rerepAYcakrAte",
+        "rerepAmAsAte",
+        "rerepAmbaBUvAte",
+        "rerepAYcakrire",
+        "rerepAmAsire",
+        "rerepAmbaBUvire",
+        "rerepAYcakfze",
+        "rerepAmAsize",
+        "rerepAmbaBUvize",
+        "rerepAYcakrATe",
+        "rerepAmAsATe",
+        "rerepAmbaBUvATe",
+        "rerepAYcakfQve",
+        "rerepAmAsiDve",
+        "rerepAmbaBUviQve",
+        "rerepAYcakre",
+        "rerepAmAhe",
+        "rerepAmbaBUve",
+        "rerepAYcakfvahe",
+        "rerepAmAsivahe",
+        "rerepAmbaBUvivahe",
+        "rerepAYcakfmahe",
+        "rerepAmAsimahe",
+        "rerepAmbaBUvimahe"
+      ],
+      "alot": [
+        "rerepyatAm",
+        "rerepyetAm",
+        "rerepyantAm",
+        "rerepyasva",
+        "rerepyeTAm",
+        "rerepyaDvam",
+        "rerepyE",
+        "rerepyAvahE",
+        "rerepyAmahE"
+      ],
+      "alrung": [
+        "arerepizyata",
+        "arerepizyetAm",
+        "arerepizyanta",
+        "arerepizyaTAH",
+        "arerepizyeTAm",
+        "arerepizyaDvam",
+        "arerepizye",
+        "arerepizyAvahi",
+        "arerepizyAmahi"
+      ],
+      "alrut": [
+        "rerepizyate",
+        "rerepizyete",
+        "rerepizyante",
+        "rerepizyase",
+        "rerepizyeTe",
+        "rerepizyaDve",
+        "rerepizye",
+        "rerepizyAvahe",
+        "rerepizyAmahe"
+      ],
+      "alung": [
+        "arerepi",
+        "arerepizAtAm",
+        "arerepizata",
+        "arerepizWAH",
+        "arerepizATAm",
+        "arerepiDvam",
+        "arerepizi",
+        "arerepizvahi",
+        "arerepizmahi"
+      ],
+      "alut": [
+        "rerepitA",
+        "rerepitArO",
+        "rerepitAraH",
+        "rerepitAse",
+        "rerepitAsATe",
+        "rerepitADve",
+        "rerepitAhe",
+        "rerepitAsvahe",
+        "rerepitAsmahe"
+      ],
+      "avidhiling": [
+        "rerepyeta",
+        "rerepyeyAtAm",
+        "rerepyeran",
+        "rerepyeTAH",
+        "rerepyeyATAm",
+        "rerepyeDvam",
+        "rerepyeya",
+        "rerepyevahi",
+        "rerepyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "repA",
+          "m": "",
+          "f": "repA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "repa",
+          "m": "repaH",
+          "f": "repA",
+          "n": "repam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "repaRIya",
+          "m": "repaRIyaH",
+          "f": "repaRIyA",
+          "n": "repaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "repita",
+          "m": "repitaH",
+          "f": "repitA",
+          "n": "repitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "repitavat",
+          "m": "repitavAn",
+          "f": "repitavatI",
+          "n": "repitavat/repitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "repti",
+          "m": "",
+          "f": "reptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "repitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rirepvas",
+          "m": "rirepvAn",
+          "f": "rirepuzI",
+          "n": "rirepvat/rirepvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "repa",
+          "m": "repaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "repamARa",
+          "m": "repamARaH",
+          "f": "repamARA",
+          "n": "repamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "repam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "repya",
+          "m": "repyaH",
+          "f": "repyA",
+          "n": "repyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "repaka",
+          "m": "repakaH",
+          "f": "repikA",
+          "n": "repakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "repitavya",
+          "m": "repitavyaH",
+          "f": "repitavyA",
+          "n": "repitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "repitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "repitf",
+          "m": "repitA",
+          "f": "repitrI",
+          "n": "repitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "repyamARa",
+          "m": "repyamARaH",
+          "f": "repyamARA",
+          "n": "repyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "repaRa",
+          "m": "",
+          "f": "",
+          "n": "repaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "repaka",
+          "m": "repakaH",
+          "f": "repikA",
+          "n": "repakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "repamARa",
+          "m": "repamARaH",
+          "f": "repamARA",
+          "n": "repamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "repizyamARa",
+          "m": "repizyamARaH",
+          "f": "repizyamARA",
+          "n": "repizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "repizyamARa",
+          "m": "repizyamARaH",
+          "f": "repizyamARA",
+          "n": "repizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "rirepizA",
+          "m": "",
+          "f": "rirepizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rirepiza",
+          "m": "rirepizaH",
+          "f": "rirepizA",
+          "n": "rirepizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rirepizaRIya",
+          "m": "rirepizaRIyaH",
+          "f": "rirepizaRIyA",
+          "n": "rirepizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "rirepizu",
+          "m": "rirepizuH",
+          "f": "rirepizuH",
+          "n": "rirepizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rirepizita",
+          "m": "rirepizitaH",
+          "f": "rirepizitA",
+          "n": "rirepizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rirepizitavat",
+          "m": "rirepizitavAn",
+          "f": "rirepizitavatI",
+          "n": "rirepizitavat/rirepizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rirepizwi",
+          "m": "",
+          "f": "rirepizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rirepizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rirepizAmbaBUvas",
+          "m": "rirepizAmbaBUvAn",
+          "f": "rirepizAmbaBUzI",
+          "n": "rirepizAmbaBUvat/rirepizAmbaBUvad"
+        },
+        {
+          "base": "rirepizAmAsivas",
+          "m": "rirepizAmAsivAn",
+          "f": "rirepizAmAsyuzI",
+          "n": "rirepizAmAsivat/rirepizAmAsivad"
+        },
+        {
+          "base": "rirepizAYcakfvas",
+          "m": "rirepizAYcakfvAn",
+          "f": "rirepizAYcakruzI",
+          "n": "rirepizAYcakfvat/rirepizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rirepiza",
+          "m": "rirepizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rirepizamARa",
+          "m": "rirepizamARaH",
+          "f": "rirepizamARA",
+          "n": "rirepizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rirepizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rirepizaka",
+          "m": "rirepizakaH",
+          "f": "rirepizikA",
+          "n": "rirepizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rirepizitavya",
+          "m": "rirepizitavyaH",
+          "f": "rirepizitavyA",
+          "n": "rirepizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rirepizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rirepizitf",
+          "m": "rirepizitA",
+          "f": "rirepizitrI",
+          "n": "rirepizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rirepizyamARa",
+          "m": "rirepizyamARaH",
+          "f": "rirepizyamARA",
+          "n": "rirepizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "rirepizya",
+          "m": "rirepizyaH",
+          "f": "rirepizyA",
+          "n": "rirepizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarirepizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rirepizaRa",
+          "m": "",
+          "f": "",
+          "n": "rirepizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rirepizaka",
+          "m": "rirepizakaH",
+          "f": "rirepizikA",
+          "n": "rirepizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "rirepizamARa",
+          "m": "rirepizamARaH",
+          "f": "rirepizamARA",
+          "n": "rirepizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rirepizizyamARa",
+          "m": "rirepizizyamARaH",
+          "f": "rirepizizyamARA",
+          "n": "rirepizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "rirepizizyamARa",
+          "m": "rirepizizyamARaH",
+          "f": "rirepizizyamARA",
+          "n": "rirepizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "repa",
+          "m": "repaH",
+          "f": "repA",
+          "n": "repam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "repaRIya",
+          "m": "repaRIyaH",
+          "f": "repaRIyA",
+          "n": "repaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "repita",
+          "m": "repitaH",
+          "f": "repitA",
+          "n": "repitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "repitavat",
+          "m": "repitavAn",
+          "f": "repitavatI",
+          "n": "repitavat/repitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "repti",
+          "m": "",
+          "f": "reptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "repayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "repayAmbaBUvas",
+          "m": "repayAmbaBUvAn",
+          "f": "repayAmbaBUzI",
+          "n": "repayAmbaBUvat/repayAmbaBUvad"
+        },
+        {
+          "base": "repayAmAsivas",
+          "m": "repayAmAsivAn",
+          "f": "repayAmAsyuzI",
+          "n": "repayAmAsivat/repayAmAsivad"
+        },
+        {
+          "base": "repayAYcakfvas",
+          "m": "repayAYcakfvAn",
+          "f": "repayAYcakruzI",
+          "n": "repayAYcakfvat/repayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "repayamARa",
+          "m": "repayamARaH",
+          "f": "repayamARA",
+          "n": "repayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "repam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "repaka",
+          "m": "repakaH",
+          "f": "repikA",
+          "n": "repakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "repayitavya",
+          "m": "repayitavyaH",
+          "f": "repayitavyA",
+          "n": "repayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "repayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "repayitf",
+          "m": "repayitA",
+          "f": "repayitrI",
+          "n": "repayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "repyamARa",
+          "m": "repyamARaH",
+          "f": "repyamARA",
+          "n": "repyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "repya",
+          "m": "repyaH",
+          "f": "repyA",
+          "n": "repyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "repaRa",
+          "m": "",
+          "f": "",
+          "n": "repaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "repaka",
+          "m": "repakaH",
+          "f": "repikA",
+          "n": "repakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "repayat",
+          "m": "repayan",
+          "f": "repayantI",
+          "n": "repayat/repayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "repayamARa",
+          "m": "repayamARaH",
+          "f": "repayamARA",
+          "n": "repayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "repizyamARa",
+          "m": "repizyamARaH",
+          "f": "repizyamARA",
+          "n": "repizyamARam"
+        },
+        {
+          "base": "repayizyamARa",
+          "m": "repayizyamARaH",
+          "f": "repayizyamARA",
+          "n": "repayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "repayizyat",
+          "m": "repayizyan",
+          "f": "repayizyatI/repayizyantI",
+          "n": "repayizyat/repayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "repayizyamARa",
+          "m": "repayizyamARaH",
+          "f": "repayizyamARA",
+          "n": "repayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "rerepA",
+          "m": "",
+          "f": "rerepA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rerepa",
+          "m": "rerepaH",
+          "f": "rerepA",
+          "n": "rerepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rerepaRIya",
+          "m": "rerepaRIyaH",
+          "f": "rerepaRIyA",
+          "n": "rerepaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rerepita",
+          "m": "rerepitaH",
+          "f": "rerepitA",
+          "n": "rerepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rerepitavat",
+          "m": "rerepitavAn",
+          "f": "rerepitavatI",
+          "n": "rerepitavat/rerepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rerepti",
+          "m": "",
+          "f": "rereptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rerepitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rerepAmbaBUvas",
+          "m": "rerepAmbaBUvAn",
+          "f": "rerepAmbaBUzI",
+          "n": "rerepAmbaBUvat/rerepAmbaBUvad"
+        },
+        {
+          "base": "rerepAmAsivas",
+          "m": "rerepAmAsivAn",
+          "f": "rerepAmAsyuzI",
+          "n": "rerepAmAsivat/rerepAmAsivad"
+        },
+        {
+          "base": "rerepAYcakfvas",
+          "m": "rerepAYcakfvAn",
+          "f": "rerepAYcakruzI",
+          "n": "rerepAYcakfvat/rerepAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rerepa",
+          "m": "rerepaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rerepyamARa",
+          "m": "rerepyamARaH",
+          "f": "rerepyamARA",
+          "n": "rerepyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rerepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rerepaka",
+          "m": "rerepakaH",
+          "f": "rerepikA",
+          "n": "rerepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rerepitavya",
+          "m": "rerepitavyaH",
+          "f": "rerepitavyA",
+          "n": "rerepitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rerepitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rerepitf",
+          "m": "rerepitA",
+          "f": "rerepitrI",
+          "n": "rerepitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rerepyamARa",
+          "m": "rerepyamARaH",
+          "f": "rerepyamARA",
+          "n": "rerepyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "rerepya",
+          "m": "rerepyaH",
+          "f": "rerepyA",
+          "n": "rerepyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarerepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rerepaRa",
+          "m": "",
+          "f": "",
+          "n": "rerepaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rerepaka",
+          "m": "rerepakaH",
+          "f": "rerepikA",
+          "n": "rerepakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "rerepyamARa",
+          "m": "rerepyamARaH",
+          "f": "rerepyamARA",
+          "n": "rerepyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rerepizyamARa",
+          "m": "rerepizyamARaH",
+          "f": "rerepizyamARA",
+          "n": "rerepizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "rerepizyamARa",
+          "m": "rerepizyamARaH",
+          "f": "rerepizyamARA",
+          "n": "rerepizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "rerepA",
+          "m": "",
+          "f": "rerepA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "rerepa",
+          "m": "rerepaH",
+          "f": "rerepA",
+          "n": "rerepam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "rerepaRIya",
+          "m": "rerepaRIyaH",
+          "f": "rerepaRIyA",
+          "n": "rerepaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "rerepita",
+          "m": "rerepitaH",
+          "f": "rerepitA",
+          "n": "rerepitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "rerepitavat",
+          "m": "rerepitavAn",
+          "f": "rerepitavatI",
+          "n": "rerepitavat/rerepitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "rerepti",
+          "m": "",
+          "f": "rereptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "rerepitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "rerepAmbaBUvas",
+          "m": "rerepAmbaBUvAn",
+          "f": "rerepAmbaBUzI",
+          "n": "rerepAmbaBUvat/rerepAmbaBUvad"
+        },
+        {
+          "base": "rerepAmAsivas",
+          "m": "rerepAmAsivAn",
+          "f": "rerepAmAsyuzI",
+          "n": "rerepAmAsivat/rerepAmAsivad"
+        },
+        {
+          "base": "rerepAYcakfvas",
+          "m": "rerepAYcakfvAn",
+          "f": "rerepAYcakruzI",
+          "n": "rerepAYcakfvat/rerepAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "rerepa",
+          "m": "rerepaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "rerepARa",
+          "m": "rerepARaH",
+          "f": "rerepARA",
+          "n": "rerepARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "rerepam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "rerepaka",
+          "m": "rerepakaH",
+          "f": "rerepikA",
+          "n": "rerepakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "rerepitavya",
+          "m": "rerepitavyaH",
+          "f": "rerepitavyA",
+          "n": "rerepitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "rerepitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "rerepitf",
+          "m": "rerepitA",
+          "f": "rerepitrI",
+          "n": "rerepitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "rerepyamARa",
+          "m": "rerepyamARaH",
+          "f": "rerepyamARA",
+          "n": "rerepyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prarerepya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "rerepaRa",
+          "m": "",
+          "f": "",
+          "n": "rerepaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "rerepaka",
+          "m": "rerepakaH",
+          "f": "rerepikA",
+          "n": "rerepakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "rerepat",
+          "m": "rerepat/rerepad",
+          "f": "rerepatI",
+          "n": "rerepat/rerepad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "rerepizyamARa",
+          "m": "rerepizyamARaH",
+          "f": "rerepizyamARA",
+          "n": "rerepizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "rerepizyat",
+          "m": "rerepizyan",
+          "f": "rerepizyatI/rerepizyantI",
+          "n": "rerepizyat/rerepizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "rep",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

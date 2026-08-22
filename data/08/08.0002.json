@@ -1,0 +1,7638 @@
+{
+  "id": "08.0002",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "zaRu~"
+    },
+    {
+      "name": "arTaH",
+      "value": "dAne"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to give, to donate"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "denA, dAna karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "RopadeSoyam . ' nAntoyam . zakArastu lAkzaRikaH . tena yaNluki saMsanti saMsantaH ityAdO anusvAra - parasavarRO ' iti tattvaboDinI . ' dAne sanoti sanute samBaktO tu sanediti ' (Slo. 128) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "tanAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1464"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1464"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2547",
+      "ext_link": "/sutraani/sk2547?scroll=sutra-commentary-kaumudi-region&highlight=zaRau"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "672",
+      "ext_link": "/sutraani/lsk672?scroll=sutra-commentary-laghukaumudi-region&highlight=zaRau"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "sanizIzwa",
+        "sanizIyAstAm",
+        "sanizIran",
+        "sanizIzWAH",
+        "sanizIyAsTAm",
+        "sanizIDvam",
+        "sanizIya",
+        "sanizIvahi",
+        "sanizImahi"
+      ],
+      "alang": [
+        "asanuta",
+        "asanvAtAm",
+        "asanvata",
+        "asanuTAH",
+        "asanvATAm",
+        "asanuDvam",
+        "asanvi",
+        "asanuvahi",
+        "asanvahi",
+        "asanumahi",
+        "asanmahi"
+      ],
+      "alat": [
+        "sanute",
+        "sanvAte",
+        "sanvate",
+        "sanuze",
+        "sanvATe",
+        "sanuDve",
+        "sanve",
+        "sanuvahe",
+        "sanvahe",
+        "sanumahe",
+        "sanmahe"
+      ],
+      "alit": [
+        "sene",
+        "senAte",
+        "senire",
+        "senize",
+        "senATe",
+        "seniDve",
+        "sene",
+        "senivahe",
+        "senimahe"
+      ],
+      "alot": [
+        "sanutAm",
+        "sanvAtAm",
+        "sanvatAm",
+        "sanuzva",
+        "sanvATAm",
+        "sanuDvam",
+        "sanavE",
+        "sanavAvahE",
+        "sanavAmahE"
+      ],
+      "alrung": [
+        "asanizyata",
+        "asanizyetAm",
+        "asanizyanta",
+        "asanizyaTAH",
+        "asanizyeTAm",
+        "asanizyaDvam",
+        "asanizye",
+        "asanizyAvahi",
+        "asanizyAmahi"
+      ],
+      "alrut": [
+        "sanizyate",
+        "sanizyete",
+        "sanizyante",
+        "sanizyase",
+        "sanizyeTe",
+        "sanizyaDve",
+        "sanizye",
+        "sanizyAvahe",
+        "sanizyAmahe"
+      ],
+      "alung": [
+        "asanizwa",
+        "asAta",
+        "asanizAtAm",
+        "asanizata",
+        "asanizWAH",
+        "asATAH",
+        "asanizATAm",
+        "asaniDvam",
+        "asanizi",
+        "asanizvahi",
+        "asanizmahi"
+      ],
+      "alut": [
+        "sanitA",
+        "sanitArO",
+        "sanitAraH",
+        "sanitAse",
+        "sanitAsATe",
+        "sanitADve",
+        "sanitAhe",
+        "sanitAsvahe",
+        "sanitAsmahe"
+      ],
+      "avidhiling": [
+        "sanvIta",
+        "sanvIyAtAm",
+        "sanvIran",
+        "sanvITAH",
+        "sanvIyATAm",
+        "sanvIDvam",
+        "sanvIya",
+        "sanvIvahi",
+        "sanvImahi"
+      ],
+      "pashirling": [
+        "sanyAt",
+        "sanyAd",
+        "sAyAt",
+        "sAyAd",
+        "sanyAstAm",
+        "sAyAstAm",
+        "sanyAsuH",
+        "sAyAsuH",
+        "sanyAH",
+        "sAyAH",
+        "sanyAstam",
+        "sAyAstam",
+        "sanyAsta",
+        "sAyAsta",
+        "sanyAsam",
+        "sAyAsam",
+        "sanyAsva",
+        "sAyAsva",
+        "sanyAsma",
+        "sAyAsma"
+      ],
+      "plang": [
+        "asanot",
+        "asanod",
+        "asanutAm",
+        "asanvan",
+        "asanoH",
+        "asanutam",
+        "asanuta",
+        "asanavam",
+        "asanuva",
+        "asanva",
+        "asanuma",
+        "asanma"
+      ],
+      "plat": [
+        "sanoti",
+        "sanutaH",
+        "sanvanti",
+        "sanozi",
+        "sanuTaH",
+        "sanuTa",
+        "sanomi",
+        "sanuvaH",
+        "sanvaH",
+        "sanumaH",
+        "sanmaH"
+      ],
+      "plit": [
+        "sasAna",
+        "senatuH",
+        "senuH",
+        "seniTa",
+        "senaTuH",
+        "sena",
+        "sasana",
+        "sasAna",
+        "seniva",
+        "senima"
+      ],
+      "plot": [
+        "sanutAt",
+        "sanutAd",
+        "sanotu",
+        "sanutAm",
+        "sanvantu",
+        "sanu",
+        "sanutAt",
+        "sanutAd",
+        "sanutam",
+        "sanuta",
+        "sanavAni",
+        "sanavAva",
+        "sanavAma"
+      ],
+      "plrung": [
+        "asanizyat",
+        "asanizyad",
+        "asanizyatAm",
+        "asanizyan",
+        "asanizyaH",
+        "asanizyatam",
+        "asanizyata",
+        "asanizyam",
+        "asanizyAva",
+        "asanizyAma"
+      ],
+      "plrut": [
+        "sanizyati",
+        "sanizyataH",
+        "sanizyanti",
+        "sanizyasi",
+        "sanizyaTaH",
+        "sanizyaTa",
+        "sanizyAmi",
+        "sanizyAvaH",
+        "sanizyAmaH"
+      ],
+      "plung": [
+        "asanIt",
+        "asanId",
+        "asAnIt",
+        "asAnId",
+        "asanizwAm",
+        "asAnizwAm",
+        "asanizuH",
+        "asAnizuH",
+        "asanIH",
+        "asAnIH",
+        "asanizwam",
+        "asAnizwam",
+        "asanizwa",
+        "asAnizwa",
+        "asanizam",
+        "asAnizam",
+        "asanizva",
+        "asAnizva",
+        "asanizma",
+        "asAnizma"
+      ],
+      "plut": [
+        "sanitA",
+        "sanitArO",
+        "sanitAraH",
+        "sanitAsi",
+        "sanitAsTaH",
+        "sanitAsTa",
+        "sanitAsmi",
+        "sanitAsvaH",
+        "sanitAsmaH"
+      ],
+      "pvidhiling": [
+        "sanuyAt",
+        "sanuyAd",
+        "sanuyAtAm",
+        "sanuyuH",
+        "sanuyAH",
+        "sanuyAtam",
+        "sanuyAta",
+        "sanuyAm",
+        "sanuyAva",
+        "sanuyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "sanizIzwa",
+        "sanizIyAstAm",
+        "sanizIran",
+        "sanizIzWAH",
+        "sanizIyAsTAm",
+        "sanizIDvam",
+        "sanizIya",
+        "sanizIvahi",
+        "sanizImahi"
+      ],
+      "alang": [
+        "asanyata",
+        "asAyata",
+        "asanyetAm",
+        "asAyetAm",
+        "asanyanta",
+        "asAyanta",
+        "asanyaTAH",
+        "asAyaTAH",
+        "asanyeTAm",
+        "asAyeTAm",
+        "asanyaDvam",
+        "asAyaDvam",
+        "asanye",
+        "asAye",
+        "asanyAvahi",
+        "asAyAvahi",
+        "asanyAmahi",
+        "asAyAmahi"
+      ],
+      "alat": [
+        "sanyate",
+        "sAyate",
+        "sanyete",
+        "sAyete",
+        "sanyante",
+        "sAyante",
+        "sanyase",
+        "sAyase",
+        "sanyeTe",
+        "sAyeTe",
+        "sanyaDve",
+        "sAyaDve",
+        "sanye",
+        "sAye",
+        "sanyAvahe",
+        "sAyAvahe",
+        "sanyAmahe",
+        "sAyAmahe"
+      ],
+      "alit": [
+        "sene",
+        "senAte",
+        "senire",
+        "senize",
+        "senATe",
+        "seniDve",
+        "sene",
+        "senivahe",
+        "senimahe"
+      ],
+      "alot": [
+        "sanyatAm",
+        "sAyatAm",
+        "sanyetAm",
+        "sAyetAm",
+        "sanyantAm",
+        "sAyantAm",
+        "sanyasva",
+        "sAyasva",
+        "sanyeTAm",
+        "sAyeTAm",
+        "sanyaDvam",
+        "sAyaDvam",
+        "sanyE",
+        "sAyE",
+        "sanyAvahE",
+        "sAyAvahE",
+        "sanyAmahE",
+        "sAyAmahE"
+      ],
+      "alrung": [
+        "asanizyata",
+        "asanizyetAm",
+        "asanizyanta",
+        "asanizyaTAH",
+        "asanizyeTAm",
+        "asanizyaDvam",
+        "asanizye",
+        "asanizyAvahi",
+        "asanizyAmahi"
+      ],
+      "alrut": [
+        "sanizyate",
+        "sanizyete",
+        "sanizyante",
+        "sanizyase",
+        "sanizyeTe",
+        "sanizyaDve",
+        "sanizye",
+        "sanizyAvahe",
+        "sanizyAmahe"
+      ],
+      "alung": [
+        "asAni",
+        "asanizAtAm",
+        "asanizata",
+        "asanizWAH",
+        "asATAH",
+        "asanizATAm",
+        "asaniDvam",
+        "asanizi",
+        "asanizvahi",
+        "asanizmahi"
+      ],
+      "alut": [
+        "sanitA",
+        "sanitArO",
+        "sanitAraH",
+        "sanitAse",
+        "sanitAsATe",
+        "sanitADve",
+        "sanitAhe",
+        "sanitAsvahe",
+        "sanitAsmahe"
+      ],
+      "avidhiling": [
+        "sanyeta",
+        "sAyeta",
+        "sanyeyAtAm",
+        "sAyeyAtAm",
+        "sanyeran",
+        "sAyeran",
+        "sanyeTAH",
+        "sAyeTAH",
+        "sanyeyATAm",
+        "sAyeyATAm",
+        "sanyeDvam",
+        "sAyeDvam",
+        "sanyeya",
+        "sAyeya",
+        "sanyevahi",
+        "sAyevahi",
+        "sanyemahi",
+        "sAyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "sizAsizIzwa",
+        "sisanizizIzwa",
+        "sizAsizIyAstAm",
+        "sisanizizIyAstAm",
+        "sizAsizIran",
+        "sisanizizIran",
+        "sizAsizIzWAH",
+        "sisanizizIzWAH",
+        "sizAsizIyAsTAm",
+        "sisanizizIyAsTAm",
+        "sizAsizIDvam",
+        "sisanizizIDvam",
+        "sizAsizIya",
+        "sisanizizIya",
+        "sizAsizIvahi",
+        "sisanizizIvahi",
+        "sizAsizImahi",
+        "sisanizizImahi"
+      ],
+      "alang": [
+        "asizAsata",
+        "asisanizata",
+        "asizAsetAm",
+        "asisanizetAm",
+        "asizAsanta",
+        "asisanizanta",
+        "asizAsaTAH",
+        "asisanizaTAH",
+        "asizAseTAm",
+        "asisanizeTAm",
+        "asizAsaDvam",
+        "asisanizaDvam",
+        "asizAse",
+        "asisanize",
+        "asizAsAvahi",
+        "asisanizAvahi",
+        "asizAsAmahi",
+        "asisanizAmahi"
+      ],
+      "alat": [
+        "sizAsate",
+        "sisanizate",
+        "sizAsete",
+        "sisanizete",
+        "sizAsante",
+        "sisanizante",
+        "sizAsase",
+        "sisanizase",
+        "sizAseTe",
+        "sisanizeTe",
+        "sizAsaDve",
+        "sisanizaDve",
+        "sizAse",
+        "sisanize",
+        "sizAsAvahe",
+        "sisanizAvahe",
+        "sizAsAmahe",
+        "sisanizAmahe"
+      ],
+      "alit": [
+        "sizAsAYcakre",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakre",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakrAte",
+        "sizAsAmAsatuH",
+        "sizAsAmbaBUvatuH",
+        "sisanizAYcakrAte",
+        "sisanizAmAsatuH",
+        "sisanizAmbaBUvatuH",
+        "sizAsAYcakrire",
+        "sizAsAmAsuH",
+        "sizAsAmbaBUvuH",
+        "sisanizAYcakrire",
+        "sisanizAmAsuH",
+        "sisanizAmbaBUvuH",
+        "sizAsAYcakfze",
+        "sizAsAmAsiTa",
+        "sizAsAmbaBUviTa",
+        "sisanizAYcakfze",
+        "sisanizAmAsiTa",
+        "sisanizAmbaBUviTa",
+        "sizAsAYcakrATe",
+        "sizAsAmAsaTuH",
+        "sizAsAmbaBUvaTuH",
+        "sisanizAYcakrATe",
+        "sisanizAmAsaTuH",
+        "sisanizAmbaBUvaTuH",
+        "sizAsAYcakfQve",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakfQve",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakre",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakre",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakfvahe",
+        "sizAsAmAsiva",
+        "sizAsAmbaBUviva",
+        "sisanizAYcakfvahe",
+        "sisanizAmAsiva",
+        "sisanizAmbaBUviva",
+        "sizAsAYcakfmahe",
+        "sizAsAmAsima",
+        "sizAsAmbaBUvima",
+        "sisanizAYcakfmahe",
+        "sisanizAmAsima",
+        "sisanizAmbaBUvima"
+      ],
+      "alot": [
+        "sizAsatAm",
+        "sisanizatAm",
+        "sizAsetAm",
+        "sisanizetAm",
+        "sizAsantAm",
+        "sisanizantAm",
+        "sizAsasva",
+        "sisanizasva",
+        "sizAseTAm",
+        "sisanizeTAm",
+        "sizAsaDvam",
+        "sisanizaDvam",
+        "sizAsE",
+        "sisanizE",
+        "sizAsAvahE",
+        "sisanizAvahE",
+        "sizAsAmahE",
+        "sisanizAmahE"
+      ],
+      "alrung": [
+        "asizAsizyata",
+        "asisanizizyata",
+        "asizAsizyetAm",
+        "asisanizizyetAm",
+        "asizAsizyanta",
+        "asisanizizyanta",
+        "asizAsizyaTAH",
+        "asisanizizyaTAH",
+        "asizAsizyeTAm",
+        "asisanizizyeTAm",
+        "asizAsizyaDvam",
+        "asisanizizyaDvam",
+        "asizAsizye",
+        "asisanizizye",
+        "asizAsizyAvahi",
+        "asisanizizyAvahi",
+        "asizAsizyAmahi",
+        "asisanizizyAmahi"
+      ],
+      "alrut": [
+        "sizAsizyate",
+        "sisanizizyate",
+        "sizAsizyete",
+        "sisanizizyete",
+        "sizAsizyante",
+        "sisanizizyante",
+        "sizAsizyase",
+        "sisanizizyase",
+        "sizAsizyeTe",
+        "sisanizizyeTe",
+        "sizAsizyaDve",
+        "sisanizizyaDve",
+        "sizAsizye",
+        "sisanizizye",
+        "sizAsizyAvahe",
+        "sisanizizyAvahe",
+        "sizAsizyAmahe",
+        "sisanizizyAmahe"
+      ],
+      "alung": [
+        "asizAsizwa",
+        "asisanizizwa",
+        "asizAsizAtAm",
+        "asisanizizAtAm",
+        "asizAsizata",
+        "asisanizizata",
+        "asizAsizWAH",
+        "asisanizizWAH",
+        "asizAsizATAm",
+        "asisanizizATAm",
+        "asizAsiDvam",
+        "asisaniziDvam",
+        "asizAsizi",
+        "asisanizizi",
+        "asizAsizvahi",
+        "asisanizizvahi",
+        "asizAsizmahi",
+        "asisanizizmahi"
+      ],
+      "alut": [
+        "sizAsitA",
+        "sisanizitA",
+        "sizAsitArO",
+        "sisanizitArO",
+        "sizAsitAraH",
+        "sisanizitAraH",
+        "sizAsitAse",
+        "sisanizitAse",
+        "sizAsitAsATe",
+        "sisanizitAsATe",
+        "sizAsitADve",
+        "sisanizitADve",
+        "sizAsitAhe",
+        "sisanizitAhe",
+        "sizAsitAsvahe",
+        "sisanizitAsvahe",
+        "sizAsitAsmahe",
+        "sisanizitAsmahe"
+      ],
+      "avidhiling": [
+        "sizAseta",
+        "sisanizeta",
+        "sizAseyAtAm",
+        "sisanizeyAtAm",
+        "sizAseran",
+        "sisanizeran",
+        "sizAseTAH",
+        "sisanizeTAH",
+        "sizAseyATAm",
+        "sisanizeyATAm",
+        "sizAseDvam",
+        "sisanizeDvam",
+        "sizAseya",
+        "sisanizeya",
+        "sizAsevahi",
+        "sisanizevahi",
+        "sizAsemahi",
+        "sisanizemahi"
+      ],
+      "pashirling": [
+        "sizAsyAt",
+        "sizAsyAd",
+        "sisanizyAt",
+        "sisanizyAd",
+        "sizAsyAstAm",
+        "sisanizyAstAm",
+        "sizAsyAsuH",
+        "sisanizyAsuH",
+        "sizAsyAH",
+        "sisanizyAH",
+        "sizAsyAstam",
+        "sisanizyAstam",
+        "sizAsyAsta",
+        "sisanizyAsta",
+        "sizAsyAsam",
+        "sisanizyAsam",
+        "sizAsyAsva",
+        "sisanizyAsva",
+        "sizAsyAsma",
+        "sisanizyAsma"
+      ],
+      "plang": [
+        "asizAsat",
+        "asizAsad",
+        "asisanizat",
+        "asisanizad",
+        "asizAsatAm",
+        "asisanizatAm",
+        "asizAsan",
+        "asisanizan",
+        "asizAsaH",
+        "asisanizaH",
+        "asizAsatam",
+        "asisanizatam",
+        "asizAsata",
+        "asisanizata",
+        "asizAsam",
+        "asisanizam",
+        "asizAsAva",
+        "asisanizAva",
+        "asizAsAma",
+        "asisanizAma"
+      ],
+      "plat": [
+        "sizAsati",
+        "sisanizati",
+        "sizAsataH",
+        "sisanizataH",
+        "sizAsanti",
+        "sisanizanti",
+        "sizAsasi",
+        "sisanizasi",
+        "sizAsaTaH",
+        "sisanizaTaH",
+        "sizAsaTa",
+        "sisanizaTa",
+        "sizAsAmi",
+        "sisanizAmi",
+        "sizAsAvaH",
+        "sisanizAvaH",
+        "sizAsAmaH",
+        "sisanizAmaH"
+      ],
+      "plit": [
+        "sizAsAYcakAra",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakAra",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakratuH",
+        "sizAsAmAsatuH",
+        "sizAsAmbaBUvatuH",
+        "sisanizAYcakratuH",
+        "sisanizAmAsatuH",
+        "sisanizAmbaBUvatuH",
+        "sizAsAYcakruH",
+        "sizAsAmAsuH",
+        "sizAsAmbaBUvuH",
+        "sisanizAYcakruH",
+        "sisanizAmAsuH",
+        "sisanizAmbaBUvuH",
+        "sizAsAYcakarTa",
+        "sizAsAmAsiTa",
+        "sizAsAmbaBUviTa",
+        "sisanizAYcakarTa",
+        "sisanizAmAsiTa",
+        "sisanizAmbaBUviTa",
+        "sizAsAYcakraTuH",
+        "sizAsAmAsaTuH",
+        "sizAsAmbaBUvaTuH",
+        "sisanizAYcakraTuH",
+        "sisanizAmAsaTuH",
+        "sisanizAmbaBUvaTuH",
+        "sizAsAYcakra",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakra",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakara",
+        "sizAsAYcakAra",
+        "sizAsAmAsa",
+        "sizAsAmbaBUva",
+        "sisanizAYcakara",
+        "sisanizAYcakAra",
+        "sisanizAmAsa",
+        "sisanizAmbaBUva",
+        "sizAsAYcakfva",
+        "sizAsAmAsiva",
+        "sizAsAmbaBUviva",
+        "sisanizAYcakfva",
+        "sisanizAmAsiva",
+        "sisanizAmbaBUviva",
+        "sizAsAYcakfma",
+        "sizAsAmAsima",
+        "sizAsAmbaBUvima",
+        "sisanizAYcakfma",
+        "sisanizAmAsima",
+        "sisanizAmbaBUvima"
+      ],
+      "plot": [
+        "sizAsatAt",
+        "sizAsatAd",
+        "sizAsatu",
+        "sisanizatAt",
+        "sisanizatAd",
+        "sisanizatu",
+        "sizAsatAm",
+        "sisanizatAm",
+        "sizAsantu",
+        "sisanizantu",
+        "sizAsa",
+        "sizAsatAt",
+        "sizAsatAd",
+        "sisaniza",
+        "sisanizatAt",
+        "sisanizatAd",
+        "sizAsatam",
+        "sisanizatam",
+        "sizAsata",
+        "sisanizata",
+        "sizAsAni",
+        "sisanizARi",
+        "sizAsAva",
+        "sisanizAva",
+        "sizAsAma",
+        "sisanizAma"
+      ],
+      "plrung": [
+        "asizAsizyat",
+        "asizAsizyad",
+        "asisanizizyat",
+        "asisanizizyad",
+        "asizAsizyatAm",
+        "asisanizizyatAm",
+        "asizAsizyan",
+        "asisanizizyan",
+        "asizAsizyaH",
+        "asisanizizyaH",
+        "asizAsizyatam",
+        "asisanizizyatam",
+        "asizAsizyata",
+        "asisanizizyata",
+        "asizAsizyam",
+        "asisanizizyam",
+        "asizAsizyAva",
+        "asisanizizyAva",
+        "asizAsizyAma",
+        "asisanizizyAma"
+      ],
+      "plrut": [
+        "sizAsizyati",
+        "sisanizizyati",
+        "sizAsizyataH",
+        "sisanizizyataH",
+        "sizAsizyanti",
+        "sisanizizyanti",
+        "sizAsizyasi",
+        "sisanizizyasi",
+        "sizAsizyaTaH",
+        "sisanizizyaTaH",
+        "sizAsizyaTa",
+        "sisanizizyaTa",
+        "sizAsizyAmi",
+        "sisanizizyAmi",
+        "sizAsizyAvaH",
+        "sisanizizyAvaH",
+        "sizAsizyAmaH",
+        "sisanizizyAmaH"
+      ],
+      "plung": [
+        "asizAsIt",
+        "asizAsId",
+        "asisanizIt",
+        "asisanizId",
+        "asizAsizwAm",
+        "asisanizizwAm",
+        "asizAsizuH",
+        "asisanizizuH",
+        "asizAsIH",
+        "asisanizIH",
+        "asizAsizwam",
+        "asisanizizwam",
+        "asizAsizwa",
+        "asisanizizwa",
+        "asizAsizam",
+        "asisanizizam",
+        "asizAsizva",
+        "asisanizizva",
+        "asizAsizma",
+        "asisanizizma"
+      ],
+      "plut": [
+        "sizAsitA",
+        "sisanizitA",
+        "sizAsitArO",
+        "sisanizitArO",
+        "sizAsitAraH",
+        "sisanizitAraH",
+        "sizAsitAsi",
+        "sisanizitAsi",
+        "sizAsitAsTaH",
+        "sisanizitAsTaH",
+        "sizAsitAsTa",
+        "sisanizitAsTa",
+        "sizAsitAsmi",
+        "sisanizitAsmi",
+        "sizAsitAsvaH",
+        "sisanizitAsvaH",
+        "sizAsitAsmaH",
+        "sisanizitAsmaH"
+      ],
+      "pvidhiling": [
+        "sizAset",
+        "sizAsed",
+        "sisanizet",
+        "sisanized",
+        "sizAsetAm",
+        "sisanizetAm",
+        "sizAseyuH",
+        "sisanizeyuH",
+        "sizAseH",
+        "sisanizeH",
+        "sizAsetam",
+        "sisanizetam",
+        "sizAseta",
+        "sisanizeta",
+        "sizAseyam",
+        "sisanizeyam",
+        "sizAseva",
+        "sisanizeva",
+        "sizAsema",
+        "sisanizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "sizAsizIzwa",
+        "sisanizizIzwa",
+        "sizAsizIyAstAm",
+        "sisanizizIyAstAm",
+        "sizAsizIran",
+        "sisanizizIran",
+        "sizAsizIzWAH",
+        "sisanizizIzWAH",
+        "sizAsizIyAsTAm",
+        "sisanizizIyAsTAm",
+        "sizAsizIDvam",
+        "sisanizizIDvam",
+        "sizAsizIya",
+        "sisanizizIya",
+        "sizAsizIvahi",
+        "sisanizizIvahi",
+        "sizAsizImahi",
+        "sisanizizImahi"
+      ],
+      "alang": [
+        "asizAsyata",
+        "asisanizyata",
+        "asizAsyetAm",
+        "asisanizyetAm",
+        "asizAsyanta",
+        "asisanizyanta",
+        "asizAsyaTAH",
+        "asisanizyaTAH",
+        "asizAsyeTAm",
+        "asisanizyeTAm",
+        "asizAsyaDvam",
+        "asisanizyaDvam",
+        "asizAsye",
+        "asisanizye",
+        "asizAsyAvahi",
+        "asisanizyAvahi",
+        "asizAsyAmahi",
+        "asisanizyAmahi"
+      ],
+      "alat": [
+        "sizAsyate",
+        "sisanizyate",
+        "sizAsyete",
+        "sisanizyete",
+        "sizAsyante",
+        "sisanizyante",
+        "sizAsyase",
+        "sisanizyase",
+        "sizAsyeTe",
+        "sisanizyeTe",
+        "sizAsyaDve",
+        "sisanizyaDve",
+        "sizAsye",
+        "sisanizye",
+        "sizAsyAvahe",
+        "sisanizyAvahe",
+        "sizAsyAmahe",
+        "sisanizyAmahe"
+      ],
+      "alit": [
+        "sizAsAYcakre",
+        "sizAsAmAse",
+        "sizAsAmbaBUve",
+        "sisanizAYcakre",
+        "sisanizAmAse",
+        "sisanizAmbaBUve",
+        "sizAsAYcakrAte",
+        "sizAsAmAsAte",
+        "sizAsAmbaBUvAte",
+        "sisanizAYcakrAte",
+        "sisanizAmAsAte",
+        "sisanizAmbaBUvAte",
+        "sizAsAYcakrire",
+        "sizAsAmAsire",
+        "sizAsAmbaBUvire",
+        "sisanizAYcakrire",
+        "sisanizAmAsire",
+        "sisanizAmbaBUvire",
+        "sizAsAYcakfze",
+        "sizAsAmAsize",
+        "sizAsAmbaBUvize",
+        "sisanizAYcakfze",
+        "sisanizAmAsize",
+        "sisanizAmbaBUvize",
+        "sizAsAYcakrATe",
+        "sizAsAmAsATe",
+        "sizAsAmbaBUvATe",
+        "sisanizAYcakrATe",
+        "sisanizAmAsATe",
+        "sisanizAmbaBUvATe",
+        "sizAsAYcakfQve",
+        "sizAsAmAsiDve",
+        "sizAsAmbaBUviQve",
+        "sisanizAYcakfQve",
+        "sisanizAmAsiDve",
+        "sisanizAmbaBUviQve",
+        "sizAsAYcakre",
+        "sizAsAmAhe",
+        "sizAsAmbaBUve",
+        "sisanizAYcakre",
+        "sisanizAmAhe",
+        "sisanizAmbaBUve",
+        "sizAsAYcakfvahe",
+        "sizAsAmAsivahe",
+        "sizAsAmbaBUvivahe",
+        "sisanizAYcakfvahe",
+        "sisanizAmAsivahe",
+        "sisanizAmbaBUvivahe",
+        "sizAsAYcakfmahe",
+        "sizAsAmAsimahe",
+        "sizAsAmbaBUvimahe",
+        "sisanizAYcakfmahe",
+        "sisanizAmAsimahe",
+        "sisanizAmbaBUvimahe"
+      ],
+      "alot": [
+        "sizAsyatAm",
+        "sisanizyatAm",
+        "sizAsyetAm",
+        "sisanizyetAm",
+        "sizAsyantAm",
+        "sisanizyantAm",
+        "sizAsyasva",
+        "sisanizyasva",
+        "sizAsyeTAm",
+        "sisanizyeTAm",
+        "sizAsyaDvam",
+        "sisanizyaDvam",
+        "sizAsyE",
+        "sisanizyE",
+        "sizAsyAvahE",
+        "sisanizyAvahE",
+        "sizAsyAmahE",
+        "sisanizyAmahE"
+      ],
+      "alrung": [
+        "asizAsizyata",
+        "asisanizizyata",
+        "asizAsizyetAm",
+        "asisanizizyetAm",
+        "asizAsizyanta",
+        "asisanizizyanta",
+        "asizAsizyaTAH",
+        "asisanizizyaTAH",
+        "asizAsizyeTAm",
+        "asisanizizyeTAm",
+        "asizAsizyaDvam",
+        "asisanizizyaDvam",
+        "asizAsizye",
+        "asisanizizye",
+        "asizAsizyAvahi",
+        "asisanizizyAvahi",
+        "asizAsizyAmahi",
+        "asisanizizyAmahi"
+      ],
+      "alrut": [
+        "sizAsizyate",
+        "sisanizizyate",
+        "sizAsizyete",
+        "sisanizizyete",
+        "sizAsizyante",
+        "sisanizizyante",
+        "sizAsizyase",
+        "sisanizizyase",
+        "sizAsizyeTe",
+        "sisanizizyeTe",
+        "sizAsizyaDve",
+        "sisanizizyaDve",
+        "sizAsizye",
+        "sisanizizye",
+        "sizAsizyAvahe",
+        "sisanizizyAvahe",
+        "sizAsizyAmahe",
+        "sisanizizyAmahe"
+      ],
+      "alung": [
+        "asizAsi",
+        "asisanizi",
+        "asizAsizAtAm",
+        "asisanizizAtAm",
+        "asizAsizata",
+        "asisanizizata",
+        "asizAsizWAH",
+        "asisanizizWAH",
+        "asizAsizATAm",
+        "asisanizizATAm",
+        "asizAsiDvam",
+        "asisaniziDvam",
+        "asizAsizi",
+        "asisanizizi",
+        "asizAsizvahi",
+        "asisanizizvahi",
+        "asizAsizmahi",
+        "asisanizizmahi"
+      ],
+      "alut": [
+        "sizAsitA",
+        "sisanizitA",
+        "sizAsitArO",
+        "sisanizitArO",
+        "sizAsitAraH",
+        "sisanizitAraH",
+        "sizAsitAse",
+        "sisanizitAse",
+        "sizAsitAsATe",
+        "sisanizitAsATe",
+        "sizAsitADve",
+        "sisanizitADve",
+        "sizAsitAhe",
+        "sisanizitAhe",
+        "sizAsitAsvahe",
+        "sisanizitAsvahe",
+        "sizAsitAsmahe",
+        "sisanizitAsmahe"
+      ],
+      "avidhiling": [
+        "sizAsyeta",
+        "sisanizyeta",
+        "sizAsyeyAtAm",
+        "sisanizyeyAtAm",
+        "sizAsyeran",
+        "sisanizyeran",
+        "sizAsyeTAH",
+        "sisanizyeTAH",
+        "sizAsyeyATAm",
+        "sisanizyeyATAm",
+        "sizAsyeDvam",
+        "sisanizyeDvam",
+        "sizAsyeya",
+        "sisanizyeya",
+        "sizAsyevahi",
+        "sisanizyevahi",
+        "sizAsyemahi",
+        "sisanizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "sAnayizIzwa",
+        "sAnayizIyAstAm",
+        "sAnayizIran",
+        "sAnayizIzWAH",
+        "sAnayizIyAsTAm",
+        "sAnayizIQvam",
+        "sAnayizIDvam",
+        "sAnayizIya",
+        "sAnayizIvahi",
+        "sAnayizImahi"
+      ],
+      "alang": [
+        "asAnayata",
+        "asAnayetAm",
+        "asAnayanta",
+        "asAnayaTAH",
+        "asAnayeTAm",
+        "asAnayaDvam",
+        "asAnaye",
+        "asAnayAvahi",
+        "asAnayAmahi"
+      ],
+      "alat": [
+        "sAnayate",
+        "sAnayete",
+        "sAnayante",
+        "sAnayase",
+        "sAnayeTe",
+        "sAnayaDve",
+        "sAnaye",
+        "sAnayAvahe",
+        "sAnayAmahe"
+      ],
+      "alit": [
+        "sAnayAYcakre",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakrAte",
+        "sAnayAmAsatuH",
+        "sAnayAmbaBUvatuH",
+        "sAnayAYcakrire",
+        "sAnayAmAsuH",
+        "sAnayAmbaBUvuH",
+        "sAnayAYcakfze",
+        "sAnayAmAsiTa",
+        "sAnayAmbaBUviTa",
+        "sAnayAYcakrATe",
+        "sAnayAmAsaTuH",
+        "sAnayAmbaBUvaTuH",
+        "sAnayAYcakfQve",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakre",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakfvahe",
+        "sAnayAmAsiva",
+        "sAnayAmbaBUviva",
+        "sAnayAYcakfmahe",
+        "sAnayAmAsima",
+        "sAnayAmbaBUvima"
+      ],
+      "alot": [
+        "sAnayatAm",
+        "sAnayetAm",
+        "sAnayantAm",
+        "sAnayasva",
+        "sAnayeTAm",
+        "sAnayaDvam",
+        "sAnayE",
+        "sAnayAvahE",
+        "sAnayAmahE"
+      ],
+      "alrung": [
+        "asAnayizyata",
+        "asAnayizyetAm",
+        "asAnayizyanta",
+        "asAnayizyaTAH",
+        "asAnayizyeTAm",
+        "asAnayizyaDvam",
+        "asAnayizye",
+        "asAnayizyAvahi",
+        "asAnayizyAmahi"
+      ],
+      "alrut": [
+        "sAnayizyate",
+        "sAnayizyete",
+        "sAnayizyante",
+        "sAnayizyase",
+        "sAnayizyeTe",
+        "sAnayizyaDve",
+        "sAnayizye",
+        "sAnayizyAvahe",
+        "sAnayizyAmahe"
+      ],
+      "alung": [
+        "asIzaRata",
+        "asIzaRetAm",
+        "asIzaRanta",
+        "asIzaRaTAH",
+        "asIzaReTAm",
+        "asIzaRaDvam",
+        "asIzaRe",
+        "asIzaRAvahi",
+        "asIzaRAmahi"
+      ],
+      "alut": [
+        "sAnayitA",
+        "sAnayitArO",
+        "sAnayitAraH",
+        "sAnayitAse",
+        "sAnayitAsATe",
+        "sAnayitADve",
+        "sAnayitAhe",
+        "sAnayitAsvahe",
+        "sAnayitAsmahe"
+      ],
+      "avidhiling": [
+        "sAnayeta",
+        "sAnayeyAtAm",
+        "sAnayeran",
+        "sAnayeTAH",
+        "sAnayeyATAm",
+        "sAnayeDvam",
+        "sAnayeya",
+        "sAnayevahi",
+        "sAnayemahi"
+      ],
+      "pashirling": [
+        "sAnyAt",
+        "sAnyAd",
+        "sAnyAstAm",
+        "sAnyAsuH",
+        "sAnyAH",
+        "sAnyAstam",
+        "sAnyAsta",
+        "sAnyAsam",
+        "sAnyAsva",
+        "sAnyAsma"
+      ],
+      "plang": [
+        "asAnayat",
+        "asAnayad",
+        "asAnayatAm",
+        "asAnayan",
+        "asAnayaH",
+        "asAnayatam",
+        "asAnayata",
+        "asAnayam",
+        "asAnayAva",
+        "asAnayAma"
+      ],
+      "plat": [
+        "sAnayati",
+        "sAnayataH",
+        "sAnayanti",
+        "sAnayasi",
+        "sAnayaTaH",
+        "sAnayaTa",
+        "sAnayAmi",
+        "sAnayAvaH",
+        "sAnayAmaH"
+      ],
+      "plit": [
+        "sAnayAYcakAra",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakratuH",
+        "sAnayAmAsatuH",
+        "sAnayAmbaBUvatuH",
+        "sAnayAYcakruH",
+        "sAnayAmAsuH",
+        "sAnayAmbaBUvuH",
+        "sAnayAYcakarTa",
+        "sAnayAmAsiTa",
+        "sAnayAmbaBUviTa",
+        "sAnayAYcakraTuH",
+        "sAnayAmAsaTuH",
+        "sAnayAmbaBUvaTuH",
+        "sAnayAYcakra",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakara",
+        "sAnayAYcakAra",
+        "sAnayAmAsa",
+        "sAnayAmbaBUva",
+        "sAnayAYcakfva",
+        "sAnayAmAsiva",
+        "sAnayAmbaBUviva",
+        "sAnayAYcakfma",
+        "sAnayAmAsima",
+        "sAnayAmbaBUvima"
+      ],
+      "plot": [
+        "sAnayatAt",
+        "sAnayatAd",
+        "sAnayatu",
+        "sAnayatAm",
+        "sAnayantu",
+        "sAnaya",
+        "sAnayatAt",
+        "sAnayatAd",
+        "sAnayatam",
+        "sAnayata",
+        "sAnayAni",
+        "sAnayAva",
+        "sAnayAma"
+      ],
+      "plrung": [
+        "asAnayizyat",
+        "asAnayizyad",
+        "asAnayizyatAm",
+        "asAnayizyan",
+        "asAnayizyaH",
+        "asAnayizyatam",
+        "asAnayizyata",
+        "asAnayizyam",
+        "asAnayizyAva",
+        "asAnayizyAma"
+      ],
+      "plrut": [
+        "sAnayizyati",
+        "sAnayizyataH",
+        "sAnayizyanti",
+        "sAnayizyasi",
+        "sAnayizyaTaH",
+        "sAnayizyaTa",
+        "sAnayizyAmi",
+        "sAnayizyAvaH",
+        "sAnayizyAmaH"
+      ],
+      "plung": [
+        "asIzaRat",
+        "asIzaRad",
+        "asIzaRatAm",
+        "asIzaRan",
+        "asIzaRaH",
+        "asIzaRatam",
+        "asIzaRata",
+        "asIzaRam",
+        "asIzaRAva",
+        "asIzaRAma"
+      ],
+      "plut": [
+        "sAnayitA",
+        "sAnayitArO",
+        "sAnayitAraH",
+        "sAnayitAsi",
+        "sAnayitAsTaH",
+        "sAnayitAsTa",
+        "sAnayitAsmi",
+        "sAnayitAsvaH",
+        "sAnayitAsmaH"
+      ],
+      "pvidhiling": [
+        "sAnayet",
+        "sAnayed",
+        "sAnayetAm",
+        "sAnayeyuH",
+        "sAnayeH",
+        "sAnayetam",
+        "sAnayeta",
+        "sAnayeyam",
+        "sAnayeva",
+        "sAnayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "sAnayizIzwa",
+        "sAnizIzwa",
+        "sAnayizIyAstAm",
+        "sAnizIyAstAm",
+        "sAnayizIran",
+        "sAnizIran",
+        "sAnayizIzWAH",
+        "sAnizIzWAH",
+        "sAnayizIyAsTAm",
+        "sAnizIyAsTAm",
+        "sAnayizIQvam",
+        "sAnayizIDvam",
+        "sAnizIDvam",
+        "sAnayizIya",
+        "sAnizIya",
+        "sAnayizIvahi",
+        "sAnizIvahi",
+        "sAnayizImahi",
+        "sAnizImahi"
+      ],
+      "alang": [
+        "asAnyata",
+        "asAnyetAm",
+        "asAnyanta",
+        "asAnyaTAH",
+        "asAnyeTAm",
+        "asAnyaDvam",
+        "asAnye",
+        "asAnyAvahi",
+        "asAnyAmahi"
+      ],
+      "alat": [
+        "sAnyate",
+        "sAnyete",
+        "sAnyante",
+        "sAnyase",
+        "sAnyeTe",
+        "sAnyaDve",
+        "sAnye",
+        "sAnyAvahe",
+        "sAnyAmahe"
+      ],
+      "alit": [
+        "sAnayAYcakre",
+        "sAnayAmAse",
+        "sAnayAmbaBUve",
+        "sAnayAYcakrAte",
+        "sAnayAmAsAte",
+        "sAnayAmbaBUvAte",
+        "sAnayAYcakrire",
+        "sAnayAmAsire",
+        "sAnayAmbaBUvire",
+        "sAnayAYcakfze",
+        "sAnayAmAsize",
+        "sAnayAmbaBUvize",
+        "sAnayAYcakrATe",
+        "sAnayAmAsATe",
+        "sAnayAmbaBUvATe",
+        "sAnayAYcakfQve",
+        "sAnayAmAsiDve",
+        "sAnayAmbaBUviQve",
+        "sAnayAYcakre",
+        "sAnayAmAhe",
+        "sAnayAmbaBUve",
+        "sAnayAYcakfvahe",
+        "sAnayAmAsivahe",
+        "sAnayAmbaBUvivahe",
+        "sAnayAYcakfmahe",
+        "sAnayAmAsimahe",
+        "sAnayAmbaBUvimahe"
+      ],
+      "alot": [
+        "sAnyatAm",
+        "sAnyetAm",
+        "sAnyantAm",
+        "sAnyasva",
+        "sAnyeTAm",
+        "sAnyaDvam",
+        "sAnyE",
+        "sAnyAvahE",
+        "sAnyAmahE"
+      ],
+      "alrung": [
+        "asAnayizyata",
+        "asAnizyata",
+        "asAnayizyetAm",
+        "asAnizyetAm",
+        "asAnayizyanta",
+        "asAnizyanta",
+        "asAnayizyaTAH",
+        "asAnizyaTAH",
+        "asAnayizyeTAm",
+        "asAnizyeTAm",
+        "asAnayizyaDvam",
+        "asAnizyaDvam",
+        "asAnayizye",
+        "asAnizye",
+        "asAnayizyAvahi",
+        "asAnizyAvahi",
+        "asAnayizyAmahi",
+        "asAnizyAmahi"
+      ],
+      "alrut": [
+        "sAnayizyate",
+        "sAnizyate",
+        "sAnayizyete",
+        "sAnizyete",
+        "sAnayizyante",
+        "sAnizyante",
+        "sAnayizyase",
+        "sAnizyase",
+        "sAnayizyeTe",
+        "sAnizyeTe",
+        "sAnayizyaDve",
+        "sAnizyaDve",
+        "sAnayizye",
+        "sAnizye",
+        "sAnayizyAvahe",
+        "sAnizyAvahe",
+        "sAnayizyAmahe",
+        "sAnizyAmahe"
+      ],
+      "alung": [
+        "asAni",
+        "asAnayizAtAm",
+        "asAnizAtAm",
+        "asAnayizata",
+        "asAnizata",
+        "asAnayizWAH",
+        "asAnizWAH",
+        "asAnayizATAm",
+        "asAnizATAm",
+        "asAnayiQvam",
+        "asAnayiDvam",
+        "asAniDvam",
+        "asAnayizi",
+        "asAnizi",
+        "asAnayizvahi",
+        "asAnizvahi",
+        "asAnayizmahi",
+        "asAnizmahi"
+      ],
+      "alut": [
+        "sAnayitA",
+        "sAnitA",
+        "sAnayitArO",
+        "sAnitArO",
+        "sAnayitAraH",
+        "sAnitAraH",
+        "sAnayitAse",
+        "sAnitAse",
+        "sAnayitAsATe",
+        "sAnitAsATe",
+        "sAnayitADve",
+        "sAnitADve",
+        "sAnayitAhe",
+        "sAnitAhe",
+        "sAnayitAsvahe",
+        "sAnitAsvahe",
+        "sAnayitAsmahe",
+        "sAnitAsmahe"
+      ],
+      "avidhiling": [
+        "sAnyeta",
+        "sAnyeyAtAm",
+        "sAnyeran",
+        "sAnyeTAH",
+        "sAnyeyATAm",
+        "sAnyeDvam",
+        "sAnyeya",
+        "sAnyevahi",
+        "sAnyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "saMsanizIzwa",
+        "sAsAyizIzwa",
+        "saMsanizIyAstAm",
+        "sAsAyizIyAstAm",
+        "saMsanizIran",
+        "sAsAyizIran",
+        "saMsanizIzWAH",
+        "sAsAyizIzWAH",
+        "saMsanizIyAsTAm",
+        "sAsAyizIyAsTAm",
+        "saMsanizIDvam",
+        "sAsAyizIQvam",
+        "sAsAyizIDvam",
+        "saMsanizIya",
+        "sAsAyizIya",
+        "saMsanizIvahi",
+        "sAsAyizIvahi",
+        "saMsanizImahi",
+        "sAsAyizImahi"
+      ],
+      "alang": [
+        "asaMsanyata",
+        "asAsAyata",
+        "asaMsanyetAm",
+        "asAsAyetAm",
+        "asaMsanyanta",
+        "asAsAyanta",
+        "asaMsanyaTAH",
+        "asAsAyaTAH",
+        "asaMsanyeTAm",
+        "asAsAyeTAm",
+        "asaMsanyaDvam",
+        "asAsAyaDvam",
+        "asaMsanye",
+        "asAsAye",
+        "asaMsanyAvahi",
+        "asAsAyAvahi",
+        "asaMsanyAmahi",
+        "asAsAyAmahi"
+      ],
+      "alat": [
+        "saMsanyate",
+        "sAsAyate",
+        "saMsanyete",
+        "sAsAyete",
+        "saMsanyante",
+        "sAsAyante",
+        "saMsanyase",
+        "sAsAyase",
+        "saMsanyeTe",
+        "sAsAyeTe",
+        "saMsanyaDve",
+        "sAsAyaDve",
+        "saMsanye",
+        "sAsAye",
+        "saMsanyAvahe",
+        "sAsAyAvahe",
+        "saMsanyAmahe",
+        "sAsAyAmahe"
+      ],
+      "alit": [
+        "saMsanAYcakre",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "sAsAyAYcakre",
+        "sAsAyAmAsa",
+        "sAsAyAmbaBUva",
+        "saMsanAYcakrAte",
+        "saMsanAmAsatuH",
+        "saMsanAmbaBUvatuH",
+        "sAsAyAYcakrAte",
+        "sAsAyAmAsatuH",
+        "sAsAyAmbaBUvatuH",
+        "saMsanAYcakrire",
+        "saMsanAmAsuH",
+        "saMsanAmbaBUvuH",
+        "sAsAyAYcakrire",
+        "sAsAyAmAsuH",
+        "sAsAyAmbaBUvuH",
+        "saMsanAYcakfze",
+        "saMsanAmAsiTa",
+        "saMsanAmbaBUviTa",
+        "sAsAyAYcakfze",
+        "sAsAyAmAsiTa",
+        "sAsAyAmbaBUviTa",
+        "saMsanAYcakrATe",
+        "saMsanAmAsaTuH",
+        "saMsanAmbaBUvaTuH",
+        "sAsAyAYcakrATe",
+        "sAsAyAmAsaTuH",
+        "sAsAyAmbaBUvaTuH",
+        "saMsanAYcakfQve",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "sAsAyAYcakfQve",
+        "sAsAyAmAsa",
+        "sAsAyAmbaBUva",
+        "saMsanAYcakre",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "sAsAyAYcakre",
+        "sAsAyAmAsa",
+        "sAsAyAmbaBUva",
+        "saMsanAYcakfvahe",
+        "saMsanAmAsiva",
+        "saMsanAmbaBUviva",
+        "sAsAyAYcakfvahe",
+        "sAsAyAmAsiva",
+        "sAsAyAmbaBUviva",
+        "saMsanAYcakfmahe",
+        "saMsanAmAsima",
+        "saMsanAmbaBUvima",
+        "sAsAyAYcakfmahe",
+        "sAsAyAmAsima",
+        "sAsAyAmbaBUvima"
+      ],
+      "alot": [
+        "saMsanyatAm",
+        "sAsAyatAm",
+        "saMsanyetAm",
+        "sAsAyetAm",
+        "saMsanyantAm",
+        "sAsAyantAm",
+        "saMsanyasva",
+        "sAsAyasva",
+        "saMsanyeTAm",
+        "sAsAyeTAm",
+        "saMsanyaDvam",
+        "sAsAyaDvam",
+        "saMsanyE",
+        "sAsAyE",
+        "saMsanyAvahE",
+        "sAsAyAvahE",
+        "saMsanyAmahE",
+        "sAsAyAmahE"
+      ],
+      "alrung": [
+        "asaMsanizyata",
+        "asAsAyizyata",
+        "asaMsanizyetAm",
+        "asAsAyizyetAm",
+        "asaMsanizyanta",
+        "asAsAyizyanta",
+        "asaMsanizyaTAH",
+        "asAsAyizyaTAH",
+        "asaMsanizyeTAm",
+        "asAsAyizyeTAm",
+        "asaMsanizyaDvam",
+        "asAsAyizyaDvam",
+        "asaMsanizye",
+        "asAsAyizye",
+        "asaMsanizyAvahi",
+        "asAsAyizyAvahi",
+        "asaMsanizyAmahi",
+        "asAsAyizyAmahi"
+      ],
+      "alrut": [
+        "saMsanizyate",
+        "sAsAyizyate",
+        "saMsanizyete",
+        "sAsAyizyete",
+        "saMsanizyante",
+        "sAsAyizyante",
+        "saMsanizyase",
+        "sAsAyizyase",
+        "saMsanizyeTe",
+        "sAsAyizyeTe",
+        "saMsanizyaDve",
+        "sAsAyizyaDve",
+        "saMsanizye",
+        "sAsAyizye",
+        "saMsanizyAvahe",
+        "sAsAyizyAvahe",
+        "saMsanizyAmahe",
+        "sAsAyizyAmahe"
+      ],
+      "alung": [
+        "asaMsanizwa",
+        "asAsAyizwa",
+        "asaMsanizAtAm",
+        "asAsAyizAtAm",
+        "asaMsanizata",
+        "asAsAyizata",
+        "asaMsanizWAH",
+        "asAsAyizWAH",
+        "asaMsanizATAm",
+        "asAsAyizATAm",
+        "asaMsaniDvam",
+        "asAsAyiQvam",
+        "asAsAyiDvam",
+        "asaMsanizi",
+        "asAsAyizi",
+        "asaMsanizvahi",
+        "asAsAyizvahi",
+        "asaMsanizmahi",
+        "asAsAyizmahi"
+      ],
+      "alut": [
+        "saMsanitA",
+        "sAsAyitA",
+        "saMsanitArO",
+        "sAsAyitArO",
+        "saMsanitAraH",
+        "sAsAyitAraH",
+        "saMsanitAse",
+        "sAsAyitAse",
+        "saMsanitAsATe",
+        "sAsAyitAsATe",
+        "saMsanitADve",
+        "sAsAyitADve",
+        "saMsanitAhe",
+        "sAsAyitAhe",
+        "saMsanitAsvahe",
+        "sAsAyitAsvahe",
+        "saMsanitAsmahe",
+        "sAsAyitAsmahe"
+      ],
+      "avidhiling": [
+        "saMsanyeta",
+        "sAsAyeta",
+        "saMsanyeyAtAm",
+        "sAsAyeyAtAm",
+        "saMsanyeran",
+        "sAsAyeran",
+        "saMsanyeTAH",
+        "sAsAyeTAH",
+        "saMsanyeyATAm",
+        "sAsAyeyATAm",
+        "saMsanyeDvam",
+        "sAsAyeDvam",
+        "saMsanyeya",
+        "sAsAyeya",
+        "saMsanyevahi",
+        "sAsAyevahi",
+        "saMsanyemahi",
+        "sAsAyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "saMsanizIzwa",
+        "sAsAyizIzwa",
+        "saMsanizIyAstAm",
+        "sAsAyizIyAstAm",
+        "saMsanizIran",
+        "sAsAyizIran",
+        "saMsanizIzWAH",
+        "sAsAyizIzWAH",
+        "saMsanizIyAsTAm",
+        "sAsAyizIyAsTAm",
+        "saMsanizIDvam",
+        "sAsAyizIQvam",
+        "sAsAyizIDvam",
+        "saMsanizIya",
+        "sAsAyizIya",
+        "saMsanizIvahi",
+        "sAsAyizIvahi",
+        "saMsanizImahi",
+        "sAsAyizImahi"
+      ],
+      "alang": [
+        "asaMsanyata",
+        "asAsAyyata",
+        "asaMsanyetAm",
+        "asAsAyyetAm",
+        "asaMsanyanta",
+        "asAsAyyanta",
+        "asaMsanyaTAH",
+        "asAsAyyaTAH",
+        "asaMsanyeTAm",
+        "asAsAyyeTAm",
+        "asaMsanyaDvam",
+        "asAsAyyaDvam",
+        "asaMsanye",
+        "asAsAyye",
+        "asaMsanyAvahi",
+        "asAsAyyAvahi",
+        "asaMsanyAmahi",
+        "asAsAyyAmahi"
+      ],
+      "alat": [
+        "saMsanyate",
+        "sAsAyyate",
+        "saMsanyete",
+        "sAsAyyete",
+        "saMsanyante",
+        "sAsAyyante",
+        "saMsanyase",
+        "sAsAyyase",
+        "saMsanyeTe",
+        "sAsAyyeTe",
+        "saMsanyaDve",
+        "sAsAyyaDve",
+        "saMsanye",
+        "sAsAyye",
+        "saMsanyAvahe",
+        "sAsAyyAvahe",
+        "saMsanyAmahe",
+        "sAsAyyAmahe"
+      ],
+      "alit": [
+        "saMsanAYcakre",
+        "saMsanAmAse",
+        "saMsanAmbaBUve",
+        "sAsAyAYcakre",
+        "sAsAyAmAse",
+        "sAsAyAmbaBUve",
+        "saMsanAYcakrAte",
+        "saMsanAmAsAte",
+        "saMsanAmbaBUvAte",
+        "sAsAyAYcakrAte",
+        "sAsAyAmAsAte",
+        "sAsAyAmbaBUvAte",
+        "saMsanAYcakrire",
+        "saMsanAmAsire",
+        "saMsanAmbaBUvire",
+        "sAsAyAYcakrire",
+        "sAsAyAmAsire",
+        "sAsAyAmbaBUvire",
+        "saMsanAYcakfze",
+        "saMsanAmAsize",
+        "saMsanAmbaBUvize",
+        "sAsAyAYcakfze",
+        "sAsAyAmAsize",
+        "sAsAyAmbaBUvize",
+        "saMsanAYcakrATe",
+        "saMsanAmAsATe",
+        "saMsanAmbaBUvATe",
+        "sAsAyAYcakrATe",
+        "sAsAyAmAsATe",
+        "sAsAyAmbaBUvATe",
+        "saMsanAYcakfQve",
+        "saMsanAmAsiDve",
+        "saMsanAmbaBUviQve",
+        "sAsAyAYcakfQve",
+        "sAsAyAmAsiDve",
+        "sAsAyAmbaBUviQve",
+        "saMsanAYcakre",
+        "saMsanAmAhe",
+        "saMsanAmbaBUve",
+        "sAsAyAYcakre",
+        "sAsAyAmAhe",
+        "sAsAyAmbaBUve",
+        "saMsanAYcakfvahe",
+        "saMsanAmAsivahe",
+        "saMsanAmbaBUvivahe",
+        "sAsAyAYcakfvahe",
+        "sAsAyAmAsivahe",
+        "sAsAyAmbaBUvivahe",
+        "saMsanAYcakfmahe",
+        "saMsanAmAsimahe",
+        "saMsanAmbaBUvimahe",
+        "sAsAyAYcakfmahe",
+        "sAsAyAmAsimahe",
+        "sAsAyAmbaBUvimahe"
+      ],
+      "alot": [
+        "saMsanyatAm",
+        "sAsAyyatAm",
+        "saMsanyetAm",
+        "sAsAyyetAm",
+        "saMsanyantAm",
+        "sAsAyyantAm",
+        "saMsanyasva",
+        "sAsAyyasva",
+        "saMsanyeTAm",
+        "sAsAyyeTAm",
+        "saMsanyaDvam",
+        "sAsAyyaDvam",
+        "saMsanyE",
+        "sAsAyyE",
+        "saMsanyAvahE",
+        "sAsAyyAvahE",
+        "saMsanyAmahE",
+        "sAsAyyAmahE"
+      ],
+      "alrung": [
+        "asaMsanizyata",
+        "asAsAyizyata",
+        "asaMsanizyetAm",
+        "asAsAyizyetAm",
+        "asaMsanizyanta",
+        "asAsAyizyanta",
+        "asaMsanizyaTAH",
+        "asAsAyizyaTAH",
+        "asaMsanizyeTAm",
+        "asAsAyizyeTAm",
+        "asaMsanizyaDvam",
+        "asAsAyizyaDvam",
+        "asaMsanizye",
+        "asAsAyizye",
+        "asaMsanizyAvahi",
+        "asAsAyizyAvahi",
+        "asaMsanizyAmahi",
+        "asAsAyizyAmahi"
+      ],
+      "alrut": [
+        "saMsanizyate",
+        "sAsAyizyate",
+        "saMsanizyete",
+        "sAsAyizyete",
+        "saMsanizyante",
+        "sAsAyizyante",
+        "saMsanizyase",
+        "sAsAyizyase",
+        "saMsanizyeTe",
+        "sAsAyizyeTe",
+        "saMsanizyaDve",
+        "sAsAyizyaDve",
+        "saMsanizye",
+        "sAsAyizye",
+        "saMsanizyAvahe",
+        "sAsAyizyAvahe",
+        "saMsanizyAmahe",
+        "sAsAyizyAmahe"
+      ],
+      "alung": [
+        "asaMsani",
+        "asAsAyi",
+        "asaMsanizAtAm",
+        "asAsAyizAtAm",
+        "asaMsanizata",
+        "asAsAyizata",
+        "asaMsanizWAH",
+        "asAsAyizWAH",
+        "asaMsanizATAm",
+        "asAsAyizATAm",
+        "asaMsaniDvam",
+        "asAsAyiQvam",
+        "asAsAyiDvam",
+        "asaMsanizi",
+        "asAsAyizi",
+        "asaMsanizvahi",
+        "asAsAyizvahi",
+        "asaMsanizmahi",
+        "asAsAyizmahi"
+      ],
+      "alut": [
+        "saMsanitA",
+        "sAsAyitA",
+        "saMsanitArO",
+        "sAsAyitArO",
+        "saMsanitAraH",
+        "sAsAyitAraH",
+        "saMsanitAse",
+        "sAsAyitAse",
+        "saMsanitAsATe",
+        "sAsAyitAsATe",
+        "saMsanitADve",
+        "sAsAyitADve",
+        "saMsanitAhe",
+        "sAsAyitAhe",
+        "saMsanitAsvahe",
+        "sAsAyitAsvahe",
+        "saMsanitAsmahe",
+        "sAsAyitAsmahe"
+      ],
+      "avidhiling": [
+        "saMsanyeta",
+        "sAsAyyeta",
+        "saMsanyeyAtAm",
+        "sAsAyyeyAtAm",
+        "saMsanyeran",
+        "sAsAyyeran",
+        "saMsanyeTAH",
+        "sAsAyyeTAH",
+        "saMsanyeyATAm",
+        "sAsAyyeyATAm",
+        "saMsanyeDvam",
+        "sAsAyyeDvam",
+        "saMsanyeya",
+        "sAsAyyeya",
+        "saMsanyevahi",
+        "sAsAyyevahi",
+        "saMsanyemahi",
+        "sAsAyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "saMsanyAt",
+        "saMsanyAd",
+        "saMsAyAt",
+        "saMsAyAd",
+        "saMsanyAstAm",
+        "saMsAyAstAm",
+        "saMsanyAsuH",
+        "saMsAyAsuH",
+        "saMsanyAH",
+        "saMsAyAH",
+        "saMsanyAstam",
+        "saMsAyAstam",
+        "saMsanyAsta",
+        "saMsAyAsta",
+        "saMsanyAsam",
+        "saMsAyAsam",
+        "saMsanyAsva",
+        "saMsAyAsva",
+        "saMsanyAsma",
+        "saMsAyAsma"
+      ],
+      "plang": [
+        "asaMsanIt",
+        "asaMsanId",
+        "asaMsan",
+        "asaMsAtAm",
+        "asaMsanuH",
+        "asaMsanIH",
+        "asaMsan",
+        "asaMsAtam",
+        "asaMsAta",
+        "asaMsanam",
+        "asaMsanva",
+        "asaMsanma"
+      ],
+      "plat": [
+        "saMsanIti",
+        "saMsanti",
+        "saMsAtaH",
+        "saMsanati",
+        "saMsaMsi",
+        "saMsanIzi",
+        "saMsATaH",
+        "saMsATa",
+        "saMsanImi",
+        "saMsanmi",
+        "saMsanvaH",
+        "saMsanmaH"
+      ],
+      "plit": [
+        "saMsanAYcakAra",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "saMsanAYcakratuH",
+        "saMsanAmAsatuH",
+        "saMsanAmbaBUvatuH",
+        "saMsanAYcakruH",
+        "saMsanAmAsuH",
+        "saMsanAmbaBUvuH",
+        "saMsanAYcakarTa",
+        "saMsanAmAsiTa",
+        "saMsanAmbaBUviTa",
+        "saMsanAYcakraTuH",
+        "saMsanAmAsaTuH",
+        "saMsanAmbaBUvaTuH",
+        "saMsanAYcakra",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "saMsanAYcakara",
+        "saMsanAYcakAra",
+        "saMsanAmAsa",
+        "saMsanAmbaBUva",
+        "saMsanAYcakfva",
+        "saMsanAmAsiva",
+        "saMsanAmbaBUviva",
+        "saMsanAYcakfma",
+        "saMsanAmAsima",
+        "saMsanAmbaBUvima"
+      ],
+      "plot": [
+        "saMsanItu",
+        "saMsantu",
+        "saMsAtAt",
+        "saMsAtAd",
+        "saMsAtAm",
+        "saMsanatu",
+        "saMsAtAt",
+        "saMsAtAd",
+        "saMsAhi",
+        "saMsAtam",
+        "saMsAta",
+        "saMsanAni",
+        "saMsanAva",
+        "saMsanAma"
+      ],
+      "plrung": [
+        "asaMsanizyat",
+        "asaMsanizyad",
+        "asaMsanizyatAm",
+        "asaMsanizyan",
+        "asaMsanizyaH",
+        "asaMsanizyatam",
+        "asaMsanizyata",
+        "asaMsanizyam",
+        "asaMsanizyAva",
+        "asaMsanizyAma"
+      ],
+      "plrut": [
+        "saMsanizyati",
+        "saMsanizyataH",
+        "saMsanizyanti",
+        "saMsanizyasi",
+        "saMsanizyaTaH",
+        "saMsanizyaTa",
+        "saMsanizyAmi",
+        "saMsanizyAvaH",
+        "saMsanizyAmaH"
+      ],
+      "plung": [
+        "asaMsanIt",
+        "asaMsanId",
+        "asaMsAnIt",
+        "asaMsAnId",
+        "asaMsanizwAm",
+        "asaMsAnizwAm",
+        "asaMsanizuH",
+        "asaMsAnizuH",
+        "asaMsanIH",
+        "asaMsAnIH",
+        "asaMsanizwam",
+        "asaMsAnizwam",
+        "asaMsanizwa",
+        "asaMsAnizwa",
+        "asaMsanizam",
+        "asaMsAnizam",
+        "asaMsanizva",
+        "asaMsAnizva",
+        "asaMsanizma",
+        "asaMsAnizma"
+      ],
+      "plut": [
+        "saMsanitA",
+        "saMsanitArO",
+        "saMsanitAraH",
+        "saMsanitAsi",
+        "saMsanitAsTaH",
+        "saMsanitAsTa",
+        "saMsanitAsmi",
+        "saMsanitAsvaH",
+        "saMsanitAsmaH"
+      ],
+      "pvidhiling": [
+        "saMsanyAt",
+        "saMsanyAd",
+        "saMsAyAt",
+        "saMsAyAd",
+        "saMsanyAtAm",
+        "saMsAyAtAm",
+        "saMsanyuH",
+        "saMsAyuH",
+        "saMsanyAH",
+        "saMsAyAH",
+        "saMsanyAtam",
+        "saMsAyAtam",
+        "saMsanyAta",
+        "saMsAyAta",
+        "saMsanyAm",
+        "saMsAyAm",
+        "saMsanyAva",
+        "saMsAyAva",
+        "saMsanyAma",
+        "saMsAyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "saMsanizIzwa",
+        "saMsAnizIzwa",
+        "saMsanizIyAstAm",
+        "saMsAnizIyAstAm",
+        "saMsanizIran",
+        "saMsAnizIran",
+        "saMsanizIzWAH",
+        "saMsAnizIzWAH",
+        "saMsanizIyAsTAm",
+        "saMsAnizIyAsTAm",
+        "saMsanizIDvam",
+        "saMsAnizIDvam",
+        "saMsanizIya",
+        "saMsAnizIya",
+        "saMsanizIvahi",
+        "saMsAnizIvahi",
+        "saMsanizImahi",
+        "saMsAnizImahi"
+      ],
+      "alang": [
+        "asaMsanyata",
+        "asaMsAyata",
+        "asaMsanyetAm",
+        "asaMsAyetAm",
+        "asaMsanyanta",
+        "asaMsAyanta",
+        "asaMsanyaTAH",
+        "asaMsAyaTAH",
+        "asaMsanyeTAm",
+        "asaMsAyeTAm",
+        "asaMsanyaDvam",
+        "asaMsAyaDvam",
+        "asaMsanye",
+        "asaMsAye",
+        "asaMsanyAvahi",
+        "asaMsAyAvahi",
+        "asaMsanyAmahi",
+        "asaMsAyAmahi"
+      ],
+      "alat": [
+        "saMsanyate",
+        "saMsAyate",
+        "saMsanyete",
+        "saMsAyete",
+        "saMsanyante",
+        "saMsAyante",
+        "saMsanyase",
+        "saMsAyase",
+        "saMsanyeTe",
+        "saMsAyeTe",
+        "saMsanyaDve",
+        "saMsAyaDve",
+        "saMsanye",
+        "saMsAye",
+        "saMsanyAvahe",
+        "saMsAyAvahe",
+        "saMsanyAmahe",
+        "saMsAyAmahe"
+      ],
+      "alit": [
+        "saMsanAYcakre",
+        "saMsanAmAse",
+        "saMsanAmbaBUve",
+        "saMsanAYcakrAte",
+        "saMsanAmAsAte",
+        "saMsanAmbaBUvAte",
+        "saMsanAYcakrire",
+        "saMsanAmAsire",
+        "saMsanAmbaBUvire",
+        "saMsanAYcakfze",
+        "saMsanAmAsize",
+        "saMsanAmbaBUvize",
+        "saMsanAYcakrATe",
+        "saMsanAmAsATe",
+        "saMsanAmbaBUvATe",
+        "saMsanAYcakfQve",
+        "saMsanAmAsiDve",
+        "saMsanAmbaBUviQve",
+        "saMsanAYcakre",
+        "saMsanAmAhe",
+        "saMsanAmbaBUve",
+        "saMsanAYcakfvahe",
+        "saMsanAmAsivahe",
+        "saMsanAmbaBUvivahe",
+        "saMsanAYcakfmahe",
+        "saMsanAmAsimahe",
+        "saMsanAmbaBUvimahe"
+      ],
+      "alot": [
+        "saMsanyatAm",
+        "saMsAyatAm",
+        "saMsanyetAm",
+        "saMsAyetAm",
+        "saMsanyantAm",
+        "saMsAyantAm",
+        "saMsanyasva",
+        "saMsAyasva",
+        "saMsanyeTAm",
+        "saMsAyeTAm",
+        "saMsanyaDvam",
+        "saMsAyaDvam",
+        "saMsanyE",
+        "saMsAyE",
+        "saMsanyAvahE",
+        "saMsAyAvahE",
+        "saMsanyAmahE",
+        "saMsAyAmahE"
+      ],
+      "alrung": [
+        "asaMsanizyata",
+        "asaMsAnizyata",
+        "asaMsanizyetAm",
+        "asaMsAnizyetAm",
+        "asaMsanizyanta",
+        "asaMsAnizyanta",
+        "asaMsanizyaTAH",
+        "asaMsAnizyaTAH",
+        "asaMsanizyeTAm",
+        "asaMsAnizyeTAm",
+        "asaMsanizyaDvam",
+        "asaMsAnizyaDvam",
+        "asaMsanizye",
+        "asaMsAnizye",
+        "asaMsanizyAvahi",
+        "asaMsAnizyAvahi",
+        "asaMsanizyAmahi",
+        "asaMsAnizyAmahi"
+      ],
+      "alrut": [
+        "saMsanizyate",
+        "saMsAnizyate",
+        "saMsanizyete",
+        "saMsAnizyete",
+        "saMsanizyante",
+        "saMsAnizyante",
+        "saMsanizyase",
+        "saMsAnizyase",
+        "saMsanizyeTe",
+        "saMsAnizyeTe",
+        "saMsanizyaDve",
+        "saMsAnizyaDve",
+        "saMsanizye",
+        "saMsAnizye",
+        "saMsanizyAvahe",
+        "saMsAnizyAvahe",
+        "saMsanizyAmahe",
+        "saMsAnizyAmahe"
+      ],
+      "alung": [
+        "asaMsAni",
+        "asaMsanizAtAm",
+        "asaMsAnizAtAm",
+        "asaMsanizata",
+        "asaMsAnizata",
+        "asaMsanizWAH",
+        "asaMsAnizWAH",
+        "asaMsanizATAm",
+        "asaMsAnizATAm",
+        "asaMsaniDvam",
+        "asaMsAniDvam",
+        "asaMsanizi",
+        "asaMsAnizi",
+        "asaMsanizvahi",
+        "asaMsAnizvahi",
+        "asaMsanizmahi",
+        "asaMsAnizmahi"
+      ],
+      "alut": [
+        "saMsanitA",
+        "saMsAnitA",
+        "saMsanitArO",
+        "saMsAnitArO",
+        "saMsanitAraH",
+        "saMsAnitAraH",
+        "saMsanitAse",
+        "saMsAnitAse",
+        "saMsanitAsATe",
+        "saMsAnitAsATe",
+        "saMsanitADve",
+        "saMsAnitADve",
+        "saMsanitAhe",
+        "saMsAnitAhe",
+        "saMsanitAsvahe",
+        "saMsAnitAsvahe",
+        "saMsanitAsmahe",
+        "saMsAnitAsmahe"
+      ],
+      "avidhiling": [
+        "saMsanyeta",
+        "saMsAyeta",
+        "saMsanyeyAtAm",
+        "saMsAyeyAtAm",
+        "saMsanyeran",
+        "saMsAyeran",
+        "saMsanyeTAH",
+        "saMsAyeTAH",
+        "saMsanyeyATAm",
+        "saMsAyeyATAm",
+        "saMsanyeDvam",
+        "saMsAyeDvam",
+        "saMsanyeya",
+        "saMsAyeya",
+        "saMsanyevahi",
+        "saMsAyevahi",
+        "saMsanyemahi",
+        "saMsAyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "sana",
+          "m": "sanaH",
+          "f": "sanA",
+          "n": "sanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sananIya",
+          "m": "sananIyaH",
+          "f": "sananIyA",
+          "n": "sananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAta",
+          "m": "sAtaH",
+          "f": "sAtA",
+          "n": "sAtam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAtavat",
+          "m": "sAtavAn",
+          "f": "sAtavatI",
+          "n": "sAtavat/sAtavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAti",
+          "m": "",
+          "f": "sAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "senivas",
+          "m": "senivAn",
+          "f": "senuzI",
+          "n": "senivat/senivad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sAna",
+          "m": "sAnaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sanvAna",
+          "m": "sanvAnaH",
+          "f": "sanvAnA",
+          "n": "sanvAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "sAnya",
+          "m": "sAnyaH",
+          "f": "sAnyA",
+          "n": "sAnyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAnaka",
+          "m": "sAnakaH",
+          "f": "sAnikA",
+          "n": "sAnakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sanitavya",
+          "m": "sanitavyaH",
+          "f": "sanitavyA",
+          "n": "sanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sanitf",
+          "m": "sanitA",
+          "f": "sanitrI",
+          "n": "sanitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAyamAna",
+          "m": "sAyamAnaH",
+          "f": "sAyamAnA",
+          "n": "sAyamAnam"
+        },
+        {
+          "base": "sanyamAna",
+          "m": "sanyamAnaH",
+          "f": "sanyamAnA",
+          "n": "sanyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sanana",
+          "m": "",
+          "f": "",
+          "n": "sananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sanaka",
+          "m": "sanakaH",
+          "f": "sanikA",
+          "n": "sanakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sanvat",
+          "m": "sanvan",
+          "f": "sanvatI",
+          "n": "sanvat/sanvad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sanvAna",
+          "m": "sanvAnaH",
+          "f": "sanvAnA",
+          "n": "sanvAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sanizyamARa",
+          "m": "sanizyamARaH",
+          "f": "sanizyamARA",
+          "n": "sanizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sanizyat",
+          "m": "sanizyan",
+          "f": "sanizyatI/sanizyantI",
+          "n": "sanizyat/sanizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sanizyamARa",
+          "m": "sanizyamARaH",
+          "f": "sanizyamARA",
+          "n": "sanizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "sisanizA",
+          "m": "",
+          "f": "sisanizA",
+          "n": ""
+        },
+        {
+          "base": "sizAsA",
+          "m": "",
+          "f": "sizAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sisaniza",
+          "m": "sisanizaH",
+          "f": "sisanizA",
+          "n": "sisanizam"
+        },
+        {
+          "base": "sizAsa",
+          "m": "sizAsaH",
+          "f": "sizAsA",
+          "n": "sizAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sisanizaRIya",
+          "m": "sisanizaRIyaH",
+          "f": "sisanizaRIyA",
+          "n": "sisanizaRIyam"
+        },
+        {
+          "base": "sizAsanIya",
+          "m": "sizAsanIyaH",
+          "f": "sizAsanIyA",
+          "n": "sizAsanIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "sisanizu",
+          "m": "sisanizuH",
+          "f": "sisanizuH",
+          "n": "sisanizu"
+        },
+        {
+          "base": "sizAsu",
+          "m": "sizAsuH",
+          "f": "sizAsuH",
+          "n": "sizAsu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sisanizita",
+          "m": "sisanizitaH",
+          "f": "sisanizitA",
+          "n": "sisanizitam"
+        },
+        {
+          "base": "sizAsita",
+          "m": "sizAsitaH",
+          "f": "sizAsitA",
+          "n": "sizAsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sisanizitavat",
+          "m": "sisanizitavAn",
+          "f": "sisanizitavatI",
+          "n": "sisanizitavat/sisanizitavad"
+        },
+        {
+          "base": "sizAsitavat",
+          "m": "sizAsitavAn",
+          "f": "sizAsitavatI",
+          "n": "sizAsitavat/sizAsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sisanizwi",
+          "m": "",
+          "f": "sisanizwiH",
+          "n": ""
+        },
+        {
+          "base": "sizAsti",
+          "m": "",
+          "f": "sizAstiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sisanizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sizAsitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sisanizAmbaBUvas",
+          "m": "sisanizAmbaBUvAn",
+          "f": "sisanizAmbaBUzI",
+          "n": "sisanizAmbaBUvat/sisanizAmbaBUvad"
+        },
+        {
+          "base": "sisanizAmAsivas",
+          "m": "sisanizAmAsivAn",
+          "f": "sisanizAmAsyuzI",
+          "n": "sisanizAmAsivat/sisanizAmAsivad"
+        },
+        {
+          "base": "sisanizAYcakfvas",
+          "m": "sisanizAYcakfvAn",
+          "f": "sisanizAYcakruzI",
+          "n": "sisanizAYcakfvat/sisanizAYcakfvad"
+        },
+        {
+          "base": "sizAsAmbaBUvas",
+          "m": "sizAsAmbaBUvAn",
+          "f": "sizAsAmbaBUzI",
+          "n": "sizAsAmbaBUvat/sizAsAmbaBUvad"
+        },
+        {
+          "base": "sizAsAmAsivas",
+          "m": "sizAsAmAsivAn",
+          "f": "sizAsAmAsyuzI",
+          "n": "sizAsAmAsivat/sizAsAmAsivad"
+        },
+        {
+          "base": "sizAsAYcakfvas",
+          "m": "sizAsAYcakfvAn",
+          "f": "sizAsAYcakruzI",
+          "n": "sizAsAYcakfvat/sizAsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sisaniza",
+          "m": "sisanizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sizAsa",
+          "m": "sizAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sisanizamARa",
+          "m": "sisanizamARaH",
+          "f": "sisanizamARA",
+          "n": "sisanizamARam"
+        },
+        {
+          "base": "sizAsamAna",
+          "m": "sizAsamAnaH",
+          "f": "sizAsamAnA",
+          "n": "sizAsamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sisanizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sizAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sisanizaka",
+          "m": "sisanizakaH",
+          "f": "sisanizikA",
+          "n": "sisanizakam"
+        },
+        {
+          "base": "sizAsaka",
+          "m": "sizAsakaH",
+          "f": "sizAsikA",
+          "n": "sizAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sisanizitavya",
+          "m": "sisanizitavyaH",
+          "f": "sisanizitavyA",
+          "n": "sisanizitavyam"
+        },
+        {
+          "base": "sizAsitavya",
+          "m": "sizAsitavyaH",
+          "f": "sizAsitavyA",
+          "n": "sizAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sisanizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "sizAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sisanizitf",
+          "m": "sisanizitA",
+          "f": "sisanizitrI",
+          "n": "sisanizitf"
+        },
+        {
+          "base": "sizAsitf",
+          "m": "sizAsitA",
+          "f": "sizAsitrI",
+          "n": "sizAsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sisanizyamARa",
+          "m": "sisanizyamARaH",
+          "f": "sisanizyamARA",
+          "n": "sisanizyamARam"
+        },
+        {
+          "base": "sizAsyamAna",
+          "m": "sizAsyamAnaH",
+          "f": "sizAsyamAnA",
+          "n": "sizAsyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sisanizya",
+          "m": "sisanizyaH",
+          "f": "sisanizyA",
+          "n": "sisanizyam"
+        },
+        {
+          "base": "sizAsya",
+          "m": "sizAsyaH",
+          "f": "sizAsyA",
+          "n": "sizAsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasisanizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasizAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sisanizaRa",
+          "m": "",
+          "f": "",
+          "n": "sisanizaRam"
+        },
+        {
+          "base": "sizAsana",
+          "m": "",
+          "f": "",
+          "n": "sizAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sisanizaka",
+          "m": "sisanizakaH",
+          "f": "sisanizikA",
+          "n": "sisanizakam"
+        },
+        {
+          "base": "sizAsaka",
+          "m": "sizAsakaH",
+          "f": "sizAsikA",
+          "n": "sizAsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sisanizat",
+          "m": "sisanizan",
+          "f": "sisanizantI",
+          "n": "sisanizat/sisanizad"
+        },
+        {
+          "base": "sizAsat",
+          "m": "sizAsan",
+          "f": "sizAsantI",
+          "n": "sizAsat/sizAsad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sisanizamARa",
+          "m": "sisanizamARaH",
+          "f": "sisanizamARA",
+          "n": "sisanizamARam"
+        },
+        {
+          "base": "sizAsamAna",
+          "m": "sizAsamAnaH",
+          "f": "sizAsamAnA",
+          "n": "sizAsamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sisanizizyamARa",
+          "m": "sisanizizyamARaH",
+          "f": "sisanizizyamARA",
+          "n": "sisanizizyamARam"
+        },
+        {
+          "base": "sizAsizyamARa",
+          "m": "sizAsizyamARaH",
+          "f": "sizAsizyamARA",
+          "n": "sizAsizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sisanizizyat",
+          "m": "sisanizizyan",
+          "f": "sisanizizyatI/sisanizizyantI",
+          "n": "sisanizizyat/sisanizizyad"
+        },
+        {
+          "base": "sizAsizyat",
+          "m": "sizAsizyan",
+          "f": "sizAsizyatI/sizAsizyantI",
+          "n": "sizAsizyat/sizAsizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sisanizizyamARa",
+          "m": "sisanizizyamARaH",
+          "f": "sisanizizyamARA",
+          "n": "sisanizizyamARam"
+        },
+        {
+          "base": "sizAsizyamARa",
+          "m": "sizAsizyamARaH",
+          "f": "sizAsizyamARA",
+          "n": "sizAsizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "sAna",
+          "m": "sAnaH",
+          "f": "sAnA",
+          "n": "sAnam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sAnanIya",
+          "m": "sAnanIyaH",
+          "f": "sAnanIyA",
+          "n": "sAnanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAnita",
+          "m": "sAnitaH",
+          "f": "sAnitA",
+          "n": "sAnitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAnitavat",
+          "m": "sAnitavAn",
+          "f": "sAnitavatI",
+          "n": "sAnitavat/sAnitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAnti",
+          "m": "",
+          "f": "sAntiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAnayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sAnayAmbaBUvas",
+          "m": "sAnayAmbaBUvAn",
+          "f": "sAnayAmbaBUzI",
+          "n": "sAnayAmbaBUvat/sAnayAmbaBUvad"
+        },
+        {
+          "base": "sAnayAmAsivas",
+          "m": "sAnayAmAsivAn",
+          "f": "sAnayAmAsyuzI",
+          "n": "sAnayAmAsivat/sAnayAmAsivad"
+        },
+        {
+          "base": "sAnayAYcakfvas",
+          "m": "sAnayAYcakfvAn",
+          "f": "sAnayAYcakruzI",
+          "n": "sAnayAYcakfvat/sAnayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sAnayamAna",
+          "m": "sAnayamAnaH",
+          "f": "sAnayamAnA",
+          "n": "sAnayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAnaka",
+          "m": "sAnakaH",
+          "f": "sAnikA",
+          "n": "sAnakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sAnayitavya",
+          "m": "sAnayitavyaH",
+          "f": "sAnayitavyA",
+          "n": "sAnayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sAnayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sAnayitf",
+          "m": "sAnayitA",
+          "f": "sAnayitrI",
+          "n": "sAnayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAnyamAna",
+          "m": "sAnyamAnaH",
+          "f": "sAnyamAnA",
+          "n": "sAnyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sAnya",
+          "m": "sAnyaH",
+          "f": "sAnyA",
+          "n": "sAnyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAnya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sAnana",
+          "m": "",
+          "f": "",
+          "n": "sAnanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sAnaka",
+          "m": "sAnakaH",
+          "f": "sAnikA",
+          "n": "sAnakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sAnayat",
+          "m": "sAnayan",
+          "f": "sAnayantI",
+          "n": "sAnayat/sAnayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sAnayamAna",
+          "m": "sAnayamAnaH",
+          "f": "sAnayamAnA",
+          "n": "sAnayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sAnizyamARa",
+          "m": "sAnizyamARaH",
+          "f": "sAnizyamARA",
+          "n": "sAnizyamARam"
+        },
+        {
+          "base": "sAnayizyamARa",
+          "m": "sAnayizyamARaH",
+          "f": "sAnayizyamARA",
+          "n": "sAnayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sAnayizyat",
+          "m": "sAnayizyan",
+          "f": "sAnayizyatI/sAnayizyantI",
+          "n": "sAnayizyat/sAnayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sAnayizyamARa",
+          "m": "sAnayizyamARaH",
+          "f": "sAnayizyamARA",
+          "n": "sAnayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "sAsAyA",
+          "m": "",
+          "f": "sAsAyA",
+          "n": ""
+        },
+        {
+          "base": "saMsanA",
+          "m": "",
+          "f": "saMsanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sAsA",
+          "m": "sAsAH",
+          "f": "sAsA",
+          "n": "sAsAm"
+        },
+        {
+          "base": "saMsana",
+          "m": "saMsanaH",
+          "f": "saMsanA",
+          "n": "saMsanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sAsAyanIya",
+          "m": "sAsAyanIyaH",
+          "f": "sAsAyanIyA",
+          "n": "sAsAyanIyam"
+        },
+        {
+          "base": "saMsananIya",
+          "m": "saMsananIyaH",
+          "f": "saMsananIyA",
+          "n": "saMsananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAsAyita",
+          "m": "sAsAyitaH",
+          "f": "sAsAyitA",
+          "n": "sAsAyitam"
+        },
+        {
+          "base": "saMsanita",
+          "m": "saMsanitaH",
+          "f": "saMsanitA",
+          "n": "saMsanitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAsAyitavat",
+          "m": "sAsAyitavAn",
+          "f": "sAsAyitavatI",
+          "n": "sAsAyitavat/sAsAyitavad"
+        },
+        {
+          "base": "saMsanitavat",
+          "m": "saMsanitavAn",
+          "f": "saMsanitavatI",
+          "n": "saMsanitavat/saMsanitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAsAti",
+          "m": "",
+          "f": "sAsAtiH",
+          "n": ""
+        },
+        {
+          "base": "saMsanti",
+          "m": "",
+          "f": "saMsantiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAsAyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "saMsanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sAsAyAmbaBUvas",
+          "m": "sAsAyAmbaBUvAn",
+          "f": "sAsAyAmbaBUzI",
+          "n": "sAsAyAmbaBUvat/sAsAyAmbaBUvad"
+        },
+        {
+          "base": "sAsAyAmAsivas",
+          "m": "sAsAyAmAsivAn",
+          "f": "sAsAyAmAsyuzI",
+          "n": "sAsAyAmAsivat/sAsAyAmAsivad"
+        },
+        {
+          "base": "sAsAyAYcakfvas",
+          "m": "sAsAyAYcakfvAn",
+          "f": "sAsAyAYcakruzI",
+          "n": "sAsAyAYcakfvat/sAsAyAYcakfvad"
+        },
+        {
+          "base": "saMsanAmbaBUvas",
+          "m": "saMsanAmbaBUvAn",
+          "f": "saMsanAmbaBUzI",
+          "n": "saMsanAmbaBUvat/saMsanAmbaBUvad"
+        },
+        {
+          "base": "saMsanAmAsivas",
+          "m": "saMsanAmAsivAn",
+          "f": "saMsanAmAsyuzI",
+          "n": "saMsanAmAsivat/saMsanAmAsivad"
+        },
+        {
+          "base": "saMsanAYcakfvas",
+          "m": "saMsanAYcakfvAn",
+          "f": "saMsanAYcakruzI",
+          "n": "saMsanAYcakfvat/saMsanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sAsAya",
+          "m": "sAsAyaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "saMsana",
+          "m": "saMsanaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sAsAyamAna",
+          "m": "sAsAyamAnaH",
+          "f": "sAsAyamAnA",
+          "n": "sAsAyamAnam"
+        },
+        {
+          "base": "saMsanyamAna",
+          "m": "saMsanyamAnaH",
+          "f": "saMsanyamAnA",
+          "n": "saMsanyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAsAyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "saMsanam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAsAyaka",
+          "m": "sAsAyakaH",
+          "f": "sAsAyikA",
+          "n": "sAsAyakam"
+        },
+        {
+          "base": "saMsanaka",
+          "m": "saMsanakaH",
+          "f": "saMsanikA",
+          "n": "saMsanakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sAsAyitavya",
+          "m": "sAsAyitavyaH",
+          "f": "sAsAyitavyA",
+          "n": "sAsAyitavyam"
+        },
+        {
+          "base": "saMsanitavya",
+          "m": "saMsanitavyaH",
+          "f": "saMsanitavyA",
+          "n": "saMsanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sAsAyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "saMsanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sAsAyitf",
+          "m": "sAsAyitA",
+          "f": "sAsAyitrI",
+          "n": "sAsAyitf"
+        },
+        {
+          "base": "saMsanitf",
+          "m": "saMsanitA",
+          "f": "saMsanitrI",
+          "n": "saMsanitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAsAyyamAna",
+          "m": "sAsAyyamAnaH",
+          "f": "sAsAyyamAnA",
+          "n": "sAsAyyamAnam"
+        },
+        {
+          "base": "saMsanyamAna",
+          "m": "saMsanyamAnaH",
+          "f": "saMsanyamAnA",
+          "n": "saMsanyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sAsAyya",
+          "m": "sAsAyyaH",
+          "f": "sAsAyyA",
+          "n": "sAsAyyam"
+        },
+        {
+          "base": "saMsanya",
+          "m": "saMsanyaH",
+          "f": "saMsanyA",
+          "n": "saMsanyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAsAyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasaMsanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sAsAyana",
+          "m": "",
+          "f": "",
+          "n": "sAsAyanam"
+        },
+        {
+          "base": "saMsanana",
+          "m": "",
+          "f": "",
+          "n": "saMsananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sAsAyaka",
+          "m": "sAsAyakaH",
+          "f": "sAsAyikA",
+          "n": "sAsAyakam"
+        },
+        {
+          "base": "saMsanaka",
+          "m": "saMsanakaH",
+          "f": "saMsanikA",
+          "n": "saMsanakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sAsAyamAna",
+          "m": "sAsAyamAnaH",
+          "f": "sAsAyamAnA",
+          "n": "sAsAyamAnam"
+        },
+        {
+          "base": "saMsanyamAna",
+          "m": "saMsanyamAnaH",
+          "f": "saMsanyamAnA",
+          "n": "saMsanyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sAsAyizyamARa",
+          "m": "sAsAyizyamARaH",
+          "f": "sAsAyizyamARA",
+          "n": "sAsAyizyamARam"
+        },
+        {
+          "base": "saMsanizyamARa",
+          "m": "saMsanizyamARaH",
+          "f": "saMsanizyamARA",
+          "n": "saMsanizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sAsAyizyamARa",
+          "m": "sAsAyizyamARaH",
+          "f": "sAsAyizyamARA",
+          "n": "sAsAyizyamARam"
+        },
+        {
+          "base": "saMsanizyamARa",
+          "m": "saMsanizyamARaH",
+          "f": "saMsanizyamARA",
+          "n": "saMsanizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "saMsanA",
+          "m": "",
+          "f": "saMsanA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "saMsana",
+          "m": "saMsanaH",
+          "f": "saMsanA",
+          "n": "saMsanam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "saMsananIya",
+          "m": "saMsananIyaH",
+          "f": "saMsananIyA",
+          "n": "saMsananIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "saMsAta",
+          "m": "saMsAtaH",
+          "f": "saMsAtA",
+          "n": "saMsAtam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "saMsAtavat",
+          "m": "saMsAtavAn",
+          "f": "saMsAtavatI",
+          "n": "saMsAtavat/saMsAtavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "saMsAti",
+          "m": "",
+          "f": "saMsAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "saMsAtvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "saMsanitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "saMsanAmbaBUvas",
+          "m": "saMsanAmbaBUvAn",
+          "f": "saMsanAmbaBUzI",
+          "n": "saMsanAmbaBUvat/saMsanAmbaBUvad"
+        },
+        {
+          "base": "saMsanAmAsivas",
+          "m": "saMsanAmAsivAn",
+          "f": "saMsanAmAsyuzI",
+          "n": "saMsanAmAsivat/saMsanAmAsivad"
+        },
+        {
+          "base": "saMsanAYcakfvas",
+          "m": "saMsanAYcakfvAn",
+          "f": "saMsanAYcakruzI",
+          "n": "saMsanAYcakfvat/saMsanAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "saMsAna",
+          "m": "saMsAnaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "saMsanAna",
+          "m": "saMsanAnaH",
+          "f": "saMsanAnA",
+          "n": "saMsanAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "saMsAnam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "saMsAnaka",
+          "m": "saMsAnakaH",
+          "f": "saMsAnikA",
+          "n": "saMsAnakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "saMsanitavya",
+          "m": "saMsanitavyaH",
+          "f": "saMsanitavyA",
+          "n": "saMsanitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "saMsanitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "saMsanitf",
+          "m": "saMsanitA",
+          "f": "saMsanitrI",
+          "n": "saMsanitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "saMsAyamAna",
+          "m": "saMsAyamAnaH",
+          "f": "saMsAyamAnA",
+          "n": "saMsAyamAnam"
+        },
+        {
+          "base": "saMsanyamAna",
+          "m": "saMsanyamAnaH",
+          "f": "saMsanyamAnA",
+          "n": "saMsanyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasaMsAya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasaMsanya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "saMsanana",
+          "m": "",
+          "f": "",
+          "n": "saMsananam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "saMsanaka",
+          "m": "saMsanakaH",
+          "f": "saMsanikA",
+          "n": "saMsanakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "saMsanat",
+          "m": "saMsanat/saMsanad",
+          "f": "saMsanatI",
+          "n": "saMsanat/saMsanad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "saMsAnizyamARa",
+          "m": "saMsAnizyamARaH",
+          "f": "saMsAnizyamARA",
+          "n": "saMsAnizyamARam"
+        },
+        {
+          "base": "saMsanizyamARa",
+          "m": "saMsanizyamARaH",
+          "f": "saMsanizyamARA",
+          "n": "saMsanizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "saMsanizyat",
+          "m": "saMsanizyan",
+          "f": "saMsanizyatI/saMsanizyantI",
+          "n": "saMsanizyat/saMsanizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "san",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "pari",
+      "examples": [
+        "'pari va sanyAd vaDAt' (SAM0 gf0 3.9.1)."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "pari": {
+      "prefix": "pari",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "parisanizIzwa",
+            "parisanizIyAstAm",
+            "parisanizIran",
+            "parisanizIzWAH",
+            "parisanizIyAsTAm",
+            "parisanizIDvam",
+            "parisanizIya",
+            "parisanizIvahi",
+            "parisanizImahi"
+          ],
+          "alang": [
+            "paryasanuta",
+            "paryasanvAtAm",
+            "paryasanvata",
+            "paryasanuTAH",
+            "paryasanvATAm",
+            "paryasanuDvam",
+            "paryasanvi",
+            "paryasanvahi",
+            "paryasanuvahi",
+            "paryasanmahi",
+            "paryasanumahi"
+          ],
+          "alat": [
+            "parisanute",
+            "parisanvAte",
+            "parisanvate",
+            "parisanuze",
+            "parisanvATe",
+            "parisanuDve",
+            "parisanve",
+            "parisanvahe",
+            "parisanuvahe",
+            "parisanmahe",
+            "parisanumahe"
+          ],
+          "alit": [
+            "parizeRe",
+            "parizeRAte",
+            "parizeRire",
+            "parizeRize",
+            "parizeRATe",
+            "parizeRiDve",
+            "parizeRe",
+            "parizeRivahe",
+            "parizeRimahe"
+          ],
+          "alot": [
+            "parisanutAm",
+            "parisanvAtAm",
+            "parisanvatAm",
+            "parisanuzva",
+            "parisanvATAm",
+            "parisanuDvam",
+            "parisanavE",
+            "parisanavAvahE",
+            "parisanavAmahE"
+          ],
+          "alrung": [
+            "paryasanizyata",
+            "paryasanizyetAm",
+            "paryasanizyanta",
+            "paryasanizyaTAH",
+            "paryasanizyeTAm",
+            "paryasanizyaDvam",
+            "paryasanizye",
+            "paryasanizyAvahi",
+            "paryasanizyAmahi"
+          ],
+          "alrut": [
+            "parisanizyate",
+            "parisanizyete",
+            "parisanizyante",
+            "parisanizyase",
+            "parisanizyeTe",
+            "parisanizyaDve",
+            "parisanizye",
+            "parisanizyAvahe",
+            "parisanizyAmahe"
+          ],
+          "alung": [
+            "paryasAta",
+            "paryasanizwa",
+            "paryasanizAtAm",
+            "paryasanizata",
+            "paryasATAH",
+            "paryasanizWAH",
+            "paryasanizATAm",
+            "paryasaniDvam",
+            "paryasanizi",
+            "paryasanizvahi",
+            "paryasanizmahi"
+          ],
+          "alut": [
+            "parisanitA",
+            "parisanitArO",
+            "parisanitAraH",
+            "parisanitAse",
+            "parisanitAsATe",
+            "parisanitADve",
+            "parisanitAhe",
+            "parisanitAsvahe",
+            "parisanitAsmahe"
+          ],
+          "avidhiling": [
+            "parisanvIta",
+            "parisanvIyAtAm",
+            "parisanvIran",
+            "parisanvITAH",
+            "parisanvIyATAm",
+            "parisanvIDvam",
+            "parisanvIya",
+            "parisanvIvahi",
+            "parisanvImahi"
+          ],
+          "pashirling": [
+            "parisAyAt",
+            "parisAyAd",
+            "parisanyAt",
+            "parisanyAd",
+            "parisAyAstAm",
+            "parisanyAstAm",
+            "parisAyAsuH",
+            "parisanyAsuH",
+            "parisAyAH",
+            "parisanyAH",
+            "parisAyAstam",
+            "parisanyAstam",
+            "parisAyAsta",
+            "parisanyAsta",
+            "parisAyAsam",
+            "parisanyAsam",
+            "parisAyAsva",
+            "parisanyAsva",
+            "parisAyAsma",
+            "parisanyAsma"
+          ],
+          "plang": [
+            "paryasanot",
+            "paryasanod",
+            "paryasanutAm",
+            "paryasanvan",
+            "paryasanoH",
+            "paryasanutam",
+            "paryasanuta",
+            "paryasanavam",
+            "paryasanva",
+            "paryasanuva",
+            "paryasanma",
+            "paryasanuma"
+          ],
+          "plat": [
+            "parisanoti",
+            "parisanutaH",
+            "parisanvanti",
+            "parisanozi",
+            "parisanuTaH",
+            "parisanuTa",
+            "parisanomi",
+            "parisanvaH",
+            "parisanuvaH",
+            "parisanmaH",
+            "parisanumaH"
+          ],
+          "plit": [
+            "parisasAna",
+            "parizeRatuH",
+            "parizeRuH",
+            "parizeRiTa",
+            "parizeRaTuH",
+            "parizeRa",
+            "parisasana",
+            "parisasAna",
+            "parizeRiva",
+            "parizeRima"
+          ],
+          "plot": [
+            "parisanutAt",
+            "parisanutAd",
+            "parisanotu",
+            "parisanutAm",
+            "parisanvantu",
+            "parisanutAt",
+            "parisanutAd",
+            "parisanu",
+            "parisanutam",
+            "parisanuta",
+            "parisanavAni",
+            "parisanavAva",
+            "parisanavAma"
+          ],
+          "plrung": [
+            "paryasanizyat",
+            "paryasanizyad",
+            "paryasanizyatAm",
+            "paryasanizyan",
+            "paryasanizyaH",
+            "paryasanizyatam",
+            "paryasanizyata",
+            "paryasanizyam",
+            "paryasanizyAva",
+            "paryasanizyAma"
+          ],
+          "plrut": [
+            "parisanizyati",
+            "parisanizyataH",
+            "parisanizyanti",
+            "parisanizyasi",
+            "parisanizyaTaH",
+            "parisanizyaTa",
+            "parisanizyAmi",
+            "parisanizyAvaH",
+            "parisanizyAmaH"
+          ],
+          "plung": [
+            "paryasanIt",
+            "paryasanId",
+            "paryasAnIt",
+            "paryasAnId",
+            "paryasanizwAm",
+            "paryasAnizwAm",
+            "paryasanizuH",
+            "paryasAnizuH",
+            "paryasanIH",
+            "paryasAnIH",
+            "paryasanizwam",
+            "paryasAnizwam",
+            "paryasanizwa",
+            "paryasAnizwa",
+            "paryasanizam",
+            "paryasAnizam",
+            "paryasanizva",
+            "paryasAnizva",
+            "paryasanizma",
+            "paryasAnizma"
+          ],
+          "plut": [
+            "parisanitA",
+            "parisanitArO",
+            "parisanitAraH",
+            "parisanitAsi",
+            "parisanitAsTaH",
+            "parisanitAsTa",
+            "parisanitAsmi",
+            "parisanitAsvaH",
+            "parisanitAsmaH"
+          ],
+          "pvidhiling": [
+            "parisanuyAt",
+            "parisanuyAd",
+            "parisanuyAtAm",
+            "parisanuyuH",
+            "parisanuyAH",
+            "parisanuyAtam",
+            "parisanuyAta",
+            "parisanuyAm",
+            "parisanuyAva",
+            "parisanuyAma"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "parisanizIzwa",
+            "parisanizIyAstAm",
+            "parisanizIran",
+            "parisanizIzWAH",
+            "parisanizIyAsTAm",
+            "parisanizIDvam",
+            "parisanizIya",
+            "parisanizIvahi",
+            "parisanizImahi"
+          ],
+          "alang": [
+            "paryasAyata",
+            "paryasanyata",
+            "paryasAyetAm",
+            "paryasanyetAm",
+            "paryasAyanta",
+            "paryasanyanta",
+            "paryasAyaTAH",
+            "paryasanyaTAH",
+            "paryasAyeTAm",
+            "paryasanyeTAm",
+            "paryasAyaDvam",
+            "paryasanyaDvam",
+            "paryasAye",
+            "paryasanye",
+            "paryasAyAvahi",
+            "paryasanyAvahi",
+            "paryasAyAmahi",
+            "paryasanyAmahi"
+          ],
+          "alat": [
+            "parisAyate",
+            "parisanyate",
+            "parisAyete",
+            "parisanyete",
+            "parisAyante",
+            "parisanyante",
+            "parisAyase",
+            "parisanyase",
+            "parisAyeTe",
+            "parisanyeTe",
+            "parisAyaDve",
+            "parisanyaDve",
+            "parisAye",
+            "parisanye",
+            "parisAyAvahe",
+            "parisanyAvahe",
+            "parisAyAmahe",
+            "parisanyAmahe"
+          ],
+          "alit": [
+            "parizeRe",
+            "parizeRAte",
+            "parizeRire",
+            "parizeRize",
+            "parizeRATe",
+            "parizeRiDve",
+            "parizeRe",
+            "parizeRivahe",
+            "parizeRimahe"
+          ],
+          "alot": [
+            "parisAyatAm",
+            "parisanyatAm",
+            "parisAyetAm",
+            "parisanyetAm",
+            "parisAyantAm",
+            "parisanyantAm",
+            "parisAyasva",
+            "parisanyasva",
+            "parisAyeTAm",
+            "parisanyeTAm",
+            "parisAyaDvam",
+            "parisanyaDvam",
+            "parisAyE",
+            "parisanyE",
+            "parisAyAvahE",
+            "parisanyAvahE",
+            "parisAyAmahE",
+            "parisanyAmahE"
+          ],
+          "alrung": [
+            "paryasanizyata",
+            "paryasanizyetAm",
+            "paryasanizyanta",
+            "paryasanizyaTAH",
+            "paryasanizyeTAm",
+            "paryasanizyaDvam",
+            "paryasanizye",
+            "paryasanizyAvahi",
+            "paryasanizyAmahi"
+          ],
+          "alrut": [
+            "parisanizyate",
+            "parisanizyete",
+            "parisanizyante",
+            "parisanizyase",
+            "parisanizyeTe",
+            "parisanizyaDve",
+            "parisanizye",
+            "parisanizyAvahe",
+            "parisanizyAmahe"
+          ],
+          "alung": [
+            "paryasAni",
+            "paryasanizAtAm",
+            "paryasanizata",
+            "paryasATAH",
+            "paryasanizWAH",
+            "paryasanizATAm",
+            "paryasaniDvam",
+            "paryasanizi",
+            "paryasanizvahi",
+            "paryasanizmahi"
+          ],
+          "alut": [
+            "parisanitA",
+            "parisanitArO",
+            "parisanitAraH",
+            "parisanitAse",
+            "parisanitAsATe",
+            "parisanitADve",
+            "parisanitAhe",
+            "parisanitAsvahe",
+            "parisanitAsmahe"
+          ],
+          "avidhiling": [
+            "parisAyeta",
+            "parisanyeta",
+            "parisAyeyAtAm",
+            "parisanyeyAtAm",
+            "parisAyeran",
+            "parisanyeran",
+            "parisAyeTAH",
+            "parisanyeTAH",
+            "parisAyeyATAm",
+            "parisanyeyATAm",
+            "parisAyeDvam",
+            "parisanyeDvam",
+            "parisAyeya",
+            "parisanyeya",
+            "parisAyevahi",
+            "parisanyevahi",
+            "parisAyemahi",
+            "parisanyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "parisisanizizIzwa",
+            "parisizAsizIzwa",
+            "parisisanizizIyAstAm",
+            "parisizAsizIyAstAm",
+            "parisisanizizIran",
+            "parisizAsizIran",
+            "parisisanizizIzWAH",
+            "parisizAsizIzWAH",
+            "parisisanizizIyAsTAm",
+            "parisizAsizIyAsTAm",
+            "parisisanizizIDvam",
+            "parisizAsizIDvam",
+            "parisisanizizIya",
+            "parisizAsizIya",
+            "parisisanizizIvahi",
+            "parisizAsizIvahi",
+            "parisisanizizImahi",
+            "parisizAsizImahi"
+          ],
+          "alang": [
+            "paryasisanizata",
+            "paryasisAsata",
+            "paryasisanizetAm",
+            "paryasisAsetAm",
+            "paryasisanizanta",
+            "paryasisAsanta",
+            "paryasisanizaTAH",
+            "paryasisAsaTAH",
+            "paryasisanizeTAm",
+            "paryasisAseTAm",
+            "paryasisanizaDvam",
+            "paryasisAsaDvam",
+            "paryasisanize",
+            "paryasisAse",
+            "paryasisanizAvahi",
+            "paryasisAsAvahi",
+            "paryasisanizAmahi",
+            "paryasisAsAmahi"
+          ],
+          "alat": [
+            "parisisanizate",
+            "parisizAsate",
+            "parisisanizete",
+            "parisizAsete",
+            "parisisanizante",
+            "parisizAsante",
+            "parisisanizase",
+            "parisizAsase",
+            "parisisanizeTe",
+            "parisizAseTe",
+            "parisisanizaDve",
+            "parisizAsaDve",
+            "parisisanize",
+            "parisizAse",
+            "parisisanizAvahe",
+            "parisizAsAvahe",
+            "parisisanizAmahe",
+            "parisizAsAmahe"
+          ],
+          "alit": [
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakre",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakre",
+            "parisisanizAmbaBUvatuH",
+            "parisisanizAmAsatuH",
+            "parisisanizAYcakrAte",
+            "parisizAsAmbaBUvatuH",
+            "parisizAsAmAsatuH",
+            "parisizAsAYcakrAte",
+            "parisisanizAmbaBUvuH",
+            "parisisanizAmAsuH",
+            "parisisanizAYcakrire",
+            "parisizAsAmbaBUvuH",
+            "parisizAsAmAsuH",
+            "parisizAsAYcakrire",
+            "parisisanizAmbaBUviTa",
+            "parisisanizAmAsiTa",
+            "parisisanizAYcakfze",
+            "parisizAsAmbaBUviTa",
+            "parisizAsAmAsiTa",
+            "parisizAsAYcakfze",
+            "parisisanizAmbaBUvaTuH",
+            "parisisanizAmAsaTuH",
+            "parisisanizAYcakrATe",
+            "parisizAsAmbaBUvaTuH",
+            "parisizAsAmAsaTuH",
+            "parisizAsAYcakrATe",
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakfQve",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakfQve",
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakre",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakre",
+            "parisisanizAmbaBUviva",
+            "parisisanizAmAsiva",
+            "parisisanizAYcakfvahe",
+            "parisizAsAmbaBUviva",
+            "parisizAsAmAsiva",
+            "parisizAsAYcakfvahe",
+            "parisisanizAmbaBUvima",
+            "parisisanizAmAsima",
+            "parisisanizAYcakfmahe",
+            "parisizAsAmbaBUvima",
+            "parisizAsAmAsima",
+            "parisizAsAYcakfmahe"
+          ],
+          "alot": [
+            "parisisanizatAm",
+            "parisizAsatAm",
+            "parisisanizetAm",
+            "parisizAsetAm",
+            "parisisanizantAm",
+            "parisizAsantAm",
+            "parisisanizasva",
+            "parisizAsasva",
+            "parisisanizeTAm",
+            "parisizAseTAm",
+            "parisisanizaDvam",
+            "parisizAsaDvam",
+            "parisisanizE",
+            "parisizAsE",
+            "parisisanizAvahE",
+            "parisizAsAvahE",
+            "parisisanizAmahE",
+            "parisizAsAmahE"
+          ],
+          "alrung": [
+            "paryasisanizizyata",
+            "paryasisAsizyata",
+            "paryasisanizizyetAm",
+            "paryasisAsizyetAm",
+            "paryasisanizizyanta",
+            "paryasisAsizyanta",
+            "paryasisanizizyaTAH",
+            "paryasisAsizyaTAH",
+            "paryasisanizizyeTAm",
+            "paryasisAsizyeTAm",
+            "paryasisanizizyaDvam",
+            "paryasisAsizyaDvam",
+            "paryasisanizizye",
+            "paryasisAsizye",
+            "paryasisanizizyAvahi",
+            "paryasisAsizyAvahi",
+            "paryasisanizizyAmahi",
+            "paryasisAsizyAmahi"
+          ],
+          "alrut": [
+            "parisisanizizyate",
+            "parisizAsizyate",
+            "parisisanizizyete",
+            "parisizAsizyete",
+            "parisisanizizyante",
+            "parisizAsizyante",
+            "parisisanizizyase",
+            "parisizAsizyase",
+            "parisisanizizyeTe",
+            "parisizAsizyeTe",
+            "parisisanizizyaDve",
+            "parisizAsizyaDve",
+            "parisisanizizye",
+            "parisizAsizye",
+            "parisisanizizyAvahe",
+            "parisizAsizyAvahe",
+            "parisisanizizyAmahe",
+            "parisizAsizyAmahe"
+          ],
+          "alung": [
+            "paryasisanizizwa",
+            "paryasisAsizwa",
+            "paryasisanizizAtAm",
+            "paryasisAsizAtAm",
+            "paryasisanizizata",
+            "paryasisAsizata",
+            "paryasisanizizWAH",
+            "paryasisAsizWAH",
+            "paryasisanizizATAm",
+            "paryasisAsizATAm",
+            "paryasisaniziDvam",
+            "paryasisAsiDvam",
+            "paryasisanizizi",
+            "paryasisAsizi",
+            "paryasisanizizvahi",
+            "paryasisAsizvahi",
+            "paryasisanizizmahi",
+            "paryasisAsizmahi"
+          ],
+          "alut": [
+            "parisisanizitA",
+            "parisizAsitA",
+            "parisisanizitArO",
+            "parisizAsitArO",
+            "parisisanizitAraH",
+            "parisizAsitAraH",
+            "parisisanizitAse",
+            "parisizAsitAse",
+            "parisisanizitAsATe",
+            "parisizAsitAsATe",
+            "parisisanizitADve",
+            "parisizAsitADve",
+            "parisisanizitAhe",
+            "parisizAsitAhe",
+            "parisisanizitAsvahe",
+            "parisizAsitAsvahe",
+            "parisisanizitAsmahe",
+            "parisizAsitAsmahe"
+          ],
+          "avidhiling": [
+            "parisisanizeta",
+            "parisizAseta",
+            "parisisanizeyAtAm",
+            "parisizAseyAtAm",
+            "parisisanizeran",
+            "parisizAseran",
+            "parisisanizeTAH",
+            "parisizAseTAH",
+            "parisisanizeyATAm",
+            "parisizAseyATAm",
+            "parisisanizeDvam",
+            "parisizAseDvam",
+            "parisisanizeya",
+            "parisizAseya",
+            "parisisanizevahi",
+            "parisizAsevahi",
+            "parisisanizemahi",
+            "parisizAsemahi"
+          ],
+          "pashirling": [
+            "parisisanizyAt",
+            "parisisanizyAd",
+            "parisizAsyAt",
+            "parisizAsyAd",
+            "parisisanizyAstAm",
+            "parisizAsyAstAm",
+            "parisisanizyAsuH",
+            "parisizAsyAsuH",
+            "parisisanizyAH",
+            "parisizAsyAH",
+            "parisisanizyAstam",
+            "parisizAsyAstam",
+            "parisisanizyAsta",
+            "parisizAsyAsta",
+            "parisisanizyAsam",
+            "parisizAsyAsam",
+            "parisisanizyAsva",
+            "parisizAsyAsva",
+            "parisisanizyAsma",
+            "parisizAsyAsma"
+          ],
+          "plang": [
+            "paryasisanizat",
+            "paryasisanizad",
+            "paryasisAsat",
+            "paryasisAsad",
+            "paryasisanizatAm",
+            "paryasisAsatAm",
+            "paryasisanizan",
+            "paryasisAsan",
+            "paryasisanizaH",
+            "paryasisAsaH",
+            "paryasisanizatam",
+            "paryasisAsatam",
+            "paryasisanizata",
+            "paryasisAsata",
+            "paryasisanizam",
+            "paryasisAsam",
+            "paryasisanizAva",
+            "paryasisAsAva",
+            "paryasisanizAma",
+            "paryasisAsAma"
+          ],
+          "plat": [
+            "parisisanizati",
+            "parisizAsati",
+            "parisisanizataH",
+            "parisizAsataH",
+            "parisisanizanti",
+            "parisizAsanti",
+            "parisisanizasi",
+            "parisizAsasi",
+            "parisisanizaTaH",
+            "parisizAsaTaH",
+            "parisisanizaTa",
+            "parisizAsaTa",
+            "parisisanizAmi",
+            "parisizAsAmi",
+            "parisisanizAvaH",
+            "parisizAsAvaH",
+            "parisisanizAmaH",
+            "parisizAsAmaH"
+          ],
+          "plit": [
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakAra",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakAra",
+            "parisisanizAmbaBUvatuH",
+            "parisisanizAmAsatuH",
+            "parisisanizAYcakratuH",
+            "parisizAsAmbaBUvatuH",
+            "parisizAsAmAsatuH",
+            "parisizAsAYcakratuH",
+            "parisisanizAmbaBUvuH",
+            "parisisanizAmAsuH",
+            "parisisanizAYcakruH",
+            "parisizAsAmbaBUvuH",
+            "parisizAsAmAsuH",
+            "parisizAsAYcakruH",
+            "parisisanizAmbaBUviTa",
+            "parisisanizAmAsiTa",
+            "parisisanizAYcakarTa",
+            "parisizAsAmbaBUviTa",
+            "parisizAsAmAsiTa",
+            "parisizAsAYcakarTa",
+            "parisisanizAmbaBUvaTuH",
+            "parisisanizAmAsaTuH",
+            "parisisanizAYcakraTuH",
+            "parisizAsAmbaBUvaTuH",
+            "parisizAsAmAsaTuH",
+            "parisizAsAYcakraTuH",
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakra",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakra",
+            "parisisanizAmbaBUva",
+            "parisisanizAmAsa",
+            "parisisanizAYcakara",
+            "parisisanizAYcakAra",
+            "parisizAsAmbaBUva",
+            "parisizAsAmAsa",
+            "parisizAsAYcakara",
+            "parisizAsAYcakAra",
+            "parisisanizAmbaBUviva",
+            "parisisanizAmAsiva",
+            "parisisanizAYcakfva",
+            "parisizAsAmbaBUviva",
+            "parisizAsAmAsiva",
+            "parisizAsAYcakfva",
+            "parisisanizAmbaBUvima",
+            "parisisanizAmAsima",
+            "parisisanizAYcakfma",
+            "parisizAsAmbaBUvima",
+            "parisizAsAmAsima",
+            "parisizAsAYcakfma"
+          ],
+          "plot": [
+            "parisisanizatAt",
+            "parisisanizatAd",
+            "parisisanizatu",
+            "parisizAsatAt",
+            "parisizAsatAd",
+            "parisizAsatu",
+            "parisisanizatAm",
+            "parisizAsatAm",
+            "parisisanizantu",
+            "parisizAsantu",
+            "parisisanizatAt",
+            "parisisanizatAd",
+            "parisisaniza",
+            "parisizAsatAt",
+            "parisizAsatAd",
+            "parisizAsa",
+            "parisisanizatam",
+            "parisizAsatam",
+            "parisisanizata",
+            "parisizAsata",
+            "parisisanizARi",
+            "parisizAsAni",
+            "parisisanizAva",
+            "parisizAsAva",
+            "parisisanizAma",
+            "parisizAsAma"
+          ],
+          "plrung": [
+            "paryasisanizizyat",
+            "paryasisanizizyad",
+            "paryasisAsizyat",
+            "paryasisAsizyad",
+            "paryasisanizizyatAm",
+            "paryasisAsizyatAm",
+            "paryasisanizizyan",
+            "paryasisAsizyan",
+            "paryasisanizizyaH",
+            "paryasisAsizyaH",
+            "paryasisanizizyatam",
+            "paryasisAsizyatam",
+            "paryasisanizizyata",
+            "paryasisAsizyata",
+            "paryasisanizizyam",
+            "paryasisAsizyam",
+            "paryasisanizizyAva",
+            "paryasisAsizyAva",
+            "paryasisanizizyAma",
+            "paryasisAsizyAma"
+          ],
+          "plrut": [
+            "parisisanizizyati",
+            "parisizAsizyati",
+            "parisisanizizyataH",
+            "parisizAsizyataH",
+            "parisisanizizyanti",
+            "parisizAsizyanti",
+            "parisisanizizyasi",
+            "parisizAsizyasi",
+            "parisisanizizyaTaH",
+            "parisizAsizyaTaH",
+            "parisisanizizyaTa",
+            "parisizAsizyaTa",
+            "parisisanizizyAmi",
+            "parisizAsizyAmi",
+            "parisisanizizyAvaH",
+            "parisizAsizyAvaH",
+            "parisisanizizyAmaH",
+            "parisizAsizyAmaH"
+          ],
+          "plung": [
+            "paryasisanizIt",
+            "paryasisanizId",
+            "paryasisAsIt",
+            "paryasisAsId",
+            "paryasisanizizwAm",
+            "paryasisAsizwAm",
+            "paryasisanizizuH",
+            "paryasisAsizuH",
+            "paryasisanizIH",
+            "paryasisAsIH",
+            "paryasisanizizwam",
+            "paryasisAsizwam",
+            "paryasisanizizwa",
+            "paryasisAsizwa",
+            "paryasisanizizam",
+            "paryasisAsizam",
+            "paryasisanizizva",
+            "paryasisAsizva",
+            "paryasisanizizma",
+            "paryasisAsizma"
+          ],
+          "plut": [
+            "parisisanizitA",
+            "parisizAsitA",
+            "parisisanizitArO",
+            "parisizAsitArO",
+            "parisisanizitAraH",
+            "parisizAsitAraH",
+            "parisisanizitAsi",
+            "parisizAsitAsi",
+            "parisisanizitAsTaH",
+            "parisizAsitAsTaH",
+            "parisisanizitAsTa",
+            "parisizAsitAsTa",
+            "parisisanizitAsmi",
+            "parisizAsitAsmi",
+            "parisisanizitAsvaH",
+            "parisizAsitAsvaH",
+            "parisisanizitAsmaH",
+            "parisizAsitAsmaH"
+          ],
+          "pvidhiling": [
+            "parisisanizet",
+            "parisisanized",
+            "parisizAset",
+            "parisizAsed",
+            "parisisanizetAm",
+            "parisizAsetAm",
+            "parisisanizeyuH",
+            "parisizAseyuH",
+            "parisisanizeH",
+            "parisizAseH",
+            "parisisanizetam",
+            "parisizAsetam",
+            "parisisanizeta",
+            "parisizAseta",
+            "parisisanizeyam",
+            "parisizAseyam",
+            "parisisanizeva",
+            "parisizAseva",
+            "parisisanizema",
+            "parisizAsema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "parisisanizizIzwa",
+            "parisizAsizIzwa",
+            "parisisanizizIyAstAm",
+            "parisizAsizIyAstAm",
+            "parisisanizizIran",
+            "parisizAsizIran",
+            "parisisanizizIzWAH",
+            "parisizAsizIzWAH",
+            "parisisanizizIyAsTAm",
+            "parisizAsizIyAsTAm",
+            "parisisanizizIDvam",
+            "parisizAsizIDvam",
+            "parisisanizizIya",
+            "parisizAsizIya",
+            "parisisanizizIvahi",
+            "parisizAsizIvahi",
+            "parisisanizizImahi",
+            "parisizAsizImahi"
+          ],
+          "alang": [
+            "paryasisanizyata",
+            "paryasisAsyata",
+            "paryasisanizyetAm",
+            "paryasisAsyetAm",
+            "paryasisanizyanta",
+            "paryasisAsyanta",
+            "paryasisanizyaTAH",
+            "paryasisAsyaTAH",
+            "paryasisanizyeTAm",
+            "paryasisAsyeTAm",
+            "paryasisanizyaDvam",
+            "paryasisAsyaDvam",
+            "paryasisanizye",
+            "paryasisAsye",
+            "paryasisanizyAvahi",
+            "paryasisAsyAvahi",
+            "paryasisanizyAmahi",
+            "paryasisAsyAmahi"
+          ],
+          "alat": [
+            "parisisanizyate",
+            "parisizAsyate",
+            "parisisanizyete",
+            "parisizAsyete",
+            "parisisanizyante",
+            "parisizAsyante",
+            "parisisanizyase",
+            "parisizAsyase",
+            "parisisanizyeTe",
+            "parisizAsyeTe",
+            "parisisanizyaDve",
+            "parisizAsyaDve",
+            "parisisanizye",
+            "parisizAsye",
+            "parisisanizyAvahe",
+            "parisizAsyAvahe",
+            "parisisanizyAmahe",
+            "parisizAsyAmahe"
+          ],
+          "alit": [
+            "parisisanizAmbaBUve",
+            "parisisanizAmAse",
+            "parisisanizAYcakre",
+            "parisizAsAmbaBUve",
+            "parisizAsAmAse",
+            "parisizAsAYcakre",
+            "parisisanizAmbaBUvAte",
+            "parisisanizAmAsAte",
+            "parisisanizAYcakrAte",
+            "parisizAsAmbaBUvAte",
+            "parisizAsAmAsAte",
+            "parisizAsAYcakrAte",
+            "parisisanizAmbaBUvire",
+            "parisisanizAmAsire",
+            "parisisanizAYcakrire",
+            "parisizAsAmbaBUvire",
+            "parisizAsAmAsire",
+            "parisizAsAYcakrire",
+            "parisisanizAmbaBUvize",
+            "parisisanizAmAsize",
+            "parisisanizAYcakfze",
+            "parisizAsAmbaBUvize",
+            "parisizAsAmAsize",
+            "parisizAsAYcakfze",
+            "parisisanizAmbaBUvATe",
+            "parisisanizAmAsATe",
+            "parisisanizAYcakrATe",
+            "parisizAsAmbaBUvATe",
+            "parisizAsAmAsATe",
+            "parisizAsAYcakrATe",
+            "parisisanizAmbaBUviQve",
+            "parisisanizAmAsiDve",
+            "parisisanizAYcakfQve",
+            "parisizAsAmbaBUviQve",
+            "parisizAsAmAsiDve",
+            "parisizAsAYcakfQve",
+            "parisisanizAmbaBUve",
+            "parisisanizAmAhe",
+            "parisisanizAYcakre",
+            "parisizAsAmbaBUve",
+            "parisizAsAmAhe",
+            "parisizAsAYcakre",
+            "parisisanizAmbaBUvivahe",
+            "parisisanizAmAsivahe",
+            "parisisanizAYcakfvahe",
+            "parisizAsAmbaBUvivahe",
+            "parisizAsAmAsivahe",
+            "parisizAsAYcakfvahe",
+            "parisisanizAmbaBUvimahe",
+            "parisisanizAmAsimahe",
+            "parisisanizAYcakfmahe",
+            "parisizAsAmbaBUvimahe",
+            "parisizAsAmAsimahe",
+            "parisizAsAYcakfmahe"
+          ],
+          "alot": [
+            "parisisanizyatAm",
+            "parisizAsyatAm",
+            "parisisanizyetAm",
+            "parisizAsyetAm",
+            "parisisanizyantAm",
+            "parisizAsyantAm",
+            "parisisanizyasva",
+            "parisizAsyasva",
+            "parisisanizyeTAm",
+            "parisizAsyeTAm",
+            "parisisanizyaDvam",
+            "parisizAsyaDvam",
+            "parisisanizyE",
+            "parisizAsyE",
+            "parisisanizyAvahE",
+            "parisizAsyAvahE",
+            "parisisanizyAmahE",
+            "parisizAsyAmahE"
+          ],
+          "alrung": [
+            "paryasisanizizyata",
+            "paryasisAsizyata",
+            "paryasisanizizyetAm",
+            "paryasisAsizyetAm",
+            "paryasisanizizyanta",
+            "paryasisAsizyanta",
+            "paryasisanizizyaTAH",
+            "paryasisAsizyaTAH",
+            "paryasisanizizyeTAm",
+            "paryasisAsizyeTAm",
+            "paryasisanizizyaDvam",
+            "paryasisAsizyaDvam",
+            "paryasisanizizye",
+            "paryasisAsizye",
+            "paryasisanizizyAvahi",
+            "paryasisAsizyAvahi",
+            "paryasisanizizyAmahi",
+            "paryasisAsizyAmahi"
+          ],
+          "alrut": [
+            "parisisanizizyate",
+            "parisizAsizyate",
+            "parisisanizizyete",
+            "parisizAsizyete",
+            "parisisanizizyante",
+            "parisizAsizyante",
+            "parisisanizizyase",
+            "parisizAsizyase",
+            "parisisanizizyeTe",
+            "parisizAsizyeTe",
+            "parisisanizizyaDve",
+            "parisizAsizyaDve",
+            "parisisanizizye",
+            "parisizAsizye",
+            "parisisanizizyAvahe",
+            "parisizAsizyAvahe",
+            "parisisanizizyAmahe",
+            "parisizAsizyAmahe"
+          ],
+          "alung": [
+            "paryasisanizi",
+            "paryasisAsi",
+            "paryasisanizizAtAm",
+            "paryasisAsizAtAm",
+            "paryasisanizizata",
+            "paryasisAsizata",
+            "paryasisanizizWAH",
+            "paryasisAsizWAH",
+            "paryasisanizizATAm",
+            "paryasisAsizATAm",
+            "paryasisaniziDvam",
+            "paryasisAsiDvam",
+            "paryasisanizizi",
+            "paryasisAsizi",
+            "paryasisanizizvahi",
+            "paryasisAsizvahi",
+            "paryasisanizizmahi",
+            "paryasisAsizmahi"
+          ],
+          "alut": [
+            "parisisanizitA",
+            "parisizAsitA",
+            "parisisanizitArO",
+            "parisizAsitArO",
+            "parisisanizitAraH",
+            "parisizAsitAraH",
+            "parisisanizitAse",
+            "parisizAsitAse",
+            "parisisanizitAsATe",
+            "parisizAsitAsATe",
+            "parisisanizitADve",
+            "parisizAsitADve",
+            "parisisanizitAhe",
+            "parisizAsitAhe",
+            "parisisanizitAsvahe",
+            "parisizAsitAsvahe",
+            "parisisanizitAsmahe",
+            "parisizAsitAsmahe"
+          ],
+          "avidhiling": [
+            "parisisanizyeta",
+            "parisizAsyeta",
+            "parisisanizyeyAtAm",
+            "parisizAsyeyAtAm",
+            "parisisanizyeran",
+            "parisizAsyeran",
+            "parisisanizyeTAH",
+            "parisizAsyeTAH",
+            "parisisanizyeyATAm",
+            "parisizAsyeyATAm",
+            "parisisanizyeDvam",
+            "parisizAsyeDvam",
+            "parisisanizyeya",
+            "parisizAsyeya",
+            "parisisanizyevahi",
+            "parisizAsyevahi",
+            "parisisanizyemahi",
+            "parisizAsyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "parisAnayizIzwa",
+            "parisAnayizIyAstAm",
+            "parisAnayizIran",
+            "parisAnayizIzWAH",
+            "parisAnayizIyAsTAm",
+            "parisAnayizIQvam",
+            "parisAnayizIDvam",
+            "parisAnayizIya",
+            "parisAnayizIvahi",
+            "parisAnayizImahi"
+          ],
+          "alang": [
+            "paryasAnayata",
+            "paryasAnayetAm",
+            "paryasAnayanta",
+            "paryasAnayaTAH",
+            "paryasAnayeTAm",
+            "paryasAnayaDvam",
+            "paryasAnaye",
+            "paryasAnayAvahi",
+            "paryasAnayAmahi"
+          ],
+          "alat": [
+            "parisAnayate",
+            "parisAnayete",
+            "parisAnayante",
+            "parisAnayase",
+            "parisAnayeTe",
+            "parisAnayaDve",
+            "parisAnaye",
+            "parisAnayAvahe",
+            "parisAnayAmahe"
+          ],
+          "alit": [
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakre",
+            "parisAnayAmbaBUvatuH",
+            "parisAnayAmAsatuH",
+            "parisAnayAYcakrAte",
+            "parisAnayAmbaBUvuH",
+            "parisAnayAmAsuH",
+            "parisAnayAYcakrire",
+            "parisAnayAmbaBUviTa",
+            "parisAnayAmAsiTa",
+            "parisAnayAYcakfze",
+            "parisAnayAmbaBUvaTuH",
+            "parisAnayAmAsaTuH",
+            "parisAnayAYcakrATe",
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakfQve",
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakre",
+            "parisAnayAmbaBUviva",
+            "parisAnayAmAsiva",
+            "parisAnayAYcakfvahe",
+            "parisAnayAmbaBUvima",
+            "parisAnayAmAsima",
+            "parisAnayAYcakfmahe"
+          ],
+          "alot": [
+            "parisAnayatAm",
+            "parisAnayetAm",
+            "parisAnayantAm",
+            "parisAnayasva",
+            "parisAnayeTAm",
+            "parisAnayaDvam",
+            "parisAnayE",
+            "parisAnayAvahE",
+            "parisAnayAmahE"
+          ],
+          "alrung": [
+            "paryasAnayizyata",
+            "paryasAnayizyetAm",
+            "paryasAnayizyanta",
+            "paryasAnayizyaTAH",
+            "paryasAnayizyeTAm",
+            "paryasAnayizyaDvam",
+            "paryasAnayizye",
+            "paryasAnayizyAvahi",
+            "paryasAnayizyAmahi"
+          ],
+          "alrut": [
+            "parisAnayizyate",
+            "parisAnayizyete",
+            "parisAnayizyante",
+            "parisAnayizyase",
+            "parisAnayizyeTe",
+            "parisAnayizyaDve",
+            "parisAnayizye",
+            "parisAnayizyAvahe",
+            "parisAnayizyAmahe"
+          ],
+          "alung": [
+            "paryasIsanata",
+            "paryasIsanetAm",
+            "paryasIsananta",
+            "paryasIsanaTAH",
+            "paryasIsaneTAm",
+            "paryasIsanaDvam",
+            "paryasIsane",
+            "paryasIsanAvahi",
+            "paryasIsanAmahi"
+          ],
+          "alut": [
+            "parisAnayitA",
+            "parisAnayitArO",
+            "parisAnayitAraH",
+            "parisAnayitAse",
+            "parisAnayitAsATe",
+            "parisAnayitADve",
+            "parisAnayitAhe",
+            "parisAnayitAsvahe",
+            "parisAnayitAsmahe"
+          ],
+          "avidhiling": [
+            "parisAnayeta",
+            "parisAnayeyAtAm",
+            "parisAnayeran",
+            "parisAnayeTAH",
+            "parisAnayeyATAm",
+            "parisAnayeDvam",
+            "parisAnayeya",
+            "parisAnayevahi",
+            "parisAnayemahi"
+          ],
+          "pashirling": [
+            "parisAnyAt",
+            "parisAnyAd",
+            "parisAnyAstAm",
+            "parisAnyAsuH",
+            "parisAnyAH",
+            "parisAnyAstam",
+            "parisAnyAsta",
+            "parisAnyAsam",
+            "parisAnyAsva",
+            "parisAnyAsma"
+          ],
+          "plang": [
+            "paryasAnayat",
+            "paryasAnayad",
+            "paryasAnayatAm",
+            "paryasAnayan",
+            "paryasAnayaH",
+            "paryasAnayatam",
+            "paryasAnayata",
+            "paryasAnayam",
+            "paryasAnayAva",
+            "paryasAnayAma"
+          ],
+          "plat": [
+            "parisAnayati",
+            "parisAnayataH",
+            "parisAnayanti",
+            "parisAnayasi",
+            "parisAnayaTaH",
+            "parisAnayaTa",
+            "parisAnayAmi",
+            "parisAnayAvaH",
+            "parisAnayAmaH"
+          ],
+          "plit": [
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakAra",
+            "parisAnayAmbaBUvatuH",
+            "parisAnayAmAsatuH",
+            "parisAnayAYcakratuH",
+            "parisAnayAmbaBUvuH",
+            "parisAnayAmAsuH",
+            "parisAnayAYcakruH",
+            "parisAnayAmbaBUviTa",
+            "parisAnayAmAsiTa",
+            "parisAnayAYcakarTa",
+            "parisAnayAmbaBUvaTuH",
+            "parisAnayAmAsaTuH",
+            "parisAnayAYcakraTuH",
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakra",
+            "parisAnayAmbaBUva",
+            "parisAnayAmAsa",
+            "parisAnayAYcakara",
+            "parisAnayAYcakAra",
+            "parisAnayAmbaBUviva",
+            "parisAnayAmAsiva",
+            "parisAnayAYcakfva",
+            "parisAnayAmbaBUvima",
+            "parisAnayAmAsima",
+            "parisAnayAYcakfma"
+          ],
+          "plot": [
+            "parisAnayatAt",
+            "parisAnayatAd",
+            "parisAnayatu",
+            "parisAnayatAm",
+            "parisAnayantu",
+            "parisAnayatAt",
+            "parisAnayatAd",
+            "parisAnaya",
+            "parisAnayatam",
+            "parisAnayata",
+            "parisAnayAni",
+            "parisAnayAva",
+            "parisAnayAma"
+          ],
+          "plrung": [
+            "paryasAnayizyat",
+            "paryasAnayizyad",
+            "paryasAnayizyatAm",
+            "paryasAnayizyan",
+            "paryasAnayizyaH",
+            "paryasAnayizyatam",
+            "paryasAnayizyata",
+            "paryasAnayizyam",
+            "paryasAnayizyAva",
+            "paryasAnayizyAma"
+          ],
+          "plrut": [
+            "parisAnayizyati",
+            "parisAnayizyataH",
+            "parisAnayizyanti",
+            "parisAnayizyasi",
+            "parisAnayizyaTaH",
+            "parisAnayizyaTa",
+            "parisAnayizyAmi",
+            "parisAnayizyAvaH",
+            "parisAnayizyAmaH"
+          ],
+          "plung": [
+            "paryasIsanat",
+            "paryasIsanad",
+            "paryasIsanatAm",
+            "paryasIsanan",
+            "paryasIsanaH",
+            "paryasIsanatam",
+            "paryasIsanata",
+            "paryasIsanam",
+            "paryasIsanAva",
+            "paryasIsanAma"
+          ],
+          "plut": [
+            "parisAnayitA",
+            "parisAnayitArO",
+            "parisAnayitAraH",
+            "parisAnayitAsi",
+            "parisAnayitAsTaH",
+            "parisAnayitAsTa",
+            "parisAnayitAsmi",
+            "parisAnayitAsvaH",
+            "parisAnayitAsmaH"
+          ],
+          "pvidhiling": [
+            "parisAnayet",
+            "parisAnayed",
+            "parisAnayetAm",
+            "parisAnayeyuH",
+            "parisAnayeH",
+            "parisAnayetam",
+            "parisAnayeta",
+            "parisAnayeyam",
+            "parisAnayeva",
+            "parisAnayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "parisAnizIzwa",
+            "parisAnayizIzwa",
+            "parisAnizIyAstAm",
+            "parisAnayizIyAstAm",
+            "parisAnizIran",
+            "parisAnayizIran",
+            "parisAnizIzWAH",
+            "parisAnayizIzWAH",
+            "parisAnizIyAsTAm",
+            "parisAnayizIyAsTAm",
+            "parisAnizIDvam",
+            "parisAnayizIQvam",
+            "parisAnayizIDvam",
+            "parisAnizIya",
+            "parisAnayizIya",
+            "parisAnizIvahi",
+            "parisAnayizIvahi",
+            "parisAnizImahi",
+            "parisAnayizImahi"
+          ],
+          "alang": [
+            "paryasAnyata",
+            "paryasAnyetAm",
+            "paryasAnyanta",
+            "paryasAnyaTAH",
+            "paryasAnyeTAm",
+            "paryasAnyaDvam",
+            "paryasAnye",
+            "paryasAnyAvahi",
+            "paryasAnyAmahi"
+          ],
+          "alat": [
+            "parisAnyate",
+            "parisAnyete",
+            "parisAnyante",
+            "parisAnyase",
+            "parisAnyeTe",
+            "parisAnyaDve",
+            "parisAnye",
+            "parisAnyAvahe",
+            "parisAnyAmahe"
+          ],
+          "alit": [
+            "parisAnayAmbaBUve",
+            "parisAnayAmAse",
+            "parisAnayAYcakre",
+            "parisAnayAmbaBUvAte",
+            "parisAnayAmAsAte",
+            "parisAnayAYcakrAte",
+            "parisAnayAmbaBUvire",
+            "parisAnayAmAsire",
+            "parisAnayAYcakrire",
+            "parisAnayAmbaBUvize",
+            "parisAnayAmAsize",
+            "parisAnayAYcakfze",
+            "parisAnayAmbaBUvATe",
+            "parisAnayAmAsATe",
+            "parisAnayAYcakrATe",
+            "parisAnayAmbaBUviQve",
+            "parisAnayAmAsiDve",
+            "parisAnayAYcakfQve",
+            "parisAnayAmbaBUve",
+            "parisAnayAmAhe",
+            "parisAnayAYcakre",
+            "parisAnayAmbaBUvivahe",
+            "parisAnayAmAsivahe",
+            "parisAnayAYcakfvahe",
+            "parisAnayAmbaBUvimahe",
+            "parisAnayAmAsimahe",
+            "parisAnayAYcakfmahe"
+          ],
+          "alot": [
+            "parisAnyatAm",
+            "parisAnyetAm",
+            "parisAnyantAm",
+            "parisAnyasva",
+            "parisAnyeTAm",
+            "parisAnyaDvam",
+            "parisAnyE",
+            "parisAnyAvahE",
+            "parisAnyAmahE"
+          ],
+          "alrung": [
+            "paryasAnizyata",
+            "paryasAnayizyata",
+            "paryasAnizyetAm",
+            "paryasAnayizyetAm",
+            "paryasAnizyanta",
+            "paryasAnayizyanta",
+            "paryasAnizyaTAH",
+            "paryasAnayizyaTAH",
+            "paryasAnizyeTAm",
+            "paryasAnayizyeTAm",
+            "paryasAnizyaDvam",
+            "paryasAnayizyaDvam",
+            "paryasAnizye",
+            "paryasAnayizye",
+            "paryasAnizyAvahi",
+            "paryasAnayizyAvahi",
+            "paryasAnizyAmahi",
+            "paryasAnayizyAmahi"
+          ],
+          "alrut": [
+            "parisAnizyate",
+            "parisAnayizyate",
+            "parisAnizyete",
+            "parisAnayizyete",
+            "parisAnizyante",
+            "parisAnayizyante",
+            "parisAnizyase",
+            "parisAnayizyase",
+            "parisAnizyeTe",
+            "parisAnayizyeTe",
+            "parisAnizyaDve",
+            "parisAnayizyaDve",
+            "parisAnizye",
+            "parisAnayizye",
+            "parisAnizyAvahe",
+            "parisAnayizyAvahe",
+            "parisAnizyAmahe",
+            "parisAnayizyAmahe"
+          ],
+          "alung": [
+            "paryasAni",
+            "paryasAnizAtAm",
+            "paryasAnayizAtAm",
+            "paryasAnizata",
+            "paryasAnayizata",
+            "paryasAnizWAH",
+            "paryasAnayizWAH",
+            "paryasAnizATAm",
+            "paryasAnayizATAm",
+            "paryasAniDvam",
+            "paryasAnayiQvam",
+            "paryasAnayiDvam",
+            "paryasAnizi",
+            "paryasAnayizi",
+            "paryasAnizvahi",
+            "paryasAnayizvahi",
+            "paryasAnizmahi",
+            "paryasAnayizmahi"
+          ],
+          "alut": [
+            "parisAnitA",
+            "parisAnayitA",
+            "parisAnitArO",
+            "parisAnayitArO",
+            "parisAnitAraH",
+            "parisAnayitAraH",
+            "parisAnitAse",
+            "parisAnayitAse",
+            "parisAnitAsATe",
+            "parisAnayitAsATe",
+            "parisAnitADve",
+            "parisAnayitADve",
+            "parisAnitAhe",
+            "parisAnayitAhe",
+            "parisAnitAsvahe",
+            "parisAnayitAsvahe",
+            "parisAnitAsmahe",
+            "parisAnayitAsmahe"
+          ],
+          "avidhiling": [
+            "parisAnyeta",
+            "parisAnyeyAtAm",
+            "parisAnyeran",
+            "parisAnyeTAH",
+            "parisAnyeyATAm",
+            "parisAnyeDvam",
+            "parisAnyeya",
+            "parisAnyevahi",
+            "parisAnyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "parisAsAyizIzwa",
+            "parisaMsanizIzwa",
+            "parisAsAyizIyAstAm",
+            "parisaMsanizIyAstAm",
+            "parisAsAyizIran",
+            "parisaMsanizIran",
+            "parisAsAyizIzWAH",
+            "parisaMsanizIzWAH",
+            "parisAsAyizIyAsTAm",
+            "parisaMsanizIyAsTAm",
+            "parisAsAyizIQvam",
+            "parisAsAyizIDvam",
+            "parisaMsanizIDvam",
+            "parisAsAyizIya",
+            "parisaMsanizIya",
+            "parisAsAyizIvahi",
+            "parisaMsanizIvahi",
+            "parisAsAyizImahi",
+            "parisaMsanizImahi"
+          ],
+          "alang": [
+            "paryasAsAyata",
+            "paryasaMsanyata",
+            "paryasAsAyetAm",
+            "paryasaMsanyetAm",
+            "paryasAsAyanta",
+            "paryasaMsanyanta",
+            "paryasAsAyaTAH",
+            "paryasaMsanyaTAH",
+            "paryasAsAyeTAm",
+            "paryasaMsanyeTAm",
+            "paryasAsAyaDvam",
+            "paryasaMsanyaDvam",
+            "paryasAsAye",
+            "paryasaMsanye",
+            "paryasAsAyAvahi",
+            "paryasaMsanyAvahi",
+            "paryasAsAyAmahi",
+            "paryasaMsanyAmahi"
+          ],
+          "alat": [
+            "parisAsAyate",
+            "parisaMsanyate",
+            "parisAsAyete",
+            "parisaMsanyete",
+            "parisAsAyante",
+            "parisaMsanyante",
+            "parisAsAyase",
+            "parisaMsanyase",
+            "parisAsAyeTe",
+            "parisaMsanyeTe",
+            "parisAsAyaDve",
+            "parisaMsanyaDve",
+            "parisAsAye",
+            "parisaMsanye",
+            "parisAsAyAvahe",
+            "parisaMsanyAvahe",
+            "parisAsAyAmahe",
+            "parisaMsanyAmahe"
+          ],
+          "alit": [
+            "parisAsAyAmbaBUva",
+            "parisAsAyAmAsa",
+            "parisAsAyAYcakre",
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakre",
+            "parisAsAyAmbaBUvatuH",
+            "parisAsAyAmAsatuH",
+            "parisAsAyAYcakrAte",
+            "parisaMsanAmbaBUvatuH",
+            "parisaMsanAmAsatuH",
+            "parisaMsanAYcakrAte",
+            "parisAsAyAmbaBUvuH",
+            "parisAsAyAmAsuH",
+            "parisAsAyAYcakrire",
+            "parisaMsanAmbaBUvuH",
+            "parisaMsanAmAsuH",
+            "parisaMsanAYcakrire",
+            "parisAsAyAmbaBUviTa",
+            "parisAsAyAmAsiTa",
+            "parisAsAyAYcakfze",
+            "parisaMsanAmbaBUviTa",
+            "parisaMsanAmAsiTa",
+            "parisaMsanAYcakfze",
+            "parisAsAyAmbaBUvaTuH",
+            "parisAsAyAmAsaTuH",
+            "parisAsAyAYcakrATe",
+            "parisaMsanAmbaBUvaTuH",
+            "parisaMsanAmAsaTuH",
+            "parisaMsanAYcakrATe",
+            "parisAsAyAmbaBUva",
+            "parisAsAyAmAsa",
+            "parisAsAyAYcakfQve",
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakfQve",
+            "parisAsAyAmbaBUva",
+            "parisAsAyAmAsa",
+            "parisAsAyAYcakre",
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakre",
+            "parisAsAyAmbaBUviva",
+            "parisAsAyAmAsiva",
+            "parisAsAyAYcakfvahe",
+            "parisaMsanAmbaBUviva",
+            "parisaMsanAmAsiva",
+            "parisaMsanAYcakfvahe",
+            "parisAsAyAmbaBUvima",
+            "parisAsAyAmAsima",
+            "parisAsAyAYcakfmahe",
+            "parisaMsanAmbaBUvima",
+            "parisaMsanAmAsima",
+            "parisaMsanAYcakfmahe"
+          ],
+          "alot": [
+            "parisAsAyatAm",
+            "parisaMsanyatAm",
+            "parisAsAyetAm",
+            "parisaMsanyetAm",
+            "parisAsAyantAm",
+            "parisaMsanyantAm",
+            "parisAsAyasva",
+            "parisaMsanyasva",
+            "parisAsAyeTAm",
+            "parisaMsanyeTAm",
+            "parisAsAyaDvam",
+            "parisaMsanyaDvam",
+            "parisAsAyE",
+            "parisaMsanyE",
+            "parisAsAyAvahE",
+            "parisaMsanyAvahE",
+            "parisAsAyAmahE",
+            "parisaMsanyAmahE"
+          ],
+          "alrung": [
+            "paryasAsAyizyata",
+            "paryasaMsanizyata",
+            "paryasAsAyizyetAm",
+            "paryasaMsanizyetAm",
+            "paryasAsAyizyanta",
+            "paryasaMsanizyanta",
+            "paryasAsAyizyaTAH",
+            "paryasaMsanizyaTAH",
+            "paryasAsAyizyeTAm",
+            "paryasaMsanizyeTAm",
+            "paryasAsAyizyaDvam",
+            "paryasaMsanizyaDvam",
+            "paryasAsAyizye",
+            "paryasaMsanizye",
+            "paryasAsAyizyAvahi",
+            "paryasaMsanizyAvahi",
+            "paryasAsAyizyAmahi",
+            "paryasaMsanizyAmahi"
+          ],
+          "alrut": [
+            "parisAsAyizyate",
+            "parisaMsanizyate",
+            "parisAsAyizyete",
+            "parisaMsanizyete",
+            "parisAsAyizyante",
+            "parisaMsanizyante",
+            "parisAsAyizyase",
+            "parisaMsanizyase",
+            "parisAsAyizyeTe",
+            "parisaMsanizyeTe",
+            "parisAsAyizyaDve",
+            "parisaMsanizyaDve",
+            "parisAsAyizye",
+            "parisaMsanizye",
+            "parisAsAyizyAvahe",
+            "parisaMsanizyAvahe",
+            "parisAsAyizyAmahe",
+            "parisaMsanizyAmahe"
+          ],
+          "alung": [
+            "paryasAsAyizwa",
+            "paryasaMsanizwa",
+            "paryasAsAyizAtAm",
+            "paryasaMsanizAtAm",
+            "paryasAsAyizata",
+            "paryasaMsanizata",
+            "paryasAsAyizWAH",
+            "paryasaMsanizWAH",
+            "paryasAsAyizATAm",
+            "paryasaMsanizATAm",
+            "paryasAsAyiQvam",
+            "paryasAsAyiDvam",
+            "paryasaMsaniDvam",
+            "paryasAsAyizi",
+            "paryasaMsanizi",
+            "paryasAsAyizvahi",
+            "paryasaMsanizvahi",
+            "paryasAsAyizmahi",
+            "paryasaMsanizmahi"
+          ],
+          "alut": [
+            "parisAsAyitA",
+            "parisaMsanitA",
+            "parisAsAyitArO",
+            "parisaMsanitArO",
+            "parisAsAyitAraH",
+            "parisaMsanitAraH",
+            "parisAsAyitAse",
+            "parisaMsanitAse",
+            "parisAsAyitAsATe",
+            "parisaMsanitAsATe",
+            "parisAsAyitADve",
+            "parisaMsanitADve",
+            "parisAsAyitAhe",
+            "parisaMsanitAhe",
+            "parisAsAyitAsvahe",
+            "parisaMsanitAsvahe",
+            "parisAsAyitAsmahe",
+            "parisaMsanitAsmahe"
+          ],
+          "avidhiling": [
+            "parisAsAyeta",
+            "parisaMsanyeta",
+            "parisAsAyeyAtAm",
+            "parisaMsanyeyAtAm",
+            "parisAsAyeran",
+            "parisaMsanyeran",
+            "parisAsAyeTAH",
+            "parisaMsanyeTAH",
+            "parisAsAyeyATAm",
+            "parisaMsanyeyATAm",
+            "parisAsAyeDvam",
+            "parisaMsanyeDvam",
+            "parisAsAyeya",
+            "parisaMsanyeya",
+            "parisAsAyevahi",
+            "parisaMsanyevahi",
+            "parisAsAyemahi",
+            "parisaMsanyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "parisAsAyizIzwa",
+            "parisaMsanizIzwa",
+            "parisAsAyizIyAstAm",
+            "parisaMsanizIyAstAm",
+            "parisAsAyizIran",
+            "parisaMsanizIran",
+            "parisAsAyizIzWAH",
+            "parisaMsanizIzWAH",
+            "parisAsAyizIyAsTAm",
+            "parisaMsanizIyAsTAm",
+            "parisAsAyizIQvam",
+            "parisAsAyizIDvam",
+            "parisaMsanizIDvam",
+            "parisAsAyizIya",
+            "parisaMsanizIya",
+            "parisAsAyizIvahi",
+            "parisaMsanizIvahi",
+            "parisAsAyizImahi",
+            "parisaMsanizImahi"
+          ],
+          "alang": [
+            "paryasAsAyyata",
+            "paryasaMsanyata",
+            "paryasAsAyyetAm",
+            "paryasaMsanyetAm",
+            "paryasAsAyyanta",
+            "paryasaMsanyanta",
+            "paryasAsAyyaTAH",
+            "paryasaMsanyaTAH",
+            "paryasAsAyyeTAm",
+            "paryasaMsanyeTAm",
+            "paryasAsAyyaDvam",
+            "paryasaMsanyaDvam",
+            "paryasAsAyye",
+            "paryasaMsanye",
+            "paryasAsAyyAvahi",
+            "paryasaMsanyAvahi",
+            "paryasAsAyyAmahi",
+            "paryasaMsanyAmahi"
+          ],
+          "alat": [
+            "parisAsAyyate",
+            "parisaMsanyate",
+            "parisAsAyyete",
+            "parisaMsanyete",
+            "parisAsAyyante",
+            "parisaMsanyante",
+            "parisAsAyyase",
+            "parisaMsanyase",
+            "parisAsAyyeTe",
+            "parisaMsanyeTe",
+            "parisAsAyyaDve",
+            "parisaMsanyaDve",
+            "parisAsAyye",
+            "parisaMsanye",
+            "parisAsAyyAvahe",
+            "parisaMsanyAvahe",
+            "parisAsAyyAmahe",
+            "parisaMsanyAmahe"
+          ],
+          "alit": [
+            "parisAsAyAmbaBUve",
+            "parisAsAyAmAse",
+            "parisAsAyAYcakre",
+            "parisaMsanAmbaBUve",
+            "parisaMsanAmAse",
+            "parisaMsanAYcakre",
+            "parisAsAyAmbaBUvAte",
+            "parisAsAyAmAsAte",
+            "parisAsAyAYcakrAte",
+            "parisaMsanAmbaBUvAte",
+            "parisaMsanAmAsAte",
+            "parisaMsanAYcakrAte",
+            "parisAsAyAmbaBUvire",
+            "parisAsAyAmAsire",
+            "parisAsAyAYcakrire",
+            "parisaMsanAmbaBUvire",
+            "parisaMsanAmAsire",
+            "parisaMsanAYcakrire",
+            "parisAsAyAmbaBUvize",
+            "parisAsAyAmAsize",
+            "parisAsAyAYcakfze",
+            "parisaMsanAmbaBUvize",
+            "parisaMsanAmAsize",
+            "parisaMsanAYcakfze",
+            "parisAsAyAmbaBUvATe",
+            "parisAsAyAmAsATe",
+            "parisAsAyAYcakrATe",
+            "parisaMsanAmbaBUvATe",
+            "parisaMsanAmAsATe",
+            "parisaMsanAYcakrATe",
+            "parisAsAyAmbaBUviQve",
+            "parisAsAyAmAsiDve",
+            "parisAsAyAYcakfQve",
+            "parisaMsanAmbaBUviQve",
+            "parisaMsanAmAsiDve",
+            "parisaMsanAYcakfQve",
+            "parisAsAyAmbaBUve",
+            "parisAsAyAmAhe",
+            "parisAsAyAYcakre",
+            "parisaMsanAmbaBUve",
+            "parisaMsanAmAhe",
+            "parisaMsanAYcakre",
+            "parisAsAyAmbaBUvivahe",
+            "parisAsAyAmAsivahe",
+            "parisAsAyAYcakfvahe",
+            "parisaMsanAmbaBUvivahe",
+            "parisaMsanAmAsivahe",
+            "parisaMsanAYcakfvahe",
+            "parisAsAyAmbaBUvimahe",
+            "parisAsAyAmAsimahe",
+            "parisAsAyAYcakfmahe",
+            "parisaMsanAmbaBUvimahe",
+            "parisaMsanAmAsimahe",
+            "parisaMsanAYcakfmahe"
+          ],
+          "alot": [
+            "parisAsAyyatAm",
+            "parisaMsanyatAm",
+            "parisAsAyyetAm",
+            "parisaMsanyetAm",
+            "parisAsAyyantAm",
+            "parisaMsanyantAm",
+            "parisAsAyyasva",
+            "parisaMsanyasva",
+            "parisAsAyyeTAm",
+            "parisaMsanyeTAm",
+            "parisAsAyyaDvam",
+            "parisaMsanyaDvam",
+            "parisAsAyyE",
+            "parisaMsanyE",
+            "parisAsAyyAvahE",
+            "parisaMsanyAvahE",
+            "parisAsAyyAmahE",
+            "parisaMsanyAmahE"
+          ],
+          "alrung": [
+            "paryasAsAyizyata",
+            "paryasaMsanizyata",
+            "paryasAsAyizyetAm",
+            "paryasaMsanizyetAm",
+            "paryasAsAyizyanta",
+            "paryasaMsanizyanta",
+            "paryasAsAyizyaTAH",
+            "paryasaMsanizyaTAH",
+            "paryasAsAyizyeTAm",
+            "paryasaMsanizyeTAm",
+            "paryasAsAyizyaDvam",
+            "paryasaMsanizyaDvam",
+            "paryasAsAyizye",
+            "paryasaMsanizye",
+            "paryasAsAyizyAvahi",
+            "paryasaMsanizyAvahi",
+            "paryasAsAyizyAmahi",
+            "paryasaMsanizyAmahi"
+          ],
+          "alrut": [
+            "parisAsAyizyate",
+            "parisaMsanizyate",
+            "parisAsAyizyete",
+            "parisaMsanizyete",
+            "parisAsAyizyante",
+            "parisaMsanizyante",
+            "parisAsAyizyase",
+            "parisaMsanizyase",
+            "parisAsAyizyeTe",
+            "parisaMsanizyeTe",
+            "parisAsAyizyaDve",
+            "parisaMsanizyaDve",
+            "parisAsAyizye",
+            "parisaMsanizye",
+            "parisAsAyizyAvahe",
+            "parisaMsanizyAvahe",
+            "parisAsAyizyAmahe",
+            "parisaMsanizyAmahe"
+          ],
+          "alung": [
+            "paryasAsAyi",
+            "paryasaMsani",
+            "paryasAsAyizAtAm",
+            "paryasaMsanizAtAm",
+            "paryasAsAyizata",
+            "paryasaMsanizata",
+            "paryasAsAyizWAH",
+            "paryasaMsanizWAH",
+            "paryasAsAyizATAm",
+            "paryasaMsanizATAm",
+            "paryasAsAyiQvam",
+            "paryasAsAyiDvam",
+            "paryasaMsaniDvam",
+            "paryasAsAyizi",
+            "paryasaMsanizi",
+            "paryasAsAyizvahi",
+            "paryasaMsanizvahi",
+            "paryasAsAyizmahi",
+            "paryasaMsanizmahi"
+          ],
+          "alut": [
+            "parisAsAyitA",
+            "parisaMsanitA",
+            "parisAsAyitArO",
+            "parisaMsanitArO",
+            "parisAsAyitAraH",
+            "parisaMsanitAraH",
+            "parisAsAyitAse",
+            "parisaMsanitAse",
+            "parisAsAyitAsATe",
+            "parisaMsanitAsATe",
+            "parisAsAyitADve",
+            "parisaMsanitADve",
+            "parisAsAyitAhe",
+            "parisaMsanitAhe",
+            "parisAsAyitAsvahe",
+            "parisaMsanitAsvahe",
+            "parisAsAyitAsmahe",
+            "parisaMsanitAsmahe"
+          ],
+          "avidhiling": [
+            "parisAsAyyeta",
+            "parisaMsanyeta",
+            "parisAsAyyeyAtAm",
+            "parisaMsanyeyAtAm",
+            "parisAsAyyeran",
+            "parisaMsanyeran",
+            "parisAsAyyeTAH",
+            "parisaMsanyeTAH",
+            "parisAsAyyeyATAm",
+            "parisaMsanyeyATAm",
+            "parisAsAyyeDvam",
+            "parisaMsanyeDvam",
+            "parisAsAyyeya",
+            "parisaMsanyeya",
+            "parisAsAyyevahi",
+            "parisaMsanyevahi",
+            "parisAsAyyemahi",
+            "parisaMsanyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "parisaMsAyAt",
+            "parisaMsAyAd",
+            "parisaMsanyAt",
+            "parisaMsanyAd",
+            "parisaMsAyAstAm",
+            "parisaMsanyAstAm",
+            "parisaMsAyAsuH",
+            "parisaMsanyAsuH",
+            "parisaMsAyAH",
+            "parisaMsanyAH",
+            "parisaMsAyAstam",
+            "parisaMsanyAstam",
+            "parisaMsAyAsta",
+            "parisaMsanyAsta",
+            "parisaMsAyAsam",
+            "parisaMsanyAsam",
+            "parisaMsAyAsva",
+            "parisaMsanyAsva",
+            "parisaMsAyAsma",
+            "parisaMsanyAsma"
+          ],
+          "plang": [
+            "paryasaMsanIt",
+            "paryasaMsanId",
+            "paryasaMsan",
+            "paryasaMsAtAm",
+            "paryasaMsanuH",
+            "paryasaMsanIH",
+            "paryasaMsan",
+            "paryasaMsAtam",
+            "paryasaMsAta",
+            "paryasaMsanam",
+            "paryasaMsanva",
+            "paryasaMsanma"
+          ],
+          "plat": [
+            "parisaMsanIti",
+            "parisaMsanti",
+            "parisaMsAtaH",
+            "parisaMsanati",
+            "parisaMsanIzi",
+            "parisaMsaMsi",
+            "parisaMsATaH",
+            "parisaMsATa",
+            "parisaMsanImi",
+            "parisaMsanmi",
+            "parisaMsanvaH",
+            "parisaMsanmaH"
+          ],
+          "plit": [
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakAra",
+            "parisaMsanAmbaBUvatuH",
+            "parisaMsanAmAsatuH",
+            "parisaMsanAYcakratuH",
+            "parisaMsanAmbaBUvuH",
+            "parisaMsanAmAsuH",
+            "parisaMsanAYcakruH",
+            "parisaMsanAmbaBUviTa",
+            "parisaMsanAmAsiTa",
+            "parisaMsanAYcakarTa",
+            "parisaMsanAmbaBUvaTuH",
+            "parisaMsanAmAsaTuH",
+            "parisaMsanAYcakraTuH",
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakra",
+            "parisaMsanAmbaBUva",
+            "parisaMsanAmAsa",
+            "parisaMsanAYcakara",
+            "parisaMsanAYcakAra",
+            "parisaMsanAmbaBUviva",
+            "parisaMsanAmAsiva",
+            "parisaMsanAYcakfva",
+            "parisaMsanAmbaBUvima",
+            "parisaMsanAmAsima",
+            "parisaMsanAYcakfma"
+          ],
+          "plot": [
+            "parisaMsAtAt",
+            "parisaMsAtAd",
+            "parisaMsanItu",
+            "parisaMsantu",
+            "parisaMsAtAm",
+            "parisaMsanatu",
+            "parisaMsAtAt",
+            "parisaMsAtAd",
+            "parisaMsAhi",
+            "parisaMsAtam",
+            "parisaMsAta",
+            "parisaMsanAni",
+            "parisaMsanAva",
+            "parisaMsanAma"
+          ],
+          "plrung": [
+            "paryasaMsanizyat",
+            "paryasaMsanizyad",
+            "paryasaMsanizyatAm",
+            "paryasaMsanizyan",
+            "paryasaMsanizyaH",
+            "paryasaMsanizyatam",
+            "paryasaMsanizyata",
+            "paryasaMsanizyam",
+            "paryasaMsanizyAva",
+            "paryasaMsanizyAma"
+          ],
+          "plrut": [
+            "parisaMsanizyati",
+            "parisaMsanizyataH",
+            "parisaMsanizyanti",
+            "parisaMsanizyasi",
+            "parisaMsanizyaTaH",
+            "parisaMsanizyaTa",
+            "parisaMsanizyAmi",
+            "parisaMsanizyAvaH",
+            "parisaMsanizyAmaH"
+          ],
+          "plung": [
+            "paryasaMsanIt",
+            "paryasaMsanId",
+            "paryasaMsAnIt",
+            "paryasaMsAnId",
+            "paryasaMsanizwAm",
+            "paryasaMsAnizwAm",
+            "paryasaMsanizuH",
+            "paryasaMsAnizuH",
+            "paryasaMsanIH",
+            "paryasaMsAnIH",
+            "paryasaMsanizwam",
+            "paryasaMsAnizwam",
+            "paryasaMsanizwa",
+            "paryasaMsAnizwa",
+            "paryasaMsanizam",
+            "paryasaMsAnizam",
+            "paryasaMsanizva",
+            "paryasaMsAnizva",
+            "paryasaMsanizma",
+            "paryasaMsAnizma"
+          ],
+          "plut": [
+            "parisaMsanitA",
+            "parisaMsanitArO",
+            "parisaMsanitAraH",
+            "parisaMsanitAsi",
+            "parisaMsanitAsTaH",
+            "parisaMsanitAsTa",
+            "parisaMsanitAsmi",
+            "parisaMsanitAsvaH",
+            "parisaMsanitAsmaH"
+          ],
+          "pvidhiling": [
+            "parisaMsAyAt",
+            "parisaMsAyAd",
+            "parisaMsanyAt",
+            "parisaMsanyAd",
+            "parisaMsAyAtAm",
+            "parisaMsanyAtAm",
+            "parisaMsAyuH",
+            "parisaMsanyuH",
+            "parisaMsAyAH",
+            "parisaMsanyAH",
+            "parisaMsAyAtam",
+            "parisaMsanyAtam",
+            "parisaMsAyAta",
+            "parisaMsanyAta",
+            "parisaMsAyAm",
+            "parisaMsanyAm",
+            "parisaMsAyAva",
+            "parisaMsanyAva",
+            "parisaMsAyAma",
+            "parisaMsanyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "parisaMsAnizIzwa",
+            "parisaMsanizIzwa",
+            "parisaMsAnizIyAstAm",
+            "parisaMsanizIyAstAm",
+            "parisaMsAnizIran",
+            "parisaMsanizIran",
+            "parisaMsAnizIzWAH",
+            "parisaMsanizIzWAH",
+            "parisaMsAnizIyAsTAm",
+            "parisaMsanizIyAsTAm",
+            "parisaMsAnizIDvam",
+            "parisaMsanizIDvam",
+            "parisaMsAnizIya",
+            "parisaMsanizIya",
+            "parisaMsAnizIvahi",
+            "parisaMsanizIvahi",
+            "parisaMsAnizImahi",
+            "parisaMsanizImahi"
+          ],
+          "alang": [
+            "paryasaMsAyata",
+            "paryasaMsanyata",
+            "paryasaMsAyetAm",
+            "paryasaMsanyetAm",
+            "paryasaMsAyanta",
+            "paryasaMsanyanta",
+            "paryasaMsAyaTAH",
+            "paryasaMsanyaTAH",
+            "paryasaMsAyeTAm",
+            "paryasaMsanyeTAm",
+            "paryasaMsAyaDvam",
+            "paryasaMsanyaDvam",
+            "paryasaMsAye",
+            "paryasaMsanye",
+            "paryasaMsAyAvahi",
+            "paryasaMsanyAvahi",
+            "paryasaMsAyAmahi",
+            "paryasaMsanyAmahi"
+          ],
+          "alat": [
+            "parisaMsAyate",
+            "parisaMsanyate",
+            "parisaMsAyete",
+            "parisaMsanyete",
+            "parisaMsAyante",
+            "parisaMsanyante",
+            "parisaMsAyase",
+            "parisaMsanyase",
+            "parisaMsAyeTe",
+            "parisaMsanyeTe",
+            "parisaMsAyaDve",
+            "parisaMsanyaDve",
+            "parisaMsAye",
+            "parisaMsanye",
+            "parisaMsAyAvahe",
+            "parisaMsanyAvahe",
+            "parisaMsAyAmahe",
+            "parisaMsanyAmahe"
+          ],
+          "alit": [
+            "parisaMsanAmbaBUve",
+            "parisaMsanAmAse",
+            "parisaMsanAYcakre",
+            "parisaMsanAmbaBUvAte",
+            "parisaMsanAmAsAte",
+            "parisaMsanAYcakrAte",
+            "parisaMsanAmbaBUvire",
+            "parisaMsanAmAsire",
+            "parisaMsanAYcakrire",
+            "parisaMsanAmbaBUvize",
+            "parisaMsanAmAsize",
+            "parisaMsanAYcakfze",
+            "parisaMsanAmbaBUvATe",
+            "parisaMsanAmAsATe",
+            "parisaMsanAYcakrATe",
+            "parisaMsanAmbaBUviQve",
+            "parisaMsanAmAsiDve",
+            "parisaMsanAYcakfQve",
+            "parisaMsanAmbaBUve",
+            "parisaMsanAmAhe",
+            "parisaMsanAYcakre",
+            "parisaMsanAmbaBUvivahe",
+            "parisaMsanAmAsivahe",
+            "parisaMsanAYcakfvahe",
+            "parisaMsanAmbaBUvimahe",
+            "parisaMsanAmAsimahe",
+            "parisaMsanAYcakfmahe"
+          ],
+          "alot": [
+            "parisaMsAyatAm",
+            "parisaMsanyatAm",
+            "parisaMsAyetAm",
+            "parisaMsanyetAm",
+            "parisaMsAyantAm",
+            "parisaMsanyantAm",
+            "parisaMsAyasva",
+            "parisaMsanyasva",
+            "parisaMsAyeTAm",
+            "parisaMsanyeTAm",
+            "parisaMsAyaDvam",
+            "parisaMsanyaDvam",
+            "parisaMsAyE",
+            "parisaMsanyE",
+            "parisaMsAyAvahE",
+            "parisaMsanyAvahE",
+            "parisaMsAyAmahE",
+            "parisaMsanyAmahE"
+          ],
+          "alrung": [
+            "paryasaMsAnizyata",
+            "paryasaMsanizyata",
+            "paryasaMsAnizyetAm",
+            "paryasaMsanizyetAm",
+            "paryasaMsAnizyanta",
+            "paryasaMsanizyanta",
+            "paryasaMsAnizyaTAH",
+            "paryasaMsanizyaTAH",
+            "paryasaMsAnizyeTAm",
+            "paryasaMsanizyeTAm",
+            "paryasaMsAnizyaDvam",
+            "paryasaMsanizyaDvam",
+            "paryasaMsAnizye",
+            "paryasaMsanizye",
+            "paryasaMsAnizyAvahi",
+            "paryasaMsanizyAvahi",
+            "paryasaMsAnizyAmahi",
+            "paryasaMsanizyAmahi"
+          ],
+          "alrut": [
+            "parisaMsAnizyate",
+            "parisaMsanizyate",
+            "parisaMsAnizyete",
+            "parisaMsanizyete",
+            "parisaMsAnizyante",
+            "parisaMsanizyante",
+            "parisaMsAnizyase",
+            "parisaMsanizyase",
+            "parisaMsAnizyeTe",
+            "parisaMsanizyeTe",
+            "parisaMsAnizyaDve",
+            "parisaMsanizyaDve",
+            "parisaMsAnizye",
+            "parisaMsanizye",
+            "parisaMsAnizyAvahe",
+            "parisaMsanizyAvahe",
+            "parisaMsAnizyAmahe",
+            "parisaMsanizyAmahe"
+          ],
+          "alung": [
+            "paryasaMsAni",
+            "paryasaMsAnizAtAm",
+            "paryasaMsanizAtAm",
+            "paryasaMsAnizata",
+            "paryasaMsanizata",
+            "paryasaMsAnizWAH",
+            "paryasaMsanizWAH",
+            "paryasaMsAnizATAm",
+            "paryasaMsanizATAm",
+            "paryasaMsAniDvam",
+            "paryasaMsaniDvam",
+            "paryasaMsAnizi",
+            "paryasaMsanizi",
+            "paryasaMsAnizvahi",
+            "paryasaMsanizvahi",
+            "paryasaMsAnizmahi",
+            "paryasaMsanizmahi"
+          ],
+          "alut": [
+            "parisaMsAnitA",
+            "parisaMsanitA",
+            "parisaMsAnitArO",
+            "parisaMsanitArO",
+            "parisaMsAnitAraH",
+            "parisaMsanitAraH",
+            "parisaMsAnitAse",
+            "parisaMsanitAse",
+            "parisaMsAnitAsATe",
+            "parisaMsanitAsATe",
+            "parisaMsAnitADve",
+            "parisaMsanitADve",
+            "parisaMsAnitAhe",
+            "parisaMsanitAhe",
+            "parisaMsAnitAsvahe",
+            "parisaMsanitAsvahe",
+            "parisaMsAnitAsmahe",
+            "parisaMsanitAsmahe"
+          ],
+          "avidhiling": [
+            "parisaMsAyeta",
+            "parisaMsanyeta",
+            "parisaMsAyeyAtAm",
+            "parisaMsanyeyAtAm",
+            "parisaMsAyeran",
+            "parisaMsanyeran",
+            "parisaMsAyeTAH",
+            "parisaMsanyeTAH",
+            "parisaMsAyeyATAm",
+            "parisaMsanyeyATAm",
+            "parisaMsAyeDvam",
+            "parisaMsanyeDvam",
+            "parisaMsAyeya",
+            "parisaMsanyeya",
+            "parisaMsAyevahi",
+            "parisaMsanyevahi",
+            "parisaMsAyemahi",
+            "parisaMsanyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "parisana",
+              "m": "parisanaH",
+              "f": "parisanA",
+              "n": "parisanam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parisananIya",
+              "m": "parisananIyaH",
+              "f": "parisananIyA",
+              "n": "parisananIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parisAta",
+              "m": "parisAtaH",
+              "f": "parisAtA",
+              "n": "parisAtam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parisAtavat",
+              "m": "parisAtavAn",
+              "f": "parisAtavatI",
+              "n": "parisAtavat/parisAtavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parisAti",
+              "m": "",
+              "f": "parisAtiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parizeRivas",
+              "m": "parizeRivAn",
+              "f": "parizeRyuzI",
+              "n": "parizeRivat/parizeRivad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "parisAna",
+              "m": "parisAnaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parisanvAna",
+              "m": "parisanvAnaH",
+              "f": "parisanvAnA",
+              "n": "parisanvAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parisAnam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "parisAnya",
+              "m": "parisAnyaH",
+              "f": "parisAnyA",
+              "n": "parisAnyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parisAnaka",
+              "m": "parisAnakaH",
+              "f": "parisAnikA",
+              "n": "parisAnakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parisanitavya",
+              "m": "parisanitavyaH",
+              "f": "parisanitavyA",
+              "n": "parisanitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parisanitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parisanitf",
+              "m": "parisanitA",
+              "f": "parisanitrI",
+              "n": "parisanitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "parisanvAna",
+              "m": "parisanvAnaH",
+              "f": "parisanvAnA",
+              "n": "parisanvAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parisAya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisanya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parisanana",
+              "m": "",
+              "f": "",
+              "n": "parisananam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parisanaka",
+              "m": "parisanakaH",
+              "f": "parisanikA",
+              "n": "parisanakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "parisanvat",
+              "m": "parisanvan",
+              "f": "parisanvantI",
+              "n": "parisanvat/parisanvad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "parisanvAna",
+              "m": "parisanvAnaH",
+              "f": "parisanvAnA",
+              "n": "parisanvAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "parisanvAna",
+              "m": "parisanvAnaH",
+              "f": "parisanvAnA",
+              "n": "parisanvAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "parisanvat",
+              "m": "parisanvan",
+              "f": "parisanvatI/parisanvantI",
+              "n": "parisanvat/parisanvad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "parisanvAna",
+              "m": "parisanvAnaH",
+              "f": "parisanvAnA",
+              "n": "parisanvAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "parisisanizA",
+              "m": "",
+              "f": "parisisanizA",
+              "n": ""
+            },
+            {
+              "base": "parisizAsA",
+              "m": "",
+              "f": "parisizAsA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "parisisaniza",
+              "m": "parisisanizaH",
+              "f": "parisisanizA",
+              "n": "parisisanizam"
+            },
+            {
+              "base": "parisizAsa",
+              "m": "parisizAsaH",
+              "f": "parisizAsA",
+              "n": "parisizAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parisisanizaRIya",
+              "m": "parisisanizaRIyaH",
+              "f": "parisisanizaRIyA",
+              "n": "parisisanizaRIyam"
+            },
+            {
+              "base": "parisizAsanIya",
+              "m": "parisizAsanIyaH",
+              "f": "parisizAsanIyA",
+              "n": "parisizAsanIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "parisisanizu",
+              "m": "parisisanizuH",
+              "f": "parisisanizuH",
+              "n": "parisisanizu"
+            },
+            {
+              "base": "parisizAsu",
+              "m": "parisizAsuH",
+              "f": "parisizAsuH",
+              "n": "parisizAsu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parisisanizita",
+              "m": "parisisanizitaH",
+              "f": "parisisanizitA",
+              "n": "parisisanizitam"
+            },
+            {
+              "base": "parisizAsita",
+              "m": "parisizAsitaH",
+              "f": "parisizAsitA",
+              "n": "parisizAsitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parisisanizitavat",
+              "m": "parisisanizitavAn",
+              "f": "parisisanizitavatI",
+              "n": "parisisanizitavat/parisisanizitavad"
+            },
+            {
+              "base": "parisizAsitavat",
+              "m": "parisizAsitavAn",
+              "f": "parisizAsitavatI",
+              "n": "parisizAsitavat/parisizAsitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parisisanizwi",
+              "m": "",
+              "f": "parisisanizwiH",
+              "n": ""
+            },
+            {
+              "base": "parisizAsti",
+              "m": "",
+              "f": "parisizAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parisisanizAmbaBUvas",
+              "m": "parisisanizAmbaBUvAn",
+              "f": "parisisanizAmbaBUzI",
+              "n": "parisisanizAmbaBUvat/parisisanizAmbaBUvad"
+            },
+            {
+              "base": "parisisanizAmAsivas",
+              "m": "parisisanizAmAsivAn",
+              "f": "parisisanizAmAsyuzI",
+              "n": "parisisanizAmAsivat/parisisanizAmAsivad"
+            },
+            {
+              "base": "parisisanizAYcakfvas",
+              "m": "parisisanizAYcakfvAn",
+              "f": "parisisanizAYcakruzI",
+              "n": "parisisanizAYcakfvat/parisisanizAYcakfvad"
+            },
+            {
+              "base": "parisizAsAmbaBUvas",
+              "m": "parisizAsAmbaBUvAn",
+              "f": "parisizAsAmbaBUzI",
+              "n": "parisizAsAmbaBUvat/parisizAsAmbaBUvad"
+            },
+            {
+              "base": "parisizAsAmAsivas",
+              "m": "parisizAsAmAsivAn",
+              "f": "parisizAsAmAsyuzI",
+              "n": "parisizAsAmAsivat/parisizAsAmAsivad"
+            },
+            {
+              "base": "parisizAsAYcakfvas",
+              "m": "parisizAsAYcakfvAn",
+              "f": "parisizAsAYcakruzI",
+              "n": "parisizAsAYcakfvat/parisizAsAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "parisisaniza",
+              "m": "parisisanizaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisizAsa",
+              "m": "parisizAsaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parisisanizamARa",
+              "m": "parisisanizamARaH",
+              "f": "parisisanizamARA",
+              "n": "parisisanizamARam"
+            },
+            {
+              "base": "parisizAsamAna",
+              "m": "parisizAsamAnaH",
+              "f": "parisizAsamAnA",
+              "n": "parisizAsamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parisisanizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisizAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parisisanizaka",
+              "m": "parisisanizakaH",
+              "f": "parisisanizikA",
+              "n": "parisisanizakam"
+            },
+            {
+              "base": "parisizAsaka",
+              "m": "parisizAsakaH",
+              "f": "parisizAsikA",
+              "n": "parisizAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parisisanizitavya",
+              "m": "parisisanizitavyaH",
+              "f": "parisisanizitavyA",
+              "n": "parisisanizitavyam"
+            },
+            {
+              "base": "parisizAsitavya",
+              "m": "parisizAsitavyaH",
+              "f": "parisizAsitavyA",
+              "n": "parisizAsitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parisisanizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisizAsitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parisisanizitf",
+              "m": "parisisanizitA",
+              "f": "parisisanizitrI",
+              "n": "parisisanizitf"
+            },
+            {
+              "base": "parisizAsitf",
+              "m": "parisizAsitA",
+              "f": "parisizAsitrI",
+              "n": "parisizAsitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "parisisanizamARa",
+              "m": "parisisanizamARaH",
+              "f": "parisisanizamARA",
+              "n": "parisisanizamARam"
+            },
+            {
+              "base": "parisizAsamAna",
+              "m": "parisizAsamAnaH",
+              "f": "parisizAsamAnA",
+              "n": "parisizAsamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "parisisanizya",
+              "m": "parisisanizyaH",
+              "f": "parisisanizyA",
+              "n": "parisisanizyam"
+            },
+            {
+              "base": "parisizAsya",
+              "m": "parisizAsyaH",
+              "f": "parisizAsyA",
+              "n": "parisizAsyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parisisanizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisizAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parisisanizaRa",
+              "m": "",
+              "f": "",
+              "n": "parisisanizaRam"
+            },
+            {
+              "base": "parisizAsana",
+              "m": "",
+              "f": "",
+              "n": "parisizAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parisisanizaka",
+              "m": "parisisanizakaH",
+              "f": "parisisanizikA",
+              "n": "parisisanizakam"
+            },
+            {
+              "base": "parisizAsaka",
+              "m": "parisizAsakaH",
+              "f": "parisizAsikA",
+              "n": "parisizAsakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "parisisanizat",
+              "m": "parisisanizan",
+              "f": "parisisanizantI",
+              "n": "parisisanizat/parisisanizad"
+            },
+            {
+              "base": "parisizAsat",
+              "m": "parisizAsan",
+              "f": "parisizAsantI",
+              "n": "parisizAsat/parisizAsad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "parisisanizamARa",
+              "m": "parisisanizamARaH",
+              "f": "parisisanizamARA",
+              "n": "parisisanizamARam"
+            },
+            {
+              "base": "parisizAsamAna",
+              "m": "parisizAsamAnaH",
+              "f": "parisizAsamAnA",
+              "n": "parisizAsamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "parisisanizamARa",
+              "m": "parisisanizamARaH",
+              "f": "parisisanizamARA",
+              "n": "parisisanizamARam"
+            },
+            {
+              "base": "parisizAsamAna",
+              "m": "parisizAsamAnaH",
+              "f": "parisizAsamAnA",
+              "n": "parisizAsamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "parisisanizat",
+              "m": "parisisanizan",
+              "f": "parisisanizatI/parisisanizantI",
+              "n": "parisisanizat/parisisanizad"
+            },
+            {
+              "base": "parisizAsat",
+              "m": "parisizAsan",
+              "f": "parisizAsatI/parisizAsantI",
+              "n": "parisizAsat/parisizAsad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "parisisanizamARa",
+              "m": "parisisanizamARaH",
+              "f": "parisisanizamARA",
+              "n": "parisisanizamARam"
+            },
+            {
+              "base": "parisizAsamAna",
+              "m": "parisizAsamAnaH",
+              "f": "parisizAsamAnA",
+              "n": "parisizAsamAnam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "parisAna",
+              "m": "parisAnaH",
+              "f": "parisAnA",
+              "n": "parisAnam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parisAnanIya",
+              "m": "parisAnanIyaH",
+              "f": "parisAnanIyA",
+              "n": "parisAnanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parisAnita",
+              "m": "parisAnitaH",
+              "f": "parisAnitA",
+              "n": "parisAnitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parisAnitavat",
+              "m": "parisAnitavAn",
+              "f": "parisAnitavatI",
+              "n": "parisAnitavat/parisAnitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parisAnti",
+              "m": "",
+              "f": "parisAntiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parisAnayAmbaBUvas",
+              "m": "parisAnayAmbaBUvAn",
+              "f": "parisAnayAmbaBUzI",
+              "n": "parisAnayAmbaBUvat/parisAnayAmbaBUvad"
+            },
+            {
+              "base": "parisAnayAmAsivas",
+              "m": "parisAnayAmAsivAn",
+              "f": "parisAnayAmAsyuzI",
+              "n": "parisAnayAmAsivat/parisAnayAmAsivad"
+            },
+            {
+              "base": "parisAnayAYcakfvas",
+              "m": "parisAnayAYcakfvAn",
+              "f": "parisAnayAYcakruzI",
+              "n": "parisAnayAYcakfvat/parisAnayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parisAnayamAna",
+              "m": "parisAnayamAnaH",
+              "f": "parisAnayamAnA",
+              "n": "parisAnayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parisAnam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parisAnaka",
+              "m": "parisAnakaH",
+              "f": "parisAnikA",
+              "n": "parisAnakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parisAnayitavya",
+              "m": "parisAnayitavyaH",
+              "f": "parisAnayitavyA",
+              "n": "parisAnayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parisAnayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parisAnayitf",
+              "m": "parisAnayitA",
+              "f": "parisAnayitrI",
+              "n": "parisAnayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "parisAnayamAna",
+              "m": "parisAnayamAnaH",
+              "f": "parisAnayamAnA",
+              "n": "parisAnayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "parisAnya",
+              "m": "parisAnyaH",
+              "f": "parisAnyA",
+              "n": "parisAnyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parisAnya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parisAnana",
+              "m": "",
+              "f": "",
+              "n": "parisAnanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parisAnaka",
+              "m": "parisAnakaH",
+              "f": "parisAnikA",
+              "n": "parisAnakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "parisAnayat",
+              "m": "parisAnayan",
+              "f": "parisAnayantI",
+              "n": "parisAnayat/parisAnayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "parisAnayamAna",
+              "m": "parisAnayamAnaH",
+              "f": "parisAnayamAnA",
+              "n": "parisAnayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "parisAnayamAna",
+              "m": "parisAnayamAnaH",
+              "f": "parisAnayamAnA",
+              "n": "parisAnayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "parisAnayat",
+              "m": "parisAnayan",
+              "f": "parisAnayatI/parisAnayantI",
+              "n": "parisAnayat/parisAnayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "parisAnayamAna",
+              "m": "parisAnayamAnaH",
+              "f": "parisAnayamAnA",
+              "n": "parisAnayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "parisAsAyA",
+              "m": "",
+              "f": "parisAsAyA",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanA",
+              "m": "",
+              "f": "parisaMsanA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "parisAsA",
+              "m": "parisAsAH",
+              "f": "parisAsA",
+              "n": "parisAsAm"
+            },
+            {
+              "base": "parisaMsana",
+              "m": "parisaMsanaH",
+              "f": "parisaMsanA",
+              "n": "parisaMsanam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parisAsAyanIya",
+              "m": "parisAsAyanIyaH",
+              "f": "parisAsAyanIyA",
+              "n": "parisAsAyanIyam"
+            },
+            {
+              "base": "parisaMsananIya",
+              "m": "parisaMsananIyaH",
+              "f": "parisaMsananIyA",
+              "n": "parisaMsananIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parisAsAyita",
+              "m": "parisAsAyitaH",
+              "f": "parisAsAyitA",
+              "n": "parisAsAyitam"
+            },
+            {
+              "base": "parisaMsanita",
+              "m": "parisaMsanitaH",
+              "f": "parisaMsanitA",
+              "n": "parisaMsanitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parisAsAyitavat",
+              "m": "parisAsAyitavAn",
+              "f": "parisAsAyitavatI",
+              "n": "parisAsAyitavat/parisAsAyitavad"
+            },
+            {
+              "base": "parisaMsanitavat",
+              "m": "parisaMsanitavAn",
+              "f": "parisaMsanitavatI",
+              "n": "parisaMsanitavat/parisaMsanitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parisAsAti",
+              "m": "",
+              "f": "parisAsAtiH",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanti",
+              "m": "",
+              "f": "parisaMsantiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parisAsAyAmbaBUvas",
+              "m": "parisAsAyAmbaBUvAn",
+              "f": "parisAsAyAmbaBUzI",
+              "n": "parisAsAyAmbaBUvat/parisAsAyAmbaBUvad"
+            },
+            {
+              "base": "parisAsAyAmAsivas",
+              "m": "parisAsAyAmAsivAn",
+              "f": "parisAsAyAmAsyuzI",
+              "n": "parisAsAyAmAsivat/parisAsAyAmAsivad"
+            },
+            {
+              "base": "parisAsAyAYcakfvas",
+              "m": "parisAsAyAYcakfvAn",
+              "f": "parisAsAyAYcakruzI",
+              "n": "parisAsAyAYcakfvat/parisAsAyAYcakfvad"
+            },
+            {
+              "base": "parisaMsanAmbaBUvas",
+              "m": "parisaMsanAmbaBUvAn",
+              "f": "parisaMsanAmbaBUzI",
+              "n": "parisaMsanAmbaBUvat/parisaMsanAmbaBUvad"
+            },
+            {
+              "base": "parisaMsanAmAsivas",
+              "m": "parisaMsanAmAsivAn",
+              "f": "parisaMsanAmAsyuzI",
+              "n": "parisaMsanAmAsivat/parisaMsanAmAsivad"
+            },
+            {
+              "base": "parisaMsanAYcakfvas",
+              "m": "parisaMsanAYcakfvAn",
+              "f": "parisaMsanAYcakruzI",
+              "n": "parisaMsanAYcakfvat/parisaMsanAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "parisAsAya",
+              "m": "parisAsAyaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisaMsana",
+              "m": "parisaMsanaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parisAsAyamAna",
+              "m": "parisAsAyamAnaH",
+              "f": "parisAsAyamAnA",
+              "n": "parisAsAyamAnam"
+            },
+            {
+              "base": "parisaMsanyamAna",
+              "m": "parisaMsanyamAnaH",
+              "f": "parisaMsanyamAnA",
+              "n": "parisaMsanyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parisAsAyam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parisAsAyaka",
+              "m": "parisAsAyakaH",
+              "f": "parisAsAyikA",
+              "n": "parisAsAyakam"
+            },
+            {
+              "base": "parisaMsanaka",
+              "m": "parisaMsanakaH",
+              "f": "parisaMsanikA",
+              "n": "parisaMsanakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parisAsAyitavya",
+              "m": "parisAsAyitavyaH",
+              "f": "parisAsAyitavyA",
+              "n": "parisAsAyitavyam"
+            },
+            {
+              "base": "parisaMsanitavya",
+              "m": "parisaMsanitavyaH",
+              "f": "parisaMsanitavyA",
+              "n": "parisaMsanitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parisAsAyitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parisAsAyitf",
+              "m": "parisAsAyitA",
+              "f": "parisAsAyitrI",
+              "n": "parisAsAyitf"
+            },
+            {
+              "base": "parisaMsanitf",
+              "m": "parisaMsanitA",
+              "f": "parisaMsanitrI",
+              "n": "parisaMsanitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "parisAsAyamAna",
+              "m": "parisAsAyamAnaH",
+              "f": "parisAsAyamAnA",
+              "n": "parisAsAyamAnam"
+            },
+            {
+              "base": "parisaMsanyamAna",
+              "m": "parisaMsanyamAnaH",
+              "f": "parisaMsanyamAnA",
+              "n": "parisaMsanyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "parisAsAyya",
+              "m": "parisAsAyyaH",
+              "f": "parisAsAyyA",
+              "n": "parisAsAyyam"
+            },
+            {
+              "base": "parisaMsanya",
+              "m": "parisaMsanyaH",
+              "f": "parisaMsanyA",
+              "n": "parisaMsanyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parisAsAyya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parisAsAyana",
+              "m": "",
+              "f": "",
+              "n": "parisAsAyanam"
+            },
+            {
+              "base": "parisaMsanana",
+              "m": "",
+              "f": "",
+              "n": "parisaMsananam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parisAsAyaka",
+              "m": "parisAsAyakaH",
+              "f": "parisAsAyikA",
+              "n": "parisAsAyakam"
+            },
+            {
+              "base": "parisaMsanaka",
+              "m": "parisaMsanakaH",
+              "f": "parisaMsanikA",
+              "n": "parisaMsanakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "parisAsAyamAna",
+              "m": "parisAsAyamAnaH",
+              "f": "parisAsAyamAnA",
+              "n": "parisAsAyamAnam"
+            },
+            {
+              "base": "parisaMsanyamAna",
+              "m": "parisaMsanyamAnaH",
+              "f": "parisaMsanyamAnA",
+              "n": "parisaMsanyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "parisAsAyamAna",
+              "m": "parisAsAyamAnaH",
+              "f": "parisAsAyamAnA",
+              "n": "parisAsAyamAnam"
+            },
+            {
+              "base": "parisaMsanyamAna",
+              "m": "parisaMsanyamAnaH",
+              "f": "parisaMsanyamAnA",
+              "n": "parisaMsanyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "parisAsAyamAna",
+              "m": "parisAsAyamAnaH",
+              "f": "parisAsAyamAnA",
+              "n": "parisAsAyamAnam"
+            },
+            {
+              "base": "parisaMsanyamAna",
+              "m": "parisaMsanyamAnaH",
+              "f": "parisaMsanyamAnA",
+              "n": "parisaMsanyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "parisaMsanA",
+              "m": "",
+              "f": "parisaMsanA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "parisaMsana",
+              "m": "parisaMsanaH",
+              "f": "parisaMsanA",
+              "n": "parisaMsanam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "parisaMsananIya",
+              "m": "parisaMsananIyaH",
+              "f": "parisaMsananIyA",
+              "n": "parisaMsananIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "parisaMsAta",
+              "m": "parisaMsAtaH",
+              "f": "parisaMsAtA",
+              "n": "parisaMsAtam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "parisaMsAtavat",
+              "m": "parisaMsAtavAn",
+              "f": "parisaMsAtavatI",
+              "n": "parisaMsAtavat/parisaMsAtavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "parisaMsAti",
+              "m": "",
+              "f": "parisaMsAtiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "parisaMsanAmbaBUvas",
+              "m": "parisaMsanAmbaBUvAn",
+              "f": "parisaMsanAmbaBUzI",
+              "n": "parisaMsanAmbaBUvat/parisaMsanAmbaBUvad"
+            },
+            {
+              "base": "parisaMsanAmAsivas",
+              "m": "parisaMsanAmAsivAn",
+              "f": "parisaMsanAmAsyuzI",
+              "n": "parisaMsanAmAsivat/parisaMsanAmAsivad"
+            },
+            {
+              "base": "parisaMsanAYcakfvas",
+              "m": "parisaMsanAYcakfvAn",
+              "f": "parisaMsanAYcakruzI",
+              "n": "parisaMsanAYcakfvat/parisaMsanAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "parisaMsAna",
+              "m": "parisaMsAnaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "parisaMsanAna",
+              "m": "parisaMsanAnaH",
+              "f": "parisaMsanAnA",
+              "n": "parisaMsanAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "parisaMsAnam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "parisaMsAnaka",
+              "m": "parisaMsAnakaH",
+              "f": "parisaMsAnikA",
+              "n": "parisaMsAnakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "parisaMsanitavya",
+              "m": "parisaMsanitavyaH",
+              "f": "parisaMsanitavyA",
+              "n": "parisaMsanitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "parisaMsanitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "parisaMsanitf",
+              "m": "parisaMsanitA",
+              "f": "parisaMsanitrI",
+              "n": "parisaMsanitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "parisaMsAya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "parisaMsanya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "parisaMsanana",
+              "m": "",
+              "f": "",
+              "n": "parisaMsananam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "parisaMsanaka",
+              "m": "parisaMsanakaH",
+              "f": "parisaMsanikA",
+              "n": "parisaMsanakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "parisaMsanat",
+              "m": "parisaMsanan",
+              "f": "parisaMsanatI",
+              "n": "parisaMsanat/parisaMsanad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "parisaMsanat",
+              "m": "parisaMsanan",
+              "f": "parisaMsanatI/parisaMsanantI",
+              "n": "parisaMsanat/parisaMsanad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2722 @@
+{
+  "id": "02.0029",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": "ayam DAtuH 'sOtraH' DAtuH asti (DAtupAWe nEva vidyate ityASayaH) . turustuSamyamaH sArvaDAtuke 7.3.95 iti sUtreRa asya viDAnaM kftam asti . asmAt vihitasya Sap-vikaraRasya luk Bavati, ataH sidDAntakOmudyAm aDyayanasOlaByArTam ayaM DAtuH adAdigaRe saMsTApitaH laByate . tatra - 'tu iti sOtro DAturgativfdDihiMsAsu . ayaM ca lugvikaraRa iti smaranti' iti asya DAtoH nirdeSaH kftaH asti ."
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "tu"
+    },
+    {
+      "name": "arTaH",
+      "value": "gativfdDihiMsAsu"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to go,to grow,to kill, to destroy"
+    },
+    {
+      "name": "hindI arTa",
+      "value": ""
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "adAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "aniw"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "N/A (sOtraH DAtuH)"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2444",
+      "ext_link": "/sutraani/sk2444?scroll=sutra-commentary-kaumudi-region&highlight=tau"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "tUyAt",
+        "tUyAd",
+        "tUyAstAm",
+        "tUyAsuH",
+        "tUyAH",
+        "tUyAstam",
+        "tUyAsta",
+        "tUyAsam",
+        "tUyAsva",
+        "tUyAsma"
+      ],
+      "plang": [
+        "atavIt",
+        "atavId",
+        "atOt",
+        "atOd",
+        "atutAm",
+        "atuvItAm",
+        "atuvan",
+        "atavIH",
+        "atOH",
+        "atutam",
+        "atuvItam",
+        "atuta",
+        "atuvIta",
+        "atavam",
+        "atuva",
+        "atuvIva",
+        "atuma",
+        "atuvIma"
+      ],
+      "plat": [
+        "tavIti",
+        "tOti",
+        "tutaH",
+        "tuvItaH",
+        "tuvanti",
+        "tavIzi",
+        "tOzi",
+        "tuTaH",
+        "tuvITaH",
+        "tuTa",
+        "tuvITa",
+        "tavImi",
+        "tOmi",
+        "tuvaH",
+        "tuvIvaH",
+        "tumaH",
+        "tuvImaH"
+      ],
+      "plit": [
+        "tutAva",
+        "tutuvatuH",
+        "tutuvuH",
+        "tutaviTa",
+        "tutoTa",
+        "tutuvaTuH",
+        "tutuva",
+        "tutava",
+        "tutAva",
+        "tutuviva",
+        "tutuvima"
+      ],
+      "plot": [
+        "tavItu",
+        "tutAt",
+        "tutAd",
+        "tuvItAt",
+        "tuvItAd",
+        "tOtu",
+        "tutAm",
+        "tuvItAm",
+        "tuvantu",
+        "tutAt",
+        "tutAd",
+        "tuvItAt",
+        "tuvItAd",
+        "tuvIhi",
+        "tuhi",
+        "tutam",
+        "tuvItam",
+        "tuta",
+        "tuvIta",
+        "tavAni",
+        "tavAva",
+        "tavAma"
+      ],
+      "plrung": [
+        "atozyat",
+        "atozyad",
+        "atozyatAm",
+        "atozyan",
+        "atozyaH",
+        "atozyatam",
+        "atozyata",
+        "atozyam",
+        "atozyAva",
+        "atozyAma"
+      ],
+      "plrut": [
+        "tozyati",
+        "tozyataH",
+        "tozyanti",
+        "tozyasi",
+        "tozyaTaH",
+        "tozyaTa",
+        "tozyAmi",
+        "tozyAvaH",
+        "tozyAmaH"
+      ],
+      "plung": [
+        "atOzIt",
+        "atOzId",
+        "atOzwAm",
+        "atOzuH",
+        "atOzIH",
+        "atOzwam",
+        "atOzwa",
+        "atOzam",
+        "atOzva",
+        "atOzma"
+      ],
+      "plut": [
+        "totA",
+        "totArO",
+        "totAraH",
+        "totAsi",
+        "totAsTaH",
+        "totAsTa",
+        "totAsmi",
+        "totAsvaH",
+        "totAsmaH"
+      ],
+      "pvidhiling": [
+        "tuyAt",
+        "tuyAd",
+        "tuvIyAt",
+        "tuvIyAd",
+        "tuyAtAm",
+        "tuvIyAtAm",
+        "tuyuH",
+        "tuvIyuH",
+        "tuyAH",
+        "tuvIyAH",
+        "tuyAtam",
+        "tuvIyAtam",
+        "tuyAta",
+        "tuvIyAta",
+        "tuyAm",
+        "tuvIyAm",
+        "tuyAva",
+        "tuvIyAva",
+        "tuyAma",
+        "tuvIyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "tAvizIzwa",
+        "tozIzwa",
+        "tAvizIyAstAm",
+        "tozIyAstAm",
+        "tAvizIran",
+        "tozIran",
+        "tAvizIzWAH",
+        "tozIzWAH",
+        "tAvizIyAsTAm",
+        "tozIyAsTAm",
+        "tAvizIQvam",
+        "tAvizIDvam",
+        "tozIQvam",
+        "tAvizIya",
+        "tozIya",
+        "tAvizIvahi",
+        "tozIvahi",
+        "tAvizImahi",
+        "tozImahi"
+      ],
+      "alang": [
+        "atUyata",
+        "atUyetAm",
+        "atUyanta",
+        "atUyaTAH",
+        "atUyeTAm",
+        "atUyaDvam",
+        "atUye",
+        "atUyAvahi",
+        "atUyAmahi"
+      ],
+      "alat": [
+        "tUyate",
+        "tUyete",
+        "tUyante",
+        "tUyase",
+        "tUyeTe",
+        "tUyaDve",
+        "tUye",
+        "tUyAvahe",
+        "tUyAmahe"
+      ],
+      "alit": [
+        "tutuve",
+        "tutuvAte",
+        "tutuvire",
+        "tutuvize",
+        "tutuvATe",
+        "tutuviQve",
+        "tutuviDve",
+        "tutuve",
+        "tutuvivahe",
+        "tutuvimahe"
+      ],
+      "alot": [
+        "tUyatAm",
+        "tUyetAm",
+        "tUyantAm",
+        "tUyasva",
+        "tUyeTAm",
+        "tUyaDvam",
+        "tUyE",
+        "tUyAvahE",
+        "tUyAmahE"
+      ],
+      "alrung": [
+        "atAvizyata",
+        "atozyata",
+        "atAvizyetAm",
+        "atozyetAm",
+        "atAvizyanta",
+        "atozyanta",
+        "atAvizyaTAH",
+        "atozyaTAH",
+        "atAvizyeTAm",
+        "atozyeTAm",
+        "atAvizyaDvam",
+        "atozyaDvam",
+        "atAvizye",
+        "atozye",
+        "atAvizyAvahi",
+        "atozyAvahi",
+        "atAvizyAmahi",
+        "atozyAmahi"
+      ],
+      "alrut": [
+        "tAvizyate",
+        "tozyate",
+        "tAvizyete",
+        "tozyete",
+        "tAvizyante",
+        "tozyante",
+        "tAvizyase",
+        "tozyase",
+        "tAvizyeTe",
+        "tozyeTe",
+        "tAvizyaDve",
+        "tozyaDve",
+        "tAvizye",
+        "tozye",
+        "tAvizyAvahe",
+        "tozyAvahe",
+        "tAvizyAmahe",
+        "tozyAmahe"
+      ],
+      "alung": [
+        "atAvi",
+        "atAvizAtAm",
+        "atozAtAm",
+        "atAvizata",
+        "atozata",
+        "atAvizWAH",
+        "atozWAH",
+        "atAvizATAm",
+        "atozATAm",
+        "atAviQvam",
+        "atAviDvam",
+        "atoQvam",
+        "atAvizi",
+        "atozi",
+        "atAvizvahi",
+        "atozvahi",
+        "atAvizmahi",
+        "atozmahi"
+      ],
+      "alut": [
+        "tAvitA",
+        "totA",
+        "tAvitArO",
+        "totArO",
+        "tAvitAraH",
+        "totAraH",
+        "tAvitAse",
+        "totAse",
+        "tAvitAsATe",
+        "totAsATe",
+        "tAvitADve",
+        "totADve",
+        "tAvitAhe",
+        "totAhe",
+        "tAvitAsvahe",
+        "totAsvahe",
+        "tAvitAsmahe",
+        "totAsmahe"
+      ],
+      "avidhiling": [
+        "tUyeta",
+        "tUyeyAtAm",
+        "tUyeran",
+        "tUyeTAH",
+        "tUyeyATAm",
+        "tUyeDvam",
+        "tUyeya",
+        "tUyevahi",
+        "tUyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "tutUzyAt",
+        "tutUzyAd",
+        "tutUzyAstAm",
+        "tutUzyAsuH",
+        "tutUzyAH",
+        "tutUzyAstam",
+        "tutUzyAsta",
+        "tutUzyAsam",
+        "tutUzyAsva",
+        "tutUzyAsma"
+      ],
+      "plang": [
+        "atutUzat",
+        "atutUzad",
+        "atutUzatAm",
+        "atutUzan",
+        "atutUzaH",
+        "atutUzatam",
+        "atutUzata",
+        "atutUzam",
+        "atutUzAva",
+        "atutUzAma"
+      ],
+      "plat": [
+        "tutUzati",
+        "tutUzataH",
+        "tutUzanti",
+        "tutUzasi",
+        "tutUzaTaH",
+        "tutUzaTa",
+        "tutUzAmi",
+        "tutUzAvaH",
+        "tutUzAmaH"
+      ],
+      "plit": [
+        "tutUzAYcakAra",
+        "tutUzAmAsa",
+        "tutUzAmbaBUva",
+        "tutUzAYcakratuH",
+        "tutUzAmAsatuH",
+        "tutUzAmbaBUvatuH",
+        "tutUzAYcakruH",
+        "tutUzAmAsuH",
+        "tutUzAmbaBUvuH",
+        "tutUzAYcakarTa",
+        "tutUzAmAsiTa",
+        "tutUzAmbaBUviTa",
+        "tutUzAYcakraTuH",
+        "tutUzAmAsaTuH",
+        "tutUzAmbaBUvaTuH",
+        "tutUzAYcakra",
+        "tutUzAmAsa",
+        "tutUzAmbaBUva",
+        "tutUzAYcakara",
+        "tutUzAYcakAra",
+        "tutUzAmAsa",
+        "tutUzAmbaBUva",
+        "tutUzAYcakfva",
+        "tutUzAmAsiva",
+        "tutUzAmbaBUviva",
+        "tutUzAYcakfma",
+        "tutUzAmAsima",
+        "tutUzAmbaBUvima"
+      ],
+      "plot": [
+        "tutUzatAt",
+        "tutUzatAd",
+        "tutUzatu",
+        "tutUzatAm",
+        "tutUzantu",
+        "tutUza",
+        "tutUzatAt",
+        "tutUzatAd",
+        "tutUzatam",
+        "tutUzata",
+        "tutUzARi",
+        "tutUzAva",
+        "tutUzAma"
+      ],
+      "plrung": [
+        "atutUzizyat",
+        "atutUzizyad",
+        "atutUzizyatAm",
+        "atutUzizyan",
+        "atutUzizyaH",
+        "atutUzizyatam",
+        "atutUzizyata",
+        "atutUzizyam",
+        "atutUzizyAva",
+        "atutUzizyAma"
+      ],
+      "plrut": [
+        "tutUzizyati",
+        "tutUzizyataH",
+        "tutUzizyanti",
+        "tutUzizyasi",
+        "tutUzizyaTaH",
+        "tutUzizyaTa",
+        "tutUzizyAmi",
+        "tutUzizyAvaH",
+        "tutUzizyAmaH"
+      ],
+      "plung": [
+        "atutUzIt",
+        "atutUzId",
+        "atutUzizwAm",
+        "atutUzizuH",
+        "atutUzIH",
+        "atutUzizwam",
+        "atutUzizwa",
+        "atutUzizam",
+        "atutUzizva",
+        "atutUzizma"
+      ],
+      "plut": [
+        "tutUzitA",
+        "tutUzitArO",
+        "tutUzitAraH",
+        "tutUzitAsi",
+        "tutUzitAsTaH",
+        "tutUzitAsTa",
+        "tutUzitAsmi",
+        "tutUzitAsvaH",
+        "tutUzitAsmaH"
+      ],
+      "pvidhiling": [
+        "tutUzet",
+        "tutUzed",
+        "tutUzetAm",
+        "tutUzeyuH",
+        "tutUzeH",
+        "tutUzetam",
+        "tutUzeta",
+        "tutUzeyam",
+        "tutUzeva",
+        "tutUzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "tutUzizIzwa",
+        "tutUzizIyAstAm",
+        "tutUzizIran",
+        "tutUzizIzWAH",
+        "tutUzizIyAsTAm",
+        "tutUzizIDvam",
+        "tutUzizIya",
+        "tutUzizIvahi",
+        "tutUzizImahi"
+      ],
+      "alang": [
+        "atutUzyata",
+        "atutUzyetAm",
+        "atutUzyanta",
+        "atutUzyaTAH",
+        "atutUzyeTAm",
+        "atutUzyaDvam",
+        "atutUzye",
+        "atutUzyAvahi",
+        "atutUzyAmahi"
+      ],
+      "alat": [
+        "tutUzyate",
+        "tutUzyete",
+        "tutUzyante",
+        "tutUzyase",
+        "tutUzyeTe",
+        "tutUzyaDve",
+        "tutUzye",
+        "tutUzyAvahe",
+        "tutUzyAmahe"
+      ],
+      "alit": [
+        "tutUzAYcakre",
+        "tutUzAmAse",
+        "tutUzAmbaBUve",
+        "tutUzAYcakrAte",
+        "tutUzAmAsAte",
+        "tutUzAmbaBUvAte",
+        "tutUzAYcakrire",
+        "tutUzAmAsire",
+        "tutUzAmbaBUvire",
+        "tutUzAYcakfze",
+        "tutUzAmAsize",
+        "tutUzAmbaBUvize",
+        "tutUzAYcakrATe",
+        "tutUzAmAsATe",
+        "tutUzAmbaBUvATe",
+        "tutUzAYcakfQve",
+        "tutUzAmAsiDve",
+        "tutUzAmbaBUviQve",
+        "tutUzAYcakre",
+        "tutUzAmAhe",
+        "tutUzAmbaBUve",
+        "tutUzAYcakfvahe",
+        "tutUzAmAsivahe",
+        "tutUzAmbaBUvivahe",
+        "tutUzAYcakfmahe",
+        "tutUzAmAsimahe",
+        "tutUzAmbaBUvimahe"
+      ],
+      "alot": [
+        "tutUzyatAm",
+        "tutUzyetAm",
+        "tutUzyantAm",
+        "tutUzyasva",
+        "tutUzyeTAm",
+        "tutUzyaDvam",
+        "tutUzyE",
+        "tutUzyAvahE",
+        "tutUzyAmahE"
+      ],
+      "alrung": [
+        "atutUzizyata",
+        "atutUzizyetAm",
+        "atutUzizyanta",
+        "atutUzizyaTAH",
+        "atutUzizyeTAm",
+        "atutUzizyaDvam",
+        "atutUzizye",
+        "atutUzizyAvahi",
+        "atutUzizyAmahi"
+      ],
+      "alrut": [
+        "tutUzizyate",
+        "tutUzizyete",
+        "tutUzizyante",
+        "tutUzizyase",
+        "tutUzizyeTe",
+        "tutUzizyaDve",
+        "tutUzizye",
+        "tutUzizyAvahe",
+        "tutUzizyAmahe"
+      ],
+      "alung": [
+        "atutUzi",
+        "atutUzizAtAm",
+        "atutUzizata",
+        "atutUzizWAH",
+        "atutUzizATAm",
+        "atutUziDvam",
+        "atutUzizi",
+        "atutUzizvahi",
+        "atutUzizmahi"
+      ],
+      "alut": [
+        "tutUzitA",
+        "tutUzitArO",
+        "tutUzitAraH",
+        "tutUzitAse",
+        "tutUzitAsATe",
+        "tutUzitADve",
+        "tutUzitAhe",
+        "tutUzitAsvahe",
+        "tutUzitAsmahe"
+      ],
+      "avidhiling": [
+        "tutUzyeta",
+        "tutUzyeyAtAm",
+        "tutUzyeran",
+        "tutUzyeTAH",
+        "tutUzyeyATAm",
+        "tutUzyeDvam",
+        "tutUzyeya",
+        "tutUzyevahi",
+        "tutUzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "tAvayizIzwa",
+        "tAvayizIyAstAm",
+        "tAvayizIran",
+        "tAvayizIzWAH",
+        "tAvayizIyAsTAm",
+        "tAvayizIQvam",
+        "tAvayizIDvam",
+        "tAvayizIya",
+        "tAvayizIvahi",
+        "tAvayizImahi"
+      ],
+      "alang": [
+        "atAvayata",
+        "atAvayetAm",
+        "atAvayanta",
+        "atAvayaTAH",
+        "atAvayeTAm",
+        "atAvayaDvam",
+        "atAvaye",
+        "atAvayAvahi",
+        "atAvayAmahi"
+      ],
+      "alat": [
+        "tAvayate",
+        "tAvayete",
+        "tAvayante",
+        "tAvayase",
+        "tAvayeTe",
+        "tAvayaDve",
+        "tAvaye",
+        "tAvayAvahe",
+        "tAvayAmahe"
+      ],
+      "alit": [
+        "tAvayAYcakre",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakrAte",
+        "tAvayAmAsatuH",
+        "tAvayAmbaBUvatuH",
+        "tAvayAYcakrire",
+        "tAvayAmAsuH",
+        "tAvayAmbaBUvuH",
+        "tAvayAYcakfze",
+        "tAvayAmAsiTa",
+        "tAvayAmbaBUviTa",
+        "tAvayAYcakrATe",
+        "tAvayAmAsaTuH",
+        "tAvayAmbaBUvaTuH",
+        "tAvayAYcakfQve",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakre",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakfvahe",
+        "tAvayAmAsiva",
+        "tAvayAmbaBUviva",
+        "tAvayAYcakfmahe",
+        "tAvayAmAsima",
+        "tAvayAmbaBUvima"
+      ],
+      "alot": [
+        "tAvayatAm",
+        "tAvayetAm",
+        "tAvayantAm",
+        "tAvayasva",
+        "tAvayeTAm",
+        "tAvayaDvam",
+        "tAvayE",
+        "tAvayAvahE",
+        "tAvayAmahE"
+      ],
+      "alrung": [
+        "atAvayizyata",
+        "atAvayizyetAm",
+        "atAvayizyanta",
+        "atAvayizyaTAH",
+        "atAvayizyeTAm",
+        "atAvayizyaDvam",
+        "atAvayizye",
+        "atAvayizyAvahi",
+        "atAvayizyAmahi"
+      ],
+      "alrut": [
+        "tAvayizyate",
+        "tAvayizyete",
+        "tAvayizyante",
+        "tAvayizyase",
+        "tAvayizyeTe",
+        "tAvayizyaDve",
+        "tAvayizye",
+        "tAvayizyAvahe",
+        "tAvayizyAmahe"
+      ],
+      "alung": [
+        "atUtavata",
+        "atUtavetAm",
+        "atUtavanta",
+        "atUtavaTAH",
+        "atUtaveTAm",
+        "atUtavaDvam",
+        "atUtave",
+        "atUtavAvahi",
+        "atUtavAmahi"
+      ],
+      "alut": [
+        "tAvayitA",
+        "tAvayitArO",
+        "tAvayitAraH",
+        "tAvayitAse",
+        "tAvayitAsATe",
+        "tAvayitADve",
+        "tAvayitAhe",
+        "tAvayitAsvahe",
+        "tAvayitAsmahe"
+      ],
+      "avidhiling": [
+        "tAvayeta",
+        "tAvayeyAtAm",
+        "tAvayeran",
+        "tAvayeTAH",
+        "tAvayeyATAm",
+        "tAvayeDvam",
+        "tAvayeya",
+        "tAvayevahi",
+        "tAvayemahi"
+      ],
+      "pashirling": [
+        "tAvyAt",
+        "tAvyAd",
+        "tAvyAstAm",
+        "tAvyAsuH",
+        "tAvyAH",
+        "tAvyAstam",
+        "tAvyAsta",
+        "tAvyAsam",
+        "tAvyAsva",
+        "tAvyAsma"
+      ],
+      "plang": [
+        "atAvayat",
+        "atAvayad",
+        "atAvayatAm",
+        "atAvayan",
+        "atAvayaH",
+        "atAvayatam",
+        "atAvayata",
+        "atAvayam",
+        "atAvayAva",
+        "atAvayAma"
+      ],
+      "plat": [
+        "tAvayati",
+        "tAvayataH",
+        "tAvayanti",
+        "tAvayasi",
+        "tAvayaTaH",
+        "tAvayaTa",
+        "tAvayAmi",
+        "tAvayAvaH",
+        "tAvayAmaH"
+      ],
+      "plit": [
+        "tAvayAYcakAra",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakratuH",
+        "tAvayAmAsatuH",
+        "tAvayAmbaBUvatuH",
+        "tAvayAYcakruH",
+        "tAvayAmAsuH",
+        "tAvayAmbaBUvuH",
+        "tAvayAYcakarTa",
+        "tAvayAmAsiTa",
+        "tAvayAmbaBUviTa",
+        "tAvayAYcakraTuH",
+        "tAvayAmAsaTuH",
+        "tAvayAmbaBUvaTuH",
+        "tAvayAYcakra",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakara",
+        "tAvayAYcakAra",
+        "tAvayAmAsa",
+        "tAvayAmbaBUva",
+        "tAvayAYcakfva",
+        "tAvayAmAsiva",
+        "tAvayAmbaBUviva",
+        "tAvayAYcakfma",
+        "tAvayAmAsima",
+        "tAvayAmbaBUvima"
+      ],
+      "plot": [
+        "tAvayatAt",
+        "tAvayatAd",
+        "tAvayatu",
+        "tAvayatAm",
+        "tAvayantu",
+        "tAvaya",
+        "tAvayatAt",
+        "tAvayatAd",
+        "tAvayatam",
+        "tAvayata",
+        "tAvayAni",
+        "tAvayAva",
+        "tAvayAma"
+      ],
+      "plrung": [
+        "atAvayizyat",
+        "atAvayizyad",
+        "atAvayizyatAm",
+        "atAvayizyan",
+        "atAvayizyaH",
+        "atAvayizyatam",
+        "atAvayizyata",
+        "atAvayizyam",
+        "atAvayizyAva",
+        "atAvayizyAma"
+      ],
+      "plrut": [
+        "tAvayizyati",
+        "tAvayizyataH",
+        "tAvayizyanti",
+        "tAvayizyasi",
+        "tAvayizyaTaH",
+        "tAvayizyaTa",
+        "tAvayizyAmi",
+        "tAvayizyAvaH",
+        "tAvayizyAmaH"
+      ],
+      "plung": [
+        "atUtavat",
+        "atUtavad",
+        "atUtavatAm",
+        "atUtavan",
+        "atUtavaH",
+        "atUtavatam",
+        "atUtavata",
+        "atUtavam",
+        "atUtavAva",
+        "atUtavAma"
+      ],
+      "plut": [
+        "tAvayitA",
+        "tAvayitArO",
+        "tAvayitAraH",
+        "tAvayitAsi",
+        "tAvayitAsTaH",
+        "tAvayitAsTa",
+        "tAvayitAsmi",
+        "tAvayitAsvaH",
+        "tAvayitAsmaH"
+      ],
+      "pvidhiling": [
+        "tAvayet",
+        "tAvayed",
+        "tAvayetAm",
+        "tAvayeyuH",
+        "tAvayeH",
+        "tAvayetam",
+        "tAvayeta",
+        "tAvayeyam",
+        "tAvayeva",
+        "tAvayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "tAvayizIzwa",
+        "tAvizIzwa",
+        "tAvayizIyAstAm",
+        "tAvizIyAstAm",
+        "tAvayizIran",
+        "tAvizIran",
+        "tAvayizIzWAH",
+        "tAvizIzWAH",
+        "tAvayizIyAsTAm",
+        "tAvizIyAsTAm",
+        "tAvayizIQvam",
+        "tAvayizIDvam",
+        "tAvizIQvam",
+        "tAvayizIya",
+        "tAvizIya",
+        "tAvayizIvahi",
+        "tAvizIvahi",
+        "tAvayizImahi",
+        "tAvizImahi"
+      ],
+      "alang": [
+        "atAvyata",
+        "atAvyetAm",
+        "atAvyanta",
+        "atAvyaTAH",
+        "atAvyeTAm",
+        "atAvyaDvam",
+        "atAvye",
+        "atAvyAvahi",
+        "atAvyAmahi"
+      ],
+      "alat": [
+        "tAvyate",
+        "tAvyete",
+        "tAvyante",
+        "tAvyase",
+        "tAvyeTe",
+        "tAvyaDve",
+        "tAvye",
+        "tAvyAvahe",
+        "tAvyAmahe"
+      ],
+      "alit": [
+        "tAvayAYcakre",
+        "tAvayAmAse",
+        "tAvayAmbaBUve",
+        "tAvayAYcakrAte",
+        "tAvayAmAsAte",
+        "tAvayAmbaBUvAte",
+        "tAvayAYcakrire",
+        "tAvayAmAsire",
+        "tAvayAmbaBUvire",
+        "tAvayAYcakfze",
+        "tAvayAmAsize",
+        "tAvayAmbaBUvize",
+        "tAvayAYcakrATe",
+        "tAvayAmAsATe",
+        "tAvayAmbaBUvATe",
+        "tAvayAYcakfQve",
+        "tAvayAmAsiDve",
+        "tAvayAmbaBUviQve",
+        "tAvayAYcakre",
+        "tAvayAmAhe",
+        "tAvayAmbaBUve",
+        "tAvayAYcakfvahe",
+        "tAvayAmAsivahe",
+        "tAvayAmbaBUvivahe",
+        "tAvayAYcakfmahe",
+        "tAvayAmAsimahe",
+        "tAvayAmbaBUvimahe"
+      ],
+      "alot": [
+        "tAvyatAm",
+        "tAvyetAm",
+        "tAvyantAm",
+        "tAvyasva",
+        "tAvyeTAm",
+        "tAvyaDvam",
+        "tAvyE",
+        "tAvyAvahE",
+        "tAvyAmahE"
+      ],
+      "alrung": [
+        "atAvayizyata",
+        "atAvizyata",
+        "atAvayizyetAm",
+        "atAvizyetAm",
+        "atAvayizyanta",
+        "atAvizyanta",
+        "atAvayizyaTAH",
+        "atAvizyaTAH",
+        "atAvayizyeTAm",
+        "atAvizyeTAm",
+        "atAvayizyaDvam",
+        "atAvizyaDvam",
+        "atAvayizye",
+        "atAvizye",
+        "atAvayizyAvahi",
+        "atAvizyAvahi",
+        "atAvayizyAmahi",
+        "atAvizyAmahi"
+      ],
+      "alrut": [
+        "tAvayizyate",
+        "tAvizyate",
+        "tAvayizyete",
+        "tAvizyete",
+        "tAvayizyante",
+        "tAvizyante",
+        "tAvayizyase",
+        "tAvizyase",
+        "tAvayizyeTe",
+        "tAvizyeTe",
+        "tAvayizyaDve",
+        "tAvizyaDve",
+        "tAvayizye",
+        "tAvizye",
+        "tAvayizyAvahe",
+        "tAvizyAvahe",
+        "tAvayizyAmahe",
+        "tAvizyAmahe"
+      ],
+      "alung": [
+        "atAvi",
+        "atAvayizAtAm",
+        "atAvizAtAm",
+        "atAvayizata",
+        "atAvizata",
+        "atAvayizWAH",
+        "atAvizWAH",
+        "atAvayizATAm",
+        "atAvizATAm",
+        "atAvayiQvam",
+        "atAvayiDvam",
+        "atAviQvam",
+        "atAvayizi",
+        "atAvizi",
+        "atAvayizvahi",
+        "atAvizvahi",
+        "atAvayizmahi",
+        "atAvizmahi"
+      ],
+      "alut": [
+        "tAvayitA",
+        "tAvitA",
+        "tAvayitArO",
+        "tAvitArO",
+        "tAvayitAraH",
+        "tAvitAraH",
+        "tAvayitAse",
+        "tAvitAse",
+        "tAvayitAsATe",
+        "tAvitAsATe",
+        "tAvayitADve",
+        "tAvitADve",
+        "tAvayitAhe",
+        "tAvitAhe",
+        "tAvayitAsvahe",
+        "tAvitAsvahe",
+        "tAvayitAsmahe",
+        "tAvitAsmahe"
+      ],
+      "avidhiling": [
+        "tAvyeta",
+        "tAvyeyAtAm",
+        "tAvyeran",
+        "tAvyeTAH",
+        "tAvyeyATAm",
+        "tAvyeDvam",
+        "tAvyeya",
+        "tAvyevahi",
+        "tAvyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "totUyizIzwa",
+        "totUyizIyAstAm",
+        "totUyizIran",
+        "totUyizIzWAH",
+        "totUyizIyAsTAm",
+        "totUyizIQvam",
+        "totUyizIDvam",
+        "totUyizIya",
+        "totUyizIvahi",
+        "totUyizImahi"
+      ],
+      "alang": [
+        "atotUyata",
+        "atotUyetAm",
+        "atotUyanta",
+        "atotUyaTAH",
+        "atotUyeTAm",
+        "atotUyaDvam",
+        "atotUye",
+        "atotUyAvahi",
+        "atotUyAmahi"
+      ],
+      "alat": [
+        "totUyate",
+        "totUyete",
+        "totUyante",
+        "totUyase",
+        "totUyeTe",
+        "totUyaDve",
+        "totUye",
+        "totUyAvahe",
+        "totUyAmahe"
+      ],
+      "alit": [
+        "totUyAYcakre",
+        "totUyAmAsa",
+        "totUyAmbaBUva",
+        "totUyAYcakrAte",
+        "totUyAmAsatuH",
+        "totUyAmbaBUvatuH",
+        "totUyAYcakrire",
+        "totUyAmAsuH",
+        "totUyAmbaBUvuH",
+        "totUyAYcakfze",
+        "totUyAmAsiTa",
+        "totUyAmbaBUviTa",
+        "totUyAYcakrATe",
+        "totUyAmAsaTuH",
+        "totUyAmbaBUvaTuH",
+        "totUyAYcakfQve",
+        "totUyAmAsa",
+        "totUyAmbaBUva",
+        "totUyAYcakre",
+        "totUyAmAsa",
+        "totUyAmbaBUva",
+        "totUyAYcakfvahe",
+        "totUyAmAsiva",
+        "totUyAmbaBUviva",
+        "totUyAYcakfmahe",
+        "totUyAmAsima",
+        "totUyAmbaBUvima"
+      ],
+      "alot": [
+        "totUyatAm",
+        "totUyetAm",
+        "totUyantAm",
+        "totUyasva",
+        "totUyeTAm",
+        "totUyaDvam",
+        "totUyE",
+        "totUyAvahE",
+        "totUyAmahE"
+      ],
+      "alrung": [
+        "atotUyizyata",
+        "atotUyizyetAm",
+        "atotUyizyanta",
+        "atotUyizyaTAH",
+        "atotUyizyeTAm",
+        "atotUyizyaDvam",
+        "atotUyizye",
+        "atotUyizyAvahi",
+        "atotUyizyAmahi"
+      ],
+      "alrut": [
+        "totUyizyate",
+        "totUyizyete",
+        "totUyizyante",
+        "totUyizyase",
+        "totUyizyeTe",
+        "totUyizyaDve",
+        "totUyizye",
+        "totUyizyAvahe",
+        "totUyizyAmahe"
+      ],
+      "alung": [
+        "atotUyizwa",
+        "atotUyizAtAm",
+        "atotUyizata",
+        "atotUyizWAH",
+        "atotUyizATAm",
+        "atotUyiQvam",
+        "atotUyiDvam",
+        "atotUyizi",
+        "atotUyizvahi",
+        "atotUyizmahi"
+      ],
+      "alut": [
+        "totUyitA",
+        "totUyitArO",
+        "totUyitAraH",
+        "totUyitAse",
+        "totUyitAsATe",
+        "totUyitADve",
+        "totUyitAhe",
+        "totUyitAsvahe",
+        "totUyitAsmahe"
+      ],
+      "avidhiling": [
+        "totUyeta",
+        "totUyeyAtAm",
+        "totUyeran",
+        "totUyeTAH",
+        "totUyeyATAm",
+        "totUyeDvam",
+        "totUyeya",
+        "totUyevahi",
+        "totUyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "totUyizIzwa",
+        "totUyizIyAstAm",
+        "totUyizIran",
+        "totUyizIzWAH",
+        "totUyizIyAsTAm",
+        "totUyizIQvam",
+        "totUyizIDvam",
+        "totUyizIya",
+        "totUyizIvahi",
+        "totUyizImahi"
+      ],
+      "alang": [
+        "atotUyyata",
+        "atotUyyetAm",
+        "atotUyyanta",
+        "atotUyyaTAH",
+        "atotUyyeTAm",
+        "atotUyyaDvam",
+        "atotUyye",
+        "atotUyyAvahi",
+        "atotUyyAmahi"
+      ],
+      "alat": [
+        "totUyyate",
+        "totUyyete",
+        "totUyyante",
+        "totUyyase",
+        "totUyyeTe",
+        "totUyyaDve",
+        "totUyye",
+        "totUyyAvahe",
+        "totUyyAmahe"
+      ],
+      "alit": [
+        "totUyAYcakre",
+        "totUyAmAse",
+        "totUyAmbaBUve",
+        "totUyAYcakrAte",
+        "totUyAmAsAte",
+        "totUyAmbaBUvAte",
+        "totUyAYcakrire",
+        "totUyAmAsire",
+        "totUyAmbaBUvire",
+        "totUyAYcakfze",
+        "totUyAmAsize",
+        "totUyAmbaBUvize",
+        "totUyAYcakrATe",
+        "totUyAmAsATe",
+        "totUyAmbaBUvATe",
+        "totUyAYcakfQve",
+        "totUyAmAsiDve",
+        "totUyAmbaBUviQve",
+        "totUyAYcakre",
+        "totUyAmAhe",
+        "totUyAmbaBUve",
+        "totUyAYcakfvahe",
+        "totUyAmAsivahe",
+        "totUyAmbaBUvivahe",
+        "totUyAYcakfmahe",
+        "totUyAmAsimahe",
+        "totUyAmbaBUvimahe"
+      ],
+      "alot": [
+        "totUyyatAm",
+        "totUyyetAm",
+        "totUyyantAm",
+        "totUyyasva",
+        "totUyyeTAm",
+        "totUyyaDvam",
+        "totUyyE",
+        "totUyyAvahE",
+        "totUyyAmahE"
+      ],
+      "alrung": [
+        "atotUyizyata",
+        "atotUyizyetAm",
+        "atotUyizyanta",
+        "atotUyizyaTAH",
+        "atotUyizyeTAm",
+        "atotUyizyaDvam",
+        "atotUyizye",
+        "atotUyizyAvahi",
+        "atotUyizyAmahi"
+      ],
+      "alrut": [
+        "totUyizyate",
+        "totUyizyete",
+        "totUyizyante",
+        "totUyizyase",
+        "totUyizyeTe",
+        "totUyizyaDve",
+        "totUyizye",
+        "totUyizyAvahe",
+        "totUyizyAmahe"
+      ],
+      "alung": [
+        "atotUyi",
+        "atotUyizAtAm",
+        "atotUyizata",
+        "atotUyizWAH",
+        "atotUyizATAm",
+        "atotUyiQvam",
+        "atotUyiDvam",
+        "atotUyizi",
+        "atotUyizvahi",
+        "atotUyizmahi"
+      ],
+      "alut": [
+        "totUyitA",
+        "totUyitArO",
+        "totUyitAraH",
+        "totUyitAse",
+        "totUyitAsATe",
+        "totUyitADve",
+        "totUyitAhe",
+        "totUyitAsvahe",
+        "totUyitAsmahe"
+      ],
+      "avidhiling": [
+        "totUyyeta",
+        "totUyyeyAtAm",
+        "totUyyeran",
+        "totUyyeTAH",
+        "totUyyeyATAm",
+        "totUyyeDvam",
+        "totUyyeya",
+        "totUyyevahi",
+        "totUyyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "totUyAt",
+        "totUyAd",
+        "totUyAstAm",
+        "totUyAsuH",
+        "totUyAH",
+        "totUyAstam",
+        "totUyAsta",
+        "totUyAsam",
+        "totUyAsva",
+        "totUyAsma"
+      ],
+      "plang": [
+        "atotavIt",
+        "atotavId",
+        "atotot",
+        "atotod",
+        "atotutAm",
+        "atotuvItAm",
+        "atotavuH",
+        "atotavIH",
+        "atotoH",
+        "atotutam",
+        "atotuvItam",
+        "atotuta",
+        "atotuvIta",
+        "atotavam",
+        "atotuva",
+        "atotuvIva",
+        "atotuma",
+        "atotuvIma"
+      ],
+      "plat": [
+        "totavIti",
+        "tototi",
+        "totutaH",
+        "totuvItaH",
+        "totuvati",
+        "totavIzi",
+        "totozi",
+        "totuTaH",
+        "totuvITaH",
+        "totuTa",
+        "totuvITa",
+        "totavImi",
+        "totomi",
+        "totuvaH",
+        "totuvIvaH",
+        "totumaH",
+        "totuvImaH"
+      ],
+      "plit": [
+        "totavAYcakAra",
+        "totavAmAsa",
+        "totavAmbaBUva",
+        "totavAYcakratuH",
+        "totavAmAsatuH",
+        "totavAmbaBUvatuH",
+        "totavAYcakruH",
+        "totavAmAsuH",
+        "totavAmbaBUvuH",
+        "totavAYcakarTa",
+        "totavAmAsiTa",
+        "totavAmbaBUviTa",
+        "totavAYcakraTuH",
+        "totavAmAsaTuH",
+        "totavAmbaBUvaTuH",
+        "totavAYcakra",
+        "totavAmAsa",
+        "totavAmbaBUva",
+        "totavAYcakara",
+        "totavAYcakAra",
+        "totavAmAsa",
+        "totavAmbaBUva",
+        "totavAYcakfva",
+        "totavAmAsiva",
+        "totavAmbaBUviva",
+        "totavAYcakfma",
+        "totavAmAsima",
+        "totavAmbaBUvima"
+      ],
+      "plot": [
+        "totavItu",
+        "totutAt",
+        "totutAd",
+        "totuvItAt",
+        "totuvItAd",
+        "tototu",
+        "totutAm",
+        "totuvItAm",
+        "totuvatu",
+        "totutAt",
+        "totutAd",
+        "totuvItAt",
+        "totuvItAd",
+        "totuvIhi",
+        "totuhi",
+        "totutam",
+        "totuvItam",
+        "totuta",
+        "totuvIta",
+        "totavAni",
+        "totavAva",
+        "totavAma"
+      ],
+      "plrung": [
+        "atotavizyat",
+        "atotavizyad",
+        "atotavizyatAm",
+        "atotavizyan",
+        "atotavizyaH",
+        "atotavizyatam",
+        "atotavizyata",
+        "atotavizyam",
+        "atotavizyAva",
+        "atotavizyAma"
+      ],
+      "plrut": [
+        "totavizyati",
+        "totavizyataH",
+        "totavizyanti",
+        "totavizyasi",
+        "totavizyaTaH",
+        "totavizyaTa",
+        "totavizyAmi",
+        "totavizyAvaH",
+        "totavizyAmaH"
+      ],
+      "plung": [
+        "atotAvIt",
+        "atotAvId",
+        "atotAvizwAm",
+        "atotAvizuH",
+        "atotAvIH",
+        "atotAvizwam",
+        "atotAvizwa",
+        "atotAvizam",
+        "atotAvizva",
+        "atotAvizma"
+      ],
+      "plut": [
+        "totavitA",
+        "totavitArO",
+        "totavitAraH",
+        "totavitAsi",
+        "totavitAsTaH",
+        "totavitAsTa",
+        "totavitAsmi",
+        "totavitAsvaH",
+        "totavitAsmaH"
+      ],
+      "pvidhiling": [
+        "totuyAt",
+        "totuyAd",
+        "totuvIyAt",
+        "totuvIyAd",
+        "totuyAtAm",
+        "totuvIyAtAm",
+        "totuyuH",
+        "totuvIyuH",
+        "totuyAH",
+        "totuvIyAH",
+        "totuyAtam",
+        "totuvIyAtam",
+        "totuyAta",
+        "totuvIyAta",
+        "totuyAm",
+        "totuvIyAm",
+        "totuyAva",
+        "totuvIyAva",
+        "totuyAma",
+        "totuvIyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "totavizIzwa",
+        "totAvizIzwa",
+        "totavizIyAstAm",
+        "totAvizIyAstAm",
+        "totavizIran",
+        "totAvizIran",
+        "totavizIzWAH",
+        "totAvizIzWAH",
+        "totavizIyAsTAm",
+        "totAvizIyAsTAm",
+        "totavizIQvam",
+        "totAvizIQvam",
+        "totavizIya",
+        "totAvizIya",
+        "totavizIvahi",
+        "totAvizIvahi",
+        "totavizImahi",
+        "totAvizImahi"
+      ],
+      "alang": [
+        "atotUyata",
+        "atotUyetAm",
+        "atotUyanta",
+        "atotUyaTAH",
+        "atotUyeTAm",
+        "atotUyaDvam",
+        "atotUye",
+        "atotUyAvahi",
+        "atotUyAmahi"
+      ],
+      "alat": [
+        "totUyate",
+        "totUyete",
+        "totUyante",
+        "totUyase",
+        "totUyeTe",
+        "totUyaDve",
+        "totUye",
+        "totUyAvahe",
+        "totUyAmahe"
+      ],
+      "alit": [
+        "totavAYcakre",
+        "totavAmAse",
+        "totavAmbaBUve",
+        "totavAYcakrAte",
+        "totavAmAsAte",
+        "totavAmbaBUvAte",
+        "totavAYcakrire",
+        "totavAmAsire",
+        "totavAmbaBUvire",
+        "totavAYcakfze",
+        "totavAmAsize",
+        "totavAmbaBUvize",
+        "totavAYcakrATe",
+        "totavAmAsATe",
+        "totavAmbaBUvATe",
+        "totavAYcakfQve",
+        "totavAmAsiDve",
+        "totavAmbaBUviQve",
+        "totavAYcakre",
+        "totavAmAhe",
+        "totavAmbaBUve",
+        "totavAYcakfvahe",
+        "totavAmAsivahe",
+        "totavAmbaBUvivahe",
+        "totavAYcakfmahe",
+        "totavAmAsimahe",
+        "totavAmbaBUvimahe"
+      ],
+      "alot": [
+        "totUyatAm",
+        "totUyetAm",
+        "totUyantAm",
+        "totUyasva",
+        "totUyeTAm",
+        "totUyaDvam",
+        "totUyE",
+        "totUyAvahE",
+        "totUyAmahE"
+      ],
+      "alrung": [
+        "atotavizyata",
+        "atotAvizyata",
+        "atotavizyetAm",
+        "atotAvizyetAm",
+        "atotavizyanta",
+        "atotAvizyanta",
+        "atotavizyaTAH",
+        "atotAvizyaTAH",
+        "atotavizyeTAm",
+        "atotAvizyeTAm",
+        "atotavizyaDvam",
+        "atotAvizyaDvam",
+        "atotavizye",
+        "atotAvizye",
+        "atotavizyAvahi",
+        "atotAvizyAvahi",
+        "atotavizyAmahi",
+        "atotAvizyAmahi"
+      ],
+      "alrut": [
+        "totavizyate",
+        "totAvizyate",
+        "totavizyete",
+        "totAvizyete",
+        "totavizyante",
+        "totAvizyante",
+        "totavizyase",
+        "totAvizyase",
+        "totavizyeTe",
+        "totAvizyeTe",
+        "totavizyaDve",
+        "totAvizyaDve",
+        "totavizye",
+        "totAvizye",
+        "totavizyAvahe",
+        "totAvizyAvahe",
+        "totavizyAmahe",
+        "totAvizyAmahe"
+      ],
+      "alung": [
+        "atotAvi",
+        "atotavizAtAm",
+        "atotAvizAtAm",
+        "atotavizata",
+        "atotAvizata",
+        "atotavizWAH",
+        "atotAvizWAH",
+        "atotavizATAm",
+        "atotAvizATAm",
+        "atotaviQvam",
+        "atotAviQvam",
+        "atotavizi",
+        "atotAvizi",
+        "atotavizvahi",
+        "atotAvizvahi",
+        "atotavizmahi",
+        "atotAvizmahi"
+      ],
+      "alut": [
+        "totavitA",
+        "totAvitA",
+        "totavitArO",
+        "totAvitArO",
+        "totavitAraH",
+        "totAvitAraH",
+        "totavitAse",
+        "totAvitAse",
+        "totavitAsATe",
+        "totAvitAsATe",
+        "totavitADve",
+        "totAvitADve",
+        "totavitAhe",
+        "totAvitAhe",
+        "totavitAsvahe",
+        "totAvitAsvahe",
+        "totavitAsmahe",
+        "totAvitAsmahe"
+      ],
+      "avidhiling": [
+        "totUyeta",
+        "totUyeyAtAm",
+        "totUyeran",
+        "totUyeTAH",
+        "totUyeyATAm",
+        "totUyeDvam",
+        "totUyeya",
+        "totUyevahi",
+        "totUyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "tava",
+          "m": "tavaH",
+          "f": "tavA",
+          "n": "tavam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tavanIya",
+          "m": "tavanIyaH",
+          "f": "tavanIyA",
+          "n": "tavanIyam"
+        }
+      ],
+      "ap": [
+        {
+          "base": "tava",
+          "m": "tavaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kta": [
+        {
+          "base": "tuta",
+          "m": "tutaH",
+          "f": "tutA",
+          "n": "tutam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tutavat",
+          "m": "tutavAn",
+          "f": "tutavatI",
+          "n": "tutavat/tutavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tuti",
+          "m": "",
+          "f": "tutiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tutvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tutuvas",
+          "m": "tutuvAn",
+          "f": "tutUzI",
+          "n": "tutuvat/tutuvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tuvAna",
+          "m": "tuvAnaH",
+          "f": "tuvAnA",
+          "n": "tuvAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "tAvya",
+          "m": "tAvyaH",
+          "f": "tAvyA",
+          "n": "tAvyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tAvaka",
+          "m": "tAvakaH",
+          "f": "tAvikA",
+          "n": "tAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "totavya",
+          "m": "totavyaH",
+          "f": "totavyA",
+          "n": "totavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "totum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "totf",
+          "m": "totA",
+          "f": "totrI",
+          "n": "totf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tUyamAna",
+          "m": "tUyamAnaH",
+          "f": "tUyamAnA",
+          "n": "tUyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "tavya",
+          "m": "tavyaH",
+          "f": "tavyA",
+          "n": "tavyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratutya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tavana",
+          "m": "",
+          "f": "",
+          "n": "tavanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tavaka",
+          "m": "tavakaH",
+          "f": "tavikA",
+          "n": "tavakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "tuvat",
+          "m": "tuvan",
+          "f": "tuvatI",
+          "n": "tuvat/tuvad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tAvizyamARa",
+          "m": "tAvizyamARaH",
+          "f": "tAvizyamARA",
+          "n": "tAvizyamARam"
+        },
+        {
+          "base": "tozyamARa",
+          "m": "tozyamARaH",
+          "f": "tozyamARA",
+          "n": "tozyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "tozyat",
+          "m": "tozyan",
+          "f": "tozyatI/tozyantI",
+          "n": "tozyat/tozyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "tutUzA",
+          "m": "",
+          "f": "tutUzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "tutUza",
+          "m": "tutUzaH",
+          "f": "tutUzA",
+          "n": "tutUzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tutUzaRIya",
+          "m": "tutUzaRIyaH",
+          "f": "tutUzaRIyA",
+          "n": "tutUzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "tutUzu",
+          "m": "tutUzuH",
+          "f": "tutUzuH",
+          "n": "tutUzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tutUzita",
+          "m": "tutUzitaH",
+          "f": "tutUzitA",
+          "n": "tutUzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tutUzitavat",
+          "m": "tutUzitavAn",
+          "f": "tutUzitavatI",
+          "n": "tutUzitavat/tutUzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tutUzwi",
+          "m": "",
+          "f": "tutUzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tutUzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tutUzAmbaBUvas",
+          "m": "tutUzAmbaBUvAn",
+          "f": "tutUzAmbaBUzI",
+          "n": "tutUzAmbaBUvat/tutUzAmbaBUvad"
+        },
+        {
+          "base": "tutUzAmAsivas",
+          "m": "tutUzAmAsivAn",
+          "f": "tutUzAmAsyuzI",
+          "n": "tutUzAmAsivat/tutUzAmAsivad"
+        },
+        {
+          "base": "tutUzAYcakfvas",
+          "m": "tutUzAYcakfvAn",
+          "f": "tutUzAYcakruzI",
+          "n": "tutUzAYcakfvat/tutUzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tutUza",
+          "m": "tutUzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tutUzamARa",
+          "m": "tutUzamARaH",
+          "f": "tutUzamARA",
+          "n": "tutUzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tutUzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tutUzaka",
+          "m": "tutUzakaH",
+          "f": "tutUzikA",
+          "n": "tutUzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tutUzitavya",
+          "m": "tutUzitavyaH",
+          "f": "tutUzitavyA",
+          "n": "tutUzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tutUzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tutUzitf",
+          "m": "tutUzitA",
+          "f": "tutUzitrI",
+          "n": "tutUzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tutUzyamARa",
+          "m": "tutUzyamARaH",
+          "f": "tutUzyamARA",
+          "n": "tutUzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "tutUzya",
+          "m": "tutUzyaH",
+          "f": "tutUzyA",
+          "n": "tutUzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratutUzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tutUzaRa",
+          "m": "",
+          "f": "",
+          "n": "tutUzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tutUzaka",
+          "m": "tutUzakaH",
+          "f": "tutUzikA",
+          "n": "tutUzakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "tutUzat",
+          "m": "tutUzan",
+          "f": "tutUzantI",
+          "n": "tutUzat/tutUzad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tutUzizyamARa",
+          "m": "tutUzizyamARaH",
+          "f": "tutUzizyamARA",
+          "n": "tutUzizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "tutUzizyat",
+          "m": "tutUzizyan",
+          "f": "tutUzizyatI/tutUzizyantI",
+          "n": "tutUzizyat/tutUzizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "tAva",
+          "m": "tAvaH",
+          "f": "tAvA",
+          "n": "tAvam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tAvanIya",
+          "m": "tAvanIyaH",
+          "f": "tAvanIyA",
+          "n": "tAvanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tAvita",
+          "m": "tAvitaH",
+          "f": "tAvitA",
+          "n": "tAvitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tAvitavat",
+          "m": "tAvitavAn",
+          "f": "tAvitavatI",
+          "n": "tAvitavat/tAvitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tAti",
+          "m": "",
+          "f": "tAtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tAvayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tAvayAmbaBUvas",
+          "m": "tAvayAmbaBUvAn",
+          "f": "tAvayAmbaBUzI",
+          "n": "tAvayAmbaBUvat/tAvayAmbaBUvad"
+        },
+        {
+          "base": "tAvayAmAsivas",
+          "m": "tAvayAmAsivAn",
+          "f": "tAvayAmAsyuzI",
+          "n": "tAvayAmAsivat/tAvayAmAsivad"
+        },
+        {
+          "base": "tAvayAYcakfvas",
+          "m": "tAvayAYcakfvAn",
+          "f": "tAvayAYcakruzI",
+          "n": "tAvayAYcakfvat/tAvayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tAvayamAna",
+          "m": "tAvayamAnaH",
+          "f": "tAvayamAnA",
+          "n": "tAvayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tAvaka",
+          "m": "tAvakaH",
+          "f": "tAvikA",
+          "n": "tAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tAvayitavya",
+          "m": "tAvayitavyaH",
+          "f": "tAvayitavyA",
+          "n": "tAvayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tAvayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tAvayitf",
+          "m": "tAvayitA",
+          "f": "tAvayitrI",
+          "n": "tAvayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tAvyamAna",
+          "m": "tAvyamAnaH",
+          "f": "tAvyamAnA",
+          "n": "tAvyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "tAvya",
+          "m": "tAvyaH",
+          "f": "tAvyA",
+          "n": "tAvyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratAvya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tAvana",
+          "m": "",
+          "f": "",
+          "n": "tAvanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tAvaka",
+          "m": "tAvakaH",
+          "f": "tAvikA",
+          "n": "tAvakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "tAvayat",
+          "m": "tAvayan",
+          "f": "tAvayantI",
+          "n": "tAvayat/tAvayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "tAvayamAna",
+          "m": "tAvayamAnaH",
+          "f": "tAvayamAnA",
+          "n": "tAvayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tAvizyamARa",
+          "m": "tAvizyamARaH",
+          "f": "tAvizyamARA",
+          "n": "tAvizyamARam"
+        },
+        {
+          "base": "tAvayizyamARa",
+          "m": "tAvayizyamARaH",
+          "f": "tAvayizyamARA",
+          "n": "tAvayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "tAvayizyat",
+          "m": "tAvayizyan",
+          "f": "tAvayizyatI/tAvayizyantI",
+          "n": "tAvayizyat/tAvayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "tAvayizyamARa",
+          "m": "tAvayizyamARaH",
+          "f": "tAvayizyamARA",
+          "n": "tAvayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "totUyA",
+          "m": "",
+          "f": "totUyA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "totuva",
+          "m": "totuvaH",
+          "f": "totuvA",
+          "n": "totuvam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "totUyanIya",
+          "m": "totUyanIyaH",
+          "f": "totUyanIyA",
+          "n": "totUyanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "totUyita",
+          "m": "totUyitaH",
+          "f": "totUyitA",
+          "n": "totUyitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "totUyitavat",
+          "m": "totUyitavAn",
+          "f": "totUyitavatI",
+          "n": "totUyitavat/totUyitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "totUti",
+          "m": "",
+          "f": "totUtiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "totUyitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "totUyAmbaBUvas",
+          "m": "totUyAmbaBUvAn",
+          "f": "totUyAmbaBUzI",
+          "n": "totUyAmbaBUvat/totUyAmbaBUvad"
+        },
+        {
+          "base": "totUyAmAsivas",
+          "m": "totUyAmAsivAn",
+          "f": "totUyAmAsyuzI",
+          "n": "totUyAmAsivat/totUyAmAsivad"
+        },
+        {
+          "base": "totUyAYcakfvas",
+          "m": "totUyAYcakfvAn",
+          "f": "totUyAYcakruzI",
+          "n": "totUyAYcakfvat/totUyAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "totUya",
+          "m": "totUyaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "totUyamAna",
+          "m": "totUyamAnaH",
+          "f": "totUyamAnA",
+          "n": "totUyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "totUyam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "totUyaka",
+          "m": "totUyakaH",
+          "f": "totUyikA",
+          "n": "totUyakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "totUyitavya",
+          "m": "totUyitavyaH",
+          "f": "totUyitavyA",
+          "n": "totUyitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "totUyitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "totUyitf",
+          "m": "totUyitA",
+          "f": "totUyitrI",
+          "n": "totUyitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "totUyyamAna",
+          "m": "totUyyamAnaH",
+          "f": "totUyyamAnA",
+          "n": "totUyyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "totUyya",
+          "m": "totUyyaH",
+          "f": "totUyyA",
+          "n": "totUyyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratotUyya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "totUyana",
+          "m": "",
+          "f": "",
+          "n": "totUyanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "totUyaka",
+          "m": "totUyakaH",
+          "f": "totUyikA",
+          "n": "totUyakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "totUyamAna",
+          "m": "totUyamAnaH",
+          "f": "totUyamAnA",
+          "n": "totUyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "totUyizyamARa",
+          "m": "totUyizyamARaH",
+          "f": "totUyizyamARA",
+          "n": "totUyizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "totUyizyamARa",
+          "m": "totUyizyamARaH",
+          "f": "totUyizyamARA",
+          "n": "totUyizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "totavA",
+          "m": "",
+          "f": "totavA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "totava",
+          "m": "totavaH",
+          "f": "totavA",
+          "n": "totavam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "totavanIya",
+          "m": "totavanIyaH",
+          "f": "totavanIyA",
+          "n": "totavanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "totuvita",
+          "m": "totuvitaH",
+          "f": "totuvitA",
+          "n": "totuvitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "totuvitavat",
+          "m": "totuvitavAn",
+          "f": "totuvitavatI",
+          "n": "totuvitavat/totuvitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "totuti",
+          "m": "",
+          "f": "totutiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "totavitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "totavAmbaBUvas",
+          "m": "totavAmbaBUvAn",
+          "f": "totavAmbaBUzI",
+          "n": "totavAmbaBUvat/totavAmbaBUvad"
+        },
+        {
+          "base": "totavAmAsivas",
+          "m": "totavAmAsivAn",
+          "f": "totavAmAsyuzI",
+          "n": "totavAmAsivat/totavAmAsivad"
+        },
+        {
+          "base": "totavAYcakfvas",
+          "m": "totavAYcakfvAn",
+          "f": "totavAYcakruzI",
+          "n": "totavAYcakfvat/totavAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "totAva",
+          "m": "totAvaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "totuvAna",
+          "m": "totuvAnaH",
+          "f": "totuvAnA",
+          "n": "totuvAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "totAvam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "totAvaka",
+          "m": "totAvakaH",
+          "f": "totAvikA",
+          "n": "totAvakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "totavitavya",
+          "m": "totavitavyaH",
+          "f": "totavitavyA",
+          "n": "totavitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "totavitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "totavitf",
+          "m": "totavitA",
+          "f": "totavitrI",
+          "n": "totavitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "totUyamAna",
+          "m": "totUyamAnaH",
+          "f": "totUyamAnA",
+          "n": "totUyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratotuya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "totavana",
+          "m": "",
+          "f": "",
+          "n": "totavanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "totavaka",
+          "m": "totavakaH",
+          "f": "totavikA",
+          "n": "totavakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "totuvat",
+          "m": "totuvat/totuvad",
+          "f": "totuvatI",
+          "n": "totuvat/totuvad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "totAvizyamARa",
+          "m": "totAvizyamARaH",
+          "f": "totAvizyamARA",
+          "n": "totAvizyamARam"
+        },
+        {
+          "base": "totavizyamARa",
+          "m": "totavizyamARaH",
+          "f": "totavizyamARA",
+          "n": "totavizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "totavizyat",
+          "m": "totavizyan",
+          "f": "totavizyatI/totavizyantI",
+          "n": "totavizyat/totavizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "tu",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

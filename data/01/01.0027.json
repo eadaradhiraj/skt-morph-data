@@ -1,0 +1,5882 @@
+{
+  "id": "01.0027",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "hlAdI~"
+    },
+    {
+      "name": "arTaH",
+      "value": "avyakte Sabde suKe ca",
+      "note": "'avyakte Sabde' ityasya ASayaH 'vAdyAnAM DvaniH' iti jYeyaH ."
+    },
+    {
+      "name": "English Meaning",
+      "value": "to be  glad, to be pleasant, to make a sound"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "suKI honA, prayatna karanA, aspazwa Sabda karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "cakArAt pUrvaDAtvarTaH 'avyakteSabde' iti anuzajyate ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "27"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "27"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2265",
+      "ext_link": "/sutraani/sk2265?scroll=sutra-commentary-kaumudi-region&highlight=halaAdaI"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "hlAdizIzwa",
+        "hlAdizIyAstAm",
+        "hlAdizIran",
+        "hlAdizIzWAH",
+        "hlAdizIyAsTAm",
+        "hlAdizIDvam",
+        "hlAdizIya",
+        "hlAdizIvahi",
+        "hlAdizImahi"
+      ],
+      "alang": [
+        "ahlAdata",
+        "ahlAdetAm",
+        "ahlAdanta",
+        "ahlAdaTAH",
+        "ahlAdeTAm",
+        "ahlAdaDvam",
+        "ahlAde",
+        "ahlAdAvahi",
+        "ahlAdAmahi"
+      ],
+      "alat": [
+        "hlAdate",
+        "hlAdete",
+        "hlAdante",
+        "hlAdase",
+        "hlAdeTe",
+        "hlAdaDve",
+        "hlAde",
+        "hlAdAvahe",
+        "hlAdAmahe"
+      ],
+      "alit": [
+        "jahlAde",
+        "jahlAdAte",
+        "jahlAdire",
+        "jahlAdize",
+        "jahlAdATe",
+        "jahlAdiDve",
+        "jahlAde",
+        "jahlAdivahe",
+        "jahlAdimahe"
+      ],
+      "alot": [
+        "hlAdatAm",
+        "hlAdetAm",
+        "hlAdantAm",
+        "hlAdasva",
+        "hlAdeTAm",
+        "hlAdaDvam",
+        "hlAdE",
+        "hlAdAvahE",
+        "hlAdAmahE"
+      ],
+      "alrung": [
+        "ahlAdizyata",
+        "ahlAdizyetAm",
+        "ahlAdizyanta",
+        "ahlAdizyaTAH",
+        "ahlAdizyeTAm",
+        "ahlAdizyaDvam",
+        "ahlAdizye",
+        "ahlAdizyAvahi",
+        "ahlAdizyAmahi"
+      ],
+      "alrut": [
+        "hlAdizyate",
+        "hlAdizyete",
+        "hlAdizyante",
+        "hlAdizyase",
+        "hlAdizyeTe",
+        "hlAdizyaDve",
+        "hlAdizye",
+        "hlAdizyAvahe",
+        "hlAdizyAmahe"
+      ],
+      "alung": [
+        "ahlAdizwa",
+        "ahlAdizAtAm",
+        "ahlAdizata",
+        "ahlAdizWAH",
+        "ahlAdizATAm",
+        "ahlAdiDvam",
+        "ahlAdizi",
+        "ahlAdizvahi",
+        "ahlAdizmahi"
+      ],
+      "alut": [
+        "hlAditA",
+        "hlAditArO",
+        "hlAditAraH",
+        "hlAditAse",
+        "hlAditAsATe",
+        "hlAditADve",
+        "hlAditAhe",
+        "hlAditAsvahe",
+        "hlAditAsmahe"
+      ],
+      "avidhiling": [
+        "hlAdeta",
+        "hlAdeyAtAm",
+        "hlAderan",
+        "hlAdeTAH",
+        "hlAdeyATAm",
+        "hlAdeDvam",
+        "hlAdeya",
+        "hlAdevahi",
+        "hlAdemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "hlAdizIzwa",
+        "hlAdizIyAstAm",
+        "hlAdizIran",
+        "hlAdizIzWAH",
+        "hlAdizIyAsTAm",
+        "hlAdizIDvam",
+        "hlAdizIya",
+        "hlAdizIvahi",
+        "hlAdizImahi"
+      ],
+      "alang": [
+        "ahlAdyata",
+        "ahlAdyetAm",
+        "ahlAdyanta",
+        "ahlAdyaTAH",
+        "ahlAdyeTAm",
+        "ahlAdyaDvam",
+        "ahlAdye",
+        "ahlAdyAvahi",
+        "ahlAdyAmahi"
+      ],
+      "alat": [
+        "hlAdyate",
+        "hlAdyete",
+        "hlAdyante",
+        "hlAdyase",
+        "hlAdyeTe",
+        "hlAdyaDve",
+        "hlAdye",
+        "hlAdyAvahe",
+        "hlAdyAmahe"
+      ],
+      "alit": [
+        "jahlAde",
+        "jahlAdAte",
+        "jahlAdire",
+        "jahlAdize",
+        "jahlAdATe",
+        "jahlAdiDve",
+        "jahlAde",
+        "jahlAdivahe",
+        "jahlAdimahe"
+      ],
+      "alot": [
+        "hlAdyatAm",
+        "hlAdyetAm",
+        "hlAdyantAm",
+        "hlAdyasva",
+        "hlAdyeTAm",
+        "hlAdyaDvam",
+        "hlAdyE",
+        "hlAdyAvahE",
+        "hlAdyAmahE"
+      ],
+      "alrung": [
+        "ahlAdizyata",
+        "ahlAdizyetAm",
+        "ahlAdizyanta",
+        "ahlAdizyaTAH",
+        "ahlAdizyeTAm",
+        "ahlAdizyaDvam",
+        "ahlAdizye",
+        "ahlAdizyAvahi",
+        "ahlAdizyAmahi"
+      ],
+      "alrut": [
+        "hlAdizyate",
+        "hlAdizyete",
+        "hlAdizyante",
+        "hlAdizyase",
+        "hlAdizyeTe",
+        "hlAdizyaDve",
+        "hlAdizye",
+        "hlAdizyAvahe",
+        "hlAdizyAmahe"
+      ],
+      "alung": [
+        "ahlAdi",
+        "ahlAdizAtAm",
+        "ahlAdizata",
+        "ahlAdizWAH",
+        "ahlAdizATAm",
+        "ahlAdiDvam",
+        "ahlAdizi",
+        "ahlAdizvahi",
+        "ahlAdizmahi"
+      ],
+      "alut": [
+        "hlAditA",
+        "hlAditArO",
+        "hlAditAraH",
+        "hlAditAse",
+        "hlAditAsATe",
+        "hlAditADve",
+        "hlAditAhe",
+        "hlAditAsvahe",
+        "hlAditAsmahe"
+      ],
+      "avidhiling": [
+        "hlAdyeta",
+        "hlAdyeyAtAm",
+        "hlAdyeran",
+        "hlAdyeTAH",
+        "hlAdyeyATAm",
+        "hlAdyeDvam",
+        "hlAdyeya",
+        "hlAdyevahi",
+        "hlAdyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "jihlAdizizIzwa",
+        "jihlAdizizIyAstAm",
+        "jihlAdizizIran",
+        "jihlAdizizIzWAH",
+        "jihlAdizizIyAsTAm",
+        "jihlAdizizIDvam",
+        "jihlAdizizIya",
+        "jihlAdizizIvahi",
+        "jihlAdizizImahi"
+      ],
+      "alang": [
+        "ajihlAdizata",
+        "ajihlAdizetAm",
+        "ajihlAdizanta",
+        "ajihlAdizaTAH",
+        "ajihlAdizeTAm",
+        "ajihlAdizaDvam",
+        "ajihlAdize",
+        "ajihlAdizAvahi",
+        "ajihlAdizAmahi"
+      ],
+      "alat": [
+        "jihlAdizate",
+        "jihlAdizete",
+        "jihlAdizante",
+        "jihlAdizase",
+        "jihlAdizeTe",
+        "jihlAdizaDve",
+        "jihlAdize",
+        "jihlAdizAvahe",
+        "jihlAdizAmahe"
+      ],
+      "alit": [
+        "jihlAdizAYcakre",
+        "jihlAdizAmAsa",
+        "jihlAdizAmbaBUva",
+        "jihlAdizAYcakrAte",
+        "jihlAdizAmAsatuH",
+        "jihlAdizAmbaBUvatuH",
+        "jihlAdizAYcakrire",
+        "jihlAdizAmAsuH",
+        "jihlAdizAmbaBUvuH",
+        "jihlAdizAYcakfze",
+        "jihlAdizAmAsiTa",
+        "jihlAdizAmbaBUviTa",
+        "jihlAdizAYcakrATe",
+        "jihlAdizAmAsaTuH",
+        "jihlAdizAmbaBUvaTuH",
+        "jihlAdizAYcakfQve",
+        "jihlAdizAmAsa",
+        "jihlAdizAmbaBUva",
+        "jihlAdizAYcakre",
+        "jihlAdizAmAsa",
+        "jihlAdizAmbaBUva",
+        "jihlAdizAYcakfvahe",
+        "jihlAdizAmAsiva",
+        "jihlAdizAmbaBUviva",
+        "jihlAdizAYcakfmahe",
+        "jihlAdizAmAsima",
+        "jihlAdizAmbaBUvima"
+      ],
+      "alot": [
+        "jihlAdizatAm",
+        "jihlAdizetAm",
+        "jihlAdizantAm",
+        "jihlAdizasva",
+        "jihlAdizeTAm",
+        "jihlAdizaDvam",
+        "jihlAdizE",
+        "jihlAdizAvahE",
+        "jihlAdizAmahE"
+      ],
+      "alrung": [
+        "ajihlAdizizyata",
+        "ajihlAdizizyetAm",
+        "ajihlAdizizyanta",
+        "ajihlAdizizyaTAH",
+        "ajihlAdizizyeTAm",
+        "ajihlAdizizyaDvam",
+        "ajihlAdizizye",
+        "ajihlAdizizyAvahi",
+        "ajihlAdizizyAmahi"
+      ],
+      "alrut": [
+        "jihlAdizizyate",
+        "jihlAdizizyete",
+        "jihlAdizizyante",
+        "jihlAdizizyase",
+        "jihlAdizizyeTe",
+        "jihlAdizizyaDve",
+        "jihlAdizizye",
+        "jihlAdizizyAvahe",
+        "jihlAdizizyAmahe"
+      ],
+      "alung": [
+        "ajihlAdizizwa",
+        "ajihlAdizizAtAm",
+        "ajihlAdizizata",
+        "ajihlAdizizWAH",
+        "ajihlAdizizATAm",
+        "ajihlAdiziDvam",
+        "ajihlAdizizi",
+        "ajihlAdizizvahi",
+        "ajihlAdizizmahi"
+      ],
+      "alut": [
+        "jihlAdizitA",
+        "jihlAdizitArO",
+        "jihlAdizitAraH",
+        "jihlAdizitAse",
+        "jihlAdizitAsATe",
+        "jihlAdizitADve",
+        "jihlAdizitAhe",
+        "jihlAdizitAsvahe",
+        "jihlAdizitAsmahe"
+      ],
+      "avidhiling": [
+        "jihlAdizeta",
+        "jihlAdizeyAtAm",
+        "jihlAdizeran",
+        "jihlAdizeTAH",
+        "jihlAdizeyATAm",
+        "jihlAdizeDvam",
+        "jihlAdizeya",
+        "jihlAdizevahi",
+        "jihlAdizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "jihlAdizizIzwa",
+        "jihlAdizizIyAstAm",
+        "jihlAdizizIran",
+        "jihlAdizizIzWAH",
+        "jihlAdizizIyAsTAm",
+        "jihlAdizizIDvam",
+        "jihlAdizizIya",
+        "jihlAdizizIvahi",
+        "jihlAdizizImahi"
+      ],
+      "alang": [
+        "ajihlAdizyata",
+        "ajihlAdizyetAm",
+        "ajihlAdizyanta",
+        "ajihlAdizyaTAH",
+        "ajihlAdizyeTAm",
+        "ajihlAdizyaDvam",
+        "ajihlAdizye",
+        "ajihlAdizyAvahi",
+        "ajihlAdizyAmahi"
+      ],
+      "alat": [
+        "jihlAdizyate",
+        "jihlAdizyete",
+        "jihlAdizyante",
+        "jihlAdizyase",
+        "jihlAdizyeTe",
+        "jihlAdizyaDve",
+        "jihlAdizye",
+        "jihlAdizyAvahe",
+        "jihlAdizyAmahe"
+      ],
+      "alit": [
+        "jihlAdizAYcakre",
+        "jihlAdizAmAse",
+        "jihlAdizAmbaBUve",
+        "jihlAdizAYcakrAte",
+        "jihlAdizAmAsAte",
+        "jihlAdizAmbaBUvAte",
+        "jihlAdizAYcakrire",
+        "jihlAdizAmAsire",
+        "jihlAdizAmbaBUvire",
+        "jihlAdizAYcakfze",
+        "jihlAdizAmAsize",
+        "jihlAdizAmbaBUvize",
+        "jihlAdizAYcakrATe",
+        "jihlAdizAmAsATe",
+        "jihlAdizAmbaBUvATe",
+        "jihlAdizAYcakfQve",
+        "jihlAdizAmAsiDve",
+        "jihlAdizAmbaBUviQve",
+        "jihlAdizAYcakre",
+        "jihlAdizAmAhe",
+        "jihlAdizAmbaBUve",
+        "jihlAdizAYcakfvahe",
+        "jihlAdizAmAsivahe",
+        "jihlAdizAmbaBUvivahe",
+        "jihlAdizAYcakfmahe",
+        "jihlAdizAmAsimahe",
+        "jihlAdizAmbaBUvimahe"
+      ],
+      "alot": [
+        "jihlAdizyatAm",
+        "jihlAdizyetAm",
+        "jihlAdizyantAm",
+        "jihlAdizyasva",
+        "jihlAdizyeTAm",
+        "jihlAdizyaDvam",
+        "jihlAdizyE",
+        "jihlAdizyAvahE",
+        "jihlAdizyAmahE"
+      ],
+      "alrung": [
+        "ajihlAdizizyata",
+        "ajihlAdizizyetAm",
+        "ajihlAdizizyanta",
+        "ajihlAdizizyaTAH",
+        "ajihlAdizizyeTAm",
+        "ajihlAdizizyaDvam",
+        "ajihlAdizizye",
+        "ajihlAdizizyAvahi",
+        "ajihlAdizizyAmahi"
+      ],
+      "alrut": [
+        "jihlAdizizyate",
+        "jihlAdizizyete",
+        "jihlAdizizyante",
+        "jihlAdizizyase",
+        "jihlAdizizyeTe",
+        "jihlAdizizyaDve",
+        "jihlAdizizye",
+        "jihlAdizizyAvahe",
+        "jihlAdizizyAmahe"
+      ],
+      "alung": [
+        "ajihlAdizi",
+        "ajihlAdizizAtAm",
+        "ajihlAdizizata",
+        "ajihlAdizizWAH",
+        "ajihlAdizizATAm",
+        "ajihlAdiziDvam",
+        "ajihlAdizizi",
+        "ajihlAdizizvahi",
+        "ajihlAdizizmahi"
+      ],
+      "alut": [
+        "jihlAdizitA",
+        "jihlAdizitArO",
+        "jihlAdizitAraH",
+        "jihlAdizitAse",
+        "jihlAdizitAsATe",
+        "jihlAdizitADve",
+        "jihlAdizitAhe",
+        "jihlAdizitAsvahe",
+        "jihlAdizitAsmahe"
+      ],
+      "avidhiling": [
+        "jihlAdizyeta",
+        "jihlAdizyeyAtAm",
+        "jihlAdizyeran",
+        "jihlAdizyeTAH",
+        "jihlAdizyeyATAm",
+        "jihlAdizyeDvam",
+        "jihlAdizyeya",
+        "jihlAdizyevahi",
+        "jihlAdizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "hlAdayizIzwa",
+        "hlAdayizIyAstAm",
+        "hlAdayizIran",
+        "hlAdayizIzWAH",
+        "hlAdayizIyAsTAm",
+        "hlAdayizIQvam",
+        "hlAdayizIDvam",
+        "hlAdayizIya",
+        "hlAdayizIvahi",
+        "hlAdayizImahi"
+      ],
+      "alang": [
+        "ahlAdayata",
+        "ahlAdayetAm",
+        "ahlAdayanta",
+        "ahlAdayaTAH",
+        "ahlAdayeTAm",
+        "ahlAdayaDvam",
+        "ahlAdaye",
+        "ahlAdayAvahi",
+        "ahlAdayAmahi"
+      ],
+      "alat": [
+        "hlAdayate",
+        "hlAdayete",
+        "hlAdayante",
+        "hlAdayase",
+        "hlAdayeTe",
+        "hlAdayaDve",
+        "hlAdaye",
+        "hlAdayAvahe",
+        "hlAdayAmahe"
+      ],
+      "alit": [
+        "hlAdayAYcakre",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakrAte",
+        "hlAdayAmAsatuH",
+        "hlAdayAmbaBUvatuH",
+        "hlAdayAYcakrire",
+        "hlAdayAmAsuH",
+        "hlAdayAmbaBUvuH",
+        "hlAdayAYcakfze",
+        "hlAdayAmAsiTa",
+        "hlAdayAmbaBUviTa",
+        "hlAdayAYcakrATe",
+        "hlAdayAmAsaTuH",
+        "hlAdayAmbaBUvaTuH",
+        "hlAdayAYcakfQve",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakre",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakfvahe",
+        "hlAdayAmAsiva",
+        "hlAdayAmbaBUviva",
+        "hlAdayAYcakfmahe",
+        "hlAdayAmAsima",
+        "hlAdayAmbaBUvima"
+      ],
+      "alot": [
+        "hlAdayatAm",
+        "hlAdayetAm",
+        "hlAdayantAm",
+        "hlAdayasva",
+        "hlAdayeTAm",
+        "hlAdayaDvam",
+        "hlAdayE",
+        "hlAdayAvahE",
+        "hlAdayAmahE"
+      ],
+      "alrung": [
+        "ahlAdayizyata",
+        "ahlAdayizyetAm",
+        "ahlAdayizyanta",
+        "ahlAdayizyaTAH",
+        "ahlAdayizyeTAm",
+        "ahlAdayizyaDvam",
+        "ahlAdayizye",
+        "ahlAdayizyAvahi",
+        "ahlAdayizyAmahi"
+      ],
+      "alrut": [
+        "hlAdayizyate",
+        "hlAdayizyete",
+        "hlAdayizyante",
+        "hlAdayizyase",
+        "hlAdayizyeTe",
+        "hlAdayizyaDve",
+        "hlAdayizye",
+        "hlAdayizyAvahe",
+        "hlAdayizyAmahe"
+      ],
+      "alung": [
+        "ajihladata",
+        "ajihladetAm",
+        "ajihladanta",
+        "ajihladaTAH",
+        "ajihladeTAm",
+        "ajihladaDvam",
+        "ajihlade",
+        "ajihladAvahi",
+        "ajihladAmahi"
+      ],
+      "alut": [
+        "hlAdayitA",
+        "hlAdayitArO",
+        "hlAdayitAraH",
+        "hlAdayitAse",
+        "hlAdayitAsATe",
+        "hlAdayitADve",
+        "hlAdayitAhe",
+        "hlAdayitAsvahe",
+        "hlAdayitAsmahe"
+      ],
+      "avidhiling": [
+        "hlAdayeta",
+        "hlAdayeyAtAm",
+        "hlAdayeran",
+        "hlAdayeTAH",
+        "hlAdayeyATAm",
+        "hlAdayeDvam",
+        "hlAdayeya",
+        "hlAdayevahi",
+        "hlAdayemahi"
+      ],
+      "pashirling": [
+        "hlAdyAt",
+        "hlAdyAd",
+        "hlAdyAstAm",
+        "hlAdyAsuH",
+        "hlAdyAH",
+        "hlAdyAstam",
+        "hlAdyAsta",
+        "hlAdyAsam",
+        "hlAdyAsva",
+        "hlAdyAsma"
+      ],
+      "plang": [
+        "ahlAdayat",
+        "ahlAdayad",
+        "ahlAdayatAm",
+        "ahlAdayan",
+        "ahlAdayaH",
+        "ahlAdayatam",
+        "ahlAdayata",
+        "ahlAdayam",
+        "ahlAdayAva",
+        "ahlAdayAma"
+      ],
+      "plat": [
+        "hlAdayati",
+        "hlAdayataH",
+        "hlAdayanti",
+        "hlAdayasi",
+        "hlAdayaTaH",
+        "hlAdayaTa",
+        "hlAdayAmi",
+        "hlAdayAvaH",
+        "hlAdayAmaH"
+      ],
+      "plit": [
+        "hlAdayAYcakAra",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakratuH",
+        "hlAdayAmAsatuH",
+        "hlAdayAmbaBUvatuH",
+        "hlAdayAYcakruH",
+        "hlAdayAmAsuH",
+        "hlAdayAmbaBUvuH",
+        "hlAdayAYcakarTa",
+        "hlAdayAmAsiTa",
+        "hlAdayAmbaBUviTa",
+        "hlAdayAYcakraTuH",
+        "hlAdayAmAsaTuH",
+        "hlAdayAmbaBUvaTuH",
+        "hlAdayAYcakra",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakara",
+        "hlAdayAYcakAra",
+        "hlAdayAmAsa",
+        "hlAdayAmbaBUva",
+        "hlAdayAYcakfva",
+        "hlAdayAmAsiva",
+        "hlAdayAmbaBUviva",
+        "hlAdayAYcakfma",
+        "hlAdayAmAsima",
+        "hlAdayAmbaBUvima"
+      ],
+      "plot": [
+        "hlAdayatAt",
+        "hlAdayatAd",
+        "hlAdayatu",
+        "hlAdayatAm",
+        "hlAdayantu",
+        "hlAdaya",
+        "hlAdayatAt",
+        "hlAdayatAd",
+        "hlAdayatam",
+        "hlAdayata",
+        "hlAdayAni",
+        "hlAdayAva",
+        "hlAdayAma"
+      ],
+      "plrung": [
+        "ahlAdayizyat",
+        "ahlAdayizyad",
+        "ahlAdayizyatAm",
+        "ahlAdayizyan",
+        "ahlAdayizyaH",
+        "ahlAdayizyatam",
+        "ahlAdayizyata",
+        "ahlAdayizyam",
+        "ahlAdayizyAva",
+        "ahlAdayizyAma"
+      ],
+      "plrut": [
+        "hlAdayizyati",
+        "hlAdayizyataH",
+        "hlAdayizyanti",
+        "hlAdayizyasi",
+        "hlAdayizyaTaH",
+        "hlAdayizyaTa",
+        "hlAdayizyAmi",
+        "hlAdayizyAvaH",
+        "hlAdayizyAmaH"
+      ],
+      "plung": [
+        "ajihladat",
+        "ajihladad",
+        "ajihladatAm",
+        "ajihladan",
+        "ajihladaH",
+        "ajihladatam",
+        "ajihladata",
+        "ajihladam",
+        "ajihladAva",
+        "ajihladAma"
+      ],
+      "plut": [
+        "hlAdayitA",
+        "hlAdayitArO",
+        "hlAdayitAraH",
+        "hlAdayitAsi",
+        "hlAdayitAsTaH",
+        "hlAdayitAsTa",
+        "hlAdayitAsmi",
+        "hlAdayitAsvaH",
+        "hlAdayitAsmaH"
+      ],
+      "pvidhiling": [
+        "hlAdayet",
+        "hlAdayed",
+        "hlAdayetAm",
+        "hlAdayeyuH",
+        "hlAdayeH",
+        "hlAdayetam",
+        "hlAdayeta",
+        "hlAdayeyam",
+        "hlAdayeva",
+        "hlAdayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "hlAdayizIzwa",
+        "hlAdizIzwa",
+        "hlAdayizIyAstAm",
+        "hlAdizIyAstAm",
+        "hlAdayizIran",
+        "hlAdizIran",
+        "hlAdayizIzWAH",
+        "hlAdizIzWAH",
+        "hlAdayizIyAsTAm",
+        "hlAdizIyAsTAm",
+        "hlAdayizIQvam",
+        "hlAdayizIDvam",
+        "hlAdizIDvam",
+        "hlAdayizIya",
+        "hlAdizIya",
+        "hlAdayizIvahi",
+        "hlAdizIvahi",
+        "hlAdayizImahi",
+        "hlAdizImahi"
+      ],
+      "alang": [
+        "ahlAdyata",
+        "ahlAdyetAm",
+        "ahlAdyanta",
+        "ahlAdyaTAH",
+        "ahlAdyeTAm",
+        "ahlAdyaDvam",
+        "ahlAdye",
+        "ahlAdyAvahi",
+        "ahlAdyAmahi"
+      ],
+      "alat": [
+        "hlAdyate",
+        "hlAdyete",
+        "hlAdyante",
+        "hlAdyase",
+        "hlAdyeTe",
+        "hlAdyaDve",
+        "hlAdye",
+        "hlAdyAvahe",
+        "hlAdyAmahe"
+      ],
+      "alit": [
+        "hlAdayAYcakre",
+        "hlAdayAmAse",
+        "hlAdayAmbaBUve",
+        "hlAdayAYcakrAte",
+        "hlAdayAmAsAte",
+        "hlAdayAmbaBUvAte",
+        "hlAdayAYcakrire",
+        "hlAdayAmAsire",
+        "hlAdayAmbaBUvire",
+        "hlAdayAYcakfze",
+        "hlAdayAmAsize",
+        "hlAdayAmbaBUvize",
+        "hlAdayAYcakrATe",
+        "hlAdayAmAsATe",
+        "hlAdayAmbaBUvATe",
+        "hlAdayAYcakfQve",
+        "hlAdayAmAsiDve",
+        "hlAdayAmbaBUviQve",
+        "hlAdayAYcakre",
+        "hlAdayAmAhe",
+        "hlAdayAmbaBUve",
+        "hlAdayAYcakfvahe",
+        "hlAdayAmAsivahe",
+        "hlAdayAmbaBUvivahe",
+        "hlAdayAYcakfmahe",
+        "hlAdayAmAsimahe",
+        "hlAdayAmbaBUvimahe"
+      ],
+      "alot": [
+        "hlAdyatAm",
+        "hlAdyetAm",
+        "hlAdyantAm",
+        "hlAdyasva",
+        "hlAdyeTAm",
+        "hlAdyaDvam",
+        "hlAdyE",
+        "hlAdyAvahE",
+        "hlAdyAmahE"
+      ],
+      "alrung": [
+        "ahlAdayizyata",
+        "ahlAdizyata",
+        "ahlAdayizyetAm",
+        "ahlAdizyetAm",
+        "ahlAdayizyanta",
+        "ahlAdizyanta",
+        "ahlAdayizyaTAH",
+        "ahlAdizyaTAH",
+        "ahlAdayizyeTAm",
+        "ahlAdizyeTAm",
+        "ahlAdayizyaDvam",
+        "ahlAdizyaDvam",
+        "ahlAdayizye",
+        "ahlAdizye",
+        "ahlAdayizyAvahi",
+        "ahlAdizyAvahi",
+        "ahlAdayizyAmahi",
+        "ahlAdizyAmahi"
+      ],
+      "alrut": [
+        "hlAdayizyate",
+        "hlAdizyate",
+        "hlAdayizyete",
+        "hlAdizyete",
+        "hlAdayizyante",
+        "hlAdizyante",
+        "hlAdayizyase",
+        "hlAdizyase",
+        "hlAdayizyeTe",
+        "hlAdizyeTe",
+        "hlAdayizyaDve",
+        "hlAdizyaDve",
+        "hlAdayizye",
+        "hlAdizye",
+        "hlAdayizyAvahe",
+        "hlAdizyAvahe",
+        "hlAdayizyAmahe",
+        "hlAdizyAmahe"
+      ],
+      "alung": [
+        "ahlAdi",
+        "ahlAdayizAtAm",
+        "ahlAdizAtAm",
+        "ahlAdayizata",
+        "ahlAdizata",
+        "ahlAdayizWAH",
+        "ahlAdizWAH",
+        "ahlAdayizATAm",
+        "ahlAdizATAm",
+        "ahlAdayiQvam",
+        "ahlAdayiDvam",
+        "ahlAdiDvam",
+        "ahlAdayizi",
+        "ahlAdizi",
+        "ahlAdayizvahi",
+        "ahlAdizvahi",
+        "ahlAdayizmahi",
+        "ahlAdizmahi"
+      ],
+      "alut": [
+        "hlAdayitA",
+        "hlAditA",
+        "hlAdayitArO",
+        "hlAditArO",
+        "hlAdayitAraH",
+        "hlAditAraH",
+        "hlAdayitAse",
+        "hlAditAse",
+        "hlAdayitAsATe",
+        "hlAditAsATe",
+        "hlAdayitADve",
+        "hlAditADve",
+        "hlAdayitAhe",
+        "hlAditAhe",
+        "hlAdayitAsvahe",
+        "hlAditAsvahe",
+        "hlAdayitAsmahe",
+        "hlAditAsmahe"
+      ],
+      "avidhiling": [
+        "hlAdyeta",
+        "hlAdyeyAtAm",
+        "hlAdyeran",
+        "hlAdyeTAH",
+        "hlAdyeyATAm",
+        "hlAdyeDvam",
+        "hlAdyeya",
+        "hlAdyevahi",
+        "hlAdyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "jAhlAdizIzwa",
+        "jAhlAdizIyAstAm",
+        "jAhlAdizIran",
+        "jAhlAdizIzWAH",
+        "jAhlAdizIyAsTAm",
+        "jAhlAdizIDvam",
+        "jAhlAdizIya",
+        "jAhlAdizIvahi",
+        "jAhlAdizImahi"
+      ],
+      "alang": [
+        "ajAhlAdyata",
+        "ajAhlAdyetAm",
+        "ajAhlAdyanta",
+        "ajAhlAdyaTAH",
+        "ajAhlAdyeTAm",
+        "ajAhlAdyaDvam",
+        "ajAhlAdye",
+        "ajAhlAdyAvahi",
+        "ajAhlAdyAmahi"
+      ],
+      "alat": [
+        "jAhlAdyate",
+        "jAhlAdyete",
+        "jAhlAdyante",
+        "jAhlAdyase",
+        "jAhlAdyeTe",
+        "jAhlAdyaDve",
+        "jAhlAdye",
+        "jAhlAdyAvahe",
+        "jAhlAdyAmahe"
+      ],
+      "alit": [
+        "jAhlAdAYcakre",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakrAte",
+        "jAhlAdAmAsatuH",
+        "jAhlAdAmbaBUvatuH",
+        "jAhlAdAYcakrire",
+        "jAhlAdAmAsuH",
+        "jAhlAdAmbaBUvuH",
+        "jAhlAdAYcakfze",
+        "jAhlAdAmAsiTa",
+        "jAhlAdAmbaBUviTa",
+        "jAhlAdAYcakrATe",
+        "jAhlAdAmAsaTuH",
+        "jAhlAdAmbaBUvaTuH",
+        "jAhlAdAYcakfQve",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakre",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakfvahe",
+        "jAhlAdAmAsiva",
+        "jAhlAdAmbaBUviva",
+        "jAhlAdAYcakfmahe",
+        "jAhlAdAmAsima",
+        "jAhlAdAmbaBUvima"
+      ],
+      "alot": [
+        "jAhlAdyatAm",
+        "jAhlAdyetAm",
+        "jAhlAdyantAm",
+        "jAhlAdyasva",
+        "jAhlAdyeTAm",
+        "jAhlAdyaDvam",
+        "jAhlAdyE",
+        "jAhlAdyAvahE",
+        "jAhlAdyAmahE"
+      ],
+      "alrung": [
+        "ajAhlAdizyata",
+        "ajAhlAdizyetAm",
+        "ajAhlAdizyanta",
+        "ajAhlAdizyaTAH",
+        "ajAhlAdizyeTAm",
+        "ajAhlAdizyaDvam",
+        "ajAhlAdizye",
+        "ajAhlAdizyAvahi",
+        "ajAhlAdizyAmahi"
+      ],
+      "alrut": [
+        "jAhlAdizyate",
+        "jAhlAdizyete",
+        "jAhlAdizyante",
+        "jAhlAdizyase",
+        "jAhlAdizyeTe",
+        "jAhlAdizyaDve",
+        "jAhlAdizye",
+        "jAhlAdizyAvahe",
+        "jAhlAdizyAmahe"
+      ],
+      "alung": [
+        "ajAhlAdizwa",
+        "ajAhlAdizAtAm",
+        "ajAhlAdizata",
+        "ajAhlAdizWAH",
+        "ajAhlAdizATAm",
+        "ajAhlAdiDvam",
+        "ajAhlAdizi",
+        "ajAhlAdizvahi",
+        "ajAhlAdizmahi"
+      ],
+      "alut": [
+        "jAhlAditA",
+        "jAhlAditArO",
+        "jAhlAditAraH",
+        "jAhlAditAse",
+        "jAhlAditAsATe",
+        "jAhlAditADve",
+        "jAhlAditAhe",
+        "jAhlAditAsvahe",
+        "jAhlAditAsmahe"
+      ],
+      "avidhiling": [
+        "jAhlAdyeta",
+        "jAhlAdyeyAtAm",
+        "jAhlAdyeran",
+        "jAhlAdyeTAH",
+        "jAhlAdyeyATAm",
+        "jAhlAdyeDvam",
+        "jAhlAdyeya",
+        "jAhlAdyevahi",
+        "jAhlAdyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "jAhlAdizIzwa",
+        "jAhlAdizIyAstAm",
+        "jAhlAdizIran",
+        "jAhlAdizIzWAH",
+        "jAhlAdizIyAsTAm",
+        "jAhlAdizIDvam",
+        "jAhlAdizIya",
+        "jAhlAdizIvahi",
+        "jAhlAdizImahi"
+      ],
+      "alang": [
+        "ajAhlAdyata",
+        "ajAhlAdyetAm",
+        "ajAhlAdyanta",
+        "ajAhlAdyaTAH",
+        "ajAhlAdyeTAm",
+        "ajAhlAdyaDvam",
+        "ajAhlAdye",
+        "ajAhlAdyAvahi",
+        "ajAhlAdyAmahi"
+      ],
+      "alat": [
+        "jAhlAdyate",
+        "jAhlAdyete",
+        "jAhlAdyante",
+        "jAhlAdyase",
+        "jAhlAdyeTe",
+        "jAhlAdyaDve",
+        "jAhlAdye",
+        "jAhlAdyAvahe",
+        "jAhlAdyAmahe"
+      ],
+      "alit": [
+        "jAhlAdAYcakre",
+        "jAhlAdAmAse",
+        "jAhlAdAmbaBUve",
+        "jAhlAdAYcakrAte",
+        "jAhlAdAmAsAte",
+        "jAhlAdAmbaBUvAte",
+        "jAhlAdAYcakrire",
+        "jAhlAdAmAsire",
+        "jAhlAdAmbaBUvire",
+        "jAhlAdAYcakfze",
+        "jAhlAdAmAsize",
+        "jAhlAdAmbaBUvize",
+        "jAhlAdAYcakrATe",
+        "jAhlAdAmAsATe",
+        "jAhlAdAmbaBUvATe",
+        "jAhlAdAYcakfQve",
+        "jAhlAdAmAsiDve",
+        "jAhlAdAmbaBUviQve",
+        "jAhlAdAYcakre",
+        "jAhlAdAmAhe",
+        "jAhlAdAmbaBUve",
+        "jAhlAdAYcakfvahe",
+        "jAhlAdAmAsivahe",
+        "jAhlAdAmbaBUvivahe",
+        "jAhlAdAYcakfmahe",
+        "jAhlAdAmAsimahe",
+        "jAhlAdAmbaBUvimahe"
+      ],
+      "alot": [
+        "jAhlAdyatAm",
+        "jAhlAdyetAm",
+        "jAhlAdyantAm",
+        "jAhlAdyasva",
+        "jAhlAdyeTAm",
+        "jAhlAdyaDvam",
+        "jAhlAdyE",
+        "jAhlAdyAvahE",
+        "jAhlAdyAmahE"
+      ],
+      "alrung": [
+        "ajAhlAdizyata",
+        "ajAhlAdizyetAm",
+        "ajAhlAdizyanta",
+        "ajAhlAdizyaTAH",
+        "ajAhlAdizyeTAm",
+        "ajAhlAdizyaDvam",
+        "ajAhlAdizye",
+        "ajAhlAdizyAvahi",
+        "ajAhlAdizyAmahi"
+      ],
+      "alrut": [
+        "jAhlAdizyate",
+        "jAhlAdizyete",
+        "jAhlAdizyante",
+        "jAhlAdizyase",
+        "jAhlAdizyeTe",
+        "jAhlAdizyaDve",
+        "jAhlAdizye",
+        "jAhlAdizyAvahe",
+        "jAhlAdizyAmahe"
+      ],
+      "alung": [
+        "ajAhlAdi",
+        "ajAhlAdizAtAm",
+        "ajAhlAdizata",
+        "ajAhlAdizWAH",
+        "ajAhlAdizATAm",
+        "ajAhlAdiDvam",
+        "ajAhlAdizi",
+        "ajAhlAdizvahi",
+        "ajAhlAdizmahi"
+      ],
+      "alut": [
+        "jAhlAditA",
+        "jAhlAditArO",
+        "jAhlAditAraH",
+        "jAhlAditAse",
+        "jAhlAditAsATe",
+        "jAhlAditADve",
+        "jAhlAditAhe",
+        "jAhlAditAsvahe",
+        "jAhlAditAsmahe"
+      ],
+      "avidhiling": [
+        "jAhlAdyeta",
+        "jAhlAdyeyAtAm",
+        "jAhlAdyeran",
+        "jAhlAdyeTAH",
+        "jAhlAdyeyATAm",
+        "jAhlAdyeDvam",
+        "jAhlAdyeya",
+        "jAhlAdyevahi",
+        "jAhlAdyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "jAhlAdyAt",
+        "jAhlAdyAd",
+        "jAhlAdyAstAm",
+        "jAhlAdyAsuH",
+        "jAhlAdyAH",
+        "jAhlAdyAstam",
+        "jAhlAdyAsta",
+        "jAhlAdyAsam",
+        "jAhlAdyAsva",
+        "jAhlAdyAsma"
+      ],
+      "plang": [
+        "ajAhlAt",
+        "ajAhlAdIt",
+        "ajAhlAdId",
+        "ajAhlAd",
+        "ajAhlAttAm",
+        "ajAhlAduH",
+        "ajAhlAH",
+        "ajAhlAt",
+        "ajAhlAdIH",
+        "ajAhlAd",
+        "ajAhlAttam",
+        "ajAhlAtta",
+        "ajAhlAdam",
+        "ajAhlAdva",
+        "ajAhlAdma"
+      ],
+      "plat": [
+        "jAhlAtti",
+        "jAhlAdIti",
+        "jAhlAttaH",
+        "jAhlAdati",
+        "jAhlAtsi",
+        "jAhlAdIzi",
+        "jAhlAtTaH",
+        "jAhlAtTa",
+        "jAhlAdImi",
+        "jAhlAdmi",
+        "jAhlAdvaH",
+        "jAhlAdmaH"
+      ],
+      "plit": [
+        "jAhlAdAYcakAra",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakratuH",
+        "jAhlAdAmAsatuH",
+        "jAhlAdAmbaBUvatuH",
+        "jAhlAdAYcakruH",
+        "jAhlAdAmAsuH",
+        "jAhlAdAmbaBUvuH",
+        "jAhlAdAYcakarTa",
+        "jAhlAdAmAsiTa",
+        "jAhlAdAmbaBUviTa",
+        "jAhlAdAYcakraTuH",
+        "jAhlAdAmAsaTuH",
+        "jAhlAdAmbaBUvaTuH",
+        "jAhlAdAYcakra",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakara",
+        "jAhlAdAYcakAra",
+        "jAhlAdAmAsa",
+        "jAhlAdAmbaBUva",
+        "jAhlAdAYcakfva",
+        "jAhlAdAmAsiva",
+        "jAhlAdAmbaBUviva",
+        "jAhlAdAYcakfma",
+        "jAhlAdAmAsima",
+        "jAhlAdAmbaBUvima"
+      ],
+      "plot": [
+        "jAhlAttAt",
+        "jAhlAttAd",
+        "jAhlAttu",
+        "jAhlAdItu",
+        "jAhlAttAm",
+        "jAhlAdatu",
+        "jAhlAttAt",
+        "jAhlAttAd",
+        "jAhlAdDi",
+        "jAhlAttam",
+        "jAhlAtta",
+        "jAhlAdAni",
+        "jAhlAdAva",
+        "jAhlAdAma"
+      ],
+      "plrung": [
+        "ajAhlAdizyat",
+        "ajAhlAdizyad",
+        "ajAhlAdizyatAm",
+        "ajAhlAdizyan",
+        "ajAhlAdizyaH",
+        "ajAhlAdizyatam",
+        "ajAhlAdizyata",
+        "ajAhlAdizyam",
+        "ajAhlAdizyAva",
+        "ajAhlAdizyAma"
+      ],
+      "plrut": [
+        "jAhlAdizyati",
+        "jAhlAdizyataH",
+        "jAhlAdizyanti",
+        "jAhlAdizyasi",
+        "jAhlAdizyaTaH",
+        "jAhlAdizyaTa",
+        "jAhlAdizyAmi",
+        "jAhlAdizyAvaH",
+        "jAhlAdizyAmaH"
+      ],
+      "plung": [
+        "ajAhlAdIt",
+        "ajAhlAdId",
+        "ajAhlAdizwAm",
+        "ajAhlAdizuH",
+        "ajAhlAdIH",
+        "ajAhlAdizwam",
+        "ajAhlAdizwa",
+        "ajAhlAdizam",
+        "ajAhlAdizva",
+        "ajAhlAdizma"
+      ],
+      "plut": [
+        "jAhlAditA",
+        "jAhlAditArO",
+        "jAhlAditAraH",
+        "jAhlAditAsi",
+        "jAhlAditAsTaH",
+        "jAhlAditAsTa",
+        "jAhlAditAsmi",
+        "jAhlAditAsvaH",
+        "jAhlAditAsmaH"
+      ],
+      "pvidhiling": [
+        "jAhlAdyAt",
+        "jAhlAdyAd",
+        "jAhlAdyAtAm",
+        "jAhlAdyuH",
+        "jAhlAdyAH",
+        "jAhlAdyAtam",
+        "jAhlAdyAta",
+        "jAhlAdyAm",
+        "jAhlAdyAva",
+        "jAhlAdyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "jAhlAdizIzwa",
+        "jAhlAdizIyAstAm",
+        "jAhlAdizIran",
+        "jAhlAdizIzWAH",
+        "jAhlAdizIyAsTAm",
+        "jAhlAdizIDvam",
+        "jAhlAdizIya",
+        "jAhlAdizIvahi",
+        "jAhlAdizImahi"
+      ],
+      "alang": [
+        "ajAhlAdyata",
+        "ajAhlAdyetAm",
+        "ajAhlAdyanta",
+        "ajAhlAdyaTAH",
+        "ajAhlAdyeTAm",
+        "ajAhlAdyaDvam",
+        "ajAhlAdye",
+        "ajAhlAdyAvahi",
+        "ajAhlAdyAmahi"
+      ],
+      "alat": [
+        "jAhlAdyate",
+        "jAhlAdyete",
+        "jAhlAdyante",
+        "jAhlAdyase",
+        "jAhlAdyeTe",
+        "jAhlAdyaDve",
+        "jAhlAdye",
+        "jAhlAdyAvahe",
+        "jAhlAdyAmahe"
+      ],
+      "alit": [
+        "jAhlAdAYcakre",
+        "jAhlAdAmAse",
+        "jAhlAdAmbaBUve",
+        "jAhlAdAYcakrAte",
+        "jAhlAdAmAsAte",
+        "jAhlAdAmbaBUvAte",
+        "jAhlAdAYcakrire",
+        "jAhlAdAmAsire",
+        "jAhlAdAmbaBUvire",
+        "jAhlAdAYcakfze",
+        "jAhlAdAmAsize",
+        "jAhlAdAmbaBUvize",
+        "jAhlAdAYcakrATe",
+        "jAhlAdAmAsATe",
+        "jAhlAdAmbaBUvATe",
+        "jAhlAdAYcakfQve",
+        "jAhlAdAmAsiDve",
+        "jAhlAdAmbaBUviQve",
+        "jAhlAdAYcakre",
+        "jAhlAdAmAhe",
+        "jAhlAdAmbaBUve",
+        "jAhlAdAYcakfvahe",
+        "jAhlAdAmAsivahe",
+        "jAhlAdAmbaBUvivahe",
+        "jAhlAdAYcakfmahe",
+        "jAhlAdAmAsimahe",
+        "jAhlAdAmbaBUvimahe"
+      ],
+      "alot": [
+        "jAhlAdyatAm",
+        "jAhlAdyetAm",
+        "jAhlAdyantAm",
+        "jAhlAdyasva",
+        "jAhlAdyeTAm",
+        "jAhlAdyaDvam",
+        "jAhlAdyE",
+        "jAhlAdyAvahE",
+        "jAhlAdyAmahE"
+      ],
+      "alrung": [
+        "ajAhlAdizyata",
+        "ajAhlAdizyetAm",
+        "ajAhlAdizyanta",
+        "ajAhlAdizyaTAH",
+        "ajAhlAdizyeTAm",
+        "ajAhlAdizyaDvam",
+        "ajAhlAdizye",
+        "ajAhlAdizyAvahi",
+        "ajAhlAdizyAmahi"
+      ],
+      "alrut": [
+        "jAhlAdizyate",
+        "jAhlAdizyete",
+        "jAhlAdizyante",
+        "jAhlAdizyase",
+        "jAhlAdizyeTe",
+        "jAhlAdizyaDve",
+        "jAhlAdizye",
+        "jAhlAdizyAvahe",
+        "jAhlAdizyAmahe"
+      ],
+      "alung": [
+        "ajAhlAdi",
+        "ajAhlAdizAtAm",
+        "ajAhlAdizata",
+        "ajAhlAdizWAH",
+        "ajAhlAdizATAm",
+        "ajAhlAdiDvam",
+        "ajAhlAdizi",
+        "ajAhlAdizvahi",
+        "ajAhlAdizmahi"
+      ],
+      "alut": [
+        "jAhlAditA",
+        "jAhlAditArO",
+        "jAhlAditAraH",
+        "jAhlAditAse",
+        "jAhlAditAsATe",
+        "jAhlAditADve",
+        "jAhlAditAhe",
+        "jAhlAditAsvahe",
+        "jAhlAditAsmahe"
+      ],
+      "avidhiling": [
+        "jAhlAdyeta",
+        "jAhlAdyeyAtAm",
+        "jAhlAdyeran",
+        "jAhlAdyeTAH",
+        "jAhlAdyeyATAm",
+        "jAhlAdyeDvam",
+        "jAhlAdyeya",
+        "jAhlAdyevahi",
+        "jAhlAdyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "hlAdA",
+          "m": "",
+          "f": "hlAdA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "hlAda",
+          "m": "hlAdaH",
+          "f": "hlAdA",
+          "n": "hlAdam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "hlAdanIya",
+          "m": "hlAdanIyaH",
+          "f": "hlAdanIyA",
+          "n": "hlAdanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "hlAnna",
+          "m": "hlAnnaH",
+          "f": "hlAnnA",
+          "n": "hlAnnam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "hlAnnavat",
+          "m": "hlAnnavAn",
+          "f": "hlAnnavatI",
+          "n": "hlAnnavat/hlAnnavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "hlAtti",
+          "m": "",
+          "f": "hlAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "hlAditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jahlAdvas",
+          "m": "jahlAdvAn",
+          "f": "jahlAduzI",
+          "n": "jahlAdvat/jahlAdvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "hlAda",
+          "m": "hlAdaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "hlAdamAna",
+          "m": "hlAdamAnaH",
+          "f": "hlAdamAnA",
+          "n": "hlAdamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "hlAdam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "hlAdya",
+          "m": "hlAdyaH",
+          "f": "hlAdyA",
+          "n": "hlAdyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "hlAdaka",
+          "m": "hlAdakaH",
+          "f": "hlAdikA",
+          "n": "hlAdakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "hlAditavya",
+          "m": "hlAditavyaH",
+          "f": "hlAditavyA",
+          "n": "hlAditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "hlAditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "hlAditf",
+          "m": "hlAditA",
+          "f": "hlAditrI",
+          "n": "hlAditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "hlAdyamAna",
+          "m": "hlAdyamAnaH",
+          "f": "hlAdyamAnA",
+          "n": "hlAdyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prahlAdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "hlAdana",
+          "m": "",
+          "f": "",
+          "n": "hlAdanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "hlAdaka",
+          "m": "hlAdakaH",
+          "f": "hlAdikA",
+          "n": "hlAdakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "hlAdamAna",
+          "m": "hlAdamAnaH",
+          "f": "hlAdamAnA",
+          "n": "hlAdamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "hlAdizyamARa",
+          "m": "hlAdizyamARaH",
+          "f": "hlAdizyamARA",
+          "n": "hlAdizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "hlAdizyamARa",
+          "m": "hlAdizyamARaH",
+          "f": "hlAdizyamARA",
+          "n": "hlAdizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "jihlAdizA",
+          "m": "",
+          "f": "jihlAdizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jihlAdiza",
+          "m": "jihlAdizaH",
+          "f": "jihlAdizA",
+          "n": "jihlAdizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jihlAdizaRIya",
+          "m": "jihlAdizaRIyaH",
+          "f": "jihlAdizaRIyA",
+          "n": "jihlAdizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "jihlAdizu",
+          "m": "jihlAdizuH",
+          "f": "jihlAdizuH",
+          "n": "jihlAdizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jihlAdizita",
+          "m": "jihlAdizitaH",
+          "f": "jihlAdizitA",
+          "n": "jihlAdizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jihlAdizitavat",
+          "m": "jihlAdizitavAn",
+          "f": "jihlAdizitavatI",
+          "n": "jihlAdizitavat/jihlAdizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jihlAdizwi",
+          "m": "",
+          "f": "jihlAdizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jihlAdizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jihlAdizAmbaBUvas",
+          "m": "jihlAdizAmbaBUvAn",
+          "f": "jihlAdizAmbaBUzI",
+          "n": "jihlAdizAmbaBUvat/jihlAdizAmbaBUvad"
+        },
+        {
+          "base": "jihlAdizAmAsivas",
+          "m": "jihlAdizAmAsivAn",
+          "f": "jihlAdizAmAsyuzI",
+          "n": "jihlAdizAmAsivat/jihlAdizAmAsivad"
+        },
+        {
+          "base": "jihlAdizAYcakfvas",
+          "m": "jihlAdizAYcakfvAn",
+          "f": "jihlAdizAYcakruzI",
+          "n": "jihlAdizAYcakfvat/jihlAdizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jihlAdiza",
+          "m": "jihlAdizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jihlAdizamARa",
+          "m": "jihlAdizamARaH",
+          "f": "jihlAdizamARA",
+          "n": "jihlAdizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jihlAdizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jihlAdizaka",
+          "m": "jihlAdizakaH",
+          "f": "jihlAdizikA",
+          "n": "jihlAdizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jihlAdizitavya",
+          "m": "jihlAdizitavyaH",
+          "f": "jihlAdizitavyA",
+          "n": "jihlAdizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jihlAdizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jihlAdizitf",
+          "m": "jihlAdizitA",
+          "f": "jihlAdizitrI",
+          "n": "jihlAdizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jihlAdizyamARa",
+          "m": "jihlAdizyamARaH",
+          "f": "jihlAdizyamARA",
+          "n": "jihlAdizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jihlAdizya",
+          "m": "jihlAdizyaH",
+          "f": "jihlAdizyA",
+          "n": "jihlAdizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajihlAdizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jihlAdizaRa",
+          "m": "",
+          "f": "",
+          "n": "jihlAdizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jihlAdizaka",
+          "m": "jihlAdizakaH",
+          "f": "jihlAdizikA",
+          "n": "jihlAdizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jihlAdizamARa",
+          "m": "jihlAdizamARaH",
+          "f": "jihlAdizamARA",
+          "n": "jihlAdizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jihlAdizizyamARa",
+          "m": "jihlAdizizyamARaH",
+          "f": "jihlAdizizyamARA",
+          "n": "jihlAdizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jihlAdizizyamARa",
+          "m": "jihlAdizizyamARaH",
+          "f": "jihlAdizizyamARA",
+          "n": "jihlAdizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "hlAda",
+          "m": "hlAdaH",
+          "f": "hlAdA",
+          "n": "hlAdam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "hlAdanIya",
+          "m": "hlAdanIyaH",
+          "f": "hlAdanIyA",
+          "n": "hlAdanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "hladita",
+          "m": "hladitaH",
+          "f": "hladitA",
+          "n": "hladitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "hladitavat",
+          "m": "hladitavAn",
+          "f": "hladitavatI",
+          "n": "hladitavat/hladitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "hlAtti",
+          "m": "",
+          "f": "hlAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "hlAdayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "hlAdayAmbaBUvas",
+          "m": "hlAdayAmbaBUvAn",
+          "f": "hlAdayAmbaBUzI",
+          "n": "hlAdayAmbaBUvat/hlAdayAmbaBUvad"
+        },
+        {
+          "base": "hlAdayAmAsivas",
+          "m": "hlAdayAmAsivAn",
+          "f": "hlAdayAmAsyuzI",
+          "n": "hlAdayAmAsivat/hlAdayAmAsivad"
+        },
+        {
+          "base": "hlAdayAYcakfvas",
+          "m": "hlAdayAYcakfvAn",
+          "f": "hlAdayAYcakruzI",
+          "n": "hlAdayAYcakfvat/hlAdayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "hlAdayamAna",
+          "m": "hlAdayamAnaH",
+          "f": "hlAdayamAnA",
+          "n": "hlAdayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "hlAdam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "hlAdaka",
+          "m": "hlAdakaH",
+          "f": "hlAdikA",
+          "n": "hlAdakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "hlAdayitavya",
+          "m": "hlAdayitavyaH",
+          "f": "hlAdayitavyA",
+          "n": "hlAdayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "hlAdayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "hlAdayitf",
+          "m": "hlAdayitA",
+          "f": "hlAdayitrI",
+          "n": "hlAdayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "hlAdyamAna",
+          "m": "hlAdyamAnaH",
+          "f": "hlAdyamAnA",
+          "n": "hlAdyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "hlAdya",
+          "m": "hlAdyaH",
+          "f": "hlAdyA",
+          "n": "hlAdyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prahlAdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "hlAdana",
+          "m": "",
+          "f": "",
+          "n": "hlAdanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "hlAdaka",
+          "m": "hlAdakaH",
+          "f": "hlAdikA",
+          "n": "hlAdakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "hlAdayat",
+          "m": "hlAdayan",
+          "f": "hlAdayantI",
+          "n": "hlAdayat/hlAdayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "hlAdayamAna",
+          "m": "hlAdayamAnaH",
+          "f": "hlAdayamAnA",
+          "n": "hlAdayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "hlAdizyamARa",
+          "m": "hlAdizyamARaH",
+          "f": "hlAdizyamARA",
+          "n": "hlAdizyamARam"
+        },
+        {
+          "base": "hlAdayizyamARa",
+          "m": "hlAdayizyamARaH",
+          "f": "hlAdayizyamARA",
+          "n": "hlAdayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "hlAdayizyat",
+          "m": "hlAdayizyan",
+          "f": "hlAdayizyatI/hlAdayizyantI",
+          "n": "hlAdayizyat/hlAdayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "hlAdayizyamARa",
+          "m": "hlAdayizyamARaH",
+          "f": "hlAdayizyamARA",
+          "n": "hlAdayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "jAhlAdA",
+          "m": "",
+          "f": "jAhlAdA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jAhlAda",
+          "m": "jAhlAdaH",
+          "f": "jAhlAdA",
+          "n": "jAhlAdam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAhlAdanIya",
+          "m": "jAhlAdanIyaH",
+          "f": "jAhlAdanIyA",
+          "n": "jAhlAdanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAhlAdita",
+          "m": "jAhlAditaH",
+          "f": "jAhlAditA",
+          "n": "jAhlAditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAhlAditavat",
+          "m": "jAhlAditavAn",
+          "f": "jAhlAditavatI",
+          "n": "jAhlAditavat/jAhlAditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAhlAtti",
+          "m": "",
+          "f": "jAhlAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAhlAditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAhlAdAmbaBUvas",
+          "m": "jAhlAdAmbaBUvAn",
+          "f": "jAhlAdAmbaBUzI",
+          "n": "jAhlAdAmbaBUvat/jAhlAdAmbaBUvad"
+        },
+        {
+          "base": "jAhlAdAmAsivas",
+          "m": "jAhlAdAmAsivAn",
+          "f": "jAhlAdAmAsyuzI",
+          "n": "jAhlAdAmAsivat/jAhlAdAmAsivad"
+        },
+        {
+          "base": "jAhlAdAYcakfvas",
+          "m": "jAhlAdAYcakfvAn",
+          "f": "jAhlAdAYcakruzI",
+          "n": "jAhlAdAYcakfvat/jAhlAdAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jAhlAda",
+          "m": "jAhlAdaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAhlAdyamAna",
+          "m": "jAhlAdyamAnaH",
+          "f": "jAhlAdyamAnA",
+          "n": "jAhlAdyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAhlAdam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAhlAdaka",
+          "m": "jAhlAdakaH",
+          "f": "jAhlAdikA",
+          "n": "jAhlAdakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAhlAditavya",
+          "m": "jAhlAditavyaH",
+          "f": "jAhlAditavyA",
+          "n": "jAhlAditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAhlAditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAhlAditf",
+          "m": "jAhlAditA",
+          "f": "jAhlAditrI",
+          "n": "jAhlAditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAhlAdyamAna",
+          "m": "jAhlAdyamAnaH",
+          "f": "jAhlAdyamAnA",
+          "n": "jAhlAdyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jAhlAdya",
+          "m": "jAhlAdyaH",
+          "f": "jAhlAdyA",
+          "n": "jAhlAdyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAhlAdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAhlAdana",
+          "m": "",
+          "f": "",
+          "n": "jAhlAdanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAhlAdaka",
+          "m": "jAhlAdakaH",
+          "f": "jAhlAdikA",
+          "n": "jAhlAdakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jAhlAdyamAna",
+          "m": "jAhlAdyamAnaH",
+          "f": "jAhlAdyamAnA",
+          "n": "jAhlAdyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAhlAdizyamARa",
+          "m": "jAhlAdizyamARaH",
+          "f": "jAhlAdizyamARA",
+          "n": "jAhlAdizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jAhlAdizyamARa",
+          "m": "jAhlAdizyamARaH",
+          "f": "jAhlAdizyamARA",
+          "n": "jAhlAdizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "jAhlAdA",
+          "m": "",
+          "f": "jAhlAdA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jAhlAda",
+          "m": "jAhlAdaH",
+          "f": "jAhlAdA",
+          "n": "jAhlAdam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAhlAdanIya",
+          "m": "jAhlAdanIyaH",
+          "f": "jAhlAdanIyA",
+          "n": "jAhlAdanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAhlAtta",
+          "m": "jAhlAttaH",
+          "f": "jAhlAttA",
+          "n": "jAhlAttam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAhlAttavat",
+          "m": "jAhlAttavAn",
+          "f": "jAhlAttavatI",
+          "n": "jAhlAttavat/jAhlAttavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAhlAtti",
+          "m": "",
+          "f": "jAhlAttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAhlAditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAhlAdAmbaBUvas",
+          "m": "jAhlAdAmbaBUvAn",
+          "f": "jAhlAdAmbaBUzI",
+          "n": "jAhlAdAmbaBUvat/jAhlAdAmbaBUvad"
+        },
+        {
+          "base": "jAhlAdAmAsivas",
+          "m": "jAhlAdAmAsivAn",
+          "f": "jAhlAdAmAsyuzI",
+          "n": "jAhlAdAmAsivat/jAhlAdAmAsivad"
+        },
+        {
+          "base": "jAhlAdAYcakfvas",
+          "m": "jAhlAdAYcakfvAn",
+          "f": "jAhlAdAYcakruzI",
+          "n": "jAhlAdAYcakfvat/jAhlAdAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jAhlAda",
+          "m": "jAhlAdaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAhlAdAna",
+          "m": "jAhlAdAnaH",
+          "f": "jAhlAdAnA",
+          "n": "jAhlAdAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAhlAdam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAhlAdaka",
+          "m": "jAhlAdakaH",
+          "f": "jAhlAdikA",
+          "n": "jAhlAdakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAhlAditavya",
+          "m": "jAhlAditavyaH",
+          "f": "jAhlAditavyA",
+          "n": "jAhlAditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAhlAditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAhlAditf",
+          "m": "jAhlAditA",
+          "f": "jAhlAditrI",
+          "n": "jAhlAditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAhlAdyamAna",
+          "m": "jAhlAdyamAnaH",
+          "f": "jAhlAdyamAnA",
+          "n": "jAhlAdyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAhlAdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAhlAdana",
+          "m": "",
+          "f": "",
+          "n": "jAhlAdanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAhlAdaka",
+          "m": "jAhlAdakaH",
+          "f": "jAhlAdikA",
+          "n": "jAhlAdakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jAhlAdat",
+          "m": "jAhlAdat/jAhlAdad",
+          "f": "jAhlAdatI",
+          "n": "jAhlAdat/jAhlAdad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAhlAdizyamARa",
+          "m": "jAhlAdizyamARaH",
+          "f": "jAhlAdizyamARA",
+          "n": "jAhlAdizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jAhlAdizyat",
+          "m": "jAhlAdizyan",
+          "f": "jAhlAdizyatI/jAhlAdizyantI",
+          "n": "jAhlAdizyat/jAhlAdizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "hlAd",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "sam",
+      "examples": [
+        "'SvaSfgAlagardaBasaMhrAde' (gO0 Da0 2.7.8). saMhlAdaH sahaSabdanam.",
+        "'ekEkamasTyasaMhlAdayanto'vadaDyuH' (ASva0 gf0 4.6.6). asTnAM saNGawwanena Sabdo yaTA na syAttaTA'vadaDyurityAha."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "sam": {
+      "prefix": "sam",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "saMhlAdizIzwa",
+            "saMhlAdizIyAstAm",
+            "saMhlAdizIran",
+            "saMhlAdizIzWAH",
+            "saMhlAdizIyAsTAm",
+            "saMhlAdizIDvam",
+            "saMhlAdizIya",
+            "saMhlAdizIvahi",
+            "saMhlAdizImahi"
+          ],
+          "alang": [
+            "samahlAdata",
+            "samahlAdetAm",
+            "samahlAdanta",
+            "samahlAdaTAH",
+            "samahlAdeTAm",
+            "samahlAdaDvam",
+            "samahlAde",
+            "samahlAdAvahi",
+            "samahlAdAmahi"
+          ],
+          "alat": [
+            "saMhlAdate",
+            "saMhlAdete",
+            "saMhlAdante",
+            "saMhlAdase",
+            "saMhlAdeTe",
+            "saMhlAdaDve",
+            "saMhlAde",
+            "saMhlAdAvahe",
+            "saMhlAdAmahe"
+          ],
+          "alit": [
+            "saMjahlAde",
+            "saYjahlAde",
+            "saMjahlAdAte",
+            "saYjahlAdAte",
+            "saMjahlAdire",
+            "saYjahlAdire",
+            "saMjahlAdize",
+            "saYjahlAdize",
+            "saMjahlAdATe",
+            "saYjahlAdATe",
+            "saMjahlAdiDve",
+            "saYjahlAdiDve",
+            "saMjahlAde",
+            "saYjahlAde",
+            "saMjahlAdivahe",
+            "saYjahlAdivahe",
+            "saMjahlAdimahe",
+            "saYjahlAdimahe"
+          ],
+          "alot": [
+            "saMhlAdatAm",
+            "saMhlAdetAm",
+            "saMhlAdantAm",
+            "saMhlAdasva",
+            "saMhlAdeTAm",
+            "saMhlAdaDvam",
+            "saMhlAdE",
+            "saMhlAdAvahE",
+            "saMhlAdAmahE"
+          ],
+          "alrung": [
+            "samahlAdizyata",
+            "samahlAdizyetAm",
+            "samahlAdizyanta",
+            "samahlAdizyaTAH",
+            "samahlAdizyeTAm",
+            "samahlAdizyaDvam",
+            "samahlAdizye",
+            "samahlAdizyAvahi",
+            "samahlAdizyAmahi"
+          ],
+          "alrut": [
+            "saMhlAdizyate",
+            "saMhlAdizyete",
+            "saMhlAdizyante",
+            "saMhlAdizyase",
+            "saMhlAdizyeTe",
+            "saMhlAdizyaDve",
+            "saMhlAdizye",
+            "saMhlAdizyAvahe",
+            "saMhlAdizyAmahe"
+          ],
+          "alung": [
+            "samahlAdizwa",
+            "samahlAdizAtAm",
+            "samahlAdizata",
+            "samahlAdizWAH",
+            "samahlAdizATAm",
+            "samahlAdiDvam",
+            "samahlAdizi",
+            "samahlAdizvahi",
+            "samahlAdizmahi"
+          ],
+          "alut": [
+            "saMhlAditA",
+            "saMhlAditArO",
+            "saMhlAditAraH",
+            "saMhlAditAse",
+            "saMhlAditAsATe",
+            "saMhlAditADve",
+            "saMhlAditAhe",
+            "saMhlAditAsvahe",
+            "saMhlAditAsmahe"
+          ],
+          "avidhiling": [
+            "saMhlAdeta",
+            "saMhlAdeyAtAm",
+            "saMhlAderan",
+            "saMhlAdeTAH",
+            "saMhlAdeyATAm",
+            "saMhlAdeDvam",
+            "saMhlAdeya",
+            "saMhlAdevahi",
+            "saMhlAdemahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "saMhlAdizIzwa",
+            "saMhlAdizIyAstAm",
+            "saMhlAdizIran",
+            "saMhlAdizIzWAH",
+            "saMhlAdizIyAsTAm",
+            "saMhlAdizIDvam",
+            "saMhlAdizIya",
+            "saMhlAdizIvahi",
+            "saMhlAdizImahi"
+          ],
+          "alang": [
+            "samahlAdyata",
+            "samahlAdyetAm",
+            "samahlAdyanta",
+            "samahlAdyaTAH",
+            "samahlAdyeTAm",
+            "samahlAdyaDvam",
+            "samahlAdye",
+            "samahlAdyAvahi",
+            "samahlAdyAmahi"
+          ],
+          "alat": [
+            "saMhlAdyate",
+            "saMhlAdyete",
+            "saMhlAdyante",
+            "saMhlAdyase",
+            "saMhlAdyeTe",
+            "saMhlAdyaDve",
+            "saMhlAdye",
+            "saMhlAdyAvahe",
+            "saMhlAdyAmahe"
+          ],
+          "alit": [
+            "saMjahlAde",
+            "saYjahlAde",
+            "saMjahlAdAte",
+            "saYjahlAdAte",
+            "saMjahlAdire",
+            "saYjahlAdire",
+            "saMjahlAdize",
+            "saYjahlAdize",
+            "saMjahlAdATe",
+            "saYjahlAdATe",
+            "saMjahlAdiDve",
+            "saYjahlAdiDve",
+            "saMjahlAde",
+            "saYjahlAde",
+            "saMjahlAdivahe",
+            "saYjahlAdivahe",
+            "saMjahlAdimahe",
+            "saYjahlAdimahe"
+          ],
+          "alot": [
+            "saMhlAdyatAm",
+            "saMhlAdyetAm",
+            "saMhlAdyantAm",
+            "saMhlAdyasva",
+            "saMhlAdyeTAm",
+            "saMhlAdyaDvam",
+            "saMhlAdyE",
+            "saMhlAdyAvahE",
+            "saMhlAdyAmahE"
+          ],
+          "alrung": [
+            "samahlAdizyata",
+            "samahlAdizyetAm",
+            "samahlAdizyanta",
+            "samahlAdizyaTAH",
+            "samahlAdizyeTAm",
+            "samahlAdizyaDvam",
+            "samahlAdizye",
+            "samahlAdizyAvahi",
+            "samahlAdizyAmahi"
+          ],
+          "alrut": [
+            "saMhlAdizyate",
+            "saMhlAdizyete",
+            "saMhlAdizyante",
+            "saMhlAdizyase",
+            "saMhlAdizyeTe",
+            "saMhlAdizyaDve",
+            "saMhlAdizye",
+            "saMhlAdizyAvahe",
+            "saMhlAdizyAmahe"
+          ],
+          "alung": [
+            "samahlAdi",
+            "samahlAdizAtAm",
+            "samahlAdizata",
+            "samahlAdizWAH",
+            "samahlAdizATAm",
+            "samahlAdiDvam",
+            "samahlAdizi",
+            "samahlAdizvahi",
+            "samahlAdizmahi"
+          ],
+          "alut": [
+            "saMhlAditA",
+            "saMhlAditArO",
+            "saMhlAditAraH",
+            "saMhlAditAse",
+            "saMhlAditAsATe",
+            "saMhlAditADve",
+            "saMhlAditAhe",
+            "saMhlAditAsvahe",
+            "saMhlAditAsmahe"
+          ],
+          "avidhiling": [
+            "saMhlAdyeta",
+            "saMhlAdyeyAtAm",
+            "saMhlAdyeran",
+            "saMhlAdyeTAH",
+            "saMhlAdyeyATAm",
+            "saMhlAdyeDvam",
+            "saMhlAdyeya",
+            "saMhlAdyevahi",
+            "saMhlAdyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "saMjihlAdizizIzwa",
+            "saYjihlAdizizIzwa",
+            "saMjihlAdizizIyAstAm",
+            "saYjihlAdizizIyAstAm",
+            "saMjihlAdizizIran",
+            "saYjihlAdizizIran",
+            "saMjihlAdizizIzWAH",
+            "saYjihlAdizizIzWAH",
+            "saMjihlAdizizIyAsTAm",
+            "saYjihlAdizizIyAsTAm",
+            "saMjihlAdizizIDvam",
+            "saYjihlAdizizIDvam",
+            "saMjihlAdizizIya",
+            "saYjihlAdizizIya",
+            "saMjihlAdizizIvahi",
+            "saYjihlAdizizIvahi",
+            "saMjihlAdizizImahi",
+            "saYjihlAdizizImahi"
+          ],
+          "alang": [
+            "samajihlAdizata",
+            "samajihlAdizetAm",
+            "samajihlAdizanta",
+            "samajihlAdizaTAH",
+            "samajihlAdizeTAm",
+            "samajihlAdizaDvam",
+            "samajihlAdize",
+            "samajihlAdizAvahi",
+            "samajihlAdizAmahi"
+          ],
+          "alat": [
+            "saMjihlAdizate",
+            "saYjihlAdizate",
+            "saMjihlAdizete",
+            "saYjihlAdizete",
+            "saMjihlAdizante",
+            "saYjihlAdizante",
+            "saMjihlAdizase",
+            "saYjihlAdizase",
+            "saMjihlAdizeTe",
+            "saYjihlAdizeTe",
+            "saMjihlAdizaDve",
+            "saYjihlAdizaDve",
+            "saMjihlAdize",
+            "saYjihlAdize",
+            "saMjihlAdizAvahe",
+            "saYjihlAdizAvahe",
+            "saMjihlAdizAmahe",
+            "saYjihlAdizAmahe"
+          ],
+          "alit": [
+            "saMjihlAdizAmbaBUva",
+            "saYjihlAdizAmbaBUva",
+            "saMjihlAdizAmAsa",
+            "saYjihlAdizAmAsa",
+            "saMjihlAdizAYcakre",
+            "saYjihlAdizAYcakre",
+            "saMjihlAdizAmbaBUvatuH",
+            "saYjihlAdizAmbaBUvatuH",
+            "saMjihlAdizAmAsatuH",
+            "saYjihlAdizAmAsatuH",
+            "saMjihlAdizAYcakrAte",
+            "saYjihlAdizAYcakrAte",
+            "saMjihlAdizAmbaBUvuH",
+            "saYjihlAdizAmbaBUvuH",
+            "saMjihlAdizAmAsuH",
+            "saYjihlAdizAmAsuH",
+            "saMjihlAdizAYcakrire",
+            "saYjihlAdizAYcakrire",
+            "saMjihlAdizAmbaBUviTa",
+            "saYjihlAdizAmbaBUviTa",
+            "saMjihlAdizAmAsiTa",
+            "saYjihlAdizAmAsiTa",
+            "saMjihlAdizAYcakfze",
+            "saYjihlAdizAYcakfze",
+            "saMjihlAdizAmbaBUvaTuH",
+            "saYjihlAdizAmbaBUvaTuH",
+            "saMjihlAdizAmAsaTuH",
+            "saYjihlAdizAmAsaTuH",
+            "saMjihlAdizAYcakrATe",
+            "saYjihlAdizAYcakrATe",
+            "saMjihlAdizAmbaBUva",
+            "saYjihlAdizAmbaBUva",
+            "saMjihlAdizAmAsa",
+            "saYjihlAdizAmAsa",
+            "saMjihlAdizAYcakfQve",
+            "saYjihlAdizAYcakfQve",
+            "saMjihlAdizAmbaBUva",
+            "saYjihlAdizAmbaBUva",
+            "saMjihlAdizAmAsa",
+            "saYjihlAdizAmAsa",
+            "saMjihlAdizAYcakre",
+            "saYjihlAdizAYcakre",
+            "saMjihlAdizAmbaBUviva",
+            "saYjihlAdizAmbaBUviva",
+            "saMjihlAdizAmAsiva",
+            "saYjihlAdizAmAsiva",
+            "saMjihlAdizAYcakfvahe",
+            "saYjihlAdizAYcakfvahe",
+            "saMjihlAdizAmbaBUvima",
+            "saYjihlAdizAmbaBUvima",
+            "saMjihlAdizAmAsima",
+            "saYjihlAdizAmAsima",
+            "saMjihlAdizAYcakfmahe",
+            "saYjihlAdizAYcakfmahe"
+          ],
+          "alot": [
+            "saMjihlAdizatAm",
+            "saYjihlAdizatAm",
+            "saMjihlAdizetAm",
+            "saYjihlAdizetAm",
+            "saMjihlAdizantAm",
+            "saYjihlAdizantAm",
+            "saMjihlAdizasva",
+            "saYjihlAdizasva",
+            "saMjihlAdizeTAm",
+            "saYjihlAdizeTAm",
+            "saMjihlAdizaDvam",
+            "saYjihlAdizaDvam",
+            "saMjihlAdizE",
+            "saYjihlAdizE",
+            "saMjihlAdizAvahE",
+            "saYjihlAdizAvahE",
+            "saMjihlAdizAmahE",
+            "saYjihlAdizAmahE"
+          ],
+          "alrung": [
+            "samajihlAdizizyata",
+            "samajihlAdizizyetAm",
+            "samajihlAdizizyanta",
+            "samajihlAdizizyaTAH",
+            "samajihlAdizizyeTAm",
+            "samajihlAdizizyaDvam",
+            "samajihlAdizizye",
+            "samajihlAdizizyAvahi",
+            "samajihlAdizizyAmahi"
+          ],
+          "alrut": [
+            "saMjihlAdizizyate",
+            "saYjihlAdizizyate",
+            "saMjihlAdizizyete",
+            "saYjihlAdizizyete",
+            "saMjihlAdizizyante",
+            "saYjihlAdizizyante",
+            "saMjihlAdizizyase",
+            "saYjihlAdizizyase",
+            "saMjihlAdizizyeTe",
+            "saYjihlAdizizyeTe",
+            "saMjihlAdizizyaDve",
+            "saYjihlAdizizyaDve",
+            "saMjihlAdizizye",
+            "saYjihlAdizizye",
+            "saMjihlAdizizyAvahe",
+            "saYjihlAdizizyAvahe",
+            "saMjihlAdizizyAmahe",
+            "saYjihlAdizizyAmahe"
+          ],
+          "alung": [
+            "samajihlAdizizwa",
+            "samajihlAdizizAtAm",
+            "samajihlAdizizata",
+            "samajihlAdizizWAH",
+            "samajihlAdizizATAm",
+            "samajihlAdiziDvam",
+            "samajihlAdizizi",
+            "samajihlAdizizvahi",
+            "samajihlAdizizmahi"
+          ],
+          "alut": [
+            "saMjihlAdizitA",
+            "saYjihlAdizitA",
+            "saMjihlAdizitArO",
+            "saYjihlAdizitArO",
+            "saMjihlAdizitAraH",
+            "saYjihlAdizitAraH",
+            "saMjihlAdizitAse",
+            "saYjihlAdizitAse",
+            "saMjihlAdizitAsATe",
+            "saYjihlAdizitAsATe",
+            "saMjihlAdizitADve",
+            "saYjihlAdizitADve",
+            "saMjihlAdizitAhe",
+            "saYjihlAdizitAhe",
+            "saMjihlAdizitAsvahe",
+            "saYjihlAdizitAsvahe",
+            "saMjihlAdizitAsmahe",
+            "saYjihlAdizitAsmahe"
+          ],
+          "avidhiling": [
+            "saMjihlAdizeta",
+            "saYjihlAdizeta",
+            "saMjihlAdizeyAtAm",
+            "saYjihlAdizeyAtAm",
+            "saMjihlAdizeran",
+            "saYjihlAdizeran",
+            "saMjihlAdizeTAH",
+            "saYjihlAdizeTAH",
+            "saMjihlAdizeyATAm",
+            "saYjihlAdizeyATAm",
+            "saMjihlAdizeDvam",
+            "saYjihlAdizeDvam",
+            "saMjihlAdizeya",
+            "saYjihlAdizeya",
+            "saMjihlAdizevahi",
+            "saYjihlAdizevahi",
+            "saMjihlAdizemahi",
+            "saYjihlAdizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "saMjihlAdizizIzwa",
+            "saYjihlAdizizIzwa",
+            "saMjihlAdizizIyAstAm",
+            "saYjihlAdizizIyAstAm",
+            "saMjihlAdizizIran",
+            "saYjihlAdizizIran",
+            "saMjihlAdizizIzWAH",
+            "saYjihlAdizizIzWAH",
+            "saMjihlAdizizIyAsTAm",
+            "saYjihlAdizizIyAsTAm",
+            "saMjihlAdizizIDvam",
+            "saYjihlAdizizIDvam",
+            "saMjihlAdizizIya",
+            "saYjihlAdizizIya",
+            "saMjihlAdizizIvahi",
+            "saYjihlAdizizIvahi",
+            "saMjihlAdizizImahi",
+            "saYjihlAdizizImahi"
+          ],
+          "alang": [
+            "samajihlAdizyata",
+            "samajihlAdizyetAm",
+            "samajihlAdizyanta",
+            "samajihlAdizyaTAH",
+            "samajihlAdizyeTAm",
+            "samajihlAdizyaDvam",
+            "samajihlAdizye",
+            "samajihlAdizyAvahi",
+            "samajihlAdizyAmahi"
+          ],
+          "alat": [
+            "saMjihlAdizyate",
+            "saYjihlAdizyate",
+            "saMjihlAdizyete",
+            "saYjihlAdizyete",
+            "saMjihlAdizyante",
+            "saYjihlAdizyante",
+            "saMjihlAdizyase",
+            "saYjihlAdizyase",
+            "saMjihlAdizyeTe",
+            "saYjihlAdizyeTe",
+            "saMjihlAdizyaDve",
+            "saYjihlAdizyaDve",
+            "saMjihlAdizye",
+            "saYjihlAdizye",
+            "saMjihlAdizyAvahe",
+            "saYjihlAdizyAvahe",
+            "saMjihlAdizyAmahe",
+            "saYjihlAdizyAmahe"
+          ],
+          "alit": [
+            "saMjihlAdizAmbaBUve",
+            "saYjihlAdizAmbaBUve",
+            "saMjihlAdizAmAse",
+            "saYjihlAdizAmAse",
+            "saMjihlAdizAYcakre",
+            "saYjihlAdizAYcakre",
+            "saMjihlAdizAmbaBUvAte",
+            "saYjihlAdizAmbaBUvAte",
+            "saMjihlAdizAmAsAte",
+            "saYjihlAdizAmAsAte",
+            "saMjihlAdizAYcakrAte",
+            "saYjihlAdizAYcakrAte",
+            "saMjihlAdizAmbaBUvire",
+            "saYjihlAdizAmbaBUvire",
+            "saMjihlAdizAmAsire",
+            "saYjihlAdizAmAsire",
+            "saMjihlAdizAYcakrire",
+            "saYjihlAdizAYcakrire",
+            "saMjihlAdizAmbaBUvize",
+            "saYjihlAdizAmbaBUvize",
+            "saMjihlAdizAmAsize",
+            "saYjihlAdizAmAsize",
+            "saMjihlAdizAYcakfze",
+            "saYjihlAdizAYcakfze",
+            "saMjihlAdizAmbaBUvATe",
+            "saYjihlAdizAmbaBUvATe",
+            "saMjihlAdizAmAsATe",
+            "saYjihlAdizAmAsATe",
+            "saMjihlAdizAYcakrATe",
+            "saYjihlAdizAYcakrATe",
+            "saMjihlAdizAmbaBUviQve",
+            "saYjihlAdizAmbaBUviQve",
+            "saMjihlAdizAmAsiDve",
+            "saYjihlAdizAmAsiDve",
+            "saMjihlAdizAYcakfQve",
+            "saYjihlAdizAYcakfQve",
+            "saMjihlAdizAmbaBUve",
+            "saYjihlAdizAmbaBUve",
+            "saMjihlAdizAmAhe",
+            "saYjihlAdizAmAhe",
+            "saMjihlAdizAYcakre",
+            "saYjihlAdizAYcakre",
+            "saMjihlAdizAmbaBUvivahe",
+            "saYjihlAdizAmbaBUvivahe",
+            "saMjihlAdizAmAsivahe",
+            "saYjihlAdizAmAsivahe",
+            "saMjihlAdizAYcakfvahe",
+            "saYjihlAdizAYcakfvahe",
+            "saMjihlAdizAmbaBUvimahe",
+            "saYjihlAdizAmbaBUvimahe",
+            "saMjihlAdizAmAsimahe",
+            "saYjihlAdizAmAsimahe",
+            "saMjihlAdizAYcakfmahe",
+            "saYjihlAdizAYcakfmahe"
+          ],
+          "alot": [
+            "saMjihlAdizyatAm",
+            "saYjihlAdizyatAm",
+            "saMjihlAdizyetAm",
+            "saYjihlAdizyetAm",
+            "saMjihlAdizyantAm",
+            "saYjihlAdizyantAm",
+            "saMjihlAdizyasva",
+            "saYjihlAdizyasva",
+            "saMjihlAdizyeTAm",
+            "saYjihlAdizyeTAm",
+            "saMjihlAdizyaDvam",
+            "saYjihlAdizyaDvam",
+            "saMjihlAdizyE",
+            "saYjihlAdizyE",
+            "saMjihlAdizyAvahE",
+            "saYjihlAdizyAvahE",
+            "saMjihlAdizyAmahE",
+            "saYjihlAdizyAmahE"
+          ],
+          "alrung": [
+            "samajihlAdizizyata",
+            "samajihlAdizizyetAm",
+            "samajihlAdizizyanta",
+            "samajihlAdizizyaTAH",
+            "samajihlAdizizyeTAm",
+            "samajihlAdizizyaDvam",
+            "samajihlAdizizye",
+            "samajihlAdizizyAvahi",
+            "samajihlAdizizyAmahi"
+          ],
+          "alrut": [
+            "saMjihlAdizizyate",
+            "saYjihlAdizizyate",
+            "saMjihlAdizizyete",
+            "saYjihlAdizizyete",
+            "saMjihlAdizizyante",
+            "saYjihlAdizizyante",
+            "saMjihlAdizizyase",
+            "saYjihlAdizizyase",
+            "saMjihlAdizizyeTe",
+            "saYjihlAdizizyeTe",
+            "saMjihlAdizizyaDve",
+            "saYjihlAdizizyaDve",
+            "saMjihlAdizizye",
+            "saYjihlAdizizye",
+            "saMjihlAdizizyAvahe",
+            "saYjihlAdizizyAvahe",
+            "saMjihlAdizizyAmahe",
+            "saYjihlAdizizyAmahe"
+          ],
+          "alung": [
+            "samajihlAdizi",
+            "samajihlAdizizAtAm",
+            "samajihlAdizizata",
+            "samajihlAdizizWAH",
+            "samajihlAdizizATAm",
+            "samajihlAdiziDvam",
+            "samajihlAdizizi",
+            "samajihlAdizizvahi",
+            "samajihlAdizizmahi"
+          ],
+          "alut": [
+            "saMjihlAdizitA",
+            "saYjihlAdizitA",
+            "saMjihlAdizitArO",
+            "saYjihlAdizitArO",
+            "saMjihlAdizitAraH",
+            "saYjihlAdizitAraH",
+            "saMjihlAdizitAse",
+            "saYjihlAdizitAse",
+            "saMjihlAdizitAsATe",
+            "saYjihlAdizitAsATe",
+            "saMjihlAdizitADve",
+            "saYjihlAdizitADve",
+            "saMjihlAdizitAhe",
+            "saYjihlAdizitAhe",
+            "saMjihlAdizitAsvahe",
+            "saYjihlAdizitAsvahe",
+            "saMjihlAdizitAsmahe",
+            "saYjihlAdizitAsmahe"
+          ],
+          "avidhiling": [
+            "saMjihlAdizyeta",
+            "saYjihlAdizyeta",
+            "saMjihlAdizyeyAtAm",
+            "saYjihlAdizyeyAtAm",
+            "saMjihlAdizyeran",
+            "saYjihlAdizyeran",
+            "saMjihlAdizyeTAH",
+            "saYjihlAdizyeTAH",
+            "saMjihlAdizyeyATAm",
+            "saYjihlAdizyeyATAm",
+            "saMjihlAdizyeDvam",
+            "saYjihlAdizyeDvam",
+            "saMjihlAdizyeya",
+            "saYjihlAdizyeya",
+            "saMjihlAdizyevahi",
+            "saYjihlAdizyevahi",
+            "saMjihlAdizyemahi",
+            "saYjihlAdizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "saMhlAdayizIzwa",
+            "saMhlAdayizIyAstAm",
+            "saMhlAdayizIran",
+            "saMhlAdayizIzWAH",
+            "saMhlAdayizIyAsTAm",
+            "saMhlAdayizIQvam",
+            "saMhlAdayizIDvam",
+            "saMhlAdayizIya",
+            "saMhlAdayizIvahi",
+            "saMhlAdayizImahi"
+          ],
+          "alang": [
+            "samahlAdayata",
+            "samahlAdayetAm",
+            "samahlAdayanta",
+            "samahlAdayaTAH",
+            "samahlAdayeTAm",
+            "samahlAdayaDvam",
+            "samahlAdaye",
+            "samahlAdayAvahi",
+            "samahlAdayAmahi"
+          ],
+          "alat": [
+            "saMhlAdayate",
+            "saMhlAdayete",
+            "saMhlAdayante",
+            "saMhlAdayase",
+            "saMhlAdayeTe",
+            "saMhlAdayaDve",
+            "saMhlAdaye",
+            "saMhlAdayAvahe",
+            "saMhlAdayAmahe"
+          ],
+          "alit": [
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakre",
+            "saMhlAdayAmbaBUvatuH",
+            "saMhlAdayAmAsatuH",
+            "saMhlAdayAYcakrAte",
+            "saMhlAdayAmbaBUvuH",
+            "saMhlAdayAmAsuH",
+            "saMhlAdayAYcakrire",
+            "saMhlAdayAmbaBUviTa",
+            "saMhlAdayAmAsiTa",
+            "saMhlAdayAYcakfze",
+            "saMhlAdayAmbaBUvaTuH",
+            "saMhlAdayAmAsaTuH",
+            "saMhlAdayAYcakrATe",
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakfQve",
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakre",
+            "saMhlAdayAmbaBUviva",
+            "saMhlAdayAmAsiva",
+            "saMhlAdayAYcakfvahe",
+            "saMhlAdayAmbaBUvima",
+            "saMhlAdayAmAsima",
+            "saMhlAdayAYcakfmahe"
+          ],
+          "alot": [
+            "saMhlAdayatAm",
+            "saMhlAdayetAm",
+            "saMhlAdayantAm",
+            "saMhlAdayasva",
+            "saMhlAdayeTAm",
+            "saMhlAdayaDvam",
+            "saMhlAdayE",
+            "saMhlAdayAvahE",
+            "saMhlAdayAmahE"
+          ],
+          "alrung": [
+            "samahlAdayizyata",
+            "samahlAdayizyetAm",
+            "samahlAdayizyanta",
+            "samahlAdayizyaTAH",
+            "samahlAdayizyeTAm",
+            "samahlAdayizyaDvam",
+            "samahlAdayizye",
+            "samahlAdayizyAvahi",
+            "samahlAdayizyAmahi"
+          ],
+          "alrut": [
+            "saMhlAdayizyate",
+            "saMhlAdayizyete",
+            "saMhlAdayizyante",
+            "saMhlAdayizyase",
+            "saMhlAdayizyeTe",
+            "saMhlAdayizyaDve",
+            "saMhlAdayizye",
+            "saMhlAdayizyAvahe",
+            "saMhlAdayizyAmahe"
+          ],
+          "alung": [
+            "samajihladata",
+            "samajihladetAm",
+            "samajihladanta",
+            "samajihladaTAH",
+            "samajihladeTAm",
+            "samajihladaDvam",
+            "samajihlade",
+            "samajihladAvahi",
+            "samajihladAmahi"
+          ],
+          "alut": [
+            "saMhlAdayitA",
+            "saMhlAdayitArO",
+            "saMhlAdayitAraH",
+            "saMhlAdayitAse",
+            "saMhlAdayitAsATe",
+            "saMhlAdayitADve",
+            "saMhlAdayitAhe",
+            "saMhlAdayitAsvahe",
+            "saMhlAdayitAsmahe"
+          ],
+          "avidhiling": [
+            "saMhlAdayeta",
+            "saMhlAdayeyAtAm",
+            "saMhlAdayeran",
+            "saMhlAdayeTAH",
+            "saMhlAdayeyATAm",
+            "saMhlAdayeDvam",
+            "saMhlAdayeya",
+            "saMhlAdayevahi",
+            "saMhlAdayemahi"
+          ],
+          "pashirling": [
+            "saMhlAdyAt",
+            "saMhlAdyAd",
+            "saMhlAdyAstAm",
+            "saMhlAdyAsuH",
+            "saMhlAdyAH",
+            "saMhlAdyAstam",
+            "saMhlAdyAsta",
+            "saMhlAdyAsam",
+            "saMhlAdyAsva",
+            "saMhlAdyAsma"
+          ],
+          "plang": [
+            "samahlAdayat",
+            "samahlAdayad",
+            "samahlAdayatAm",
+            "samahlAdayan",
+            "samahlAdayaH",
+            "samahlAdayatam",
+            "samahlAdayata",
+            "samahlAdayam",
+            "samahlAdayAva",
+            "samahlAdayAma"
+          ],
+          "plat": [
+            "saMhlAdayati",
+            "saMhlAdayataH",
+            "saMhlAdayanti",
+            "saMhlAdayasi",
+            "saMhlAdayaTaH",
+            "saMhlAdayaTa",
+            "saMhlAdayAmi",
+            "saMhlAdayAvaH",
+            "saMhlAdayAmaH"
+          ],
+          "plit": [
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakAra",
+            "saMhlAdayAmbaBUvatuH",
+            "saMhlAdayAmAsatuH",
+            "saMhlAdayAYcakratuH",
+            "saMhlAdayAmbaBUvuH",
+            "saMhlAdayAmAsuH",
+            "saMhlAdayAYcakruH",
+            "saMhlAdayAmbaBUviTa",
+            "saMhlAdayAmAsiTa",
+            "saMhlAdayAYcakarTa",
+            "saMhlAdayAmbaBUvaTuH",
+            "saMhlAdayAmAsaTuH",
+            "saMhlAdayAYcakraTuH",
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakra",
+            "saMhlAdayAmbaBUva",
+            "saMhlAdayAmAsa",
+            "saMhlAdayAYcakara",
+            "saMhlAdayAYcakAra",
+            "saMhlAdayAmbaBUviva",
+            "saMhlAdayAmAsiva",
+            "saMhlAdayAYcakfva",
+            "saMhlAdayAmbaBUvima",
+            "saMhlAdayAmAsima",
+            "saMhlAdayAYcakfma"
+          ],
+          "plot": [
+            "saMhlAdayatAt",
+            "saMhlAdayatAd",
+            "saMhlAdayatu",
+            "saMhlAdayatAm",
+            "saMhlAdayantu",
+            "saMhlAdayatAt",
+            "saMhlAdayatAd",
+            "saMhlAdaya",
+            "saMhlAdayatam",
+            "saMhlAdayata",
+            "saMhlAdayAni",
+            "saMhlAdayAva",
+            "saMhlAdayAma"
+          ],
+          "plrung": [
+            "samahlAdayizyat",
+            "samahlAdayizyad",
+            "samahlAdayizyatAm",
+            "samahlAdayizyan",
+            "samahlAdayizyaH",
+            "samahlAdayizyatam",
+            "samahlAdayizyata",
+            "samahlAdayizyam",
+            "samahlAdayizyAva",
+            "samahlAdayizyAma"
+          ],
+          "plrut": [
+            "saMhlAdayizyati",
+            "saMhlAdayizyataH",
+            "saMhlAdayizyanti",
+            "saMhlAdayizyasi",
+            "saMhlAdayizyaTaH",
+            "saMhlAdayizyaTa",
+            "saMhlAdayizyAmi",
+            "saMhlAdayizyAvaH",
+            "saMhlAdayizyAmaH"
+          ],
+          "plung": [
+            "samajihladat",
+            "samajihladad",
+            "samajihladatAm",
+            "samajihladan",
+            "samajihladaH",
+            "samajihladatam",
+            "samajihladata",
+            "samajihladam",
+            "samajihladAva",
+            "samajihladAma"
+          ],
+          "plut": [
+            "saMhlAdayitA",
+            "saMhlAdayitArO",
+            "saMhlAdayitAraH",
+            "saMhlAdayitAsi",
+            "saMhlAdayitAsTaH",
+            "saMhlAdayitAsTa",
+            "saMhlAdayitAsmi",
+            "saMhlAdayitAsvaH",
+            "saMhlAdayitAsmaH"
+          ],
+          "pvidhiling": [
+            "saMhlAdayet",
+            "saMhlAdayed",
+            "saMhlAdayetAm",
+            "saMhlAdayeyuH",
+            "saMhlAdayeH",
+            "saMhlAdayetam",
+            "saMhlAdayeta",
+            "saMhlAdayeyam",
+            "saMhlAdayeva",
+            "saMhlAdayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "saMhlAdizIzwa",
+            "saMhlAdayizIzwa",
+            "saMhlAdizIyAstAm",
+            "saMhlAdayizIyAstAm",
+            "saMhlAdizIran",
+            "saMhlAdayizIran",
+            "saMhlAdizIzWAH",
+            "saMhlAdayizIzWAH",
+            "saMhlAdizIyAsTAm",
+            "saMhlAdayizIyAsTAm",
+            "saMhlAdizIDvam",
+            "saMhlAdayizIQvam",
+            "saMhlAdayizIDvam",
+            "saMhlAdizIya",
+            "saMhlAdayizIya",
+            "saMhlAdizIvahi",
+            "saMhlAdayizIvahi",
+            "saMhlAdizImahi",
+            "saMhlAdayizImahi"
+          ],
+          "alang": [
+            "samahlAdyata",
+            "samahlAdyetAm",
+            "samahlAdyanta",
+            "samahlAdyaTAH",
+            "samahlAdyeTAm",
+            "samahlAdyaDvam",
+            "samahlAdye",
+            "samahlAdyAvahi",
+            "samahlAdyAmahi"
+          ],
+          "alat": [
+            "saMhlAdyate",
+            "saMhlAdyete",
+            "saMhlAdyante",
+            "saMhlAdyase",
+            "saMhlAdyeTe",
+            "saMhlAdyaDve",
+            "saMhlAdye",
+            "saMhlAdyAvahe",
+            "saMhlAdyAmahe"
+          ],
+          "alit": [
+            "saMhlAdayAmbaBUve",
+            "saMhlAdayAmAse",
+            "saMhlAdayAYcakre",
+            "saMhlAdayAmbaBUvAte",
+            "saMhlAdayAmAsAte",
+            "saMhlAdayAYcakrAte",
+            "saMhlAdayAmbaBUvire",
+            "saMhlAdayAmAsire",
+            "saMhlAdayAYcakrire",
+            "saMhlAdayAmbaBUvize",
+            "saMhlAdayAmAsize",
+            "saMhlAdayAYcakfze",
+            "saMhlAdayAmbaBUvATe",
+            "saMhlAdayAmAsATe",
+            "saMhlAdayAYcakrATe",
+            "saMhlAdayAmbaBUviQve",
+            "saMhlAdayAmAsiDve",
+            "saMhlAdayAYcakfQve",
+            "saMhlAdayAmbaBUve",
+            "saMhlAdayAmAhe",
+            "saMhlAdayAYcakre",
+            "saMhlAdayAmbaBUvivahe",
+            "saMhlAdayAmAsivahe",
+            "saMhlAdayAYcakfvahe",
+            "saMhlAdayAmbaBUvimahe",
+            "saMhlAdayAmAsimahe",
+            "saMhlAdayAYcakfmahe"
+          ],
+          "alot": [
+            "saMhlAdyatAm",
+            "saMhlAdyetAm",
+            "saMhlAdyantAm",
+            "saMhlAdyasva",
+            "saMhlAdyeTAm",
+            "saMhlAdyaDvam",
+            "saMhlAdyE",
+            "saMhlAdyAvahE",
+            "saMhlAdyAmahE"
+          ],
+          "alrung": [
+            "samahlAdizyata",
+            "samahlAdayizyata",
+            "samahlAdizyetAm",
+            "samahlAdayizyetAm",
+            "samahlAdizyanta",
+            "samahlAdayizyanta",
+            "samahlAdizyaTAH",
+            "samahlAdayizyaTAH",
+            "samahlAdizyeTAm",
+            "samahlAdayizyeTAm",
+            "samahlAdizyaDvam",
+            "samahlAdayizyaDvam",
+            "samahlAdizye",
+            "samahlAdayizye",
+            "samahlAdizyAvahi",
+            "samahlAdayizyAvahi",
+            "samahlAdizyAmahi",
+            "samahlAdayizyAmahi"
+          ],
+          "alrut": [
+            "saMhlAdizyate",
+            "saMhlAdayizyate",
+            "saMhlAdizyete",
+            "saMhlAdayizyete",
+            "saMhlAdizyante",
+            "saMhlAdayizyante",
+            "saMhlAdizyase",
+            "saMhlAdayizyase",
+            "saMhlAdizyeTe",
+            "saMhlAdayizyeTe",
+            "saMhlAdizyaDve",
+            "saMhlAdayizyaDve",
+            "saMhlAdizye",
+            "saMhlAdayizye",
+            "saMhlAdizyAvahe",
+            "saMhlAdayizyAvahe",
+            "saMhlAdizyAmahe",
+            "saMhlAdayizyAmahe"
+          ],
+          "alung": [
+            "samahlAdi",
+            "samahlAdizAtAm",
+            "samahlAdayizAtAm",
+            "samahlAdizata",
+            "samahlAdayizata",
+            "samahlAdizWAH",
+            "samahlAdayizWAH",
+            "samahlAdizATAm",
+            "samahlAdayizATAm",
+            "samahlAdiDvam",
+            "samahlAdayiQvam",
+            "samahlAdayiDvam",
+            "samahlAdizi",
+            "samahlAdayizi",
+            "samahlAdizvahi",
+            "samahlAdayizvahi",
+            "samahlAdizmahi",
+            "samahlAdayizmahi"
+          ],
+          "alut": [
+            "saMhlAditA",
+            "saMhlAdayitA",
+            "saMhlAditArO",
+            "saMhlAdayitArO",
+            "saMhlAditAraH",
+            "saMhlAdayitAraH",
+            "saMhlAditAse",
+            "saMhlAdayitAse",
+            "saMhlAditAsATe",
+            "saMhlAdayitAsATe",
+            "saMhlAditADve",
+            "saMhlAdayitADve",
+            "saMhlAditAhe",
+            "saMhlAdayitAhe",
+            "saMhlAditAsvahe",
+            "saMhlAdayitAsvahe",
+            "saMhlAditAsmahe",
+            "saMhlAdayitAsmahe"
+          ],
+          "avidhiling": [
+            "saMhlAdyeta",
+            "saMhlAdyeyAtAm",
+            "saMhlAdyeran",
+            "saMhlAdyeTAH",
+            "saMhlAdyeyATAm",
+            "saMhlAdyeDvam",
+            "saMhlAdyeya",
+            "saMhlAdyevahi",
+            "saMhlAdyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "saMjAhlAdizIzwa",
+            "saYjAhlAdizIzwa",
+            "saMjAhlAdizIyAstAm",
+            "saYjAhlAdizIyAstAm",
+            "saMjAhlAdizIran",
+            "saYjAhlAdizIran",
+            "saMjAhlAdizIzWAH",
+            "saYjAhlAdizIzWAH",
+            "saMjAhlAdizIyAsTAm",
+            "saYjAhlAdizIyAsTAm",
+            "saMjAhlAdizIDvam",
+            "saYjAhlAdizIDvam",
+            "saMjAhlAdizIya",
+            "saYjAhlAdizIya",
+            "saMjAhlAdizIvahi",
+            "saYjAhlAdizIvahi",
+            "saMjAhlAdizImahi",
+            "saYjAhlAdizImahi"
+          ],
+          "alang": [
+            "samajAhlAdyata",
+            "samajAhlAdyetAm",
+            "samajAhlAdyanta",
+            "samajAhlAdyaTAH",
+            "samajAhlAdyeTAm",
+            "samajAhlAdyaDvam",
+            "samajAhlAdye",
+            "samajAhlAdyAvahi",
+            "samajAhlAdyAmahi"
+          ],
+          "alat": [
+            "saMjAhlAdyate",
+            "saYjAhlAdyate",
+            "saMjAhlAdyete",
+            "saYjAhlAdyete",
+            "saMjAhlAdyante",
+            "saYjAhlAdyante",
+            "saMjAhlAdyase",
+            "saYjAhlAdyase",
+            "saMjAhlAdyeTe",
+            "saYjAhlAdyeTe",
+            "saMjAhlAdyaDve",
+            "saYjAhlAdyaDve",
+            "saMjAhlAdye",
+            "saYjAhlAdye",
+            "saMjAhlAdyAvahe",
+            "saYjAhlAdyAvahe",
+            "saMjAhlAdyAmahe",
+            "saYjAhlAdyAmahe"
+          ],
+          "alit": [
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUvatuH",
+            "saYjAhlAdAmbaBUvatuH",
+            "saMjAhlAdAmAsatuH",
+            "saYjAhlAdAmAsatuH",
+            "saMjAhlAdAYcakrAte",
+            "saYjAhlAdAYcakrAte",
+            "saMjAhlAdAmbaBUvuH",
+            "saYjAhlAdAmbaBUvuH",
+            "saMjAhlAdAmAsuH",
+            "saYjAhlAdAmAsuH",
+            "saMjAhlAdAYcakrire",
+            "saYjAhlAdAYcakrire",
+            "saMjAhlAdAmbaBUviTa",
+            "saYjAhlAdAmbaBUviTa",
+            "saMjAhlAdAmAsiTa",
+            "saYjAhlAdAmAsiTa",
+            "saMjAhlAdAYcakfze",
+            "saYjAhlAdAYcakfze",
+            "saMjAhlAdAmbaBUvaTuH",
+            "saYjAhlAdAmbaBUvaTuH",
+            "saMjAhlAdAmAsaTuH",
+            "saYjAhlAdAmAsaTuH",
+            "saMjAhlAdAYcakrATe",
+            "saYjAhlAdAYcakrATe",
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakfQve",
+            "saYjAhlAdAYcakfQve",
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUviva",
+            "saYjAhlAdAmbaBUviva",
+            "saMjAhlAdAmAsiva",
+            "saYjAhlAdAmAsiva",
+            "saMjAhlAdAYcakfvahe",
+            "saYjAhlAdAYcakfvahe",
+            "saMjAhlAdAmbaBUvima",
+            "saYjAhlAdAmbaBUvima",
+            "saMjAhlAdAmAsima",
+            "saYjAhlAdAmAsima",
+            "saMjAhlAdAYcakfmahe",
+            "saYjAhlAdAYcakfmahe"
+          ],
+          "alot": [
+            "saMjAhlAdyatAm",
+            "saYjAhlAdyatAm",
+            "saMjAhlAdyetAm",
+            "saYjAhlAdyetAm",
+            "saMjAhlAdyantAm",
+            "saYjAhlAdyantAm",
+            "saMjAhlAdyasva",
+            "saYjAhlAdyasva",
+            "saMjAhlAdyeTAm",
+            "saYjAhlAdyeTAm",
+            "saMjAhlAdyaDvam",
+            "saYjAhlAdyaDvam",
+            "saMjAhlAdyE",
+            "saYjAhlAdyE",
+            "saMjAhlAdyAvahE",
+            "saYjAhlAdyAvahE",
+            "saMjAhlAdyAmahE",
+            "saYjAhlAdyAmahE"
+          ],
+          "alrung": [
+            "samajAhlAdizyata",
+            "samajAhlAdizyetAm",
+            "samajAhlAdizyanta",
+            "samajAhlAdizyaTAH",
+            "samajAhlAdizyeTAm",
+            "samajAhlAdizyaDvam",
+            "samajAhlAdizye",
+            "samajAhlAdizyAvahi",
+            "samajAhlAdizyAmahi"
+          ],
+          "alrut": [
+            "saMjAhlAdizyate",
+            "saYjAhlAdizyate",
+            "saMjAhlAdizyete",
+            "saYjAhlAdizyete",
+            "saMjAhlAdizyante",
+            "saYjAhlAdizyante",
+            "saMjAhlAdizyase",
+            "saYjAhlAdizyase",
+            "saMjAhlAdizyeTe",
+            "saYjAhlAdizyeTe",
+            "saMjAhlAdizyaDve",
+            "saYjAhlAdizyaDve",
+            "saMjAhlAdizye",
+            "saYjAhlAdizye",
+            "saMjAhlAdizyAvahe",
+            "saYjAhlAdizyAvahe",
+            "saMjAhlAdizyAmahe",
+            "saYjAhlAdizyAmahe"
+          ],
+          "alung": [
+            "samajAhlAdizwa",
+            "samajAhlAdizAtAm",
+            "samajAhlAdizata",
+            "samajAhlAdizWAH",
+            "samajAhlAdizATAm",
+            "samajAhlAdiDvam",
+            "samajAhlAdizi",
+            "samajAhlAdizvahi",
+            "samajAhlAdizmahi"
+          ],
+          "alut": [
+            "saMjAhlAditA",
+            "saYjAhlAditA",
+            "saMjAhlAditArO",
+            "saYjAhlAditArO",
+            "saMjAhlAditAraH",
+            "saYjAhlAditAraH",
+            "saMjAhlAditAse",
+            "saYjAhlAditAse",
+            "saMjAhlAditAsATe",
+            "saYjAhlAditAsATe",
+            "saMjAhlAditADve",
+            "saYjAhlAditADve",
+            "saMjAhlAditAhe",
+            "saYjAhlAditAhe",
+            "saMjAhlAditAsvahe",
+            "saYjAhlAditAsvahe",
+            "saMjAhlAditAsmahe",
+            "saYjAhlAditAsmahe"
+          ],
+          "avidhiling": [
+            "saMjAhlAdyeta",
+            "saYjAhlAdyeta",
+            "saMjAhlAdyeyAtAm",
+            "saYjAhlAdyeyAtAm",
+            "saMjAhlAdyeran",
+            "saYjAhlAdyeran",
+            "saMjAhlAdyeTAH",
+            "saYjAhlAdyeTAH",
+            "saMjAhlAdyeyATAm",
+            "saYjAhlAdyeyATAm",
+            "saMjAhlAdyeDvam",
+            "saYjAhlAdyeDvam",
+            "saMjAhlAdyeya",
+            "saYjAhlAdyeya",
+            "saMjAhlAdyevahi",
+            "saYjAhlAdyevahi",
+            "saMjAhlAdyemahi",
+            "saYjAhlAdyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "saMjAhlAdizIzwa",
+            "saYjAhlAdizIzwa",
+            "saMjAhlAdizIyAstAm",
+            "saYjAhlAdizIyAstAm",
+            "saMjAhlAdizIran",
+            "saYjAhlAdizIran",
+            "saMjAhlAdizIzWAH",
+            "saYjAhlAdizIzWAH",
+            "saMjAhlAdizIyAsTAm",
+            "saYjAhlAdizIyAsTAm",
+            "saMjAhlAdizIDvam",
+            "saYjAhlAdizIDvam",
+            "saMjAhlAdizIya",
+            "saYjAhlAdizIya",
+            "saMjAhlAdizIvahi",
+            "saYjAhlAdizIvahi",
+            "saMjAhlAdizImahi",
+            "saYjAhlAdizImahi"
+          ],
+          "alang": [
+            "samajAhlAdyata",
+            "samajAhlAdyetAm",
+            "samajAhlAdyanta",
+            "samajAhlAdyaTAH",
+            "samajAhlAdyeTAm",
+            "samajAhlAdyaDvam",
+            "samajAhlAdye",
+            "samajAhlAdyAvahi",
+            "samajAhlAdyAmahi"
+          ],
+          "alat": [
+            "saMjAhlAdyate",
+            "saYjAhlAdyate",
+            "saMjAhlAdyete",
+            "saYjAhlAdyete",
+            "saMjAhlAdyante",
+            "saYjAhlAdyante",
+            "saMjAhlAdyase",
+            "saYjAhlAdyase",
+            "saMjAhlAdyeTe",
+            "saYjAhlAdyeTe",
+            "saMjAhlAdyaDve",
+            "saYjAhlAdyaDve",
+            "saMjAhlAdye",
+            "saYjAhlAdye",
+            "saMjAhlAdyAvahe",
+            "saYjAhlAdyAvahe",
+            "saMjAhlAdyAmahe",
+            "saYjAhlAdyAmahe"
+          ],
+          "alit": [
+            "saMjAhlAdAmbaBUve",
+            "saYjAhlAdAmbaBUve",
+            "saMjAhlAdAmAse",
+            "saYjAhlAdAmAse",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUvAte",
+            "saYjAhlAdAmbaBUvAte",
+            "saMjAhlAdAmAsAte",
+            "saYjAhlAdAmAsAte",
+            "saMjAhlAdAYcakrAte",
+            "saYjAhlAdAYcakrAte",
+            "saMjAhlAdAmbaBUvire",
+            "saYjAhlAdAmbaBUvire",
+            "saMjAhlAdAmAsire",
+            "saYjAhlAdAmAsire",
+            "saMjAhlAdAYcakrire",
+            "saYjAhlAdAYcakrire",
+            "saMjAhlAdAmbaBUvize",
+            "saYjAhlAdAmbaBUvize",
+            "saMjAhlAdAmAsize",
+            "saYjAhlAdAmAsize",
+            "saMjAhlAdAYcakfze",
+            "saYjAhlAdAYcakfze",
+            "saMjAhlAdAmbaBUvATe",
+            "saYjAhlAdAmbaBUvATe",
+            "saMjAhlAdAmAsATe",
+            "saYjAhlAdAmAsATe",
+            "saMjAhlAdAYcakrATe",
+            "saYjAhlAdAYcakrATe",
+            "saMjAhlAdAmbaBUviQve",
+            "saYjAhlAdAmbaBUviQve",
+            "saMjAhlAdAmAsiDve",
+            "saYjAhlAdAmAsiDve",
+            "saMjAhlAdAYcakfQve",
+            "saYjAhlAdAYcakfQve",
+            "saMjAhlAdAmbaBUve",
+            "saYjAhlAdAmbaBUve",
+            "saMjAhlAdAmAhe",
+            "saYjAhlAdAmAhe",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUvivahe",
+            "saYjAhlAdAmbaBUvivahe",
+            "saMjAhlAdAmAsivahe",
+            "saYjAhlAdAmAsivahe",
+            "saMjAhlAdAYcakfvahe",
+            "saYjAhlAdAYcakfvahe",
+            "saMjAhlAdAmbaBUvimahe",
+            "saYjAhlAdAmbaBUvimahe",
+            "saMjAhlAdAmAsimahe",
+            "saYjAhlAdAmAsimahe",
+            "saMjAhlAdAYcakfmahe",
+            "saYjAhlAdAYcakfmahe"
+          ],
+          "alot": [
+            "saMjAhlAdyatAm",
+            "saYjAhlAdyatAm",
+            "saMjAhlAdyetAm",
+            "saYjAhlAdyetAm",
+            "saMjAhlAdyantAm",
+            "saYjAhlAdyantAm",
+            "saMjAhlAdyasva",
+            "saYjAhlAdyasva",
+            "saMjAhlAdyeTAm",
+            "saYjAhlAdyeTAm",
+            "saMjAhlAdyaDvam",
+            "saYjAhlAdyaDvam",
+            "saMjAhlAdyE",
+            "saYjAhlAdyE",
+            "saMjAhlAdyAvahE",
+            "saYjAhlAdyAvahE",
+            "saMjAhlAdyAmahE",
+            "saYjAhlAdyAmahE"
+          ],
+          "alrung": [
+            "samajAhlAdizyata",
+            "samajAhlAdizyetAm",
+            "samajAhlAdizyanta",
+            "samajAhlAdizyaTAH",
+            "samajAhlAdizyeTAm",
+            "samajAhlAdizyaDvam",
+            "samajAhlAdizye",
+            "samajAhlAdizyAvahi",
+            "samajAhlAdizyAmahi"
+          ],
+          "alrut": [
+            "saMjAhlAdizyate",
+            "saYjAhlAdizyate",
+            "saMjAhlAdizyete",
+            "saYjAhlAdizyete",
+            "saMjAhlAdizyante",
+            "saYjAhlAdizyante",
+            "saMjAhlAdizyase",
+            "saYjAhlAdizyase",
+            "saMjAhlAdizyeTe",
+            "saYjAhlAdizyeTe",
+            "saMjAhlAdizyaDve",
+            "saYjAhlAdizyaDve",
+            "saMjAhlAdizye",
+            "saYjAhlAdizye",
+            "saMjAhlAdizyAvahe",
+            "saYjAhlAdizyAvahe",
+            "saMjAhlAdizyAmahe",
+            "saYjAhlAdizyAmahe"
+          ],
+          "alung": [
+            "samajAhlAdi",
+            "samajAhlAdizAtAm",
+            "samajAhlAdizata",
+            "samajAhlAdizWAH",
+            "samajAhlAdizATAm",
+            "samajAhlAdiDvam",
+            "samajAhlAdizi",
+            "samajAhlAdizvahi",
+            "samajAhlAdizmahi"
+          ],
+          "alut": [
+            "saMjAhlAditA",
+            "saYjAhlAditA",
+            "saMjAhlAditArO",
+            "saYjAhlAditArO",
+            "saMjAhlAditAraH",
+            "saYjAhlAditAraH",
+            "saMjAhlAditAse",
+            "saYjAhlAditAse",
+            "saMjAhlAditAsATe",
+            "saYjAhlAditAsATe",
+            "saMjAhlAditADve",
+            "saYjAhlAditADve",
+            "saMjAhlAditAhe",
+            "saYjAhlAditAhe",
+            "saMjAhlAditAsvahe",
+            "saYjAhlAditAsvahe",
+            "saMjAhlAditAsmahe",
+            "saYjAhlAditAsmahe"
+          ],
+          "avidhiling": [
+            "saMjAhlAdyeta",
+            "saYjAhlAdyeta",
+            "saMjAhlAdyeyAtAm",
+            "saYjAhlAdyeyAtAm",
+            "saMjAhlAdyeran",
+            "saYjAhlAdyeran",
+            "saMjAhlAdyeTAH",
+            "saYjAhlAdyeTAH",
+            "saMjAhlAdyeyATAm",
+            "saYjAhlAdyeyATAm",
+            "saMjAhlAdyeDvam",
+            "saYjAhlAdyeDvam",
+            "saMjAhlAdyeya",
+            "saYjAhlAdyeya",
+            "saMjAhlAdyevahi",
+            "saYjAhlAdyevahi",
+            "saMjAhlAdyemahi",
+            "saYjAhlAdyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "saMjAhlAdyAt",
+            "saYjAhlAdyAt",
+            "saMjAhlAdyAd",
+            "saYjAhlAdyAd",
+            "saMjAhlAdyAstAm",
+            "saYjAhlAdyAstAm",
+            "saMjAhlAdyAsuH",
+            "saYjAhlAdyAsuH",
+            "saMjAhlAdyAH",
+            "saYjAhlAdyAH",
+            "saMjAhlAdyAstam",
+            "saYjAhlAdyAstam",
+            "saMjAhlAdyAsta",
+            "saYjAhlAdyAsta",
+            "saMjAhlAdyAsam",
+            "saYjAhlAdyAsam",
+            "saMjAhlAdyAsva",
+            "saYjAhlAdyAsva",
+            "saMjAhlAdyAsma",
+            "saYjAhlAdyAsma"
+          ],
+          "plang": [
+            "samajAhlAdIt",
+            "samajAhlAdId",
+            "samajAhlAt",
+            "samajAhlAd",
+            "samajAhlAttAm",
+            "samajAhlAduH",
+            "samajAhlAdIH",
+            "samajAhlAH",
+            "samajAhlAt",
+            "samajAhlAd",
+            "samajAhlAttam",
+            "samajAhlAtta",
+            "samajAhlAdam",
+            "samajAhlAdva",
+            "samajAhlAdma"
+          ],
+          "plat": [
+            "saMjAhlAdIti",
+            "saYjAhlAdIti",
+            "saMjAhlAtti",
+            "saYjAhlAtti",
+            "saMjAhlAttaH",
+            "saYjAhlAttaH",
+            "saMjAhlAdati",
+            "saYjAhlAdati",
+            "saMjAhlAdIzi",
+            "saYjAhlAdIzi",
+            "saMjAhlAtsi",
+            "saYjAhlAtsi",
+            "saMjAhlAtTaH",
+            "saYjAhlAtTaH",
+            "saMjAhlAtTa",
+            "saYjAhlAtTa",
+            "saMjAhlAdImi",
+            "saYjAhlAdImi",
+            "saMjAhlAdmi",
+            "saYjAhlAdmi",
+            "saMjAhlAdvaH",
+            "saYjAhlAdvaH",
+            "saMjAhlAdmaH",
+            "saYjAhlAdmaH"
+          ],
+          "plit": [
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakAra",
+            "saYjAhlAdAYcakAra",
+            "saMjAhlAdAmbaBUvatuH",
+            "saYjAhlAdAmbaBUvatuH",
+            "saMjAhlAdAmAsatuH",
+            "saYjAhlAdAmAsatuH",
+            "saMjAhlAdAYcakratuH",
+            "saYjAhlAdAYcakratuH",
+            "saMjAhlAdAmbaBUvuH",
+            "saYjAhlAdAmbaBUvuH",
+            "saMjAhlAdAmAsuH",
+            "saYjAhlAdAmAsuH",
+            "saMjAhlAdAYcakruH",
+            "saYjAhlAdAYcakruH",
+            "saMjAhlAdAmbaBUviTa",
+            "saYjAhlAdAmbaBUviTa",
+            "saMjAhlAdAmAsiTa",
+            "saYjAhlAdAmAsiTa",
+            "saMjAhlAdAYcakarTa",
+            "saYjAhlAdAYcakarTa",
+            "saMjAhlAdAmbaBUvaTuH",
+            "saYjAhlAdAmbaBUvaTuH",
+            "saMjAhlAdAmAsaTuH",
+            "saYjAhlAdAmAsaTuH",
+            "saMjAhlAdAYcakraTuH",
+            "saYjAhlAdAYcakraTuH",
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakra",
+            "saYjAhlAdAYcakra",
+            "saMjAhlAdAmbaBUva",
+            "saYjAhlAdAmbaBUva",
+            "saMjAhlAdAmAsa",
+            "saYjAhlAdAmAsa",
+            "saMjAhlAdAYcakara",
+            "saYjAhlAdAYcakara",
+            "saMjAhlAdAYcakAra",
+            "saYjAhlAdAYcakAra",
+            "saMjAhlAdAmbaBUviva",
+            "saYjAhlAdAmbaBUviva",
+            "saMjAhlAdAmAsiva",
+            "saYjAhlAdAmAsiva",
+            "saMjAhlAdAYcakfva",
+            "saYjAhlAdAYcakfva",
+            "saMjAhlAdAmbaBUvima",
+            "saYjAhlAdAmbaBUvima",
+            "saMjAhlAdAmAsima",
+            "saYjAhlAdAmAsima",
+            "saMjAhlAdAYcakfma",
+            "saYjAhlAdAYcakfma"
+          ],
+          "plot": [
+            "saMjAhlAttAt",
+            "saYjAhlAttAt",
+            "saMjAhlAttAd",
+            "saYjAhlAttAd",
+            "saMjAhlAdItu",
+            "saYjAhlAdItu",
+            "saMjAhlAttu",
+            "saYjAhlAttu",
+            "saMjAhlAttAm",
+            "saYjAhlAttAm",
+            "saMjAhlAdatu",
+            "saYjAhlAdatu",
+            "saMjAhlAttAt",
+            "saYjAhlAttAt",
+            "saMjAhlAttAd",
+            "saYjAhlAttAd",
+            "saMjAhlAdDi",
+            "saYjAhlAdDi",
+            "saMjAhlAttam",
+            "saYjAhlAttam",
+            "saMjAhlAtta",
+            "saYjAhlAtta",
+            "saMjAhlAdAni",
+            "saYjAhlAdAni",
+            "saMjAhlAdAva",
+            "saYjAhlAdAva",
+            "saMjAhlAdAma",
+            "saYjAhlAdAma"
+          ],
+          "plrung": [
+            "samajAhlAdizyat",
+            "samajAhlAdizyad",
+            "samajAhlAdizyatAm",
+            "samajAhlAdizyan",
+            "samajAhlAdizyaH",
+            "samajAhlAdizyatam",
+            "samajAhlAdizyata",
+            "samajAhlAdizyam",
+            "samajAhlAdizyAva",
+            "samajAhlAdizyAma"
+          ],
+          "plrut": [
+            "saMjAhlAdizyati",
+            "saYjAhlAdizyati",
+            "saMjAhlAdizyataH",
+            "saYjAhlAdizyataH",
+            "saMjAhlAdizyanti",
+            "saYjAhlAdizyanti",
+            "saMjAhlAdizyasi",
+            "saYjAhlAdizyasi",
+            "saMjAhlAdizyaTaH",
+            "saYjAhlAdizyaTaH",
+            "saMjAhlAdizyaTa",
+            "saYjAhlAdizyaTa",
+            "saMjAhlAdizyAmi",
+            "saYjAhlAdizyAmi",
+            "saMjAhlAdizyAvaH",
+            "saYjAhlAdizyAvaH",
+            "saMjAhlAdizyAmaH",
+            "saYjAhlAdizyAmaH"
+          ],
+          "plung": [
+            "samajAhlAdIt",
+            "samajAhlAdId",
+            "samajAhlAdizwAm",
+            "samajAhlAdizuH",
+            "samajAhlAdIH",
+            "samajAhlAdizwam",
+            "samajAhlAdizwa",
+            "samajAhlAdizam",
+            "samajAhlAdizva",
+            "samajAhlAdizma"
+          ],
+          "plut": [
+            "saMjAhlAditA",
+            "saYjAhlAditA",
+            "saMjAhlAditArO",
+            "saYjAhlAditArO",
+            "saMjAhlAditAraH",
+            "saYjAhlAditAraH",
+            "saMjAhlAditAsi",
+            "saYjAhlAditAsi",
+            "saMjAhlAditAsTaH",
+            "saYjAhlAditAsTaH",
+            "saMjAhlAditAsTa",
+            "saYjAhlAditAsTa",
+            "saMjAhlAditAsmi",
+            "saYjAhlAditAsmi",
+            "saMjAhlAditAsvaH",
+            "saYjAhlAditAsvaH",
+            "saMjAhlAditAsmaH",
+            "saYjAhlAditAsmaH"
+          ],
+          "pvidhiling": [
+            "saMjAhlAdyAt",
+            "saYjAhlAdyAt",
+            "saMjAhlAdyAd",
+            "saYjAhlAdyAd",
+            "saMjAhlAdyAtAm",
+            "saYjAhlAdyAtAm",
+            "saMjAhlAdyuH",
+            "saYjAhlAdyuH",
+            "saMjAhlAdyAH",
+            "saYjAhlAdyAH",
+            "saMjAhlAdyAtam",
+            "saYjAhlAdyAtam",
+            "saMjAhlAdyAta",
+            "saYjAhlAdyAta",
+            "saMjAhlAdyAm",
+            "saYjAhlAdyAm",
+            "saMjAhlAdyAva",
+            "saYjAhlAdyAva",
+            "saMjAhlAdyAma",
+            "saYjAhlAdyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "saMjAhlAdizIzwa",
+            "saYjAhlAdizIzwa",
+            "saMjAhlAdizIyAstAm",
+            "saYjAhlAdizIyAstAm",
+            "saMjAhlAdizIran",
+            "saYjAhlAdizIran",
+            "saMjAhlAdizIzWAH",
+            "saYjAhlAdizIzWAH",
+            "saMjAhlAdizIyAsTAm",
+            "saYjAhlAdizIyAsTAm",
+            "saMjAhlAdizIDvam",
+            "saYjAhlAdizIDvam",
+            "saMjAhlAdizIya",
+            "saYjAhlAdizIya",
+            "saMjAhlAdizIvahi",
+            "saYjAhlAdizIvahi",
+            "saMjAhlAdizImahi",
+            "saYjAhlAdizImahi"
+          ],
+          "alang": [
+            "samajAhlAdyata",
+            "samajAhlAdyetAm",
+            "samajAhlAdyanta",
+            "samajAhlAdyaTAH",
+            "samajAhlAdyeTAm",
+            "samajAhlAdyaDvam",
+            "samajAhlAdye",
+            "samajAhlAdyAvahi",
+            "samajAhlAdyAmahi"
+          ],
+          "alat": [
+            "saMjAhlAdyate",
+            "saYjAhlAdyate",
+            "saMjAhlAdyete",
+            "saYjAhlAdyete",
+            "saMjAhlAdyante",
+            "saYjAhlAdyante",
+            "saMjAhlAdyase",
+            "saYjAhlAdyase",
+            "saMjAhlAdyeTe",
+            "saYjAhlAdyeTe",
+            "saMjAhlAdyaDve",
+            "saYjAhlAdyaDve",
+            "saMjAhlAdye",
+            "saYjAhlAdye",
+            "saMjAhlAdyAvahe",
+            "saYjAhlAdyAvahe",
+            "saMjAhlAdyAmahe",
+            "saYjAhlAdyAmahe"
+          ],
+          "alit": [
+            "saMjAhlAdAmbaBUve",
+            "saYjAhlAdAmbaBUve",
+            "saMjAhlAdAmAse",
+            "saYjAhlAdAmAse",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUvAte",
+            "saYjAhlAdAmbaBUvAte",
+            "saMjAhlAdAmAsAte",
+            "saYjAhlAdAmAsAte",
+            "saMjAhlAdAYcakrAte",
+            "saYjAhlAdAYcakrAte",
+            "saMjAhlAdAmbaBUvire",
+            "saYjAhlAdAmbaBUvire",
+            "saMjAhlAdAmAsire",
+            "saYjAhlAdAmAsire",
+            "saMjAhlAdAYcakrire",
+            "saYjAhlAdAYcakrire",
+            "saMjAhlAdAmbaBUvize",
+            "saYjAhlAdAmbaBUvize",
+            "saMjAhlAdAmAsize",
+            "saYjAhlAdAmAsize",
+            "saMjAhlAdAYcakfze",
+            "saYjAhlAdAYcakfze",
+            "saMjAhlAdAmbaBUvATe",
+            "saYjAhlAdAmbaBUvATe",
+            "saMjAhlAdAmAsATe",
+            "saYjAhlAdAmAsATe",
+            "saMjAhlAdAYcakrATe",
+            "saYjAhlAdAYcakrATe",
+            "saMjAhlAdAmbaBUviQve",
+            "saYjAhlAdAmbaBUviQve",
+            "saMjAhlAdAmAsiDve",
+            "saYjAhlAdAmAsiDve",
+            "saMjAhlAdAYcakfQve",
+            "saYjAhlAdAYcakfQve",
+            "saMjAhlAdAmbaBUve",
+            "saYjAhlAdAmbaBUve",
+            "saMjAhlAdAmAhe",
+            "saYjAhlAdAmAhe",
+            "saMjAhlAdAYcakre",
+            "saYjAhlAdAYcakre",
+            "saMjAhlAdAmbaBUvivahe",
+            "saYjAhlAdAmbaBUvivahe",
+            "saMjAhlAdAmAsivahe",
+            "saYjAhlAdAmAsivahe",
+            "saMjAhlAdAYcakfvahe",
+            "saYjAhlAdAYcakfvahe",
+            "saMjAhlAdAmbaBUvimahe",
+            "saYjAhlAdAmbaBUvimahe",
+            "saMjAhlAdAmAsimahe",
+            "saYjAhlAdAmAsimahe",
+            "saMjAhlAdAYcakfmahe",
+            "saYjAhlAdAYcakfmahe"
+          ],
+          "alot": [
+            "saMjAhlAdyatAm",
+            "saYjAhlAdyatAm",
+            "saMjAhlAdyetAm",
+            "saYjAhlAdyetAm",
+            "saMjAhlAdyantAm",
+            "saYjAhlAdyantAm",
+            "saMjAhlAdyasva",
+            "saYjAhlAdyasva",
+            "saMjAhlAdyeTAm",
+            "saYjAhlAdyeTAm",
+            "saMjAhlAdyaDvam",
+            "saYjAhlAdyaDvam",
+            "saMjAhlAdyE",
+            "saYjAhlAdyE",
+            "saMjAhlAdyAvahE",
+            "saYjAhlAdyAvahE",
+            "saMjAhlAdyAmahE",
+            "saYjAhlAdyAmahE"
+          ],
+          "alrung": [
+            "samajAhlAdizyata",
+            "samajAhlAdizyetAm",
+            "samajAhlAdizyanta",
+            "samajAhlAdizyaTAH",
+            "samajAhlAdizyeTAm",
+            "samajAhlAdizyaDvam",
+            "samajAhlAdizye",
+            "samajAhlAdizyAvahi",
+            "samajAhlAdizyAmahi"
+          ],
+          "alrut": [
+            "saMjAhlAdizyate",
+            "saYjAhlAdizyate",
+            "saMjAhlAdizyete",
+            "saYjAhlAdizyete",
+            "saMjAhlAdizyante",
+            "saYjAhlAdizyante",
+            "saMjAhlAdizyase",
+            "saYjAhlAdizyase",
+            "saMjAhlAdizyeTe",
+            "saYjAhlAdizyeTe",
+            "saMjAhlAdizyaDve",
+            "saYjAhlAdizyaDve",
+            "saMjAhlAdizye",
+            "saYjAhlAdizye",
+            "saMjAhlAdizyAvahe",
+            "saYjAhlAdizyAvahe",
+            "saMjAhlAdizyAmahe",
+            "saYjAhlAdizyAmahe"
+          ],
+          "alung": [
+            "samajAhlAdi",
+            "samajAhlAdizAtAm",
+            "samajAhlAdizata",
+            "samajAhlAdizWAH",
+            "samajAhlAdizATAm",
+            "samajAhlAdiDvam",
+            "samajAhlAdizi",
+            "samajAhlAdizvahi",
+            "samajAhlAdizmahi"
+          ],
+          "alut": [
+            "saMjAhlAditA",
+            "saYjAhlAditA",
+            "saMjAhlAditArO",
+            "saYjAhlAditArO",
+            "saMjAhlAditAraH",
+            "saYjAhlAditAraH",
+            "saMjAhlAditAse",
+            "saYjAhlAditAse",
+            "saMjAhlAditAsATe",
+            "saYjAhlAditAsATe",
+            "saMjAhlAditADve",
+            "saYjAhlAditADve",
+            "saMjAhlAditAhe",
+            "saYjAhlAditAhe",
+            "saMjAhlAditAsvahe",
+            "saYjAhlAditAsvahe",
+            "saMjAhlAditAsmahe",
+            "saYjAhlAditAsmahe"
+          ],
+          "avidhiling": [
+            "saMjAhlAdyeta",
+            "saYjAhlAdyeta",
+            "saMjAhlAdyeyAtAm",
+            "saYjAhlAdyeyAtAm",
+            "saMjAhlAdyeran",
+            "saYjAhlAdyeran",
+            "saMjAhlAdyeTAH",
+            "saYjAhlAdyeTAH",
+            "saMjAhlAdyeyATAm",
+            "saYjAhlAdyeyATAm",
+            "saMjAhlAdyeDvam",
+            "saYjAhlAdyeDvam",
+            "saMjAhlAdyeya",
+            "saYjAhlAdyeya",
+            "saMjAhlAdyevahi",
+            "saYjAhlAdyevahi",
+            "saMjAhlAdyemahi",
+            "saYjAhlAdyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "saMhlAdA",
+              "m": "",
+              "f": "saMhlAdA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMhlAda",
+              "m": "saMhlAdaH",
+              "f": "saMhlAdA",
+              "n": "saMhlAdam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMhlAdanIya",
+              "m": "saMhlAdanIyaH",
+              "f": "saMhlAdanIyA",
+              "n": "saMhlAdanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMhlAnna",
+              "m": "saMhlAnnaH",
+              "f": "saMhlAnnA",
+              "n": "saMhlAnnam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMhlAnnavat",
+              "m": "saMhlAnnavAn",
+              "f": "saMhlAnnavatI",
+              "n": "saMhlAnnavat/saMhlAnnavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMhlAtti",
+              "m": "",
+              "f": "saMhlAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMjahlAdvas",
+              "m": "saMjahlAdvAn",
+              "f": "saMjahlAduzI",
+              "n": "saMjahlAdvat/saMjahlAdvad"
+            },
+            {
+              "base": "saYjahlAdvas",
+              "m": "saYjahlAdvAn",
+              "f": "saYjahlAduzI",
+              "n": "saYjahlAdvat/saYjahlAdvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMhlAda",
+              "m": "saMhlAdaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMhlAdamAna",
+              "m": "saMhlAdamAnaH",
+              "f": "saMhlAdamAnA",
+              "n": "saMhlAdamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "saMhlAdya",
+              "m": "saMhlAdyaH",
+              "f": "saMhlAdyA",
+              "n": "saMhlAdyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMhlAdaka",
+              "m": "saMhlAdakaH",
+              "f": "saMhlAdikA",
+              "n": "saMhlAdakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMhlAditavya",
+              "m": "saMhlAditavyaH",
+              "f": "saMhlAditavyA",
+              "n": "saMhlAditavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMhlAditum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMhlAditf",
+              "m": "saMhlAditA",
+              "f": "saMhlAditrI",
+              "n": "saMhlAditf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMhlAdamAna",
+              "m": "saMhlAdamAnaH",
+              "f": "saMhlAdamAnA",
+              "n": "saMhlAdamAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saMhlAdanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMhlAdaka",
+              "m": "saMhlAdakaH",
+              "f": "saMhlAdikA",
+              "n": "saMhlAdakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMhlAdamAna",
+              "m": "saMhlAdamAnaH",
+              "f": "saMhlAdamAnA",
+              "n": "saMhlAdamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMhlAdamAna",
+              "m": "saMhlAdamAnaH",
+              "f": "saMhlAdamAnA",
+              "n": "saMhlAdamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMhlAdamAna",
+              "m": "saMhlAdamAnaH",
+              "f": "saMhlAdamAnA",
+              "n": "saMhlAdamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "saMjihlAdizA",
+              "m": "",
+              "f": "saMjihlAdizA",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdizA",
+              "m": "",
+              "f": "saYjihlAdizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMjihlAdiza",
+              "m": "saMjihlAdizaH",
+              "f": "saMjihlAdizA",
+              "n": "saMjihlAdizam"
+            },
+            {
+              "base": "saYjihlAdiza",
+              "m": "saYjihlAdizaH",
+              "f": "saYjihlAdizA",
+              "n": "saYjihlAdizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMjihlAdizaRIya",
+              "m": "saMjihlAdizaRIyaH",
+              "f": "saMjihlAdizaRIyA",
+              "n": "saMjihlAdizaRIyam"
+            },
+            {
+              "base": "saYjihlAdizaRIya",
+              "m": "saYjihlAdizaRIyaH",
+              "f": "saYjihlAdizaRIyA",
+              "n": "saYjihlAdizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "saMjihlAdizu",
+              "m": "saMjihlAdizuH",
+              "f": "saMjihlAdizuH",
+              "n": "saMjihlAdizu"
+            },
+            {
+              "base": "saYjihlAdizu",
+              "m": "saYjihlAdizuH",
+              "f": "saYjihlAdizuH",
+              "n": "saYjihlAdizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMjihlAdizita",
+              "m": "saMjihlAdizitaH",
+              "f": "saMjihlAdizitA",
+              "n": "saMjihlAdizitam"
+            },
+            {
+              "base": "saYjihlAdizita",
+              "m": "saYjihlAdizitaH",
+              "f": "saYjihlAdizitA",
+              "n": "saYjihlAdizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMjihlAdizitavat",
+              "m": "saMjihlAdizitavAn",
+              "f": "saMjihlAdizitavatI",
+              "n": "saMjihlAdizitavat/saMjihlAdizitavad"
+            },
+            {
+              "base": "saYjihlAdizitavat",
+              "m": "saYjihlAdizitavAn",
+              "f": "saYjihlAdizitavatI",
+              "n": "saYjihlAdizitavat/saYjihlAdizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMjihlAdizwi",
+              "m": "",
+              "f": "saMjihlAdizwiH",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdizwi",
+              "m": "",
+              "f": "saYjihlAdizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMjihlAdizAmbaBUvas",
+              "m": "saMjihlAdizAmbaBUvAn",
+              "f": "saMjihlAdizAmbaBUzI",
+              "n": "saMjihlAdizAmbaBUvat/saMjihlAdizAmbaBUvad"
+            },
+            {
+              "base": "saYjihlAdizAmbaBUvas",
+              "m": "saYjihlAdizAmbaBUvAn",
+              "f": "saYjihlAdizAmbaBUzI",
+              "n": "saYjihlAdizAmbaBUvat/saYjihlAdizAmbaBUvad"
+            },
+            {
+              "base": "saMjihlAdizAmAsivas",
+              "m": "saMjihlAdizAmAsivAn",
+              "f": "saMjihlAdizAmAsyuzI",
+              "n": "saMjihlAdizAmAsivat/saMjihlAdizAmAsivad"
+            },
+            {
+              "base": "saYjihlAdizAmAsivas",
+              "m": "saYjihlAdizAmAsivAn",
+              "f": "saYjihlAdizAmAsyuzI",
+              "n": "saYjihlAdizAmAsivat/saYjihlAdizAmAsivad"
+            },
+            {
+              "base": "saMjihlAdizAYcakfvas",
+              "m": "saMjihlAdizAYcakfvAn",
+              "f": "saMjihlAdizAYcakruzI",
+              "n": "saMjihlAdizAYcakfvat/saMjihlAdizAYcakfvad"
+            },
+            {
+              "base": "saYjihlAdizAYcakfvas",
+              "m": "saYjihlAdizAYcakfvAn",
+              "f": "saYjihlAdizAYcakruzI",
+              "n": "saYjihlAdizAYcakfvat/saYjihlAdizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMjihlAdiza",
+              "m": "saMjihlAdizaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdiza",
+              "m": "saYjihlAdizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMjihlAdizamARa",
+              "m": "saMjihlAdizamARaH",
+              "f": "saMjihlAdizamARA",
+              "n": "saMjihlAdizamARam"
+            },
+            {
+              "base": "saYjihlAdizamARa",
+              "m": "saYjihlAdizamARaH",
+              "f": "saYjihlAdizamARA",
+              "n": "saYjihlAdizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMjihlAdizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMjihlAdizaka",
+              "m": "saMjihlAdizakaH",
+              "f": "saMjihlAdizikA",
+              "n": "saMjihlAdizakam"
+            },
+            {
+              "base": "saYjihlAdizaka",
+              "m": "saYjihlAdizakaH",
+              "f": "saYjihlAdizikA",
+              "n": "saYjihlAdizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMjihlAdizitavya",
+              "m": "saMjihlAdizitavyaH",
+              "f": "saMjihlAdizitavyA",
+              "n": "saMjihlAdizitavyam"
+            },
+            {
+              "base": "saYjihlAdizitavya",
+              "m": "saYjihlAdizitavyaH",
+              "f": "saYjihlAdizitavyA",
+              "n": "saYjihlAdizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMjihlAdizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMjihlAdizitf",
+              "m": "saMjihlAdizitA",
+              "f": "saMjihlAdizitrI",
+              "n": "saMjihlAdizitf"
+            },
+            {
+              "base": "saYjihlAdizitf",
+              "m": "saYjihlAdizitA",
+              "f": "saYjihlAdizitrI",
+              "n": "saYjihlAdizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMjihlAdizamARa",
+              "m": "saMjihlAdizamARaH",
+              "f": "saMjihlAdizamARA",
+              "n": "saMjihlAdizamARam"
+            },
+            {
+              "base": "saYjihlAdizamARa",
+              "m": "saYjihlAdizamARaH",
+              "f": "saYjihlAdizamARA",
+              "n": "saYjihlAdizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMjihlAdizya",
+              "m": "saMjihlAdizyaH",
+              "f": "saMjihlAdizyA",
+              "n": "saMjihlAdizyam"
+            },
+            {
+              "base": "saYjihlAdizya",
+              "m": "saYjihlAdizyaH",
+              "f": "saYjihlAdizyA",
+              "n": "saYjihlAdizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMjihlAdizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjihlAdizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMjihlAdizaRa",
+              "m": "",
+              "f": "",
+              "n": "saMjihlAdizaRam"
+            },
+            {
+              "base": "saYjihlAdizaRa",
+              "m": "",
+              "f": "",
+              "n": "saYjihlAdizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMjihlAdizaka",
+              "m": "saMjihlAdizakaH",
+              "f": "saMjihlAdizikA",
+              "n": "saMjihlAdizakam"
+            },
+            {
+              "base": "saYjihlAdizaka",
+              "m": "saYjihlAdizakaH",
+              "f": "saYjihlAdizikA",
+              "n": "saYjihlAdizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMjihlAdizamARa",
+              "m": "saMjihlAdizamARaH",
+              "f": "saMjihlAdizamARA",
+              "n": "saMjihlAdizamARam"
+            },
+            {
+              "base": "saYjihlAdizamARa",
+              "m": "saYjihlAdizamARaH",
+              "f": "saYjihlAdizamARA",
+              "n": "saYjihlAdizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMjihlAdizamARa",
+              "m": "saMjihlAdizamARaH",
+              "f": "saMjihlAdizamARA",
+              "n": "saMjihlAdizamARam"
+            },
+            {
+              "base": "saYjihlAdizamARa",
+              "m": "saYjihlAdizamARaH",
+              "f": "saYjihlAdizamARA",
+              "n": "saYjihlAdizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMjihlAdizamARa",
+              "m": "saMjihlAdizamARaH",
+              "f": "saMjihlAdizamARA",
+              "n": "saMjihlAdizamARam"
+            },
+            {
+              "base": "saYjihlAdizamARa",
+              "m": "saYjihlAdizamARaH",
+              "f": "saYjihlAdizamARA",
+              "n": "saYjihlAdizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "saMhlAda",
+              "m": "saMhlAdaH",
+              "f": "saMhlAdA",
+              "n": "saMhlAdam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMhlAdanIya",
+              "m": "saMhlAdanIyaH",
+              "f": "saMhlAdanIyA",
+              "n": "saMhlAdanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMhladita",
+              "m": "saMhladitaH",
+              "f": "saMhladitA",
+              "n": "saMhladitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMhladitavat",
+              "m": "saMhladitavAn",
+              "f": "saMhladitavatI",
+              "n": "saMhladitavat/saMhladitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMhlAtti",
+              "m": "",
+              "f": "saMhlAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMhlAdayAmbaBUvas",
+              "m": "saMhlAdayAmbaBUvAn",
+              "f": "saMhlAdayAmbaBUzI",
+              "n": "saMhlAdayAmbaBUvat/saMhlAdayAmbaBUvad"
+            },
+            {
+              "base": "saMhlAdayAmAsivas",
+              "m": "saMhlAdayAmAsivAn",
+              "f": "saMhlAdayAmAsyuzI",
+              "n": "saMhlAdayAmAsivat/saMhlAdayAmAsivad"
+            },
+            {
+              "base": "saMhlAdayAYcakfvas",
+              "m": "saMhlAdayAYcakfvAn",
+              "f": "saMhlAdayAYcakruzI",
+              "n": "saMhlAdayAYcakfvat/saMhlAdayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMhlAdayamAna",
+              "m": "saMhlAdayamAnaH",
+              "f": "saMhlAdayamAnA",
+              "n": "saMhlAdayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMhlAdaka",
+              "m": "saMhlAdakaH",
+              "f": "saMhlAdikA",
+              "n": "saMhlAdakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMhlAdayitavya",
+              "m": "saMhlAdayitavyaH",
+              "f": "saMhlAdayitavyA",
+              "n": "saMhlAdayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMhlAdayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMhlAdayitf",
+              "m": "saMhlAdayitA",
+              "f": "saMhlAdayitrI",
+              "n": "saMhlAdayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMhlAdayamAna",
+              "m": "saMhlAdayamAnaH",
+              "f": "saMhlAdayamAnA",
+              "n": "saMhlAdayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMhlAdya",
+              "m": "saMhlAdyaH",
+              "f": "saMhlAdyA",
+              "n": "saMhlAdyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saMhlAdanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMhlAdaka",
+              "m": "saMhlAdakaH",
+              "f": "saMhlAdikA",
+              "n": "saMhlAdakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "saMhlAdayat",
+              "m": "saMhlAdayan",
+              "f": "saMhlAdayantI",
+              "n": "saMhlAdayat/saMhlAdayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMhlAdayamAna",
+              "m": "saMhlAdayamAnaH",
+              "f": "saMhlAdayamAnA",
+              "n": "saMhlAdayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMhlAdayamAna",
+              "m": "saMhlAdayamAnaH",
+              "f": "saMhlAdayamAnA",
+              "n": "saMhlAdayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "saMhlAdayat",
+              "m": "saMhlAdayan",
+              "f": "saMhlAdayatI/saMhlAdayantI",
+              "n": "saMhlAdayat/saMhlAdayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMhlAdayamAna",
+              "m": "saMhlAdayamAnaH",
+              "f": "saMhlAdayamAnA",
+              "n": "saMhlAdayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "saMjAhlAdA",
+              "m": "",
+              "f": "saMjAhlAdA",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdA",
+              "m": "",
+              "f": "saYjAhlAdA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMjAhlAda",
+              "m": "saMjAhlAdaH",
+              "f": "saMjAhlAdA",
+              "n": "saMjAhlAdam"
+            },
+            {
+              "base": "saYjAhlAda",
+              "m": "saYjAhlAdaH",
+              "f": "saYjAhlAdA",
+              "n": "saYjAhlAdam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMjAhlAdanIya",
+              "m": "saMjAhlAdanIyaH",
+              "f": "saMjAhlAdanIyA",
+              "n": "saMjAhlAdanIyam"
+            },
+            {
+              "base": "saYjAhlAdanIya",
+              "m": "saYjAhlAdanIyaH",
+              "f": "saYjAhlAdanIyA",
+              "n": "saYjAhlAdanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMjAhlAdita",
+              "m": "saMjAhlAditaH",
+              "f": "saMjAhlAditA",
+              "n": "saMjAhlAditam"
+            },
+            {
+              "base": "saYjAhlAdita",
+              "m": "saYjAhlAditaH",
+              "f": "saYjAhlAditA",
+              "n": "saYjAhlAditam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMjAhlAditavat",
+              "m": "saMjAhlAditavAn",
+              "f": "saMjAhlAditavatI",
+              "n": "saMjAhlAditavat/saMjAhlAditavad"
+            },
+            {
+              "base": "saYjAhlAditavat",
+              "m": "saYjAhlAditavAn",
+              "f": "saYjAhlAditavatI",
+              "n": "saYjAhlAditavat/saYjAhlAditavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMjAhlAtti",
+              "m": "",
+              "f": "saMjAhlAttiH",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAtti",
+              "m": "",
+              "f": "saYjAhlAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMjAhlAdAmbaBUvas",
+              "m": "saMjAhlAdAmbaBUvAn",
+              "f": "saMjAhlAdAmbaBUzI",
+              "n": "saMjAhlAdAmbaBUvat/saMjAhlAdAmbaBUvad"
+            },
+            {
+              "base": "saYjAhlAdAmbaBUvas",
+              "m": "saYjAhlAdAmbaBUvAn",
+              "f": "saYjAhlAdAmbaBUzI",
+              "n": "saYjAhlAdAmbaBUvat/saYjAhlAdAmbaBUvad"
+            },
+            {
+              "base": "saMjAhlAdAmAsivas",
+              "m": "saMjAhlAdAmAsivAn",
+              "f": "saMjAhlAdAmAsyuzI",
+              "n": "saMjAhlAdAmAsivat/saMjAhlAdAmAsivad"
+            },
+            {
+              "base": "saYjAhlAdAmAsivas",
+              "m": "saYjAhlAdAmAsivAn",
+              "f": "saYjAhlAdAmAsyuzI",
+              "n": "saYjAhlAdAmAsivat/saYjAhlAdAmAsivad"
+            },
+            {
+              "base": "saMjAhlAdAYcakfvas",
+              "m": "saMjAhlAdAYcakfvAn",
+              "f": "saMjAhlAdAYcakruzI",
+              "n": "saMjAhlAdAYcakfvat/saMjAhlAdAYcakfvad"
+            },
+            {
+              "base": "saYjAhlAdAYcakfvas",
+              "m": "saYjAhlAdAYcakfvAn",
+              "f": "saYjAhlAdAYcakruzI",
+              "n": "saYjAhlAdAYcakfvat/saYjAhlAdAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMjAhlAda",
+              "m": "saMjAhlAdaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAda",
+              "m": "saYjAhlAdaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMjAhlAdyamAna",
+              "m": "saMjAhlAdyamAnaH",
+              "f": "saMjAhlAdyamAnA",
+              "n": "saMjAhlAdyamAnam"
+            },
+            {
+              "base": "saYjAhlAdyamAna",
+              "m": "saYjAhlAdyamAnaH",
+              "f": "saYjAhlAdyamAnA",
+              "n": "saYjAhlAdyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMjAhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMjAhlAdaka",
+              "m": "saMjAhlAdakaH",
+              "f": "saMjAhlAdikA",
+              "n": "saMjAhlAdakam"
+            },
+            {
+              "base": "saYjAhlAdaka",
+              "m": "saYjAhlAdakaH",
+              "f": "saYjAhlAdikA",
+              "n": "saYjAhlAdakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMjAhlAditavya",
+              "m": "saMjAhlAditavyaH",
+              "f": "saMjAhlAditavyA",
+              "n": "saMjAhlAditavyam"
+            },
+            {
+              "base": "saYjAhlAditavya",
+              "m": "saYjAhlAditavyaH",
+              "f": "saYjAhlAditavyA",
+              "n": "saYjAhlAditavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMjAhlAditum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAditum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMjAhlAditf",
+              "m": "saMjAhlAditA",
+              "f": "saMjAhlAditrI",
+              "n": "saMjAhlAditf"
+            },
+            {
+              "base": "saYjAhlAditf",
+              "m": "saYjAhlAditA",
+              "f": "saYjAhlAditrI",
+              "n": "saYjAhlAditf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "saMjAhlAdyamAna",
+              "m": "saMjAhlAdyamAnaH",
+              "f": "saMjAhlAdyamAnA",
+              "n": "saMjAhlAdyamAnam"
+            },
+            {
+              "base": "saYjAhlAdyamAna",
+              "m": "saYjAhlAdyamAnaH",
+              "f": "saYjAhlAdyamAnA",
+              "n": "saYjAhlAdyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "saMjAhlAdya",
+              "m": "saMjAhlAdyaH",
+              "f": "saMjAhlAdyA",
+              "n": "saMjAhlAdyam"
+            },
+            {
+              "base": "saYjAhlAdya",
+              "m": "saYjAhlAdyaH",
+              "f": "saYjAhlAdyA",
+              "n": "saYjAhlAdyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMjAhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMjAhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saMjAhlAdanam"
+            },
+            {
+              "base": "saYjAhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saYjAhlAdanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMjAhlAdaka",
+              "m": "saMjAhlAdakaH",
+              "f": "saMjAhlAdikA",
+              "n": "saMjAhlAdakam"
+            },
+            {
+              "base": "saYjAhlAdaka",
+              "m": "saYjAhlAdakaH",
+              "f": "saYjAhlAdikA",
+              "n": "saYjAhlAdakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "saMjAhlAdyamAna",
+              "m": "saMjAhlAdyamAnaH",
+              "f": "saMjAhlAdyamAnA",
+              "n": "saMjAhlAdyamAnam"
+            },
+            {
+              "base": "saYjAhlAdyamAna",
+              "m": "saYjAhlAdyamAnaH",
+              "f": "saYjAhlAdyamAnA",
+              "n": "saYjAhlAdyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "saMjAhlAdyamAna",
+              "m": "saMjAhlAdyamAnaH",
+              "f": "saMjAhlAdyamAnA",
+              "n": "saMjAhlAdyamAnam"
+            },
+            {
+              "base": "saYjAhlAdyamAna",
+              "m": "saYjAhlAdyamAnaH",
+              "f": "saYjAhlAdyamAnA",
+              "n": "saYjAhlAdyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "saMjAhlAdyamAna",
+              "m": "saMjAhlAdyamAnaH",
+              "f": "saMjAhlAdyamAnA",
+              "n": "saMjAhlAdyamAnam"
+            },
+            {
+              "base": "saYjAhlAdyamAna",
+              "m": "saYjAhlAdyamAnaH",
+              "f": "saYjAhlAdyamAnA",
+              "n": "saYjAhlAdyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "saMjAhlAdA",
+              "m": "",
+              "f": "saMjAhlAdA",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdA",
+              "m": "",
+              "f": "saYjAhlAdA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "saMjAhlAda",
+              "m": "saMjAhlAdaH",
+              "f": "saMjAhlAdA",
+              "n": "saMjAhlAdam"
+            },
+            {
+              "base": "saYjAhlAda",
+              "m": "saYjAhlAdaH",
+              "f": "saYjAhlAdA",
+              "n": "saYjAhlAdam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "saMjAhlAdanIya",
+              "m": "saMjAhlAdanIyaH",
+              "f": "saMjAhlAdanIyA",
+              "n": "saMjAhlAdanIyam"
+            },
+            {
+              "base": "saYjAhlAdanIya",
+              "m": "saYjAhlAdanIyaH",
+              "f": "saYjAhlAdanIyA",
+              "n": "saYjAhlAdanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "saMjAhlAtta",
+              "m": "saMjAhlAttaH",
+              "f": "saMjAhlAttA",
+              "n": "saMjAhlAttam"
+            },
+            {
+              "base": "saYjAhlAtta",
+              "m": "saYjAhlAttaH",
+              "f": "saYjAhlAttA",
+              "n": "saYjAhlAttam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "saMjAhlAttavat",
+              "m": "saMjAhlAttavAn",
+              "f": "saMjAhlAttavatI",
+              "n": "saMjAhlAttavat/saMjAhlAttavad"
+            },
+            {
+              "base": "saYjAhlAttavat",
+              "m": "saYjAhlAttavAn",
+              "f": "saYjAhlAttavatI",
+              "n": "saYjAhlAttavat/saYjAhlAttavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "saMjAhlAtti",
+              "m": "",
+              "f": "saMjAhlAttiH",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAtti",
+              "m": "",
+              "f": "saYjAhlAttiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "saMjAhlAdAmbaBUvas",
+              "m": "saMjAhlAdAmbaBUvAn",
+              "f": "saMjAhlAdAmbaBUzI",
+              "n": "saMjAhlAdAmbaBUvat/saMjAhlAdAmbaBUvad"
+            },
+            {
+              "base": "saYjAhlAdAmbaBUvas",
+              "m": "saYjAhlAdAmbaBUvAn",
+              "f": "saYjAhlAdAmbaBUzI",
+              "n": "saYjAhlAdAmbaBUvat/saYjAhlAdAmbaBUvad"
+            },
+            {
+              "base": "saMjAhlAdAmAsivas",
+              "m": "saMjAhlAdAmAsivAn",
+              "f": "saMjAhlAdAmAsyuzI",
+              "n": "saMjAhlAdAmAsivat/saMjAhlAdAmAsivad"
+            },
+            {
+              "base": "saYjAhlAdAmAsivas",
+              "m": "saYjAhlAdAmAsivAn",
+              "f": "saYjAhlAdAmAsyuzI",
+              "n": "saYjAhlAdAmAsivat/saYjAhlAdAmAsivad"
+            },
+            {
+              "base": "saMjAhlAdAYcakfvas",
+              "m": "saMjAhlAdAYcakfvAn",
+              "f": "saMjAhlAdAYcakruzI",
+              "n": "saMjAhlAdAYcakfvat/saMjAhlAdAYcakfvad"
+            },
+            {
+              "base": "saYjAhlAdAYcakfvas",
+              "m": "saYjAhlAdAYcakfvAn",
+              "f": "saYjAhlAdAYcakruzI",
+              "n": "saYjAhlAdAYcakfvat/saYjAhlAdAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "saMjAhlAda",
+              "m": "saMjAhlAdaH",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAda",
+              "m": "saYjAhlAdaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "saMjAhlAdAna",
+              "m": "saMjAhlAdAnaH",
+              "f": "saMjAhlAdAnA",
+              "n": "saMjAhlAdAnam"
+            },
+            {
+              "base": "saYjAhlAdAna",
+              "m": "saYjAhlAdAnaH",
+              "f": "saYjAhlAdAnA",
+              "n": "saYjAhlAdAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "saMjAhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "saMjAhlAdaka",
+              "m": "saMjAhlAdakaH",
+              "f": "saMjAhlAdikA",
+              "n": "saMjAhlAdakam"
+            },
+            {
+              "base": "saYjAhlAdaka",
+              "m": "saYjAhlAdakaH",
+              "f": "saYjAhlAdikA",
+              "n": "saYjAhlAdakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "saMjAhlAditavya",
+              "m": "saMjAhlAditavyaH",
+              "f": "saMjAhlAditavyA",
+              "n": "saMjAhlAditavyam"
+            },
+            {
+              "base": "saYjAhlAditavya",
+              "m": "saYjAhlAditavyaH",
+              "f": "saYjAhlAditavyA",
+              "n": "saYjAhlAditavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "saMjAhlAditum",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAditum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "saMjAhlAditf",
+              "m": "saMjAhlAditA",
+              "f": "saMjAhlAditrI",
+              "n": "saMjAhlAditf"
+            },
+            {
+              "base": "saYjAhlAditf",
+              "m": "saYjAhlAditA",
+              "f": "saYjAhlAditrI",
+              "n": "saYjAhlAditf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "saMjAhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            },
+            {
+              "base": "saYjAhlAdya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "saMjAhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saMjAhlAdanam"
+            },
+            {
+              "base": "saYjAhlAdana",
+              "m": "",
+              "f": "",
+              "n": "saYjAhlAdanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "saMjAhlAdaka",
+              "m": "saMjAhlAdakaH",
+              "f": "saMjAhlAdikA",
+              "n": "saMjAhlAdakam"
+            },
+            {
+              "base": "saYjAhlAdaka",
+              "m": "saYjAhlAdakaH",
+              "f": "saYjAhlAdikA",
+              "n": "saYjAhlAdakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "saMjAhlAdat",
+              "m": "saMjAhlAdan",
+              "f": "saMjAhlAdatI",
+              "n": "saMjAhlAdat/saMjAhlAdad"
+            },
+            {
+              "base": "saYjAhlAdat",
+              "m": "saYjAhlAdan",
+              "f": "saYjAhlAdatI",
+              "n": "saYjAhlAdat/saYjAhlAdad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "saMjAhlAdat",
+              "m": "saMjAhlAdan",
+              "f": "saMjAhlAdatI/saMjAhlAdantI",
+              "n": "saMjAhlAdat/saMjAhlAdad"
+            },
+            {
+              "base": "saYjAhlAdat",
+              "m": "saYjAhlAdan",
+              "f": "saYjAhlAdatI/saYjAhlAdantI",
+              "n": "saYjAhlAdat/saYjAhlAdad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

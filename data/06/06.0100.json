@@ -1,0 +1,7292 @@
+{
+  "id": "06.0100",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "sPuwa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "vikasane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to blow,to blossom, to burst,to break open"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "KilanA, praPullita honA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "sPowayetsPowatIti dve Bede viSaraRe kramAt ' (Slo. 71) - devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "tudAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "kuwAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1373"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1373"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2536",
+      "ext_link": "/sutraani/sk2536?scroll=sutra-commentary-kaumudi-region&highlight=saPauwa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "656",
+      "ext_link": "/sutraani/lsk656?scroll=sutra-commentary-laghukaumudi-region&highlight=saPauwa"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "sPuwyAt",
+        "sPuwyAd",
+        "sPuwyAstAm",
+        "sPuwyAsuH",
+        "sPuwyAH",
+        "sPuwyAstam",
+        "sPuwyAsta",
+        "sPuwyAsam",
+        "sPuwyAsva",
+        "sPuwyAsma"
+      ],
+      "plang": [
+        "asPuwat",
+        "asPuwad",
+        "asPuwatAm",
+        "asPuwan",
+        "asPuwaH",
+        "asPuwatam",
+        "asPuwata",
+        "asPuwam",
+        "asPuwAva",
+        "asPuwAma"
+      ],
+      "plat": [
+        "sPuwati",
+        "sPuwataH",
+        "sPuwanti",
+        "sPuwasi",
+        "sPuwaTaH",
+        "sPuwaTa",
+        "sPuwAmi",
+        "sPuwAvaH",
+        "sPuwAmaH"
+      ],
+      "plit": [
+        "pusPowa",
+        "pusPuwatuH",
+        "pusPuwuH",
+        "pusPuwiTa",
+        "pusPuwaTuH",
+        "pusPuwa",
+        "pusPuwa",
+        "pusPowa",
+        "pusPuwiva",
+        "pusPuwima"
+      ],
+      "plot": [
+        "sPuwatAt",
+        "sPuwatAd",
+        "sPuwatu",
+        "sPuwatAm",
+        "sPuwantu",
+        "sPuwa",
+        "sPuwatAt",
+        "sPuwatAd",
+        "sPuwatam",
+        "sPuwata",
+        "sPuwAni",
+        "sPuwAva",
+        "sPuwAma"
+      ],
+      "plrung": [
+        "asPuwizyat",
+        "asPuwizyad",
+        "asPuwizyatAm",
+        "asPuwizyan",
+        "asPuwizyaH",
+        "asPuwizyatam",
+        "asPuwizyata",
+        "asPuwizyam",
+        "asPuwizyAva",
+        "asPuwizyAma"
+      ],
+      "plrut": [
+        "sPuwizyati",
+        "sPuwizyataH",
+        "sPuwizyanti",
+        "sPuwizyasi",
+        "sPuwizyaTaH",
+        "sPuwizyaTa",
+        "sPuwizyAmi",
+        "sPuwizyAvaH",
+        "sPuwizyAmaH"
+      ],
+      "plung": [
+        "asPuwIt",
+        "asPuwId",
+        "asPuwizwAm",
+        "asPuwizuH",
+        "asPuwIH",
+        "asPuwizwam",
+        "asPuwizwa",
+        "asPuwizam",
+        "asPuwizva",
+        "asPuwizma"
+      ],
+      "plut": [
+        "sPuwitA",
+        "sPuwitArO",
+        "sPuwitAraH",
+        "sPuwitAsi",
+        "sPuwitAsTaH",
+        "sPuwitAsTa",
+        "sPuwitAsmi",
+        "sPuwitAsvaH",
+        "sPuwitAsmaH"
+      ],
+      "pvidhiling": [
+        "sPuwet",
+        "sPuwed",
+        "sPuwetAm",
+        "sPuweyuH",
+        "sPuweH",
+        "sPuwetam",
+        "sPuweta",
+        "sPuweyam",
+        "sPuweva",
+        "sPuwema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "sPuwizIzwa",
+        "sPuwizIyAstAm",
+        "sPuwizIran",
+        "sPuwizIzWAH",
+        "sPuwizIyAsTAm",
+        "sPuwizIDvam",
+        "sPuwizIya",
+        "sPuwizIvahi",
+        "sPuwizImahi"
+      ],
+      "alang": [
+        "asPuwyata",
+        "asPuwyetAm",
+        "asPuwyanta",
+        "asPuwyaTAH",
+        "asPuwyeTAm",
+        "asPuwyaDvam",
+        "asPuwye",
+        "asPuwyAvahi",
+        "asPuwyAmahi"
+      ],
+      "alat": [
+        "sPuwyate",
+        "sPuwyete",
+        "sPuwyante",
+        "sPuwyase",
+        "sPuwyeTe",
+        "sPuwyaDve",
+        "sPuwye",
+        "sPuwyAvahe",
+        "sPuwyAmahe"
+      ],
+      "alit": [
+        "pusPuwe",
+        "pusPuwAte",
+        "pusPuwire",
+        "pusPuwize",
+        "pusPuwATe",
+        "pusPuwiDve",
+        "pusPuwe",
+        "pusPuwivahe",
+        "pusPuwimahe"
+      ],
+      "alot": [
+        "sPuwyatAm",
+        "sPuwyetAm",
+        "sPuwyantAm",
+        "sPuwyasva",
+        "sPuwyeTAm",
+        "sPuwyaDvam",
+        "sPuwyE",
+        "sPuwyAvahE",
+        "sPuwyAmahE"
+      ],
+      "alrung": [
+        "asPuwizyata",
+        "asPuwizyetAm",
+        "asPuwizyanta",
+        "asPuwizyaTAH",
+        "asPuwizyeTAm",
+        "asPuwizyaDvam",
+        "asPuwizye",
+        "asPuwizyAvahi",
+        "asPuwizyAmahi"
+      ],
+      "alrut": [
+        "sPuwizyate",
+        "sPuwizyete",
+        "sPuwizyante",
+        "sPuwizyase",
+        "sPuwizyeTe",
+        "sPuwizyaDve",
+        "sPuwizye",
+        "sPuwizyAvahe",
+        "sPuwizyAmahe"
+      ],
+      "alung": [
+        "asPowi",
+        "asPuwizAtAm",
+        "asPuwizata",
+        "asPuwizWAH",
+        "asPuwizATAm",
+        "asPuwiDvam",
+        "asPuwizi",
+        "asPuwizvahi",
+        "asPuwizmahi"
+      ],
+      "alut": [
+        "sPuwitA",
+        "sPuwitArO",
+        "sPuwitAraH",
+        "sPuwitAse",
+        "sPuwitAsATe",
+        "sPuwitADve",
+        "sPuwitAhe",
+        "sPuwitAsvahe",
+        "sPuwitAsmahe"
+      ],
+      "avidhiling": [
+        "sPuwyeta",
+        "sPuwyeyAtAm",
+        "sPuwyeran",
+        "sPuwyeTAH",
+        "sPuwyeyATAm",
+        "sPuwyeDvam",
+        "sPuwyeya",
+        "sPuwyevahi",
+        "sPuwyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "pusPuwizyAt",
+        "pusPuwizyAd",
+        "pusPuwizyAstAm",
+        "pusPuwizyAsuH",
+        "pusPuwizyAH",
+        "pusPuwizyAstam",
+        "pusPuwizyAsta",
+        "pusPuwizyAsam",
+        "pusPuwizyAsva",
+        "pusPuwizyAsma"
+      ],
+      "plang": [
+        "apusPuwizat",
+        "apusPuwizad",
+        "apusPuwizatAm",
+        "apusPuwizan",
+        "apusPuwizaH",
+        "apusPuwizatam",
+        "apusPuwizata",
+        "apusPuwizam",
+        "apusPuwizAva",
+        "apusPuwizAma"
+      ],
+      "plat": [
+        "pusPuwizati",
+        "pusPuwizataH",
+        "pusPuwizanti",
+        "pusPuwizasi",
+        "pusPuwizaTaH",
+        "pusPuwizaTa",
+        "pusPuwizAmi",
+        "pusPuwizAvaH",
+        "pusPuwizAmaH"
+      ],
+      "plit": [
+        "pusPuwizAYcakAra",
+        "pusPuwizAmAsa",
+        "pusPuwizAmbaBUva",
+        "pusPuwizAYcakratuH",
+        "pusPuwizAmAsatuH",
+        "pusPuwizAmbaBUvatuH",
+        "pusPuwizAYcakruH",
+        "pusPuwizAmAsuH",
+        "pusPuwizAmbaBUvuH",
+        "pusPuwizAYcakarTa",
+        "pusPuwizAmAsiTa",
+        "pusPuwizAmbaBUviTa",
+        "pusPuwizAYcakraTuH",
+        "pusPuwizAmAsaTuH",
+        "pusPuwizAmbaBUvaTuH",
+        "pusPuwizAYcakra",
+        "pusPuwizAmAsa",
+        "pusPuwizAmbaBUva",
+        "pusPuwizAYcakara",
+        "pusPuwizAYcakAra",
+        "pusPuwizAmAsa",
+        "pusPuwizAmbaBUva",
+        "pusPuwizAYcakfva",
+        "pusPuwizAmAsiva",
+        "pusPuwizAmbaBUviva",
+        "pusPuwizAYcakfma",
+        "pusPuwizAmAsima",
+        "pusPuwizAmbaBUvima"
+      ],
+      "plot": [
+        "pusPuwizatAt",
+        "pusPuwizatAd",
+        "pusPuwizatu",
+        "pusPuwizatAm",
+        "pusPuwizantu",
+        "pusPuwiza",
+        "pusPuwizatAt",
+        "pusPuwizatAd",
+        "pusPuwizatam",
+        "pusPuwizata",
+        "pusPuwizARi",
+        "pusPuwizAva",
+        "pusPuwizAma"
+      ],
+      "plrung": [
+        "apusPuwizizyat",
+        "apusPuwizizyad",
+        "apusPuwizizyatAm",
+        "apusPuwizizyan",
+        "apusPuwizizyaH",
+        "apusPuwizizyatam",
+        "apusPuwizizyata",
+        "apusPuwizizyam",
+        "apusPuwizizyAva",
+        "apusPuwizizyAma"
+      ],
+      "plrut": [
+        "pusPuwizizyati",
+        "pusPuwizizyataH",
+        "pusPuwizizyanti",
+        "pusPuwizizyasi",
+        "pusPuwizizyaTaH",
+        "pusPuwizizyaTa",
+        "pusPuwizizyAmi",
+        "pusPuwizizyAvaH",
+        "pusPuwizizyAmaH"
+      ],
+      "plung": [
+        "apusPuwizIt",
+        "apusPuwizId",
+        "apusPuwizizwAm",
+        "apusPuwizizuH",
+        "apusPuwizIH",
+        "apusPuwizizwam",
+        "apusPuwizizwa",
+        "apusPuwizizam",
+        "apusPuwizizva",
+        "apusPuwizizma"
+      ],
+      "plut": [
+        "pusPuwizitA",
+        "pusPuwizitArO",
+        "pusPuwizitAraH",
+        "pusPuwizitAsi",
+        "pusPuwizitAsTaH",
+        "pusPuwizitAsTa",
+        "pusPuwizitAsmi",
+        "pusPuwizitAsvaH",
+        "pusPuwizitAsmaH"
+      ],
+      "pvidhiling": [
+        "pusPuwizet",
+        "pusPuwized",
+        "pusPuwizetAm",
+        "pusPuwizeyuH",
+        "pusPuwizeH",
+        "pusPuwizetam",
+        "pusPuwizeta",
+        "pusPuwizeyam",
+        "pusPuwizeva",
+        "pusPuwizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "pusPuwizizIzwa",
+        "pusPuwizizIyAstAm",
+        "pusPuwizizIran",
+        "pusPuwizizIzWAH",
+        "pusPuwizizIyAsTAm",
+        "pusPuwizizIDvam",
+        "pusPuwizizIya",
+        "pusPuwizizIvahi",
+        "pusPuwizizImahi"
+      ],
+      "alang": [
+        "apusPuwizyata",
+        "apusPuwizyetAm",
+        "apusPuwizyanta",
+        "apusPuwizyaTAH",
+        "apusPuwizyeTAm",
+        "apusPuwizyaDvam",
+        "apusPuwizye",
+        "apusPuwizyAvahi",
+        "apusPuwizyAmahi"
+      ],
+      "alat": [
+        "pusPuwizyate",
+        "pusPuwizyete",
+        "pusPuwizyante",
+        "pusPuwizyase",
+        "pusPuwizyeTe",
+        "pusPuwizyaDve",
+        "pusPuwizye",
+        "pusPuwizyAvahe",
+        "pusPuwizyAmahe"
+      ],
+      "alit": [
+        "pusPuwizAYcakre",
+        "pusPuwizAmAse",
+        "pusPuwizAmbaBUve",
+        "pusPuwizAYcakrAte",
+        "pusPuwizAmAsAte",
+        "pusPuwizAmbaBUvAte",
+        "pusPuwizAYcakrire",
+        "pusPuwizAmAsire",
+        "pusPuwizAmbaBUvire",
+        "pusPuwizAYcakfze",
+        "pusPuwizAmAsize",
+        "pusPuwizAmbaBUvize",
+        "pusPuwizAYcakrATe",
+        "pusPuwizAmAsATe",
+        "pusPuwizAmbaBUvATe",
+        "pusPuwizAYcakfQve",
+        "pusPuwizAmAsiDve",
+        "pusPuwizAmbaBUviQve",
+        "pusPuwizAYcakre",
+        "pusPuwizAmAhe",
+        "pusPuwizAmbaBUve",
+        "pusPuwizAYcakfvahe",
+        "pusPuwizAmAsivahe",
+        "pusPuwizAmbaBUvivahe",
+        "pusPuwizAYcakfmahe",
+        "pusPuwizAmAsimahe",
+        "pusPuwizAmbaBUvimahe"
+      ],
+      "alot": [
+        "pusPuwizyatAm",
+        "pusPuwizyetAm",
+        "pusPuwizyantAm",
+        "pusPuwizyasva",
+        "pusPuwizyeTAm",
+        "pusPuwizyaDvam",
+        "pusPuwizyE",
+        "pusPuwizyAvahE",
+        "pusPuwizyAmahE"
+      ],
+      "alrung": [
+        "apusPuwizizyata",
+        "apusPuwizizyetAm",
+        "apusPuwizizyanta",
+        "apusPuwizizyaTAH",
+        "apusPuwizizyeTAm",
+        "apusPuwizizyaDvam",
+        "apusPuwizizye",
+        "apusPuwizizyAvahi",
+        "apusPuwizizyAmahi"
+      ],
+      "alrut": [
+        "pusPuwizizyate",
+        "pusPuwizizyete",
+        "pusPuwizizyante",
+        "pusPuwizizyase",
+        "pusPuwizizyeTe",
+        "pusPuwizizyaDve",
+        "pusPuwizizye",
+        "pusPuwizizyAvahe",
+        "pusPuwizizyAmahe"
+      ],
+      "alung": [
+        "apusPuwizi",
+        "apusPuwizizAtAm",
+        "apusPuwizizata",
+        "apusPuwizizWAH",
+        "apusPuwizizATAm",
+        "apusPuwiziDvam",
+        "apusPuwizizi",
+        "apusPuwizizvahi",
+        "apusPuwizizmahi"
+      ],
+      "alut": [
+        "pusPuwizitA",
+        "pusPuwizitArO",
+        "pusPuwizitAraH",
+        "pusPuwizitAse",
+        "pusPuwizitAsATe",
+        "pusPuwizitADve",
+        "pusPuwizitAhe",
+        "pusPuwizitAsvahe",
+        "pusPuwizitAsmahe"
+      ],
+      "avidhiling": [
+        "pusPuwizyeta",
+        "pusPuwizyeyAtAm",
+        "pusPuwizyeran",
+        "pusPuwizyeTAH",
+        "pusPuwizyeyATAm",
+        "pusPuwizyeDvam",
+        "pusPuwizyeya",
+        "pusPuwizyevahi",
+        "pusPuwizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "sPowayizIzwa",
+        "sPowayizIyAstAm",
+        "sPowayizIran",
+        "sPowayizIzWAH",
+        "sPowayizIyAsTAm",
+        "sPowayizIQvam",
+        "sPowayizIDvam",
+        "sPowayizIya",
+        "sPowayizIvahi",
+        "sPowayizImahi"
+      ],
+      "alang": [
+        "asPowayata",
+        "asPowayetAm",
+        "asPowayanta",
+        "asPowayaTAH",
+        "asPowayeTAm",
+        "asPowayaDvam",
+        "asPowaye",
+        "asPowayAvahi",
+        "asPowayAmahi"
+      ],
+      "alat": [
+        "sPowayate",
+        "sPowayete",
+        "sPowayante",
+        "sPowayase",
+        "sPowayeTe",
+        "sPowayaDve",
+        "sPowaye",
+        "sPowayAvahe",
+        "sPowayAmahe"
+      ],
+      "alit": [
+        "sPowayAYcakre",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakrAte",
+        "sPowayAmAsatuH",
+        "sPowayAmbaBUvatuH",
+        "sPowayAYcakrire",
+        "sPowayAmAsuH",
+        "sPowayAmbaBUvuH",
+        "sPowayAYcakfze",
+        "sPowayAmAsiTa",
+        "sPowayAmbaBUviTa",
+        "sPowayAYcakrATe",
+        "sPowayAmAsaTuH",
+        "sPowayAmbaBUvaTuH",
+        "sPowayAYcakfQve",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakre",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakfvahe",
+        "sPowayAmAsiva",
+        "sPowayAmbaBUviva",
+        "sPowayAYcakfmahe",
+        "sPowayAmAsima",
+        "sPowayAmbaBUvima"
+      ],
+      "alot": [
+        "sPowayatAm",
+        "sPowayetAm",
+        "sPowayantAm",
+        "sPowayasva",
+        "sPowayeTAm",
+        "sPowayaDvam",
+        "sPowayE",
+        "sPowayAvahE",
+        "sPowayAmahE"
+      ],
+      "alrung": [
+        "asPowayizyata",
+        "asPowayizyetAm",
+        "asPowayizyanta",
+        "asPowayizyaTAH",
+        "asPowayizyeTAm",
+        "asPowayizyaDvam",
+        "asPowayizye",
+        "asPowayizyAvahi",
+        "asPowayizyAmahi"
+      ],
+      "alrut": [
+        "sPowayizyate",
+        "sPowayizyete",
+        "sPowayizyante",
+        "sPowayizyase",
+        "sPowayizyeTe",
+        "sPowayizyaDve",
+        "sPowayizye",
+        "sPowayizyAvahe",
+        "sPowayizyAmahe"
+      ],
+      "alung": [
+        "apusPuwata",
+        "apusPuwetAm",
+        "apusPuwanta",
+        "apusPuwaTAH",
+        "apusPuweTAm",
+        "apusPuwaDvam",
+        "apusPuwe",
+        "apusPuwAvahi",
+        "apusPuwAmahi"
+      ],
+      "alut": [
+        "sPowayitA",
+        "sPowayitArO",
+        "sPowayitAraH",
+        "sPowayitAse",
+        "sPowayitAsATe",
+        "sPowayitADve",
+        "sPowayitAhe",
+        "sPowayitAsvahe",
+        "sPowayitAsmahe"
+      ],
+      "avidhiling": [
+        "sPowayeta",
+        "sPowayeyAtAm",
+        "sPowayeran",
+        "sPowayeTAH",
+        "sPowayeyATAm",
+        "sPowayeDvam",
+        "sPowayeya",
+        "sPowayevahi",
+        "sPowayemahi"
+      ],
+      "pashirling": [
+        "sPowyAt",
+        "sPowyAd",
+        "sPowyAstAm",
+        "sPowyAsuH",
+        "sPowyAH",
+        "sPowyAstam",
+        "sPowyAsta",
+        "sPowyAsam",
+        "sPowyAsva",
+        "sPowyAsma"
+      ],
+      "plang": [
+        "asPowayat",
+        "asPowayad",
+        "asPowayatAm",
+        "asPowayan",
+        "asPowayaH",
+        "asPowayatam",
+        "asPowayata",
+        "asPowayam",
+        "asPowayAva",
+        "asPowayAma"
+      ],
+      "plat": [
+        "sPowayati",
+        "sPowayataH",
+        "sPowayanti",
+        "sPowayasi",
+        "sPowayaTaH",
+        "sPowayaTa",
+        "sPowayAmi",
+        "sPowayAvaH",
+        "sPowayAmaH"
+      ],
+      "plit": [
+        "sPowayAYcakAra",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakratuH",
+        "sPowayAmAsatuH",
+        "sPowayAmbaBUvatuH",
+        "sPowayAYcakruH",
+        "sPowayAmAsuH",
+        "sPowayAmbaBUvuH",
+        "sPowayAYcakarTa",
+        "sPowayAmAsiTa",
+        "sPowayAmbaBUviTa",
+        "sPowayAYcakraTuH",
+        "sPowayAmAsaTuH",
+        "sPowayAmbaBUvaTuH",
+        "sPowayAYcakra",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakara",
+        "sPowayAYcakAra",
+        "sPowayAmAsa",
+        "sPowayAmbaBUva",
+        "sPowayAYcakfva",
+        "sPowayAmAsiva",
+        "sPowayAmbaBUviva",
+        "sPowayAYcakfma",
+        "sPowayAmAsima",
+        "sPowayAmbaBUvima"
+      ],
+      "plot": [
+        "sPowayatAt",
+        "sPowayatAd",
+        "sPowayatu",
+        "sPowayatAm",
+        "sPowayantu",
+        "sPowaya",
+        "sPowayatAt",
+        "sPowayatAd",
+        "sPowayatam",
+        "sPowayata",
+        "sPowayAni",
+        "sPowayAva",
+        "sPowayAma"
+      ],
+      "plrung": [
+        "asPowayizyat",
+        "asPowayizyad",
+        "asPowayizyatAm",
+        "asPowayizyan",
+        "asPowayizyaH",
+        "asPowayizyatam",
+        "asPowayizyata",
+        "asPowayizyam",
+        "asPowayizyAva",
+        "asPowayizyAma"
+      ],
+      "plrut": [
+        "sPowayizyati",
+        "sPowayizyataH",
+        "sPowayizyanti",
+        "sPowayizyasi",
+        "sPowayizyaTaH",
+        "sPowayizyaTa",
+        "sPowayizyAmi",
+        "sPowayizyAvaH",
+        "sPowayizyAmaH"
+      ],
+      "plung": [
+        "apusPuwat",
+        "apusPuwad",
+        "apusPuwatAm",
+        "apusPuwan",
+        "apusPuwaH",
+        "apusPuwatam",
+        "apusPuwata",
+        "apusPuwam",
+        "apusPuwAva",
+        "apusPuwAma"
+      ],
+      "plut": [
+        "sPowayitA",
+        "sPowayitArO",
+        "sPowayitAraH",
+        "sPowayitAsi",
+        "sPowayitAsTaH",
+        "sPowayitAsTa",
+        "sPowayitAsmi",
+        "sPowayitAsvaH",
+        "sPowayitAsmaH"
+      ],
+      "pvidhiling": [
+        "sPowayet",
+        "sPowayed",
+        "sPowayetAm",
+        "sPowayeyuH",
+        "sPowayeH",
+        "sPowayetam",
+        "sPowayeta",
+        "sPowayeyam",
+        "sPowayeva",
+        "sPowayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "sPowayizIzwa",
+        "sPowizIzwa",
+        "sPowayizIyAstAm",
+        "sPowizIyAstAm",
+        "sPowayizIran",
+        "sPowizIran",
+        "sPowayizIzWAH",
+        "sPowizIzWAH",
+        "sPowayizIyAsTAm",
+        "sPowizIyAsTAm",
+        "sPowayizIQvam",
+        "sPowayizIDvam",
+        "sPowizIDvam",
+        "sPowayizIya",
+        "sPowizIya",
+        "sPowayizIvahi",
+        "sPowizIvahi",
+        "sPowayizImahi",
+        "sPowizImahi"
+      ],
+      "alang": [
+        "asPowyata",
+        "asPowyetAm",
+        "asPowyanta",
+        "asPowyaTAH",
+        "asPowyeTAm",
+        "asPowyaDvam",
+        "asPowye",
+        "asPowyAvahi",
+        "asPowyAmahi"
+      ],
+      "alat": [
+        "sPowyate",
+        "sPowyete",
+        "sPowyante",
+        "sPowyase",
+        "sPowyeTe",
+        "sPowyaDve",
+        "sPowye",
+        "sPowyAvahe",
+        "sPowyAmahe"
+      ],
+      "alit": [
+        "sPowayAYcakre",
+        "sPowayAmAse",
+        "sPowayAmbaBUve",
+        "sPowayAYcakrAte",
+        "sPowayAmAsAte",
+        "sPowayAmbaBUvAte",
+        "sPowayAYcakrire",
+        "sPowayAmAsire",
+        "sPowayAmbaBUvire",
+        "sPowayAYcakfze",
+        "sPowayAmAsize",
+        "sPowayAmbaBUvize",
+        "sPowayAYcakrATe",
+        "sPowayAmAsATe",
+        "sPowayAmbaBUvATe",
+        "sPowayAYcakfQve",
+        "sPowayAmAsiDve",
+        "sPowayAmbaBUviQve",
+        "sPowayAYcakre",
+        "sPowayAmAhe",
+        "sPowayAmbaBUve",
+        "sPowayAYcakfvahe",
+        "sPowayAmAsivahe",
+        "sPowayAmbaBUvivahe",
+        "sPowayAYcakfmahe",
+        "sPowayAmAsimahe",
+        "sPowayAmbaBUvimahe"
+      ],
+      "alot": [
+        "sPowyatAm",
+        "sPowyetAm",
+        "sPowyantAm",
+        "sPowyasva",
+        "sPowyeTAm",
+        "sPowyaDvam",
+        "sPowyE",
+        "sPowyAvahE",
+        "sPowyAmahE"
+      ],
+      "alrung": [
+        "asPowayizyata",
+        "asPowizyata",
+        "asPowayizyetAm",
+        "asPowizyetAm",
+        "asPowayizyanta",
+        "asPowizyanta",
+        "asPowayizyaTAH",
+        "asPowizyaTAH",
+        "asPowayizyeTAm",
+        "asPowizyeTAm",
+        "asPowayizyaDvam",
+        "asPowizyaDvam",
+        "asPowayizye",
+        "asPowizye",
+        "asPowayizyAvahi",
+        "asPowizyAvahi",
+        "asPowayizyAmahi",
+        "asPowizyAmahi"
+      ],
+      "alrut": [
+        "sPowayizyate",
+        "sPowizyate",
+        "sPowayizyete",
+        "sPowizyete",
+        "sPowayizyante",
+        "sPowizyante",
+        "sPowayizyase",
+        "sPowizyase",
+        "sPowayizyeTe",
+        "sPowizyeTe",
+        "sPowayizyaDve",
+        "sPowizyaDve",
+        "sPowayizye",
+        "sPowizye",
+        "sPowayizyAvahe",
+        "sPowizyAvahe",
+        "sPowayizyAmahe",
+        "sPowizyAmahe"
+      ],
+      "alung": [
+        "asPowi",
+        "asPowayizAtAm",
+        "asPowizAtAm",
+        "asPowayizata",
+        "asPowizata",
+        "asPowayizWAH",
+        "asPowizWAH",
+        "asPowayizATAm",
+        "asPowizATAm",
+        "asPowayiQvam",
+        "asPowayiDvam",
+        "asPowiDvam",
+        "asPowayizi",
+        "asPowizi",
+        "asPowayizvahi",
+        "asPowizvahi",
+        "asPowayizmahi",
+        "asPowizmahi"
+      ],
+      "alut": [
+        "sPowayitA",
+        "sPowitA",
+        "sPowayitArO",
+        "sPowitArO",
+        "sPowayitAraH",
+        "sPowitAraH",
+        "sPowayitAse",
+        "sPowitAse",
+        "sPowayitAsATe",
+        "sPowitAsATe",
+        "sPowayitADve",
+        "sPowitADve",
+        "sPowayitAhe",
+        "sPowitAhe",
+        "sPowayitAsvahe",
+        "sPowitAsvahe",
+        "sPowayitAsmahe",
+        "sPowitAsmahe"
+      ],
+      "avidhiling": [
+        "sPowyeta",
+        "sPowyeyAtAm",
+        "sPowyeran",
+        "sPowyeTAH",
+        "sPowyeyATAm",
+        "sPowyeDvam",
+        "sPowyeya",
+        "sPowyevahi",
+        "sPowyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "posPuwizIzwa",
+        "posPuwizIyAstAm",
+        "posPuwizIran",
+        "posPuwizIzWAH",
+        "posPuwizIyAsTAm",
+        "posPuwizIDvam",
+        "posPuwizIya",
+        "posPuwizIvahi",
+        "posPuwizImahi"
+      ],
+      "alang": [
+        "aposPuwyata",
+        "aposPuwyetAm",
+        "aposPuwyanta",
+        "aposPuwyaTAH",
+        "aposPuwyeTAm",
+        "aposPuwyaDvam",
+        "aposPuwye",
+        "aposPuwyAvahi",
+        "aposPuwyAmahi"
+      ],
+      "alat": [
+        "posPuwyate",
+        "posPuwyete",
+        "posPuwyante",
+        "posPuwyase",
+        "posPuwyeTe",
+        "posPuwyaDve",
+        "posPuwye",
+        "posPuwyAvahe",
+        "posPuwyAmahe"
+      ],
+      "alit": [
+        "posPuwAYcakre",
+        "posPuwAmAsa",
+        "posPuwAmbaBUva",
+        "posPuwAYcakrAte",
+        "posPuwAmAsatuH",
+        "posPuwAmbaBUvatuH",
+        "posPuwAYcakrire",
+        "posPuwAmAsuH",
+        "posPuwAmbaBUvuH",
+        "posPuwAYcakfze",
+        "posPuwAmAsiTa",
+        "posPuwAmbaBUviTa",
+        "posPuwAYcakrATe",
+        "posPuwAmAsaTuH",
+        "posPuwAmbaBUvaTuH",
+        "posPuwAYcakfQve",
+        "posPuwAmAsa",
+        "posPuwAmbaBUva",
+        "posPuwAYcakre",
+        "posPuwAmAsa",
+        "posPuwAmbaBUva",
+        "posPuwAYcakfvahe",
+        "posPuwAmAsiva",
+        "posPuwAmbaBUviva",
+        "posPuwAYcakfmahe",
+        "posPuwAmAsima",
+        "posPuwAmbaBUvima"
+      ],
+      "alot": [
+        "posPuwyatAm",
+        "posPuwyetAm",
+        "posPuwyantAm",
+        "posPuwyasva",
+        "posPuwyeTAm",
+        "posPuwyaDvam",
+        "posPuwyE",
+        "posPuwyAvahE",
+        "posPuwyAmahE"
+      ],
+      "alrung": [
+        "aposPuwizyata",
+        "aposPuwizyetAm",
+        "aposPuwizyanta",
+        "aposPuwizyaTAH",
+        "aposPuwizyeTAm",
+        "aposPuwizyaDvam",
+        "aposPuwizye",
+        "aposPuwizyAvahi",
+        "aposPuwizyAmahi"
+      ],
+      "alrut": [
+        "posPuwizyate",
+        "posPuwizyete",
+        "posPuwizyante",
+        "posPuwizyase",
+        "posPuwizyeTe",
+        "posPuwizyaDve",
+        "posPuwizye",
+        "posPuwizyAvahe",
+        "posPuwizyAmahe"
+      ],
+      "alung": [
+        "aposPuwizwa",
+        "aposPuwizAtAm",
+        "aposPuwizata",
+        "aposPuwizWAH",
+        "aposPuwizATAm",
+        "aposPuwiDvam",
+        "aposPuwizi",
+        "aposPuwizvahi",
+        "aposPuwizmahi"
+      ],
+      "alut": [
+        "posPuwitA",
+        "posPuwitArO",
+        "posPuwitAraH",
+        "posPuwitAse",
+        "posPuwitAsATe",
+        "posPuwitADve",
+        "posPuwitAhe",
+        "posPuwitAsvahe",
+        "posPuwitAsmahe"
+      ],
+      "avidhiling": [
+        "posPuwyeta",
+        "posPuwyeyAtAm",
+        "posPuwyeran",
+        "posPuwyeTAH",
+        "posPuwyeyATAm",
+        "posPuwyeDvam",
+        "posPuwyeya",
+        "posPuwyevahi",
+        "posPuwyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "posPuwizIzwa",
+        "posPuwizIyAstAm",
+        "posPuwizIran",
+        "posPuwizIzWAH",
+        "posPuwizIyAsTAm",
+        "posPuwizIDvam",
+        "posPuwizIya",
+        "posPuwizIvahi",
+        "posPuwizImahi"
+      ],
+      "alang": [
+        "aposPuwyata",
+        "aposPuwyetAm",
+        "aposPuwyanta",
+        "aposPuwyaTAH",
+        "aposPuwyeTAm",
+        "aposPuwyaDvam",
+        "aposPuwye",
+        "aposPuwyAvahi",
+        "aposPuwyAmahi"
+      ],
+      "alat": [
+        "posPuwyate",
+        "posPuwyete",
+        "posPuwyante",
+        "posPuwyase",
+        "posPuwyeTe",
+        "posPuwyaDve",
+        "posPuwye",
+        "posPuwyAvahe",
+        "posPuwyAmahe"
+      ],
+      "alit": [
+        "posPuwAYcakre",
+        "posPuwAmAse",
+        "posPuwAmbaBUve",
+        "posPuwAYcakrAte",
+        "posPuwAmAsAte",
+        "posPuwAmbaBUvAte",
+        "posPuwAYcakrire",
+        "posPuwAmAsire",
+        "posPuwAmbaBUvire",
+        "posPuwAYcakfze",
+        "posPuwAmAsize",
+        "posPuwAmbaBUvize",
+        "posPuwAYcakrATe",
+        "posPuwAmAsATe",
+        "posPuwAmbaBUvATe",
+        "posPuwAYcakfQve",
+        "posPuwAmAsiDve",
+        "posPuwAmbaBUviQve",
+        "posPuwAYcakre",
+        "posPuwAmAhe",
+        "posPuwAmbaBUve",
+        "posPuwAYcakfvahe",
+        "posPuwAmAsivahe",
+        "posPuwAmbaBUvivahe",
+        "posPuwAYcakfmahe",
+        "posPuwAmAsimahe",
+        "posPuwAmbaBUvimahe"
+      ],
+      "alot": [
+        "posPuwyatAm",
+        "posPuwyetAm",
+        "posPuwyantAm",
+        "posPuwyasva",
+        "posPuwyeTAm",
+        "posPuwyaDvam",
+        "posPuwyE",
+        "posPuwyAvahE",
+        "posPuwyAmahE"
+      ],
+      "alrung": [
+        "aposPuwizyata",
+        "aposPuwizyetAm",
+        "aposPuwizyanta",
+        "aposPuwizyaTAH",
+        "aposPuwizyeTAm",
+        "aposPuwizyaDvam",
+        "aposPuwizye",
+        "aposPuwizyAvahi",
+        "aposPuwizyAmahi"
+      ],
+      "alrut": [
+        "posPuwizyate",
+        "posPuwizyete",
+        "posPuwizyante",
+        "posPuwizyase",
+        "posPuwizyeTe",
+        "posPuwizyaDve",
+        "posPuwizye",
+        "posPuwizyAvahe",
+        "posPuwizyAmahe"
+      ],
+      "alung": [
+        "aposPuwi",
+        "aposPuwizAtAm",
+        "aposPuwizata",
+        "aposPuwizWAH",
+        "aposPuwizATAm",
+        "aposPuwiDvam",
+        "aposPuwizi",
+        "aposPuwizvahi",
+        "aposPuwizmahi"
+      ],
+      "alut": [
+        "posPuwitA",
+        "posPuwitArO",
+        "posPuwitAraH",
+        "posPuwitAse",
+        "posPuwitAsATe",
+        "posPuwitADve",
+        "posPuwitAhe",
+        "posPuwitAsvahe",
+        "posPuwitAsmahe"
+      ],
+      "avidhiling": [
+        "posPuwyeta",
+        "posPuwyeyAtAm",
+        "posPuwyeran",
+        "posPuwyeTAH",
+        "posPuwyeyATAm",
+        "posPuwyeDvam",
+        "posPuwyeya",
+        "posPuwyevahi",
+        "posPuwyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "posPuwyAt",
+        "posPuwyAd",
+        "posPuwyAstAm",
+        "posPuwyAsuH",
+        "posPuwyAH",
+        "posPuwyAstam",
+        "posPuwyAsta",
+        "posPuwyAsam",
+        "posPuwyAsva",
+        "posPuwyAsma"
+      ],
+      "plang": [
+        "aposPuwIt",
+        "aposPuwId",
+        "aposPow",
+        "aposPoq",
+        "aposPuwwAm",
+        "aposPuwuH",
+        "aposPuwIH",
+        "aposPow",
+        "aposPoq",
+        "aposPuwwam",
+        "aposPuwwa",
+        "aposPuwam",
+        "aposPuwva",
+        "aposPuwma"
+      ],
+      "plat": [
+        "posPuwIti",
+        "posPowwi",
+        "posPuwwaH",
+        "posPuwati",
+        "posPuwIzi",
+        "posPowzi",
+        "posPuwWaH",
+        "posPuwWa",
+        "posPuwImi",
+        "posPowmi",
+        "posPuwvaH",
+        "posPuwmaH"
+      ],
+      "plit": [
+        "posPowAYcakAra",
+        "posPowAmAsa",
+        "posPowAmbaBUva",
+        "posPowAYcakratuH",
+        "posPowAmAsatuH",
+        "posPowAmbaBUvatuH",
+        "posPowAYcakruH",
+        "posPowAmAsuH",
+        "posPowAmbaBUvuH",
+        "posPowAYcakarTa",
+        "posPowAmAsiTa",
+        "posPowAmbaBUviTa",
+        "posPowAYcakraTuH",
+        "posPowAmAsaTuH",
+        "posPowAmbaBUvaTuH",
+        "posPowAYcakra",
+        "posPowAmAsa",
+        "posPowAmbaBUva",
+        "posPowAYcakara",
+        "posPowAYcakAra",
+        "posPowAmAsa",
+        "posPowAmbaBUva",
+        "posPowAYcakfva",
+        "posPowAmAsiva",
+        "posPowAmbaBUviva",
+        "posPowAYcakfma",
+        "posPowAmAsima",
+        "posPowAmbaBUvima"
+      ],
+      "plot": [
+        "posPuwItu",
+        "posPuwwAt",
+        "posPuwwAd",
+        "posPowwu",
+        "posPuwwAm",
+        "posPuwatu",
+        "posPuwwAt",
+        "posPuwwAd",
+        "posPuqQi",
+        "posPuwwam",
+        "posPuwwa",
+        "posPuwAni",
+        "posPuwAva",
+        "posPuwAma"
+      ],
+      "plrung": [
+        "aposPowizyat",
+        "aposPowizyad",
+        "aposPowizyatAm",
+        "aposPowizyan",
+        "aposPowizyaH",
+        "aposPowizyatam",
+        "aposPowizyata",
+        "aposPowizyam",
+        "aposPowizyAva",
+        "aposPowizyAma"
+      ],
+      "plrut": [
+        "posPowizyati",
+        "posPowizyataH",
+        "posPowizyanti",
+        "posPowizyasi",
+        "posPowizyaTaH",
+        "posPowizyaTa",
+        "posPowizyAmi",
+        "posPowizyAvaH",
+        "posPowizyAmaH"
+      ],
+      "plung": [
+        "aposPowIt",
+        "aposPowId",
+        "aposPowizwAm",
+        "aposPowizuH",
+        "aposPowIH",
+        "aposPowizwam",
+        "aposPowizwa",
+        "aposPowizam",
+        "aposPowizva",
+        "aposPowizma"
+      ],
+      "plut": [
+        "posPowitA",
+        "posPowitArO",
+        "posPowitAraH",
+        "posPowitAsi",
+        "posPowitAsTaH",
+        "posPowitAsTa",
+        "posPowitAsmi",
+        "posPowitAsvaH",
+        "posPowitAsmaH"
+      ],
+      "pvidhiling": [
+        "posPuwyAt",
+        "posPuwyAd",
+        "posPuwyAtAm",
+        "posPuwyuH",
+        "posPuwyAH",
+        "posPuwyAtam",
+        "posPuwyAta",
+        "posPuwyAm",
+        "posPuwyAva",
+        "posPuwyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "posPowizIzwa",
+        "posPowizIyAstAm",
+        "posPowizIran",
+        "posPowizIzWAH",
+        "posPowizIyAsTAm",
+        "posPowizIDvam",
+        "posPowizIya",
+        "posPowizIvahi",
+        "posPowizImahi"
+      ],
+      "alang": [
+        "aposPuwyata",
+        "aposPuwyetAm",
+        "aposPuwyanta",
+        "aposPuwyaTAH",
+        "aposPuwyeTAm",
+        "aposPuwyaDvam",
+        "aposPuwye",
+        "aposPuwyAvahi",
+        "aposPuwyAmahi"
+      ],
+      "alat": [
+        "posPuwyate",
+        "posPuwyete",
+        "posPuwyante",
+        "posPuwyase",
+        "posPuwyeTe",
+        "posPuwyaDve",
+        "posPuwye",
+        "posPuwyAvahe",
+        "posPuwyAmahe"
+      ],
+      "alit": [
+        "posPowAYcakre",
+        "posPowAmAse",
+        "posPowAmbaBUve",
+        "posPowAYcakrAte",
+        "posPowAmAsAte",
+        "posPowAmbaBUvAte",
+        "posPowAYcakrire",
+        "posPowAmAsire",
+        "posPowAmbaBUvire",
+        "posPowAYcakfze",
+        "posPowAmAsize",
+        "posPowAmbaBUvize",
+        "posPowAYcakrATe",
+        "posPowAmAsATe",
+        "posPowAmbaBUvATe",
+        "posPowAYcakfQve",
+        "posPowAmAsiDve",
+        "posPowAmbaBUviQve",
+        "posPowAYcakre",
+        "posPowAmAhe",
+        "posPowAmbaBUve",
+        "posPowAYcakfvahe",
+        "posPowAmAsivahe",
+        "posPowAmbaBUvivahe",
+        "posPowAYcakfmahe",
+        "posPowAmAsimahe",
+        "posPowAmbaBUvimahe"
+      ],
+      "alot": [
+        "posPuwyatAm",
+        "posPuwyetAm",
+        "posPuwyantAm",
+        "posPuwyasva",
+        "posPuwyeTAm",
+        "posPuwyaDvam",
+        "posPuwyE",
+        "posPuwyAvahE",
+        "posPuwyAmahE"
+      ],
+      "alrung": [
+        "aposPowizyata",
+        "aposPowizyetAm",
+        "aposPowizyanta",
+        "aposPowizyaTAH",
+        "aposPowizyeTAm",
+        "aposPowizyaDvam",
+        "aposPowizye",
+        "aposPowizyAvahi",
+        "aposPowizyAmahi"
+      ],
+      "alrut": [
+        "posPowizyate",
+        "posPowizyete",
+        "posPowizyante",
+        "posPowizyase",
+        "posPowizyeTe",
+        "posPowizyaDve",
+        "posPowizye",
+        "posPowizyAvahe",
+        "posPowizyAmahe"
+      ],
+      "alung": [
+        "aposPowi",
+        "aposPowizAtAm",
+        "aposPowizata",
+        "aposPowizWAH",
+        "aposPowizATAm",
+        "aposPowiDvam",
+        "aposPowizi",
+        "aposPowizvahi",
+        "aposPowizmahi"
+      ],
+      "alut": [
+        "posPowitA",
+        "posPowitArO",
+        "posPowitAraH",
+        "posPowitAse",
+        "posPowitAsATe",
+        "posPowitADve",
+        "posPowitAhe",
+        "posPowitAsvahe",
+        "posPowitAsmahe"
+      ],
+      "avidhiling": [
+        "posPuwyeta",
+        "posPuwyeyAtAm",
+        "posPuwyeran",
+        "posPuwyeTAH",
+        "posPuwyeyATAm",
+        "posPuwyeDvam",
+        "posPuwyeya",
+        "posPuwyevahi",
+        "posPuwyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "sPuwanIya",
+          "m": "sPuwanIyaH",
+          "f": "sPuwanIyA",
+          "n": "sPuwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sPuwita",
+          "m": "sPuwitaH",
+          "f": "sPuwitA",
+          "n": "sPuwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sPuwitavat",
+          "m": "sPuwitavAn",
+          "f": "sPuwitavatI",
+          "n": "sPuwitavat/sPuwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sPuwwi",
+          "m": "",
+          "f": "sPuwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sPuwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pusPuwvas",
+          "m": "pusPuwvAn",
+          "f": "pusPuwuzI",
+          "n": "pusPuwvat/pusPuwvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sPowa",
+          "m": "sPowaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sPuwamAna",
+          "m": "sPuwamAnaH",
+          "f": "sPuwamAnA",
+          "n": "sPuwamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sPowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "sPowya",
+          "m": "sPowyaH",
+          "f": "sPowyA",
+          "n": "sPowyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sPowaka",
+          "m": "sPowakaH",
+          "f": "sPowikA",
+          "n": "sPowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sPuwitavya",
+          "m": "sPuwitavyaH",
+          "f": "sPuwitavyA",
+          "n": "sPuwitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sPuwitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sPuwitf",
+          "m": "sPuwitA",
+          "f": "sPuwitrI",
+          "n": "sPuwitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sPuwyamAna",
+          "m": "sPuwyamAnaH",
+          "f": "sPuwyamAnA",
+          "n": "sPuwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasPuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sPuwana",
+          "m": "",
+          "f": "",
+          "n": "sPuwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sPuwaka",
+          "m": "sPuwakaH",
+          "f": "sPuwikA",
+          "n": "sPuwakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sPuwat",
+          "m": "sPuwan",
+          "f": "sPuwatI/sPuwantI",
+          "n": "sPuwat/sPuwad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sPuwizyamARa",
+          "m": "sPuwizyamARaH",
+          "f": "sPuwizyamARA",
+          "n": "sPuwizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sPuwizyat",
+          "m": "sPuwizyan",
+          "f": "sPuwizyatI/sPuwizyantI",
+          "n": "sPuwizyat/sPuwizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "pusPuwizA",
+          "m": "",
+          "f": "pusPuwizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pusPuwiza",
+          "m": "pusPuwizaH",
+          "f": "pusPuwizA",
+          "n": "pusPuwizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pusPuwizaRIya",
+          "m": "pusPuwizaRIyaH",
+          "f": "pusPuwizaRIyA",
+          "n": "pusPuwizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "pusPuwizu",
+          "m": "pusPuwizuH",
+          "f": "pusPuwizuH",
+          "n": "pusPuwizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pusPuwizita",
+          "m": "pusPuwizitaH",
+          "f": "pusPuwizitA",
+          "n": "pusPuwizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pusPuwizitavat",
+          "m": "pusPuwizitavAn",
+          "f": "pusPuwizitavatI",
+          "n": "pusPuwizitavat/pusPuwizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pusPuwizwi",
+          "m": "",
+          "f": "pusPuwizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pusPuwizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pusPuwizAmbaBUvas",
+          "m": "pusPuwizAmbaBUvAn",
+          "f": "pusPuwizAmbaBUzI",
+          "n": "pusPuwizAmbaBUvat/pusPuwizAmbaBUvad"
+        },
+        {
+          "base": "pusPuwizAmAsivas",
+          "m": "pusPuwizAmAsivAn",
+          "f": "pusPuwizAmAsyuzI",
+          "n": "pusPuwizAmAsivat/pusPuwizAmAsivad"
+        },
+        {
+          "base": "pusPuwizAYcakfvas",
+          "m": "pusPuwizAYcakfvAn",
+          "f": "pusPuwizAYcakruzI",
+          "n": "pusPuwizAYcakfvat/pusPuwizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pusPuwiza",
+          "m": "pusPuwizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pusPuwizamARa",
+          "m": "pusPuwizamARaH",
+          "f": "pusPuwizamARA",
+          "n": "pusPuwizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pusPuwizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pusPuwizaka",
+          "m": "pusPuwizakaH",
+          "f": "pusPuwizikA",
+          "n": "pusPuwizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pusPuwizitavya",
+          "m": "pusPuwizitavyaH",
+          "f": "pusPuwizitavyA",
+          "n": "pusPuwizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pusPuwizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pusPuwizitf",
+          "m": "pusPuwizitA",
+          "f": "pusPuwizitrI",
+          "n": "pusPuwizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pusPuwizyamARa",
+          "m": "pusPuwizyamARaH",
+          "f": "pusPuwizyamARA",
+          "n": "pusPuwizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pusPuwizya",
+          "m": "pusPuwizyaH",
+          "f": "pusPuwizyA",
+          "n": "pusPuwizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapusPuwizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pusPuwizaRa",
+          "m": "",
+          "f": "",
+          "n": "pusPuwizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pusPuwizaka",
+          "m": "pusPuwizakaH",
+          "f": "pusPuwizikA",
+          "n": "pusPuwizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "pusPuwizat",
+          "m": "pusPuwizan",
+          "f": "pusPuwizantI",
+          "n": "pusPuwizat/pusPuwizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pusPuwizizyamARa",
+          "m": "pusPuwizizyamARaH",
+          "f": "pusPuwizizyamARA",
+          "n": "pusPuwizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "pusPuwizizyat",
+          "m": "pusPuwizizyan",
+          "f": "pusPuwizizyatI/pusPuwizizyantI",
+          "n": "pusPuwizizyat/pusPuwizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "sPowa",
+          "m": "sPowaH",
+          "f": "sPowA",
+          "n": "sPowam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sPowanIya",
+          "m": "sPowanIyaH",
+          "f": "sPowanIyA",
+          "n": "sPowanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sPowita",
+          "m": "sPowitaH",
+          "f": "sPowitA",
+          "n": "sPowitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sPowitavat",
+          "m": "sPowitavAn",
+          "f": "sPowitavatI",
+          "n": "sPowitavat/sPowitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sPowwi",
+          "m": "",
+          "f": "sPowwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sPowayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sPowayAmbaBUvas",
+          "m": "sPowayAmbaBUvAn",
+          "f": "sPowayAmbaBUzI",
+          "n": "sPowayAmbaBUvat/sPowayAmbaBUvad"
+        },
+        {
+          "base": "sPowayAmAsivas",
+          "m": "sPowayAmAsivAn",
+          "f": "sPowayAmAsyuzI",
+          "n": "sPowayAmAsivat/sPowayAmAsivad"
+        },
+        {
+          "base": "sPowayAYcakfvas",
+          "m": "sPowayAYcakfvAn",
+          "f": "sPowayAYcakruzI",
+          "n": "sPowayAYcakfvat/sPowayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sPowayamAna",
+          "m": "sPowayamAnaH",
+          "f": "sPowayamAnA",
+          "n": "sPowayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sPowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sPowaka",
+          "m": "sPowakaH",
+          "f": "sPowikA",
+          "n": "sPowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sPowayitavya",
+          "m": "sPowayitavyaH",
+          "f": "sPowayitavyA",
+          "n": "sPowayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sPowayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sPowayitf",
+          "m": "sPowayitA",
+          "f": "sPowayitrI",
+          "n": "sPowayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sPowyamAna",
+          "m": "sPowyamAnaH",
+          "f": "sPowyamAnA",
+          "n": "sPowyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sPowya",
+          "m": "sPowyaH",
+          "f": "sPowyA",
+          "n": "sPowyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasPowya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sPowana",
+          "m": "",
+          "f": "",
+          "n": "sPowanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sPowaka",
+          "m": "sPowakaH",
+          "f": "sPowikA",
+          "n": "sPowakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sPowayat",
+          "m": "sPowayan",
+          "f": "sPowayantI",
+          "n": "sPowayat/sPowayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sPowayamAna",
+          "m": "sPowayamAnaH",
+          "f": "sPowayamAnA",
+          "n": "sPowayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sPowizyamARa",
+          "m": "sPowizyamARaH",
+          "f": "sPowizyamARA",
+          "n": "sPowizyamARam"
+        },
+        {
+          "base": "sPowayizyamARa",
+          "m": "sPowayizyamARaH",
+          "f": "sPowayizyamARA",
+          "n": "sPowayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sPowayizyat",
+          "m": "sPowayizyan",
+          "f": "sPowayizyatI/sPowayizyantI",
+          "n": "sPowayizyat/sPowayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sPowayizyamARa",
+          "m": "sPowayizyamARaH",
+          "f": "sPowayizyamARA",
+          "n": "sPowayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "posPuwA",
+          "m": "",
+          "f": "posPuwA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "posPuwa",
+          "m": "posPuwaH",
+          "f": "posPuwA",
+          "n": "posPuwam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "posPuwanIya",
+          "m": "posPuwanIyaH",
+          "f": "posPuwanIyA",
+          "n": "posPuwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "posPuwita",
+          "m": "posPuwitaH",
+          "f": "posPuwitA",
+          "n": "posPuwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "posPuwitavat",
+          "m": "posPuwitavAn",
+          "f": "posPuwitavatI",
+          "n": "posPuwitavat/posPuwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "posPuwwi",
+          "m": "",
+          "f": "posPuwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "posPuwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "posPuwAmbaBUvas",
+          "m": "posPuwAmbaBUvAn",
+          "f": "posPuwAmbaBUzI",
+          "n": "posPuwAmbaBUvat/posPuwAmbaBUvad"
+        },
+        {
+          "base": "posPuwAmAsivas",
+          "m": "posPuwAmAsivAn",
+          "f": "posPuwAmAsyuzI",
+          "n": "posPuwAmAsivat/posPuwAmAsivad"
+        },
+        {
+          "base": "posPuwAYcakfvas",
+          "m": "posPuwAYcakfvAn",
+          "f": "posPuwAYcakruzI",
+          "n": "posPuwAYcakfvat/posPuwAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "posPuwa",
+          "m": "posPuwaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "posPuwyamAna",
+          "m": "posPuwyamAnaH",
+          "f": "posPuwyamAnA",
+          "n": "posPuwyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "posPuwam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "posPuwaka",
+          "m": "posPuwakaH",
+          "f": "posPuwikA",
+          "n": "posPuwakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "posPuwitavya",
+          "m": "posPuwitavyaH",
+          "f": "posPuwitavyA",
+          "n": "posPuwitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "posPuwitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "posPuwitf",
+          "m": "posPuwitA",
+          "f": "posPuwitrI",
+          "n": "posPuwitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "posPuwyamAna",
+          "m": "posPuwyamAnaH",
+          "f": "posPuwyamAnA",
+          "n": "posPuwyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "posPuwya",
+          "m": "posPuwyaH",
+          "f": "posPuwyA",
+          "n": "posPuwyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praposPuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "posPuwana",
+          "m": "",
+          "f": "",
+          "n": "posPuwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "posPuwaka",
+          "m": "posPuwakaH",
+          "f": "posPuwikA",
+          "n": "posPuwakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "posPuwyamAna",
+          "m": "posPuwyamAnaH",
+          "f": "posPuwyamAnA",
+          "n": "posPuwyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "posPuwizyamARa",
+          "m": "posPuwizyamARaH",
+          "f": "posPuwizyamARA",
+          "n": "posPuwizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "posPuwizyamARa",
+          "m": "posPuwizyamARaH",
+          "f": "posPuwizyamARA",
+          "n": "posPuwizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "posPowA",
+          "m": "",
+          "f": "posPowA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "posPowa",
+          "m": "posPowaH",
+          "f": "posPowA",
+          "n": "posPowam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "posPowanIya",
+          "m": "posPowanIyaH",
+          "f": "posPowanIyA",
+          "n": "posPowanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "posPuwita",
+          "m": "posPuwitaH",
+          "f": "posPuwitA",
+          "n": "posPuwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "posPuwitavat",
+          "m": "posPuwitavAn",
+          "f": "posPuwitavatI",
+          "n": "posPuwitavat/posPuwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "posPuwwi",
+          "m": "",
+          "f": "posPuwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "posPowitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "posPowAmbaBUvas",
+          "m": "posPowAmbaBUvAn",
+          "f": "posPowAmbaBUzI",
+          "n": "posPowAmbaBUvat/posPowAmbaBUvad"
+        },
+        {
+          "base": "posPowAmAsivas",
+          "m": "posPowAmAsivAn",
+          "f": "posPowAmAsyuzI",
+          "n": "posPowAmAsivat/posPowAmAsivad"
+        },
+        {
+          "base": "posPowAYcakfvas",
+          "m": "posPowAYcakfvAn",
+          "f": "posPowAYcakruzI",
+          "n": "posPowAYcakfvat/posPowAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "posPowa",
+          "m": "posPowaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "posPuwAna",
+          "m": "posPuwAnaH",
+          "f": "posPuwAnA",
+          "n": "posPuwAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "posPowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "posPowaka",
+          "m": "posPowakaH",
+          "f": "posPowikA",
+          "n": "posPowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "posPowitavya",
+          "m": "posPowitavyaH",
+          "f": "posPowitavyA",
+          "n": "posPowitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "posPowitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "posPowitf",
+          "m": "posPowitA",
+          "f": "posPowitrI",
+          "n": "posPowitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "posPuwyamAna",
+          "m": "posPuwyamAnaH",
+          "f": "posPuwyamAnA",
+          "n": "posPuwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praposPuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "posPowana",
+          "m": "",
+          "f": "",
+          "n": "posPowanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "posPowaka",
+          "m": "posPowakaH",
+          "f": "posPowikA",
+          "n": "posPowakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "posPuwat",
+          "m": "posPuwat/posPuwad",
+          "f": "posPuwatI",
+          "n": "posPuwat/posPuwad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "posPowizyamARa",
+          "m": "posPowizyamARaH",
+          "f": "posPowizyamARA",
+          "n": "posPowizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "posPowizyat",
+          "m": "posPowizyan",
+          "f": "posPowizyatI/posPowizyantI",
+          "n": "posPowizyat/posPowizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "sPuw",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "pra",
+      "examples": [
+        "'nagAnAM prAsPuwan kumBAH' (BA॰karRa॰22.24). aBidyantetyarTaH."
+      ]
+    },
+    {
+      "prefix": "AN",
+      "examples": [
+        "'AsPowayattaTA''kASe DarmaH prApto mayeti vE' (BA0 SAM0 261.41). bAhuSabdamakarodityarTaH",
+        "'DfzwamAsPowayAmAsa laNkAM Sabdena pUrayan' (rA0 5.43.6). AsPowayAmAsa kzoBayAmAsa.",
+        "'tasyAsPowitaSabdena mahatA SrotrapAtinA. peturvihaNgamAstatra cEtyapAlASca mohitAH' (rA0 5.4.7) .. AsPowitam bAhutAqanaSabdaH.",
+        "'valgitAsPowitotkruzwEH ' (BA0 droRa0 80.41). AsPowitaM BujAqambaraH."
+      ]
+    }
+  ],
+  "prayoga": [],
+  "upasarga_forms": {
+    "pra": {
+      "prefix": "pra",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "pashirling": [
+            "prasPuwyAt",
+            "prasPuwyAd",
+            "prasPuwyAstAm",
+            "prasPuwyAsuH",
+            "prasPuwyAH",
+            "prasPuwyAstam",
+            "prasPuwyAsta",
+            "prasPuwyAsam",
+            "prasPuwyAsva",
+            "prasPuwyAsma"
+          ],
+          "plang": [
+            "prAsPuwat",
+            "prAsPuwad",
+            "prAsPuwatAm",
+            "prAsPuwan",
+            "prAsPuwaH",
+            "prAsPuwatam",
+            "prAsPuwata",
+            "prAsPuwam",
+            "prAsPuwAva",
+            "prAsPuwAma"
+          ],
+          "plat": [
+            "prasPuwati",
+            "prasPuwataH",
+            "prasPuwanti",
+            "prasPuwasi",
+            "prasPuwaTaH",
+            "prasPuwaTa",
+            "prasPuwAmi",
+            "prasPuwAvaH",
+            "prasPuwAmaH"
+          ],
+          "plit": [
+            "prapusPowa",
+            "prapusPuwatuH",
+            "prapusPuwuH",
+            "prapusPuwiTa",
+            "prapusPuwaTuH",
+            "prapusPuwa",
+            "prapusPuwa",
+            "prapusPowa",
+            "prapusPuwiva",
+            "prapusPuwima"
+          ],
+          "plot": [
+            "prasPuwatAt",
+            "prasPuwatAd",
+            "prasPuwatu",
+            "prasPuwatAm",
+            "prasPuwantu",
+            "prasPuwatAt",
+            "prasPuwatAd",
+            "prasPuwa",
+            "prasPuwatam",
+            "prasPuwata",
+            "prasPuwAni",
+            "prasPuwAva",
+            "prasPuwAma"
+          ],
+          "plrung": [
+            "prAsPuwizyat",
+            "prAsPuwizyad",
+            "prAsPuwizyatAm",
+            "prAsPuwizyan",
+            "prAsPuwizyaH",
+            "prAsPuwizyatam",
+            "prAsPuwizyata",
+            "prAsPuwizyam",
+            "prAsPuwizyAva",
+            "prAsPuwizyAma"
+          ],
+          "plrut": [
+            "prasPuwizyati",
+            "prasPuwizyataH",
+            "prasPuwizyanti",
+            "prasPuwizyasi",
+            "prasPuwizyaTaH",
+            "prasPuwizyaTa",
+            "prasPuwizyAmi",
+            "prasPuwizyAvaH",
+            "prasPuwizyAmaH"
+          ],
+          "plung": [
+            "prAsPuwIt",
+            "prAsPuwId",
+            "prAsPuwizwAm",
+            "prAsPuwizuH",
+            "prAsPuwIH",
+            "prAsPuwizwam",
+            "prAsPuwizwa",
+            "prAsPuwizam",
+            "prAsPuwizva",
+            "prAsPuwizma"
+          ],
+          "plut": [
+            "prasPuwitA",
+            "prasPuwitArO",
+            "prasPuwitAraH",
+            "prasPuwitAsi",
+            "prasPuwitAsTaH",
+            "prasPuwitAsTa",
+            "prasPuwitAsmi",
+            "prasPuwitAsvaH",
+            "prasPuwitAsmaH"
+          ],
+          "pvidhiling": [
+            "prasPuwet",
+            "prasPuwed",
+            "prasPuwetAm",
+            "prasPuweyuH",
+            "prasPuweH",
+            "prasPuwetam",
+            "prasPuweta",
+            "prasPuweyam",
+            "prasPuweva",
+            "prasPuwema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "prasPuwizIzwa",
+            "prasPuwizIyAstAm",
+            "prasPuwizIran",
+            "prasPuwizIzWAH",
+            "prasPuwizIyAsTAm",
+            "prasPuwizIDvam",
+            "prasPuwizIya",
+            "prasPuwizIvahi",
+            "prasPuwizImahi"
+          ],
+          "alang": [
+            "prAsPuwyata",
+            "prAsPuwyetAm",
+            "prAsPuwyanta",
+            "prAsPuwyaTAH",
+            "prAsPuwyeTAm",
+            "prAsPuwyaDvam",
+            "prAsPuwye",
+            "prAsPuwyAvahi",
+            "prAsPuwyAmahi"
+          ],
+          "alat": [
+            "prasPuwyate",
+            "prasPuwyete",
+            "prasPuwyante",
+            "prasPuwyase",
+            "prasPuwyeTe",
+            "prasPuwyaDve",
+            "prasPuwye",
+            "prasPuwyAvahe",
+            "prasPuwyAmahe"
+          ],
+          "alit": [
+            "prapusPuwe",
+            "prapusPuwAte",
+            "prapusPuwire",
+            "prapusPuwize",
+            "prapusPuwATe",
+            "prapusPuwiDve",
+            "prapusPuwe",
+            "prapusPuwivahe",
+            "prapusPuwimahe"
+          ],
+          "alot": [
+            "prasPuwyatAm",
+            "prasPuwyetAm",
+            "prasPuwyantAm",
+            "prasPuwyasva",
+            "prasPuwyeTAm",
+            "prasPuwyaDvam",
+            "prasPuwyE",
+            "prasPuwyAvahE",
+            "prasPuwyAmahE"
+          ],
+          "alrung": [
+            "prAsPuwizyata",
+            "prAsPuwizyetAm",
+            "prAsPuwizyanta",
+            "prAsPuwizyaTAH",
+            "prAsPuwizyeTAm",
+            "prAsPuwizyaDvam",
+            "prAsPuwizye",
+            "prAsPuwizyAvahi",
+            "prAsPuwizyAmahi"
+          ],
+          "alrut": [
+            "prasPuwizyate",
+            "prasPuwizyete",
+            "prasPuwizyante",
+            "prasPuwizyase",
+            "prasPuwizyeTe",
+            "prasPuwizyaDve",
+            "prasPuwizye",
+            "prasPuwizyAvahe",
+            "prasPuwizyAmahe"
+          ],
+          "alung": [
+            "prAsPowi",
+            "prAsPuwizAtAm",
+            "prAsPuwizata",
+            "prAsPuwizWAH",
+            "prAsPuwizATAm",
+            "prAsPuwiDvam",
+            "prAsPuwizi",
+            "prAsPuwizvahi",
+            "prAsPuwizmahi"
+          ],
+          "alut": [
+            "prasPuwitA",
+            "prasPuwitArO",
+            "prasPuwitAraH",
+            "prasPuwitAse",
+            "prasPuwitAsATe",
+            "prasPuwitADve",
+            "prasPuwitAhe",
+            "prasPuwitAsvahe",
+            "prasPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "prasPuwyeta",
+            "prasPuwyeyAtAm",
+            "prasPuwyeran",
+            "prasPuwyeTAH",
+            "prasPuwyeyATAm",
+            "prasPuwyeDvam",
+            "prasPuwyeya",
+            "prasPuwyevahi",
+            "prasPuwyemahi"
+          ]
+        },
+        "san": {
+          "pashirling": [
+            "prapusPuwizyAt",
+            "prapusPuwizyAd",
+            "prapusPuwizyAstAm",
+            "prapusPuwizyAsuH",
+            "prapusPuwizyAH",
+            "prapusPuwizyAstam",
+            "prapusPuwizyAsta",
+            "prapusPuwizyAsam",
+            "prapusPuwizyAsva",
+            "prapusPuwizyAsma"
+          ],
+          "plang": [
+            "prApusPuwizat",
+            "prApusPuwizad",
+            "prApusPuwizatAm",
+            "prApusPuwizan",
+            "prApusPuwizaH",
+            "prApusPuwizatam",
+            "prApusPuwizata",
+            "prApusPuwizam",
+            "prApusPuwizAva",
+            "prApusPuwizAma"
+          ],
+          "plat": [
+            "prapusPuwizati",
+            "prapusPuwizataH",
+            "prapusPuwizanti",
+            "prapusPuwizasi",
+            "prapusPuwizaTaH",
+            "prapusPuwizaTa",
+            "prapusPuwizAmi",
+            "prapusPuwizAvaH",
+            "prapusPuwizAmaH"
+          ],
+          "plit": [
+            "prapusPuwizAmbaBUva",
+            "prapusPuwizAmAsa",
+            "prapusPuwizAYcakAra",
+            "prapusPuwizAmbaBUvatuH",
+            "prapusPuwizAmAsatuH",
+            "prapusPuwizAYcakratuH",
+            "prapusPuwizAmbaBUvuH",
+            "prapusPuwizAmAsuH",
+            "prapusPuwizAYcakruH",
+            "prapusPuwizAmbaBUviTa",
+            "prapusPuwizAmAsiTa",
+            "prapusPuwizAYcakarTa",
+            "prapusPuwizAmbaBUvaTuH",
+            "prapusPuwizAmAsaTuH",
+            "prapusPuwizAYcakraTuH",
+            "prapusPuwizAmbaBUva",
+            "prapusPuwizAmAsa",
+            "prapusPuwizAYcakra",
+            "prapusPuwizAmbaBUva",
+            "prapusPuwizAmAsa",
+            "prapusPuwizAYcakara",
+            "prapusPuwizAYcakAra",
+            "prapusPuwizAmbaBUviva",
+            "prapusPuwizAmAsiva",
+            "prapusPuwizAYcakfva",
+            "prapusPuwizAmbaBUvima",
+            "prapusPuwizAmAsima",
+            "prapusPuwizAYcakfma"
+          ],
+          "plot": [
+            "prapusPuwizatAt",
+            "prapusPuwizatAd",
+            "prapusPuwizatu",
+            "prapusPuwizatAm",
+            "prapusPuwizantu",
+            "prapusPuwizatAt",
+            "prapusPuwizatAd",
+            "prapusPuwiza",
+            "prapusPuwizatam",
+            "prapusPuwizata",
+            "prapusPuwizARi",
+            "prapusPuwizAva",
+            "prapusPuwizAma"
+          ],
+          "plrung": [
+            "prApusPuwizizyat",
+            "prApusPuwizizyad",
+            "prApusPuwizizyatAm",
+            "prApusPuwizizyan",
+            "prApusPuwizizyaH",
+            "prApusPuwizizyatam",
+            "prApusPuwizizyata",
+            "prApusPuwizizyam",
+            "prApusPuwizizyAva",
+            "prApusPuwizizyAma"
+          ],
+          "plrut": [
+            "prapusPuwizizyati",
+            "prapusPuwizizyataH",
+            "prapusPuwizizyanti",
+            "prapusPuwizizyasi",
+            "prapusPuwizizyaTaH",
+            "prapusPuwizizyaTa",
+            "prapusPuwizizyAmi",
+            "prapusPuwizizyAvaH",
+            "prapusPuwizizyAmaH"
+          ],
+          "plung": [
+            "prApusPuwizIt",
+            "prApusPuwizId",
+            "prApusPuwizizwAm",
+            "prApusPuwizizuH",
+            "prApusPuwizIH",
+            "prApusPuwizizwam",
+            "prApusPuwizizwa",
+            "prApusPuwizizam",
+            "prApusPuwizizva",
+            "prApusPuwizizma"
+          ],
+          "plut": [
+            "prapusPuwizitA",
+            "prapusPuwizitArO",
+            "prapusPuwizitAraH",
+            "prapusPuwizitAsi",
+            "prapusPuwizitAsTaH",
+            "prapusPuwizitAsTa",
+            "prapusPuwizitAsmi",
+            "prapusPuwizitAsvaH",
+            "prapusPuwizitAsmaH"
+          ],
+          "pvidhiling": [
+            "prapusPuwizet",
+            "prapusPuwized",
+            "prapusPuwizetAm",
+            "prapusPuwizeyuH",
+            "prapusPuwizeH",
+            "prapusPuwizetam",
+            "prapusPuwizeta",
+            "prapusPuwizeyam",
+            "prapusPuwizeva",
+            "prapusPuwizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "prapusPuwizizIzwa",
+            "prapusPuwizizIyAstAm",
+            "prapusPuwizizIran",
+            "prapusPuwizizIzWAH",
+            "prapusPuwizizIyAsTAm",
+            "prapusPuwizizIDvam",
+            "prapusPuwizizIya",
+            "prapusPuwizizIvahi",
+            "prapusPuwizizImahi"
+          ],
+          "alang": [
+            "prApusPuwizyata",
+            "prApusPuwizyetAm",
+            "prApusPuwizyanta",
+            "prApusPuwizyaTAH",
+            "prApusPuwizyeTAm",
+            "prApusPuwizyaDvam",
+            "prApusPuwizye",
+            "prApusPuwizyAvahi",
+            "prApusPuwizyAmahi"
+          ],
+          "alat": [
+            "prapusPuwizyate",
+            "prapusPuwizyete",
+            "prapusPuwizyante",
+            "prapusPuwizyase",
+            "prapusPuwizyeTe",
+            "prapusPuwizyaDve",
+            "prapusPuwizye",
+            "prapusPuwizyAvahe",
+            "prapusPuwizyAmahe"
+          ],
+          "alit": [
+            "prapusPuwizAmbaBUve",
+            "prapusPuwizAmAse",
+            "prapusPuwizAYcakre",
+            "prapusPuwizAmbaBUvAte",
+            "prapusPuwizAmAsAte",
+            "prapusPuwizAYcakrAte",
+            "prapusPuwizAmbaBUvire",
+            "prapusPuwizAmAsire",
+            "prapusPuwizAYcakrire",
+            "prapusPuwizAmbaBUvize",
+            "prapusPuwizAmAsize",
+            "prapusPuwizAYcakfze",
+            "prapusPuwizAmbaBUvATe",
+            "prapusPuwizAmAsATe",
+            "prapusPuwizAYcakrATe",
+            "prapusPuwizAmbaBUviQve",
+            "prapusPuwizAmAsiDve",
+            "prapusPuwizAYcakfQve",
+            "prapusPuwizAmbaBUve",
+            "prapusPuwizAmAhe",
+            "prapusPuwizAYcakre",
+            "prapusPuwizAmbaBUvivahe",
+            "prapusPuwizAmAsivahe",
+            "prapusPuwizAYcakfvahe",
+            "prapusPuwizAmbaBUvimahe",
+            "prapusPuwizAmAsimahe",
+            "prapusPuwizAYcakfmahe"
+          ],
+          "alot": [
+            "prapusPuwizyatAm",
+            "prapusPuwizyetAm",
+            "prapusPuwizyantAm",
+            "prapusPuwizyasva",
+            "prapusPuwizyeTAm",
+            "prapusPuwizyaDvam",
+            "prapusPuwizyE",
+            "prapusPuwizyAvahE",
+            "prapusPuwizyAmahE"
+          ],
+          "alrung": [
+            "prApusPuwizizyata",
+            "prApusPuwizizyetAm",
+            "prApusPuwizizyanta",
+            "prApusPuwizizyaTAH",
+            "prApusPuwizizyeTAm",
+            "prApusPuwizizyaDvam",
+            "prApusPuwizizye",
+            "prApusPuwizizyAvahi",
+            "prApusPuwizizyAmahi"
+          ],
+          "alrut": [
+            "prapusPuwizizyate",
+            "prapusPuwizizyete",
+            "prapusPuwizizyante",
+            "prapusPuwizizyase",
+            "prapusPuwizizyeTe",
+            "prapusPuwizizyaDve",
+            "prapusPuwizizye",
+            "prapusPuwizizyAvahe",
+            "prapusPuwizizyAmahe"
+          ],
+          "alung": [
+            "prApusPuwizi",
+            "prApusPuwizizAtAm",
+            "prApusPuwizizata",
+            "prApusPuwizizWAH",
+            "prApusPuwizizATAm",
+            "prApusPuwiziDvam",
+            "prApusPuwizizi",
+            "prApusPuwizizvahi",
+            "prApusPuwizizmahi"
+          ],
+          "alut": [
+            "prapusPuwizitA",
+            "prapusPuwizitArO",
+            "prapusPuwizitAraH",
+            "prapusPuwizitAse",
+            "prapusPuwizitAsATe",
+            "prapusPuwizitADve",
+            "prapusPuwizitAhe",
+            "prapusPuwizitAsvahe",
+            "prapusPuwizitAsmahe"
+          ],
+          "avidhiling": [
+            "prapusPuwizyeta",
+            "prapusPuwizyeyAtAm",
+            "prapusPuwizyeran",
+            "prapusPuwizyeTAH",
+            "prapusPuwizyeyATAm",
+            "prapusPuwizyeDvam",
+            "prapusPuwizyeya",
+            "prapusPuwizyevahi",
+            "prapusPuwizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "prasPowayizIzwa",
+            "prasPowayizIyAstAm",
+            "prasPowayizIran",
+            "prasPowayizIzWAH",
+            "prasPowayizIyAsTAm",
+            "prasPowayizIQvam",
+            "prasPowayizIDvam",
+            "prasPowayizIya",
+            "prasPowayizIvahi",
+            "prasPowayizImahi"
+          ],
+          "alang": [
+            "prAsPowayata",
+            "prAsPowayetAm",
+            "prAsPowayanta",
+            "prAsPowayaTAH",
+            "prAsPowayeTAm",
+            "prAsPowayaDvam",
+            "prAsPowaye",
+            "prAsPowayAvahi",
+            "prAsPowayAmahi"
+          ],
+          "alat": [
+            "prasPowayate",
+            "prasPowayete",
+            "prasPowayante",
+            "prasPowayase",
+            "prasPowayeTe",
+            "prasPowayaDve",
+            "prasPowaye",
+            "prasPowayAvahe",
+            "prasPowayAmahe"
+          ],
+          "alit": [
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakre",
+            "prasPowayAmbaBUvatuH",
+            "prasPowayAmAsatuH",
+            "prasPowayAYcakrAte",
+            "prasPowayAmbaBUvuH",
+            "prasPowayAmAsuH",
+            "prasPowayAYcakrire",
+            "prasPowayAmbaBUviTa",
+            "prasPowayAmAsiTa",
+            "prasPowayAYcakfze",
+            "prasPowayAmbaBUvaTuH",
+            "prasPowayAmAsaTuH",
+            "prasPowayAYcakrATe",
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakfQve",
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakre",
+            "prasPowayAmbaBUviva",
+            "prasPowayAmAsiva",
+            "prasPowayAYcakfvahe",
+            "prasPowayAmbaBUvima",
+            "prasPowayAmAsima",
+            "prasPowayAYcakfmahe"
+          ],
+          "alot": [
+            "prasPowayatAm",
+            "prasPowayetAm",
+            "prasPowayantAm",
+            "prasPowayasva",
+            "prasPowayeTAm",
+            "prasPowayaDvam",
+            "prasPowayE",
+            "prasPowayAvahE",
+            "prasPowayAmahE"
+          ],
+          "alrung": [
+            "prAsPowayizyata",
+            "prAsPowayizyetAm",
+            "prAsPowayizyanta",
+            "prAsPowayizyaTAH",
+            "prAsPowayizyeTAm",
+            "prAsPowayizyaDvam",
+            "prAsPowayizye",
+            "prAsPowayizyAvahi",
+            "prAsPowayizyAmahi"
+          ],
+          "alrut": [
+            "prasPowayizyate",
+            "prasPowayizyete",
+            "prasPowayizyante",
+            "prasPowayizyase",
+            "prasPowayizyeTe",
+            "prasPowayizyaDve",
+            "prasPowayizye",
+            "prasPowayizyAvahe",
+            "prasPowayizyAmahe"
+          ],
+          "alung": [
+            "prApusPuwata",
+            "prApusPuwetAm",
+            "prApusPuwanta",
+            "prApusPuwaTAH",
+            "prApusPuweTAm",
+            "prApusPuwaDvam",
+            "prApusPuwe",
+            "prApusPuwAvahi",
+            "prApusPuwAmahi"
+          ],
+          "alut": [
+            "prasPowayitA",
+            "prasPowayitArO",
+            "prasPowayitAraH",
+            "prasPowayitAse",
+            "prasPowayitAsATe",
+            "prasPowayitADve",
+            "prasPowayitAhe",
+            "prasPowayitAsvahe",
+            "prasPowayitAsmahe"
+          ],
+          "avidhiling": [
+            "prasPowayeta",
+            "prasPowayeyAtAm",
+            "prasPowayeran",
+            "prasPowayeTAH",
+            "prasPowayeyATAm",
+            "prasPowayeDvam",
+            "prasPowayeya",
+            "prasPowayevahi",
+            "prasPowayemahi"
+          ],
+          "pashirling": [
+            "prasPowyAt",
+            "prasPowyAd",
+            "prasPowyAstAm",
+            "prasPowyAsuH",
+            "prasPowyAH",
+            "prasPowyAstam",
+            "prasPowyAsta",
+            "prasPowyAsam",
+            "prasPowyAsva",
+            "prasPowyAsma"
+          ],
+          "plang": [
+            "prAsPowayat",
+            "prAsPowayad",
+            "prAsPowayatAm",
+            "prAsPowayan",
+            "prAsPowayaH",
+            "prAsPowayatam",
+            "prAsPowayata",
+            "prAsPowayam",
+            "prAsPowayAva",
+            "prAsPowayAma"
+          ],
+          "plat": [
+            "prasPowayati",
+            "prasPowayataH",
+            "prasPowayanti",
+            "prasPowayasi",
+            "prasPowayaTaH",
+            "prasPowayaTa",
+            "prasPowayAmi",
+            "prasPowayAvaH",
+            "prasPowayAmaH"
+          ],
+          "plit": [
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakAra",
+            "prasPowayAmbaBUvatuH",
+            "prasPowayAmAsatuH",
+            "prasPowayAYcakratuH",
+            "prasPowayAmbaBUvuH",
+            "prasPowayAmAsuH",
+            "prasPowayAYcakruH",
+            "prasPowayAmbaBUviTa",
+            "prasPowayAmAsiTa",
+            "prasPowayAYcakarTa",
+            "prasPowayAmbaBUvaTuH",
+            "prasPowayAmAsaTuH",
+            "prasPowayAYcakraTuH",
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakra",
+            "prasPowayAmbaBUva",
+            "prasPowayAmAsa",
+            "prasPowayAYcakara",
+            "prasPowayAYcakAra",
+            "prasPowayAmbaBUviva",
+            "prasPowayAmAsiva",
+            "prasPowayAYcakfva",
+            "prasPowayAmbaBUvima",
+            "prasPowayAmAsima",
+            "prasPowayAYcakfma"
+          ],
+          "plot": [
+            "prasPowayatAt",
+            "prasPowayatAd",
+            "prasPowayatu",
+            "prasPowayatAm",
+            "prasPowayantu",
+            "prasPowayatAt",
+            "prasPowayatAd",
+            "prasPowaya",
+            "prasPowayatam",
+            "prasPowayata",
+            "prasPowayAni",
+            "prasPowayAva",
+            "prasPowayAma"
+          ],
+          "plrung": [
+            "prAsPowayizyat",
+            "prAsPowayizyad",
+            "prAsPowayizyatAm",
+            "prAsPowayizyan",
+            "prAsPowayizyaH",
+            "prAsPowayizyatam",
+            "prAsPowayizyata",
+            "prAsPowayizyam",
+            "prAsPowayizyAva",
+            "prAsPowayizyAma"
+          ],
+          "plrut": [
+            "prasPowayizyati",
+            "prasPowayizyataH",
+            "prasPowayizyanti",
+            "prasPowayizyasi",
+            "prasPowayizyaTaH",
+            "prasPowayizyaTa",
+            "prasPowayizyAmi",
+            "prasPowayizyAvaH",
+            "prasPowayizyAmaH"
+          ],
+          "plung": [
+            "prApusPuwat",
+            "prApusPuwad",
+            "prApusPuwatAm",
+            "prApusPuwan",
+            "prApusPuwaH",
+            "prApusPuwatam",
+            "prApusPuwata",
+            "prApusPuwam",
+            "prApusPuwAva",
+            "prApusPuwAma"
+          ],
+          "plut": [
+            "prasPowayitA",
+            "prasPowayitArO",
+            "prasPowayitAraH",
+            "prasPowayitAsi",
+            "prasPowayitAsTaH",
+            "prasPowayitAsTa",
+            "prasPowayitAsmi",
+            "prasPowayitAsvaH",
+            "prasPowayitAsmaH"
+          ],
+          "pvidhiling": [
+            "prasPowayet",
+            "prasPowayed",
+            "prasPowayetAm",
+            "prasPowayeyuH",
+            "prasPowayeH",
+            "prasPowayetam",
+            "prasPowayeta",
+            "prasPowayeyam",
+            "prasPowayeva",
+            "prasPowayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "prasPowizIzwa",
+            "prasPowayizIzwa",
+            "prasPowizIyAstAm",
+            "prasPowayizIyAstAm",
+            "prasPowizIran",
+            "prasPowayizIran",
+            "prasPowizIzWAH",
+            "prasPowayizIzWAH",
+            "prasPowizIyAsTAm",
+            "prasPowayizIyAsTAm",
+            "prasPowizIDvam",
+            "prasPowayizIQvam",
+            "prasPowayizIDvam",
+            "prasPowizIya",
+            "prasPowayizIya",
+            "prasPowizIvahi",
+            "prasPowayizIvahi",
+            "prasPowizImahi",
+            "prasPowayizImahi"
+          ],
+          "alang": [
+            "prAsPowyata",
+            "prAsPowyetAm",
+            "prAsPowyanta",
+            "prAsPowyaTAH",
+            "prAsPowyeTAm",
+            "prAsPowyaDvam",
+            "prAsPowye",
+            "prAsPowyAvahi",
+            "prAsPowyAmahi"
+          ],
+          "alat": [
+            "prasPowyate",
+            "prasPowyete",
+            "prasPowyante",
+            "prasPowyase",
+            "prasPowyeTe",
+            "prasPowyaDve",
+            "prasPowye",
+            "prasPowyAvahe",
+            "prasPowyAmahe"
+          ],
+          "alit": [
+            "prasPowayAmbaBUve",
+            "prasPowayAmAse",
+            "prasPowayAYcakre",
+            "prasPowayAmbaBUvAte",
+            "prasPowayAmAsAte",
+            "prasPowayAYcakrAte",
+            "prasPowayAmbaBUvire",
+            "prasPowayAmAsire",
+            "prasPowayAYcakrire",
+            "prasPowayAmbaBUvize",
+            "prasPowayAmAsize",
+            "prasPowayAYcakfze",
+            "prasPowayAmbaBUvATe",
+            "prasPowayAmAsATe",
+            "prasPowayAYcakrATe",
+            "prasPowayAmbaBUviQve",
+            "prasPowayAmAsiDve",
+            "prasPowayAYcakfQve",
+            "prasPowayAmbaBUve",
+            "prasPowayAmAhe",
+            "prasPowayAYcakre",
+            "prasPowayAmbaBUvivahe",
+            "prasPowayAmAsivahe",
+            "prasPowayAYcakfvahe",
+            "prasPowayAmbaBUvimahe",
+            "prasPowayAmAsimahe",
+            "prasPowayAYcakfmahe"
+          ],
+          "alot": [
+            "prasPowyatAm",
+            "prasPowyetAm",
+            "prasPowyantAm",
+            "prasPowyasva",
+            "prasPowyeTAm",
+            "prasPowyaDvam",
+            "prasPowyE",
+            "prasPowyAvahE",
+            "prasPowyAmahE"
+          ],
+          "alrung": [
+            "prAsPowizyata",
+            "prAsPowayizyata",
+            "prAsPowizyetAm",
+            "prAsPowayizyetAm",
+            "prAsPowizyanta",
+            "prAsPowayizyanta",
+            "prAsPowizyaTAH",
+            "prAsPowayizyaTAH",
+            "prAsPowizyeTAm",
+            "prAsPowayizyeTAm",
+            "prAsPowizyaDvam",
+            "prAsPowayizyaDvam",
+            "prAsPowizye",
+            "prAsPowayizye",
+            "prAsPowizyAvahi",
+            "prAsPowayizyAvahi",
+            "prAsPowizyAmahi",
+            "prAsPowayizyAmahi"
+          ],
+          "alrut": [
+            "prasPowizyate",
+            "prasPowayizyate",
+            "prasPowizyete",
+            "prasPowayizyete",
+            "prasPowizyante",
+            "prasPowayizyante",
+            "prasPowizyase",
+            "prasPowayizyase",
+            "prasPowizyeTe",
+            "prasPowayizyeTe",
+            "prasPowizyaDve",
+            "prasPowayizyaDve",
+            "prasPowizye",
+            "prasPowayizye",
+            "prasPowizyAvahe",
+            "prasPowayizyAvahe",
+            "prasPowizyAmahe",
+            "prasPowayizyAmahe"
+          ],
+          "alung": [
+            "prAsPowi",
+            "prAsPowizAtAm",
+            "prAsPowayizAtAm",
+            "prAsPowizata",
+            "prAsPowayizata",
+            "prAsPowizWAH",
+            "prAsPowayizWAH",
+            "prAsPowizATAm",
+            "prAsPowayizATAm",
+            "prAsPowiDvam",
+            "prAsPowayiQvam",
+            "prAsPowayiDvam",
+            "prAsPowizi",
+            "prAsPowayizi",
+            "prAsPowizvahi",
+            "prAsPowayizvahi",
+            "prAsPowizmahi",
+            "prAsPowayizmahi"
+          ],
+          "alut": [
+            "prasPowitA",
+            "prasPowayitA",
+            "prasPowitArO",
+            "prasPowayitArO",
+            "prasPowitAraH",
+            "prasPowayitAraH",
+            "prasPowitAse",
+            "prasPowayitAse",
+            "prasPowitAsATe",
+            "prasPowayitAsATe",
+            "prasPowitADve",
+            "prasPowayitADve",
+            "prasPowitAhe",
+            "prasPowayitAhe",
+            "prasPowitAsvahe",
+            "prasPowayitAsvahe",
+            "prasPowitAsmahe",
+            "prasPowayitAsmahe"
+          ],
+          "avidhiling": [
+            "prasPowyeta",
+            "prasPowyeyAtAm",
+            "prasPowyeran",
+            "prasPowyeTAH",
+            "prasPowyeyATAm",
+            "prasPowyeDvam",
+            "prasPowyeya",
+            "prasPowyevahi",
+            "prasPowyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "praposPuwizIzwa",
+            "praposPuwizIyAstAm",
+            "praposPuwizIran",
+            "praposPuwizIzWAH",
+            "praposPuwizIyAsTAm",
+            "praposPuwizIDvam",
+            "praposPuwizIya",
+            "praposPuwizIvahi",
+            "praposPuwizImahi"
+          ],
+          "alang": [
+            "prAposPuwyata",
+            "prAposPuwyetAm",
+            "prAposPuwyanta",
+            "prAposPuwyaTAH",
+            "prAposPuwyeTAm",
+            "prAposPuwyaDvam",
+            "prAposPuwye",
+            "prAposPuwyAvahi",
+            "prAposPuwyAmahi"
+          ],
+          "alat": [
+            "praposPuwyate",
+            "praposPuwyete",
+            "praposPuwyante",
+            "praposPuwyase",
+            "praposPuwyeTe",
+            "praposPuwyaDve",
+            "praposPuwye",
+            "praposPuwyAvahe",
+            "praposPuwyAmahe"
+          ],
+          "alit": [
+            "praposPuwAmbaBUva",
+            "praposPuwAmAsa",
+            "praposPuwAYcakre",
+            "praposPuwAmbaBUvatuH",
+            "praposPuwAmAsatuH",
+            "praposPuwAYcakrAte",
+            "praposPuwAmbaBUvuH",
+            "praposPuwAmAsuH",
+            "praposPuwAYcakrire",
+            "praposPuwAmbaBUviTa",
+            "praposPuwAmAsiTa",
+            "praposPuwAYcakfze",
+            "praposPuwAmbaBUvaTuH",
+            "praposPuwAmAsaTuH",
+            "praposPuwAYcakrATe",
+            "praposPuwAmbaBUva",
+            "praposPuwAmAsa",
+            "praposPuwAYcakfQve",
+            "praposPuwAmbaBUva",
+            "praposPuwAmAsa",
+            "praposPuwAYcakre",
+            "praposPuwAmbaBUviva",
+            "praposPuwAmAsiva",
+            "praposPuwAYcakfvahe",
+            "praposPuwAmbaBUvima",
+            "praposPuwAmAsima",
+            "praposPuwAYcakfmahe"
+          ],
+          "alot": [
+            "praposPuwyatAm",
+            "praposPuwyetAm",
+            "praposPuwyantAm",
+            "praposPuwyasva",
+            "praposPuwyeTAm",
+            "praposPuwyaDvam",
+            "praposPuwyE",
+            "praposPuwyAvahE",
+            "praposPuwyAmahE"
+          ],
+          "alrung": [
+            "prAposPuwizyata",
+            "prAposPuwizyetAm",
+            "prAposPuwizyanta",
+            "prAposPuwizyaTAH",
+            "prAposPuwizyeTAm",
+            "prAposPuwizyaDvam",
+            "prAposPuwizye",
+            "prAposPuwizyAvahi",
+            "prAposPuwizyAmahi"
+          ],
+          "alrut": [
+            "praposPuwizyate",
+            "praposPuwizyete",
+            "praposPuwizyante",
+            "praposPuwizyase",
+            "praposPuwizyeTe",
+            "praposPuwizyaDve",
+            "praposPuwizye",
+            "praposPuwizyAvahe",
+            "praposPuwizyAmahe"
+          ],
+          "alung": [
+            "prAposPuwizwa",
+            "prAposPuwizAtAm",
+            "prAposPuwizata",
+            "prAposPuwizWAH",
+            "prAposPuwizATAm",
+            "prAposPuwiDvam",
+            "prAposPuwizi",
+            "prAposPuwizvahi",
+            "prAposPuwizmahi"
+          ],
+          "alut": [
+            "praposPuwitA",
+            "praposPuwitArO",
+            "praposPuwitAraH",
+            "praposPuwitAse",
+            "praposPuwitAsATe",
+            "praposPuwitADve",
+            "praposPuwitAhe",
+            "praposPuwitAsvahe",
+            "praposPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "praposPuwyeta",
+            "praposPuwyeyAtAm",
+            "praposPuwyeran",
+            "praposPuwyeTAH",
+            "praposPuwyeyATAm",
+            "praposPuwyeDvam",
+            "praposPuwyeya",
+            "praposPuwyevahi",
+            "praposPuwyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "praposPuwizIzwa",
+            "praposPuwizIyAstAm",
+            "praposPuwizIran",
+            "praposPuwizIzWAH",
+            "praposPuwizIyAsTAm",
+            "praposPuwizIDvam",
+            "praposPuwizIya",
+            "praposPuwizIvahi",
+            "praposPuwizImahi"
+          ],
+          "alang": [
+            "prAposPuwyata",
+            "prAposPuwyetAm",
+            "prAposPuwyanta",
+            "prAposPuwyaTAH",
+            "prAposPuwyeTAm",
+            "prAposPuwyaDvam",
+            "prAposPuwye",
+            "prAposPuwyAvahi",
+            "prAposPuwyAmahi"
+          ],
+          "alat": [
+            "praposPuwyate",
+            "praposPuwyete",
+            "praposPuwyante",
+            "praposPuwyase",
+            "praposPuwyeTe",
+            "praposPuwyaDve",
+            "praposPuwye",
+            "praposPuwyAvahe",
+            "praposPuwyAmahe"
+          ],
+          "alit": [
+            "praposPuwAmbaBUve",
+            "praposPuwAmAse",
+            "praposPuwAYcakre",
+            "praposPuwAmbaBUvAte",
+            "praposPuwAmAsAte",
+            "praposPuwAYcakrAte",
+            "praposPuwAmbaBUvire",
+            "praposPuwAmAsire",
+            "praposPuwAYcakrire",
+            "praposPuwAmbaBUvize",
+            "praposPuwAmAsize",
+            "praposPuwAYcakfze",
+            "praposPuwAmbaBUvATe",
+            "praposPuwAmAsATe",
+            "praposPuwAYcakrATe",
+            "praposPuwAmbaBUviQve",
+            "praposPuwAmAsiDve",
+            "praposPuwAYcakfQve",
+            "praposPuwAmbaBUve",
+            "praposPuwAmAhe",
+            "praposPuwAYcakre",
+            "praposPuwAmbaBUvivahe",
+            "praposPuwAmAsivahe",
+            "praposPuwAYcakfvahe",
+            "praposPuwAmbaBUvimahe",
+            "praposPuwAmAsimahe",
+            "praposPuwAYcakfmahe"
+          ],
+          "alot": [
+            "praposPuwyatAm",
+            "praposPuwyetAm",
+            "praposPuwyantAm",
+            "praposPuwyasva",
+            "praposPuwyeTAm",
+            "praposPuwyaDvam",
+            "praposPuwyE",
+            "praposPuwyAvahE",
+            "praposPuwyAmahE"
+          ],
+          "alrung": [
+            "prAposPuwizyata",
+            "prAposPuwizyetAm",
+            "prAposPuwizyanta",
+            "prAposPuwizyaTAH",
+            "prAposPuwizyeTAm",
+            "prAposPuwizyaDvam",
+            "prAposPuwizye",
+            "prAposPuwizyAvahi",
+            "prAposPuwizyAmahi"
+          ],
+          "alrut": [
+            "praposPuwizyate",
+            "praposPuwizyete",
+            "praposPuwizyante",
+            "praposPuwizyase",
+            "praposPuwizyeTe",
+            "praposPuwizyaDve",
+            "praposPuwizye",
+            "praposPuwizyAvahe",
+            "praposPuwizyAmahe"
+          ],
+          "alung": [
+            "prAposPuwi",
+            "prAposPuwizAtAm",
+            "prAposPuwizata",
+            "prAposPuwizWAH",
+            "prAposPuwizATAm",
+            "prAposPuwiDvam",
+            "prAposPuwizi",
+            "prAposPuwizvahi",
+            "prAposPuwizmahi"
+          ],
+          "alut": [
+            "praposPuwitA",
+            "praposPuwitArO",
+            "praposPuwitAraH",
+            "praposPuwitAse",
+            "praposPuwitAsATe",
+            "praposPuwitADve",
+            "praposPuwitAhe",
+            "praposPuwitAsvahe",
+            "praposPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "praposPuwyeta",
+            "praposPuwyeyAtAm",
+            "praposPuwyeran",
+            "praposPuwyeTAH",
+            "praposPuwyeyATAm",
+            "praposPuwyeDvam",
+            "praposPuwyeya",
+            "praposPuwyevahi",
+            "praposPuwyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "praposPuwyAt",
+            "praposPuwyAd",
+            "praposPuwyAstAm",
+            "praposPuwyAsuH",
+            "praposPuwyAH",
+            "praposPuwyAstam",
+            "praposPuwyAsta",
+            "praposPuwyAsam",
+            "praposPuwyAsva",
+            "praposPuwyAsma"
+          ],
+          "plang": [
+            "prAposPuwIt",
+            "prAposPuwId",
+            "prAposPow",
+            "prAposPoq",
+            "prAposPuwwAm",
+            "prAposPuwuH",
+            "prAposPuwIH",
+            "prAposPow",
+            "prAposPoq",
+            "prAposPuwwam",
+            "prAposPuwwa",
+            "prAposPuwam",
+            "prAposPuwva",
+            "prAposPuwma"
+          ],
+          "plat": [
+            "praposPuwIti",
+            "praposPowwi",
+            "praposPuwwaH",
+            "praposPuwati",
+            "praposPuwIzi",
+            "praposPowzi",
+            "praposPuwWaH",
+            "praposPuwWa",
+            "praposPuwImi",
+            "praposPowmi",
+            "praposPuwvaH",
+            "praposPuwmaH"
+          ],
+          "plit": [
+            "praposPowAmbaBUva",
+            "praposPowAmAsa",
+            "praposPowAYcakAra",
+            "praposPowAmbaBUvatuH",
+            "praposPowAmAsatuH",
+            "praposPowAYcakratuH",
+            "praposPowAmbaBUvuH",
+            "praposPowAmAsuH",
+            "praposPowAYcakruH",
+            "praposPowAmbaBUviTa",
+            "praposPowAmAsiTa",
+            "praposPowAYcakarTa",
+            "praposPowAmbaBUvaTuH",
+            "praposPowAmAsaTuH",
+            "praposPowAYcakraTuH",
+            "praposPowAmbaBUva",
+            "praposPowAmAsa",
+            "praposPowAYcakra",
+            "praposPowAmbaBUva",
+            "praposPowAmAsa",
+            "praposPowAYcakara",
+            "praposPowAYcakAra",
+            "praposPowAmbaBUviva",
+            "praposPowAmAsiva",
+            "praposPowAYcakfva",
+            "praposPowAmbaBUvima",
+            "praposPowAmAsima",
+            "praposPowAYcakfma"
+          ],
+          "plot": [
+            "praposPuwwAt",
+            "praposPuwwAd",
+            "praposPuwItu",
+            "praposPowwu",
+            "praposPuwwAm",
+            "praposPuwatu",
+            "praposPuwwAt",
+            "praposPuwwAd",
+            "praposPuqQi",
+            "praposPuwwam",
+            "praposPuwwa",
+            "praposPuwAni",
+            "praposPuwAva",
+            "praposPuwAma"
+          ],
+          "plrung": [
+            "prAposPowizyat",
+            "prAposPowizyad",
+            "prAposPowizyatAm",
+            "prAposPowizyan",
+            "prAposPowizyaH",
+            "prAposPowizyatam",
+            "prAposPowizyata",
+            "prAposPowizyam",
+            "prAposPowizyAva",
+            "prAposPowizyAma"
+          ],
+          "plrut": [
+            "praposPowizyati",
+            "praposPowizyataH",
+            "praposPowizyanti",
+            "praposPowizyasi",
+            "praposPowizyaTaH",
+            "praposPowizyaTa",
+            "praposPowizyAmi",
+            "praposPowizyAvaH",
+            "praposPowizyAmaH"
+          ],
+          "plung": [
+            "prAposPowIt",
+            "prAposPowId",
+            "prAposPowizwAm",
+            "prAposPowizuH",
+            "prAposPowIH",
+            "prAposPowizwam",
+            "prAposPowizwa",
+            "prAposPowizam",
+            "prAposPowizva",
+            "prAposPowizma"
+          ],
+          "plut": [
+            "praposPowitA",
+            "praposPowitArO",
+            "praposPowitAraH",
+            "praposPowitAsi",
+            "praposPowitAsTaH",
+            "praposPowitAsTa",
+            "praposPowitAsmi",
+            "praposPowitAsvaH",
+            "praposPowitAsmaH"
+          ],
+          "pvidhiling": [
+            "praposPuwyAt",
+            "praposPuwyAd",
+            "praposPuwyAtAm",
+            "praposPuwyuH",
+            "praposPuwyAH",
+            "praposPuwyAtam",
+            "praposPuwyAta",
+            "praposPuwyAm",
+            "praposPuwyAva",
+            "praposPuwyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "praposPowizIzwa",
+            "praposPowizIyAstAm",
+            "praposPowizIran",
+            "praposPowizIzWAH",
+            "praposPowizIyAsTAm",
+            "praposPowizIDvam",
+            "praposPowizIya",
+            "praposPowizIvahi",
+            "praposPowizImahi"
+          ],
+          "alang": [
+            "prAposPuwyata",
+            "prAposPuwyetAm",
+            "prAposPuwyanta",
+            "prAposPuwyaTAH",
+            "prAposPuwyeTAm",
+            "prAposPuwyaDvam",
+            "prAposPuwye",
+            "prAposPuwyAvahi",
+            "prAposPuwyAmahi"
+          ],
+          "alat": [
+            "praposPuwyate",
+            "praposPuwyete",
+            "praposPuwyante",
+            "praposPuwyase",
+            "praposPuwyeTe",
+            "praposPuwyaDve",
+            "praposPuwye",
+            "praposPuwyAvahe",
+            "praposPuwyAmahe"
+          ],
+          "alit": [
+            "praposPowAmbaBUve",
+            "praposPowAmAse",
+            "praposPowAYcakre",
+            "praposPowAmbaBUvAte",
+            "praposPowAmAsAte",
+            "praposPowAYcakrAte",
+            "praposPowAmbaBUvire",
+            "praposPowAmAsire",
+            "praposPowAYcakrire",
+            "praposPowAmbaBUvize",
+            "praposPowAmAsize",
+            "praposPowAYcakfze",
+            "praposPowAmbaBUvATe",
+            "praposPowAmAsATe",
+            "praposPowAYcakrATe",
+            "praposPowAmbaBUviQve",
+            "praposPowAmAsiDve",
+            "praposPowAYcakfQve",
+            "praposPowAmbaBUve",
+            "praposPowAmAhe",
+            "praposPowAYcakre",
+            "praposPowAmbaBUvivahe",
+            "praposPowAmAsivahe",
+            "praposPowAYcakfvahe",
+            "praposPowAmbaBUvimahe",
+            "praposPowAmAsimahe",
+            "praposPowAYcakfmahe"
+          ],
+          "alot": [
+            "praposPuwyatAm",
+            "praposPuwyetAm",
+            "praposPuwyantAm",
+            "praposPuwyasva",
+            "praposPuwyeTAm",
+            "praposPuwyaDvam",
+            "praposPuwyE",
+            "praposPuwyAvahE",
+            "praposPuwyAmahE"
+          ],
+          "alrung": [
+            "prAposPowizyata",
+            "prAposPowizyetAm",
+            "prAposPowizyanta",
+            "prAposPowizyaTAH",
+            "prAposPowizyeTAm",
+            "prAposPowizyaDvam",
+            "prAposPowizye",
+            "prAposPowizyAvahi",
+            "prAposPowizyAmahi"
+          ],
+          "alrut": [
+            "praposPowizyate",
+            "praposPowizyete",
+            "praposPowizyante",
+            "praposPowizyase",
+            "praposPowizyeTe",
+            "praposPowizyaDve",
+            "praposPowizye",
+            "praposPowizyAvahe",
+            "praposPowizyAmahe"
+          ],
+          "alung": [
+            "prAposPowi",
+            "prAposPowizAtAm",
+            "prAposPowizata",
+            "prAposPowizWAH",
+            "prAposPowizATAm",
+            "prAposPowiDvam",
+            "prAposPowizi",
+            "prAposPowizvahi",
+            "prAposPowizmahi"
+          ],
+          "alut": [
+            "praposPowitA",
+            "praposPowitArO",
+            "praposPowitAraH",
+            "praposPowitAse",
+            "praposPowitAsATe",
+            "praposPowitADve",
+            "praposPowitAhe",
+            "praposPowitAsvahe",
+            "praposPowitAsmahe"
+          ],
+          "avidhiling": [
+            "praposPuwyeta",
+            "praposPuwyeyAtAm",
+            "praposPuwyeran",
+            "praposPuwyeTAH",
+            "praposPuwyeyATAm",
+            "praposPuwyeDvam",
+            "praposPuwyeya",
+            "praposPuwyevahi",
+            "praposPuwyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "anIyar": [
+            {
+              "base": "prasPuwanIya",
+              "m": "prasPuwanIyaH",
+              "f": "prasPuwanIyA",
+              "n": "prasPuwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prasPuwita",
+              "m": "prasPuwitaH",
+              "f": "prasPuwitA",
+              "n": "prasPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prasPuwitavat",
+              "m": "prasPuwitavAn",
+              "f": "prasPuwitavatI",
+              "n": "prasPuwitavat/prasPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prasPuwwi",
+              "m": "",
+              "f": "prasPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prapusPuwvas",
+              "m": "prapusPuwvAn",
+              "f": "prapusPuwuzI",
+              "n": "prapusPuwvat/prapusPuwvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "prasPowa",
+              "m": "prasPowaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prasPuwamAna",
+              "m": "prasPuwamAnaH",
+              "f": "prasPuwamAnA",
+              "n": "prasPuwamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prasPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "prasPowya",
+              "m": "prasPowyaH",
+              "f": "prasPowyA",
+              "n": "prasPowyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prasPowaka",
+              "m": "prasPowakaH",
+              "f": "prasPowikA",
+              "n": "prasPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prasPuwitavya",
+              "m": "prasPuwitavyaH",
+              "f": "prasPuwitavyA",
+              "n": "prasPuwitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prasPuwitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prasPuwitf",
+              "m": "prasPuwitA",
+              "f": "prasPuwitrI",
+              "n": "prasPuwitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prasPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prasPuwana",
+              "m": "",
+              "f": "",
+              "n": "prasPuwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prasPuwaka",
+              "m": "prasPuwakaH",
+              "f": "prasPuwikA",
+              "n": "prasPuwakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prasPuwat",
+              "m": "prasPuwan",
+              "f": "prasPuwantI",
+              "n": "prasPuwat/prasPuwad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prasPuwat",
+              "m": "prasPuwan",
+              "f": "prasPuwatI/prasPuwantI",
+              "n": "prasPuwat/prasPuwad"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "prapusPuwizA",
+              "m": "",
+              "f": "prapusPuwizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "prapusPuwiza",
+              "m": "prapusPuwizaH",
+              "f": "prapusPuwizA",
+              "n": "prapusPuwizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "prapusPuwizaRIya",
+              "m": "prapusPuwizaRIyaH",
+              "f": "prapusPuwizaRIyA",
+              "n": "prapusPuwizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "prapusPuwizu",
+              "m": "prapusPuwizuH",
+              "f": "prapusPuwizuH",
+              "n": "prapusPuwizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prapusPuwizita",
+              "m": "prapusPuwizitaH",
+              "f": "prapusPuwizitA",
+              "n": "prapusPuwizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prapusPuwizitavat",
+              "m": "prapusPuwizitavAn",
+              "f": "prapusPuwizitavatI",
+              "n": "prapusPuwizitavat/prapusPuwizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prapusPuwizwi",
+              "m": "",
+              "f": "prapusPuwizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prapusPuwizAmbaBUvas",
+              "m": "prapusPuwizAmbaBUvAn",
+              "f": "prapusPuwizAmbaBUzI",
+              "n": "prapusPuwizAmbaBUvat/prapusPuwizAmbaBUvad"
+            },
+            {
+              "base": "prapusPuwizAmAsivas",
+              "m": "prapusPuwizAmAsivAn",
+              "f": "prapusPuwizAmAsyuzI",
+              "n": "prapusPuwizAmAsivat/prapusPuwizAmAsivad"
+            },
+            {
+              "base": "prapusPuwizAYcakfvas",
+              "m": "prapusPuwizAYcakfvAn",
+              "f": "prapusPuwizAYcakruzI",
+              "n": "prapusPuwizAYcakfvat/prapusPuwizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "prapusPuwiza",
+              "m": "prapusPuwizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prapusPuwizamARa",
+              "m": "prapusPuwizamARaH",
+              "f": "prapusPuwizamARA",
+              "n": "prapusPuwizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prapusPuwizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prapusPuwizaka",
+              "m": "prapusPuwizakaH",
+              "f": "prapusPuwizikA",
+              "n": "prapusPuwizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prapusPuwizitavya",
+              "m": "prapusPuwizitavyaH",
+              "f": "prapusPuwizitavyA",
+              "n": "prapusPuwizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prapusPuwizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prapusPuwizitf",
+              "m": "prapusPuwizitA",
+              "f": "prapusPuwizitrI",
+              "n": "prapusPuwizitf"
+            }
+          ],
+          "yat": [
+            {
+              "base": "prapusPuwizya",
+              "m": "prapusPuwizyaH",
+              "f": "prapusPuwizyA",
+              "n": "prapusPuwizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prapusPuwizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prapusPuwizaRa",
+              "m": "",
+              "f": "",
+              "n": "prapusPuwizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prapusPuwizaka",
+              "m": "prapusPuwizakaH",
+              "f": "prapusPuwizikA",
+              "n": "prapusPuwizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prapusPuwizat",
+              "m": "prapusPuwizan",
+              "f": "prapusPuwizantI",
+              "n": "prapusPuwizat/prapusPuwizad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prapusPuwizat",
+              "m": "prapusPuwizan",
+              "f": "prapusPuwizatI/prapusPuwizantI",
+              "n": "prapusPuwizat/prapusPuwizad"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "prasPowa",
+              "m": "prasPowaH",
+              "f": "prasPowA",
+              "n": "prasPowam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "prasPowanIya",
+              "m": "prasPowanIyaH",
+              "f": "prasPowanIyA",
+              "n": "prasPowanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prasPowita",
+              "m": "prasPowitaH",
+              "f": "prasPowitA",
+              "n": "prasPowitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prasPowitavat",
+              "m": "prasPowitavAn",
+              "f": "prasPowitavatI",
+              "n": "prasPowitavat/prasPowitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prasPowwi",
+              "m": "",
+              "f": "prasPowwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prasPowayAmbaBUvas",
+              "m": "prasPowayAmbaBUvAn",
+              "f": "prasPowayAmbaBUzI",
+              "n": "prasPowayAmbaBUvat/prasPowayAmbaBUvad"
+            },
+            {
+              "base": "prasPowayAmAsivas",
+              "m": "prasPowayAmAsivAn",
+              "f": "prasPowayAmAsyuzI",
+              "n": "prasPowayAmAsivat/prasPowayAmAsivad"
+            },
+            {
+              "base": "prasPowayAYcakfvas",
+              "m": "prasPowayAYcakfvAn",
+              "f": "prasPowayAYcakruzI",
+              "n": "prasPowayAYcakfvat/prasPowayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prasPowayamAna",
+              "m": "prasPowayamAnaH",
+              "f": "prasPowayamAnA",
+              "n": "prasPowayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prasPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prasPowaka",
+              "m": "prasPowakaH",
+              "f": "prasPowikA",
+              "n": "prasPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prasPowayitavya",
+              "m": "prasPowayitavyaH",
+              "f": "prasPowayitavyA",
+              "n": "prasPowayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prasPowayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prasPowayitf",
+              "m": "prasPowayitA",
+              "f": "prasPowayitrI",
+              "n": "prasPowayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "prasPowayamAna",
+              "m": "prasPowayamAnaH",
+              "f": "prasPowayamAnA",
+              "n": "prasPowayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "prasPowya",
+              "m": "prasPowyaH",
+              "f": "prasPowyA",
+              "n": "prasPowyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prasPowya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prasPowana",
+              "m": "",
+              "f": "",
+              "n": "prasPowanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prasPowaka",
+              "m": "prasPowakaH",
+              "f": "prasPowikA",
+              "n": "prasPowakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prasPowayat",
+              "m": "prasPowayan",
+              "f": "prasPowayantI",
+              "n": "prasPowayat/prasPowayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "prasPowayamAna",
+              "m": "prasPowayamAnaH",
+              "f": "prasPowayamAnA",
+              "n": "prasPowayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "prasPowayamAna",
+              "m": "prasPowayamAnaH",
+              "f": "prasPowayamAnA",
+              "n": "prasPowayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prasPowayat",
+              "m": "prasPowayan",
+              "f": "prasPowayatI/prasPowayantI",
+              "n": "prasPowayat/prasPowayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "prasPowayamAna",
+              "m": "prasPowayamAnaH",
+              "f": "prasPowayamAnA",
+              "n": "prasPowayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "praposPuwA",
+              "m": "",
+              "f": "praposPuwA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "praposPuwa",
+              "m": "praposPuwaH",
+              "f": "praposPuwA",
+              "n": "praposPuwam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "praposPuwanIya",
+              "m": "praposPuwanIyaH",
+              "f": "praposPuwanIyA",
+              "n": "praposPuwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "praposPuwita",
+              "m": "praposPuwitaH",
+              "f": "praposPuwitA",
+              "n": "praposPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "praposPuwitavat",
+              "m": "praposPuwitavAn",
+              "f": "praposPuwitavatI",
+              "n": "praposPuwitavat/praposPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "praposPuwwi",
+              "m": "",
+              "f": "praposPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "praposPuwAmbaBUvas",
+              "m": "praposPuwAmbaBUvAn",
+              "f": "praposPuwAmbaBUzI",
+              "n": "praposPuwAmbaBUvat/praposPuwAmbaBUvad"
+            },
+            {
+              "base": "praposPuwAmAsivas",
+              "m": "praposPuwAmAsivAn",
+              "f": "praposPuwAmAsyuzI",
+              "n": "praposPuwAmAsivat/praposPuwAmAsivad"
+            },
+            {
+              "base": "praposPuwAYcakfvas",
+              "m": "praposPuwAYcakfvAn",
+              "f": "praposPuwAYcakruzI",
+              "n": "praposPuwAYcakfvat/praposPuwAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "praposPuwa",
+              "m": "praposPuwaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "praposPuwyamAna",
+              "m": "praposPuwyamAnaH",
+              "f": "praposPuwyamAnA",
+              "n": "praposPuwyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "praposPuwam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "praposPuwaka",
+              "m": "praposPuwakaH",
+              "f": "praposPuwikA",
+              "n": "praposPuwakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "praposPuwitavya",
+              "m": "praposPuwitavyaH",
+              "f": "praposPuwitavyA",
+              "n": "praposPuwitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "praposPuwitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "praposPuwitf",
+              "m": "praposPuwitA",
+              "f": "praposPuwitrI",
+              "n": "praposPuwitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "praposPuwyamAna",
+              "m": "praposPuwyamAnaH",
+              "f": "praposPuwyamAnA",
+              "n": "praposPuwyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "praposPuwya",
+              "m": "praposPuwyaH",
+              "f": "praposPuwyA",
+              "n": "praposPuwyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "praposPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "praposPuwana",
+              "m": "",
+              "f": "",
+              "n": "praposPuwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "praposPuwaka",
+              "m": "praposPuwakaH",
+              "f": "praposPuwikA",
+              "n": "praposPuwakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "praposPuwyamAna",
+              "m": "praposPuwyamAnaH",
+              "f": "praposPuwyamAnA",
+              "n": "praposPuwyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "praposPuwyamAna",
+              "m": "praposPuwyamAnaH",
+              "f": "praposPuwyamAnA",
+              "n": "praposPuwyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "praposPuwyamAna",
+              "m": "praposPuwyamAnaH",
+              "f": "praposPuwyamAnA",
+              "n": "praposPuwyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "praposPowA",
+              "m": "",
+              "f": "praposPowA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "praposPowa",
+              "m": "praposPowaH",
+              "f": "praposPowA",
+              "n": "praposPowam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "praposPowanIya",
+              "m": "praposPowanIyaH",
+              "f": "praposPowanIyA",
+              "n": "praposPowanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "praposPuwita",
+              "m": "praposPuwitaH",
+              "f": "praposPuwitA",
+              "n": "praposPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "praposPuwitavat",
+              "m": "praposPuwitavAn",
+              "f": "praposPuwitavatI",
+              "n": "praposPuwitavat/praposPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "praposPuwwi",
+              "m": "",
+              "f": "praposPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "praposPowAmbaBUvas",
+              "m": "praposPowAmbaBUvAn",
+              "f": "praposPowAmbaBUzI",
+              "n": "praposPowAmbaBUvat/praposPowAmbaBUvad"
+            },
+            {
+              "base": "praposPowAmAsivas",
+              "m": "praposPowAmAsivAn",
+              "f": "praposPowAmAsyuzI",
+              "n": "praposPowAmAsivat/praposPowAmAsivad"
+            },
+            {
+              "base": "praposPowAYcakfvas",
+              "m": "praposPowAYcakfvAn",
+              "f": "praposPowAYcakruzI",
+              "n": "praposPowAYcakfvat/praposPowAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "praposPowa",
+              "m": "praposPowaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "praposPuwAna",
+              "m": "praposPuwAnaH",
+              "f": "praposPuwAnA",
+              "n": "praposPuwAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "praposPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "praposPowaka",
+              "m": "praposPowakaH",
+              "f": "praposPowikA",
+              "n": "praposPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "praposPowitavya",
+              "m": "praposPowitavyaH",
+              "f": "praposPowitavyA",
+              "n": "praposPowitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "praposPowitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "praposPowitf",
+              "m": "praposPowitA",
+              "f": "praposPowitrI",
+              "n": "praposPowitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "praposPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "praposPowana",
+              "m": "",
+              "f": "",
+              "n": "praposPowanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "praposPowaka",
+              "m": "praposPowakaH",
+              "f": "praposPowikA",
+              "n": "praposPowakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "praposPuwat",
+              "m": "praposPuwan",
+              "f": "praposPuwatI",
+              "n": "praposPuwat/praposPuwad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "praposPuwat",
+              "m": "praposPuwan",
+              "f": "praposPuwatI/praposPuwantI",
+              "n": "praposPuwat/praposPuwad"
+            }
+          ]
+        }
+      }
+    },
+    "AN": {
+      "prefix": "AN",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "pashirling": [
+            "AsPuwyAt",
+            "AsPuwyAd",
+            "AsPuwyAstAm",
+            "AsPuwyAsuH",
+            "AsPuwyAH",
+            "AsPuwyAstam",
+            "AsPuwyAsta",
+            "AsPuwyAsam",
+            "AsPuwyAsva",
+            "AsPuwyAsma"
+          ],
+          "plang": [
+            "AsPuwat",
+            "AsPuwad",
+            "AsPuwatAm",
+            "AsPuwan",
+            "AsPuwaH",
+            "AsPuwatam",
+            "AsPuwata",
+            "AsPuwam",
+            "AsPuwAva",
+            "AsPuwAma"
+          ],
+          "plat": [
+            "AsPuwati",
+            "AsPuwataH",
+            "AsPuwanti",
+            "AsPuwasi",
+            "AsPuwaTaH",
+            "AsPuwaTa",
+            "AsPuwAmi",
+            "AsPuwAvaH",
+            "AsPuwAmaH"
+          ],
+          "plit": [
+            "ApusPowa",
+            "ApusPuwatuH",
+            "ApusPuwuH",
+            "ApusPuwiTa",
+            "ApusPuwaTuH",
+            "ApusPuwa",
+            "ApusPuwa",
+            "ApusPowa",
+            "ApusPuwiva",
+            "ApusPuwima"
+          ],
+          "plot": [
+            "AsPuwatAt",
+            "AsPuwatAd",
+            "AsPuwatu",
+            "AsPuwatAm",
+            "AsPuwantu",
+            "AsPuwatAt",
+            "AsPuwatAd",
+            "AsPuwa",
+            "AsPuwatam",
+            "AsPuwata",
+            "AsPuwAni",
+            "AsPuwAva",
+            "AsPuwAma"
+          ],
+          "plrung": [
+            "AsPuwizyat",
+            "AsPuwizyad",
+            "AsPuwizyatAm",
+            "AsPuwizyan",
+            "AsPuwizyaH",
+            "AsPuwizyatam",
+            "AsPuwizyata",
+            "AsPuwizyam",
+            "AsPuwizyAva",
+            "AsPuwizyAma"
+          ],
+          "plrut": [
+            "AsPuwizyati",
+            "AsPuwizyataH",
+            "AsPuwizyanti",
+            "AsPuwizyasi",
+            "AsPuwizyaTaH",
+            "AsPuwizyaTa",
+            "AsPuwizyAmi",
+            "AsPuwizyAvaH",
+            "AsPuwizyAmaH"
+          ],
+          "plung": [
+            "AsPuwIt",
+            "AsPuwId",
+            "AsPuwizwAm",
+            "AsPuwizuH",
+            "AsPuwIH",
+            "AsPuwizwam",
+            "AsPuwizwa",
+            "AsPuwizam",
+            "AsPuwizva",
+            "AsPuwizma"
+          ],
+          "plut": [
+            "AsPuwitA",
+            "AsPuwitArO",
+            "AsPuwitAraH",
+            "AsPuwitAsi",
+            "AsPuwitAsTaH",
+            "AsPuwitAsTa",
+            "AsPuwitAsmi",
+            "AsPuwitAsvaH",
+            "AsPuwitAsmaH"
+          ],
+          "pvidhiling": [
+            "AsPuwet",
+            "AsPuwed",
+            "AsPuwetAm",
+            "AsPuweyuH",
+            "AsPuweH",
+            "AsPuwetam",
+            "AsPuweta",
+            "AsPuweyam",
+            "AsPuweva",
+            "AsPuwema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "AsPuwizIzwa",
+            "AsPuwizIyAstAm",
+            "AsPuwizIran",
+            "AsPuwizIzWAH",
+            "AsPuwizIyAsTAm",
+            "AsPuwizIDvam",
+            "AsPuwizIya",
+            "AsPuwizIvahi",
+            "AsPuwizImahi"
+          ],
+          "alang": [
+            "AsPuwyata",
+            "AsPuwyetAm",
+            "AsPuwyanta",
+            "AsPuwyaTAH",
+            "AsPuwyeTAm",
+            "AsPuwyaDvam",
+            "AsPuwye",
+            "AsPuwyAvahi",
+            "AsPuwyAmahi"
+          ],
+          "alat": [
+            "AsPuwyate",
+            "AsPuwyete",
+            "AsPuwyante",
+            "AsPuwyase",
+            "AsPuwyeTe",
+            "AsPuwyaDve",
+            "AsPuwye",
+            "AsPuwyAvahe",
+            "AsPuwyAmahe"
+          ],
+          "alit": [
+            "ApusPuwe",
+            "ApusPuwAte",
+            "ApusPuwire",
+            "ApusPuwize",
+            "ApusPuwATe",
+            "ApusPuwiDve",
+            "ApusPuwe",
+            "ApusPuwivahe",
+            "ApusPuwimahe"
+          ],
+          "alot": [
+            "AsPuwyatAm",
+            "AsPuwyetAm",
+            "AsPuwyantAm",
+            "AsPuwyasva",
+            "AsPuwyeTAm",
+            "AsPuwyaDvam",
+            "AsPuwyE",
+            "AsPuwyAvahE",
+            "AsPuwyAmahE"
+          ],
+          "alrung": [
+            "AsPuwizyata",
+            "AsPuwizyetAm",
+            "AsPuwizyanta",
+            "AsPuwizyaTAH",
+            "AsPuwizyeTAm",
+            "AsPuwizyaDvam",
+            "AsPuwizye",
+            "AsPuwizyAvahi",
+            "AsPuwizyAmahi"
+          ],
+          "alrut": [
+            "AsPuwizyate",
+            "AsPuwizyete",
+            "AsPuwizyante",
+            "AsPuwizyase",
+            "AsPuwizyeTe",
+            "AsPuwizyaDve",
+            "AsPuwizye",
+            "AsPuwizyAvahe",
+            "AsPuwizyAmahe"
+          ],
+          "alung": [
+            "AsPowi",
+            "AsPuwizAtAm",
+            "AsPuwizata",
+            "AsPuwizWAH",
+            "AsPuwizATAm",
+            "AsPuwiDvam",
+            "AsPuwizi",
+            "AsPuwizvahi",
+            "AsPuwizmahi"
+          ],
+          "alut": [
+            "AsPuwitA",
+            "AsPuwitArO",
+            "AsPuwitAraH",
+            "AsPuwitAse",
+            "AsPuwitAsATe",
+            "AsPuwitADve",
+            "AsPuwitAhe",
+            "AsPuwitAsvahe",
+            "AsPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "AsPuwyeta",
+            "AsPuwyeyAtAm",
+            "AsPuwyeran",
+            "AsPuwyeTAH",
+            "AsPuwyeyATAm",
+            "AsPuwyeDvam",
+            "AsPuwyeya",
+            "AsPuwyevahi",
+            "AsPuwyemahi"
+          ]
+        },
+        "san": {
+          "pashirling": [
+            "ApusPuwizyAt",
+            "ApusPuwizyAd",
+            "ApusPuwizyAstAm",
+            "ApusPuwizyAsuH",
+            "ApusPuwizyAH",
+            "ApusPuwizyAstam",
+            "ApusPuwizyAsta",
+            "ApusPuwizyAsam",
+            "ApusPuwizyAsva",
+            "ApusPuwizyAsma"
+          ],
+          "plang": [
+            "ApusPuwizat",
+            "ApusPuwizad",
+            "ApusPuwizatAm",
+            "ApusPuwizan",
+            "ApusPuwizaH",
+            "ApusPuwizatam",
+            "ApusPuwizata",
+            "ApusPuwizam",
+            "ApusPuwizAva",
+            "ApusPuwizAma"
+          ],
+          "plat": [
+            "ApusPuwizati",
+            "ApusPuwizataH",
+            "ApusPuwizanti",
+            "ApusPuwizasi",
+            "ApusPuwizaTaH",
+            "ApusPuwizaTa",
+            "ApusPuwizAmi",
+            "ApusPuwizAvaH",
+            "ApusPuwizAmaH"
+          ],
+          "plit": [
+            "ApusPuwizAmbaBUva",
+            "ApusPuwizAmAsa",
+            "ApusPuwizAYcakAra",
+            "ApusPuwizAmbaBUvatuH",
+            "ApusPuwizAmAsatuH",
+            "ApusPuwizAYcakratuH",
+            "ApusPuwizAmbaBUvuH",
+            "ApusPuwizAmAsuH",
+            "ApusPuwizAYcakruH",
+            "ApusPuwizAmbaBUviTa",
+            "ApusPuwizAmAsiTa",
+            "ApusPuwizAYcakarTa",
+            "ApusPuwizAmbaBUvaTuH",
+            "ApusPuwizAmAsaTuH",
+            "ApusPuwizAYcakraTuH",
+            "ApusPuwizAmbaBUva",
+            "ApusPuwizAmAsa",
+            "ApusPuwizAYcakra",
+            "ApusPuwizAmbaBUva",
+            "ApusPuwizAmAsa",
+            "ApusPuwizAYcakara",
+            "ApusPuwizAYcakAra",
+            "ApusPuwizAmbaBUviva",
+            "ApusPuwizAmAsiva",
+            "ApusPuwizAYcakfva",
+            "ApusPuwizAmbaBUvima",
+            "ApusPuwizAmAsima",
+            "ApusPuwizAYcakfma"
+          ],
+          "plot": [
+            "ApusPuwizatAt",
+            "ApusPuwizatAd",
+            "ApusPuwizatu",
+            "ApusPuwizatAm",
+            "ApusPuwizantu",
+            "ApusPuwizatAt",
+            "ApusPuwizatAd",
+            "ApusPuwiza",
+            "ApusPuwizatam",
+            "ApusPuwizata",
+            "ApusPuwizARi",
+            "ApusPuwizAva",
+            "ApusPuwizAma"
+          ],
+          "plrung": [
+            "ApusPuwizizyat",
+            "ApusPuwizizyad",
+            "ApusPuwizizyatAm",
+            "ApusPuwizizyan",
+            "ApusPuwizizyaH",
+            "ApusPuwizizyatam",
+            "ApusPuwizizyata",
+            "ApusPuwizizyam",
+            "ApusPuwizizyAva",
+            "ApusPuwizizyAma"
+          ],
+          "plrut": [
+            "ApusPuwizizyati",
+            "ApusPuwizizyataH",
+            "ApusPuwizizyanti",
+            "ApusPuwizizyasi",
+            "ApusPuwizizyaTaH",
+            "ApusPuwizizyaTa",
+            "ApusPuwizizyAmi",
+            "ApusPuwizizyAvaH",
+            "ApusPuwizizyAmaH"
+          ],
+          "plung": [
+            "ApusPuwizIt",
+            "ApusPuwizId",
+            "ApusPuwizizwAm",
+            "ApusPuwizizuH",
+            "ApusPuwizIH",
+            "ApusPuwizizwam",
+            "ApusPuwizizwa",
+            "ApusPuwizizam",
+            "ApusPuwizizva",
+            "ApusPuwizizma"
+          ],
+          "plut": [
+            "ApusPuwizitA",
+            "ApusPuwizitArO",
+            "ApusPuwizitAraH",
+            "ApusPuwizitAsi",
+            "ApusPuwizitAsTaH",
+            "ApusPuwizitAsTa",
+            "ApusPuwizitAsmi",
+            "ApusPuwizitAsvaH",
+            "ApusPuwizitAsmaH"
+          ],
+          "pvidhiling": [
+            "ApusPuwizet",
+            "ApusPuwized",
+            "ApusPuwizetAm",
+            "ApusPuwizeyuH",
+            "ApusPuwizeH",
+            "ApusPuwizetam",
+            "ApusPuwizeta",
+            "ApusPuwizeyam",
+            "ApusPuwizeva",
+            "ApusPuwizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "ApusPuwizizIzwa",
+            "ApusPuwizizIyAstAm",
+            "ApusPuwizizIran",
+            "ApusPuwizizIzWAH",
+            "ApusPuwizizIyAsTAm",
+            "ApusPuwizizIDvam",
+            "ApusPuwizizIya",
+            "ApusPuwizizIvahi",
+            "ApusPuwizizImahi"
+          ],
+          "alang": [
+            "ApusPuwizyata",
+            "ApusPuwizyetAm",
+            "ApusPuwizyanta",
+            "ApusPuwizyaTAH",
+            "ApusPuwizyeTAm",
+            "ApusPuwizyaDvam",
+            "ApusPuwizye",
+            "ApusPuwizyAvahi",
+            "ApusPuwizyAmahi"
+          ],
+          "alat": [
+            "ApusPuwizyate",
+            "ApusPuwizyete",
+            "ApusPuwizyante",
+            "ApusPuwizyase",
+            "ApusPuwizyeTe",
+            "ApusPuwizyaDve",
+            "ApusPuwizye",
+            "ApusPuwizyAvahe",
+            "ApusPuwizyAmahe"
+          ],
+          "alit": [
+            "ApusPuwizAmbaBUve",
+            "ApusPuwizAmAse",
+            "ApusPuwizAYcakre",
+            "ApusPuwizAmbaBUvAte",
+            "ApusPuwizAmAsAte",
+            "ApusPuwizAYcakrAte",
+            "ApusPuwizAmbaBUvire",
+            "ApusPuwizAmAsire",
+            "ApusPuwizAYcakrire",
+            "ApusPuwizAmbaBUvize",
+            "ApusPuwizAmAsize",
+            "ApusPuwizAYcakfze",
+            "ApusPuwizAmbaBUvATe",
+            "ApusPuwizAmAsATe",
+            "ApusPuwizAYcakrATe",
+            "ApusPuwizAmbaBUviQve",
+            "ApusPuwizAmAsiDve",
+            "ApusPuwizAYcakfQve",
+            "ApusPuwizAmbaBUve",
+            "ApusPuwizAmAhe",
+            "ApusPuwizAYcakre",
+            "ApusPuwizAmbaBUvivahe",
+            "ApusPuwizAmAsivahe",
+            "ApusPuwizAYcakfvahe",
+            "ApusPuwizAmbaBUvimahe",
+            "ApusPuwizAmAsimahe",
+            "ApusPuwizAYcakfmahe"
+          ],
+          "alot": [
+            "ApusPuwizyatAm",
+            "ApusPuwizyetAm",
+            "ApusPuwizyantAm",
+            "ApusPuwizyasva",
+            "ApusPuwizyeTAm",
+            "ApusPuwizyaDvam",
+            "ApusPuwizyE",
+            "ApusPuwizyAvahE",
+            "ApusPuwizyAmahE"
+          ],
+          "alrung": [
+            "ApusPuwizizyata",
+            "ApusPuwizizyetAm",
+            "ApusPuwizizyanta",
+            "ApusPuwizizyaTAH",
+            "ApusPuwizizyeTAm",
+            "ApusPuwizizyaDvam",
+            "ApusPuwizizye",
+            "ApusPuwizizyAvahi",
+            "ApusPuwizizyAmahi"
+          ],
+          "alrut": [
+            "ApusPuwizizyate",
+            "ApusPuwizizyete",
+            "ApusPuwizizyante",
+            "ApusPuwizizyase",
+            "ApusPuwizizyeTe",
+            "ApusPuwizizyaDve",
+            "ApusPuwizizye",
+            "ApusPuwizizyAvahe",
+            "ApusPuwizizyAmahe"
+          ],
+          "alung": [
+            "ApusPuwizi",
+            "ApusPuwizizAtAm",
+            "ApusPuwizizata",
+            "ApusPuwizizWAH",
+            "ApusPuwizizATAm",
+            "ApusPuwiziDvam",
+            "ApusPuwizizi",
+            "ApusPuwizizvahi",
+            "ApusPuwizizmahi"
+          ],
+          "alut": [
+            "ApusPuwizitA",
+            "ApusPuwizitArO",
+            "ApusPuwizitAraH",
+            "ApusPuwizitAse",
+            "ApusPuwizitAsATe",
+            "ApusPuwizitADve",
+            "ApusPuwizitAhe",
+            "ApusPuwizitAsvahe",
+            "ApusPuwizitAsmahe"
+          ],
+          "avidhiling": [
+            "ApusPuwizyeta",
+            "ApusPuwizyeyAtAm",
+            "ApusPuwizyeran",
+            "ApusPuwizyeTAH",
+            "ApusPuwizyeyATAm",
+            "ApusPuwizyeDvam",
+            "ApusPuwizyeya",
+            "ApusPuwizyevahi",
+            "ApusPuwizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "AsPowayizIzwa",
+            "AsPowayizIyAstAm",
+            "AsPowayizIran",
+            "AsPowayizIzWAH",
+            "AsPowayizIyAsTAm",
+            "AsPowayizIQvam",
+            "AsPowayizIDvam",
+            "AsPowayizIya",
+            "AsPowayizIvahi",
+            "AsPowayizImahi"
+          ],
+          "alang": [
+            "AsPowayata",
+            "AsPowayetAm",
+            "AsPowayanta",
+            "AsPowayaTAH",
+            "AsPowayeTAm",
+            "AsPowayaDvam",
+            "AsPowaye",
+            "AsPowayAvahi",
+            "AsPowayAmahi"
+          ],
+          "alat": [
+            "AsPowayate",
+            "AsPowayete",
+            "AsPowayante",
+            "AsPowayase",
+            "AsPowayeTe",
+            "AsPowayaDve",
+            "AsPowaye",
+            "AsPowayAvahe",
+            "AsPowayAmahe"
+          ],
+          "alit": [
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakre",
+            "AsPowayAmbaBUvatuH",
+            "AsPowayAmAsatuH",
+            "AsPowayAYcakrAte",
+            "AsPowayAmbaBUvuH",
+            "AsPowayAmAsuH",
+            "AsPowayAYcakrire",
+            "AsPowayAmbaBUviTa",
+            "AsPowayAmAsiTa",
+            "AsPowayAYcakfze",
+            "AsPowayAmbaBUvaTuH",
+            "AsPowayAmAsaTuH",
+            "AsPowayAYcakrATe",
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakfQve",
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakre",
+            "AsPowayAmbaBUviva",
+            "AsPowayAmAsiva",
+            "AsPowayAYcakfvahe",
+            "AsPowayAmbaBUvima",
+            "AsPowayAmAsima",
+            "AsPowayAYcakfmahe"
+          ],
+          "alot": [
+            "AsPowayatAm",
+            "AsPowayetAm",
+            "AsPowayantAm",
+            "AsPowayasva",
+            "AsPowayeTAm",
+            "AsPowayaDvam",
+            "AsPowayE",
+            "AsPowayAvahE",
+            "AsPowayAmahE"
+          ],
+          "alrung": [
+            "AsPowayizyata",
+            "AsPowayizyetAm",
+            "AsPowayizyanta",
+            "AsPowayizyaTAH",
+            "AsPowayizyeTAm",
+            "AsPowayizyaDvam",
+            "AsPowayizye",
+            "AsPowayizyAvahi",
+            "AsPowayizyAmahi"
+          ],
+          "alrut": [
+            "AsPowayizyate",
+            "AsPowayizyete",
+            "AsPowayizyante",
+            "AsPowayizyase",
+            "AsPowayizyeTe",
+            "AsPowayizyaDve",
+            "AsPowayizye",
+            "AsPowayizyAvahe",
+            "AsPowayizyAmahe"
+          ],
+          "alung": [
+            "ApusPuwata",
+            "ApusPuwetAm",
+            "ApusPuwanta",
+            "ApusPuwaTAH",
+            "ApusPuweTAm",
+            "ApusPuwaDvam",
+            "ApusPuwe",
+            "ApusPuwAvahi",
+            "ApusPuwAmahi"
+          ],
+          "alut": [
+            "AsPowayitA",
+            "AsPowayitArO",
+            "AsPowayitAraH",
+            "AsPowayitAse",
+            "AsPowayitAsATe",
+            "AsPowayitADve",
+            "AsPowayitAhe",
+            "AsPowayitAsvahe",
+            "AsPowayitAsmahe"
+          ],
+          "avidhiling": [
+            "AsPowayeta",
+            "AsPowayeyAtAm",
+            "AsPowayeran",
+            "AsPowayeTAH",
+            "AsPowayeyATAm",
+            "AsPowayeDvam",
+            "AsPowayeya",
+            "AsPowayevahi",
+            "AsPowayemahi"
+          ],
+          "pashirling": [
+            "AsPowyAt",
+            "AsPowyAd",
+            "AsPowyAstAm",
+            "AsPowyAsuH",
+            "AsPowyAH",
+            "AsPowyAstam",
+            "AsPowyAsta",
+            "AsPowyAsam",
+            "AsPowyAsva",
+            "AsPowyAsma"
+          ],
+          "plang": [
+            "AsPowayat",
+            "AsPowayad",
+            "AsPowayatAm",
+            "AsPowayan",
+            "AsPowayaH",
+            "AsPowayatam",
+            "AsPowayata",
+            "AsPowayam",
+            "AsPowayAva",
+            "AsPowayAma"
+          ],
+          "plat": [
+            "AsPowayati",
+            "AsPowayataH",
+            "AsPowayanti",
+            "AsPowayasi",
+            "AsPowayaTaH",
+            "AsPowayaTa",
+            "AsPowayAmi",
+            "AsPowayAvaH",
+            "AsPowayAmaH"
+          ],
+          "plit": [
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakAra",
+            "AsPowayAmbaBUvatuH",
+            "AsPowayAmAsatuH",
+            "AsPowayAYcakratuH",
+            "AsPowayAmbaBUvuH",
+            "AsPowayAmAsuH",
+            "AsPowayAYcakruH",
+            "AsPowayAmbaBUviTa",
+            "AsPowayAmAsiTa",
+            "AsPowayAYcakarTa",
+            "AsPowayAmbaBUvaTuH",
+            "AsPowayAmAsaTuH",
+            "AsPowayAYcakraTuH",
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakra",
+            "AsPowayAmbaBUva",
+            "AsPowayAmAsa",
+            "AsPowayAYcakara",
+            "AsPowayAYcakAra",
+            "AsPowayAmbaBUviva",
+            "AsPowayAmAsiva",
+            "AsPowayAYcakfva",
+            "AsPowayAmbaBUvima",
+            "AsPowayAmAsima",
+            "AsPowayAYcakfma"
+          ],
+          "plot": [
+            "AsPowayatAt",
+            "AsPowayatAd",
+            "AsPowayatu",
+            "AsPowayatAm",
+            "AsPowayantu",
+            "AsPowayatAt",
+            "AsPowayatAd",
+            "AsPowaya",
+            "AsPowayatam",
+            "AsPowayata",
+            "AsPowayAni",
+            "AsPowayAva",
+            "AsPowayAma"
+          ],
+          "plrung": [
+            "AsPowayizyat",
+            "AsPowayizyad",
+            "AsPowayizyatAm",
+            "AsPowayizyan",
+            "AsPowayizyaH",
+            "AsPowayizyatam",
+            "AsPowayizyata",
+            "AsPowayizyam",
+            "AsPowayizyAva",
+            "AsPowayizyAma"
+          ],
+          "plrut": [
+            "AsPowayizyati",
+            "AsPowayizyataH",
+            "AsPowayizyanti",
+            "AsPowayizyasi",
+            "AsPowayizyaTaH",
+            "AsPowayizyaTa",
+            "AsPowayizyAmi",
+            "AsPowayizyAvaH",
+            "AsPowayizyAmaH"
+          ],
+          "plung": [
+            "ApusPuwat",
+            "ApusPuwad",
+            "ApusPuwatAm",
+            "ApusPuwan",
+            "ApusPuwaH",
+            "ApusPuwatam",
+            "ApusPuwata",
+            "ApusPuwam",
+            "ApusPuwAva",
+            "ApusPuwAma"
+          ],
+          "plut": [
+            "AsPowayitA",
+            "AsPowayitArO",
+            "AsPowayitAraH",
+            "AsPowayitAsi",
+            "AsPowayitAsTaH",
+            "AsPowayitAsTa",
+            "AsPowayitAsmi",
+            "AsPowayitAsvaH",
+            "AsPowayitAsmaH"
+          ],
+          "pvidhiling": [
+            "AsPowayet",
+            "AsPowayed",
+            "AsPowayetAm",
+            "AsPowayeyuH",
+            "AsPowayeH",
+            "AsPowayetam",
+            "AsPowayeta",
+            "AsPowayeyam",
+            "AsPowayeva",
+            "AsPowayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "AsPowizIzwa",
+            "AsPowayizIzwa",
+            "AsPowizIyAstAm",
+            "AsPowayizIyAstAm",
+            "AsPowizIran",
+            "AsPowayizIran",
+            "AsPowizIzWAH",
+            "AsPowayizIzWAH",
+            "AsPowizIyAsTAm",
+            "AsPowayizIyAsTAm",
+            "AsPowizIDvam",
+            "AsPowayizIQvam",
+            "AsPowayizIDvam",
+            "AsPowizIya",
+            "AsPowayizIya",
+            "AsPowizIvahi",
+            "AsPowayizIvahi",
+            "AsPowizImahi",
+            "AsPowayizImahi"
+          ],
+          "alang": [
+            "AsPowyata",
+            "AsPowyetAm",
+            "AsPowyanta",
+            "AsPowyaTAH",
+            "AsPowyeTAm",
+            "AsPowyaDvam",
+            "AsPowye",
+            "AsPowyAvahi",
+            "AsPowyAmahi"
+          ],
+          "alat": [
+            "AsPowyate",
+            "AsPowyete",
+            "AsPowyante",
+            "AsPowyase",
+            "AsPowyeTe",
+            "AsPowyaDve",
+            "AsPowye",
+            "AsPowyAvahe",
+            "AsPowyAmahe"
+          ],
+          "alit": [
+            "AsPowayAmbaBUve",
+            "AsPowayAmAse",
+            "AsPowayAYcakre",
+            "AsPowayAmbaBUvAte",
+            "AsPowayAmAsAte",
+            "AsPowayAYcakrAte",
+            "AsPowayAmbaBUvire",
+            "AsPowayAmAsire",
+            "AsPowayAYcakrire",
+            "AsPowayAmbaBUvize",
+            "AsPowayAmAsize",
+            "AsPowayAYcakfze",
+            "AsPowayAmbaBUvATe",
+            "AsPowayAmAsATe",
+            "AsPowayAYcakrATe",
+            "AsPowayAmbaBUviQve",
+            "AsPowayAmAsiDve",
+            "AsPowayAYcakfQve",
+            "AsPowayAmbaBUve",
+            "AsPowayAmAhe",
+            "AsPowayAYcakre",
+            "AsPowayAmbaBUvivahe",
+            "AsPowayAmAsivahe",
+            "AsPowayAYcakfvahe",
+            "AsPowayAmbaBUvimahe",
+            "AsPowayAmAsimahe",
+            "AsPowayAYcakfmahe"
+          ],
+          "alot": [
+            "AsPowyatAm",
+            "AsPowyetAm",
+            "AsPowyantAm",
+            "AsPowyasva",
+            "AsPowyeTAm",
+            "AsPowyaDvam",
+            "AsPowyE",
+            "AsPowyAvahE",
+            "AsPowyAmahE"
+          ],
+          "alrung": [
+            "AsPowizyata",
+            "AsPowayizyata",
+            "AsPowizyetAm",
+            "AsPowayizyetAm",
+            "AsPowizyanta",
+            "AsPowayizyanta",
+            "AsPowizyaTAH",
+            "AsPowayizyaTAH",
+            "AsPowizyeTAm",
+            "AsPowayizyeTAm",
+            "AsPowizyaDvam",
+            "AsPowayizyaDvam",
+            "AsPowizye",
+            "AsPowayizye",
+            "AsPowizyAvahi",
+            "AsPowayizyAvahi",
+            "AsPowizyAmahi",
+            "AsPowayizyAmahi"
+          ],
+          "alrut": [
+            "AsPowizyate",
+            "AsPowayizyate",
+            "AsPowizyete",
+            "AsPowayizyete",
+            "AsPowizyante",
+            "AsPowayizyante",
+            "AsPowizyase",
+            "AsPowayizyase",
+            "AsPowizyeTe",
+            "AsPowayizyeTe",
+            "AsPowizyaDve",
+            "AsPowayizyaDve",
+            "AsPowizye",
+            "AsPowayizye",
+            "AsPowizyAvahe",
+            "AsPowayizyAvahe",
+            "AsPowizyAmahe",
+            "AsPowayizyAmahe"
+          ],
+          "alung": [
+            "AsPowi",
+            "AsPowizAtAm",
+            "AsPowayizAtAm",
+            "AsPowizata",
+            "AsPowayizata",
+            "AsPowizWAH",
+            "AsPowayizWAH",
+            "AsPowizATAm",
+            "AsPowayizATAm",
+            "AsPowiDvam",
+            "AsPowayiQvam",
+            "AsPowayiDvam",
+            "AsPowizi",
+            "AsPowayizi",
+            "AsPowizvahi",
+            "AsPowayizvahi",
+            "AsPowizmahi",
+            "AsPowayizmahi"
+          ],
+          "alut": [
+            "AsPowitA",
+            "AsPowayitA",
+            "AsPowitArO",
+            "AsPowayitArO",
+            "AsPowitAraH",
+            "AsPowayitAraH",
+            "AsPowitAse",
+            "AsPowayitAse",
+            "AsPowitAsATe",
+            "AsPowayitAsATe",
+            "AsPowitADve",
+            "AsPowayitADve",
+            "AsPowitAhe",
+            "AsPowayitAhe",
+            "AsPowitAsvahe",
+            "AsPowayitAsvahe",
+            "AsPowitAsmahe",
+            "AsPowayitAsmahe"
+          ],
+          "avidhiling": [
+            "AsPowyeta",
+            "AsPowyeyAtAm",
+            "AsPowyeran",
+            "AsPowyeTAH",
+            "AsPowyeyATAm",
+            "AsPowyeDvam",
+            "AsPowyeya",
+            "AsPowyevahi",
+            "AsPowyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "AposPuwizIzwa",
+            "AposPuwizIyAstAm",
+            "AposPuwizIran",
+            "AposPuwizIzWAH",
+            "AposPuwizIyAsTAm",
+            "AposPuwizIDvam",
+            "AposPuwizIya",
+            "AposPuwizIvahi",
+            "AposPuwizImahi"
+          ],
+          "alang": [
+            "AposPuwyata",
+            "AposPuwyetAm",
+            "AposPuwyanta",
+            "AposPuwyaTAH",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwye",
+            "AposPuwyAvahi",
+            "AposPuwyAmahi"
+          ],
+          "alat": [
+            "AposPuwyate",
+            "AposPuwyete",
+            "AposPuwyante",
+            "AposPuwyase",
+            "AposPuwyeTe",
+            "AposPuwyaDve",
+            "AposPuwye",
+            "AposPuwyAvahe",
+            "AposPuwyAmahe"
+          ],
+          "alit": [
+            "AposPuwAmbaBUva",
+            "AposPuwAmAsa",
+            "AposPuwAYcakre",
+            "AposPuwAmbaBUvatuH",
+            "AposPuwAmAsatuH",
+            "AposPuwAYcakrAte",
+            "AposPuwAmbaBUvuH",
+            "AposPuwAmAsuH",
+            "AposPuwAYcakrire",
+            "AposPuwAmbaBUviTa",
+            "AposPuwAmAsiTa",
+            "AposPuwAYcakfze",
+            "AposPuwAmbaBUvaTuH",
+            "AposPuwAmAsaTuH",
+            "AposPuwAYcakrATe",
+            "AposPuwAmbaBUva",
+            "AposPuwAmAsa",
+            "AposPuwAYcakfQve",
+            "AposPuwAmbaBUva",
+            "AposPuwAmAsa",
+            "AposPuwAYcakre",
+            "AposPuwAmbaBUviva",
+            "AposPuwAmAsiva",
+            "AposPuwAYcakfvahe",
+            "AposPuwAmbaBUvima",
+            "AposPuwAmAsima",
+            "AposPuwAYcakfmahe"
+          ],
+          "alot": [
+            "AposPuwyatAm",
+            "AposPuwyetAm",
+            "AposPuwyantAm",
+            "AposPuwyasva",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwyE",
+            "AposPuwyAvahE",
+            "AposPuwyAmahE"
+          ],
+          "alrung": [
+            "AposPuwizyata",
+            "AposPuwizyetAm",
+            "AposPuwizyanta",
+            "AposPuwizyaTAH",
+            "AposPuwizyeTAm",
+            "AposPuwizyaDvam",
+            "AposPuwizye",
+            "AposPuwizyAvahi",
+            "AposPuwizyAmahi"
+          ],
+          "alrut": [
+            "AposPuwizyate",
+            "AposPuwizyete",
+            "AposPuwizyante",
+            "AposPuwizyase",
+            "AposPuwizyeTe",
+            "AposPuwizyaDve",
+            "AposPuwizye",
+            "AposPuwizyAvahe",
+            "AposPuwizyAmahe"
+          ],
+          "alung": [
+            "AposPuwizwa",
+            "AposPuwizAtAm",
+            "AposPuwizata",
+            "AposPuwizWAH",
+            "AposPuwizATAm",
+            "AposPuwiDvam",
+            "AposPuwizi",
+            "AposPuwizvahi",
+            "AposPuwizmahi"
+          ],
+          "alut": [
+            "AposPuwitA",
+            "AposPuwitArO",
+            "AposPuwitAraH",
+            "AposPuwitAse",
+            "AposPuwitAsATe",
+            "AposPuwitADve",
+            "AposPuwitAhe",
+            "AposPuwitAsvahe",
+            "AposPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "AposPuwyeta",
+            "AposPuwyeyAtAm",
+            "AposPuwyeran",
+            "AposPuwyeTAH",
+            "AposPuwyeyATAm",
+            "AposPuwyeDvam",
+            "AposPuwyeya",
+            "AposPuwyevahi",
+            "AposPuwyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "AposPuwizIzwa",
+            "AposPuwizIyAstAm",
+            "AposPuwizIran",
+            "AposPuwizIzWAH",
+            "AposPuwizIyAsTAm",
+            "AposPuwizIDvam",
+            "AposPuwizIya",
+            "AposPuwizIvahi",
+            "AposPuwizImahi"
+          ],
+          "alang": [
+            "AposPuwyata",
+            "AposPuwyetAm",
+            "AposPuwyanta",
+            "AposPuwyaTAH",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwye",
+            "AposPuwyAvahi",
+            "AposPuwyAmahi"
+          ],
+          "alat": [
+            "AposPuwyate",
+            "AposPuwyete",
+            "AposPuwyante",
+            "AposPuwyase",
+            "AposPuwyeTe",
+            "AposPuwyaDve",
+            "AposPuwye",
+            "AposPuwyAvahe",
+            "AposPuwyAmahe"
+          ],
+          "alit": [
+            "AposPuwAmbaBUve",
+            "AposPuwAmAse",
+            "AposPuwAYcakre",
+            "AposPuwAmbaBUvAte",
+            "AposPuwAmAsAte",
+            "AposPuwAYcakrAte",
+            "AposPuwAmbaBUvire",
+            "AposPuwAmAsire",
+            "AposPuwAYcakrire",
+            "AposPuwAmbaBUvize",
+            "AposPuwAmAsize",
+            "AposPuwAYcakfze",
+            "AposPuwAmbaBUvATe",
+            "AposPuwAmAsATe",
+            "AposPuwAYcakrATe",
+            "AposPuwAmbaBUviQve",
+            "AposPuwAmAsiDve",
+            "AposPuwAYcakfQve",
+            "AposPuwAmbaBUve",
+            "AposPuwAmAhe",
+            "AposPuwAYcakre",
+            "AposPuwAmbaBUvivahe",
+            "AposPuwAmAsivahe",
+            "AposPuwAYcakfvahe",
+            "AposPuwAmbaBUvimahe",
+            "AposPuwAmAsimahe",
+            "AposPuwAYcakfmahe"
+          ],
+          "alot": [
+            "AposPuwyatAm",
+            "AposPuwyetAm",
+            "AposPuwyantAm",
+            "AposPuwyasva",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwyE",
+            "AposPuwyAvahE",
+            "AposPuwyAmahE"
+          ],
+          "alrung": [
+            "AposPuwizyata",
+            "AposPuwizyetAm",
+            "AposPuwizyanta",
+            "AposPuwizyaTAH",
+            "AposPuwizyeTAm",
+            "AposPuwizyaDvam",
+            "AposPuwizye",
+            "AposPuwizyAvahi",
+            "AposPuwizyAmahi"
+          ],
+          "alrut": [
+            "AposPuwizyate",
+            "AposPuwizyete",
+            "AposPuwizyante",
+            "AposPuwizyase",
+            "AposPuwizyeTe",
+            "AposPuwizyaDve",
+            "AposPuwizye",
+            "AposPuwizyAvahe",
+            "AposPuwizyAmahe"
+          ],
+          "alung": [
+            "AposPuwi",
+            "AposPuwizAtAm",
+            "AposPuwizata",
+            "AposPuwizWAH",
+            "AposPuwizATAm",
+            "AposPuwiDvam",
+            "AposPuwizi",
+            "AposPuwizvahi",
+            "AposPuwizmahi"
+          ],
+          "alut": [
+            "AposPuwitA",
+            "AposPuwitArO",
+            "AposPuwitAraH",
+            "AposPuwitAse",
+            "AposPuwitAsATe",
+            "AposPuwitADve",
+            "AposPuwitAhe",
+            "AposPuwitAsvahe",
+            "AposPuwitAsmahe"
+          ],
+          "avidhiling": [
+            "AposPuwyeta",
+            "AposPuwyeyAtAm",
+            "AposPuwyeran",
+            "AposPuwyeTAH",
+            "AposPuwyeyATAm",
+            "AposPuwyeDvam",
+            "AposPuwyeya",
+            "AposPuwyevahi",
+            "AposPuwyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "AposPuwyAt",
+            "AposPuwyAd",
+            "AposPuwyAstAm",
+            "AposPuwyAsuH",
+            "AposPuwyAH",
+            "AposPuwyAstam",
+            "AposPuwyAsta",
+            "AposPuwyAsam",
+            "AposPuwyAsva",
+            "AposPuwyAsma"
+          ],
+          "plang": [
+            "AposPuwIt",
+            "AposPuwId",
+            "AposPow",
+            "AposPoq",
+            "AposPuwwAm",
+            "AposPuwuH",
+            "AposPuwIH",
+            "AposPow",
+            "AposPoq",
+            "AposPuwwam",
+            "AposPuwwa",
+            "AposPuwam",
+            "AposPuwva",
+            "AposPuwma"
+          ],
+          "plat": [
+            "AposPuwIti",
+            "AposPowwi",
+            "AposPuwwaH",
+            "AposPuwati",
+            "AposPuwIzi",
+            "AposPowzi",
+            "AposPuwWaH",
+            "AposPuwWa",
+            "AposPuwImi",
+            "AposPowmi",
+            "AposPuwvaH",
+            "AposPuwmaH"
+          ],
+          "plit": [
+            "AposPowAmbaBUva",
+            "AposPowAmAsa",
+            "AposPowAYcakAra",
+            "AposPowAmbaBUvatuH",
+            "AposPowAmAsatuH",
+            "AposPowAYcakratuH",
+            "AposPowAmbaBUvuH",
+            "AposPowAmAsuH",
+            "AposPowAYcakruH",
+            "AposPowAmbaBUviTa",
+            "AposPowAmAsiTa",
+            "AposPowAYcakarTa",
+            "AposPowAmbaBUvaTuH",
+            "AposPowAmAsaTuH",
+            "AposPowAYcakraTuH",
+            "AposPowAmbaBUva",
+            "AposPowAmAsa",
+            "AposPowAYcakra",
+            "AposPowAmbaBUva",
+            "AposPowAmAsa",
+            "AposPowAYcakara",
+            "AposPowAYcakAra",
+            "AposPowAmbaBUviva",
+            "AposPowAmAsiva",
+            "AposPowAYcakfva",
+            "AposPowAmbaBUvima",
+            "AposPowAmAsima",
+            "AposPowAYcakfma"
+          ],
+          "plot": [
+            "AposPuwwAt",
+            "AposPuwwAd",
+            "AposPuwItu",
+            "AposPowwu",
+            "AposPuwwAm",
+            "AposPuwatu",
+            "AposPuwwAt",
+            "AposPuwwAd",
+            "AposPuqQi",
+            "AposPuwwam",
+            "AposPuwwa",
+            "AposPuwAni",
+            "AposPuwAva",
+            "AposPuwAma"
+          ],
+          "plrung": [
+            "AposPowizyat",
+            "AposPowizyad",
+            "AposPowizyatAm",
+            "AposPowizyan",
+            "AposPowizyaH",
+            "AposPowizyatam",
+            "AposPowizyata",
+            "AposPowizyam",
+            "AposPowizyAva",
+            "AposPowizyAma"
+          ],
+          "plrut": [
+            "AposPowizyati",
+            "AposPowizyataH",
+            "AposPowizyanti",
+            "AposPowizyasi",
+            "AposPowizyaTaH",
+            "AposPowizyaTa",
+            "AposPowizyAmi",
+            "AposPowizyAvaH",
+            "AposPowizyAmaH"
+          ],
+          "plung": [
+            "AposPowIt",
+            "AposPowId",
+            "AposPowizwAm",
+            "AposPowizuH",
+            "AposPowIH",
+            "AposPowizwam",
+            "AposPowizwa",
+            "AposPowizam",
+            "AposPowizva",
+            "AposPowizma"
+          ],
+          "plut": [
+            "AposPowitA",
+            "AposPowitArO",
+            "AposPowitAraH",
+            "AposPowitAsi",
+            "AposPowitAsTaH",
+            "AposPowitAsTa",
+            "AposPowitAsmi",
+            "AposPowitAsvaH",
+            "AposPowitAsmaH"
+          ],
+          "pvidhiling": [
+            "AposPuwyAt",
+            "AposPuwyAd",
+            "AposPuwyAtAm",
+            "AposPuwyuH",
+            "AposPuwyAH",
+            "AposPuwyAtam",
+            "AposPuwyAta",
+            "AposPuwyAm",
+            "AposPuwyAva",
+            "AposPuwyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "AposPowizIzwa",
+            "AposPowizIyAstAm",
+            "AposPowizIran",
+            "AposPowizIzWAH",
+            "AposPowizIyAsTAm",
+            "AposPowizIDvam",
+            "AposPowizIya",
+            "AposPowizIvahi",
+            "AposPowizImahi"
+          ],
+          "alang": [
+            "AposPuwyata",
+            "AposPuwyetAm",
+            "AposPuwyanta",
+            "AposPuwyaTAH",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwye",
+            "AposPuwyAvahi",
+            "AposPuwyAmahi"
+          ],
+          "alat": [
+            "AposPuwyate",
+            "AposPuwyete",
+            "AposPuwyante",
+            "AposPuwyase",
+            "AposPuwyeTe",
+            "AposPuwyaDve",
+            "AposPuwye",
+            "AposPuwyAvahe",
+            "AposPuwyAmahe"
+          ],
+          "alit": [
+            "AposPowAmbaBUve",
+            "AposPowAmAse",
+            "AposPowAYcakre",
+            "AposPowAmbaBUvAte",
+            "AposPowAmAsAte",
+            "AposPowAYcakrAte",
+            "AposPowAmbaBUvire",
+            "AposPowAmAsire",
+            "AposPowAYcakrire",
+            "AposPowAmbaBUvize",
+            "AposPowAmAsize",
+            "AposPowAYcakfze",
+            "AposPowAmbaBUvATe",
+            "AposPowAmAsATe",
+            "AposPowAYcakrATe",
+            "AposPowAmbaBUviQve",
+            "AposPowAmAsiDve",
+            "AposPowAYcakfQve",
+            "AposPowAmbaBUve",
+            "AposPowAmAhe",
+            "AposPowAYcakre",
+            "AposPowAmbaBUvivahe",
+            "AposPowAmAsivahe",
+            "AposPowAYcakfvahe",
+            "AposPowAmbaBUvimahe",
+            "AposPowAmAsimahe",
+            "AposPowAYcakfmahe"
+          ],
+          "alot": [
+            "AposPuwyatAm",
+            "AposPuwyetAm",
+            "AposPuwyantAm",
+            "AposPuwyasva",
+            "AposPuwyeTAm",
+            "AposPuwyaDvam",
+            "AposPuwyE",
+            "AposPuwyAvahE",
+            "AposPuwyAmahE"
+          ],
+          "alrung": [
+            "AposPowizyata",
+            "AposPowizyetAm",
+            "AposPowizyanta",
+            "AposPowizyaTAH",
+            "AposPowizyeTAm",
+            "AposPowizyaDvam",
+            "AposPowizye",
+            "AposPowizyAvahi",
+            "AposPowizyAmahi"
+          ],
+          "alrut": [
+            "AposPowizyate",
+            "AposPowizyete",
+            "AposPowizyante",
+            "AposPowizyase",
+            "AposPowizyeTe",
+            "AposPowizyaDve",
+            "AposPowizye",
+            "AposPowizyAvahe",
+            "AposPowizyAmahe"
+          ],
+          "alung": [
+            "AposPowi",
+            "AposPowizAtAm",
+            "AposPowizata",
+            "AposPowizWAH",
+            "AposPowizATAm",
+            "AposPowiDvam",
+            "AposPowizi",
+            "AposPowizvahi",
+            "AposPowizmahi"
+          ],
+          "alut": [
+            "AposPowitA",
+            "AposPowitArO",
+            "AposPowitAraH",
+            "AposPowitAse",
+            "AposPowitAsATe",
+            "AposPowitADve",
+            "AposPowitAhe",
+            "AposPowitAsvahe",
+            "AposPowitAsmahe"
+          ],
+          "avidhiling": [
+            "AposPuwyeta",
+            "AposPuwyeyAtAm",
+            "AposPuwyeran",
+            "AposPuwyeTAH",
+            "AposPuwyeyATAm",
+            "AposPuwyeDvam",
+            "AposPuwyeya",
+            "AposPuwyevahi",
+            "AposPuwyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "anIyar": [
+            {
+              "base": "AsPuwanIya",
+              "m": "AsPuwanIyaH",
+              "f": "AsPuwanIyA",
+              "n": "AsPuwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "AsPuwita",
+              "m": "AsPuwitaH",
+              "f": "AsPuwitA",
+              "n": "AsPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "AsPuwitavat",
+              "m": "AsPuwitavAn",
+              "f": "AsPuwitavatI",
+              "n": "AsPuwitavat/AsPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "AsPuwwi",
+              "m": "",
+              "f": "AsPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ApusPuwvas",
+              "m": "ApusPuwvAn",
+              "f": "ApusPuwuzI",
+              "n": "ApusPuwvat/ApusPuwvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "AsPowa",
+              "m": "AsPowaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AsPuwamAna",
+              "m": "AsPuwamAnaH",
+              "f": "AsPuwamAnA",
+              "n": "AsPuwamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "AsPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "AsPowya",
+              "m": "AsPowyaH",
+              "f": "AsPowyA",
+              "n": "AsPowyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "AsPowaka",
+              "m": "AsPowakaH",
+              "f": "AsPowikA",
+              "n": "AsPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "AsPuwitavya",
+              "m": "AsPuwitavyaH",
+              "f": "AsPuwitavyA",
+              "n": "AsPuwitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "AsPuwitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "AsPuwitf",
+              "m": "AsPuwitA",
+              "f": "AsPuwitrI",
+              "n": "AsPuwitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "AsPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "AsPuwana",
+              "m": "",
+              "f": "",
+              "n": "AsPuwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "AsPuwaka",
+              "m": "AsPuwakaH",
+              "f": "AsPuwikA",
+              "n": "AsPuwakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "AsPuwat",
+              "m": "AsPuwan",
+              "f": "AsPuwantI",
+              "n": "AsPuwat/AsPuwad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "AsPuwat",
+              "m": "AsPuwan",
+              "f": "AsPuwatI/AsPuwantI",
+              "n": "AsPuwat/AsPuwad"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "ApusPuwizA",
+              "m": "",
+              "f": "ApusPuwizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ApusPuwiza",
+              "m": "ApusPuwizaH",
+              "f": "ApusPuwizA",
+              "n": "ApusPuwizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ApusPuwizaRIya",
+              "m": "ApusPuwizaRIyaH",
+              "f": "ApusPuwizaRIyA",
+              "n": "ApusPuwizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "ApusPuwizu",
+              "m": "ApusPuwizuH",
+              "f": "ApusPuwizuH",
+              "n": "ApusPuwizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ApusPuwizita",
+              "m": "ApusPuwizitaH",
+              "f": "ApusPuwizitA",
+              "n": "ApusPuwizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ApusPuwizitavat",
+              "m": "ApusPuwizitavAn",
+              "f": "ApusPuwizitavatI",
+              "n": "ApusPuwizitavat/ApusPuwizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ApusPuwizwi",
+              "m": "",
+              "f": "ApusPuwizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ApusPuwizAmbaBUvas",
+              "m": "ApusPuwizAmbaBUvAn",
+              "f": "ApusPuwizAmbaBUzI",
+              "n": "ApusPuwizAmbaBUvat/ApusPuwizAmbaBUvad"
+            },
+            {
+              "base": "ApusPuwizAmAsivas",
+              "m": "ApusPuwizAmAsivAn",
+              "f": "ApusPuwizAmAsyuzI",
+              "n": "ApusPuwizAmAsivat/ApusPuwizAmAsivad"
+            },
+            {
+              "base": "ApusPuwizAYcakfvas",
+              "m": "ApusPuwizAYcakfvAn",
+              "f": "ApusPuwizAYcakruzI",
+              "n": "ApusPuwizAYcakfvat/ApusPuwizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ApusPuwiza",
+              "m": "ApusPuwizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ApusPuwizamARa",
+              "m": "ApusPuwizamARaH",
+              "f": "ApusPuwizamARA",
+              "n": "ApusPuwizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ApusPuwizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ApusPuwizaka",
+              "m": "ApusPuwizakaH",
+              "f": "ApusPuwizikA",
+              "n": "ApusPuwizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ApusPuwizitavya",
+              "m": "ApusPuwizitavyaH",
+              "f": "ApusPuwizitavyA",
+              "n": "ApusPuwizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ApusPuwizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ApusPuwizitf",
+              "m": "ApusPuwizitA",
+              "f": "ApusPuwizitrI",
+              "n": "ApusPuwizitf"
+            }
+          ],
+          "yat": [
+            {
+              "base": "ApusPuwizya",
+              "m": "ApusPuwizyaH",
+              "f": "ApusPuwizyA",
+              "n": "ApusPuwizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ApusPuwizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ApusPuwizaRa",
+              "m": "",
+              "f": "",
+              "n": "ApusPuwizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ApusPuwizaka",
+              "m": "ApusPuwizakaH",
+              "f": "ApusPuwizikA",
+              "n": "ApusPuwizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "ApusPuwizat",
+              "m": "ApusPuwizan",
+              "f": "ApusPuwizantI",
+              "n": "ApusPuwizat/ApusPuwizad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "ApusPuwizat",
+              "m": "ApusPuwizan",
+              "f": "ApusPuwizatI/ApusPuwizantI",
+              "n": "ApusPuwizat/ApusPuwizad"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "AsPowa",
+              "m": "AsPowaH",
+              "f": "AsPowA",
+              "n": "AsPowam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AsPowanIya",
+              "m": "AsPowanIyaH",
+              "f": "AsPowanIyA",
+              "n": "AsPowanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "AsPowita",
+              "m": "AsPowitaH",
+              "f": "AsPowitA",
+              "n": "AsPowitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "AsPowitavat",
+              "m": "AsPowitavAn",
+              "f": "AsPowitavatI",
+              "n": "AsPowitavat/AsPowitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "AsPowwi",
+              "m": "",
+              "f": "AsPowwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AsPowayAmbaBUvas",
+              "m": "AsPowayAmbaBUvAn",
+              "f": "AsPowayAmbaBUzI",
+              "n": "AsPowayAmbaBUvat/AsPowayAmbaBUvad"
+            },
+            {
+              "base": "AsPowayAmAsivas",
+              "m": "AsPowayAmAsivAn",
+              "f": "AsPowayAmAsyuzI",
+              "n": "AsPowayAmAsivat/AsPowayAmAsivad"
+            },
+            {
+              "base": "AsPowayAYcakfvas",
+              "m": "AsPowayAYcakfvAn",
+              "f": "AsPowayAYcakruzI",
+              "n": "AsPowayAYcakfvat/AsPowayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AsPowayamAna",
+              "m": "AsPowayamAnaH",
+              "f": "AsPowayamAnA",
+              "n": "AsPowayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "AsPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "AsPowaka",
+              "m": "AsPowakaH",
+              "f": "AsPowikA",
+              "n": "AsPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "AsPowayitavya",
+              "m": "AsPowayitavyaH",
+              "f": "AsPowayitavyA",
+              "n": "AsPowayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "AsPowayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "AsPowayitf",
+              "m": "AsPowayitA",
+              "f": "AsPowayitrI",
+              "n": "AsPowayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AsPowayamAna",
+              "m": "AsPowayamAnaH",
+              "f": "AsPowayamAnA",
+              "n": "AsPowayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "AsPowya",
+              "m": "AsPowyaH",
+              "f": "AsPowyA",
+              "n": "AsPowyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "AsPowya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "AsPowana",
+              "m": "",
+              "f": "",
+              "n": "AsPowanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "AsPowaka",
+              "m": "AsPowakaH",
+              "f": "AsPowikA",
+              "n": "AsPowakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "AsPowayat",
+              "m": "AsPowayan",
+              "f": "AsPowayantI",
+              "n": "AsPowayat/AsPowayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AsPowayamAna",
+              "m": "AsPowayamAnaH",
+              "f": "AsPowayamAnA",
+              "n": "AsPowayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AsPowayamAna",
+              "m": "AsPowayamAnaH",
+              "f": "AsPowayamAnA",
+              "n": "AsPowayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "AsPowayat",
+              "m": "AsPowayan",
+              "f": "AsPowayatI/AsPowayantI",
+              "n": "AsPowayat/AsPowayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AsPowayamAna",
+              "m": "AsPowayamAnaH",
+              "f": "AsPowayamAnA",
+              "n": "AsPowayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "AposPuwA",
+              "m": "",
+              "f": "AposPuwA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "AposPuwa",
+              "m": "AposPuwaH",
+              "f": "AposPuwA",
+              "n": "AposPuwam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AposPuwanIya",
+              "m": "AposPuwanIyaH",
+              "f": "AposPuwanIyA",
+              "n": "AposPuwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "AposPuwita",
+              "m": "AposPuwitaH",
+              "f": "AposPuwitA",
+              "n": "AposPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "AposPuwitavat",
+              "m": "AposPuwitavAn",
+              "f": "AposPuwitavatI",
+              "n": "AposPuwitavat/AposPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "AposPuwwi",
+              "m": "",
+              "f": "AposPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AposPuwAmbaBUvas",
+              "m": "AposPuwAmbaBUvAn",
+              "f": "AposPuwAmbaBUzI",
+              "n": "AposPuwAmbaBUvat/AposPuwAmbaBUvad"
+            },
+            {
+              "base": "AposPuwAmAsivas",
+              "m": "AposPuwAmAsivAn",
+              "f": "AposPuwAmAsyuzI",
+              "n": "AposPuwAmAsivat/AposPuwAmAsivad"
+            },
+            {
+              "base": "AposPuwAYcakfvas",
+              "m": "AposPuwAYcakfvAn",
+              "f": "AposPuwAYcakruzI",
+              "n": "AposPuwAYcakfvat/AposPuwAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "AposPuwa",
+              "m": "AposPuwaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AposPuwyamAna",
+              "m": "AposPuwyamAnaH",
+              "f": "AposPuwyamAnA",
+              "n": "AposPuwyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "AposPuwam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "AposPuwaka",
+              "m": "AposPuwakaH",
+              "f": "AposPuwikA",
+              "n": "AposPuwakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "AposPuwitavya",
+              "m": "AposPuwitavyaH",
+              "f": "AposPuwitavyA",
+              "n": "AposPuwitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "AposPuwitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "AposPuwitf",
+              "m": "AposPuwitA",
+              "f": "AposPuwitrI",
+              "n": "AposPuwitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "AposPuwyamAna",
+              "m": "AposPuwyamAnaH",
+              "f": "AposPuwyamAnA",
+              "n": "AposPuwyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "AposPuwya",
+              "m": "AposPuwyaH",
+              "f": "AposPuwyA",
+              "n": "AposPuwyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "AposPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "AposPuwana",
+              "m": "",
+              "f": "",
+              "n": "AposPuwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "AposPuwaka",
+              "m": "AposPuwakaH",
+              "f": "AposPuwikA",
+              "n": "AposPuwakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "AposPuwyamAna",
+              "m": "AposPuwyamAnaH",
+              "f": "AposPuwyamAnA",
+              "n": "AposPuwyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "AposPuwyamAna",
+              "m": "AposPuwyamAnaH",
+              "f": "AposPuwyamAnA",
+              "n": "AposPuwyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "AposPuwyamAna",
+              "m": "AposPuwyamAnaH",
+              "f": "AposPuwyamAnA",
+              "n": "AposPuwyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "AposPowA",
+              "m": "",
+              "f": "AposPowA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "AposPowa",
+              "m": "AposPowaH",
+              "f": "AposPowA",
+              "n": "AposPowam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "AposPowanIya",
+              "m": "AposPowanIyaH",
+              "f": "AposPowanIyA",
+              "n": "AposPowanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "AposPuwita",
+              "m": "AposPuwitaH",
+              "f": "AposPuwitA",
+              "n": "AposPuwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "AposPuwitavat",
+              "m": "AposPuwitavAn",
+              "f": "AposPuwitavatI",
+              "n": "AposPuwitavat/AposPuwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "AposPuwwi",
+              "m": "",
+              "f": "AposPuwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "AposPowAmbaBUvas",
+              "m": "AposPowAmbaBUvAn",
+              "f": "AposPowAmbaBUzI",
+              "n": "AposPowAmbaBUvat/AposPowAmbaBUvad"
+            },
+            {
+              "base": "AposPowAmAsivas",
+              "m": "AposPowAmAsivAn",
+              "f": "AposPowAmAsyuzI",
+              "n": "AposPowAmAsivat/AposPowAmAsivad"
+            },
+            {
+              "base": "AposPowAYcakfvas",
+              "m": "AposPowAYcakfvAn",
+              "f": "AposPowAYcakruzI",
+              "n": "AposPowAYcakfvat/AposPowAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "AposPowa",
+              "m": "AposPowaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "AposPuwAna",
+              "m": "AposPuwAnaH",
+              "f": "AposPuwAnA",
+              "n": "AposPuwAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "AposPowam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "AposPowaka",
+              "m": "AposPowakaH",
+              "f": "AposPowikA",
+              "n": "AposPowakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "AposPowitavya",
+              "m": "AposPowitavyaH",
+              "f": "AposPowitavyA",
+              "n": "AposPowitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "AposPowitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "AposPowitf",
+              "m": "AposPowitA",
+              "f": "AposPowitrI",
+              "n": "AposPowitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "AposPuwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "AposPowana",
+              "m": "",
+              "f": "",
+              "n": "AposPowanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "AposPowaka",
+              "m": "AposPowakaH",
+              "f": "AposPowikA",
+              "n": "AposPowakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "AposPuwat",
+              "m": "AposPuwan",
+              "f": "AposPuwatI",
+              "n": "AposPuwat/AposPuwad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "AposPuwat",
+              "m": "AposPuwan",
+              "f": "AposPuwatI/AposPuwantI",
+              "n": "AposPuwat/AposPuwad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

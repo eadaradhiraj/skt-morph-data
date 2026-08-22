@@ -1,0 +1,2921 @@
+{
+  "id": "04.0017",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "tima~"
+    },
+    {
+      "name": "arTaH",
+      "value": "ArdrIBAve"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to be wet,to be moist"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "Adra honA, gIlA honA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "divAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1123"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1123"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2506",
+      "ext_link": "/sutraani/sk2506?scroll=sutra-commentary-kaumudi-region&highlight=taima"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "timyAt",
+        "timyAd",
+        "timyAstAm",
+        "timyAsuH",
+        "timyAH",
+        "timyAstam",
+        "timyAsta",
+        "timyAsam",
+        "timyAsva",
+        "timyAsma"
+      ],
+      "plang": [
+        "atimyat",
+        "atimyad",
+        "atimyatAm",
+        "atimyan",
+        "atimyaH",
+        "atimyatam",
+        "atimyata",
+        "atimyam",
+        "atimyAva",
+        "atimyAma"
+      ],
+      "plat": [
+        "timyati",
+        "timyataH",
+        "timyanti",
+        "timyasi",
+        "timyaTaH",
+        "timyaTa",
+        "timyAmi",
+        "timyAvaH",
+        "timyAmaH"
+      ],
+      "plit": [
+        "titema",
+        "titimatuH",
+        "titimuH",
+        "titemiTa",
+        "titimaTuH",
+        "titima",
+        "titema",
+        "titimiva",
+        "titimima"
+      ],
+      "plot": [
+        "timyatAt",
+        "timyatAd",
+        "timyatu",
+        "timyatAm",
+        "timyantu",
+        "timya",
+        "timyatAt",
+        "timyatAd",
+        "timyatam",
+        "timyata",
+        "timyAni",
+        "timyAva",
+        "timyAma"
+      ],
+      "plrung": [
+        "atemizyat",
+        "atemizyad",
+        "atemizyatAm",
+        "atemizyan",
+        "atemizyaH",
+        "atemizyatam",
+        "atemizyata",
+        "atemizyam",
+        "atemizyAva",
+        "atemizyAma"
+      ],
+      "plrut": [
+        "temizyati",
+        "temizyataH",
+        "temizyanti",
+        "temizyasi",
+        "temizyaTaH",
+        "temizyaTa",
+        "temizyAmi",
+        "temizyAvaH",
+        "temizyAmaH"
+      ],
+      "plung": [
+        "atemIt",
+        "atemId",
+        "atemizwAm",
+        "atemizuH",
+        "atemIH",
+        "atemizwam",
+        "atemizwa",
+        "atemizam",
+        "atemizva",
+        "atemizma"
+      ],
+      "plut": [
+        "temitA",
+        "temitArO",
+        "temitAraH",
+        "temitAsi",
+        "temitAsTaH",
+        "temitAsTa",
+        "temitAsmi",
+        "temitAsvaH",
+        "temitAsmaH"
+      ],
+      "pvidhiling": [
+        "timyet",
+        "timyed",
+        "timyetAm",
+        "timyeyuH",
+        "timyeH",
+        "timyetam",
+        "timyeta",
+        "timyeyam",
+        "timyeva",
+        "timyema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "temizIzwa",
+        "temizIyAstAm",
+        "temizIran",
+        "temizIzWAH",
+        "temizIyAsTAm",
+        "temizIDvam",
+        "temizIya",
+        "temizIvahi",
+        "temizImahi"
+      ],
+      "alang": [
+        "atimyata",
+        "atimyetAm",
+        "atimyanta",
+        "atimyaTAH",
+        "atimyeTAm",
+        "atimyaDvam",
+        "atimye",
+        "atimyAvahi",
+        "atimyAmahi"
+      ],
+      "alat": [
+        "timyate",
+        "timyete",
+        "timyante",
+        "timyase",
+        "timyeTe",
+        "timyaDve",
+        "timye",
+        "timyAvahe",
+        "timyAmahe"
+      ],
+      "alit": [
+        "titime",
+        "titimAte",
+        "titimire",
+        "titimize",
+        "titimATe",
+        "titimiDve",
+        "titime",
+        "titimivahe",
+        "titimimahe"
+      ],
+      "alot": [
+        "timyatAm",
+        "timyetAm",
+        "timyantAm",
+        "timyasva",
+        "timyeTAm",
+        "timyaDvam",
+        "timyE",
+        "timyAvahE",
+        "timyAmahE"
+      ],
+      "alrung": [
+        "atemizyata",
+        "atemizyetAm",
+        "atemizyanta",
+        "atemizyaTAH",
+        "atemizyeTAm",
+        "atemizyaDvam",
+        "atemizye",
+        "atemizyAvahi",
+        "atemizyAmahi"
+      ],
+      "alrut": [
+        "temizyate",
+        "temizyete",
+        "temizyante",
+        "temizyase",
+        "temizyeTe",
+        "temizyaDve",
+        "temizye",
+        "temizyAvahe",
+        "temizyAmahe"
+      ],
+      "alung": [
+        "atemi",
+        "atemizAtAm",
+        "atemizata",
+        "atemizWAH",
+        "atemizATAm",
+        "atemiDvam",
+        "atemizi",
+        "atemizvahi",
+        "atemizmahi"
+      ],
+      "alut": [
+        "temitA",
+        "temitArO",
+        "temitAraH",
+        "temitAse",
+        "temitAsATe",
+        "temitADve",
+        "temitAhe",
+        "temitAsvahe",
+        "temitAsmahe"
+      ],
+      "avidhiling": [
+        "timyeta",
+        "timyeyAtAm",
+        "timyeran",
+        "timyeTAH",
+        "timyeyATAm",
+        "timyeDvam",
+        "timyeya",
+        "timyevahi",
+        "timyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "titimizyAt",
+        "titimizyAd",
+        "titemizyAt",
+        "titemizyAd",
+        "titimizyAstAm",
+        "titemizyAstAm",
+        "titimizyAsuH",
+        "titemizyAsuH",
+        "titimizyAH",
+        "titemizyAH",
+        "titimizyAstam",
+        "titemizyAstam",
+        "titimizyAsta",
+        "titemizyAsta",
+        "titimizyAsam",
+        "titemizyAsam",
+        "titimizyAsva",
+        "titemizyAsva",
+        "titimizyAsma",
+        "titemizyAsma"
+      ],
+      "plang": [
+        "atitimizat",
+        "atitimizad",
+        "atitemizat",
+        "atitemizad",
+        "atitimizatAm",
+        "atitemizatAm",
+        "atitimizan",
+        "atitemizan",
+        "atitimizaH",
+        "atitemizaH",
+        "atitimizatam",
+        "atitemizatam",
+        "atitimizata",
+        "atitemizata",
+        "atitimizam",
+        "atitemizam",
+        "atitimizAva",
+        "atitemizAva",
+        "atitimizAma",
+        "atitemizAma"
+      ],
+      "plat": [
+        "titimizati",
+        "titemizati",
+        "titimizataH",
+        "titemizataH",
+        "titimizanti",
+        "titemizanti",
+        "titimizasi",
+        "titemizasi",
+        "titimizaTaH",
+        "titemizaTaH",
+        "titimizaTa",
+        "titemizaTa",
+        "titimizAmi",
+        "titemizAmi",
+        "titimizAvaH",
+        "titemizAvaH",
+        "titimizAmaH",
+        "titemizAmaH"
+      ],
+      "plit": [
+        "titimizAYcakAra",
+        "titimizAmAsa",
+        "titimizAmbaBUva",
+        "titemizAYcakAra",
+        "titemizAmAsa",
+        "titemizAmbaBUva",
+        "titimizAYcakratuH",
+        "titimizAmAsatuH",
+        "titimizAmbaBUvatuH",
+        "titemizAYcakratuH",
+        "titemizAmAsatuH",
+        "titemizAmbaBUvatuH",
+        "titimizAYcakruH",
+        "titimizAmAsuH",
+        "titimizAmbaBUvuH",
+        "titemizAYcakruH",
+        "titemizAmAsuH",
+        "titemizAmbaBUvuH",
+        "titimizAYcakarTa",
+        "titimizAmAsiTa",
+        "titimizAmbaBUviTa",
+        "titemizAYcakarTa",
+        "titemizAmAsiTa",
+        "titemizAmbaBUviTa",
+        "titimizAYcakraTuH",
+        "titimizAmAsaTuH",
+        "titimizAmbaBUvaTuH",
+        "titemizAYcakraTuH",
+        "titemizAmAsaTuH",
+        "titemizAmbaBUvaTuH",
+        "titimizAYcakra",
+        "titimizAmAsa",
+        "titimizAmbaBUva",
+        "titemizAYcakra",
+        "titemizAmAsa",
+        "titemizAmbaBUva",
+        "titimizAYcakara",
+        "titimizAYcakAra",
+        "titimizAmAsa",
+        "titimizAmbaBUva",
+        "titemizAYcakara",
+        "titemizAYcakAra",
+        "titemizAmAsa",
+        "titemizAmbaBUva",
+        "titimizAYcakfva",
+        "titimizAmAsiva",
+        "titimizAmbaBUviva",
+        "titemizAYcakfva",
+        "titemizAmAsiva",
+        "titemizAmbaBUviva",
+        "titimizAYcakfma",
+        "titimizAmAsima",
+        "titimizAmbaBUvima",
+        "titemizAYcakfma",
+        "titemizAmAsima",
+        "titemizAmbaBUvima"
+      ],
+      "plot": [
+        "titimizatAt",
+        "titimizatAd",
+        "titimizatu",
+        "titemizatAt",
+        "titemizatAd",
+        "titemizatu",
+        "titimizatAm",
+        "titemizatAm",
+        "titimizantu",
+        "titemizantu",
+        "titimiza",
+        "titimizatAt",
+        "titimizatAd",
+        "titemiza",
+        "titemizatAt",
+        "titemizatAd",
+        "titimizatam",
+        "titemizatam",
+        "titimizata",
+        "titemizata",
+        "titimizARi",
+        "titemizARi",
+        "titimizAva",
+        "titemizAva",
+        "titimizAma",
+        "titemizAma"
+      ],
+      "plrung": [
+        "atitimizizyat",
+        "atitimizizyad",
+        "atitemizizyat",
+        "atitemizizyad",
+        "atitimizizyatAm",
+        "atitemizizyatAm",
+        "atitimizizyan",
+        "atitemizizyan",
+        "atitimizizyaH",
+        "atitemizizyaH",
+        "atitimizizyatam",
+        "atitemizizyatam",
+        "atitimizizyata",
+        "atitemizizyata",
+        "atitimizizyam",
+        "atitemizizyam",
+        "atitimizizyAva",
+        "atitemizizyAva",
+        "atitimizizyAma",
+        "atitemizizyAma"
+      ],
+      "plrut": [
+        "titimizizyati",
+        "titemizizyati",
+        "titimizizyataH",
+        "titemizizyataH",
+        "titimizizyanti",
+        "titemizizyanti",
+        "titimizizyasi",
+        "titemizizyasi",
+        "titimizizyaTaH",
+        "titemizizyaTaH",
+        "titimizizyaTa",
+        "titemizizyaTa",
+        "titimizizyAmi",
+        "titemizizyAmi",
+        "titimizizyAvaH",
+        "titemizizyAvaH",
+        "titimizizyAmaH",
+        "titemizizyAmaH"
+      ],
+      "plung": [
+        "atitimizIt",
+        "atitimizId",
+        "atitemizIt",
+        "atitemizId",
+        "atitimizizwAm",
+        "atitemizizwAm",
+        "atitimizizuH",
+        "atitemizizuH",
+        "atitimizIH",
+        "atitemizIH",
+        "atitimizizwam",
+        "atitemizizwam",
+        "atitimizizwa",
+        "atitemizizwa",
+        "atitimizizam",
+        "atitemizizam",
+        "atitimizizva",
+        "atitemizizva",
+        "atitimizizma",
+        "atitemizizma"
+      ],
+      "plut": [
+        "titimizitA",
+        "titemizitA",
+        "titimizitArO",
+        "titemizitArO",
+        "titimizitAraH",
+        "titemizitAraH",
+        "titimizitAsi",
+        "titemizitAsi",
+        "titimizitAsTaH",
+        "titemizitAsTaH",
+        "titimizitAsTa",
+        "titemizitAsTa",
+        "titimizitAsmi",
+        "titemizitAsmi",
+        "titimizitAsvaH",
+        "titemizitAsvaH",
+        "titimizitAsmaH",
+        "titemizitAsmaH"
+      ],
+      "pvidhiling": [
+        "titimizet",
+        "titimized",
+        "titemizet",
+        "titemized",
+        "titimizetAm",
+        "titemizetAm",
+        "titimizeyuH",
+        "titemizeyuH",
+        "titimizeH",
+        "titemizeH",
+        "titimizetam",
+        "titemizetam",
+        "titimizeta",
+        "titemizeta",
+        "titimizeyam",
+        "titemizeyam",
+        "titimizeva",
+        "titemizeva",
+        "titimizema",
+        "titemizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "titimizizIzwa",
+        "titemizizIzwa",
+        "titimizizIyAstAm",
+        "titemizizIyAstAm",
+        "titimizizIran",
+        "titemizizIran",
+        "titimizizIzWAH",
+        "titemizizIzWAH",
+        "titimizizIyAsTAm",
+        "titemizizIyAsTAm",
+        "titimizizIDvam",
+        "titemizizIDvam",
+        "titimizizIya",
+        "titemizizIya",
+        "titimizizIvahi",
+        "titemizizIvahi",
+        "titimizizImahi",
+        "titemizizImahi"
+      ],
+      "alang": [
+        "atitimizyata",
+        "atitemizyata",
+        "atitimizyetAm",
+        "atitemizyetAm",
+        "atitimizyanta",
+        "atitemizyanta",
+        "atitimizyaTAH",
+        "atitemizyaTAH",
+        "atitimizyeTAm",
+        "atitemizyeTAm",
+        "atitimizyaDvam",
+        "atitemizyaDvam",
+        "atitimizye",
+        "atitemizye",
+        "atitimizyAvahi",
+        "atitemizyAvahi",
+        "atitimizyAmahi",
+        "atitemizyAmahi"
+      ],
+      "alat": [
+        "titimizyate",
+        "titemizyate",
+        "titimizyete",
+        "titemizyete",
+        "titimizyante",
+        "titemizyante",
+        "titimizyase",
+        "titemizyase",
+        "titimizyeTe",
+        "titemizyeTe",
+        "titimizyaDve",
+        "titemizyaDve",
+        "titimizye",
+        "titemizye",
+        "titimizyAvahe",
+        "titemizyAvahe",
+        "titimizyAmahe",
+        "titemizyAmahe"
+      ],
+      "alit": [
+        "titimizAYcakre",
+        "titimizAmAse",
+        "titimizAmbaBUve",
+        "titemizAYcakre",
+        "titemizAmAse",
+        "titemizAmbaBUve",
+        "titimizAYcakrAte",
+        "titimizAmAsAte",
+        "titimizAmbaBUvAte",
+        "titemizAYcakrAte",
+        "titemizAmAsAte",
+        "titemizAmbaBUvAte",
+        "titimizAYcakrire",
+        "titimizAmAsire",
+        "titimizAmbaBUvire",
+        "titemizAYcakrire",
+        "titemizAmAsire",
+        "titemizAmbaBUvire",
+        "titimizAYcakfze",
+        "titimizAmAsize",
+        "titimizAmbaBUvize",
+        "titemizAYcakfze",
+        "titemizAmAsize",
+        "titemizAmbaBUvize",
+        "titimizAYcakrATe",
+        "titimizAmAsATe",
+        "titimizAmbaBUvATe",
+        "titemizAYcakrATe",
+        "titemizAmAsATe",
+        "titemizAmbaBUvATe",
+        "titimizAYcakfQve",
+        "titimizAmAsiDve",
+        "titimizAmbaBUviQve",
+        "titemizAYcakfQve",
+        "titemizAmAsiDve",
+        "titemizAmbaBUviQve",
+        "titimizAYcakre",
+        "titimizAmAhe",
+        "titimizAmbaBUve",
+        "titemizAYcakre",
+        "titemizAmAhe",
+        "titemizAmbaBUve",
+        "titimizAYcakfvahe",
+        "titimizAmAsivahe",
+        "titimizAmbaBUvivahe",
+        "titemizAYcakfvahe",
+        "titemizAmAsivahe",
+        "titemizAmbaBUvivahe",
+        "titimizAYcakfmahe",
+        "titimizAmAsimahe",
+        "titimizAmbaBUvimahe",
+        "titemizAYcakfmahe",
+        "titemizAmAsimahe",
+        "titemizAmbaBUvimahe"
+      ],
+      "alot": [
+        "titimizyatAm",
+        "titemizyatAm",
+        "titimizyetAm",
+        "titemizyetAm",
+        "titimizyantAm",
+        "titemizyantAm",
+        "titimizyasva",
+        "titemizyasva",
+        "titimizyeTAm",
+        "titemizyeTAm",
+        "titimizyaDvam",
+        "titemizyaDvam",
+        "titimizyE",
+        "titemizyE",
+        "titimizyAvahE",
+        "titemizyAvahE",
+        "titimizyAmahE",
+        "titemizyAmahE"
+      ],
+      "alrung": [
+        "atitimizizyata",
+        "atitemizizyata",
+        "atitimizizyetAm",
+        "atitemizizyetAm",
+        "atitimizizyanta",
+        "atitemizizyanta",
+        "atitimizizyaTAH",
+        "atitemizizyaTAH",
+        "atitimizizyeTAm",
+        "atitemizizyeTAm",
+        "atitimizizyaDvam",
+        "atitemizizyaDvam",
+        "atitimizizye",
+        "atitemizizye",
+        "atitimizizyAvahi",
+        "atitemizizyAvahi",
+        "atitimizizyAmahi",
+        "atitemizizyAmahi"
+      ],
+      "alrut": [
+        "titimizizyate",
+        "titemizizyate",
+        "titimizizyete",
+        "titemizizyete",
+        "titimizizyante",
+        "titemizizyante",
+        "titimizizyase",
+        "titemizizyase",
+        "titimizizyeTe",
+        "titemizizyeTe",
+        "titimizizyaDve",
+        "titemizizyaDve",
+        "titimizizye",
+        "titemizizye",
+        "titimizizyAvahe",
+        "titemizizyAvahe",
+        "titimizizyAmahe",
+        "titemizizyAmahe"
+      ],
+      "alung": [
+        "atitimizi",
+        "atitemizi",
+        "atitimizizAtAm",
+        "atitemizizAtAm",
+        "atitimizizata",
+        "atitemizizata",
+        "atitimizizWAH",
+        "atitemizizWAH",
+        "atitimizizATAm",
+        "atitemizizATAm",
+        "atitimiziDvam",
+        "atitemiziDvam",
+        "atitimizizi",
+        "atitemizizi",
+        "atitimizizvahi",
+        "atitemizizvahi",
+        "atitimizizmahi",
+        "atitemizizmahi"
+      ],
+      "alut": [
+        "titimizitA",
+        "titemizitA",
+        "titimizitArO",
+        "titemizitArO",
+        "titimizitAraH",
+        "titemizitAraH",
+        "titimizitAse",
+        "titemizitAse",
+        "titimizitAsATe",
+        "titemizitAsATe",
+        "titimizitADve",
+        "titemizitADve",
+        "titimizitAhe",
+        "titemizitAhe",
+        "titimizitAsvahe",
+        "titemizitAsvahe",
+        "titimizitAsmahe",
+        "titemizitAsmahe"
+      ],
+      "avidhiling": [
+        "titimizyeta",
+        "titemizyeta",
+        "titimizyeyAtAm",
+        "titemizyeyAtAm",
+        "titimizyeran",
+        "titemizyeran",
+        "titimizyeTAH",
+        "titemizyeTAH",
+        "titimizyeyATAm",
+        "titemizyeyATAm",
+        "titimizyeDvam",
+        "titemizyeDvam",
+        "titimizyeya",
+        "titemizyeya",
+        "titimizyevahi",
+        "titemizyevahi",
+        "titimizyemahi",
+        "titemizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "temayizIzwa",
+        "temayizIyAstAm",
+        "temayizIran",
+        "temayizIzWAH",
+        "temayizIyAsTAm",
+        "temayizIQvam",
+        "temayizIDvam",
+        "temayizIya",
+        "temayizIvahi",
+        "temayizImahi"
+      ],
+      "alang": [
+        "atemayata",
+        "atemayetAm",
+        "atemayanta",
+        "atemayaTAH",
+        "atemayeTAm",
+        "atemayaDvam",
+        "atemaye",
+        "atemayAvahi",
+        "atemayAmahi"
+      ],
+      "alat": [
+        "temayate",
+        "temayete",
+        "temayante",
+        "temayase",
+        "temayeTe",
+        "temayaDve",
+        "temaye",
+        "temayAvahe",
+        "temayAmahe"
+      ],
+      "alit": [
+        "temayAYcakre",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakrAte",
+        "temayAmAsatuH",
+        "temayAmbaBUvatuH",
+        "temayAYcakrire",
+        "temayAmAsuH",
+        "temayAmbaBUvuH",
+        "temayAYcakfze",
+        "temayAmAsiTa",
+        "temayAmbaBUviTa",
+        "temayAYcakrATe",
+        "temayAmAsaTuH",
+        "temayAmbaBUvaTuH",
+        "temayAYcakfQve",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakre",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakfvahe",
+        "temayAmAsiva",
+        "temayAmbaBUviva",
+        "temayAYcakfmahe",
+        "temayAmAsima",
+        "temayAmbaBUvima"
+      ],
+      "alot": [
+        "temayatAm",
+        "temayetAm",
+        "temayantAm",
+        "temayasva",
+        "temayeTAm",
+        "temayaDvam",
+        "temayE",
+        "temayAvahE",
+        "temayAmahE"
+      ],
+      "alrung": [
+        "atemayizyata",
+        "atemayizyetAm",
+        "atemayizyanta",
+        "atemayizyaTAH",
+        "atemayizyeTAm",
+        "atemayizyaDvam",
+        "atemayizye",
+        "atemayizyAvahi",
+        "atemayizyAmahi"
+      ],
+      "alrut": [
+        "temayizyate",
+        "temayizyete",
+        "temayizyante",
+        "temayizyase",
+        "temayizyeTe",
+        "temayizyaDve",
+        "temayizye",
+        "temayizyAvahe",
+        "temayizyAmahe"
+      ],
+      "alung": [
+        "atItimata",
+        "atItimetAm",
+        "atItimanta",
+        "atItimaTAH",
+        "atItimeTAm",
+        "atItimaDvam",
+        "atItime",
+        "atItimAvahi",
+        "atItimAmahi"
+      ],
+      "alut": [
+        "temayitA",
+        "temayitArO",
+        "temayitAraH",
+        "temayitAse",
+        "temayitAsATe",
+        "temayitADve",
+        "temayitAhe",
+        "temayitAsvahe",
+        "temayitAsmahe"
+      ],
+      "avidhiling": [
+        "temayeta",
+        "temayeyAtAm",
+        "temayeran",
+        "temayeTAH",
+        "temayeyATAm",
+        "temayeDvam",
+        "temayeya",
+        "temayevahi",
+        "temayemahi"
+      ],
+      "pashirling": [
+        "temyAt",
+        "temyAd",
+        "temyAstAm",
+        "temyAsuH",
+        "temyAH",
+        "temyAstam",
+        "temyAsta",
+        "temyAsam",
+        "temyAsva",
+        "temyAsma"
+      ],
+      "plang": [
+        "atemayat",
+        "atemayad",
+        "atemayatAm",
+        "atemayan",
+        "atemayaH",
+        "atemayatam",
+        "atemayata",
+        "atemayam",
+        "atemayAva",
+        "atemayAma"
+      ],
+      "plat": [
+        "temayati",
+        "temayataH",
+        "temayanti",
+        "temayasi",
+        "temayaTaH",
+        "temayaTa",
+        "temayAmi",
+        "temayAvaH",
+        "temayAmaH"
+      ],
+      "plit": [
+        "temayAYcakAra",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakratuH",
+        "temayAmAsatuH",
+        "temayAmbaBUvatuH",
+        "temayAYcakruH",
+        "temayAmAsuH",
+        "temayAmbaBUvuH",
+        "temayAYcakarTa",
+        "temayAmAsiTa",
+        "temayAmbaBUviTa",
+        "temayAYcakraTuH",
+        "temayAmAsaTuH",
+        "temayAmbaBUvaTuH",
+        "temayAYcakra",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakara",
+        "temayAYcakAra",
+        "temayAmAsa",
+        "temayAmbaBUva",
+        "temayAYcakfva",
+        "temayAmAsiva",
+        "temayAmbaBUviva",
+        "temayAYcakfma",
+        "temayAmAsima",
+        "temayAmbaBUvima"
+      ],
+      "plot": [
+        "temayatAt",
+        "temayatAd",
+        "temayatu",
+        "temayatAm",
+        "temayantu",
+        "temaya",
+        "temayatAt",
+        "temayatAd",
+        "temayatam",
+        "temayata",
+        "temayAni",
+        "temayAva",
+        "temayAma"
+      ],
+      "plrung": [
+        "atemayizyat",
+        "atemayizyad",
+        "atemayizyatAm",
+        "atemayizyan",
+        "atemayizyaH",
+        "atemayizyatam",
+        "atemayizyata",
+        "atemayizyam",
+        "atemayizyAva",
+        "atemayizyAma"
+      ],
+      "plrut": [
+        "temayizyati",
+        "temayizyataH",
+        "temayizyanti",
+        "temayizyasi",
+        "temayizyaTaH",
+        "temayizyaTa",
+        "temayizyAmi",
+        "temayizyAvaH",
+        "temayizyAmaH"
+      ],
+      "plung": [
+        "atItimat",
+        "atItimad",
+        "atItimatAm",
+        "atItiman",
+        "atItimaH",
+        "atItimatam",
+        "atItimata",
+        "atItimam",
+        "atItimAva",
+        "atItimAma"
+      ],
+      "plut": [
+        "temayitA",
+        "temayitArO",
+        "temayitAraH",
+        "temayitAsi",
+        "temayitAsTaH",
+        "temayitAsTa",
+        "temayitAsmi",
+        "temayitAsvaH",
+        "temayitAsmaH"
+      ],
+      "pvidhiling": [
+        "temayet",
+        "temayed",
+        "temayetAm",
+        "temayeyuH",
+        "temayeH",
+        "temayetam",
+        "temayeta",
+        "temayeyam",
+        "temayeva",
+        "temayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "temayizIzwa",
+        "temizIzwa",
+        "temayizIyAstAm",
+        "temizIyAstAm",
+        "temayizIran",
+        "temizIran",
+        "temayizIzWAH",
+        "temizIzWAH",
+        "temayizIyAsTAm",
+        "temizIyAsTAm",
+        "temayizIQvam",
+        "temayizIDvam",
+        "temizIDvam",
+        "temayizIya",
+        "temizIya",
+        "temayizIvahi",
+        "temizIvahi",
+        "temayizImahi",
+        "temizImahi"
+      ],
+      "alang": [
+        "atemyata",
+        "atemyetAm",
+        "atemyanta",
+        "atemyaTAH",
+        "atemyeTAm",
+        "atemyaDvam",
+        "atemye",
+        "atemyAvahi",
+        "atemyAmahi"
+      ],
+      "alat": [
+        "temyate",
+        "temyete",
+        "temyante",
+        "temyase",
+        "temyeTe",
+        "temyaDve",
+        "temye",
+        "temyAvahe",
+        "temyAmahe"
+      ],
+      "alit": [
+        "temayAYcakre",
+        "temayAmAse",
+        "temayAmbaBUve",
+        "temayAYcakrAte",
+        "temayAmAsAte",
+        "temayAmbaBUvAte",
+        "temayAYcakrire",
+        "temayAmAsire",
+        "temayAmbaBUvire",
+        "temayAYcakfze",
+        "temayAmAsize",
+        "temayAmbaBUvize",
+        "temayAYcakrATe",
+        "temayAmAsATe",
+        "temayAmbaBUvATe",
+        "temayAYcakfQve",
+        "temayAmAsiDve",
+        "temayAmbaBUviQve",
+        "temayAYcakre",
+        "temayAmAhe",
+        "temayAmbaBUve",
+        "temayAYcakfvahe",
+        "temayAmAsivahe",
+        "temayAmbaBUvivahe",
+        "temayAYcakfmahe",
+        "temayAmAsimahe",
+        "temayAmbaBUvimahe"
+      ],
+      "alot": [
+        "temyatAm",
+        "temyetAm",
+        "temyantAm",
+        "temyasva",
+        "temyeTAm",
+        "temyaDvam",
+        "temyE",
+        "temyAvahE",
+        "temyAmahE"
+      ],
+      "alrung": [
+        "atemayizyata",
+        "atemizyata",
+        "atemayizyetAm",
+        "atemizyetAm",
+        "atemayizyanta",
+        "atemizyanta",
+        "atemayizyaTAH",
+        "atemizyaTAH",
+        "atemayizyeTAm",
+        "atemizyeTAm",
+        "atemayizyaDvam",
+        "atemizyaDvam",
+        "atemayizye",
+        "atemizye",
+        "atemayizyAvahi",
+        "atemizyAvahi",
+        "atemayizyAmahi",
+        "atemizyAmahi"
+      ],
+      "alrut": [
+        "temayizyate",
+        "temizyate",
+        "temayizyete",
+        "temizyete",
+        "temayizyante",
+        "temizyante",
+        "temayizyase",
+        "temizyase",
+        "temayizyeTe",
+        "temizyeTe",
+        "temayizyaDve",
+        "temizyaDve",
+        "temayizye",
+        "temizye",
+        "temayizyAvahe",
+        "temizyAvahe",
+        "temayizyAmahe",
+        "temizyAmahe"
+      ],
+      "alung": [
+        "atemi",
+        "atemayizAtAm",
+        "atemizAtAm",
+        "atemayizata",
+        "atemizata",
+        "atemayizWAH",
+        "atemizWAH",
+        "atemayizATAm",
+        "atemizATAm",
+        "atemayiQvam",
+        "atemayiDvam",
+        "atemiDvam",
+        "atemayizi",
+        "atemizi",
+        "atemayizvahi",
+        "atemizvahi",
+        "atemayizmahi",
+        "atemizmahi"
+      ],
+      "alut": [
+        "temayitA",
+        "temitA",
+        "temayitArO",
+        "temitArO",
+        "temayitAraH",
+        "temitAraH",
+        "temayitAse",
+        "temitAse",
+        "temayitAsATe",
+        "temitAsATe",
+        "temayitADve",
+        "temitADve",
+        "temayitAhe",
+        "temitAhe",
+        "temayitAsvahe",
+        "temitAsvahe",
+        "temayitAsmahe",
+        "temitAsmahe"
+      ],
+      "avidhiling": [
+        "temyeta",
+        "temyeyAtAm",
+        "temyeran",
+        "temyeTAH",
+        "temyeyATAm",
+        "temyeDvam",
+        "temyeya",
+        "temyevahi",
+        "temyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "tetimizIzwa",
+        "tetimizIyAstAm",
+        "tetimizIran",
+        "tetimizIzWAH",
+        "tetimizIyAsTAm",
+        "tetimizIDvam",
+        "tetimizIya",
+        "tetimizIvahi",
+        "tetimizImahi"
+      ],
+      "alang": [
+        "atetimyata",
+        "atetimyetAm",
+        "atetimyanta",
+        "atetimyaTAH",
+        "atetimyeTAm",
+        "atetimyaDvam",
+        "atetimye",
+        "atetimyAvahi",
+        "atetimyAmahi"
+      ],
+      "alat": [
+        "tetimyate",
+        "tetimyete",
+        "tetimyante",
+        "tetimyase",
+        "tetimyeTe",
+        "tetimyaDve",
+        "tetimye",
+        "tetimyAvahe",
+        "tetimyAmahe"
+      ],
+      "alit": [
+        "tetimAYcakre",
+        "tetimAmAsa",
+        "tetimAmbaBUva",
+        "tetimAYcakrAte",
+        "tetimAmAsatuH",
+        "tetimAmbaBUvatuH",
+        "tetimAYcakrire",
+        "tetimAmAsuH",
+        "tetimAmbaBUvuH",
+        "tetimAYcakfze",
+        "tetimAmAsiTa",
+        "tetimAmbaBUviTa",
+        "tetimAYcakrATe",
+        "tetimAmAsaTuH",
+        "tetimAmbaBUvaTuH",
+        "tetimAYcakfQve",
+        "tetimAmAsa",
+        "tetimAmbaBUva",
+        "tetimAYcakre",
+        "tetimAmAsa",
+        "tetimAmbaBUva",
+        "tetimAYcakfvahe",
+        "tetimAmAsiva",
+        "tetimAmbaBUviva",
+        "tetimAYcakfmahe",
+        "tetimAmAsima",
+        "tetimAmbaBUvima"
+      ],
+      "alot": [
+        "tetimyatAm",
+        "tetimyetAm",
+        "tetimyantAm",
+        "tetimyasva",
+        "tetimyeTAm",
+        "tetimyaDvam",
+        "tetimyE",
+        "tetimyAvahE",
+        "tetimyAmahE"
+      ],
+      "alrung": [
+        "atetimizyata",
+        "atetimizyetAm",
+        "atetimizyanta",
+        "atetimizyaTAH",
+        "atetimizyeTAm",
+        "atetimizyaDvam",
+        "atetimizye",
+        "atetimizyAvahi",
+        "atetimizyAmahi"
+      ],
+      "alrut": [
+        "tetimizyate",
+        "tetimizyete",
+        "tetimizyante",
+        "tetimizyase",
+        "tetimizyeTe",
+        "tetimizyaDve",
+        "tetimizye",
+        "tetimizyAvahe",
+        "tetimizyAmahe"
+      ],
+      "alung": [
+        "atetimizwa",
+        "atetimizAtAm",
+        "atetimizata",
+        "atetimizWAH",
+        "atetimizATAm",
+        "atetimiDvam",
+        "atetimizi",
+        "atetimizvahi",
+        "atetimizmahi"
+      ],
+      "alut": [
+        "tetimitA",
+        "tetimitArO",
+        "tetimitAraH",
+        "tetimitAse",
+        "tetimitAsATe",
+        "tetimitADve",
+        "tetimitAhe",
+        "tetimitAsvahe",
+        "tetimitAsmahe"
+      ],
+      "avidhiling": [
+        "tetimyeta",
+        "tetimyeyAtAm",
+        "tetimyeran",
+        "tetimyeTAH",
+        "tetimyeyATAm",
+        "tetimyeDvam",
+        "tetimyeya",
+        "tetimyevahi",
+        "tetimyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "tetimizIzwa",
+        "tetimizIyAstAm",
+        "tetimizIran",
+        "tetimizIzWAH",
+        "tetimizIyAsTAm",
+        "tetimizIDvam",
+        "tetimizIya",
+        "tetimizIvahi",
+        "tetimizImahi"
+      ],
+      "alang": [
+        "atetimyata",
+        "atetimyetAm",
+        "atetimyanta",
+        "atetimyaTAH",
+        "atetimyeTAm",
+        "atetimyaDvam",
+        "atetimye",
+        "atetimyAvahi",
+        "atetimyAmahi"
+      ],
+      "alat": [
+        "tetimyate",
+        "tetimyete",
+        "tetimyante",
+        "tetimyase",
+        "tetimyeTe",
+        "tetimyaDve",
+        "tetimye",
+        "tetimyAvahe",
+        "tetimyAmahe"
+      ],
+      "alit": [
+        "tetimAYcakre",
+        "tetimAmAse",
+        "tetimAmbaBUve",
+        "tetimAYcakrAte",
+        "tetimAmAsAte",
+        "tetimAmbaBUvAte",
+        "tetimAYcakrire",
+        "tetimAmAsire",
+        "tetimAmbaBUvire",
+        "tetimAYcakfze",
+        "tetimAmAsize",
+        "tetimAmbaBUvize",
+        "tetimAYcakrATe",
+        "tetimAmAsATe",
+        "tetimAmbaBUvATe",
+        "tetimAYcakfQve",
+        "tetimAmAsiDve",
+        "tetimAmbaBUviQve",
+        "tetimAYcakre",
+        "tetimAmAhe",
+        "tetimAmbaBUve",
+        "tetimAYcakfvahe",
+        "tetimAmAsivahe",
+        "tetimAmbaBUvivahe",
+        "tetimAYcakfmahe",
+        "tetimAmAsimahe",
+        "tetimAmbaBUvimahe"
+      ],
+      "alot": [
+        "tetimyatAm",
+        "tetimyetAm",
+        "tetimyantAm",
+        "tetimyasva",
+        "tetimyeTAm",
+        "tetimyaDvam",
+        "tetimyE",
+        "tetimyAvahE",
+        "tetimyAmahE"
+      ],
+      "alrung": [
+        "atetimizyata",
+        "atetimizyetAm",
+        "atetimizyanta",
+        "atetimizyaTAH",
+        "atetimizyeTAm",
+        "atetimizyaDvam",
+        "atetimizye",
+        "atetimizyAvahi",
+        "atetimizyAmahi"
+      ],
+      "alrut": [
+        "tetimizyate",
+        "tetimizyete",
+        "tetimizyante",
+        "tetimizyase",
+        "tetimizyeTe",
+        "tetimizyaDve",
+        "tetimizye",
+        "tetimizyAvahe",
+        "tetimizyAmahe"
+      ],
+      "alung": [
+        "atetimi",
+        "atetimizAtAm",
+        "atetimizata",
+        "atetimizWAH",
+        "atetimizATAm",
+        "atetimiDvam",
+        "atetimizi",
+        "atetimizvahi",
+        "atetimizmahi"
+      ],
+      "alut": [
+        "tetimitA",
+        "tetimitArO",
+        "tetimitAraH",
+        "tetimitAse",
+        "tetimitAsATe",
+        "tetimitADve",
+        "tetimitAhe",
+        "tetimitAsvahe",
+        "tetimitAsmahe"
+      ],
+      "avidhiling": [
+        "tetimyeta",
+        "tetimyeyAtAm",
+        "tetimyeran",
+        "tetimyeTAH",
+        "tetimyeyATAm",
+        "tetimyeDvam",
+        "tetimyeya",
+        "tetimyevahi",
+        "tetimyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "tetimyAt",
+        "tetimyAd",
+        "tetimyAstAm",
+        "tetimyAsuH",
+        "tetimyAH",
+        "tetimyAstam",
+        "tetimyAsta",
+        "tetimyAsam",
+        "tetimyAsva",
+        "tetimyAsma"
+      ],
+      "plang": [
+        "atetimIt",
+        "atetimId",
+        "ateten",
+        "atetIntAm",
+        "atetimuH",
+        "atetimIH",
+        "ateten",
+        "atetIntam",
+        "atetInta",
+        "atetimam",
+        "atetinva",
+        "atetinma"
+      ],
+      "plat": [
+        "tetimIti",
+        "tetenti",
+        "tetIntaH",
+        "tetimati",
+        "tetimIzi",
+        "teteMsi",
+        "tetInTaH",
+        "tetInTa",
+        "tetimImi",
+        "tetenmi",
+        "tetinvaH",
+        "tetinmaH"
+      ],
+      "plit": [
+        "tetemAYcakAra",
+        "tetemAmAsa",
+        "tetemAmbaBUva",
+        "tetemAYcakratuH",
+        "tetemAmAsatuH",
+        "tetemAmbaBUvatuH",
+        "tetemAYcakruH",
+        "tetemAmAsuH",
+        "tetemAmbaBUvuH",
+        "tetemAYcakarTa",
+        "tetemAmAsiTa",
+        "tetemAmbaBUviTa",
+        "tetemAYcakraTuH",
+        "tetemAmAsaTuH",
+        "tetemAmbaBUvaTuH",
+        "tetemAYcakra",
+        "tetemAmAsa",
+        "tetemAmbaBUva",
+        "tetemAYcakara",
+        "tetemAYcakAra",
+        "tetemAmAsa",
+        "tetemAmbaBUva",
+        "tetemAYcakfva",
+        "tetemAmAsiva",
+        "tetemAmbaBUviva",
+        "tetemAYcakfma",
+        "tetemAmAsima",
+        "tetemAmbaBUvima"
+      ],
+      "plot": [
+        "tetimItu",
+        "tetIntAt",
+        "tetIntAd",
+        "tetentu",
+        "tetIntAm",
+        "tetimatu",
+        "tetIMhi",
+        "tetIntAt",
+        "tetIntAd",
+        "tetIntam",
+        "tetInta",
+        "tetimAni",
+        "tetimAva",
+        "tetimAma"
+      ],
+      "plrung": [
+        "atetemizyat",
+        "atetemizyad",
+        "atetemizyatAm",
+        "atetemizyan",
+        "atetemizyaH",
+        "atetemizyatam",
+        "atetemizyata",
+        "atetemizyam",
+        "atetemizyAva",
+        "atetemizyAma"
+      ],
+      "plrut": [
+        "tetemizyati",
+        "tetemizyataH",
+        "tetemizyanti",
+        "tetemizyasi",
+        "tetemizyaTaH",
+        "tetemizyaTa",
+        "tetemizyAmi",
+        "tetemizyAvaH",
+        "tetemizyAmaH"
+      ],
+      "plung": [
+        "atetemIt",
+        "atetemId",
+        "atetemizwAm",
+        "atetemizuH",
+        "atetemIH",
+        "atetemizwam",
+        "atetemizwa",
+        "atetemizam",
+        "atetemizva",
+        "atetemizma"
+      ],
+      "plut": [
+        "tetemitA",
+        "tetemitArO",
+        "tetemitAraH",
+        "tetemitAsi",
+        "tetemitAsTaH",
+        "tetemitAsTa",
+        "tetemitAsmi",
+        "tetemitAsvaH",
+        "tetemitAsmaH"
+      ],
+      "pvidhiling": [
+        "tetimyAt",
+        "tetimyAd",
+        "tetimyAtAm",
+        "tetimyuH",
+        "tetimyAH",
+        "tetimyAtam",
+        "tetimyAta",
+        "tetimyAm",
+        "tetimyAva",
+        "tetimyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "tetemizIzwa",
+        "tetemizIyAstAm",
+        "tetemizIran",
+        "tetemizIzWAH",
+        "tetemizIyAsTAm",
+        "tetemizIDvam",
+        "tetemizIya",
+        "tetemizIvahi",
+        "tetemizImahi"
+      ],
+      "alang": [
+        "atetimyata",
+        "atetimyetAm",
+        "atetimyanta",
+        "atetimyaTAH",
+        "atetimyeTAm",
+        "atetimyaDvam",
+        "atetimye",
+        "atetimyAvahi",
+        "atetimyAmahi"
+      ],
+      "alat": [
+        "tetimyate",
+        "tetimyete",
+        "tetimyante",
+        "tetimyase",
+        "tetimyeTe",
+        "tetimyaDve",
+        "tetimye",
+        "tetimyAvahe",
+        "tetimyAmahe"
+      ],
+      "alit": [
+        "tetemAYcakre",
+        "tetemAmAse",
+        "tetemAmbaBUve",
+        "tetemAYcakrAte",
+        "tetemAmAsAte",
+        "tetemAmbaBUvAte",
+        "tetemAYcakrire",
+        "tetemAmAsire",
+        "tetemAmbaBUvire",
+        "tetemAYcakfze",
+        "tetemAmAsize",
+        "tetemAmbaBUvize",
+        "tetemAYcakrATe",
+        "tetemAmAsATe",
+        "tetemAmbaBUvATe",
+        "tetemAYcakfQve",
+        "tetemAmAsiDve",
+        "tetemAmbaBUviQve",
+        "tetemAYcakre",
+        "tetemAmAhe",
+        "tetemAmbaBUve",
+        "tetemAYcakfvahe",
+        "tetemAmAsivahe",
+        "tetemAmbaBUvivahe",
+        "tetemAYcakfmahe",
+        "tetemAmAsimahe",
+        "tetemAmbaBUvimahe"
+      ],
+      "alot": [
+        "tetimyatAm",
+        "tetimyetAm",
+        "tetimyantAm",
+        "tetimyasva",
+        "tetimyeTAm",
+        "tetimyaDvam",
+        "tetimyE",
+        "tetimyAvahE",
+        "tetimyAmahE"
+      ],
+      "alrung": [
+        "atetemizyata",
+        "atetemizyetAm",
+        "atetemizyanta",
+        "atetemizyaTAH",
+        "atetemizyeTAm",
+        "atetemizyaDvam",
+        "atetemizye",
+        "atetemizyAvahi",
+        "atetemizyAmahi"
+      ],
+      "alrut": [
+        "tetemizyate",
+        "tetemizyete",
+        "tetemizyante",
+        "tetemizyase",
+        "tetemizyeTe",
+        "tetemizyaDve",
+        "tetemizye",
+        "tetemizyAvahe",
+        "tetemizyAmahe"
+      ],
+      "alung": [
+        "atetemi",
+        "atetemizAtAm",
+        "atetemizata",
+        "atetemizWAH",
+        "atetemizATAm",
+        "atetemiDvam",
+        "atetemizi",
+        "atetemizvahi",
+        "atetemizmahi"
+      ],
+      "alut": [
+        "tetemitA",
+        "tetemitArO",
+        "tetemitAraH",
+        "tetemitAse",
+        "tetemitAsATe",
+        "tetemitADve",
+        "tetemitAhe",
+        "tetemitAsvahe",
+        "tetemitAsmahe"
+      ],
+      "avidhiling": [
+        "tetimyeta",
+        "tetimyeyAtAm",
+        "tetimyeran",
+        "tetimyeTAH",
+        "tetimyeyATAm",
+        "tetimyeDvam",
+        "tetimyeya",
+        "tetimyevahi",
+        "tetimyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "temanIya",
+          "m": "temanIyaH",
+          "f": "temanIyA",
+          "n": "temanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "timita",
+          "m": "timitaH",
+          "f": "timitA",
+          "n": "timitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "timitavat",
+          "m": "timitavAn",
+          "f": "timitavatI",
+          "n": "timitavat/timitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tInti",
+          "m": "",
+          "f": "tIntiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "timitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "temitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "titinvas",
+          "m": "titinvAn",
+          "f": "titinuzI",
+          "n": "titinvat/titinvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tema",
+          "m": "temaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "timyamAna",
+          "m": "timyamAnaH",
+          "f": "timyamAnA",
+          "n": "timyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "temam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "temya",
+          "m": "temyaH",
+          "f": "temyA",
+          "n": "temyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "temaka",
+          "m": "temakaH",
+          "f": "temikA",
+          "n": "temakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "temitavya",
+          "m": "temitavyaH",
+          "f": "temitavyA",
+          "n": "temitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "temitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "temitf",
+          "m": "temitA",
+          "f": "temitrI",
+          "n": "temitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "timyamAna",
+          "m": "timyamAnaH",
+          "f": "timyamAnA",
+          "n": "timyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratimya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "temana",
+          "m": "",
+          "f": "",
+          "n": "temanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "temaka",
+          "m": "temakaH",
+          "f": "temikA",
+          "n": "temakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "timyat",
+          "m": "timyan",
+          "f": "timyantI",
+          "n": "timyat/timyad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "temizyamARa",
+          "m": "temizyamARaH",
+          "f": "temizyamARA",
+          "n": "temizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "temizyat",
+          "m": "temizyan",
+          "f": "temizyatI/temizyantI",
+          "n": "temizyat/temizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "titimizA",
+          "m": "",
+          "f": "titimizA",
+          "n": ""
+        },
+        {
+          "base": "titemizA",
+          "m": "",
+          "f": "titemizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "titimiza",
+          "m": "titimizaH",
+          "f": "titimizA",
+          "n": "titimizam"
+        },
+        {
+          "base": "titemiza",
+          "m": "titemizaH",
+          "f": "titemizA",
+          "n": "titemizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "titimizaRIya",
+          "m": "titimizaRIyaH",
+          "f": "titimizaRIyA",
+          "n": "titimizaRIyam"
+        },
+        {
+          "base": "titemizaRIya",
+          "m": "titemizaRIyaH",
+          "f": "titemizaRIyA",
+          "n": "titemizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "titimizu",
+          "m": "titimizuH",
+          "f": "titimizuH",
+          "n": "titimizu"
+        },
+        {
+          "base": "titemizu",
+          "m": "titemizuH",
+          "f": "titemizuH",
+          "n": "titemizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "titimizita",
+          "m": "titimizitaH",
+          "f": "titimizitA",
+          "n": "titimizitam"
+        },
+        {
+          "base": "titemizita",
+          "m": "titemizitaH",
+          "f": "titemizitA",
+          "n": "titemizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "titimizitavat",
+          "m": "titimizitavAn",
+          "f": "titimizitavatI",
+          "n": "titimizitavat/titimizitavad"
+        },
+        {
+          "base": "titemizitavat",
+          "m": "titemizitavAn",
+          "f": "titemizitavatI",
+          "n": "titemizitavat/titemizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "titimizwi",
+          "m": "",
+          "f": "titimizwiH",
+          "n": ""
+        },
+        {
+          "base": "titemizwi",
+          "m": "",
+          "f": "titemizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "titimizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "titemizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "titimizAmbaBUvas",
+          "m": "titimizAmbaBUvAn",
+          "f": "titimizAmbaBUzI",
+          "n": "titimizAmbaBUvat/titimizAmbaBUvad"
+        },
+        {
+          "base": "titimizAmAsivas",
+          "m": "titimizAmAsivAn",
+          "f": "titimizAmAsyuzI",
+          "n": "titimizAmAsivat/titimizAmAsivad"
+        },
+        {
+          "base": "titimizAYcakfvas",
+          "m": "titimizAYcakfvAn",
+          "f": "titimizAYcakruzI",
+          "n": "titimizAYcakfvat/titimizAYcakfvad"
+        },
+        {
+          "base": "titemizAmbaBUvas",
+          "m": "titemizAmbaBUvAn",
+          "f": "titemizAmbaBUzI",
+          "n": "titemizAmbaBUvat/titemizAmbaBUvad"
+        },
+        {
+          "base": "titemizAmAsivas",
+          "m": "titemizAmAsivAn",
+          "f": "titemizAmAsyuzI",
+          "n": "titemizAmAsivat/titemizAmAsivad"
+        },
+        {
+          "base": "titemizAYcakfvas",
+          "m": "titemizAYcakfvAn",
+          "f": "titemizAYcakruzI",
+          "n": "titemizAYcakfvat/titemizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "titimiza",
+          "m": "titimizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "titemiza",
+          "m": "titemizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "titimizamARa",
+          "m": "titimizamARaH",
+          "f": "titimizamARA",
+          "n": "titimizamARam"
+        },
+        {
+          "base": "titemizamARa",
+          "m": "titemizamARaH",
+          "f": "titemizamARA",
+          "n": "titemizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "titimizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "titemizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "titimizaka",
+          "m": "titimizakaH",
+          "f": "titimizikA",
+          "n": "titimizakam"
+        },
+        {
+          "base": "titemizaka",
+          "m": "titemizakaH",
+          "f": "titemizikA",
+          "n": "titemizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "titimizitavya",
+          "m": "titimizitavyaH",
+          "f": "titimizitavyA",
+          "n": "titimizitavyam"
+        },
+        {
+          "base": "titemizitavya",
+          "m": "titemizitavyaH",
+          "f": "titemizitavyA",
+          "n": "titemizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "titimizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "titemizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "titimizitf",
+          "m": "titimizitA",
+          "f": "titimizitrI",
+          "n": "titimizitf"
+        },
+        {
+          "base": "titemizitf",
+          "m": "titemizitA",
+          "f": "titemizitrI",
+          "n": "titemizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "titimizyamARa",
+          "m": "titimizyamARaH",
+          "f": "titimizyamARA",
+          "n": "titimizyamARam"
+        },
+        {
+          "base": "titemizyamARa",
+          "m": "titemizyamARaH",
+          "f": "titemizyamARA",
+          "n": "titemizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "titimizya",
+          "m": "titimizyaH",
+          "f": "titimizyA",
+          "n": "titimizyam"
+        },
+        {
+          "base": "titemizya",
+          "m": "titemizyaH",
+          "f": "titemizyA",
+          "n": "titemizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratitimizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pratitemizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "titimizaRa",
+          "m": "",
+          "f": "",
+          "n": "titimizaRam"
+        },
+        {
+          "base": "titemizaRa",
+          "m": "",
+          "f": "",
+          "n": "titemizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "titimizaka",
+          "m": "titimizakaH",
+          "f": "titimizikA",
+          "n": "titimizakam"
+        },
+        {
+          "base": "titemizaka",
+          "m": "titemizakaH",
+          "f": "titemizikA",
+          "n": "titemizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "titimizat",
+          "m": "titimizan",
+          "f": "titimizantI",
+          "n": "titimizat/titimizad"
+        },
+        {
+          "base": "titemizat",
+          "m": "titemizan",
+          "f": "titemizantI",
+          "n": "titemizat/titemizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "titimizizyamARa",
+          "m": "titimizizyamARaH",
+          "f": "titimizizyamARA",
+          "n": "titimizizyamARam"
+        },
+        {
+          "base": "titemizizyamARa",
+          "m": "titemizizyamARaH",
+          "f": "titemizizyamARA",
+          "n": "titemizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "titimizizyat",
+          "m": "titimizizyan",
+          "f": "titimizizyatI/titimizizyantI",
+          "n": "titimizizyat/titimizizyad"
+        },
+        {
+          "base": "titemizizyat",
+          "m": "titemizizyan",
+          "f": "titemizizyatI/titemizizyantI",
+          "n": "titemizizyat/titemizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "tema",
+          "m": "temaH",
+          "f": "temA",
+          "n": "temam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "temanIya",
+          "m": "temanIyaH",
+          "f": "temanIyA",
+          "n": "temanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "temita",
+          "m": "temitaH",
+          "f": "temitA",
+          "n": "temitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "temitavat",
+          "m": "temitavAn",
+          "f": "temitavatI",
+          "n": "temitavat/temitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tenti",
+          "m": "",
+          "f": "tentiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "temayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "temayAmbaBUvas",
+          "m": "temayAmbaBUvAn",
+          "f": "temayAmbaBUzI",
+          "n": "temayAmbaBUvat/temayAmbaBUvad"
+        },
+        {
+          "base": "temayAmAsivas",
+          "m": "temayAmAsivAn",
+          "f": "temayAmAsyuzI",
+          "n": "temayAmAsivat/temayAmAsivad"
+        },
+        {
+          "base": "temayAYcakfvas",
+          "m": "temayAYcakfvAn",
+          "f": "temayAYcakruzI",
+          "n": "temayAYcakfvat/temayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "temayamAna",
+          "m": "temayamAnaH",
+          "f": "temayamAnA",
+          "n": "temayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "temam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "temaka",
+          "m": "temakaH",
+          "f": "temikA",
+          "n": "temakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "temayitavya",
+          "m": "temayitavyaH",
+          "f": "temayitavyA",
+          "n": "temayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "temayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "temayitf",
+          "m": "temayitA",
+          "f": "temayitrI",
+          "n": "temayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "temyamAna",
+          "m": "temyamAnaH",
+          "f": "temyamAnA",
+          "n": "temyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "temya",
+          "m": "temyaH",
+          "f": "temyA",
+          "n": "temyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratemya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "temana",
+          "m": "",
+          "f": "",
+          "n": "temanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "temaka",
+          "m": "temakaH",
+          "f": "temikA",
+          "n": "temakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "temayat",
+          "m": "temayan",
+          "f": "temayantI",
+          "n": "temayat/temayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "temayamAna",
+          "m": "temayamAnaH",
+          "f": "temayamAnA",
+          "n": "temayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "temizyamARa",
+          "m": "temizyamARaH",
+          "f": "temizyamARA",
+          "n": "temizyamARam"
+        },
+        {
+          "base": "temayizyamARa",
+          "m": "temayizyamARaH",
+          "f": "temayizyamARA",
+          "n": "temayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "temayizyat",
+          "m": "temayizyan",
+          "f": "temayizyatI/temayizyantI",
+          "n": "temayizyat/temayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "temayizyamARa",
+          "m": "temayizyamARaH",
+          "f": "temayizyamARA",
+          "n": "temayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "tetimA",
+          "m": "",
+          "f": "tetimA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "tetima",
+          "m": "tetimaH",
+          "f": "tetimA",
+          "n": "tetimam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tetimanIya",
+          "m": "tetimanIyaH",
+          "f": "tetimanIyA",
+          "n": "tetimanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tetimita",
+          "m": "tetimitaH",
+          "f": "tetimitA",
+          "n": "tetimitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tetimitavat",
+          "m": "tetimitavAn",
+          "f": "tetimitavatI",
+          "n": "tetimitavat/tetimitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tetinti",
+          "m": "",
+          "f": "tetintiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tetimitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tetimAmbaBUvas",
+          "m": "tetimAmbaBUvAn",
+          "f": "tetimAmbaBUzI",
+          "n": "tetimAmbaBUvat/tetimAmbaBUvad"
+        },
+        {
+          "base": "tetimAmAsivas",
+          "m": "tetimAmAsivAn",
+          "f": "tetimAmAsyuzI",
+          "n": "tetimAmAsivat/tetimAmAsivad"
+        },
+        {
+          "base": "tetimAYcakfvas",
+          "m": "tetimAYcakfvAn",
+          "f": "tetimAYcakruzI",
+          "n": "tetimAYcakfvat/tetimAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tetima",
+          "m": "tetimaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tetimyamAna",
+          "m": "tetimyamAnaH",
+          "f": "tetimyamAnA",
+          "n": "tetimyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tetimam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tetimaka",
+          "m": "tetimakaH",
+          "f": "tetimikA",
+          "n": "tetimakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tetimitavya",
+          "m": "tetimitavyaH",
+          "f": "tetimitavyA",
+          "n": "tetimitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tetimitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tetimitf",
+          "m": "tetimitA",
+          "f": "tetimitrI",
+          "n": "tetimitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tetimyamAna",
+          "m": "tetimyamAnaH",
+          "f": "tetimyamAnA",
+          "n": "tetimyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "tetimya",
+          "m": "tetimyaH",
+          "f": "tetimyA",
+          "n": "tetimyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratetimya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tetimana",
+          "m": "",
+          "f": "",
+          "n": "tetimanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tetimaka",
+          "m": "tetimakaH",
+          "f": "tetimikA",
+          "n": "tetimakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "tetimyamAna",
+          "m": "tetimyamAnaH",
+          "f": "tetimyamAnA",
+          "n": "tetimyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tetimizyamARa",
+          "m": "tetimizyamARaH",
+          "f": "tetimizyamARA",
+          "n": "tetimizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "tetimizyamARa",
+          "m": "tetimizyamARaH",
+          "f": "tetimizyamARA",
+          "n": "tetimizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "tetemA",
+          "m": "",
+          "f": "tetemA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "tetema",
+          "m": "tetemaH",
+          "f": "tetemA",
+          "n": "tetemam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "tetemanIya",
+          "m": "tetemanIyaH",
+          "f": "tetemanIyA",
+          "n": "tetemanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "tetimita",
+          "m": "tetimitaH",
+          "f": "tetimitA",
+          "n": "tetimitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "tetimitavat",
+          "m": "tetimitavAn",
+          "f": "tetimitavatI",
+          "n": "tetimitavat/tetimitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "tetInti",
+          "m": "",
+          "f": "tetIntiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "tetemitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "tetemAmbaBUvas",
+          "m": "tetemAmbaBUvAn",
+          "f": "tetemAmbaBUzI",
+          "n": "tetemAmbaBUvat/tetemAmbaBUvad"
+        },
+        {
+          "base": "tetemAmAsivas",
+          "m": "tetemAmAsivAn",
+          "f": "tetemAmAsyuzI",
+          "n": "tetemAmAsivat/tetemAmAsivad"
+        },
+        {
+          "base": "tetemAYcakfvas",
+          "m": "tetemAYcakfvAn",
+          "f": "tetemAYcakruzI",
+          "n": "tetemAYcakfvat/tetemAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "tetema",
+          "m": "tetemaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "tetimAna",
+          "m": "tetimAnaH",
+          "f": "tetimAnA",
+          "n": "tetimAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "tetemam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "tetemaka",
+          "m": "tetemakaH",
+          "f": "tetemikA",
+          "n": "tetemakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "tetemitavya",
+          "m": "tetemitavyaH",
+          "f": "tetemitavyA",
+          "n": "tetemitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "tetemitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "tetemitf",
+          "m": "tetemitA",
+          "f": "tetemitrI",
+          "n": "tetemitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "tetimyamAna",
+          "m": "tetimyamAnaH",
+          "f": "tetimyamAnA",
+          "n": "tetimyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pratetimya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "tetemana",
+          "m": "",
+          "f": "",
+          "n": "tetemanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "tetemaka",
+          "m": "tetemakaH",
+          "f": "tetemikA",
+          "n": "tetemakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "tetimat",
+          "m": "tetimat/tetimad",
+          "f": "tetimatI",
+          "n": "tetimat/tetimad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "tetemizyamARa",
+          "m": "tetemizyamARaH",
+          "f": "tetemizyamARA",
+          "n": "tetemizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "tetemizyat",
+          "m": "tetemizyan",
+          "f": "tetemizyatI/tetemizyantI",
+          "n": "tetemizyat/tetemizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "tim",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

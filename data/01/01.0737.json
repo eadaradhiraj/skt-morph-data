@@ -1,0 +1,4186 @@
+{
+  "id": "01.0737",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "gfhU~"
+    },
+    {
+      "name": "arTaH",
+      "value": "grahaRe"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to take,to seize, to accept"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "lenA, svIkAra karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "glahU ' iti kzIrasvAmI . ' Ryantasya grahaRe gfhergfhayate, tatrAnadantAd gfheH, BUvAdeH Sapi garhate Sni tu pare gfhRatyagfhRIta ca . garhervA Rici nindanArTavizaye garhet , taTA garhayed , BUvAdeH Sapi kftsnanArTavizaye garherBaved garhate ' ( Slo. 194) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "vew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "650"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "650"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2335",
+      "ext_link": "/sutraani/sk2335?scroll=sutra-commentary-kaumudi-region&highlight=gafhaU"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "garhizIzwa",
+        "GfkzIzwa",
+        "garhizIyAstAm",
+        "GfkzIyAstAm",
+        "garhizIran",
+        "GfkzIran",
+        "garhizIzWAH",
+        "GfkzIzWAH",
+        "garhizIyAsTAm",
+        "GfkzIyAsTAm",
+        "garhizIQvam",
+        "garhizIDvam",
+        "GfkzIDvam",
+        "garhizIya",
+        "GfkzIya",
+        "garhizIvahi",
+        "GfkzIvahi",
+        "garhizImahi",
+        "GfkzImahi"
+      ],
+      "alang": [
+        "agarhata",
+        "agarhetAm",
+        "agarhanta",
+        "agarhaTAH",
+        "agarheTAm",
+        "agarhaDvam",
+        "agarhe",
+        "agarhAvahi",
+        "agarhAmahi"
+      ],
+      "alat": [
+        "garhate",
+        "garhete",
+        "garhante",
+        "garhase",
+        "garheTe",
+        "garhaDve",
+        "garhe",
+        "garhAvahe",
+        "garhAmahe"
+      ],
+      "alit": [
+        "jagfhe",
+        "jagfhAte",
+        "jagfhire",
+        "jagfhize",
+        "jaGfkze",
+        "jagfhATe",
+        "jagfhiQve",
+        "jagfhiDve",
+        "jaGfQve",
+        "jagfhe",
+        "jagfhivahe",
+        "jagfhvahe",
+        "jagfhimahe",
+        "jagfhmahe"
+      ],
+      "alot": [
+        "garhatAm",
+        "garhetAm",
+        "garhantAm",
+        "garhasva",
+        "garheTAm",
+        "garhaDvam",
+        "garhE",
+        "garhAvahE",
+        "garhAmahE"
+      ],
+      "alrung": [
+        "agarhizyata",
+        "aGarkzyata",
+        "agarhizyetAm",
+        "aGarkzyetAm",
+        "agarhizyanta",
+        "aGarkzyanta",
+        "agarhizyaTAH",
+        "aGarkzyaTAH",
+        "agarhizyeTAm",
+        "aGarkzyeTAm",
+        "agarhizyaDvam",
+        "aGarkzyaDvam",
+        "agarhizye",
+        "aGarkzye",
+        "agarhizyAvahi",
+        "aGarkzyAvahi",
+        "agarhizyAmahi",
+        "aGarkzyAmahi"
+      ],
+      "alrut": [
+        "garhizyate",
+        "Garkzyate",
+        "garhizyete",
+        "Garkzyete",
+        "garhizyante",
+        "Garkzyante",
+        "garhizyase",
+        "Garkzyase",
+        "garhizyeTe",
+        "GarkzyeTe",
+        "garhizyaDve",
+        "GarkzyaDve",
+        "garhizye",
+        "Garkzye",
+        "garhizyAvahe",
+        "GarkzyAvahe",
+        "garhizyAmahe",
+        "GarkzyAmahe"
+      ],
+      "alung": [
+        "agarhizwa",
+        "aGfkzata",
+        "agarhizAtAm",
+        "aGfkzAtAm",
+        "agarhizata",
+        "aGfkzanta",
+        "agarhizWAH",
+        "aGfkzaTAH",
+        "agarhizATAm",
+        "aGfkzATAm",
+        "agarhiQvam",
+        "agarhiDvam",
+        "aGfkzaDvam",
+        "agarhizi",
+        "aGfkzi",
+        "agarhizvahi",
+        "aGfkzAvahi",
+        "agarhizmahi",
+        "aGfkzAmahi"
+      ],
+      "alut": [
+        "garQA",
+        "garhitA",
+        "garQArO",
+        "garhitArO",
+        "garQAraH",
+        "garhitAraH",
+        "garQAse",
+        "garhitAse",
+        "garQAsATe",
+        "garhitAsATe",
+        "garQADve",
+        "garhitADve",
+        "garQAhe",
+        "garhitAhe",
+        "garQAsvahe",
+        "garhitAsvahe",
+        "garQAsmahe",
+        "garhitAsmahe"
+      ],
+      "avidhiling": [
+        "garheta",
+        "garheyAtAm",
+        "garheran",
+        "garheTAH",
+        "garheyATAm",
+        "garheDvam",
+        "garheya",
+        "garhevahi",
+        "garhemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "garhizIzwa",
+        "GfkzIzwa",
+        "garhizIyAstAm",
+        "GfkzIyAstAm",
+        "garhizIran",
+        "GfkzIran",
+        "garhizIzWAH",
+        "GfkzIzWAH",
+        "garhizIyAsTAm",
+        "GfkzIyAsTAm",
+        "garhizIQvam",
+        "garhizIDvam",
+        "GfkzIDvam",
+        "garhizIya",
+        "GfkzIya",
+        "garhizIvahi",
+        "GfkzIvahi",
+        "garhizImahi",
+        "GfkzImahi"
+      ],
+      "alang": [
+        "agfhyata",
+        "agfhyetAm",
+        "agfhyanta",
+        "agfhyaTAH",
+        "agfhyeTAm",
+        "agfhyaDvam",
+        "agfhye",
+        "agfhyAvahi",
+        "agfhyAmahi"
+      ],
+      "alat": [
+        "gfhyate",
+        "gfhyete",
+        "gfhyante",
+        "gfhyase",
+        "gfhyeTe",
+        "gfhyaDve",
+        "gfhye",
+        "gfhyAvahe",
+        "gfhyAmahe"
+      ],
+      "alit": [
+        "jagfhe",
+        "jagfhAte",
+        "jagfhire",
+        "jagfhize",
+        "jaGfkze",
+        "jagfhATe",
+        "jagfhiQve",
+        "jagfhiDve",
+        "jaGfQve",
+        "jagfhe",
+        "jagfhivahe",
+        "jagfhvahe",
+        "jagfhimahe",
+        "jagfhmahe"
+      ],
+      "alot": [
+        "gfhyatAm",
+        "gfhyetAm",
+        "gfhyantAm",
+        "gfhyasva",
+        "gfhyeTAm",
+        "gfhyaDvam",
+        "gfhyE",
+        "gfhyAvahE",
+        "gfhyAmahE"
+      ],
+      "alrung": [
+        "agarhizyata",
+        "aGarkzyata",
+        "agarhizyetAm",
+        "aGarkzyetAm",
+        "agarhizyanta",
+        "aGarkzyanta",
+        "agarhizyaTAH",
+        "aGarkzyaTAH",
+        "agarhizyeTAm",
+        "aGarkzyeTAm",
+        "agarhizyaDvam",
+        "aGarkzyaDvam",
+        "agarhizye",
+        "aGarkzye",
+        "agarhizyAvahi",
+        "aGarkzyAvahi",
+        "agarhizyAmahi",
+        "aGarkzyAmahi"
+      ],
+      "alrut": [
+        "garhizyate",
+        "Garkzyate",
+        "garhizyete",
+        "Garkzyete",
+        "garhizyante",
+        "Garkzyante",
+        "garhizyase",
+        "Garkzyase",
+        "garhizyeTe",
+        "GarkzyeTe",
+        "garhizyaDve",
+        "GarkzyaDve",
+        "garhizye",
+        "Garkzye",
+        "garhizyAvahe",
+        "GarkzyAvahe",
+        "garhizyAmahe",
+        "GarkzyAmahe"
+      ],
+      "alung": [
+        "agarhi",
+        "agarhizAtAm",
+        "aGfkzAtAm",
+        "agarhizata",
+        "aGfkzanta",
+        "agarhizWAH",
+        "aGfkzaTAH",
+        "agarhizATAm",
+        "aGfkzATAm",
+        "agarhiQvam",
+        "agarhiDvam",
+        "aGfkzaDvam",
+        "agarhizi",
+        "aGfkzi",
+        "agarhizvahi",
+        "aGfkzAvahi",
+        "agarhizmahi",
+        "aGfkzAmahi"
+      ],
+      "alut": [
+        "garQA",
+        "garhitA",
+        "garQArO",
+        "garhitArO",
+        "garQAraH",
+        "garhitAraH",
+        "garQAse",
+        "garhitAse",
+        "garQAsATe",
+        "garhitAsATe",
+        "garQADve",
+        "garhitADve",
+        "garQAhe",
+        "garhitAhe",
+        "garQAsvahe",
+        "garhitAsvahe",
+        "garQAsmahe",
+        "garhitAsmahe"
+      ],
+      "avidhiling": [
+        "gfhyeta",
+        "gfhyeyAtAm",
+        "gfhyeran",
+        "gfhyeTAH",
+        "gfhyeyATAm",
+        "gfhyeDvam",
+        "gfhyeya",
+        "gfhyevahi",
+        "gfhyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "jigarhizizIzwa",
+        "jiGfkzizIzwa",
+        "jigarhizizIyAstAm",
+        "jiGfkzizIyAstAm",
+        "jigarhizizIran",
+        "jiGfkzizIran",
+        "jigarhizizIzWAH",
+        "jiGfkzizIzWAH",
+        "jigarhizizIyAsTAm",
+        "jiGfkzizIyAsTAm",
+        "jigarhizizIDvam",
+        "jiGfkzizIDvam",
+        "jigarhizizIya",
+        "jiGfkzizIya",
+        "jigarhizizIvahi",
+        "jiGfkzizIvahi",
+        "jigarhizizImahi",
+        "jiGfkzizImahi"
+      ],
+      "alang": [
+        "ajigarhizata",
+        "ajiGfkzata",
+        "ajigarhizetAm",
+        "ajiGfkzetAm",
+        "ajigarhizanta",
+        "ajiGfkzanta",
+        "ajigarhizaTAH",
+        "ajiGfkzaTAH",
+        "ajigarhizeTAm",
+        "ajiGfkzeTAm",
+        "ajigarhizaDvam",
+        "ajiGfkzaDvam",
+        "ajigarhize",
+        "ajiGfkze",
+        "ajigarhizAvahi",
+        "ajiGfkzAvahi",
+        "ajigarhizAmahi",
+        "ajiGfkzAmahi"
+      ],
+      "alat": [
+        "jigarhizate",
+        "jiGfkzate",
+        "jigarhizete",
+        "jiGfkzete",
+        "jigarhizante",
+        "jiGfkzante",
+        "jigarhizase",
+        "jiGfkzase",
+        "jigarhizeTe",
+        "jiGfkzeTe",
+        "jigarhizaDve",
+        "jiGfkzaDve",
+        "jigarhize",
+        "jiGfkze",
+        "jigarhizAvahe",
+        "jiGfkzAvahe",
+        "jigarhizAmahe",
+        "jiGfkzAmahe"
+      ],
+      "alit": [
+        "jigarhizAYcakre",
+        "jigarhizAmAsa",
+        "jigarhizAmbaBUva",
+        "jiGfkzAYcakre",
+        "jiGfkzAmAsa",
+        "jiGfkzAmbaBUva",
+        "jigarhizAYcakrAte",
+        "jigarhizAmAsatuH",
+        "jigarhizAmbaBUvatuH",
+        "jiGfkzAYcakrAte",
+        "jiGfkzAmAsatuH",
+        "jiGfkzAmbaBUvatuH",
+        "jigarhizAYcakrire",
+        "jigarhizAmAsuH",
+        "jigarhizAmbaBUvuH",
+        "jiGfkzAYcakrire",
+        "jiGfkzAmAsuH",
+        "jiGfkzAmbaBUvuH",
+        "jigarhizAYcakfze",
+        "jigarhizAmAsiTa",
+        "jigarhizAmbaBUviTa",
+        "jiGfkzAYcakfze",
+        "jiGfkzAmAsiTa",
+        "jiGfkzAmbaBUviTa",
+        "jigarhizAYcakrATe",
+        "jigarhizAmAsaTuH",
+        "jigarhizAmbaBUvaTuH",
+        "jiGfkzAYcakrATe",
+        "jiGfkzAmAsaTuH",
+        "jiGfkzAmbaBUvaTuH",
+        "jigarhizAYcakfQve",
+        "jigarhizAmAsa",
+        "jigarhizAmbaBUva",
+        "jiGfkzAYcakfQve",
+        "jiGfkzAmAsa",
+        "jiGfkzAmbaBUva",
+        "jigarhizAYcakre",
+        "jigarhizAmAsa",
+        "jigarhizAmbaBUva",
+        "jiGfkzAYcakre",
+        "jiGfkzAmAsa",
+        "jiGfkzAmbaBUva",
+        "jigarhizAYcakfvahe",
+        "jigarhizAmAsiva",
+        "jigarhizAmbaBUviva",
+        "jiGfkzAYcakfvahe",
+        "jiGfkzAmAsiva",
+        "jiGfkzAmbaBUviva",
+        "jigarhizAYcakfmahe",
+        "jigarhizAmAsima",
+        "jigarhizAmbaBUvima",
+        "jiGfkzAYcakfmahe",
+        "jiGfkzAmAsima",
+        "jiGfkzAmbaBUvima"
+      ],
+      "alot": [
+        "jigarhizatAm",
+        "jiGfkzatAm",
+        "jigarhizetAm",
+        "jiGfkzetAm",
+        "jigarhizantAm",
+        "jiGfkzantAm",
+        "jigarhizasva",
+        "jiGfkzasva",
+        "jigarhizeTAm",
+        "jiGfkzeTAm",
+        "jigarhizaDvam",
+        "jiGfkzaDvam",
+        "jigarhizE",
+        "jiGfkzE",
+        "jigarhizAvahE",
+        "jiGfkzAvahE",
+        "jigarhizAmahE",
+        "jiGfkzAmahE"
+      ],
+      "alrung": [
+        "ajigarhizizyata",
+        "ajiGfkzizyata",
+        "ajigarhizizyetAm",
+        "ajiGfkzizyetAm",
+        "ajigarhizizyanta",
+        "ajiGfkzizyanta",
+        "ajigarhizizyaTAH",
+        "ajiGfkzizyaTAH",
+        "ajigarhizizyeTAm",
+        "ajiGfkzizyeTAm",
+        "ajigarhizizyaDvam",
+        "ajiGfkzizyaDvam",
+        "ajigarhizizye",
+        "ajiGfkzizye",
+        "ajigarhizizyAvahi",
+        "ajiGfkzizyAvahi",
+        "ajigarhizizyAmahi",
+        "ajiGfkzizyAmahi"
+      ],
+      "alrut": [
+        "jigarhizizyate",
+        "jiGfkzizyate",
+        "jigarhizizyete",
+        "jiGfkzizyete",
+        "jigarhizizyante",
+        "jiGfkzizyante",
+        "jigarhizizyase",
+        "jiGfkzizyase",
+        "jigarhizizyeTe",
+        "jiGfkzizyeTe",
+        "jigarhizizyaDve",
+        "jiGfkzizyaDve",
+        "jigarhizizye",
+        "jiGfkzizye",
+        "jigarhizizyAvahe",
+        "jiGfkzizyAvahe",
+        "jigarhizizyAmahe",
+        "jiGfkzizyAmahe"
+      ],
+      "alung": [
+        "ajigarhizizwa",
+        "ajiGfkzizwa",
+        "ajigarhizizAtAm",
+        "ajiGfkzizAtAm",
+        "ajigarhizizata",
+        "ajiGfkzizata",
+        "ajigarhizizWAH",
+        "ajiGfkzizWAH",
+        "ajigarhizizATAm",
+        "ajiGfkzizATAm",
+        "ajigarhiziDvam",
+        "ajiGfkziDvam",
+        "ajigarhizizi",
+        "ajiGfkzizi",
+        "ajigarhizizvahi",
+        "ajiGfkzizvahi",
+        "ajigarhizizmahi",
+        "ajiGfkzizmahi"
+      ],
+      "alut": [
+        "jigarhizitA",
+        "jiGfkzitA",
+        "jigarhizitArO",
+        "jiGfkzitArO",
+        "jigarhizitAraH",
+        "jiGfkzitAraH",
+        "jigarhizitAse",
+        "jiGfkzitAse",
+        "jigarhizitAsATe",
+        "jiGfkzitAsATe",
+        "jigarhizitADve",
+        "jiGfkzitADve",
+        "jigarhizitAhe",
+        "jiGfkzitAhe",
+        "jigarhizitAsvahe",
+        "jiGfkzitAsvahe",
+        "jigarhizitAsmahe",
+        "jiGfkzitAsmahe"
+      ],
+      "avidhiling": [
+        "jigarhizeta",
+        "jiGfkzeta",
+        "jigarhizeyAtAm",
+        "jiGfkzeyAtAm",
+        "jigarhizeran",
+        "jiGfkzeran",
+        "jigarhizeTAH",
+        "jiGfkzeTAH",
+        "jigarhizeyATAm",
+        "jiGfkzeyATAm",
+        "jigarhizeDvam",
+        "jiGfkzeDvam",
+        "jigarhizeya",
+        "jiGfkzeya",
+        "jigarhizevahi",
+        "jiGfkzevahi",
+        "jigarhizemahi",
+        "jiGfkzemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "jigarhizizIzwa",
+        "jiGfkzizIzwa",
+        "jigarhizizIyAstAm",
+        "jiGfkzizIyAstAm",
+        "jigarhizizIran",
+        "jiGfkzizIran",
+        "jigarhizizIzWAH",
+        "jiGfkzizIzWAH",
+        "jigarhizizIyAsTAm",
+        "jiGfkzizIyAsTAm",
+        "jigarhizizIDvam",
+        "jiGfkzizIDvam",
+        "jigarhizizIya",
+        "jiGfkzizIya",
+        "jigarhizizIvahi",
+        "jiGfkzizIvahi",
+        "jigarhizizImahi",
+        "jiGfkzizImahi"
+      ],
+      "alang": [
+        "ajigarhizyata",
+        "ajiGfkzyata",
+        "ajigarhizyetAm",
+        "ajiGfkzyetAm",
+        "ajigarhizyanta",
+        "ajiGfkzyanta",
+        "ajigarhizyaTAH",
+        "ajiGfkzyaTAH",
+        "ajigarhizyeTAm",
+        "ajiGfkzyeTAm",
+        "ajigarhizyaDvam",
+        "ajiGfkzyaDvam",
+        "ajigarhizye",
+        "ajiGfkzye",
+        "ajigarhizyAvahi",
+        "ajiGfkzyAvahi",
+        "ajigarhizyAmahi",
+        "ajiGfkzyAmahi"
+      ],
+      "alat": [
+        "jigarhizyate",
+        "jiGfkzyate",
+        "jigarhizyete",
+        "jiGfkzyete",
+        "jigarhizyante",
+        "jiGfkzyante",
+        "jigarhizyase",
+        "jiGfkzyase",
+        "jigarhizyeTe",
+        "jiGfkzyeTe",
+        "jigarhizyaDve",
+        "jiGfkzyaDve",
+        "jigarhizye",
+        "jiGfkzye",
+        "jigarhizyAvahe",
+        "jiGfkzyAvahe",
+        "jigarhizyAmahe",
+        "jiGfkzyAmahe"
+      ],
+      "alit": [
+        "jigarhizAYcakre",
+        "jigarhizAmAse",
+        "jigarhizAmbaBUve",
+        "jiGfkzAYcakre",
+        "jiGfkzAmAse",
+        "jiGfkzAmbaBUve",
+        "jigarhizAYcakrAte",
+        "jigarhizAmAsAte",
+        "jigarhizAmbaBUvAte",
+        "jiGfkzAYcakrAte",
+        "jiGfkzAmAsAte",
+        "jiGfkzAmbaBUvAte",
+        "jigarhizAYcakrire",
+        "jigarhizAmAsire",
+        "jigarhizAmbaBUvire",
+        "jiGfkzAYcakrire",
+        "jiGfkzAmAsire",
+        "jiGfkzAmbaBUvire",
+        "jigarhizAYcakfze",
+        "jigarhizAmAsize",
+        "jigarhizAmbaBUvize",
+        "jiGfkzAYcakfze",
+        "jiGfkzAmAsize",
+        "jiGfkzAmbaBUvize",
+        "jigarhizAYcakrATe",
+        "jigarhizAmAsATe",
+        "jigarhizAmbaBUvATe",
+        "jiGfkzAYcakrATe",
+        "jiGfkzAmAsATe",
+        "jiGfkzAmbaBUvATe",
+        "jigarhizAYcakfQve",
+        "jigarhizAmAsiDve",
+        "jigarhizAmbaBUviQve",
+        "jiGfkzAYcakfQve",
+        "jiGfkzAmAsiDve",
+        "jiGfkzAmbaBUviQve",
+        "jigarhizAYcakre",
+        "jigarhizAmAhe",
+        "jigarhizAmbaBUve",
+        "jiGfkzAYcakre",
+        "jiGfkzAmAhe",
+        "jiGfkzAmbaBUve",
+        "jigarhizAYcakfvahe",
+        "jigarhizAmAsivahe",
+        "jigarhizAmbaBUvivahe",
+        "jiGfkzAYcakfvahe",
+        "jiGfkzAmAsivahe",
+        "jiGfkzAmbaBUvivahe",
+        "jigarhizAYcakfmahe",
+        "jigarhizAmAsimahe",
+        "jigarhizAmbaBUvimahe",
+        "jiGfkzAYcakfmahe",
+        "jiGfkzAmAsimahe",
+        "jiGfkzAmbaBUvimahe"
+      ],
+      "alot": [
+        "jigarhizyatAm",
+        "jiGfkzyatAm",
+        "jigarhizyetAm",
+        "jiGfkzyetAm",
+        "jigarhizyantAm",
+        "jiGfkzyantAm",
+        "jigarhizyasva",
+        "jiGfkzyasva",
+        "jigarhizyeTAm",
+        "jiGfkzyeTAm",
+        "jigarhizyaDvam",
+        "jiGfkzyaDvam",
+        "jigarhizyE",
+        "jiGfkzyE",
+        "jigarhizyAvahE",
+        "jiGfkzyAvahE",
+        "jigarhizyAmahE",
+        "jiGfkzyAmahE"
+      ],
+      "alrung": [
+        "ajigarhizizyata",
+        "ajiGfkzizyata",
+        "ajigarhizizyetAm",
+        "ajiGfkzizyetAm",
+        "ajigarhizizyanta",
+        "ajiGfkzizyanta",
+        "ajigarhizizyaTAH",
+        "ajiGfkzizyaTAH",
+        "ajigarhizizyeTAm",
+        "ajiGfkzizyeTAm",
+        "ajigarhizizyaDvam",
+        "ajiGfkzizyaDvam",
+        "ajigarhizizye",
+        "ajiGfkzizye",
+        "ajigarhizizyAvahi",
+        "ajiGfkzizyAvahi",
+        "ajigarhizizyAmahi",
+        "ajiGfkzizyAmahi"
+      ],
+      "alrut": [
+        "jigarhizizyate",
+        "jiGfkzizyate",
+        "jigarhizizyete",
+        "jiGfkzizyete",
+        "jigarhizizyante",
+        "jiGfkzizyante",
+        "jigarhizizyase",
+        "jiGfkzizyase",
+        "jigarhizizyeTe",
+        "jiGfkzizyeTe",
+        "jigarhizizyaDve",
+        "jiGfkzizyaDve",
+        "jigarhizizye",
+        "jiGfkzizye",
+        "jigarhizizyAvahe",
+        "jiGfkzizyAvahe",
+        "jigarhizizyAmahe",
+        "jiGfkzizyAmahe"
+      ],
+      "alung": [
+        "ajigarhizi",
+        "ajiGfkzi",
+        "ajigarhizizAtAm",
+        "ajiGfkzizAtAm",
+        "ajigarhizizata",
+        "ajiGfkzizata",
+        "ajigarhizizWAH",
+        "ajiGfkzizWAH",
+        "ajigarhizizATAm",
+        "ajiGfkzizATAm",
+        "ajigarhiziDvam",
+        "ajiGfkziDvam",
+        "ajigarhizizi",
+        "ajiGfkzizi",
+        "ajigarhizizvahi",
+        "ajiGfkzizvahi",
+        "ajigarhizizmahi",
+        "ajiGfkzizmahi"
+      ],
+      "alut": [
+        "jigarhizitA",
+        "jiGfkzitA",
+        "jigarhizitArO",
+        "jiGfkzitArO",
+        "jigarhizitAraH",
+        "jiGfkzitAraH",
+        "jigarhizitAse",
+        "jiGfkzitAse",
+        "jigarhizitAsATe",
+        "jiGfkzitAsATe",
+        "jigarhizitADve",
+        "jiGfkzitADve",
+        "jigarhizitAhe",
+        "jiGfkzitAhe",
+        "jigarhizitAsvahe",
+        "jiGfkzitAsvahe",
+        "jigarhizitAsmahe",
+        "jiGfkzitAsmahe"
+      ],
+      "avidhiling": [
+        "jigarhizyeta",
+        "jiGfkzyeta",
+        "jigarhizyeyAtAm",
+        "jiGfkzyeyAtAm",
+        "jigarhizyeran",
+        "jiGfkzyeran",
+        "jigarhizyeTAH",
+        "jiGfkzyeTAH",
+        "jigarhizyeyATAm",
+        "jiGfkzyeyATAm",
+        "jigarhizyeDvam",
+        "jiGfkzyeDvam",
+        "jigarhizyeya",
+        "jiGfkzyeya",
+        "jigarhizyevahi",
+        "jiGfkzyevahi",
+        "jigarhizyemahi",
+        "jiGfkzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "garhayizIzwa",
+        "garhayizIyAstAm",
+        "garhayizIran",
+        "garhayizIzWAH",
+        "garhayizIyAsTAm",
+        "garhayizIQvam",
+        "garhayizIDvam",
+        "garhayizIya",
+        "garhayizIvahi",
+        "garhayizImahi"
+      ],
+      "alang": [
+        "agarhayata",
+        "agarhayetAm",
+        "agarhayanta",
+        "agarhayaTAH",
+        "agarhayeTAm",
+        "agarhayaDvam",
+        "agarhaye",
+        "agarhayAvahi",
+        "agarhayAmahi"
+      ],
+      "alat": [
+        "garhayate",
+        "garhayete",
+        "garhayante",
+        "garhayase",
+        "garhayeTe",
+        "garhayaDve",
+        "garhaye",
+        "garhayAvahe",
+        "garhayAmahe"
+      ],
+      "alit": [
+        "garhayAYcakre",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakrAte",
+        "garhayAmAsatuH",
+        "garhayAmbaBUvatuH",
+        "garhayAYcakrire",
+        "garhayAmAsuH",
+        "garhayAmbaBUvuH",
+        "garhayAYcakfze",
+        "garhayAmAsiTa",
+        "garhayAmbaBUviTa",
+        "garhayAYcakrATe",
+        "garhayAmAsaTuH",
+        "garhayAmbaBUvaTuH",
+        "garhayAYcakfQve",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakre",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakfvahe",
+        "garhayAmAsiva",
+        "garhayAmbaBUviva",
+        "garhayAYcakfmahe",
+        "garhayAmAsima",
+        "garhayAmbaBUvima"
+      ],
+      "alot": [
+        "garhayatAm",
+        "garhayetAm",
+        "garhayantAm",
+        "garhayasva",
+        "garhayeTAm",
+        "garhayaDvam",
+        "garhayE",
+        "garhayAvahE",
+        "garhayAmahE"
+      ],
+      "alrung": [
+        "agarhayizyata",
+        "agarhayizyetAm",
+        "agarhayizyanta",
+        "agarhayizyaTAH",
+        "agarhayizyeTAm",
+        "agarhayizyaDvam",
+        "agarhayizye",
+        "agarhayizyAvahi",
+        "agarhayizyAmahi"
+      ],
+      "alrut": [
+        "garhayizyate",
+        "garhayizyete",
+        "garhayizyante",
+        "garhayizyase",
+        "garhayizyeTe",
+        "garhayizyaDve",
+        "garhayizye",
+        "garhayizyAvahe",
+        "garhayizyAmahe"
+      ],
+      "alung": [
+        "ajagarhata",
+        "ajIgfhata",
+        "ajagarhetAm",
+        "ajIgfhetAm",
+        "ajagarhanta",
+        "ajIgfhanta",
+        "ajagarhaTAH",
+        "ajIgfhaTAH",
+        "ajagarheTAm",
+        "ajIgfheTAm",
+        "ajagarhaDvam",
+        "ajIgfhaDvam",
+        "ajagarhe",
+        "ajIgfhe",
+        "ajagarhAvahi",
+        "ajIgfhAvahi",
+        "ajagarhAmahi",
+        "ajIgfhAmahi"
+      ],
+      "alut": [
+        "garhayitA",
+        "garhayitArO",
+        "garhayitAraH",
+        "garhayitAse",
+        "garhayitAsATe",
+        "garhayitADve",
+        "garhayitAhe",
+        "garhayitAsvahe",
+        "garhayitAsmahe"
+      ],
+      "avidhiling": [
+        "garhayeta",
+        "garhayeyAtAm",
+        "garhayeran",
+        "garhayeTAH",
+        "garhayeyATAm",
+        "garhayeDvam",
+        "garhayeya",
+        "garhayevahi",
+        "garhayemahi"
+      ],
+      "pashirling": [
+        "garhyAt",
+        "garhyAd",
+        "garhyAstAm",
+        "garhyAsuH",
+        "garhyAH",
+        "garhyAstam",
+        "garhyAsta",
+        "garhyAsam",
+        "garhyAsva",
+        "garhyAsma"
+      ],
+      "plang": [
+        "agarhayat",
+        "agarhayad",
+        "agarhayatAm",
+        "agarhayan",
+        "agarhayaH",
+        "agarhayatam",
+        "agarhayata",
+        "agarhayam",
+        "agarhayAva",
+        "agarhayAma"
+      ],
+      "plat": [
+        "garhayati",
+        "garhayataH",
+        "garhayanti",
+        "garhayasi",
+        "garhayaTaH",
+        "garhayaTa",
+        "garhayAmi",
+        "garhayAvaH",
+        "garhayAmaH"
+      ],
+      "plit": [
+        "garhayAYcakAra",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakratuH",
+        "garhayAmAsatuH",
+        "garhayAmbaBUvatuH",
+        "garhayAYcakruH",
+        "garhayAmAsuH",
+        "garhayAmbaBUvuH",
+        "garhayAYcakarTa",
+        "garhayAmAsiTa",
+        "garhayAmbaBUviTa",
+        "garhayAYcakraTuH",
+        "garhayAmAsaTuH",
+        "garhayAmbaBUvaTuH",
+        "garhayAYcakra",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakara",
+        "garhayAYcakAra",
+        "garhayAmAsa",
+        "garhayAmbaBUva",
+        "garhayAYcakfva",
+        "garhayAmAsiva",
+        "garhayAmbaBUviva",
+        "garhayAYcakfma",
+        "garhayAmAsima",
+        "garhayAmbaBUvima"
+      ],
+      "plot": [
+        "garhayatAt",
+        "garhayatAd",
+        "garhayatu",
+        "garhayatAm",
+        "garhayantu",
+        "garhaya",
+        "garhayatAt",
+        "garhayatAd",
+        "garhayatam",
+        "garhayata",
+        "garhayARi",
+        "garhayAva",
+        "garhayAma"
+      ],
+      "plrung": [
+        "agarhayizyat",
+        "agarhayizyad",
+        "agarhayizyatAm",
+        "agarhayizyan",
+        "agarhayizyaH",
+        "agarhayizyatam",
+        "agarhayizyata",
+        "agarhayizyam",
+        "agarhayizyAva",
+        "agarhayizyAma"
+      ],
+      "plrut": [
+        "garhayizyati",
+        "garhayizyataH",
+        "garhayizyanti",
+        "garhayizyasi",
+        "garhayizyaTaH",
+        "garhayizyaTa",
+        "garhayizyAmi",
+        "garhayizyAvaH",
+        "garhayizyAmaH"
+      ],
+      "plung": [
+        "ajagarhat",
+        "ajagarhad",
+        "ajIgfhat",
+        "ajIgfhad",
+        "ajagarhatAm",
+        "ajIgfhatAm",
+        "ajagarhan",
+        "ajIgfhan",
+        "ajagarhaH",
+        "ajIgfhaH",
+        "ajagarhatam",
+        "ajIgfhatam",
+        "ajagarhata",
+        "ajIgfhata",
+        "ajagarham",
+        "ajIgfham",
+        "ajagarhAva",
+        "ajIgfhAva",
+        "ajagarhAma",
+        "ajIgfhAma"
+      ],
+      "plut": [
+        "garhayitA",
+        "garhayitArO",
+        "garhayitAraH",
+        "garhayitAsi",
+        "garhayitAsTaH",
+        "garhayitAsTa",
+        "garhayitAsmi",
+        "garhayitAsvaH",
+        "garhayitAsmaH"
+      ],
+      "pvidhiling": [
+        "garhayet",
+        "garhayed",
+        "garhayetAm",
+        "garhayeyuH",
+        "garhayeH",
+        "garhayetam",
+        "garhayeta",
+        "garhayeyam",
+        "garhayeva",
+        "garhayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "garhayizIzwa",
+        "garhizIzwa",
+        "garhayizIyAstAm",
+        "garhizIyAstAm",
+        "garhayizIran",
+        "garhizIran",
+        "garhayizIzWAH",
+        "garhizIzWAH",
+        "garhayizIyAsTAm",
+        "garhizIyAsTAm",
+        "garhayizIQvam",
+        "garhayizIDvam",
+        "garhizIQvam",
+        "garhayizIya",
+        "garhizIya",
+        "garhayizIvahi",
+        "garhizIvahi",
+        "garhayizImahi",
+        "garhizImahi"
+      ],
+      "alang": [
+        "agarhyata",
+        "agarhyetAm",
+        "agarhyanta",
+        "agarhyaTAH",
+        "agarhyeTAm",
+        "agarhyaDvam",
+        "agarhye",
+        "agarhyAvahi",
+        "agarhyAmahi"
+      ],
+      "alat": [
+        "garhyate",
+        "garhyete",
+        "garhyante",
+        "garhyase",
+        "garhyeTe",
+        "garhyaDve",
+        "garhye",
+        "garhyAvahe",
+        "garhyAmahe"
+      ],
+      "alit": [
+        "garhayAYcakre",
+        "garhayAmAse",
+        "garhayAmbaBUve",
+        "garhayAYcakrAte",
+        "garhayAmAsAte",
+        "garhayAmbaBUvAte",
+        "garhayAYcakrire",
+        "garhayAmAsire",
+        "garhayAmbaBUvire",
+        "garhayAYcakfze",
+        "garhayAmAsize",
+        "garhayAmbaBUvize",
+        "garhayAYcakrATe",
+        "garhayAmAsATe",
+        "garhayAmbaBUvATe",
+        "garhayAYcakfQve",
+        "garhayAmAsiDve",
+        "garhayAmbaBUviQve",
+        "garhayAYcakre",
+        "garhayAmAhe",
+        "garhayAmbaBUve",
+        "garhayAYcakfvahe",
+        "garhayAmAsivahe",
+        "garhayAmbaBUvivahe",
+        "garhayAYcakfmahe",
+        "garhayAmAsimahe",
+        "garhayAmbaBUvimahe"
+      ],
+      "alot": [
+        "garhyatAm",
+        "garhyetAm",
+        "garhyantAm",
+        "garhyasva",
+        "garhyeTAm",
+        "garhyaDvam",
+        "garhyE",
+        "garhyAvahE",
+        "garhyAmahE"
+      ],
+      "alrung": [
+        "agarhayizyata",
+        "agarhizyata",
+        "agarhayizyetAm",
+        "agarhizyetAm",
+        "agarhayizyanta",
+        "agarhizyanta",
+        "agarhayizyaTAH",
+        "agarhizyaTAH",
+        "agarhayizyeTAm",
+        "agarhizyeTAm",
+        "agarhayizyaDvam",
+        "agarhizyaDvam",
+        "agarhayizye",
+        "agarhizye",
+        "agarhayizyAvahi",
+        "agarhizyAvahi",
+        "agarhayizyAmahi",
+        "agarhizyAmahi"
+      ],
+      "alrut": [
+        "garhayizyate",
+        "garhizyate",
+        "garhayizyete",
+        "garhizyete",
+        "garhayizyante",
+        "garhizyante",
+        "garhayizyase",
+        "garhizyase",
+        "garhayizyeTe",
+        "garhizyeTe",
+        "garhayizyaDve",
+        "garhizyaDve",
+        "garhayizye",
+        "garhizye",
+        "garhayizyAvahe",
+        "garhizyAvahe",
+        "garhayizyAmahe",
+        "garhizyAmahe"
+      ],
+      "alung": [
+        "agarhi",
+        "agfhi",
+        "agarhayizAtAm",
+        "agarhizAtAm",
+        "agfhayizAtAm",
+        "agfhizAtAm",
+        "agarhayizata",
+        "agarhizata",
+        "agfhayizata",
+        "agfhizata",
+        "agarhayizWAH",
+        "agarhizWAH",
+        "agfhayizWAH",
+        "agfhizWAH",
+        "agarhayizATAm",
+        "agarhizATAm",
+        "agfhayizATAm",
+        "agfhizATAm",
+        "agarhayiQvam",
+        "agarhayiDvam",
+        "agarhiQvam",
+        "agfhayiQvam",
+        "agfhayiDvam",
+        "agfhiQvam",
+        "agarhayizi",
+        "agarhizi",
+        "agfhayizi",
+        "agfhizi",
+        "agarhayizvahi",
+        "agarhizvahi",
+        "agfhayizvahi",
+        "agfhizvahi",
+        "agarhayizmahi",
+        "agarhizmahi",
+        "agfhayizmahi",
+        "agfhizmahi"
+      ],
+      "alut": [
+        "garhayitA",
+        "garhitA",
+        "garhayitArO",
+        "garhitArO",
+        "garhayitAraH",
+        "garhitAraH",
+        "garhayitAse",
+        "garhitAse",
+        "garhayitAsATe",
+        "garhitAsATe",
+        "garhayitADve",
+        "garhitADve",
+        "garhayitAhe",
+        "garhitAhe",
+        "garhayitAsvahe",
+        "garhitAsvahe",
+        "garhayitAsmahe",
+        "garhitAsmahe"
+      ],
+      "avidhiling": [
+        "garhyeta",
+        "garhyeyAtAm",
+        "garhyeran",
+        "garhyeTAH",
+        "garhyeyATAm",
+        "garhyeDvam",
+        "garhyeya",
+        "garhyevahi",
+        "garhyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "jarIgfhizIzwa",
+        "jarIgfhizIyAstAm",
+        "jarIgfhizIran",
+        "jarIgfhizIzWAH",
+        "jarIgfhizIyAsTAm",
+        "jarIgfhizIQvam",
+        "jarIgfhizIya",
+        "jarIgfhizIvahi",
+        "jarIgfhizImahi"
+      ],
+      "alang": [
+        "ajarIgfhyata",
+        "ajarIgfhyetAm",
+        "ajarIgfhyanta",
+        "ajarIgfhyaTAH",
+        "ajarIgfhyeTAm",
+        "ajarIgfhyaDvam",
+        "ajarIgfhye",
+        "ajarIgfhyAvahi",
+        "ajarIgfhyAmahi"
+      ],
+      "alat": [
+        "jarIgfhyate",
+        "jarIgfhyete",
+        "jarIgfhyante",
+        "jarIgfhyase",
+        "jarIgfhyeTe",
+        "jarIgfhyaDve",
+        "jarIgfhye",
+        "jarIgfhyAvahe",
+        "jarIgfhyAmahe"
+      ],
+      "alit": [
+        "jarIgfhAYcakre",
+        "jarIgfhAmAsa",
+        "jarIgfhAmbaBUva",
+        "jarIgfhAYcakrAte",
+        "jarIgfhAmAsatuH",
+        "jarIgfhAmbaBUvatuH",
+        "jarIgfhAYcakrire",
+        "jarIgfhAmAsuH",
+        "jarIgfhAmbaBUvuH",
+        "jarIgfhAYcakfze",
+        "jarIgfhAmAsiTa",
+        "jarIgfhAmbaBUviTa",
+        "jarIgfhAYcakrATe",
+        "jarIgfhAmAsaTuH",
+        "jarIgfhAmbaBUvaTuH",
+        "jarIgfhAYcakfQve",
+        "jarIgfhAmAsa",
+        "jarIgfhAmbaBUva",
+        "jarIgfhAYcakre",
+        "jarIgfhAmAsa",
+        "jarIgfhAmbaBUva",
+        "jarIgfhAYcakfvahe",
+        "jarIgfhAmAsiva",
+        "jarIgfhAmbaBUviva",
+        "jarIgfhAYcakfmahe",
+        "jarIgfhAmAsima",
+        "jarIgfhAmbaBUvima"
+      ],
+      "alot": [
+        "jarIgfhyatAm",
+        "jarIgfhyetAm",
+        "jarIgfhyantAm",
+        "jarIgfhyasva",
+        "jarIgfhyeTAm",
+        "jarIgfhyaDvam",
+        "jarIgfhyE",
+        "jarIgfhyAvahE",
+        "jarIgfhyAmahE"
+      ],
+      "alrung": [
+        "ajarIgfhizyata",
+        "ajarIgfhizyetAm",
+        "ajarIgfhizyanta",
+        "ajarIgfhizyaTAH",
+        "ajarIgfhizyeTAm",
+        "ajarIgfhizyaDvam",
+        "ajarIgfhizye",
+        "ajarIgfhizyAvahi",
+        "ajarIgfhizyAmahi"
+      ],
+      "alrut": [
+        "jarIgfhizyate",
+        "jarIgfhizyete",
+        "jarIgfhizyante",
+        "jarIgfhizyase",
+        "jarIgfhizyeTe",
+        "jarIgfhizyaDve",
+        "jarIgfhizye",
+        "jarIgfhizyAvahe",
+        "jarIgfhizyAmahe"
+      ],
+      "alung": [
+        "ajarIgfhizwa",
+        "ajarIgfhizAtAm",
+        "ajarIgfhizata",
+        "ajarIgfhizWAH",
+        "ajarIgfhizATAm",
+        "ajarIgfhiQvam",
+        "ajarIgfhizi",
+        "ajarIgfhizvahi",
+        "ajarIgfhizmahi"
+      ],
+      "alut": [
+        "jarIgfhitA",
+        "jarIgfhitArO",
+        "jarIgfhitAraH",
+        "jarIgfhitAse",
+        "jarIgfhitAsATe",
+        "jarIgfhitADve",
+        "jarIgfhitAhe",
+        "jarIgfhitAsvahe",
+        "jarIgfhitAsmahe"
+      ],
+      "avidhiling": [
+        "jarIgfhyeta",
+        "jarIgfhyeyAtAm",
+        "jarIgfhyeran",
+        "jarIgfhyeTAH",
+        "jarIgfhyeyATAm",
+        "jarIgfhyeDvam",
+        "jarIgfhyeya",
+        "jarIgfhyevahi",
+        "jarIgfhyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "jarIgfhizIzwa",
+        "jarIgfhizIyAstAm",
+        "jarIgfhizIran",
+        "jarIgfhizIzWAH",
+        "jarIgfhizIyAsTAm",
+        "jarIgfhizIQvam",
+        "jarIgfhizIya",
+        "jarIgfhizIvahi",
+        "jarIgfhizImahi"
+      ],
+      "alang": [
+        "ajarIgfhyata",
+        "ajarIgfhyetAm",
+        "ajarIgfhyanta",
+        "ajarIgfhyaTAH",
+        "ajarIgfhyeTAm",
+        "ajarIgfhyaDvam",
+        "ajarIgfhye",
+        "ajarIgfhyAvahi",
+        "ajarIgfhyAmahi"
+      ],
+      "alat": [
+        "jarIgfhyate",
+        "jarIgfhyete",
+        "jarIgfhyante",
+        "jarIgfhyase",
+        "jarIgfhyeTe",
+        "jarIgfhyaDve",
+        "jarIgfhye",
+        "jarIgfhyAvahe",
+        "jarIgfhyAmahe"
+      ],
+      "alit": [
+        "jarIgfhAYcakre",
+        "jarIgfhAmAse",
+        "jarIgfhAmbaBUve",
+        "jarIgfhAYcakrAte",
+        "jarIgfhAmAsAte",
+        "jarIgfhAmbaBUvAte",
+        "jarIgfhAYcakrire",
+        "jarIgfhAmAsire",
+        "jarIgfhAmbaBUvire",
+        "jarIgfhAYcakfze",
+        "jarIgfhAmAsize",
+        "jarIgfhAmbaBUvize",
+        "jarIgfhAYcakrATe",
+        "jarIgfhAmAsATe",
+        "jarIgfhAmbaBUvATe",
+        "jarIgfhAYcakfQve",
+        "jarIgfhAmAsiDve",
+        "jarIgfhAmbaBUviQve",
+        "jarIgfhAYcakre",
+        "jarIgfhAmAhe",
+        "jarIgfhAmbaBUve",
+        "jarIgfhAYcakfvahe",
+        "jarIgfhAmAsivahe",
+        "jarIgfhAmbaBUvivahe",
+        "jarIgfhAYcakfmahe",
+        "jarIgfhAmAsimahe",
+        "jarIgfhAmbaBUvimahe"
+      ],
+      "alot": [
+        "jarIgfhyatAm",
+        "jarIgfhyetAm",
+        "jarIgfhyantAm",
+        "jarIgfhyasva",
+        "jarIgfhyeTAm",
+        "jarIgfhyaDvam",
+        "jarIgfhyE",
+        "jarIgfhyAvahE",
+        "jarIgfhyAmahE"
+      ],
+      "alrung": [
+        "ajarIgfhizyata",
+        "ajarIgfhizyetAm",
+        "ajarIgfhizyanta",
+        "ajarIgfhizyaTAH",
+        "ajarIgfhizyeTAm",
+        "ajarIgfhizyaDvam",
+        "ajarIgfhizye",
+        "ajarIgfhizyAvahi",
+        "ajarIgfhizyAmahi"
+      ],
+      "alrut": [
+        "jarIgfhizyate",
+        "jarIgfhizyete",
+        "jarIgfhizyante",
+        "jarIgfhizyase",
+        "jarIgfhizyeTe",
+        "jarIgfhizyaDve",
+        "jarIgfhizye",
+        "jarIgfhizyAvahe",
+        "jarIgfhizyAmahe"
+      ],
+      "alung": [
+        "ajarIgfhi",
+        "ajarIgfhizAtAm",
+        "ajarIgfhizata",
+        "ajarIgfhizWAH",
+        "ajarIgfhizATAm",
+        "ajarIgfhiQvam",
+        "ajarIgfhizi",
+        "ajarIgfhizvahi",
+        "ajarIgfhizmahi"
+      ],
+      "alut": [
+        "jarIgfhitA",
+        "jarIgfhitArO",
+        "jarIgfhitAraH",
+        "jarIgfhitAse",
+        "jarIgfhitAsATe",
+        "jarIgfhitADve",
+        "jarIgfhitAhe",
+        "jarIgfhitAsvahe",
+        "jarIgfhitAsmahe"
+      ],
+      "avidhiling": [
+        "jarIgfhyeta",
+        "jarIgfhyeyAtAm",
+        "jarIgfhyeran",
+        "jarIgfhyeTAH",
+        "jarIgfhyeyATAm",
+        "jarIgfhyeDvam",
+        "jarIgfhyeya",
+        "jarIgfhyevahi",
+        "jarIgfhyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "jarigfhyAt",
+        "jarigfhyAd",
+        "jarIgfhyAt",
+        "jarIgfhyAd",
+        "jargfhyAt",
+        "jargfhyAd",
+        "jarigfhyAstAm",
+        "jarIgfhyAstAm",
+        "jargfhyAstAm",
+        "jarigfhyAsuH",
+        "jarIgfhyAsuH",
+        "jargfhyAsuH",
+        "jarigfhyAH",
+        "jarIgfhyAH",
+        "jargfhyAH",
+        "jarigfhyAstam",
+        "jarIgfhyAstam",
+        "jargfhyAstam",
+        "jarigfhyAsta",
+        "jarIgfhyAsta",
+        "jargfhyAsta",
+        "jarigfhyAsam",
+        "jarIgfhyAsam",
+        "jargfhyAsam",
+        "jarigfhyAsva",
+        "jarIgfhyAsva",
+        "jargfhyAsva",
+        "jarigfhyAsma",
+        "jarIgfhyAsma",
+        "jargfhyAsma"
+      ],
+      "plang": [
+        "ajarigfhIt",
+        "ajarigfhId",
+        "ajariGarw",
+        "ajariGarq",
+        "ajarIgfhIt",
+        "ajarIgfhId",
+        "ajarIGarw",
+        "ajarIGarq",
+        "ajargfhIt",
+        "ajargfhId",
+        "ajarGarw",
+        "ajarGarq",
+        "ajarigfQAm",
+        "ajarIgfQAm",
+        "ajargfQAm",
+        "ajarigfhuH",
+        "ajarIgfhuH",
+        "ajargfhuH",
+        "ajarigfhIH",
+        "ajariGarw",
+        "ajariGarq",
+        "ajarIgfhIH",
+        "ajarIGarw",
+        "ajarIGarq",
+        "ajargfhIH",
+        "ajarGarw",
+        "ajarGarq",
+        "ajarigfQam",
+        "ajarIgfQam",
+        "ajargfQam",
+        "ajarigfQa",
+        "ajarIgfQa",
+        "ajargfQa",
+        "ajarigfham",
+        "ajarIgfham",
+        "ajargfham",
+        "ajarigfhva",
+        "ajarIgfhva",
+        "ajargfhva",
+        "ajarigfhma",
+        "ajarIgfhma",
+        "ajargfhma"
+      ],
+      "plat": [
+        "jarigarQi",
+        "jarigfhIti",
+        "jarIgarQi",
+        "jarIgfhIti",
+        "jargarQi",
+        "jargfhIti",
+        "jarigfQaH",
+        "jarIgfQaH",
+        "jargfQaH",
+        "jarigfhati",
+        "jarIgfhati",
+        "jargfhati",
+        "jarigfhIzi",
+        "jariGarkzi",
+        "jarIgfhIzi",
+        "jarIGarkzi",
+        "jargfhIzi",
+        "jarGarkzi",
+        "jarigfQaH",
+        "jarIgfQaH",
+        "jargfQaH",
+        "jarigfQa",
+        "jarIgfQa",
+        "jargfQa",
+        "jarigarhmi",
+        "jarigfhImi",
+        "jarIgarhmi",
+        "jarIgfhImi",
+        "jargarhmi",
+        "jargfhImi",
+        "jarigfhvaH",
+        "jarIgfhvaH",
+        "jargfhvaH",
+        "jarigfhmaH",
+        "jarIgfhmaH",
+        "jargfhmaH"
+      ],
+      "plit": [
+        "jarigarhAYcakAra",
+        "jarigarhAmAsa",
+        "jarigarhAmbaBUva",
+        "jarIgarhAYcakAra",
+        "jarIgarhAmAsa",
+        "jarIgarhAmbaBUva",
+        "jargarhAYcakAra",
+        "jargarhAmAsa",
+        "jargarhAmbaBUva",
+        "jarigarhAYcakratuH",
+        "jarigarhAmAsatuH",
+        "jarigarhAmbaBUvatuH",
+        "jarIgarhAYcakratuH",
+        "jarIgarhAmAsatuH",
+        "jarIgarhAmbaBUvatuH",
+        "jargarhAYcakratuH",
+        "jargarhAmAsatuH",
+        "jargarhAmbaBUvatuH",
+        "jarigarhAYcakruH",
+        "jarigarhAmAsuH",
+        "jarigarhAmbaBUvuH",
+        "jarIgarhAYcakruH",
+        "jarIgarhAmAsuH",
+        "jarIgarhAmbaBUvuH",
+        "jargarhAYcakruH",
+        "jargarhAmAsuH",
+        "jargarhAmbaBUvuH",
+        "jarigarhAYcakarTa",
+        "jarigarhAmAsiTa",
+        "jarigarhAmbaBUviTa",
+        "jarIgarhAYcakarTa",
+        "jarIgarhAmAsiTa",
+        "jarIgarhAmbaBUviTa",
+        "jargarhAYcakarTa",
+        "jargarhAmAsiTa",
+        "jargarhAmbaBUviTa",
+        "jarigarhAYcakraTuH",
+        "jarigarhAmAsaTuH",
+        "jarigarhAmbaBUvaTuH",
+        "jarIgarhAYcakraTuH",
+        "jarIgarhAmAsaTuH",
+        "jarIgarhAmbaBUvaTuH",
+        "jargarhAYcakraTuH",
+        "jargarhAmAsaTuH",
+        "jargarhAmbaBUvaTuH",
+        "jarigarhAYcakra",
+        "jarigarhAmAsa",
+        "jarigarhAmbaBUva",
+        "jarIgarhAYcakra",
+        "jarIgarhAmAsa",
+        "jarIgarhAmbaBUva",
+        "jargarhAYcakra",
+        "jargarhAmAsa",
+        "jargarhAmbaBUva",
+        "jarigarhAYcakara",
+        "jarigarhAYcakAra",
+        "jarigarhAmAsa",
+        "jarigarhAmbaBUva",
+        "jarIgarhAYcakara",
+        "jarIgarhAYcakAra",
+        "jarIgarhAmAsa",
+        "jarIgarhAmbaBUva",
+        "jargarhAYcakara",
+        "jargarhAYcakAra",
+        "jargarhAmAsa",
+        "jargarhAmbaBUva",
+        "jarigarhAYcakfva",
+        "jarigarhAmAsiva",
+        "jarigarhAmbaBUviva",
+        "jarIgarhAYcakfva",
+        "jarIgarhAmAsiva",
+        "jarIgarhAmbaBUviva",
+        "jargarhAYcakfva",
+        "jargarhAmAsiva",
+        "jargarhAmbaBUviva",
+        "jarigarhAYcakfma",
+        "jarigarhAmAsima",
+        "jarigarhAmbaBUvima",
+        "jarIgarhAYcakfma",
+        "jarIgarhAmAsima",
+        "jarIgarhAmbaBUvima",
+        "jargarhAYcakfma",
+        "jargarhAmAsima",
+        "jargarhAmbaBUvima"
+      ],
+      "plot": [
+        "jarigarQu",
+        "jarigfQAt",
+        "jarigfQAd",
+        "jarigfhItu",
+        "jarIgarQu",
+        "jarIgfQAt",
+        "jarIgfQAd",
+        "jarIgfhItu",
+        "jargarQu",
+        "jargfQAt",
+        "jargfQAd",
+        "jargfhItu",
+        "jarigfQAm",
+        "jarIgfQAm",
+        "jargfQAm",
+        "jarigfhatu",
+        "jarIgfhatu",
+        "jargfhatu",
+        "jarigfQAt",
+        "jarigfQAd",
+        "jarigfQi",
+        "jarIgfQAt",
+        "jarIgfQAd",
+        "jarIgfQi",
+        "jargfQAt",
+        "jargfQAd",
+        "jargfQi",
+        "jarigfQam",
+        "jarIgfQam",
+        "jargfQam",
+        "jarigfQa",
+        "jarIgfQa",
+        "jargfQa",
+        "jarigfhARi",
+        "jarIgfhARi",
+        "jargfhARi",
+        "jarigfhAva",
+        "jarIgfhAva",
+        "jargfhAva",
+        "jarigfhAma",
+        "jarIgfhAma",
+        "jargfhAma"
+      ],
+      "plrung": [
+        "ajarigarhizyat",
+        "ajarigarhizyad",
+        "ajariGarkzyat",
+        "ajariGarkzyad",
+        "ajarIgarhizyat",
+        "ajarIgarhizyad",
+        "ajarIGarkzyat",
+        "ajarIGarkzyad",
+        "ajargarhizyat",
+        "ajargarhizyad",
+        "ajarGarkzyat",
+        "ajarGarkzyad",
+        "ajarigarhizyatAm",
+        "ajariGarkzyatAm",
+        "ajarIgarhizyatAm",
+        "ajarIGarkzyatAm",
+        "ajargarhizyatAm",
+        "ajarGarkzyatAm",
+        "ajarigarhizyan",
+        "ajariGarkzyan",
+        "ajarIgarhizyan",
+        "ajarIGarkzyan",
+        "ajargarhizyan",
+        "ajarGarkzyan",
+        "ajarigarhizyaH",
+        "ajariGarkzyaH",
+        "ajarIgarhizyaH",
+        "ajarIGarkzyaH",
+        "ajargarhizyaH",
+        "ajarGarkzyaH",
+        "ajarigarhizyatam",
+        "ajariGarkzyatam",
+        "ajarIgarhizyatam",
+        "ajarIGarkzyatam",
+        "ajargarhizyatam",
+        "ajarGarkzyatam",
+        "ajarigarhizyata",
+        "ajariGarkzyata",
+        "ajarIgarhizyata",
+        "ajarIGarkzyata",
+        "ajargarhizyata",
+        "ajarGarkzyata",
+        "ajarigarhizyam",
+        "ajariGarkzyam",
+        "ajarIgarhizyam",
+        "ajarIGarkzyam",
+        "ajargarhizyam",
+        "ajarGarkzyam",
+        "ajarigarhizyAva",
+        "ajariGarkzyAva",
+        "ajarIgarhizyAva",
+        "ajarIGarkzyAva",
+        "ajargarhizyAva",
+        "ajarGarkzyAva",
+        "ajarigarhizyAma",
+        "ajariGarkzyAma",
+        "ajarIgarhizyAma",
+        "ajarIGarkzyAma",
+        "ajargarhizyAma",
+        "ajarGarkzyAma"
+      ],
+      "plrut": [
+        "jarigarhizyati",
+        "jariGarkzyati",
+        "jarIgarhizyati",
+        "jarIGarkzyati",
+        "jargarhizyati",
+        "jarGarkzyati",
+        "jarigarhizyataH",
+        "jariGarkzyataH",
+        "jarIgarhizyataH",
+        "jarIGarkzyataH",
+        "jargarhizyataH",
+        "jarGarkzyataH",
+        "jarigarhizyanti",
+        "jariGarkzyanti",
+        "jarIgarhizyanti",
+        "jarIGarkzyanti",
+        "jargarhizyanti",
+        "jarGarkzyanti",
+        "jarigarhizyasi",
+        "jariGarkzyasi",
+        "jarIgarhizyasi",
+        "jarIGarkzyasi",
+        "jargarhizyasi",
+        "jarGarkzyasi",
+        "jarigarhizyaTaH",
+        "jariGarkzyaTaH",
+        "jarIgarhizyaTaH",
+        "jarIGarkzyaTaH",
+        "jargarhizyaTaH",
+        "jarGarkzyaTaH",
+        "jarigarhizyaTa",
+        "jariGarkzyaTa",
+        "jarIgarhizyaTa",
+        "jarIGarkzyaTa",
+        "jargarhizyaTa",
+        "jarGarkzyaTa",
+        "jarigarhizyAmi",
+        "jariGarkzyAmi",
+        "jarIgarhizyAmi",
+        "jarIGarkzyAmi",
+        "jargarhizyAmi",
+        "jarGarkzyAmi",
+        "jarigarhizyAvaH",
+        "jariGarkzyAvaH",
+        "jarIgarhizyAvaH",
+        "jarIGarkzyAvaH",
+        "jargarhizyAvaH",
+        "jarGarkzyAvaH",
+        "jarigarhizyAmaH",
+        "jariGarkzyAmaH",
+        "jarIgarhizyAmaH",
+        "jarIGarkzyAmaH",
+        "jargarhizyAmaH",
+        "jarGarkzyAmaH"
+      ],
+      "plung": [
+        "ajarigarhIt",
+        "ajarigarhId",
+        "ajariGArkzIt",
+        "ajariGArkzId",
+        "ajarIgarhIt",
+        "ajarIgarhId",
+        "ajarIGArkzIt",
+        "ajarIGArkzId",
+        "ajargarhIt",
+        "ajargarhId",
+        "ajarGArkzIt",
+        "ajarGArkzId",
+        "ajarigarhizwAm",
+        "ajarigArQAm",
+        "ajarIgarhizwAm",
+        "ajarIgArQAm",
+        "ajargarhizwAm",
+        "ajargArQAm",
+        "ajarigarhizuH",
+        "ajariGArkzuH",
+        "ajarIgarhizuH",
+        "ajarIGArkzuH",
+        "ajargarhizuH",
+        "ajarGArkzuH",
+        "ajarigarhIH",
+        "ajariGArkzIH",
+        "ajarIgarhIH",
+        "ajarIGArkzIH",
+        "ajargarhIH",
+        "ajarGArkzIH",
+        "ajarigarhizwam",
+        "ajarigArQam",
+        "ajarIgarhizwam",
+        "ajarIgArQam",
+        "ajargarhizwam",
+        "ajargArQam",
+        "ajarigarhizwa",
+        "ajarigArQa",
+        "ajarIgarhizwa",
+        "ajarIgArQa",
+        "ajargarhizwa",
+        "ajargArQa",
+        "ajarigarhizam",
+        "ajariGArkzam",
+        "ajarIgarhizam",
+        "ajarIGArkzam",
+        "ajargarhizam",
+        "ajarGArkzam",
+        "ajarigarhizva",
+        "ajariGArkzva",
+        "ajarIgarhizva",
+        "ajarIGArkzva",
+        "ajargarhizva",
+        "ajarGArkzva",
+        "ajarigarhizma",
+        "ajariGArkzma",
+        "ajarIgarhizma",
+        "ajarIGArkzma",
+        "ajargarhizma",
+        "ajarGArkzma"
+      ],
+      "plut": [
+        "jarigarQA",
+        "jarigarhitA",
+        "jarIgarQA",
+        "jarIgarhitA",
+        "jargarQA",
+        "jargarhitA",
+        "jarigarQArO",
+        "jarigarhitArO",
+        "jarIgarQArO",
+        "jarIgarhitArO",
+        "jargarQArO",
+        "jargarhitArO",
+        "jarigarQAraH",
+        "jarigarhitAraH",
+        "jarIgarQAraH",
+        "jarIgarhitAraH",
+        "jargarQAraH",
+        "jargarhitAraH",
+        "jarigarQAsi",
+        "jarigarhitAsi",
+        "jarIgarQAsi",
+        "jarIgarhitAsi",
+        "jargarQAsi",
+        "jargarhitAsi",
+        "jarigarQAsTaH",
+        "jarigarhitAsTaH",
+        "jarIgarQAsTaH",
+        "jarIgarhitAsTaH",
+        "jargarQAsTaH",
+        "jargarhitAsTaH",
+        "jarigarQAsTa",
+        "jarigarhitAsTa",
+        "jarIgarQAsTa",
+        "jarIgarhitAsTa",
+        "jargarQAsTa",
+        "jargarhitAsTa",
+        "jarigarQAsmi",
+        "jarigarhitAsmi",
+        "jarIgarQAsmi",
+        "jarIgarhitAsmi",
+        "jargarQAsmi",
+        "jargarhitAsmi",
+        "jarigarQAsvaH",
+        "jarigarhitAsvaH",
+        "jarIgarQAsvaH",
+        "jarIgarhitAsvaH",
+        "jargarQAsvaH",
+        "jargarhitAsvaH",
+        "jarigarQAsmaH",
+        "jarigarhitAsmaH",
+        "jarIgarQAsmaH",
+        "jarIgarhitAsmaH",
+        "jargarQAsmaH",
+        "jargarhitAsmaH"
+      ],
+      "pvidhiling": [
+        "jarigfhyAt",
+        "jarigfhyAd",
+        "jarIgfhyAt",
+        "jarIgfhyAd",
+        "jargfhyAt",
+        "jargfhyAd",
+        "jarigfhyAtAm",
+        "jarIgfhyAtAm",
+        "jargfhyAtAm",
+        "jarigfhyuH",
+        "jarIgfhyuH",
+        "jargfhyuH",
+        "jarigfhyAH",
+        "jarIgfhyAH",
+        "jargfhyAH",
+        "jarigfhyAtam",
+        "jarIgfhyAtam",
+        "jargfhyAtam",
+        "jarigfhyAta",
+        "jarIgfhyAta",
+        "jargfhyAta",
+        "jarigfhyAm",
+        "jarIgfhyAm",
+        "jargfhyAm",
+        "jarigfhyAva",
+        "jarIgfhyAva",
+        "jargfhyAva",
+        "jarigfhyAma",
+        "jarIgfhyAma",
+        "jargfhyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "jarigarhizIzwa",
+        "jariGarkzIzwa",
+        "jarIgarhizIzwa",
+        "jarIGarkzIzwa",
+        "jargarhizIzwa",
+        "jarGarkzIzwa",
+        "jarigarhizIyAstAm",
+        "jariGarkzIyAstAm",
+        "jarIgarhizIyAstAm",
+        "jarIGarkzIyAstAm",
+        "jargarhizIyAstAm",
+        "jarGarkzIyAstAm",
+        "jarigarhizIran",
+        "jariGarkzIran",
+        "jarIgarhizIran",
+        "jarIGarkzIran",
+        "jargarhizIran",
+        "jarGarkzIran",
+        "jarigarhizIzWAH",
+        "jariGarkzIzWAH",
+        "jarIgarhizIzWAH",
+        "jarIGarkzIzWAH",
+        "jargarhizIzWAH",
+        "jarGarkzIzWAH",
+        "jarigarhizIyAsTAm",
+        "jariGarkzIyAsTAm",
+        "jarIgarhizIyAsTAm",
+        "jarIGarkzIyAsTAm",
+        "jargarhizIyAsTAm",
+        "jarGarkzIyAsTAm",
+        "jarigarhizIQvam",
+        "jariGarkzIDvam",
+        "jarIgarhizIQvam",
+        "jarIGarkzIDvam",
+        "jargarhizIQvam",
+        "jarGarkzIDvam",
+        "jarigarhizIya",
+        "jariGarkzIya",
+        "jarIgarhizIya",
+        "jarIGarkzIya",
+        "jargarhizIya",
+        "jarGarkzIya",
+        "jarigarhizIvahi",
+        "jariGarkzIvahi",
+        "jarIgarhizIvahi",
+        "jarIGarkzIvahi",
+        "jargarhizIvahi",
+        "jarGarkzIvahi",
+        "jarigarhizImahi",
+        "jariGarkzImahi",
+        "jarIgarhizImahi",
+        "jarIGarkzImahi",
+        "jargarhizImahi",
+        "jarGarkzImahi"
+      ],
+      "alang": [
+        "ajarigfhyata",
+        "ajarIgfhyata",
+        "ajargfhyata",
+        "ajarigfhyetAm",
+        "ajarIgfhyetAm",
+        "ajargfhyetAm",
+        "ajarigfhyanta",
+        "ajarIgfhyanta",
+        "ajargfhyanta",
+        "ajarigfhyaTAH",
+        "ajarIgfhyaTAH",
+        "ajargfhyaTAH",
+        "ajarigfhyeTAm",
+        "ajarIgfhyeTAm",
+        "ajargfhyeTAm",
+        "ajarigfhyaDvam",
+        "ajarIgfhyaDvam",
+        "ajargfhyaDvam",
+        "ajarigfhye",
+        "ajarIgfhye",
+        "ajargfhye",
+        "ajarigfhyAvahi",
+        "ajarIgfhyAvahi",
+        "ajargfhyAvahi",
+        "ajarigfhyAmahi",
+        "ajarIgfhyAmahi",
+        "ajargfhyAmahi"
+      ],
+      "alat": [
+        "jarigfhyate",
+        "jarIgfhyate",
+        "jargfhyate",
+        "jarigfhyete",
+        "jarIgfhyete",
+        "jargfhyete",
+        "jarigfhyante",
+        "jarIgfhyante",
+        "jargfhyante",
+        "jarigfhyase",
+        "jarIgfhyase",
+        "jargfhyase",
+        "jarigfhyeTe",
+        "jarIgfhyeTe",
+        "jargfhyeTe",
+        "jarigfhyaDve",
+        "jarIgfhyaDve",
+        "jargfhyaDve",
+        "jarigfhye",
+        "jarIgfhye",
+        "jargfhye",
+        "jarigfhyAvahe",
+        "jarIgfhyAvahe",
+        "jargfhyAvahe",
+        "jarigfhyAmahe",
+        "jarIgfhyAmahe",
+        "jargfhyAmahe"
+      ],
+      "alit": [
+        "jarigarhAYcakre",
+        "jarigarhAmAse",
+        "jarigarhAmbaBUve",
+        "jarIgarhAYcakre",
+        "jarIgarhAmAse",
+        "jarIgarhAmbaBUve",
+        "jargarhAYcakre",
+        "jargarhAmAse",
+        "jargarhAmbaBUve",
+        "jarigarhAYcakrAte",
+        "jarigarhAmAsAte",
+        "jarigarhAmbaBUvAte",
+        "jarIgarhAYcakrAte",
+        "jarIgarhAmAsAte",
+        "jarIgarhAmbaBUvAte",
+        "jargarhAYcakrAte",
+        "jargarhAmAsAte",
+        "jargarhAmbaBUvAte",
+        "jarigarhAYcakrire",
+        "jarigarhAmAsire",
+        "jarigarhAmbaBUvire",
+        "jarIgarhAYcakrire",
+        "jarIgarhAmAsire",
+        "jarIgarhAmbaBUvire",
+        "jargarhAYcakrire",
+        "jargarhAmAsire",
+        "jargarhAmbaBUvire",
+        "jarigarhAYcakfze",
+        "jarigarhAmAsize",
+        "jarigarhAmbaBUvize",
+        "jarIgarhAYcakfze",
+        "jarIgarhAmAsize",
+        "jarIgarhAmbaBUvize",
+        "jargarhAYcakfze",
+        "jargarhAmAsize",
+        "jargarhAmbaBUvize",
+        "jarigarhAYcakrATe",
+        "jarigarhAmAsATe",
+        "jarigarhAmbaBUvATe",
+        "jarIgarhAYcakrATe",
+        "jarIgarhAmAsATe",
+        "jarIgarhAmbaBUvATe",
+        "jargarhAYcakrATe",
+        "jargarhAmAsATe",
+        "jargarhAmbaBUvATe",
+        "jarigarhAYcakfQve",
+        "jarigarhAmAsiDve",
+        "jarigarhAmbaBUviQve",
+        "jarIgarhAYcakfQve",
+        "jarIgarhAmAsiDve",
+        "jarIgarhAmbaBUviQve",
+        "jargarhAYcakfQve",
+        "jargarhAmAsiDve",
+        "jargarhAmbaBUviQve",
+        "jarigarhAYcakre",
+        "jarigarhAmAhe",
+        "jarigarhAmbaBUve",
+        "jarIgarhAYcakre",
+        "jarIgarhAmAhe",
+        "jarIgarhAmbaBUve",
+        "jargarhAYcakre",
+        "jargarhAmAhe",
+        "jargarhAmbaBUve",
+        "jarigarhAYcakfvahe",
+        "jarigarhAmAsivahe",
+        "jarigarhAmbaBUvivahe",
+        "jarIgarhAYcakfvahe",
+        "jarIgarhAmAsivahe",
+        "jarIgarhAmbaBUvivahe",
+        "jargarhAYcakfvahe",
+        "jargarhAmAsivahe",
+        "jargarhAmbaBUvivahe",
+        "jarigarhAYcakfmahe",
+        "jarigarhAmAsimahe",
+        "jarigarhAmbaBUvimahe",
+        "jarIgarhAYcakfmahe",
+        "jarIgarhAmAsimahe",
+        "jarIgarhAmbaBUvimahe",
+        "jargarhAYcakfmahe",
+        "jargarhAmAsimahe",
+        "jargarhAmbaBUvimahe"
+      ],
+      "alot": [
+        "jarigfhyatAm",
+        "jarIgfhyatAm",
+        "jargfhyatAm",
+        "jarigfhyetAm",
+        "jarIgfhyetAm",
+        "jargfhyetAm",
+        "jarigfhyantAm",
+        "jarIgfhyantAm",
+        "jargfhyantAm",
+        "jarigfhyasva",
+        "jarIgfhyasva",
+        "jargfhyasva",
+        "jarigfhyeTAm",
+        "jarIgfhyeTAm",
+        "jargfhyeTAm",
+        "jarigfhyaDvam",
+        "jarIgfhyaDvam",
+        "jargfhyaDvam",
+        "jarigfhyE",
+        "jarIgfhyE",
+        "jargfhyE",
+        "jarigfhyAvahE",
+        "jarIgfhyAvahE",
+        "jargfhyAvahE",
+        "jarigfhyAmahE",
+        "jarIgfhyAmahE",
+        "jargfhyAmahE"
+      ],
+      "alrung": [
+        "ajarigarhizyata",
+        "ajariGarkzyata",
+        "ajarIgarhizyata",
+        "ajarIGarkzyata",
+        "ajargarhizyata",
+        "ajarGarkzyata",
+        "ajarigarhizyetAm",
+        "ajariGarkzyetAm",
+        "ajarIgarhizyetAm",
+        "ajarIGarkzyetAm",
+        "ajargarhizyetAm",
+        "ajarGarkzyetAm",
+        "ajarigarhizyanta",
+        "ajariGarkzyanta",
+        "ajarIgarhizyanta",
+        "ajarIGarkzyanta",
+        "ajargarhizyanta",
+        "ajarGarkzyanta",
+        "ajarigarhizyaTAH",
+        "ajariGarkzyaTAH",
+        "ajarIgarhizyaTAH",
+        "ajarIGarkzyaTAH",
+        "ajargarhizyaTAH",
+        "ajarGarkzyaTAH",
+        "ajarigarhizyeTAm",
+        "ajariGarkzyeTAm",
+        "ajarIgarhizyeTAm",
+        "ajarIGarkzyeTAm",
+        "ajargarhizyeTAm",
+        "ajarGarkzyeTAm",
+        "ajarigarhizyaDvam",
+        "ajariGarkzyaDvam",
+        "ajarIgarhizyaDvam",
+        "ajarIGarkzyaDvam",
+        "ajargarhizyaDvam",
+        "ajarGarkzyaDvam",
+        "ajarigarhizye",
+        "ajariGarkzye",
+        "ajarIgarhizye",
+        "ajarIGarkzye",
+        "ajargarhizye",
+        "ajarGarkzye",
+        "ajarigarhizyAvahi",
+        "ajariGarkzyAvahi",
+        "ajarIgarhizyAvahi",
+        "ajarIGarkzyAvahi",
+        "ajargarhizyAvahi",
+        "ajarGarkzyAvahi",
+        "ajarigarhizyAmahi",
+        "ajariGarkzyAmahi",
+        "ajarIgarhizyAmahi",
+        "ajarIGarkzyAmahi",
+        "ajargarhizyAmahi",
+        "ajarGarkzyAmahi"
+      ],
+      "alrut": [
+        "jarigarhizyate",
+        "jariGarkzyate",
+        "jarIgarhizyate",
+        "jarIGarkzyate",
+        "jargarhizyate",
+        "jarGarkzyate",
+        "jarigarhizyete",
+        "jariGarkzyete",
+        "jarIgarhizyete",
+        "jarIGarkzyete",
+        "jargarhizyete",
+        "jarGarkzyete",
+        "jarigarhizyante",
+        "jariGarkzyante",
+        "jarIgarhizyante",
+        "jarIGarkzyante",
+        "jargarhizyante",
+        "jarGarkzyante",
+        "jarigarhizyase",
+        "jariGarkzyase",
+        "jarIgarhizyase",
+        "jarIGarkzyase",
+        "jargarhizyase",
+        "jarGarkzyase",
+        "jarigarhizyeTe",
+        "jariGarkzyeTe",
+        "jarIgarhizyeTe",
+        "jarIGarkzyeTe",
+        "jargarhizyeTe",
+        "jarGarkzyeTe",
+        "jarigarhizyaDve",
+        "jariGarkzyaDve",
+        "jarIgarhizyaDve",
+        "jarIGarkzyaDve",
+        "jargarhizyaDve",
+        "jarGarkzyaDve",
+        "jarigarhizye",
+        "jariGarkzye",
+        "jarIgarhizye",
+        "jarIGarkzye",
+        "jargarhizye",
+        "jarGarkzye",
+        "jarigarhizyAvahe",
+        "jariGarkzyAvahe",
+        "jarIgarhizyAvahe",
+        "jarIGarkzyAvahe",
+        "jargarhizyAvahe",
+        "jarGarkzyAvahe",
+        "jarigarhizyAmahe",
+        "jariGarkzyAmahe",
+        "jarIgarhizyAmahe",
+        "jarIGarkzyAmahe",
+        "jargarhizyAmahe",
+        "jarGarkzyAmahe"
+      ],
+      "alung": [
+        "ajarigarhi",
+        "ajarIgarhi",
+        "ajargarhi",
+        "ajarigarhizAtAm",
+        "ajariGarkzAtAm",
+        "ajarIgarhizAtAm",
+        "ajarIGarkzAtAm",
+        "ajargarhizAtAm",
+        "ajarGarkzAtAm",
+        "ajarigarhizata",
+        "ajariGarkzata",
+        "ajarIgarhizata",
+        "ajarIGarkzata",
+        "ajargarhizata",
+        "ajarGarkzata",
+        "ajarigarQAH",
+        "ajarigarhizWAH",
+        "ajarIgarQAH",
+        "ajarIgarhizWAH",
+        "ajargarQAH",
+        "ajargarhizWAH",
+        "ajarigarhizATAm",
+        "ajariGarkzATAm",
+        "ajarIgarhizATAm",
+        "ajarIGarkzATAm",
+        "ajargarhizATAm",
+        "ajarGarkzATAm",
+        "ajarigarhiQvam",
+        "ajariGarQvam",
+        "ajarIgarhiQvam",
+        "ajarIGarQvam",
+        "ajargarhiQvam",
+        "ajarGarQvam",
+        "ajarigarhizi",
+        "ajariGarkzi",
+        "ajarIgarhizi",
+        "ajarIGarkzi",
+        "ajargarhizi",
+        "ajarGarkzi",
+        "ajarigarhizvahi",
+        "ajariGarkzvahi",
+        "ajarIgarhizvahi",
+        "ajarIGarkzvahi",
+        "ajargarhizvahi",
+        "ajarGarkzvahi",
+        "ajarigarhizmahi",
+        "ajariGarkzmahi",
+        "ajarIgarhizmahi",
+        "ajarIGarkzmahi",
+        "ajargarhizmahi",
+        "ajarGarkzmahi"
+      ],
+      "alut": [
+        "jarigarQA",
+        "jarigarhitA",
+        "jarIgarQA",
+        "jarIgarhitA",
+        "jargarQA",
+        "jargarhitA",
+        "jarigarQArO",
+        "jarigarhitArO",
+        "jarIgarQArO",
+        "jarIgarhitArO",
+        "jargarQArO",
+        "jargarhitArO",
+        "jarigarQAraH",
+        "jarigarhitAraH",
+        "jarIgarQAraH",
+        "jarIgarhitAraH",
+        "jargarQAraH",
+        "jargarhitAraH",
+        "jarigarQAse",
+        "jarigarhitAse",
+        "jarIgarQAse",
+        "jarIgarhitAse",
+        "jargarQAse",
+        "jargarhitAse",
+        "jarigarQAsATe",
+        "jarigarhitAsATe",
+        "jarIgarQAsATe",
+        "jarIgarhitAsATe",
+        "jargarQAsATe",
+        "jargarhitAsATe",
+        "jarigarQADve",
+        "jarigarhitADve",
+        "jarIgarQADve",
+        "jarIgarhitADve",
+        "jargarQADve",
+        "jargarhitADve",
+        "jarigarQAhe",
+        "jarigarhitAhe",
+        "jarIgarQAhe",
+        "jarIgarhitAhe",
+        "jargarQAhe",
+        "jargarhitAhe",
+        "jarigarQAsvahe",
+        "jarigarhitAsvahe",
+        "jarIgarQAsvahe",
+        "jarIgarhitAsvahe",
+        "jargarQAsvahe",
+        "jargarhitAsvahe",
+        "jarigarQAsmahe",
+        "jarigarhitAsmahe",
+        "jarIgarQAsmahe",
+        "jarIgarhitAsmahe",
+        "jargarQAsmahe",
+        "jargarhitAsmahe"
+      ],
+      "avidhiling": [
+        "jarigfhyeta",
+        "jarIgfhyeta",
+        "jargfhyeta",
+        "jarigfhyeyAtAm",
+        "jarIgfhyeyAtAm",
+        "jargfhyeyAtAm",
+        "jarigfhyeran",
+        "jarIgfhyeran",
+        "jargfhyeran",
+        "jarigfhyeTAH",
+        "jarIgfhyeTAH",
+        "jargfhyeTAH",
+        "jarigfhyeyATAm",
+        "jarIgfhyeyATAm",
+        "jargfhyeyATAm",
+        "jarigfhyeDvam",
+        "jarIgfhyeDvam",
+        "jargfhyeDvam",
+        "jarigfhyeya",
+        "jarIgfhyeya",
+        "jargfhyeya",
+        "jarigfhyevahi",
+        "jarIgfhyevahi",
+        "jargfhyevahi",
+        "jarigfhyemahi",
+        "jarIgfhyemahi",
+        "jargfhyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "garhaRIya",
+          "m": "garhaRIyaH",
+          "f": "garhaRIyA",
+          "n": "garhaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "gfQa",
+          "m": "gfQaH",
+          "f": "gfQA",
+          "n": "gfQam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "gfQavat",
+          "m": "gfQavAn",
+          "f": "gfQavatI",
+          "n": "gfQavat/gfQavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "gfQi",
+          "m": "",
+          "f": "gfQiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "gfQvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "garhitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kyap": [
+        {
+          "base": "gfhya",
+          "m": "gfhyaH",
+          "f": "gfhyA",
+          "n": "gfhyam"
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jagfhvas",
+          "m": "jagfhvAn",
+          "f": "jagfhuzI",
+          "n": "jagfhvat/jagfhvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "garha",
+          "m": "garhaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "garhamARa",
+          "m": "garhamARaH",
+          "f": "garhamARA",
+          "n": "garhamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "garham",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "garhaka",
+          "m": "garhakaH",
+          "f": "garhikA",
+          "n": "garhakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "garQavya",
+          "m": "garQavyaH",
+          "f": "garQavyA",
+          "n": "garQavyam"
+        },
+        {
+          "base": "garhitavya",
+          "m": "garhitavyaH",
+          "f": "garhitavyA",
+          "n": "garhitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "garQum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "garhitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "garQf",
+          "m": "garQA",
+          "f": "garQrI",
+          "n": "garQf"
+        },
+        {
+          "base": "garhitf",
+          "m": "garhitA",
+          "f": "garhitrI",
+          "n": "garhitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "gfhyamARa",
+          "m": "gfhyamARaH",
+          "f": "gfhyamARA",
+          "n": "gfhyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pragfhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "garhaRa",
+          "m": "",
+          "f": "",
+          "n": "garhaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "garhaka",
+          "m": "garhakaH",
+          "f": "garhikA",
+          "n": "garhakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "garhamARa",
+          "m": "garhamARaH",
+          "f": "garhamARA",
+          "n": "garhamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "GarkzyamARa",
+          "m": "GarkzyamARaH",
+          "f": "GarkzyamARA",
+          "n": "GarkzyamARam"
+        },
+        {
+          "base": "garhizyamARa",
+          "m": "garhizyamARaH",
+          "f": "garhizyamARA",
+          "n": "garhizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "GarkzyamARa",
+          "m": "GarkzyamARaH",
+          "f": "GarkzyamARA",
+          "n": "GarkzyamARam"
+        },
+        {
+          "base": "garhizyamARa",
+          "m": "garhizyamARaH",
+          "f": "garhizyamARA",
+          "n": "garhizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "jiGfkzA",
+          "m": "",
+          "f": "jiGfkzA",
+          "n": ""
+        },
+        {
+          "base": "jigarhizA",
+          "m": "",
+          "f": "jigarhizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jiGfkza",
+          "m": "jiGfkzaH",
+          "f": "jiGfkzA",
+          "n": "jiGfkzam"
+        },
+        {
+          "base": "jigarhiza",
+          "m": "jigarhizaH",
+          "f": "jigarhizA",
+          "n": "jigarhizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jiGfkzaRIya",
+          "m": "jiGfkzaRIyaH",
+          "f": "jiGfkzaRIyA",
+          "n": "jiGfkzaRIyam"
+        },
+        {
+          "base": "jigarhizaRIya",
+          "m": "jigarhizaRIyaH",
+          "f": "jigarhizaRIyA",
+          "n": "jigarhizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "jiGfkzu",
+          "m": "jiGfkzuH",
+          "f": "jiGfkzuH",
+          "n": "jiGfkzu"
+        },
+        {
+          "base": "jigarhizu",
+          "m": "jigarhizuH",
+          "f": "jigarhizuH",
+          "n": "jigarhizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jiGfkzita",
+          "m": "jiGfkzitaH",
+          "f": "jiGfkzitA",
+          "n": "jiGfkzitam"
+        },
+        {
+          "base": "jigarhizita",
+          "m": "jigarhizitaH",
+          "f": "jigarhizitA",
+          "n": "jigarhizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jiGfkzitavat",
+          "m": "jiGfkzitavAn",
+          "f": "jiGfkzitavatI",
+          "n": "jiGfkzitavat/jiGfkzitavad"
+        },
+        {
+          "base": "jigarhizitavat",
+          "m": "jigarhizitavAn",
+          "f": "jigarhizitavatI",
+          "n": "jigarhizitavat/jigarhizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jiGfkzwi",
+          "m": "",
+          "f": "jiGfkzwiH",
+          "n": ""
+        },
+        {
+          "base": "jigarhizwi",
+          "m": "",
+          "f": "jigarhizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jiGfkzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jigarhizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jiGfkzAmbaBUvas",
+          "m": "jiGfkzAmbaBUvAn",
+          "f": "jiGfkzAmbaBUzI",
+          "n": "jiGfkzAmbaBUvat/jiGfkzAmbaBUvad"
+        },
+        {
+          "base": "jiGfkzAmAsivas",
+          "m": "jiGfkzAmAsivAn",
+          "f": "jiGfkzAmAsyuzI",
+          "n": "jiGfkzAmAsivat/jiGfkzAmAsivad"
+        },
+        {
+          "base": "jiGfkzAYcakfvas",
+          "m": "jiGfkzAYcakfvAn",
+          "f": "jiGfkzAYcakruzI",
+          "n": "jiGfkzAYcakfvat/jiGfkzAYcakfvad"
+        },
+        {
+          "base": "jigarhizAmbaBUvas",
+          "m": "jigarhizAmbaBUvAn",
+          "f": "jigarhizAmbaBUzI",
+          "n": "jigarhizAmbaBUvat/jigarhizAmbaBUvad"
+        },
+        {
+          "base": "jigarhizAmAsivas",
+          "m": "jigarhizAmAsivAn",
+          "f": "jigarhizAmAsyuzI",
+          "n": "jigarhizAmAsivat/jigarhizAmAsivad"
+        },
+        {
+          "base": "jigarhizAYcakfvas",
+          "m": "jigarhizAYcakfvAn",
+          "f": "jigarhizAYcakruzI",
+          "n": "jigarhizAYcakfvat/jigarhizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jiGfkza",
+          "m": "jiGfkzaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jigarhiza",
+          "m": "jigarhizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jiGfkzamARa",
+          "m": "jiGfkzamARaH",
+          "f": "jiGfkzamARA",
+          "n": "jiGfkzamARam"
+        },
+        {
+          "base": "jigarhizamARa",
+          "m": "jigarhizamARaH",
+          "f": "jigarhizamARA",
+          "n": "jigarhizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jiGfkzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jigarhizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jiGfkzaka",
+          "m": "jiGfkzakaH",
+          "f": "jiGfkzikA",
+          "n": "jiGfkzakam"
+        },
+        {
+          "base": "jigarhizaka",
+          "m": "jigarhizakaH",
+          "f": "jigarhizikA",
+          "n": "jigarhizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jiGfkzitavya",
+          "m": "jiGfkzitavyaH",
+          "f": "jiGfkzitavyA",
+          "n": "jiGfkzitavyam"
+        },
+        {
+          "base": "jigarhizitavya",
+          "m": "jigarhizitavyaH",
+          "f": "jigarhizitavyA",
+          "n": "jigarhizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jiGfkzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jigarhizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jiGfkzitf",
+          "m": "jiGfkzitA",
+          "f": "jiGfkzitrI",
+          "n": "jiGfkzitf"
+        },
+        {
+          "base": "jigarhizitf",
+          "m": "jigarhizitA",
+          "f": "jigarhizitrI",
+          "n": "jigarhizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jiGfkzyamARa",
+          "m": "jiGfkzyamARaH",
+          "f": "jiGfkzyamARA",
+          "n": "jiGfkzyamARam"
+        },
+        {
+          "base": "jigarhizyamARa",
+          "m": "jigarhizyamARaH",
+          "f": "jigarhizyamARA",
+          "n": "jigarhizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jiGfkzya",
+          "m": "jiGfkzyaH",
+          "f": "jiGfkzyA",
+          "n": "jiGfkzyam"
+        },
+        {
+          "base": "jigarhizya",
+          "m": "jigarhizyaH",
+          "f": "jigarhizyA",
+          "n": "jigarhizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajiGfkzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajigarhizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jiGfkzaRa",
+          "m": "",
+          "f": "",
+          "n": "jiGfkzaRam"
+        },
+        {
+          "base": "jigarhizaRa",
+          "m": "",
+          "f": "",
+          "n": "jigarhizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jiGfkzaka",
+          "m": "jiGfkzakaH",
+          "f": "jiGfkzikA",
+          "n": "jiGfkzakam"
+        },
+        {
+          "base": "jigarhizaka",
+          "m": "jigarhizakaH",
+          "f": "jigarhizikA",
+          "n": "jigarhizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jiGfkzamARa",
+          "m": "jiGfkzamARaH",
+          "f": "jiGfkzamARA",
+          "n": "jiGfkzamARam"
+        },
+        {
+          "base": "jigarhizamARa",
+          "m": "jigarhizamARaH",
+          "f": "jigarhizamARA",
+          "n": "jigarhizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jiGfkzizyamARa",
+          "m": "jiGfkzizyamARaH",
+          "f": "jiGfkzizyamARA",
+          "n": "jiGfkzizyamARam"
+        },
+        {
+          "base": "jigarhizizyamARa",
+          "m": "jigarhizizyamARaH",
+          "f": "jigarhizizyamARA",
+          "n": "jigarhizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jiGfkzizyamARa",
+          "m": "jiGfkzizyamARaH",
+          "f": "jiGfkzizyamARA",
+          "n": "jiGfkzizyamARam"
+        },
+        {
+          "base": "jigarhizizyamARa",
+          "m": "jigarhizizyamARaH",
+          "f": "jigarhizizyamARA",
+          "n": "jigarhizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "garha",
+          "m": "garhaH",
+          "f": "garhA",
+          "n": "garham"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "garhaRIya",
+          "m": "garhaRIyaH",
+          "f": "garhaRIyA",
+          "n": "garhaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "garhita",
+          "m": "garhitaH",
+          "f": "garhitA",
+          "n": "garhitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "garhitavat",
+          "m": "garhitavAn",
+          "f": "garhitavatI",
+          "n": "garhitavat/garhitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "garQi",
+          "m": "",
+          "f": "garQiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "garhayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "garhayAmbaBUvas",
+          "m": "garhayAmbaBUvAn",
+          "f": "garhayAmbaBUzI",
+          "n": "garhayAmbaBUvat/garhayAmbaBUvad"
+        },
+        {
+          "base": "garhayAmAsivas",
+          "m": "garhayAmAsivAn",
+          "f": "garhayAmAsyuzI",
+          "n": "garhayAmAsivat/garhayAmAsivad"
+        },
+        {
+          "base": "garhayAYcakfvas",
+          "m": "garhayAYcakfvAn",
+          "f": "garhayAYcakruzI",
+          "n": "garhayAYcakfvat/garhayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "garhayamARa",
+          "m": "garhayamARaH",
+          "f": "garhayamARA",
+          "n": "garhayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "garham",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "garhaka",
+          "m": "garhakaH",
+          "f": "garhikA",
+          "n": "garhakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "garhayitavya",
+          "m": "garhayitavyaH",
+          "f": "garhayitavyA",
+          "n": "garhayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "garhayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "garhayitf",
+          "m": "garhayitA",
+          "f": "garhayitrI",
+          "n": "garhayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "garhyamARa",
+          "m": "garhyamARaH",
+          "f": "garhyamARA",
+          "n": "garhyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "garhya",
+          "m": "garhyaH",
+          "f": "garhyA",
+          "n": "garhyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pragarhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "garhaRa",
+          "m": "",
+          "f": "",
+          "n": "garhaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "garhaka",
+          "m": "garhakaH",
+          "f": "garhikA",
+          "n": "garhakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "garhayat",
+          "m": "garhayan",
+          "f": "garhayantI",
+          "n": "garhayat/garhayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "garhayamARa",
+          "m": "garhayamARaH",
+          "f": "garhayamARA",
+          "n": "garhayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "garhizyamARa",
+          "m": "garhizyamARaH",
+          "f": "garhizyamARA",
+          "n": "garhizyamARam"
+        },
+        {
+          "base": "garhayizyamARa",
+          "m": "garhayizyamARaH",
+          "f": "garhayizyamARA",
+          "n": "garhayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "garhayizyat",
+          "m": "garhayizyan",
+          "f": "garhayizyatI/garhayizyantI",
+          "n": "garhayizyat/garhayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "garhayizyamARa",
+          "m": "garhayizyamARaH",
+          "f": "garhayizyamARA",
+          "n": "garhayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "jarIgfhA",
+          "m": "",
+          "f": "jarIgfhA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jarIgfha",
+          "m": "jarIgfhaH",
+          "f": "jarIgfhA",
+          "n": "jarIgfham"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jarIgfhaRIya",
+          "m": "jarIgfhaRIyaH",
+          "f": "jarIgfhaRIyA",
+          "n": "jarIgfhaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jarIgfhita",
+          "m": "jarIgfhitaH",
+          "f": "jarIgfhitA",
+          "n": "jarIgfhitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jarIgfhitavat",
+          "m": "jarIgfhitavAn",
+          "f": "jarIgfhitavatI",
+          "n": "jarIgfhitavat/jarIgfhitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jarIgfQi",
+          "m": "",
+          "f": "jarIgfQiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jarIgfhitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jarIgfhAmbaBUvas",
+          "m": "jarIgfhAmbaBUvAn",
+          "f": "jarIgfhAmbaBUzI",
+          "n": "jarIgfhAmbaBUvat/jarIgfhAmbaBUvad"
+        },
+        {
+          "base": "jarIgfhAmAsivas",
+          "m": "jarIgfhAmAsivAn",
+          "f": "jarIgfhAmAsyuzI",
+          "n": "jarIgfhAmAsivat/jarIgfhAmAsivad"
+        },
+        {
+          "base": "jarIgfhAYcakfvas",
+          "m": "jarIgfhAYcakfvAn",
+          "f": "jarIgfhAYcakruzI",
+          "n": "jarIgfhAYcakfvat/jarIgfhAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jarIgfha",
+          "m": "jarIgfhaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jarIgfhyamARa",
+          "m": "jarIgfhyamARaH",
+          "f": "jarIgfhyamARA",
+          "n": "jarIgfhyamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jarIgfham",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jarIgfhaka",
+          "m": "jarIgfhakaH",
+          "f": "jarIgfhikA",
+          "n": "jarIgfhakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jarIgfhitavya",
+          "m": "jarIgfhitavyaH",
+          "f": "jarIgfhitavyA",
+          "n": "jarIgfhitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jarIgfhitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jarIgfhitf",
+          "m": "jarIgfhitA",
+          "f": "jarIgfhitrI",
+          "n": "jarIgfhitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jarIgfhyamARa",
+          "m": "jarIgfhyamARaH",
+          "f": "jarIgfhyamARA",
+          "n": "jarIgfhyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jarIgfhya",
+          "m": "jarIgfhyaH",
+          "f": "jarIgfhyA",
+          "n": "jarIgfhyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajarIgfhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jarIgfhaRa",
+          "m": "",
+          "f": "",
+          "n": "jarIgfhaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jarIgfhaka",
+          "m": "jarIgfhakaH",
+          "f": "jarIgfhikA",
+          "n": "jarIgfhakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jarIgfhyamARa",
+          "m": "jarIgfhyamARaH",
+          "f": "jarIgfhyamARA",
+          "n": "jarIgfhyamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jarIgfhizyamARa",
+          "m": "jarIgfhizyamARaH",
+          "f": "jarIgfhizyamARA",
+          "n": "jarIgfhizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jarIgfhizyamARa",
+          "m": "jarIgfhizyamARaH",
+          "f": "jarIgfhizyamARA",
+          "n": "jarIgfhizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "jargarhA",
+          "m": "",
+          "f": "jargarhA",
+          "n": ""
+        },
+        {
+          "base": "jarigarhA",
+          "m": "",
+          "f": "jarigarhA",
+          "n": ""
+        },
+        {
+          "base": "jarIgarhA",
+          "m": "",
+          "f": "jarIgarhA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jargarha",
+          "m": "jargarhaH",
+          "f": "jargarhA",
+          "n": "jargarham"
+        },
+        {
+          "base": "jarigarha",
+          "m": "jarigarhaH",
+          "f": "jarigarhA",
+          "n": "jarigarham"
+        },
+        {
+          "base": "jarIgarha",
+          "m": "jarIgarhaH",
+          "f": "jarIgarhA",
+          "n": "jarIgarham"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jargarhaRIya",
+          "m": "jargarhaRIyaH",
+          "f": "jargarhaRIyA",
+          "n": "jargarhaRIyam"
+        },
+        {
+          "base": "jarigarhaRIya",
+          "m": "jarigarhaRIyaH",
+          "f": "jarigarhaRIyA",
+          "n": "jarigarhaRIyam"
+        },
+        {
+          "base": "jarIgarhaRIya",
+          "m": "jarIgarhaRIyaH",
+          "f": "jarIgarhaRIyA",
+          "n": "jarIgarhaRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jargfQa",
+          "m": "jargfQaH",
+          "f": "jargfQA",
+          "n": "jargfQam"
+        },
+        {
+          "base": "jarigfQa",
+          "m": "jarigfQaH",
+          "f": "jarigfQA",
+          "n": "jarigfQam"
+        },
+        {
+          "base": "jarIgfQa",
+          "m": "jarIgfQaH",
+          "f": "jarIgfQA",
+          "n": "jarIgfQam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jargfQavat",
+          "m": "jargfQavAn",
+          "f": "jargfQavatI",
+          "n": "jargfQavat/jargfQavad"
+        },
+        {
+          "base": "jarigfQavat",
+          "m": "jarigfQavAn",
+          "f": "jarigfQavatI",
+          "n": "jarigfQavat/jarigfQavad"
+        },
+        {
+          "base": "jarIgfQavat",
+          "m": "jarIgfQavAn",
+          "f": "jarIgfQavatI",
+          "n": "jarIgfQavat/jarIgfQavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jargfQi",
+          "m": "",
+          "f": "jargfQiH",
+          "n": ""
+        },
+        {
+          "base": "jarigfQi",
+          "m": "",
+          "f": "jarigfQiH",
+          "n": ""
+        },
+        {
+          "base": "jarIgfQi",
+          "m": "",
+          "f": "jarIgfQiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jargfQvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jargarhitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigfQvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigarhitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgfQvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgarhitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jargarhAmbaBUvas",
+          "m": "jargarhAmbaBUvAn",
+          "f": "jargarhAmbaBUzI",
+          "n": "jargarhAmbaBUvat/jargarhAmbaBUvad"
+        },
+        {
+          "base": "jargarhAmAsivas",
+          "m": "jargarhAmAsivAn",
+          "f": "jargarhAmAsyuzI",
+          "n": "jargarhAmAsivat/jargarhAmAsivad"
+        },
+        {
+          "base": "jargarhAYcakfvas",
+          "m": "jargarhAYcakfvAn",
+          "f": "jargarhAYcakruzI",
+          "n": "jargarhAYcakfvat/jargarhAYcakfvad"
+        },
+        {
+          "base": "jarigarhAmbaBUvas",
+          "m": "jarigarhAmbaBUvAn",
+          "f": "jarigarhAmbaBUzI",
+          "n": "jarigarhAmbaBUvat/jarigarhAmbaBUvad"
+        },
+        {
+          "base": "jarigarhAmAsivas",
+          "m": "jarigarhAmAsivAn",
+          "f": "jarigarhAmAsyuzI",
+          "n": "jarigarhAmAsivat/jarigarhAmAsivad"
+        },
+        {
+          "base": "jarigarhAYcakfvas",
+          "m": "jarigarhAYcakfvAn",
+          "f": "jarigarhAYcakruzI",
+          "n": "jarigarhAYcakfvat/jarigarhAYcakfvad"
+        },
+        {
+          "base": "jarIgarhAmbaBUvas",
+          "m": "jarIgarhAmbaBUvAn",
+          "f": "jarIgarhAmbaBUzI",
+          "n": "jarIgarhAmbaBUvat/jarIgarhAmbaBUvad"
+        },
+        {
+          "base": "jarIgarhAmAsivas",
+          "m": "jarIgarhAmAsivAn",
+          "f": "jarIgarhAmAsyuzI",
+          "n": "jarIgarhAmAsivat/jarIgarhAmAsivad"
+        },
+        {
+          "base": "jarIgarhAYcakfvas",
+          "m": "jarIgarhAYcakfvAn",
+          "f": "jarIgarhAYcakruzI",
+          "n": "jarIgarhAYcakfvat/jarIgarhAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jargarha",
+          "m": "jargarhaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigarha",
+          "m": "jarigarhaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgarha",
+          "m": "jarIgarhaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jargfhARa",
+          "m": "jargfhARaH",
+          "f": "jargfhARA",
+          "n": "jargfhARam"
+        },
+        {
+          "base": "jarigfhARa",
+          "m": "jarigfhARaH",
+          "f": "jarigfhARA",
+          "n": "jarigfhARam"
+        },
+        {
+          "base": "jarIgfhARa",
+          "m": "jarIgfhARaH",
+          "f": "jarIgfhARA",
+          "n": "jarIgfhARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jargarham",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigarham",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgarham",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jargarhaka",
+          "m": "jargarhakaH",
+          "f": "jargarhikA",
+          "n": "jargarhakam"
+        },
+        {
+          "base": "jarigarhaka",
+          "m": "jarigarhakaH",
+          "f": "jarigarhikA",
+          "n": "jarigarhakam"
+        },
+        {
+          "base": "jarIgarhaka",
+          "m": "jarIgarhakaH",
+          "f": "jarIgarhikA",
+          "n": "jarIgarhakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jargarQavya",
+          "m": "jargarQavyaH",
+          "f": "jargarQavyA",
+          "n": "jargarQavyam"
+        },
+        {
+          "base": "jargarhitavya",
+          "m": "jargarhitavyaH",
+          "f": "jargarhitavyA",
+          "n": "jargarhitavyam"
+        },
+        {
+          "base": "jarigarQavya",
+          "m": "jarigarQavyaH",
+          "f": "jarigarQavyA",
+          "n": "jarigarQavyam"
+        },
+        {
+          "base": "jarigarhitavya",
+          "m": "jarigarhitavyaH",
+          "f": "jarigarhitavyA",
+          "n": "jarigarhitavyam"
+        },
+        {
+          "base": "jarIgarQavya",
+          "m": "jarIgarQavyaH",
+          "f": "jarIgarQavyA",
+          "n": "jarIgarQavyam"
+        },
+        {
+          "base": "jarIgarhitavya",
+          "m": "jarIgarhitavyaH",
+          "f": "jarIgarhitavyA",
+          "n": "jarIgarhitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jargarQum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jargarhitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigarQum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigarhitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgarQum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarIgarhitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jargarQf",
+          "m": "jargarQA",
+          "f": "jargarQrI",
+          "n": "jargarQf"
+        },
+        {
+          "base": "jargarhitf",
+          "m": "jargarhitA",
+          "f": "jargarhitrI",
+          "n": "jargarhitf"
+        },
+        {
+          "base": "jarigarQf",
+          "m": "jarigarQA",
+          "f": "jarigarQrI",
+          "n": "jarigarQf"
+        },
+        {
+          "base": "jarigarhitf",
+          "m": "jarigarhitA",
+          "f": "jarigarhitrI",
+          "n": "jarigarhitf"
+        },
+        {
+          "base": "jarIgarQf",
+          "m": "jarIgarQA",
+          "f": "jarIgarQrI",
+          "n": "jarIgarQf"
+        },
+        {
+          "base": "jarIgarhitf",
+          "m": "jarIgarhitA",
+          "f": "jarIgarhitrI",
+          "n": "jarIgarhitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jargfhyamARa",
+          "m": "jargfhyamARaH",
+          "f": "jargfhyamARA",
+          "n": "jargfhyamARam"
+        },
+        {
+          "base": "jarigfhyamARa",
+          "m": "jarigfhyamARaH",
+          "f": "jarigfhyamARA",
+          "n": "jarigfhyamARam"
+        },
+        {
+          "base": "jarIgfhyamARa",
+          "m": "jarIgfhyamARaH",
+          "f": "jarIgfhyamARA",
+          "n": "jarIgfhyamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajargfhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajarigfhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prajarIgfhya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jargarhaRa",
+          "m": "",
+          "f": "",
+          "n": "jargarhaRam"
+        },
+        {
+          "base": "jarigarhaRa",
+          "m": "",
+          "f": "",
+          "n": "jarigarhaRam"
+        },
+        {
+          "base": "jarIgarhaRa",
+          "m": "",
+          "f": "",
+          "n": "jarIgarhaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jargarhaka",
+          "m": "jargarhakaH",
+          "f": "jargarhikA",
+          "n": "jargarhakam"
+        },
+        {
+          "base": "jarigarhaka",
+          "m": "jarigarhakaH",
+          "f": "jarigarhikA",
+          "n": "jarigarhakam"
+        },
+        {
+          "base": "jarIgarhaka",
+          "m": "jarIgarhakaH",
+          "f": "jarIgarhikA",
+          "n": "jarIgarhakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jargfhat",
+          "m": "jargfhat/jargfhad",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "jarigfhat",
+          "m": "jarigfhan",
+          "f": "jarigfhatI",
+          "n": "jarigfhat/jarigfhad"
+        },
+        {
+          "base": "jarIgfhat",
+          "m": "jarIgfhan",
+          "f": "jarIgfhatI",
+          "n": "jarIgfhat/jarIgfhad"
+        },
+        {
+          "base": "jarigfhat",
+          "m": "jarigfhan",
+          "f": "jarigfhatI",
+          "n": "jarigfhat/jarigfhad"
+        },
+        {
+          "base": "jarIgfhat",
+          "m": "jarIgfhan",
+          "f": "jarIgfhatI",
+          "n": "jarIgfhat/jarIgfhad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jargarhizyamARa",
+          "m": "jargarhizyamARaH",
+          "f": "jargarhizyamARA",
+          "n": "jargarhizyamARam"
+        },
+        {
+          "base": "jarGarkzyamARa",
+          "m": "jarGarkzyamARaH",
+          "f": "jarGarkzyamARA",
+          "n": "jarGarkzyamARam"
+        },
+        {
+          "base": "jarigarhizyamARa",
+          "m": "jarigarhizyamARaH",
+          "f": "jarigarhizyamARA",
+          "n": "jarigarhizyamARam"
+        },
+        {
+          "base": "jariGarkzyamARa",
+          "m": "jariGarkzyamARaH",
+          "f": "jariGarkzyamARA",
+          "n": "jariGarkzyamARam"
+        },
+        {
+          "base": "jarIgarhizyamARa",
+          "m": "jarIgarhizyamARaH",
+          "f": "jarIgarhizyamARA",
+          "n": "jarIgarhizyamARam"
+        },
+        {
+          "base": "jarIGarkzyamARa",
+          "m": "jarIGarkzyamARaH",
+          "f": "jarIGarkzyamARA",
+          "n": "jarIGarkzyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jarGarkzyat",
+          "m": "jarGarkzyan",
+          "f": "jarGarkzyatI/jarGarkzyantI",
+          "n": "jarGarkzyat/jarGarkzyad"
+        },
+        {
+          "base": "jargarhizyat",
+          "m": "jargarhizyan",
+          "f": "jargarhizyatI/jargarhizyantI",
+          "n": "jargarhizyat/jargarhizyad"
+        },
+        {
+          "base": "jariGarkzyat",
+          "m": "jariGarkzyan",
+          "f": "jariGarkzyatI/jariGarkzyantI",
+          "n": "jariGarkzyat/jariGarkzyad"
+        },
+        {
+          "base": "jarigarhizyat",
+          "m": "jarigarhizyan",
+          "f": "jarigarhizyatI/jarigarhizyantI",
+          "n": "jarigarhizyat/jarigarhizyad"
+        },
+        {
+          "base": "jarIGarkzyat",
+          "m": "jarIGarkzyan",
+          "f": "jarIGarkzyatI/jarIGarkzyantI",
+          "n": "jarIGarkzyat/jarIGarkzyad"
+        },
+        {
+          "base": "jarIgarhizyat",
+          "m": "jarIgarhizyan",
+          "f": "jarIgarhizyatI/jarIgarhizyantI",
+          "n": "jarIgarhizyat/jarIgarhizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "gfh",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

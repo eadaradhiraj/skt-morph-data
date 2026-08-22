@@ -1,0 +1,4899 @@
+{
+  "id": "02.0012",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": "prAyeRa ayam AN-pUrvakaH . kutracit pra-pUrvakaH api prayogaH dfSyate, yaTA 'namovAkaM praSAsmahe' iti uttararAmacaritasya Adime Sloke ."
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "SAsu~"
+    },
+    {
+      "name": "arTaH",
+      "value": "icCAyAm"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to desire, to bless, to praise"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "BalA karanA, ASA karanA, icCA karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "ANpUrvatvaM prAyikam . tena ' namovAkaM praSAsmahe ' iti sidDam ' - sidDAntakOmudI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "adAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1022"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1022"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2440",
+      "ext_link": "/sutraani/sk2440?scroll=sutra-commentary-kaumudi-region&highlight=SaAsau"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "ASAsizIzwa",
+        "ASAsizIyAstAm",
+        "ASAsizIran",
+        "ASAsizIzWAH",
+        "ASAsizIyAsTAm",
+        "ASAsizIDvam",
+        "ASAsizIya",
+        "ASAsizIvahi",
+        "ASAsizImahi"
+      ],
+      "alang": [
+        "ASAsta",
+        "ASAsAtAm",
+        "ASAsata",
+        "ASAsTAH",
+        "ASAsATAm",
+        "ASADvam",
+        "ASAsi",
+        "ASAsvahi",
+        "ASAsmahi"
+      ],
+      "alat": [
+        "ASAste",
+        "ASAsAte",
+        "ASAsate",
+        "ASAsse",
+        "ASAsATe",
+        "ASADve",
+        "ASAse",
+        "ASAsvahe",
+        "ASAsmahe"
+      ],
+      "alit": [
+        "ASaSAse",
+        "ASaSAsAte",
+        "ASaSAsire",
+        "ASaSAsize",
+        "ASaSAsATe",
+        "ASaSAsiDve",
+        "ASaSAse",
+        "ASaSAsivahe",
+        "ASaSAsimahe"
+      ],
+      "alot": [
+        "ASAstAm",
+        "ASAsAtAm",
+        "ASAsatAm",
+        "ASAssva",
+        "ASAsATAm",
+        "ASADvam",
+        "ASAsE",
+        "ASAsAvahE",
+        "ASAsAmahE"
+      ],
+      "alrung": [
+        "ASAsizyata",
+        "ASAsizyetAm",
+        "ASAsizyanta",
+        "ASAsizyaTAH",
+        "ASAsizyeTAm",
+        "ASAsizyaDvam",
+        "ASAsizye",
+        "ASAsizyAvahi",
+        "ASAsizyAmahi"
+      ],
+      "alrut": [
+        "ASAsizyate",
+        "ASAsizyete",
+        "ASAsizyante",
+        "ASAsizyase",
+        "ASAsizyeTe",
+        "ASAsizyaDve",
+        "ASAsizye",
+        "ASAsizyAvahe",
+        "ASAsizyAmahe"
+      ],
+      "alung": [
+        "ASAsizwa",
+        "ASAsizAtAm",
+        "ASAsizata",
+        "ASAsizWAH",
+        "ASAsizATAm",
+        "ASAsiDvam",
+        "ASAsizi",
+        "ASAsizvahi",
+        "ASAsizmahi"
+      ],
+      "alut": [
+        "ASAsitA",
+        "ASAsitArO",
+        "ASAsitAraH",
+        "ASAsitAse",
+        "ASAsitAsATe",
+        "ASAsitADve",
+        "ASAsitAhe",
+        "ASAsitAsvahe",
+        "ASAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ASAsIta",
+        "ASAsIyAtAm",
+        "ASAsIran",
+        "ASAsITAH",
+        "ASAsIyATAm",
+        "ASAsIDvam",
+        "ASAsIya",
+        "ASAsIvahi",
+        "ASAsImahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "ASAsizIzwa",
+        "ASAsizIyAstAm",
+        "ASAsizIran",
+        "ASAsizIzWAH",
+        "ASAsizIyAsTAm",
+        "ASAsizIDvam",
+        "ASAsizIya",
+        "ASAsizIvahi",
+        "ASAsizImahi"
+      ],
+      "alang": [
+        "ASAsyata",
+        "ASAsyetAm",
+        "ASAsyanta",
+        "ASAsyaTAH",
+        "ASAsyeTAm",
+        "ASAsyaDvam",
+        "ASAsye",
+        "ASAsyAvahi",
+        "ASAsyAmahi"
+      ],
+      "alat": [
+        "ASAsyate",
+        "ASAsyete",
+        "ASAsyante",
+        "ASAsyase",
+        "ASAsyeTe",
+        "ASAsyaDve",
+        "ASAsye",
+        "ASAsyAvahe",
+        "ASAsyAmahe"
+      ],
+      "alit": [
+        "ASaSAse",
+        "ASaSAsAte",
+        "ASaSAsire",
+        "ASaSAsize",
+        "ASaSAsATe",
+        "ASaSAsiDve",
+        "ASaSAse",
+        "ASaSAsivahe",
+        "ASaSAsimahe"
+      ],
+      "alot": [
+        "ASAsyatAm",
+        "ASAsyetAm",
+        "ASAsyantAm",
+        "ASAsyasva",
+        "ASAsyeTAm",
+        "ASAsyaDvam",
+        "ASAsyE",
+        "ASAsyAvahE",
+        "ASAsyAmahE"
+      ],
+      "alrung": [
+        "ASAsizyata",
+        "ASAsizyetAm",
+        "ASAsizyanta",
+        "ASAsizyaTAH",
+        "ASAsizyeTAm",
+        "ASAsizyaDvam",
+        "ASAsizye",
+        "ASAsizyAvahi",
+        "ASAsizyAmahi"
+      ],
+      "alrut": [
+        "ASAsizyate",
+        "ASAsizyete",
+        "ASAsizyante",
+        "ASAsizyase",
+        "ASAsizyeTe",
+        "ASAsizyaDve",
+        "ASAsizye",
+        "ASAsizyAvahe",
+        "ASAsizyAmahe"
+      ],
+      "alung": [
+        "ASAsi",
+        "ASAsizAtAm",
+        "ASAsizata",
+        "ASAsizWAH",
+        "ASAsizATAm",
+        "ASAsiDvam",
+        "ASAsizi",
+        "ASAsizvahi",
+        "ASAsizmahi"
+      ],
+      "alut": [
+        "ASAsitA",
+        "ASAsitArO",
+        "ASAsitAraH",
+        "ASAsitAse",
+        "ASAsitAsATe",
+        "ASAsitADve",
+        "ASAsitAhe",
+        "ASAsitAsvahe",
+        "ASAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ASAsyeta",
+        "ASAsyeyAtAm",
+        "ASAsyeran",
+        "ASAsyeTAH",
+        "ASAsyeyATAm",
+        "ASAsyeDvam",
+        "ASAsyeya",
+        "ASAsyevahi",
+        "ASAsyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "ASiSAsizizIzwa",
+        "ASiSAsizizIyAstAm",
+        "ASiSAsizizIran",
+        "ASiSAsizizIzWAH",
+        "ASiSAsizizIyAsTAm",
+        "ASiSAsizizIDvam",
+        "ASiSAsizizIya",
+        "ASiSAsizizIvahi",
+        "ASiSAsizizImahi"
+      ],
+      "alang": [
+        "ASiSAsizata",
+        "ASiSAsizetAm",
+        "ASiSAsizanta",
+        "ASiSAsizaTAH",
+        "ASiSAsizeTAm",
+        "ASiSAsizaDvam",
+        "ASiSAsize",
+        "ASiSAsizAvahi",
+        "ASiSAsizAmahi"
+      ],
+      "alat": [
+        "ASiSAsizate",
+        "ASiSAsizete",
+        "ASiSAsizante",
+        "ASiSAsizase",
+        "ASiSAsizeTe",
+        "ASiSAsizaDve",
+        "ASiSAsize",
+        "ASiSAsizAvahe",
+        "ASiSAsizAmahe"
+      ],
+      "alit": [
+        "ASiSAsizAmbaBUva",
+        "ASiSAsizAmAsa",
+        "ASiSAsizAYcakre",
+        "ASiSAsizAmbaBUvatuH",
+        "ASiSAsizAmAsatuH",
+        "ASiSAsizAYcakrAte",
+        "ASiSAsizAmbaBUvuH",
+        "ASiSAsizAmAsuH",
+        "ASiSAsizAYcakrire",
+        "ASiSAsizAmbaBUviTa",
+        "ASiSAsizAmAsiTa",
+        "ASiSAsizAYcakfze",
+        "ASiSAsizAmbaBUvaTuH",
+        "ASiSAsizAmAsaTuH",
+        "ASiSAsizAYcakrATe",
+        "ASiSAsizAmbaBUva",
+        "ASiSAsizAmAsa",
+        "ASiSAsizAYcakfQve",
+        "ASiSAsizAmbaBUva",
+        "ASiSAsizAmAsa",
+        "ASiSAsizAYcakre",
+        "ASiSAsizAmbaBUviva",
+        "ASiSAsizAmAsiva",
+        "ASiSAsizAYcakfvahe",
+        "ASiSAsizAmbaBUvima",
+        "ASiSAsizAmAsima",
+        "ASiSAsizAYcakfmahe"
+      ],
+      "alot": [
+        "ASiSAsizatAm",
+        "ASiSAsizetAm",
+        "ASiSAsizantAm",
+        "ASiSAsizasva",
+        "ASiSAsizeTAm",
+        "ASiSAsizaDvam",
+        "ASiSAsizE",
+        "ASiSAsizAvahE",
+        "ASiSAsizAmahE"
+      ],
+      "alrung": [
+        "ASiSAsizizyata",
+        "ASiSAsizizyetAm",
+        "ASiSAsizizyanta",
+        "ASiSAsizizyaTAH",
+        "ASiSAsizizyeTAm",
+        "ASiSAsizizyaDvam",
+        "ASiSAsizizye",
+        "ASiSAsizizyAvahi",
+        "ASiSAsizizyAmahi"
+      ],
+      "alrut": [
+        "ASiSAsizizyate",
+        "ASiSAsizizyete",
+        "ASiSAsizizyante",
+        "ASiSAsizizyase",
+        "ASiSAsizizyeTe",
+        "ASiSAsizizyaDve",
+        "ASiSAsizizye",
+        "ASiSAsizizyAvahe",
+        "ASiSAsizizyAmahe"
+      ],
+      "alung": [
+        "ASiSAsizizwa",
+        "ASiSAsizizAtAm",
+        "ASiSAsizizata",
+        "ASiSAsizizWAH",
+        "ASiSAsizizATAm",
+        "ASiSAsiziDvam",
+        "ASiSAsizizi",
+        "ASiSAsizizvahi",
+        "ASiSAsizizmahi"
+      ],
+      "alut": [
+        "ASiSAsizitA",
+        "ASiSAsizitArO",
+        "ASiSAsizitAraH",
+        "ASiSAsizitAse",
+        "ASiSAsizitAsATe",
+        "ASiSAsizitADve",
+        "ASiSAsizitAhe",
+        "ASiSAsizitAsvahe",
+        "ASiSAsizitAsmahe"
+      ],
+      "avidhiling": [
+        "ASiSAsizeta",
+        "ASiSAsizeyAtAm",
+        "ASiSAsizeran",
+        "ASiSAsizeTAH",
+        "ASiSAsizeyATAm",
+        "ASiSAsizeDvam",
+        "ASiSAsizeya",
+        "ASiSAsizevahi",
+        "ASiSAsizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ASiSAsizizIzwa",
+        "ASiSAsizizIyAstAm",
+        "ASiSAsizizIran",
+        "ASiSAsizizIzWAH",
+        "ASiSAsizizIyAsTAm",
+        "ASiSAsizizIDvam",
+        "ASiSAsizizIya",
+        "ASiSAsizizIvahi",
+        "ASiSAsizizImahi"
+      ],
+      "alang": [
+        "ASiSAsizyata",
+        "ASiSAsizyetAm",
+        "ASiSAsizyanta",
+        "ASiSAsizyaTAH",
+        "ASiSAsizyeTAm",
+        "ASiSAsizyaDvam",
+        "ASiSAsizye",
+        "ASiSAsizyAvahi",
+        "ASiSAsizyAmahi"
+      ],
+      "alat": [
+        "ASiSAsizyate",
+        "ASiSAsizyete",
+        "ASiSAsizyante",
+        "ASiSAsizyase",
+        "ASiSAsizyeTe",
+        "ASiSAsizyaDve",
+        "ASiSAsizye",
+        "ASiSAsizyAvahe",
+        "ASiSAsizyAmahe"
+      ],
+      "alit": [
+        "ASiSAsizAmbaBUve",
+        "ASiSAsizAmAse",
+        "ASiSAsizAYcakre",
+        "ASiSAsizAmbaBUvAte",
+        "ASiSAsizAmAsAte",
+        "ASiSAsizAYcakrAte",
+        "ASiSAsizAmbaBUvire",
+        "ASiSAsizAmAsire",
+        "ASiSAsizAYcakrire",
+        "ASiSAsizAmbaBUvize",
+        "ASiSAsizAmAsize",
+        "ASiSAsizAYcakfze",
+        "ASiSAsizAmbaBUvATe",
+        "ASiSAsizAmAsATe",
+        "ASiSAsizAYcakrATe",
+        "ASiSAsizAmbaBUviQve",
+        "ASiSAsizAmAsiDve",
+        "ASiSAsizAYcakfQve",
+        "ASiSAsizAmbaBUve",
+        "ASiSAsizAmAhe",
+        "ASiSAsizAYcakre",
+        "ASiSAsizAmbaBUvivahe",
+        "ASiSAsizAmAsivahe",
+        "ASiSAsizAYcakfvahe",
+        "ASiSAsizAmbaBUvimahe",
+        "ASiSAsizAmAsimahe",
+        "ASiSAsizAYcakfmahe"
+      ],
+      "alot": [
+        "ASiSAsizyatAm",
+        "ASiSAsizyetAm",
+        "ASiSAsizyantAm",
+        "ASiSAsizyasva",
+        "ASiSAsizyeTAm",
+        "ASiSAsizyaDvam",
+        "ASiSAsizyE",
+        "ASiSAsizyAvahE",
+        "ASiSAsizyAmahE"
+      ],
+      "alrung": [
+        "ASiSAsizizyata",
+        "ASiSAsizizyetAm",
+        "ASiSAsizizyanta",
+        "ASiSAsizizyaTAH",
+        "ASiSAsizizyeTAm",
+        "ASiSAsizizyaDvam",
+        "ASiSAsizizye",
+        "ASiSAsizizyAvahi",
+        "ASiSAsizizyAmahi"
+      ],
+      "alrut": [
+        "ASiSAsizizyate",
+        "ASiSAsizizyete",
+        "ASiSAsizizyante",
+        "ASiSAsizizyase",
+        "ASiSAsizizyeTe",
+        "ASiSAsizizyaDve",
+        "ASiSAsizizye",
+        "ASiSAsizizyAvahe",
+        "ASiSAsizizyAmahe"
+      ],
+      "alung": [
+        "ASiSAsizi",
+        "ASiSAsizizAtAm",
+        "ASiSAsizizata",
+        "ASiSAsizizWAH",
+        "ASiSAsizizATAm",
+        "ASiSAsiziDvam",
+        "ASiSAsizizi",
+        "ASiSAsizizvahi",
+        "ASiSAsizizmahi"
+      ],
+      "alut": [
+        "ASiSAsizitA",
+        "ASiSAsizitArO",
+        "ASiSAsizitAraH",
+        "ASiSAsizitAse",
+        "ASiSAsizitAsATe",
+        "ASiSAsizitADve",
+        "ASiSAsizitAhe",
+        "ASiSAsizitAsvahe",
+        "ASiSAsizitAsmahe"
+      ],
+      "avidhiling": [
+        "ASiSAsizyeta",
+        "ASiSAsizyeyAtAm",
+        "ASiSAsizyeran",
+        "ASiSAsizyeTAH",
+        "ASiSAsizyeyATAm",
+        "ASiSAsizyeDvam",
+        "ASiSAsizyeya",
+        "ASiSAsizyevahi",
+        "ASiSAsizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "ASAsayizIzwa",
+        "ASAsayizIyAstAm",
+        "ASAsayizIran",
+        "ASAsayizIzWAH",
+        "ASAsayizIyAsTAm",
+        "ASAsayizIQvam",
+        "ASAsayizIDvam",
+        "ASAsayizIya",
+        "ASAsayizIvahi",
+        "ASAsayizImahi"
+      ],
+      "alang": [
+        "ASAsayata",
+        "ASAsayetAm",
+        "ASAsayanta",
+        "ASAsayaTAH",
+        "ASAsayeTAm",
+        "ASAsayaDvam",
+        "ASAsaye",
+        "ASAsayAvahi",
+        "ASAsayAmahi"
+      ],
+      "alat": [
+        "ASAsayate",
+        "ASAsayete",
+        "ASAsayante",
+        "ASAsayase",
+        "ASAsayeTe",
+        "ASAsayaDve",
+        "ASAsaye",
+        "ASAsayAvahe",
+        "ASAsayAmahe"
+      ],
+      "alit": [
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakre",
+        "ASAsayAmbaBUvatuH",
+        "ASAsayAmAsatuH",
+        "ASAsayAYcakrAte",
+        "ASAsayAmbaBUvuH",
+        "ASAsayAmAsuH",
+        "ASAsayAYcakrire",
+        "ASAsayAmbaBUviTa",
+        "ASAsayAmAsiTa",
+        "ASAsayAYcakfze",
+        "ASAsayAmbaBUvaTuH",
+        "ASAsayAmAsaTuH",
+        "ASAsayAYcakrATe",
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakfQve",
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakre",
+        "ASAsayAmbaBUviva",
+        "ASAsayAmAsiva",
+        "ASAsayAYcakfvahe",
+        "ASAsayAmbaBUvima",
+        "ASAsayAmAsima",
+        "ASAsayAYcakfmahe"
+      ],
+      "alot": [
+        "ASAsayatAm",
+        "ASAsayetAm",
+        "ASAsayantAm",
+        "ASAsayasva",
+        "ASAsayeTAm",
+        "ASAsayaDvam",
+        "ASAsayE",
+        "ASAsayAvahE",
+        "ASAsayAmahE"
+      ],
+      "alrung": [
+        "ASAsayizyata",
+        "ASAsayizyetAm",
+        "ASAsayizyanta",
+        "ASAsayizyaTAH",
+        "ASAsayizyeTAm",
+        "ASAsayizyaDvam",
+        "ASAsayizye",
+        "ASAsayizyAvahi",
+        "ASAsayizyAmahi"
+      ],
+      "alrut": [
+        "ASAsayizyate",
+        "ASAsayizyete",
+        "ASAsayizyante",
+        "ASAsayizyase",
+        "ASAsayizyeTe",
+        "ASAsayizyaDve",
+        "ASAsayizye",
+        "ASAsayizyAvahe",
+        "ASAsayizyAmahe"
+      ],
+      "alung": [
+        "ASaSAsata",
+        "ASaSAsetAm",
+        "ASaSAsanta",
+        "ASaSAsaTAH",
+        "ASaSAseTAm",
+        "ASaSAsaDvam",
+        "ASaSAse",
+        "ASaSAsAvahi",
+        "ASaSAsAmahi"
+      ],
+      "alut": [
+        "ASAsayitA",
+        "ASAsayitArO",
+        "ASAsayitAraH",
+        "ASAsayitAse",
+        "ASAsayitAsATe",
+        "ASAsayitADve",
+        "ASAsayitAhe",
+        "ASAsayitAsvahe",
+        "ASAsayitAsmahe"
+      ],
+      "avidhiling": [
+        "ASAsayeta",
+        "ASAsayeyAtAm",
+        "ASAsayeran",
+        "ASAsayeTAH",
+        "ASAsayeyATAm",
+        "ASAsayeDvam",
+        "ASAsayeya",
+        "ASAsayevahi",
+        "ASAsayemahi"
+      ],
+      "pashirling": [
+        "ASAsyAt",
+        "ASAsyAd",
+        "ASAsyAstAm",
+        "ASAsyAsuH",
+        "ASAsyAH",
+        "ASAsyAstam",
+        "ASAsyAsta",
+        "ASAsyAsam",
+        "ASAsyAsva",
+        "ASAsyAsma"
+      ],
+      "plang": [
+        "ASAsayat",
+        "ASAsayad",
+        "ASAsayatAm",
+        "ASAsayan",
+        "ASAsayaH",
+        "ASAsayatam",
+        "ASAsayata",
+        "ASAsayam",
+        "ASAsayAva",
+        "ASAsayAma"
+      ],
+      "plat": [
+        "ASAsayati",
+        "ASAsayataH",
+        "ASAsayanti",
+        "ASAsayasi",
+        "ASAsayaTaH",
+        "ASAsayaTa",
+        "ASAsayAmi",
+        "ASAsayAvaH",
+        "ASAsayAmaH"
+      ],
+      "plit": [
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakAra",
+        "ASAsayAmbaBUvatuH",
+        "ASAsayAmAsatuH",
+        "ASAsayAYcakratuH",
+        "ASAsayAmbaBUvuH",
+        "ASAsayAmAsuH",
+        "ASAsayAYcakruH",
+        "ASAsayAmbaBUviTa",
+        "ASAsayAmAsiTa",
+        "ASAsayAYcakarTa",
+        "ASAsayAmbaBUvaTuH",
+        "ASAsayAmAsaTuH",
+        "ASAsayAYcakraTuH",
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakra",
+        "ASAsayAmbaBUva",
+        "ASAsayAmAsa",
+        "ASAsayAYcakara",
+        "ASAsayAYcakAra",
+        "ASAsayAmbaBUviva",
+        "ASAsayAmAsiva",
+        "ASAsayAYcakfva",
+        "ASAsayAmbaBUvima",
+        "ASAsayAmAsima",
+        "ASAsayAYcakfma"
+      ],
+      "plot": [
+        "ASAsayatAt",
+        "ASAsayatAd",
+        "ASAsayatu",
+        "ASAsayatAm",
+        "ASAsayantu",
+        "ASAsayatAt",
+        "ASAsayatAd",
+        "ASAsaya",
+        "ASAsayatam",
+        "ASAsayata",
+        "ASAsayAni",
+        "ASAsayAva",
+        "ASAsayAma"
+      ],
+      "plrung": [
+        "ASAsayizyat",
+        "ASAsayizyad",
+        "ASAsayizyatAm",
+        "ASAsayizyan",
+        "ASAsayizyaH",
+        "ASAsayizyatam",
+        "ASAsayizyata",
+        "ASAsayizyam",
+        "ASAsayizyAva",
+        "ASAsayizyAma"
+      ],
+      "plrut": [
+        "ASAsayizyati",
+        "ASAsayizyataH",
+        "ASAsayizyanti",
+        "ASAsayizyasi",
+        "ASAsayizyaTaH",
+        "ASAsayizyaTa",
+        "ASAsayizyAmi",
+        "ASAsayizyAvaH",
+        "ASAsayizyAmaH"
+      ],
+      "plung": [
+        "ASaSAsat",
+        "ASaSAsad",
+        "ASaSAsatAm",
+        "ASaSAsan",
+        "ASaSAsaH",
+        "ASaSAsatam",
+        "ASaSAsata",
+        "ASaSAsam",
+        "ASaSAsAva",
+        "ASaSAsAma"
+      ],
+      "plut": [
+        "ASAsayitA",
+        "ASAsayitArO",
+        "ASAsayitAraH",
+        "ASAsayitAsi",
+        "ASAsayitAsTaH",
+        "ASAsayitAsTa",
+        "ASAsayitAsmi",
+        "ASAsayitAsvaH",
+        "ASAsayitAsmaH"
+      ],
+      "pvidhiling": [
+        "ASAsayet",
+        "ASAsayed",
+        "ASAsayetAm",
+        "ASAsayeyuH",
+        "ASAsayeH",
+        "ASAsayetam",
+        "ASAsayeta",
+        "ASAsayeyam",
+        "ASAsayeva",
+        "ASAsayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "ASAsizIzwa",
+        "ASAsayizIzwa",
+        "ASAsizIyAstAm",
+        "ASAsayizIyAstAm",
+        "ASAsizIran",
+        "ASAsayizIran",
+        "ASAsizIzWAH",
+        "ASAsayizIzWAH",
+        "ASAsizIyAsTAm",
+        "ASAsayizIyAsTAm",
+        "ASAsizIDvam",
+        "ASAsayizIQvam",
+        "ASAsayizIDvam",
+        "ASAsizIya",
+        "ASAsayizIya",
+        "ASAsizIvahi",
+        "ASAsayizIvahi",
+        "ASAsizImahi",
+        "ASAsayizImahi"
+      ],
+      "alang": [
+        "ASAsyata",
+        "ASAsyetAm",
+        "ASAsyanta",
+        "ASAsyaTAH",
+        "ASAsyeTAm",
+        "ASAsyaDvam",
+        "ASAsye",
+        "ASAsyAvahi",
+        "ASAsyAmahi"
+      ],
+      "alat": [
+        "ASAsyate",
+        "ASAsyete",
+        "ASAsyante",
+        "ASAsyase",
+        "ASAsyeTe",
+        "ASAsyaDve",
+        "ASAsye",
+        "ASAsyAvahe",
+        "ASAsyAmahe"
+      ],
+      "alit": [
+        "ASAsayAmbaBUve",
+        "ASAsayAmAse",
+        "ASAsayAYcakre",
+        "ASAsayAmbaBUvAte",
+        "ASAsayAmAsAte",
+        "ASAsayAYcakrAte",
+        "ASAsayAmbaBUvire",
+        "ASAsayAmAsire",
+        "ASAsayAYcakrire",
+        "ASAsayAmbaBUvize",
+        "ASAsayAmAsize",
+        "ASAsayAYcakfze",
+        "ASAsayAmbaBUvATe",
+        "ASAsayAmAsATe",
+        "ASAsayAYcakrATe",
+        "ASAsayAmbaBUviQve",
+        "ASAsayAmAsiDve",
+        "ASAsayAYcakfQve",
+        "ASAsayAmbaBUve",
+        "ASAsayAmAhe",
+        "ASAsayAYcakre",
+        "ASAsayAmbaBUvivahe",
+        "ASAsayAmAsivahe",
+        "ASAsayAYcakfvahe",
+        "ASAsayAmbaBUvimahe",
+        "ASAsayAmAsimahe",
+        "ASAsayAYcakfmahe"
+      ],
+      "alot": [
+        "ASAsyatAm",
+        "ASAsyetAm",
+        "ASAsyantAm",
+        "ASAsyasva",
+        "ASAsyeTAm",
+        "ASAsyaDvam",
+        "ASAsyE",
+        "ASAsyAvahE",
+        "ASAsyAmahE"
+      ],
+      "alrung": [
+        "ASAsizyata",
+        "ASAsayizyata",
+        "ASAsizyetAm",
+        "ASAsayizyetAm",
+        "ASAsizyanta",
+        "ASAsayizyanta",
+        "ASAsizyaTAH",
+        "ASAsayizyaTAH",
+        "ASAsizyeTAm",
+        "ASAsayizyeTAm",
+        "ASAsizyaDvam",
+        "ASAsayizyaDvam",
+        "ASAsizye",
+        "ASAsayizye",
+        "ASAsizyAvahi",
+        "ASAsayizyAvahi",
+        "ASAsizyAmahi",
+        "ASAsayizyAmahi"
+      ],
+      "alrut": [
+        "ASAsizyate",
+        "ASAsayizyate",
+        "ASAsizyete",
+        "ASAsayizyete",
+        "ASAsizyante",
+        "ASAsayizyante",
+        "ASAsizyase",
+        "ASAsayizyase",
+        "ASAsizyeTe",
+        "ASAsayizyeTe",
+        "ASAsizyaDve",
+        "ASAsayizyaDve",
+        "ASAsizye",
+        "ASAsayizye",
+        "ASAsizyAvahe",
+        "ASAsayizyAvahe",
+        "ASAsizyAmahe",
+        "ASAsayizyAmahe"
+      ],
+      "alung": [
+        "ASAsi",
+        "ASAsizAtAm",
+        "ASAsayizAtAm",
+        "ASAsizata",
+        "ASAsayizata",
+        "ASAsizWAH",
+        "ASAsayizWAH",
+        "ASAsizATAm",
+        "ASAsayizATAm",
+        "ASAsiDvam",
+        "ASAsayiQvam",
+        "ASAsayiDvam",
+        "ASAsizi",
+        "ASAsayizi",
+        "ASAsizvahi",
+        "ASAsayizvahi",
+        "ASAsizmahi",
+        "ASAsayizmahi"
+      ],
+      "alut": [
+        "ASAsitA",
+        "ASAsayitA",
+        "ASAsitArO",
+        "ASAsayitArO",
+        "ASAsitAraH",
+        "ASAsayitAraH",
+        "ASAsitAse",
+        "ASAsayitAse",
+        "ASAsitAsATe",
+        "ASAsayitAsATe",
+        "ASAsitADve",
+        "ASAsayitADve",
+        "ASAsitAhe",
+        "ASAsayitAhe",
+        "ASAsitAsvahe",
+        "ASAsayitAsvahe",
+        "ASAsitAsmahe",
+        "ASAsayitAsmahe"
+      ],
+      "avidhiling": [
+        "ASAsyeta",
+        "ASAsyeyAtAm",
+        "ASAsyeran",
+        "ASAsyeTAH",
+        "ASAsyeyATAm",
+        "ASAsyeDvam",
+        "ASAsyeya",
+        "ASAsyevahi",
+        "ASAsyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "ASASAsizIzwa",
+        "ASASAsizIyAstAm",
+        "ASASAsizIran",
+        "ASASAsizIzWAH",
+        "ASASAsizIyAsTAm",
+        "ASASAsizIDvam",
+        "ASASAsizIya",
+        "ASASAsizIvahi",
+        "ASASAsizImahi"
+      ],
+      "alang": [
+        "ASASAsyata",
+        "ASASAsyetAm",
+        "ASASAsyanta",
+        "ASASAsyaTAH",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsye",
+        "ASASAsyAvahi",
+        "ASASAsyAmahi"
+      ],
+      "alat": [
+        "ASASAsyate",
+        "ASASAsyete",
+        "ASASAsyante",
+        "ASASAsyase",
+        "ASASAsyeTe",
+        "ASASAsyaDve",
+        "ASASAsye",
+        "ASASAsyAvahe",
+        "ASASAsyAmahe"
+      ],
+      "alit": [
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUvatuH",
+        "ASASAsAmAsatuH",
+        "ASASAsAYcakrAte",
+        "ASASAsAmbaBUvuH",
+        "ASASAsAmAsuH",
+        "ASASAsAYcakrire",
+        "ASASAsAmbaBUviTa",
+        "ASASAsAmAsiTa",
+        "ASASAsAYcakfze",
+        "ASASAsAmbaBUvaTuH",
+        "ASASAsAmAsaTuH",
+        "ASASAsAYcakrATe",
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakfQve",
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUviva",
+        "ASASAsAmAsiva",
+        "ASASAsAYcakfvahe",
+        "ASASAsAmbaBUvima",
+        "ASASAsAmAsima",
+        "ASASAsAYcakfmahe"
+      ],
+      "alot": [
+        "ASASAsyatAm",
+        "ASASAsyetAm",
+        "ASASAsyantAm",
+        "ASASAsyasva",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsyE",
+        "ASASAsyAvahE",
+        "ASASAsyAmahE"
+      ],
+      "alrung": [
+        "ASASAsizyata",
+        "ASASAsizyetAm",
+        "ASASAsizyanta",
+        "ASASAsizyaTAH",
+        "ASASAsizyeTAm",
+        "ASASAsizyaDvam",
+        "ASASAsizye",
+        "ASASAsizyAvahi",
+        "ASASAsizyAmahi"
+      ],
+      "alrut": [
+        "ASASAsizyate",
+        "ASASAsizyete",
+        "ASASAsizyante",
+        "ASASAsizyase",
+        "ASASAsizyeTe",
+        "ASASAsizyaDve",
+        "ASASAsizye",
+        "ASASAsizyAvahe",
+        "ASASAsizyAmahe"
+      ],
+      "alung": [
+        "ASASAsizwa",
+        "ASASAsizAtAm",
+        "ASASAsizata",
+        "ASASAsizWAH",
+        "ASASAsizATAm",
+        "ASASAsiDvam",
+        "ASASAsizi",
+        "ASASAsizvahi",
+        "ASASAsizmahi"
+      ],
+      "alut": [
+        "ASASAsitA",
+        "ASASAsitArO",
+        "ASASAsitAraH",
+        "ASASAsitAse",
+        "ASASAsitAsATe",
+        "ASASAsitADve",
+        "ASASAsitAhe",
+        "ASASAsitAsvahe",
+        "ASASAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ASASAsyeta",
+        "ASASAsyeyAtAm",
+        "ASASAsyeran",
+        "ASASAsyeTAH",
+        "ASASAsyeyATAm",
+        "ASASAsyeDvam",
+        "ASASAsyeya",
+        "ASASAsyevahi",
+        "ASASAsyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "ASASAsizIzwa",
+        "ASASAsizIyAstAm",
+        "ASASAsizIran",
+        "ASASAsizIzWAH",
+        "ASASAsizIyAsTAm",
+        "ASASAsizIDvam",
+        "ASASAsizIya",
+        "ASASAsizIvahi",
+        "ASASAsizImahi"
+      ],
+      "alang": [
+        "ASASAsyata",
+        "ASASAsyetAm",
+        "ASASAsyanta",
+        "ASASAsyaTAH",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsye",
+        "ASASAsyAvahi",
+        "ASASAsyAmahi"
+      ],
+      "alat": [
+        "ASASAsyate",
+        "ASASAsyete",
+        "ASASAsyante",
+        "ASASAsyase",
+        "ASASAsyeTe",
+        "ASASAsyaDve",
+        "ASASAsye",
+        "ASASAsyAvahe",
+        "ASASAsyAmahe"
+      ],
+      "alit": [
+        "ASASAsAmbaBUve",
+        "ASASAsAmAse",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUvAte",
+        "ASASAsAmAsAte",
+        "ASASAsAYcakrAte",
+        "ASASAsAmbaBUvire",
+        "ASASAsAmAsire",
+        "ASASAsAYcakrire",
+        "ASASAsAmbaBUvize",
+        "ASASAsAmAsize",
+        "ASASAsAYcakfze",
+        "ASASAsAmbaBUvATe",
+        "ASASAsAmAsATe",
+        "ASASAsAYcakrATe",
+        "ASASAsAmbaBUviQve",
+        "ASASAsAmAsiDve",
+        "ASASAsAYcakfQve",
+        "ASASAsAmbaBUve",
+        "ASASAsAmAhe",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUvivahe",
+        "ASASAsAmAsivahe",
+        "ASASAsAYcakfvahe",
+        "ASASAsAmbaBUvimahe",
+        "ASASAsAmAsimahe",
+        "ASASAsAYcakfmahe"
+      ],
+      "alot": [
+        "ASASAsyatAm",
+        "ASASAsyetAm",
+        "ASASAsyantAm",
+        "ASASAsyasva",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsyE",
+        "ASASAsyAvahE",
+        "ASASAsyAmahE"
+      ],
+      "alrung": [
+        "ASASAsizyata",
+        "ASASAsizyetAm",
+        "ASASAsizyanta",
+        "ASASAsizyaTAH",
+        "ASASAsizyeTAm",
+        "ASASAsizyaDvam",
+        "ASASAsizye",
+        "ASASAsizyAvahi",
+        "ASASAsizyAmahi"
+      ],
+      "alrut": [
+        "ASASAsizyate",
+        "ASASAsizyete",
+        "ASASAsizyante",
+        "ASASAsizyase",
+        "ASASAsizyeTe",
+        "ASASAsizyaDve",
+        "ASASAsizye",
+        "ASASAsizyAvahe",
+        "ASASAsizyAmahe"
+      ],
+      "alung": [
+        "ASASAsi",
+        "ASASAsizAtAm",
+        "ASASAsizata",
+        "ASASAsizWAH",
+        "ASASAsizATAm",
+        "ASASAsiDvam",
+        "ASASAsizi",
+        "ASASAsizvahi",
+        "ASASAsizmahi"
+      ],
+      "alut": [
+        "ASASAsitA",
+        "ASASAsitArO",
+        "ASASAsitAraH",
+        "ASASAsitAse",
+        "ASASAsitAsATe",
+        "ASASAsitADve",
+        "ASASAsitAhe",
+        "ASASAsitAsvahe",
+        "ASASAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ASASAsyeta",
+        "ASASAsyeyAtAm",
+        "ASASAsyeran",
+        "ASASAsyeTAH",
+        "ASASAsyeyATAm",
+        "ASASAsyeDvam",
+        "ASASAsyeya",
+        "ASASAsyevahi",
+        "ASASAsyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "ASASAsyAt",
+        "ASASAsyAd",
+        "ASASAsyAstAm",
+        "ASASAsyAsuH",
+        "ASASAsyAH",
+        "ASASAsyAstam",
+        "ASASAsyAsta",
+        "ASASAsyAsam",
+        "ASASAsyAsva",
+        "ASASAsyAsma"
+      ],
+      "plang": [
+        "ASASAsIt",
+        "ASASAsId",
+        "ASASAt",
+        "ASASAd",
+        "ASASAstAm",
+        "ASASAsuH",
+        "ASASAsIH",
+        "ASASAt",
+        "ASASAd",
+        "ASASAH",
+        "ASASAstam",
+        "ASASAsta",
+        "ASASAsam",
+        "ASASAsva",
+        "ASASAsma"
+      ],
+      "plat": [
+        "ASASAsIti",
+        "ASASAsti",
+        "ASASAstaH",
+        "ASASAsati",
+        "ASASAsIzi",
+        "ASASAssi",
+        "ASASAsTaH",
+        "ASASAsTa",
+        "ASASAsImi",
+        "ASASAsmi",
+        "ASASAsvaH",
+        "ASASAsmaH"
+      ],
+      "plit": [
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakAra",
+        "ASASAsAmbaBUvatuH",
+        "ASASAsAmAsatuH",
+        "ASASAsAYcakratuH",
+        "ASASAsAmbaBUvuH",
+        "ASASAsAmAsuH",
+        "ASASAsAYcakruH",
+        "ASASAsAmbaBUviTa",
+        "ASASAsAmAsiTa",
+        "ASASAsAYcakarTa",
+        "ASASAsAmbaBUvaTuH",
+        "ASASAsAmAsaTuH",
+        "ASASAsAYcakraTuH",
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakra",
+        "ASASAsAmbaBUva",
+        "ASASAsAmAsa",
+        "ASASAsAYcakara",
+        "ASASAsAYcakAra",
+        "ASASAsAmbaBUviva",
+        "ASASAsAmAsiva",
+        "ASASAsAYcakfva",
+        "ASASAsAmbaBUvima",
+        "ASASAsAmAsima",
+        "ASASAsAYcakfma"
+      ],
+      "plot": [
+        "ASASAstAt",
+        "ASASAstAd",
+        "ASASAsItu",
+        "ASASAstu",
+        "ASASAstAm",
+        "ASASAsatu",
+        "ASASAstAt",
+        "ASASAstAd",
+        "ASASADi",
+        "ASASAstam",
+        "ASASAsta",
+        "ASASAsAni",
+        "ASASAsAva",
+        "ASASAsAma"
+      ],
+      "plrung": [
+        "ASASAsizyat",
+        "ASASAsizyad",
+        "ASASAsizyatAm",
+        "ASASAsizyan",
+        "ASASAsizyaH",
+        "ASASAsizyatam",
+        "ASASAsizyata",
+        "ASASAsizyam",
+        "ASASAsizyAva",
+        "ASASAsizyAma"
+      ],
+      "plrut": [
+        "ASASAsizyati",
+        "ASASAsizyataH",
+        "ASASAsizyanti",
+        "ASASAsizyasi",
+        "ASASAsizyaTaH",
+        "ASASAsizyaTa",
+        "ASASAsizyAmi",
+        "ASASAsizyAvaH",
+        "ASASAsizyAmaH"
+      ],
+      "plung": [
+        "ASASAsIt",
+        "ASASAsId",
+        "ASASAsizwAm",
+        "ASASAsizuH",
+        "ASASAsIH",
+        "ASASAsizwam",
+        "ASASAsizwa",
+        "ASASAsizam",
+        "ASASAsizva",
+        "ASASAsizma"
+      ],
+      "plut": [
+        "ASASAsitA",
+        "ASASAsitArO",
+        "ASASAsitAraH",
+        "ASASAsitAsi",
+        "ASASAsitAsTaH",
+        "ASASAsitAsTa",
+        "ASASAsitAsmi",
+        "ASASAsitAsvaH",
+        "ASASAsitAsmaH"
+      ],
+      "pvidhiling": [
+        "ASASAsyAt",
+        "ASASAsyAd",
+        "ASASAsyAtAm",
+        "ASASAsyuH",
+        "ASASAsyAH",
+        "ASASAsyAtam",
+        "ASASAsyAta",
+        "ASASAsyAm",
+        "ASASAsyAva",
+        "ASASAsyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "ASASAsizIzwa",
+        "ASASAsizIyAstAm",
+        "ASASAsizIran",
+        "ASASAsizIzWAH",
+        "ASASAsizIyAsTAm",
+        "ASASAsizIDvam",
+        "ASASAsizIya",
+        "ASASAsizIvahi",
+        "ASASAsizImahi"
+      ],
+      "alang": [
+        "ASASAsyata",
+        "ASASAsyetAm",
+        "ASASAsyanta",
+        "ASASAsyaTAH",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsye",
+        "ASASAsyAvahi",
+        "ASASAsyAmahi"
+      ],
+      "alat": [
+        "ASASAsyate",
+        "ASASAsyete",
+        "ASASAsyante",
+        "ASASAsyase",
+        "ASASAsyeTe",
+        "ASASAsyaDve",
+        "ASASAsye",
+        "ASASAsyAvahe",
+        "ASASAsyAmahe"
+      ],
+      "alit": [
+        "ASASAsAmbaBUve",
+        "ASASAsAmAse",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUvAte",
+        "ASASAsAmAsAte",
+        "ASASAsAYcakrAte",
+        "ASASAsAmbaBUvire",
+        "ASASAsAmAsire",
+        "ASASAsAYcakrire",
+        "ASASAsAmbaBUvize",
+        "ASASAsAmAsize",
+        "ASASAsAYcakfze",
+        "ASASAsAmbaBUvATe",
+        "ASASAsAmAsATe",
+        "ASASAsAYcakrATe",
+        "ASASAsAmbaBUviQve",
+        "ASASAsAmAsiDve",
+        "ASASAsAYcakfQve",
+        "ASASAsAmbaBUve",
+        "ASASAsAmAhe",
+        "ASASAsAYcakre",
+        "ASASAsAmbaBUvivahe",
+        "ASASAsAmAsivahe",
+        "ASASAsAYcakfvahe",
+        "ASASAsAmbaBUvimahe",
+        "ASASAsAmAsimahe",
+        "ASASAsAYcakfmahe"
+      ],
+      "alot": [
+        "ASASAsyatAm",
+        "ASASAsyetAm",
+        "ASASAsyantAm",
+        "ASASAsyasva",
+        "ASASAsyeTAm",
+        "ASASAsyaDvam",
+        "ASASAsyE",
+        "ASASAsyAvahE",
+        "ASASAsyAmahE"
+      ],
+      "alrung": [
+        "ASASAsizyata",
+        "ASASAsizyetAm",
+        "ASASAsizyanta",
+        "ASASAsizyaTAH",
+        "ASASAsizyeTAm",
+        "ASASAsizyaDvam",
+        "ASASAsizye",
+        "ASASAsizyAvahi",
+        "ASASAsizyAmahi"
+      ],
+      "alrut": [
+        "ASASAsizyate",
+        "ASASAsizyete",
+        "ASASAsizyante",
+        "ASASAsizyase",
+        "ASASAsizyeTe",
+        "ASASAsizyaDve",
+        "ASASAsizye",
+        "ASASAsizyAvahe",
+        "ASASAsizyAmahe"
+      ],
+      "alung": [
+        "ASASAsi",
+        "ASASAsizAtAm",
+        "ASASAsizata",
+        "ASASAsizWAH",
+        "ASASAsizATAm",
+        "ASASAsiDvam",
+        "ASASAsizi",
+        "ASASAsizvahi",
+        "ASASAsizmahi"
+      ],
+      "alut": [
+        "ASASAsitA",
+        "ASASAsitArO",
+        "ASASAsitAraH",
+        "ASASAsitAse",
+        "ASASAsitAsATe",
+        "ASASAsitADve",
+        "ASASAsitAhe",
+        "ASASAsitAsvahe",
+        "ASASAsitAsmahe"
+      ],
+      "avidhiling": [
+        "ASASAsyeta",
+        "ASASAsyeyAtAm",
+        "ASASAsyeran",
+        "ASASAsyeTAH",
+        "ASASAsyeyATAm",
+        "ASASAsyeDvam",
+        "ASASAsyeya",
+        "ASASAsyevahi",
+        "ASASAsyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "ASAsA",
+          "m": "",
+          "f": "ASAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ASAsa",
+          "m": "ASAsaH",
+          "f": "ASAsA",
+          "n": "ASAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ASAsanIya",
+          "m": "ASAsanIyaH",
+          "f": "ASAsanIyA",
+          "n": "ASAsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ASAsta",
+          "m": "ASAstaH",
+          "f": "ASAstA",
+          "n": "ASAstam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ASAstavat",
+          "m": "ASAstavAn",
+          "f": "ASAstavatI",
+          "n": "ASAstavat/ASAstavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ASAsti",
+          "m": "",
+          "f": "ASAstiH",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ASaSAsvas",
+          "m": "ASaSAsvAn",
+          "f": "ASaSAsuzI",
+          "n": "ASaSAsvat/ASaSAsvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ASAsa",
+          "m": "ASAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ASAsAna",
+          "m": "ASAsAnaH",
+          "f": "ASAsAnA",
+          "n": "ASAsAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ASAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "ASAsya",
+          "m": "ASAsyaH",
+          "f": "ASAsyA",
+          "n": "ASAsyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ASAsaka",
+          "m": "ASAsakaH",
+          "f": "ASAsikA",
+          "n": "ASAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ASAsitavya",
+          "m": "ASAsitavyaH",
+          "f": "ASAsitavyA",
+          "n": "ASAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ASAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ASAsitf",
+          "m": "ASAsitA",
+          "f": "ASAsitrI",
+          "n": "ASAsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ASAsAna",
+          "m": "ASAsAnaH",
+          "f": "ASAsAnA",
+          "n": "ASAsAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "ASAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ASAsana",
+          "m": "",
+          "f": "",
+          "n": "ASAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ASAsaka",
+          "m": "ASAsakaH",
+          "f": "ASAsikA",
+          "n": "ASAsakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ASAsAna",
+          "m": "ASAsAnaH",
+          "f": "ASAsAnA",
+          "n": "ASAsAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ASAsAna",
+          "m": "ASAsAnaH",
+          "f": "ASAsAnA",
+          "n": "ASAsAnam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ASAsAna",
+          "m": "ASAsAnaH",
+          "f": "ASAsAnA",
+          "n": "ASAsAnam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ASiSAsizA",
+          "m": "",
+          "f": "ASiSAsizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ASiSAsiza",
+          "m": "ASiSAsizaH",
+          "f": "ASiSAsizA",
+          "n": "ASiSAsizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ASiSAsizaRIya",
+          "m": "ASiSAsizaRIyaH",
+          "f": "ASiSAsizaRIyA",
+          "n": "ASiSAsizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ASiSAsizu",
+          "m": "ASiSAsizuH",
+          "f": "ASiSAsizuH",
+          "n": "ASiSAsizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ASiSAsizita",
+          "m": "ASiSAsizitaH",
+          "f": "ASiSAsizitA",
+          "n": "ASiSAsizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ASiSAsizitavat",
+          "m": "ASiSAsizitavAn",
+          "f": "ASiSAsizitavatI",
+          "n": "ASiSAsizitavat/ASiSAsizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ASiSAsizwi",
+          "m": "",
+          "f": "ASiSAsizwiH",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ASiSAsizAmbaBUvas",
+          "m": "ASiSAsizAmbaBUvAn",
+          "f": "ASiSAsizAmbaBUzI",
+          "n": "ASiSAsizAmbaBUvat/ASiSAsizAmbaBUvad"
+        },
+        {
+          "base": "ASiSAsizAmAsivas",
+          "m": "ASiSAsizAmAsivAn",
+          "f": "ASiSAsizAmAsyuzI",
+          "n": "ASiSAsizAmAsivat/ASiSAsizAmAsivad"
+        },
+        {
+          "base": "ASiSAsizAYcakfvas",
+          "m": "ASiSAsizAYcakfvAn",
+          "f": "ASiSAsizAYcakruzI",
+          "n": "ASiSAsizAYcakfvat/ASiSAsizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ASiSAsiza",
+          "m": "ASiSAsizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ASiSAsizamARa",
+          "m": "ASiSAsizamARaH",
+          "f": "ASiSAsizamARA",
+          "n": "ASiSAsizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ASiSAsizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ASiSAsizaka",
+          "m": "ASiSAsizakaH",
+          "f": "ASiSAsizikA",
+          "n": "ASiSAsizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ASiSAsizitavya",
+          "m": "ASiSAsizitavyaH",
+          "f": "ASiSAsizitavyA",
+          "n": "ASiSAsizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ASiSAsizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ASiSAsizitf",
+          "m": "ASiSAsizitA",
+          "f": "ASiSAsizitrI",
+          "n": "ASiSAsizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ASiSAsizamARa",
+          "m": "ASiSAsizamARaH",
+          "f": "ASiSAsizamARA",
+          "n": "ASiSAsizamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ASiSAsizya",
+          "m": "ASiSAsizyaH",
+          "f": "ASiSAsizyA",
+          "n": "ASiSAsizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "ASiSAsizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ASiSAsizaRa",
+          "m": "",
+          "f": "",
+          "n": "ASiSAsizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ASiSAsizaka",
+          "m": "ASiSAsizakaH",
+          "f": "ASiSAsizikA",
+          "n": "ASiSAsizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ASiSAsizamARa",
+          "m": "ASiSAsizamARaH",
+          "f": "ASiSAsizamARA",
+          "n": "ASiSAsizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ASiSAsizamARa",
+          "m": "ASiSAsizamARaH",
+          "f": "ASiSAsizamARA",
+          "n": "ASiSAsizamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ASiSAsizamARa",
+          "m": "ASiSAsizamARaH",
+          "f": "ASiSAsizamARA",
+          "n": "ASiSAsizamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "ASAsa",
+          "m": "ASAsaH",
+          "f": "ASAsA",
+          "n": "ASAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ASAsanIya",
+          "m": "ASAsanIyaH",
+          "f": "ASAsanIyA",
+          "n": "ASAsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ASAsita",
+          "m": "ASAsitaH",
+          "f": "ASAsitA",
+          "n": "ASAsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ASAsitavat",
+          "m": "ASAsitavAn",
+          "f": "ASAsitavatI",
+          "n": "ASAsitavat/ASAsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ASAsti",
+          "m": "",
+          "f": "ASAstiH",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ASAsayAmbaBUvas",
+          "m": "ASAsayAmbaBUvAn",
+          "f": "ASAsayAmbaBUzI",
+          "n": "ASAsayAmbaBUvat/ASAsayAmbaBUvad"
+        },
+        {
+          "base": "ASAsayAmAsivas",
+          "m": "ASAsayAmAsivAn",
+          "f": "ASAsayAmAsyuzI",
+          "n": "ASAsayAmAsivat/ASAsayAmAsivad"
+        },
+        {
+          "base": "ASAsayAYcakfvas",
+          "m": "ASAsayAYcakfvAn",
+          "f": "ASAsayAYcakruzI",
+          "n": "ASAsayAYcakfvat/ASAsayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ASAsayamAna",
+          "m": "ASAsayamAnaH",
+          "f": "ASAsayamAnA",
+          "n": "ASAsayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ASAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ASAsaka",
+          "m": "ASAsakaH",
+          "f": "ASAsikA",
+          "n": "ASAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ASAsayitavya",
+          "m": "ASAsayitavyaH",
+          "f": "ASAsayitavyA",
+          "n": "ASAsayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ASAsayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ASAsayitf",
+          "m": "ASAsayitA",
+          "f": "ASAsayitrI",
+          "n": "ASAsayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ASAsayamAna",
+          "m": "ASAsayamAnaH",
+          "f": "ASAsayamAnA",
+          "n": "ASAsayamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ASAsya",
+          "m": "ASAsyaH",
+          "f": "ASAsyA",
+          "n": "ASAsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "ASAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ASAsana",
+          "m": "",
+          "f": "",
+          "n": "ASAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ASAsaka",
+          "m": "ASAsakaH",
+          "f": "ASAsikA",
+          "n": "ASAsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ASAsayat",
+          "m": "ASAsayan",
+          "f": "ASAsayantI",
+          "n": "ASAsayat/ASAsayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ASAsayamAna",
+          "m": "ASAsayamAnaH",
+          "f": "ASAsayamAnA",
+          "n": "ASAsayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ASAsayamAna",
+          "m": "ASAsayamAnaH",
+          "f": "ASAsayamAnA",
+          "n": "ASAsayamAnam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ASAsayat",
+          "m": "ASAsayan",
+          "f": "ASAsayatI/ASAsayantI",
+          "n": "ASAsayat/ASAsayad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ASAsayamAna",
+          "m": "ASAsayamAnaH",
+          "f": "ASAsayamAnA",
+          "n": "ASAsayamAnam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "ASASAsA",
+          "m": "",
+          "f": "ASASAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ASASAsa",
+          "m": "ASASAsaH",
+          "f": "ASASAsA",
+          "n": "ASASAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ASASAsanIya",
+          "m": "ASASAsanIyaH",
+          "f": "ASASAsanIyA",
+          "n": "ASASAsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ASASAsita",
+          "m": "ASASAsitaH",
+          "f": "ASASAsitA",
+          "n": "ASASAsitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ASASAsitavat",
+          "m": "ASASAsitavAn",
+          "f": "ASASAsitavatI",
+          "n": "ASASAsitavat/ASASAsitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ASASAsti",
+          "m": "",
+          "f": "ASASAstiH",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ASASAsAmbaBUvas",
+          "m": "ASASAsAmbaBUvAn",
+          "f": "ASASAsAmbaBUzI",
+          "n": "ASASAsAmbaBUvat/ASASAsAmbaBUvad"
+        },
+        {
+          "base": "ASASAsAmAsivas",
+          "m": "ASASAsAmAsivAn",
+          "f": "ASASAsAmAsyuzI",
+          "n": "ASASAsAmAsivat/ASASAsAmAsivad"
+        },
+        {
+          "base": "ASASAsAYcakfvas",
+          "m": "ASASAsAYcakfvAn",
+          "f": "ASASAsAYcakruzI",
+          "n": "ASASAsAYcakfvat/ASASAsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ASASAsa",
+          "m": "ASASAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ASASAsyamAna",
+          "m": "ASASAsyamAnaH",
+          "f": "ASASAsyamAnA",
+          "n": "ASASAsyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ASASAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ASASAsaka",
+          "m": "ASASAsakaH",
+          "f": "ASASAsikA",
+          "n": "ASASAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ASASAsitavya",
+          "m": "ASASAsitavyaH",
+          "f": "ASASAsitavyA",
+          "n": "ASASAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ASASAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ASASAsitf",
+          "m": "ASASAsitA",
+          "f": "ASASAsitrI",
+          "n": "ASASAsitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ASASAsyamAna",
+          "m": "ASASAsyamAnaH",
+          "f": "ASASAsyamAnA",
+          "n": "ASASAsyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ASASAsya",
+          "m": "ASASAsyaH",
+          "f": "ASASAsyA",
+          "n": "ASASAsyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "ASASAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ASASAsana",
+          "m": "",
+          "f": "",
+          "n": "ASASAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ASASAsaka",
+          "m": "ASASAsakaH",
+          "f": "ASASAsikA",
+          "n": "ASASAsakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ASASAsyamAna",
+          "m": "ASASAsyamAnaH",
+          "f": "ASASAsyamAnA",
+          "n": "ASASAsyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ASASAsyamAna",
+          "m": "ASASAsyamAnaH",
+          "f": "ASASAsyamAnA",
+          "n": "ASASAsyamAnam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ASASAsyamAna",
+          "m": "ASASAsyamAnaH",
+          "f": "ASASAsyamAnA",
+          "n": "ASASAsyamAnam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "ASASAsA",
+          "m": "",
+          "f": "ASASAsA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ASASAsa",
+          "m": "ASASAsaH",
+          "f": "ASASAsA",
+          "n": "ASASAsam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ASASAsanIya",
+          "m": "ASASAsanIyaH",
+          "f": "ASASAsanIyA",
+          "n": "ASASAsanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ASASAsta",
+          "m": "ASASAstaH",
+          "f": "ASASAstA",
+          "n": "ASASAstam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ASASAstavat",
+          "m": "ASASAstavAn",
+          "f": "ASASAstavatI",
+          "n": "ASASAstavat/ASASAstavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ASASAsti",
+          "m": "",
+          "f": "ASASAstiH",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ASASAsAmbaBUvas",
+          "m": "ASASAsAmbaBUvAn",
+          "f": "ASASAsAmbaBUzI",
+          "n": "ASASAsAmbaBUvat/ASASAsAmbaBUvad"
+        },
+        {
+          "base": "ASASAsAmAsivas",
+          "m": "ASASAsAmAsivAn",
+          "f": "ASASAsAmAsyuzI",
+          "n": "ASASAsAmAsivat/ASASAsAmAsivad"
+        },
+        {
+          "base": "ASASAsAYcakfvas",
+          "m": "ASASAsAYcakfvAn",
+          "f": "ASASAsAYcakruzI",
+          "n": "ASASAsAYcakfvat/ASASAsAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ASASAsa",
+          "m": "ASASAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ASASAsAna",
+          "m": "ASASAsAnaH",
+          "f": "ASASAsAnA",
+          "n": "ASASAsAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ASASAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ASASAsaka",
+          "m": "ASASAsakaH",
+          "f": "ASASAsikA",
+          "n": "ASASAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ASASAsitavya",
+          "m": "ASASAsitavyaH",
+          "f": "ASASAsitavyA",
+          "n": "ASASAsitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ASASAsitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ASASAsitf",
+          "m": "ASASAsitA",
+          "f": "ASASAsitrI",
+          "n": "ASASAsitf"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "ASASAsya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ASASAsana",
+          "m": "",
+          "f": "",
+          "n": "ASASAsanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ASASAsaka",
+          "m": "ASASAsakaH",
+          "f": "ASASAsikA",
+          "n": "ASASAsakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ASASAsat",
+          "m": "ASASAsan",
+          "f": "ASASAsatI",
+          "n": "ASASAsat/ASASAsad"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ASASAsat",
+          "m": "ASASAsan",
+          "f": "ASASAsatI/ASASAsantI",
+          "n": "ASASAsat/ASASAsad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "SAs",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "AN",
+      "examples": [
+        "'ASAsate kuwumbiByasteByaH kAryaM vijAnatA' (manu0 3.80). ASAsate prArTayante.",
+        "'dIrGamAyurDanaM putrAn samyagArADitA SuBAH. putrezvASAsate nityaM pitaro dEvatAni ca' (BA0 u0 132.25-26). ASAsata icCanti, kAmayante.",
+        "'taM tvA vayaM viSvavArA''SAsmahe puruhUtaM' (f0 1.30.10). ASAsmahe yAcAmahe.",
+        "'fvaCandasA''SAste' (SA0 4). ASizaM pradiSati.",
+        "'kimanyadASAsmahe kevalaM vIraprasavA BUyA' (uttara0 1). kAmanyAmASizamuccArayAma ityarTaH.",
+        "'sarvamasminvayamASAsmahe' (SA0 7). ASAsmahe saMBAvayAmaH.",
+        "'ASizaSca praSizaSca saMSizo viSizaSca yAH' (aTarva0 11.10.27). ASiza izwaPalaprArTanAni.",
+        "'kaccidASAsti devAnAM prasAdaM pArTivAtmajaH' (rA0 5.36.19). ASAsti ASAste prArTayate."
+      ]
+    }
+  ],
+  "prayoga": [
+    {
+      "form": "ASAsmahe",
+      "lakaar": "lawlakAraH (Atmanepadam)",
+      "purusha": "uttamapuruzaH",
+      "vachana": "bahuvacanam",
+      "examples": [
+        {
+          "book": "SfNgAraSatakam",
+          "reference": "22",
+          "text": "ASAsmahe vigrahayoraBedam",
+          "external": ""
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {
+    "AN": {
+      "prefix": "AN",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "ASAsizIzwa",
+            "ASAsizIyAstAm",
+            "ASAsizIran",
+            "ASAsizIzWAH",
+            "ASAsizIyAsTAm",
+            "ASAsizIDvam",
+            "ASAsizIya",
+            "ASAsizIvahi",
+            "ASAsizImahi"
+          ],
+          "alang": [
+            "ASAsta",
+            "ASAsAtAm",
+            "ASAsata",
+            "ASAsTAH",
+            "ASAsATAm",
+            "ASADvam",
+            "ASAsi",
+            "ASAsvahi",
+            "ASAsmahi"
+          ],
+          "alat": [
+            "ASAste",
+            "ASAsAte",
+            "ASAsate",
+            "ASAsse",
+            "ASAsATe",
+            "ASADve",
+            "ASAse",
+            "ASAsvahe",
+            "ASAsmahe"
+          ],
+          "alit": [
+            "ASaSAse",
+            "ASaSAsAte",
+            "ASaSAsire",
+            "ASaSAsize",
+            "ASaSAsATe",
+            "ASaSAsiDve",
+            "ASaSAse",
+            "ASaSAsivahe",
+            "ASaSAsimahe"
+          ],
+          "alot": [
+            "ASAstAm",
+            "ASAsAtAm",
+            "ASAsatAm",
+            "ASAssva",
+            "ASAsATAm",
+            "ASADvam",
+            "ASAsE",
+            "ASAsAvahE",
+            "ASAsAmahE"
+          ],
+          "alrung": [
+            "ASAsizyata",
+            "ASAsizyetAm",
+            "ASAsizyanta",
+            "ASAsizyaTAH",
+            "ASAsizyeTAm",
+            "ASAsizyaDvam",
+            "ASAsizye",
+            "ASAsizyAvahi",
+            "ASAsizyAmahi"
+          ],
+          "alrut": [
+            "ASAsizyate",
+            "ASAsizyete",
+            "ASAsizyante",
+            "ASAsizyase",
+            "ASAsizyeTe",
+            "ASAsizyaDve",
+            "ASAsizye",
+            "ASAsizyAvahe",
+            "ASAsizyAmahe"
+          ],
+          "alung": [
+            "ASAsizwa",
+            "ASAsizAtAm",
+            "ASAsizata",
+            "ASAsizWAH",
+            "ASAsizATAm",
+            "ASAsiDvam",
+            "ASAsizi",
+            "ASAsizvahi",
+            "ASAsizmahi"
+          ],
+          "alut": [
+            "ASAsitA",
+            "ASAsitArO",
+            "ASAsitAraH",
+            "ASAsitAse",
+            "ASAsitAsATe",
+            "ASAsitADve",
+            "ASAsitAhe",
+            "ASAsitAsvahe",
+            "ASAsitAsmahe"
+          ],
+          "avidhiling": [
+            "ASAsIta",
+            "ASAsIyAtAm",
+            "ASAsIran",
+            "ASAsITAH",
+            "ASAsIyATAm",
+            "ASAsIDvam",
+            "ASAsIya",
+            "ASAsIvahi",
+            "ASAsImahi"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "ASAsizIzwa",
+            "ASAsizIyAstAm",
+            "ASAsizIran",
+            "ASAsizIzWAH",
+            "ASAsizIyAsTAm",
+            "ASAsizIDvam",
+            "ASAsizIya",
+            "ASAsizIvahi",
+            "ASAsizImahi"
+          ],
+          "alang": [
+            "ASAsyata",
+            "ASAsyetAm",
+            "ASAsyanta",
+            "ASAsyaTAH",
+            "ASAsyeTAm",
+            "ASAsyaDvam",
+            "ASAsye",
+            "ASAsyAvahi",
+            "ASAsyAmahi"
+          ],
+          "alat": [
+            "ASAsyate",
+            "ASAsyete",
+            "ASAsyante",
+            "ASAsyase",
+            "ASAsyeTe",
+            "ASAsyaDve",
+            "ASAsye",
+            "ASAsyAvahe",
+            "ASAsyAmahe"
+          ],
+          "alit": [
+            "ASaSAse",
+            "ASaSAsAte",
+            "ASaSAsire",
+            "ASaSAsize",
+            "ASaSAsATe",
+            "ASaSAsiDve",
+            "ASaSAse",
+            "ASaSAsivahe",
+            "ASaSAsimahe"
+          ],
+          "alot": [
+            "ASAsyatAm",
+            "ASAsyetAm",
+            "ASAsyantAm",
+            "ASAsyasva",
+            "ASAsyeTAm",
+            "ASAsyaDvam",
+            "ASAsyE",
+            "ASAsyAvahE",
+            "ASAsyAmahE"
+          ],
+          "alrung": [
+            "ASAsizyata",
+            "ASAsizyetAm",
+            "ASAsizyanta",
+            "ASAsizyaTAH",
+            "ASAsizyeTAm",
+            "ASAsizyaDvam",
+            "ASAsizye",
+            "ASAsizyAvahi",
+            "ASAsizyAmahi"
+          ],
+          "alrut": [
+            "ASAsizyate",
+            "ASAsizyete",
+            "ASAsizyante",
+            "ASAsizyase",
+            "ASAsizyeTe",
+            "ASAsizyaDve",
+            "ASAsizye",
+            "ASAsizyAvahe",
+            "ASAsizyAmahe"
+          ],
+          "alung": [
+            "ASAsi",
+            "ASAsizAtAm",
+            "ASAsizata",
+            "ASAsizWAH",
+            "ASAsizATAm",
+            "ASAsiDvam",
+            "ASAsizi",
+            "ASAsizvahi",
+            "ASAsizmahi"
+          ],
+          "alut": [
+            "ASAsitA",
+            "ASAsitArO",
+            "ASAsitAraH",
+            "ASAsitAse",
+            "ASAsitAsATe",
+            "ASAsitADve",
+            "ASAsitAhe",
+            "ASAsitAsvahe",
+            "ASAsitAsmahe"
+          ],
+          "avidhiling": [
+            "ASAsyeta",
+            "ASAsyeyAtAm",
+            "ASAsyeran",
+            "ASAsyeTAH",
+            "ASAsyeyATAm",
+            "ASAsyeDvam",
+            "ASAsyeya",
+            "ASAsyevahi",
+            "ASAsyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "ASiSAsizizIzwa",
+            "ASiSAsizizIyAstAm",
+            "ASiSAsizizIran",
+            "ASiSAsizizIzWAH",
+            "ASiSAsizizIyAsTAm",
+            "ASiSAsizizIDvam",
+            "ASiSAsizizIya",
+            "ASiSAsizizIvahi",
+            "ASiSAsizizImahi"
+          ],
+          "alang": [
+            "ASiSAsizata",
+            "ASiSAsizetAm",
+            "ASiSAsizanta",
+            "ASiSAsizaTAH",
+            "ASiSAsizeTAm",
+            "ASiSAsizaDvam",
+            "ASiSAsize",
+            "ASiSAsizAvahi",
+            "ASiSAsizAmahi"
+          ],
+          "alat": [
+            "ASiSAsizate",
+            "ASiSAsizete",
+            "ASiSAsizante",
+            "ASiSAsizase",
+            "ASiSAsizeTe",
+            "ASiSAsizaDve",
+            "ASiSAsize",
+            "ASiSAsizAvahe",
+            "ASiSAsizAmahe"
+          ],
+          "alit": [
+            "ASiSAsizAmbaBUva",
+            "ASiSAsizAmAsa",
+            "ASiSAsizAYcakre",
+            "ASiSAsizAmbaBUvatuH",
+            "ASiSAsizAmAsatuH",
+            "ASiSAsizAYcakrAte",
+            "ASiSAsizAmbaBUvuH",
+            "ASiSAsizAmAsuH",
+            "ASiSAsizAYcakrire",
+            "ASiSAsizAmbaBUviTa",
+            "ASiSAsizAmAsiTa",
+            "ASiSAsizAYcakfze",
+            "ASiSAsizAmbaBUvaTuH",
+            "ASiSAsizAmAsaTuH",
+            "ASiSAsizAYcakrATe",
+            "ASiSAsizAmbaBUva",
+            "ASiSAsizAmAsa",
+            "ASiSAsizAYcakfQve",
+            "ASiSAsizAmbaBUva",
+            "ASiSAsizAmAsa",
+            "ASiSAsizAYcakre",
+            "ASiSAsizAmbaBUviva",
+            "ASiSAsizAmAsiva",
+            "ASiSAsizAYcakfvahe",
+            "ASiSAsizAmbaBUvima",
+            "ASiSAsizAmAsima",
+            "ASiSAsizAYcakfmahe"
+          ],
+          "alot": [
+            "ASiSAsizatAm",
+            "ASiSAsizetAm",
+            "ASiSAsizantAm",
+            "ASiSAsizasva",
+            "ASiSAsizeTAm",
+            "ASiSAsizaDvam",
+            "ASiSAsizE",
+            "ASiSAsizAvahE",
+            "ASiSAsizAmahE"
+          ],
+          "alrung": [
+            "ASiSAsizizyata",
+            "ASiSAsizizyetAm",
+            "ASiSAsizizyanta",
+            "ASiSAsizizyaTAH",
+            "ASiSAsizizyeTAm",
+            "ASiSAsizizyaDvam",
+            "ASiSAsizizye",
+            "ASiSAsizizyAvahi",
+            "ASiSAsizizyAmahi"
+          ],
+          "alrut": [
+            "ASiSAsizizyate",
+            "ASiSAsizizyete",
+            "ASiSAsizizyante",
+            "ASiSAsizizyase",
+            "ASiSAsizizyeTe",
+            "ASiSAsizizyaDve",
+            "ASiSAsizizye",
+            "ASiSAsizizyAvahe",
+            "ASiSAsizizyAmahe"
+          ],
+          "alung": [
+            "ASiSAsizizwa",
+            "ASiSAsizizAtAm",
+            "ASiSAsizizata",
+            "ASiSAsizizWAH",
+            "ASiSAsizizATAm",
+            "ASiSAsiziDvam",
+            "ASiSAsizizi",
+            "ASiSAsizizvahi",
+            "ASiSAsizizmahi"
+          ],
+          "alut": [
+            "ASiSAsizitA",
+            "ASiSAsizitArO",
+            "ASiSAsizitAraH",
+            "ASiSAsizitAse",
+            "ASiSAsizitAsATe",
+            "ASiSAsizitADve",
+            "ASiSAsizitAhe",
+            "ASiSAsizitAsvahe",
+            "ASiSAsizitAsmahe"
+          ],
+          "avidhiling": [
+            "ASiSAsizeta",
+            "ASiSAsizeyAtAm",
+            "ASiSAsizeran",
+            "ASiSAsizeTAH",
+            "ASiSAsizeyATAm",
+            "ASiSAsizeDvam",
+            "ASiSAsizeya",
+            "ASiSAsizevahi",
+            "ASiSAsizemahi"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "ASiSAsizizIzwa",
+            "ASiSAsizizIyAstAm",
+            "ASiSAsizizIran",
+            "ASiSAsizizIzWAH",
+            "ASiSAsizizIyAsTAm",
+            "ASiSAsizizIDvam",
+            "ASiSAsizizIya",
+            "ASiSAsizizIvahi",
+            "ASiSAsizizImahi"
+          ],
+          "alang": [
+            "ASiSAsizyata",
+            "ASiSAsizyetAm",
+            "ASiSAsizyanta",
+            "ASiSAsizyaTAH",
+            "ASiSAsizyeTAm",
+            "ASiSAsizyaDvam",
+            "ASiSAsizye",
+            "ASiSAsizyAvahi",
+            "ASiSAsizyAmahi"
+          ],
+          "alat": [
+            "ASiSAsizyate",
+            "ASiSAsizyete",
+            "ASiSAsizyante",
+            "ASiSAsizyase",
+            "ASiSAsizyeTe",
+            "ASiSAsizyaDve",
+            "ASiSAsizye",
+            "ASiSAsizyAvahe",
+            "ASiSAsizyAmahe"
+          ],
+          "alit": [
+            "ASiSAsizAmbaBUve",
+            "ASiSAsizAmAse",
+            "ASiSAsizAYcakre",
+            "ASiSAsizAmbaBUvAte",
+            "ASiSAsizAmAsAte",
+            "ASiSAsizAYcakrAte",
+            "ASiSAsizAmbaBUvire",
+            "ASiSAsizAmAsire",
+            "ASiSAsizAYcakrire",
+            "ASiSAsizAmbaBUvize",
+            "ASiSAsizAmAsize",
+            "ASiSAsizAYcakfze",
+            "ASiSAsizAmbaBUvATe",
+            "ASiSAsizAmAsATe",
+            "ASiSAsizAYcakrATe",
+            "ASiSAsizAmbaBUviQve",
+            "ASiSAsizAmAsiDve",
+            "ASiSAsizAYcakfQve",
+            "ASiSAsizAmbaBUve",
+            "ASiSAsizAmAhe",
+            "ASiSAsizAYcakre",
+            "ASiSAsizAmbaBUvivahe",
+            "ASiSAsizAmAsivahe",
+            "ASiSAsizAYcakfvahe",
+            "ASiSAsizAmbaBUvimahe",
+            "ASiSAsizAmAsimahe",
+            "ASiSAsizAYcakfmahe"
+          ],
+          "alot": [
+            "ASiSAsizyatAm",
+            "ASiSAsizyetAm",
+            "ASiSAsizyantAm",
+            "ASiSAsizyasva",
+            "ASiSAsizyeTAm",
+            "ASiSAsizyaDvam",
+            "ASiSAsizyE",
+            "ASiSAsizyAvahE",
+            "ASiSAsizyAmahE"
+          ],
+          "alrung": [
+            "ASiSAsizizyata",
+            "ASiSAsizizyetAm",
+            "ASiSAsizizyanta",
+            "ASiSAsizizyaTAH",
+            "ASiSAsizizyeTAm",
+            "ASiSAsizizyaDvam",
+            "ASiSAsizizye",
+            "ASiSAsizizyAvahi",
+            "ASiSAsizizyAmahi"
+          ],
+          "alrut": [
+            "ASiSAsizizyate",
+            "ASiSAsizizyete",
+            "ASiSAsizizyante",
+            "ASiSAsizizyase",
+            "ASiSAsizizyeTe",
+            "ASiSAsizizyaDve",
+            "ASiSAsizizye",
+            "ASiSAsizizyAvahe",
+            "ASiSAsizizyAmahe"
+          ],
+          "alung": [
+            "ASiSAsizi",
+            "ASiSAsizizAtAm",
+            "ASiSAsizizata",
+            "ASiSAsizizWAH",
+            "ASiSAsizizATAm",
+            "ASiSAsiziDvam",
+            "ASiSAsizizi",
+            "ASiSAsizizvahi",
+            "ASiSAsizizmahi"
+          ],
+          "alut": [
+            "ASiSAsizitA",
+            "ASiSAsizitArO",
+            "ASiSAsizitAraH",
+            "ASiSAsizitAse",
+            "ASiSAsizitAsATe",
+            "ASiSAsizitADve",
+            "ASiSAsizitAhe",
+            "ASiSAsizitAsvahe",
+            "ASiSAsizitAsmahe"
+          ],
+          "avidhiling": [
+            "ASiSAsizyeta",
+            "ASiSAsizyeyAtAm",
+            "ASiSAsizyeran",
+            "ASiSAsizyeTAH",
+            "ASiSAsizyeyATAm",
+            "ASiSAsizyeDvam",
+            "ASiSAsizyeya",
+            "ASiSAsizyevahi",
+            "ASiSAsizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "ASAsayizIzwa",
+            "ASAsayizIyAstAm",
+            "ASAsayizIran",
+            "ASAsayizIzWAH",
+            "ASAsayizIyAsTAm",
+            "ASAsayizIQvam",
+            "ASAsayizIDvam",
+            "ASAsayizIya",
+            "ASAsayizIvahi",
+            "ASAsayizImahi"
+          ],
+          "alang": [
+            "ASAsayata",
+            "ASAsayetAm",
+            "ASAsayanta",
+            "ASAsayaTAH",
+            "ASAsayeTAm",
+            "ASAsayaDvam",
+            "ASAsaye",
+            "ASAsayAvahi",
+            "ASAsayAmahi"
+          ],
+          "alat": [
+            "ASAsayate",
+            "ASAsayete",
+            "ASAsayante",
+            "ASAsayase",
+            "ASAsayeTe",
+            "ASAsayaDve",
+            "ASAsaye",
+            "ASAsayAvahe",
+            "ASAsayAmahe"
+          ],
+          "alit": [
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakre",
+            "ASAsayAmbaBUvatuH",
+            "ASAsayAmAsatuH",
+            "ASAsayAYcakrAte",
+            "ASAsayAmbaBUvuH",
+            "ASAsayAmAsuH",
+            "ASAsayAYcakrire",
+            "ASAsayAmbaBUviTa",
+            "ASAsayAmAsiTa",
+            "ASAsayAYcakfze",
+            "ASAsayAmbaBUvaTuH",
+            "ASAsayAmAsaTuH",
+            "ASAsayAYcakrATe",
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakfQve",
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakre",
+            "ASAsayAmbaBUviva",
+            "ASAsayAmAsiva",
+            "ASAsayAYcakfvahe",
+            "ASAsayAmbaBUvima",
+            "ASAsayAmAsima",
+            "ASAsayAYcakfmahe"
+          ],
+          "alot": [
+            "ASAsayatAm",
+            "ASAsayetAm",
+            "ASAsayantAm",
+            "ASAsayasva",
+            "ASAsayeTAm",
+            "ASAsayaDvam",
+            "ASAsayE",
+            "ASAsayAvahE",
+            "ASAsayAmahE"
+          ],
+          "alrung": [
+            "ASAsayizyata",
+            "ASAsayizyetAm",
+            "ASAsayizyanta",
+            "ASAsayizyaTAH",
+            "ASAsayizyeTAm",
+            "ASAsayizyaDvam",
+            "ASAsayizye",
+            "ASAsayizyAvahi",
+            "ASAsayizyAmahi"
+          ],
+          "alrut": [
+            "ASAsayizyate",
+            "ASAsayizyete",
+            "ASAsayizyante",
+            "ASAsayizyase",
+            "ASAsayizyeTe",
+            "ASAsayizyaDve",
+            "ASAsayizye",
+            "ASAsayizyAvahe",
+            "ASAsayizyAmahe"
+          ],
+          "alung": [
+            "ASaSAsata",
+            "ASaSAsetAm",
+            "ASaSAsanta",
+            "ASaSAsaTAH",
+            "ASaSAseTAm",
+            "ASaSAsaDvam",
+            "ASaSAse",
+            "ASaSAsAvahi",
+            "ASaSAsAmahi"
+          ],
+          "alut": [
+            "ASAsayitA",
+            "ASAsayitArO",
+            "ASAsayitAraH",
+            "ASAsayitAse",
+            "ASAsayitAsATe",
+            "ASAsayitADve",
+            "ASAsayitAhe",
+            "ASAsayitAsvahe",
+            "ASAsayitAsmahe"
+          ],
+          "avidhiling": [
+            "ASAsayeta",
+            "ASAsayeyAtAm",
+            "ASAsayeran",
+            "ASAsayeTAH",
+            "ASAsayeyATAm",
+            "ASAsayeDvam",
+            "ASAsayeya",
+            "ASAsayevahi",
+            "ASAsayemahi"
+          ],
+          "pashirling": [
+            "ASAsyAt",
+            "ASAsyAd",
+            "ASAsyAstAm",
+            "ASAsyAsuH",
+            "ASAsyAH",
+            "ASAsyAstam",
+            "ASAsyAsta",
+            "ASAsyAsam",
+            "ASAsyAsva",
+            "ASAsyAsma"
+          ],
+          "plang": [
+            "ASAsayat",
+            "ASAsayad",
+            "ASAsayatAm",
+            "ASAsayan",
+            "ASAsayaH",
+            "ASAsayatam",
+            "ASAsayata",
+            "ASAsayam",
+            "ASAsayAva",
+            "ASAsayAma"
+          ],
+          "plat": [
+            "ASAsayati",
+            "ASAsayataH",
+            "ASAsayanti",
+            "ASAsayasi",
+            "ASAsayaTaH",
+            "ASAsayaTa",
+            "ASAsayAmi",
+            "ASAsayAvaH",
+            "ASAsayAmaH"
+          ],
+          "plit": [
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakAra",
+            "ASAsayAmbaBUvatuH",
+            "ASAsayAmAsatuH",
+            "ASAsayAYcakratuH",
+            "ASAsayAmbaBUvuH",
+            "ASAsayAmAsuH",
+            "ASAsayAYcakruH",
+            "ASAsayAmbaBUviTa",
+            "ASAsayAmAsiTa",
+            "ASAsayAYcakarTa",
+            "ASAsayAmbaBUvaTuH",
+            "ASAsayAmAsaTuH",
+            "ASAsayAYcakraTuH",
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakra",
+            "ASAsayAmbaBUva",
+            "ASAsayAmAsa",
+            "ASAsayAYcakara",
+            "ASAsayAYcakAra",
+            "ASAsayAmbaBUviva",
+            "ASAsayAmAsiva",
+            "ASAsayAYcakfva",
+            "ASAsayAmbaBUvima",
+            "ASAsayAmAsima",
+            "ASAsayAYcakfma"
+          ],
+          "plot": [
+            "ASAsayatAt",
+            "ASAsayatAd",
+            "ASAsayatu",
+            "ASAsayatAm",
+            "ASAsayantu",
+            "ASAsayatAt",
+            "ASAsayatAd",
+            "ASAsaya",
+            "ASAsayatam",
+            "ASAsayata",
+            "ASAsayAni",
+            "ASAsayAva",
+            "ASAsayAma"
+          ],
+          "plrung": [
+            "ASAsayizyat",
+            "ASAsayizyad",
+            "ASAsayizyatAm",
+            "ASAsayizyan",
+            "ASAsayizyaH",
+            "ASAsayizyatam",
+            "ASAsayizyata",
+            "ASAsayizyam",
+            "ASAsayizyAva",
+            "ASAsayizyAma"
+          ],
+          "plrut": [
+            "ASAsayizyati",
+            "ASAsayizyataH",
+            "ASAsayizyanti",
+            "ASAsayizyasi",
+            "ASAsayizyaTaH",
+            "ASAsayizyaTa",
+            "ASAsayizyAmi",
+            "ASAsayizyAvaH",
+            "ASAsayizyAmaH"
+          ],
+          "plung": [
+            "ASaSAsat",
+            "ASaSAsad",
+            "ASaSAsatAm",
+            "ASaSAsan",
+            "ASaSAsaH",
+            "ASaSAsatam",
+            "ASaSAsata",
+            "ASaSAsam",
+            "ASaSAsAva",
+            "ASaSAsAma"
+          ],
+          "plut": [
+            "ASAsayitA",
+            "ASAsayitArO",
+            "ASAsayitAraH",
+            "ASAsayitAsi",
+            "ASAsayitAsTaH",
+            "ASAsayitAsTa",
+            "ASAsayitAsmi",
+            "ASAsayitAsvaH",
+            "ASAsayitAsmaH"
+          ],
+          "pvidhiling": [
+            "ASAsayet",
+            "ASAsayed",
+            "ASAsayetAm",
+            "ASAsayeyuH",
+            "ASAsayeH",
+            "ASAsayetam",
+            "ASAsayeta",
+            "ASAsayeyam",
+            "ASAsayeva",
+            "ASAsayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "ASAsizIzwa",
+            "ASAsayizIzwa",
+            "ASAsizIyAstAm",
+            "ASAsayizIyAstAm",
+            "ASAsizIran",
+            "ASAsayizIran",
+            "ASAsizIzWAH",
+            "ASAsayizIzWAH",
+            "ASAsizIyAsTAm",
+            "ASAsayizIyAsTAm",
+            "ASAsizIDvam",
+            "ASAsayizIQvam",
+            "ASAsayizIDvam",
+            "ASAsizIya",
+            "ASAsayizIya",
+            "ASAsizIvahi",
+            "ASAsayizIvahi",
+            "ASAsizImahi",
+            "ASAsayizImahi"
+          ],
+          "alang": [
+            "ASAsyata",
+            "ASAsyetAm",
+            "ASAsyanta",
+            "ASAsyaTAH",
+            "ASAsyeTAm",
+            "ASAsyaDvam",
+            "ASAsye",
+            "ASAsyAvahi",
+            "ASAsyAmahi"
+          ],
+          "alat": [
+            "ASAsyate",
+            "ASAsyete",
+            "ASAsyante",
+            "ASAsyase",
+            "ASAsyeTe",
+            "ASAsyaDve",
+            "ASAsye",
+            "ASAsyAvahe",
+            "ASAsyAmahe"
+          ],
+          "alit": [
+            "ASAsayAmbaBUve",
+            "ASAsayAmAse",
+            "ASAsayAYcakre",
+            "ASAsayAmbaBUvAte",
+            "ASAsayAmAsAte",
+            "ASAsayAYcakrAte",
+            "ASAsayAmbaBUvire",
+            "ASAsayAmAsire",
+            "ASAsayAYcakrire",
+            "ASAsayAmbaBUvize",
+            "ASAsayAmAsize",
+            "ASAsayAYcakfze",
+            "ASAsayAmbaBUvATe",
+            "ASAsayAmAsATe",
+            "ASAsayAYcakrATe",
+            "ASAsayAmbaBUviQve",
+            "ASAsayAmAsiDve",
+            "ASAsayAYcakfQve",
+            "ASAsayAmbaBUve",
+            "ASAsayAmAhe",
+            "ASAsayAYcakre",
+            "ASAsayAmbaBUvivahe",
+            "ASAsayAmAsivahe",
+            "ASAsayAYcakfvahe",
+            "ASAsayAmbaBUvimahe",
+            "ASAsayAmAsimahe",
+            "ASAsayAYcakfmahe"
+          ],
+          "alot": [
+            "ASAsyatAm",
+            "ASAsyetAm",
+            "ASAsyantAm",
+            "ASAsyasva",
+            "ASAsyeTAm",
+            "ASAsyaDvam",
+            "ASAsyE",
+            "ASAsyAvahE",
+            "ASAsyAmahE"
+          ],
+          "alrung": [
+            "ASAsizyata",
+            "ASAsayizyata",
+            "ASAsizyetAm",
+            "ASAsayizyetAm",
+            "ASAsizyanta",
+            "ASAsayizyanta",
+            "ASAsizyaTAH",
+            "ASAsayizyaTAH",
+            "ASAsizyeTAm",
+            "ASAsayizyeTAm",
+            "ASAsizyaDvam",
+            "ASAsayizyaDvam",
+            "ASAsizye",
+            "ASAsayizye",
+            "ASAsizyAvahi",
+            "ASAsayizyAvahi",
+            "ASAsizyAmahi",
+            "ASAsayizyAmahi"
+          ],
+          "alrut": [
+            "ASAsizyate",
+            "ASAsayizyate",
+            "ASAsizyete",
+            "ASAsayizyete",
+            "ASAsizyante",
+            "ASAsayizyante",
+            "ASAsizyase",
+            "ASAsayizyase",
+            "ASAsizyeTe",
+            "ASAsayizyeTe",
+            "ASAsizyaDve",
+            "ASAsayizyaDve",
+            "ASAsizye",
+            "ASAsayizye",
+            "ASAsizyAvahe",
+            "ASAsayizyAvahe",
+            "ASAsizyAmahe",
+            "ASAsayizyAmahe"
+          ],
+          "alung": [
+            "ASAsi",
+            "ASAsizAtAm",
+            "ASAsayizAtAm",
+            "ASAsizata",
+            "ASAsayizata",
+            "ASAsizWAH",
+            "ASAsayizWAH",
+            "ASAsizATAm",
+            "ASAsayizATAm",
+            "ASAsiDvam",
+            "ASAsayiQvam",
+            "ASAsayiDvam",
+            "ASAsizi",
+            "ASAsayizi",
+            "ASAsizvahi",
+            "ASAsayizvahi",
+            "ASAsizmahi",
+            "ASAsayizmahi"
+          ],
+          "alut": [
+            "ASAsitA",
+            "ASAsayitA",
+            "ASAsitArO",
+            "ASAsayitArO",
+            "ASAsitAraH",
+            "ASAsayitAraH",
+            "ASAsitAse",
+            "ASAsayitAse",
+            "ASAsitAsATe",
+            "ASAsayitAsATe",
+            "ASAsitADve",
+            "ASAsayitADve",
+            "ASAsitAhe",
+            "ASAsayitAhe",
+            "ASAsitAsvahe",
+            "ASAsayitAsvahe",
+            "ASAsitAsmahe",
+            "ASAsayitAsmahe"
+          ],
+          "avidhiling": [
+            "ASAsyeta",
+            "ASAsyeyAtAm",
+            "ASAsyeran",
+            "ASAsyeTAH",
+            "ASAsyeyATAm",
+            "ASAsyeDvam",
+            "ASAsyeya",
+            "ASAsyevahi",
+            "ASAsyemahi"
+          ]
+        },
+        "yang": {
+          "aashirling": [
+            "ASASAsizIzwa",
+            "ASASAsizIyAstAm",
+            "ASASAsizIran",
+            "ASASAsizIzWAH",
+            "ASASAsizIyAsTAm",
+            "ASASAsizIDvam",
+            "ASASAsizIya",
+            "ASASAsizIvahi",
+            "ASASAsizImahi"
+          ],
+          "alang": [
+            "ASASAsyata",
+            "ASASAsyetAm",
+            "ASASAsyanta",
+            "ASASAsyaTAH",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsye",
+            "ASASAsyAvahi",
+            "ASASAsyAmahi"
+          ],
+          "alat": [
+            "ASASAsyate",
+            "ASASAsyete",
+            "ASASAsyante",
+            "ASASAsyase",
+            "ASASAsyeTe",
+            "ASASAsyaDve",
+            "ASASAsye",
+            "ASASAsyAvahe",
+            "ASASAsyAmahe"
+          ],
+          "alit": [
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUvatuH",
+            "ASASAsAmAsatuH",
+            "ASASAsAYcakrAte",
+            "ASASAsAmbaBUvuH",
+            "ASASAsAmAsuH",
+            "ASASAsAYcakrire",
+            "ASASAsAmbaBUviTa",
+            "ASASAsAmAsiTa",
+            "ASASAsAYcakfze",
+            "ASASAsAmbaBUvaTuH",
+            "ASASAsAmAsaTuH",
+            "ASASAsAYcakrATe",
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakfQve",
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUviva",
+            "ASASAsAmAsiva",
+            "ASASAsAYcakfvahe",
+            "ASASAsAmbaBUvima",
+            "ASASAsAmAsima",
+            "ASASAsAYcakfmahe"
+          ],
+          "alot": [
+            "ASASAsyatAm",
+            "ASASAsyetAm",
+            "ASASAsyantAm",
+            "ASASAsyasva",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsyE",
+            "ASASAsyAvahE",
+            "ASASAsyAmahE"
+          ],
+          "alrung": [
+            "ASASAsizyata",
+            "ASASAsizyetAm",
+            "ASASAsizyanta",
+            "ASASAsizyaTAH",
+            "ASASAsizyeTAm",
+            "ASASAsizyaDvam",
+            "ASASAsizye",
+            "ASASAsizyAvahi",
+            "ASASAsizyAmahi"
+          ],
+          "alrut": [
+            "ASASAsizyate",
+            "ASASAsizyete",
+            "ASASAsizyante",
+            "ASASAsizyase",
+            "ASASAsizyeTe",
+            "ASASAsizyaDve",
+            "ASASAsizye",
+            "ASASAsizyAvahe",
+            "ASASAsizyAmahe"
+          ],
+          "alung": [
+            "ASASAsizwa",
+            "ASASAsizAtAm",
+            "ASASAsizata",
+            "ASASAsizWAH",
+            "ASASAsizATAm",
+            "ASASAsiDvam",
+            "ASASAsizi",
+            "ASASAsizvahi",
+            "ASASAsizmahi"
+          ],
+          "alut": [
+            "ASASAsitA",
+            "ASASAsitArO",
+            "ASASAsitAraH",
+            "ASASAsitAse",
+            "ASASAsitAsATe",
+            "ASASAsitADve",
+            "ASASAsitAhe",
+            "ASASAsitAsvahe",
+            "ASASAsitAsmahe"
+          ],
+          "avidhiling": [
+            "ASASAsyeta",
+            "ASASAsyeyAtAm",
+            "ASASAsyeran",
+            "ASASAsyeTAH",
+            "ASASAsyeyATAm",
+            "ASASAsyeDvam",
+            "ASASAsyeya",
+            "ASASAsyevahi",
+            "ASASAsyemahi"
+          ]
+        },
+        "yang_yak": {
+          "aashirling": [
+            "ASASAsizIzwa",
+            "ASASAsizIyAstAm",
+            "ASASAsizIran",
+            "ASASAsizIzWAH",
+            "ASASAsizIyAsTAm",
+            "ASASAsizIDvam",
+            "ASASAsizIya",
+            "ASASAsizIvahi",
+            "ASASAsizImahi"
+          ],
+          "alang": [
+            "ASASAsyata",
+            "ASASAsyetAm",
+            "ASASAsyanta",
+            "ASASAsyaTAH",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsye",
+            "ASASAsyAvahi",
+            "ASASAsyAmahi"
+          ],
+          "alat": [
+            "ASASAsyate",
+            "ASASAsyete",
+            "ASASAsyante",
+            "ASASAsyase",
+            "ASASAsyeTe",
+            "ASASAsyaDve",
+            "ASASAsye",
+            "ASASAsyAvahe",
+            "ASASAsyAmahe"
+          ],
+          "alit": [
+            "ASASAsAmbaBUve",
+            "ASASAsAmAse",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUvAte",
+            "ASASAsAmAsAte",
+            "ASASAsAYcakrAte",
+            "ASASAsAmbaBUvire",
+            "ASASAsAmAsire",
+            "ASASAsAYcakrire",
+            "ASASAsAmbaBUvize",
+            "ASASAsAmAsize",
+            "ASASAsAYcakfze",
+            "ASASAsAmbaBUvATe",
+            "ASASAsAmAsATe",
+            "ASASAsAYcakrATe",
+            "ASASAsAmbaBUviQve",
+            "ASASAsAmAsiDve",
+            "ASASAsAYcakfQve",
+            "ASASAsAmbaBUve",
+            "ASASAsAmAhe",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUvivahe",
+            "ASASAsAmAsivahe",
+            "ASASAsAYcakfvahe",
+            "ASASAsAmbaBUvimahe",
+            "ASASAsAmAsimahe",
+            "ASASAsAYcakfmahe"
+          ],
+          "alot": [
+            "ASASAsyatAm",
+            "ASASAsyetAm",
+            "ASASAsyantAm",
+            "ASASAsyasva",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsyE",
+            "ASASAsyAvahE",
+            "ASASAsyAmahE"
+          ],
+          "alrung": [
+            "ASASAsizyata",
+            "ASASAsizyetAm",
+            "ASASAsizyanta",
+            "ASASAsizyaTAH",
+            "ASASAsizyeTAm",
+            "ASASAsizyaDvam",
+            "ASASAsizye",
+            "ASASAsizyAvahi",
+            "ASASAsizyAmahi"
+          ],
+          "alrut": [
+            "ASASAsizyate",
+            "ASASAsizyete",
+            "ASASAsizyante",
+            "ASASAsizyase",
+            "ASASAsizyeTe",
+            "ASASAsizyaDve",
+            "ASASAsizye",
+            "ASASAsizyAvahe",
+            "ASASAsizyAmahe"
+          ],
+          "alung": [
+            "ASASAsi",
+            "ASASAsizAtAm",
+            "ASASAsizata",
+            "ASASAsizWAH",
+            "ASASAsizATAm",
+            "ASASAsiDvam",
+            "ASASAsizi",
+            "ASASAsizvahi",
+            "ASASAsizmahi"
+          ],
+          "alut": [
+            "ASASAsitA",
+            "ASASAsitArO",
+            "ASASAsitAraH",
+            "ASASAsitAse",
+            "ASASAsitAsATe",
+            "ASASAsitADve",
+            "ASASAsitAhe",
+            "ASASAsitAsvahe",
+            "ASASAsitAsmahe"
+          ],
+          "avidhiling": [
+            "ASASAsyeta",
+            "ASASAsyeyAtAm",
+            "ASASAsyeran",
+            "ASASAsyeTAH",
+            "ASASAsyeyATAm",
+            "ASASAsyeDvam",
+            "ASASAsyeya",
+            "ASASAsyevahi",
+            "ASASAsyemahi"
+          ]
+        },
+        "yangluk": {
+          "pashirling": [
+            "ASASAsyAt",
+            "ASASAsyAd",
+            "ASASAsyAstAm",
+            "ASASAsyAsuH",
+            "ASASAsyAH",
+            "ASASAsyAstam",
+            "ASASAsyAsta",
+            "ASASAsyAsam",
+            "ASASAsyAsva",
+            "ASASAsyAsma"
+          ],
+          "plang": [
+            "ASASAsIt",
+            "ASASAsId",
+            "ASASAt",
+            "ASASAd",
+            "ASASAstAm",
+            "ASASAsuH",
+            "ASASAsIH",
+            "ASASAt",
+            "ASASAd",
+            "ASASAH",
+            "ASASAstam",
+            "ASASAsta",
+            "ASASAsam",
+            "ASASAsva",
+            "ASASAsma"
+          ],
+          "plat": [
+            "ASASAsIti",
+            "ASASAsti",
+            "ASASAstaH",
+            "ASASAsati",
+            "ASASAsIzi",
+            "ASASAssi",
+            "ASASAsTaH",
+            "ASASAsTa",
+            "ASASAsImi",
+            "ASASAsmi",
+            "ASASAsvaH",
+            "ASASAsmaH"
+          ],
+          "plit": [
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakAra",
+            "ASASAsAmbaBUvatuH",
+            "ASASAsAmAsatuH",
+            "ASASAsAYcakratuH",
+            "ASASAsAmbaBUvuH",
+            "ASASAsAmAsuH",
+            "ASASAsAYcakruH",
+            "ASASAsAmbaBUviTa",
+            "ASASAsAmAsiTa",
+            "ASASAsAYcakarTa",
+            "ASASAsAmbaBUvaTuH",
+            "ASASAsAmAsaTuH",
+            "ASASAsAYcakraTuH",
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakra",
+            "ASASAsAmbaBUva",
+            "ASASAsAmAsa",
+            "ASASAsAYcakara",
+            "ASASAsAYcakAra",
+            "ASASAsAmbaBUviva",
+            "ASASAsAmAsiva",
+            "ASASAsAYcakfva",
+            "ASASAsAmbaBUvima",
+            "ASASAsAmAsima",
+            "ASASAsAYcakfma"
+          ],
+          "plot": [
+            "ASASAstAt",
+            "ASASAstAd",
+            "ASASAsItu",
+            "ASASAstu",
+            "ASASAstAm",
+            "ASASAsatu",
+            "ASASAstAt",
+            "ASASAstAd",
+            "ASASADi",
+            "ASASAstam",
+            "ASASAsta",
+            "ASASAsAni",
+            "ASASAsAva",
+            "ASASAsAma"
+          ],
+          "plrung": [
+            "ASASAsizyat",
+            "ASASAsizyad",
+            "ASASAsizyatAm",
+            "ASASAsizyan",
+            "ASASAsizyaH",
+            "ASASAsizyatam",
+            "ASASAsizyata",
+            "ASASAsizyam",
+            "ASASAsizyAva",
+            "ASASAsizyAma"
+          ],
+          "plrut": [
+            "ASASAsizyati",
+            "ASASAsizyataH",
+            "ASASAsizyanti",
+            "ASASAsizyasi",
+            "ASASAsizyaTaH",
+            "ASASAsizyaTa",
+            "ASASAsizyAmi",
+            "ASASAsizyAvaH",
+            "ASASAsizyAmaH"
+          ],
+          "plung": [
+            "ASASAsIt",
+            "ASASAsId",
+            "ASASAsizwAm",
+            "ASASAsizuH",
+            "ASASAsIH",
+            "ASASAsizwam",
+            "ASASAsizwa",
+            "ASASAsizam",
+            "ASASAsizva",
+            "ASASAsizma"
+          ],
+          "plut": [
+            "ASASAsitA",
+            "ASASAsitArO",
+            "ASASAsitAraH",
+            "ASASAsitAsi",
+            "ASASAsitAsTaH",
+            "ASASAsitAsTa",
+            "ASASAsitAsmi",
+            "ASASAsitAsvaH",
+            "ASASAsitAsmaH"
+          ],
+          "pvidhiling": [
+            "ASASAsyAt",
+            "ASASAsyAd",
+            "ASASAsyAtAm",
+            "ASASAsyuH",
+            "ASASAsyAH",
+            "ASASAsyAtam",
+            "ASASAsyAta",
+            "ASASAsyAm",
+            "ASASAsyAva",
+            "ASASAsyAma"
+          ]
+        },
+        "yangluk_yak": {
+          "aashirling": [
+            "ASASAsizIzwa",
+            "ASASAsizIyAstAm",
+            "ASASAsizIran",
+            "ASASAsizIzWAH",
+            "ASASAsizIyAsTAm",
+            "ASASAsizIDvam",
+            "ASASAsizIya",
+            "ASASAsizIvahi",
+            "ASASAsizImahi"
+          ],
+          "alang": [
+            "ASASAsyata",
+            "ASASAsyetAm",
+            "ASASAsyanta",
+            "ASASAsyaTAH",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsye",
+            "ASASAsyAvahi",
+            "ASASAsyAmahi"
+          ],
+          "alat": [
+            "ASASAsyate",
+            "ASASAsyete",
+            "ASASAsyante",
+            "ASASAsyase",
+            "ASASAsyeTe",
+            "ASASAsyaDve",
+            "ASASAsye",
+            "ASASAsyAvahe",
+            "ASASAsyAmahe"
+          ],
+          "alit": [
+            "ASASAsAmbaBUve",
+            "ASASAsAmAse",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUvAte",
+            "ASASAsAmAsAte",
+            "ASASAsAYcakrAte",
+            "ASASAsAmbaBUvire",
+            "ASASAsAmAsire",
+            "ASASAsAYcakrire",
+            "ASASAsAmbaBUvize",
+            "ASASAsAmAsize",
+            "ASASAsAYcakfze",
+            "ASASAsAmbaBUvATe",
+            "ASASAsAmAsATe",
+            "ASASAsAYcakrATe",
+            "ASASAsAmbaBUviQve",
+            "ASASAsAmAsiDve",
+            "ASASAsAYcakfQve",
+            "ASASAsAmbaBUve",
+            "ASASAsAmAhe",
+            "ASASAsAYcakre",
+            "ASASAsAmbaBUvivahe",
+            "ASASAsAmAsivahe",
+            "ASASAsAYcakfvahe",
+            "ASASAsAmbaBUvimahe",
+            "ASASAsAmAsimahe",
+            "ASASAsAYcakfmahe"
+          ],
+          "alot": [
+            "ASASAsyatAm",
+            "ASASAsyetAm",
+            "ASASAsyantAm",
+            "ASASAsyasva",
+            "ASASAsyeTAm",
+            "ASASAsyaDvam",
+            "ASASAsyE",
+            "ASASAsyAvahE",
+            "ASASAsyAmahE"
+          ],
+          "alrung": [
+            "ASASAsizyata",
+            "ASASAsizyetAm",
+            "ASASAsizyanta",
+            "ASASAsizyaTAH",
+            "ASASAsizyeTAm",
+            "ASASAsizyaDvam",
+            "ASASAsizye",
+            "ASASAsizyAvahi",
+            "ASASAsizyAmahi"
+          ],
+          "alrut": [
+            "ASASAsizyate",
+            "ASASAsizyete",
+            "ASASAsizyante",
+            "ASASAsizyase",
+            "ASASAsizyeTe",
+            "ASASAsizyaDve",
+            "ASASAsizye",
+            "ASASAsizyAvahe",
+            "ASASAsizyAmahe"
+          ],
+          "alung": [
+            "ASASAsi",
+            "ASASAsizAtAm",
+            "ASASAsizata",
+            "ASASAsizWAH",
+            "ASASAsizATAm",
+            "ASASAsiDvam",
+            "ASASAsizi",
+            "ASASAsizvahi",
+            "ASASAsizmahi"
+          ],
+          "alut": [
+            "ASASAsitA",
+            "ASASAsitArO",
+            "ASASAsitAraH",
+            "ASASAsitAse",
+            "ASASAsitAsATe",
+            "ASASAsitADve",
+            "ASASAsitAhe",
+            "ASASAsitAsvahe",
+            "ASASAsitAsmahe"
+          ],
+          "avidhiling": [
+            "ASASAsyeta",
+            "ASASAsyeyAtAm",
+            "ASASAsyeran",
+            "ASASAsyeTAH",
+            "ASASAsyeyATAm",
+            "ASASAsyeDvam",
+            "ASASAsyeya",
+            "ASASAsyevahi",
+            "ASASAsyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "a": [
+            {
+              "base": "ASAsA",
+              "m": "",
+              "f": "ASAsA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ASAsa",
+              "m": "ASAsaH",
+              "f": "ASAsA",
+              "n": "ASAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ASAsanIya",
+              "m": "ASAsanIyaH",
+              "f": "ASAsanIyA",
+              "n": "ASAsanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ASAsta",
+              "m": "ASAstaH",
+              "f": "ASAstA",
+              "n": "ASAstam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ASAstavat",
+              "m": "ASAstavAn",
+              "f": "ASAstavatI",
+              "n": "ASAstavat/ASAstavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ASAsti",
+              "m": "",
+              "f": "ASAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ASaSAsvas",
+              "m": "ASaSAsvAn",
+              "f": "ASaSAsuzI",
+              "n": "ASaSAsvat/ASaSAsvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ASAsa",
+              "m": "ASAsaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ASAsAna",
+              "m": "ASAsAnaH",
+              "f": "ASAsAnA",
+              "n": "ASAsAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ASAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "ASAsya",
+              "m": "ASAsyaH",
+              "f": "ASAsyA",
+              "n": "ASAsyam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ASAsaka",
+              "m": "ASAsakaH",
+              "f": "ASAsikA",
+              "n": "ASAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ASAsitavya",
+              "m": "ASAsitavyaH",
+              "f": "ASAsitavyA",
+              "n": "ASAsitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ASAsitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ASAsitf",
+              "m": "ASAsitA",
+              "f": "ASAsitrI",
+              "n": "ASAsitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "ASAsAna",
+              "m": "ASAsAnaH",
+              "f": "ASAsAnA",
+              "n": "ASAsAnam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ASAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ASAsana",
+              "m": "",
+              "f": "",
+              "n": "ASAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ASAsaka",
+              "m": "ASAsakaH",
+              "f": "ASAsikA",
+              "n": "ASAsakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "ASAsAna",
+              "m": "ASAsAnaH",
+              "f": "ASAsAnA",
+              "n": "ASAsAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "ASAsAna",
+              "m": "ASAsAnaH",
+              "f": "ASAsAnA",
+              "n": "ASAsAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "ASAsAna",
+              "m": "ASAsAnaH",
+              "f": "ASAsAnA",
+              "n": "ASAsAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "ASiSAsizA",
+              "m": "",
+              "f": "ASiSAsizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ASiSAsiza",
+              "m": "ASiSAsizaH",
+              "f": "ASiSAsizA",
+              "n": "ASiSAsizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ASiSAsizaRIya",
+              "m": "ASiSAsizaRIyaH",
+              "f": "ASiSAsizaRIyA",
+              "n": "ASiSAsizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "ASiSAsizu",
+              "m": "ASiSAsizuH",
+              "f": "ASiSAsizuH",
+              "n": "ASiSAsizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ASiSAsizita",
+              "m": "ASiSAsizitaH",
+              "f": "ASiSAsizitA",
+              "n": "ASiSAsizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ASiSAsizitavat",
+              "m": "ASiSAsizitavAn",
+              "f": "ASiSAsizitavatI",
+              "n": "ASiSAsizitavat/ASiSAsizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ASiSAsizwi",
+              "m": "",
+              "f": "ASiSAsizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ASiSAsizAmbaBUvas",
+              "m": "ASiSAsizAmbaBUvAn",
+              "f": "ASiSAsizAmbaBUzI",
+              "n": "ASiSAsizAmbaBUvat/ASiSAsizAmbaBUvad"
+            },
+            {
+              "base": "ASiSAsizAmAsivas",
+              "m": "ASiSAsizAmAsivAn",
+              "f": "ASiSAsizAmAsyuzI",
+              "n": "ASiSAsizAmAsivat/ASiSAsizAmAsivad"
+            },
+            {
+              "base": "ASiSAsizAYcakfvas",
+              "m": "ASiSAsizAYcakfvAn",
+              "f": "ASiSAsizAYcakruzI",
+              "n": "ASiSAsizAYcakfvat/ASiSAsizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ASiSAsiza",
+              "m": "ASiSAsizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ASiSAsizamARa",
+              "m": "ASiSAsizamARaH",
+              "f": "ASiSAsizamARA",
+              "n": "ASiSAsizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ASiSAsizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ASiSAsizaka",
+              "m": "ASiSAsizakaH",
+              "f": "ASiSAsizikA",
+              "n": "ASiSAsizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ASiSAsizitavya",
+              "m": "ASiSAsizitavyaH",
+              "f": "ASiSAsizitavyA",
+              "n": "ASiSAsizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ASiSAsizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ASiSAsizitf",
+              "m": "ASiSAsizitA",
+              "f": "ASiSAsizitrI",
+              "n": "ASiSAsizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "ASiSAsizamARa",
+              "m": "ASiSAsizamARaH",
+              "f": "ASiSAsizamARA",
+              "n": "ASiSAsizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "ASiSAsizya",
+              "m": "ASiSAsizyaH",
+              "f": "ASiSAsizyA",
+              "n": "ASiSAsizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ASiSAsizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ASiSAsizaRa",
+              "m": "",
+              "f": "",
+              "n": "ASiSAsizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ASiSAsizaka",
+              "m": "ASiSAsizakaH",
+              "f": "ASiSAsizikA",
+              "n": "ASiSAsizakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "ASiSAsizamARa",
+              "m": "ASiSAsizamARaH",
+              "f": "ASiSAsizamARA",
+              "n": "ASiSAsizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "ASiSAsizamARa",
+              "m": "ASiSAsizamARaH",
+              "f": "ASiSAsizamARA",
+              "n": "ASiSAsizamARam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "ASiSAsizamARa",
+              "m": "ASiSAsizamARaH",
+              "f": "ASiSAsizamARA",
+              "n": "ASiSAsizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "ASAsa",
+              "m": "ASAsaH",
+              "f": "ASAsA",
+              "n": "ASAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ASAsanIya",
+              "m": "ASAsanIyaH",
+              "f": "ASAsanIyA",
+              "n": "ASAsanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ASAsita",
+              "m": "ASAsitaH",
+              "f": "ASAsitA",
+              "n": "ASAsitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ASAsitavat",
+              "m": "ASAsitavAn",
+              "f": "ASAsitavatI",
+              "n": "ASAsitavat/ASAsitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ASAsti",
+              "m": "",
+              "f": "ASAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ASAsayAmbaBUvas",
+              "m": "ASAsayAmbaBUvAn",
+              "f": "ASAsayAmbaBUzI",
+              "n": "ASAsayAmbaBUvat/ASAsayAmbaBUvad"
+            },
+            {
+              "base": "ASAsayAmAsivas",
+              "m": "ASAsayAmAsivAn",
+              "f": "ASAsayAmAsyuzI",
+              "n": "ASAsayAmAsivat/ASAsayAmAsivad"
+            },
+            {
+              "base": "ASAsayAYcakfvas",
+              "m": "ASAsayAYcakfvAn",
+              "f": "ASAsayAYcakruzI",
+              "n": "ASAsayAYcakfvat/ASAsayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ASAsayamAna",
+              "m": "ASAsayamAnaH",
+              "f": "ASAsayamAnA",
+              "n": "ASAsayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ASAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ASAsaka",
+              "m": "ASAsakaH",
+              "f": "ASAsikA",
+              "n": "ASAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ASAsayitavya",
+              "m": "ASAsayitavyaH",
+              "f": "ASAsayitavyA",
+              "n": "ASAsayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ASAsayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ASAsayitf",
+              "m": "ASAsayitA",
+              "f": "ASAsayitrI",
+              "n": "ASAsayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "ASAsayamAna",
+              "m": "ASAsayamAnaH",
+              "f": "ASAsayamAnA",
+              "n": "ASAsayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "ASAsya",
+              "m": "ASAsyaH",
+              "f": "ASAsyA",
+              "n": "ASAsyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ASAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ASAsana",
+              "m": "",
+              "f": "",
+              "n": "ASAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ASAsaka",
+              "m": "ASAsakaH",
+              "f": "ASAsikA",
+              "n": "ASAsakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "ASAsayat",
+              "m": "ASAsayan",
+              "f": "ASAsayantI",
+              "n": "ASAsayat/ASAsayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "ASAsayamAna",
+              "m": "ASAsayamAnaH",
+              "f": "ASAsayamAnA",
+              "n": "ASAsayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "ASAsayamAna",
+              "m": "ASAsayamAnaH",
+              "f": "ASAsayamAnA",
+              "n": "ASAsayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "ASAsayat",
+              "m": "ASAsayan",
+              "f": "ASAsayatI/ASAsayantI",
+              "n": "ASAsayat/ASAsayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "ASAsayamAna",
+              "m": "ASAsayamAnaH",
+              "f": "ASAsayamAnA",
+              "n": "ASAsayamAnam"
+            }
+          ]
+        },
+        "yang_krut": {
+          "a": [
+            {
+              "base": "ASASAsA",
+              "m": "",
+              "f": "ASASAsA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ASASAsa",
+              "m": "ASASAsaH",
+              "f": "ASASAsA",
+              "n": "ASASAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ASASAsanIya",
+              "m": "ASASAsanIyaH",
+              "f": "ASASAsanIyA",
+              "n": "ASASAsanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ASASAsita",
+              "m": "ASASAsitaH",
+              "f": "ASASAsitA",
+              "n": "ASASAsitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ASASAsitavat",
+              "m": "ASASAsitavAn",
+              "f": "ASASAsitavatI",
+              "n": "ASASAsitavat/ASASAsitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ASASAsti",
+              "m": "",
+              "f": "ASASAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ASASAsAmbaBUvas",
+              "m": "ASASAsAmbaBUvAn",
+              "f": "ASASAsAmbaBUzI",
+              "n": "ASASAsAmbaBUvat/ASASAsAmbaBUvad"
+            },
+            {
+              "base": "ASASAsAmAsivas",
+              "m": "ASASAsAmAsivAn",
+              "f": "ASASAsAmAsyuzI",
+              "n": "ASASAsAmAsivat/ASASAsAmAsivad"
+            },
+            {
+              "base": "ASASAsAYcakfvas",
+              "m": "ASASAsAYcakfvAn",
+              "f": "ASASAsAYcakruzI",
+              "n": "ASASAsAYcakfvat/ASASAsAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ASASAsa",
+              "m": "ASASAsaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ASASAsyamAna",
+              "m": "ASASAsyamAnaH",
+              "f": "ASASAsyamAnA",
+              "n": "ASASAsyamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ASASAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ASASAsaka",
+              "m": "ASASAsakaH",
+              "f": "ASASAsikA",
+              "n": "ASASAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ASASAsitavya",
+              "m": "ASASAsitavyaH",
+              "f": "ASASAsitavyA",
+              "n": "ASASAsitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ASASAsitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ASASAsitf",
+              "m": "ASASAsitA",
+              "f": "ASASAsitrI",
+              "n": "ASASAsitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "ASASAsyamAna",
+              "m": "ASASAsyamAnaH",
+              "f": "ASASAsyamAnA",
+              "n": "ASASAsyamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "ASASAsya",
+              "m": "ASASAsyaH",
+              "f": "ASASAsyA",
+              "n": "ASASAsyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ASASAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ASASAsana",
+              "m": "",
+              "f": "",
+              "n": "ASASAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ASASAsaka",
+              "m": "ASASAsakaH",
+              "f": "ASASAsikA",
+              "n": "ASASAsakam"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "ASASAsyamAna",
+              "m": "ASASAsyamAnaH",
+              "f": "ASASAsyamAnA",
+              "n": "ASASAsyamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "ASASAsyamAna",
+              "m": "ASASAsyamAnaH",
+              "f": "ASASAsyamAnA",
+              "n": "ASASAsyamAnam"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "ASASAsyamAna",
+              "m": "ASASAsyamAnaH",
+              "f": "ASASAsyamAnA",
+              "n": "ASASAsyamAnam"
+            }
+          ]
+        },
+        "yangluk_krut": {
+          "a": [
+            {
+              "base": "ASASAsA",
+              "m": "",
+              "f": "ASASAsA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ASASAsa",
+              "m": "ASASAsaH",
+              "f": "ASASAsA",
+              "n": "ASASAsam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ASASAsanIya",
+              "m": "ASASAsanIyaH",
+              "f": "ASASAsanIyA",
+              "n": "ASASAsanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ASASAsta",
+              "m": "ASASAstaH",
+              "f": "ASASAstA",
+              "n": "ASASAstam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ASASAstavat",
+              "m": "ASASAstavAn",
+              "f": "ASASAstavatI",
+              "n": "ASASAstavat/ASASAstavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ASASAsti",
+              "m": "",
+              "f": "ASASAstiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ASASAsAmbaBUvas",
+              "m": "ASASAsAmbaBUvAn",
+              "f": "ASASAsAmbaBUzI",
+              "n": "ASASAsAmbaBUvat/ASASAsAmbaBUvad"
+            },
+            {
+              "base": "ASASAsAmAsivas",
+              "m": "ASASAsAmAsivAn",
+              "f": "ASASAsAmAsyuzI",
+              "n": "ASASAsAmAsivat/ASASAsAmAsivad"
+            },
+            {
+              "base": "ASASAsAYcakfvas",
+              "m": "ASASAsAYcakfvAn",
+              "f": "ASASAsAYcakruzI",
+              "n": "ASASAsAYcakfvat/ASASAsAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ASASAsa",
+              "m": "ASASAsaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ASASAsAna",
+              "m": "ASASAsAnaH",
+              "f": "ASASAsAnA",
+              "n": "ASASAsAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ASASAsam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ASASAsaka",
+              "m": "ASASAsakaH",
+              "f": "ASASAsikA",
+              "n": "ASASAsakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ASASAsitavya",
+              "m": "ASASAsitavyaH",
+              "f": "ASASAsitavyA",
+              "n": "ASASAsitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ASASAsitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ASASAsitf",
+              "m": "ASASAsitA",
+              "f": "ASASAsitrI",
+              "n": "ASASAsitf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ASASAsya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ASASAsana",
+              "m": "",
+              "f": "",
+              "n": "ASASAsanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ASASAsaka",
+              "m": "ASASAsakaH",
+              "f": "ASASAsikA",
+              "n": "ASASAsakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "ASASAsat",
+              "m": "ASASAsan",
+              "f": "ASASAsatI",
+              "n": "ASASAsat/ASASAsad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "ASASAsat",
+              "m": "ASASAsan",
+              "f": "ASASAsatI/ASASAsantI",
+              "n": "ASASAsat/ASASAsad"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2785 @@
+{
+  "id": "10.0365",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "arda~"
+    },
+    {
+      "name": "arTaH",
+      "value": "hiMsAyAm"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to kill, to detroy, to irritate, to cause pain"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "mAranA, vaDa karanA, duHKa denA, satAnA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "(svaritet)  ' ardayedardaterdedyO hiMsanerdati yAcane ' (Slo. 103) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "ADfzIyaH"
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1829"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1829"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2572",
+      "ext_link": "/sutraani/sk2572?scroll=sutra-commentary-kaumudi-region&highlight=arada"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "ardayizIzwa",
+        "ardizIzwa",
+        "ardayizIyAstAm",
+        "ardizIyAstAm",
+        "ardayizIran",
+        "ardizIran",
+        "ardayizIzWAH",
+        "ardizIzWAH",
+        "ardayizIyAsTAm",
+        "ardizIyAsTAm",
+        "ardayizIQvam",
+        "ardayizIDvam",
+        "ardizIDvam",
+        "ardayizIya",
+        "ardizIya",
+        "ardayizIvahi",
+        "ardizIvahi",
+        "ardayizImahi",
+        "ardizImahi"
+      ],
+      "alang": [
+        "Ardata",
+        "Ardayata",
+        "ArdayetAm",
+        "ArdetAm",
+        "Ardanta",
+        "Ardayanta",
+        "ArdaTAH",
+        "ArdayaTAH",
+        "ArdayeTAm",
+        "ArdeTAm",
+        "ArdaDvam",
+        "ArdayaDvam",
+        "Ardaye",
+        "Arde",
+        "ArdayAvahi",
+        "ArdAvahi",
+        "ArdayAmahi",
+        "ArdAmahi"
+      ],
+      "alat": [
+        "ardate",
+        "ardayate",
+        "ardayete",
+        "ardete",
+        "ardante",
+        "ardayante",
+        "ardayase",
+        "ardase",
+        "ardayeTe",
+        "ardeTe",
+        "ardaDve",
+        "ardayaDve",
+        "ardaye",
+        "arde",
+        "ardayAvahe",
+        "ardAvahe",
+        "ardayAmahe",
+        "ardAmahe"
+      ],
+      "alit": [
+        "ardayAYcakre",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "Anarde",
+        "ardayAYcakrAte",
+        "ardayAmAsatuH",
+        "ardayAmbaBUvatuH",
+        "AnardAte",
+        "ardayAYcakrire",
+        "ardayAmAsuH",
+        "ardayAmbaBUvuH",
+        "Anardire",
+        "ardayAYcakfze",
+        "ardayAmAsiTa",
+        "ardayAmbaBUviTa",
+        "Anardize",
+        "ardayAYcakrATe",
+        "ardayAmAsaTuH",
+        "ardayAmbaBUvaTuH",
+        "AnardATe",
+        "ardayAYcakfQve",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "AnardiDve",
+        "ardayAYcakre",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "Anarde",
+        "ardayAYcakfvahe",
+        "ardayAmAsiva",
+        "ardayAmbaBUviva",
+        "Anardivahe",
+        "ardayAYcakfmahe",
+        "ardayAmAsima",
+        "ardayAmbaBUvima",
+        "Anardimahe"
+      ],
+      "alot": [
+        "ardatAm",
+        "ardayatAm",
+        "ardayetAm",
+        "ardetAm",
+        "ardantAm",
+        "ardayantAm",
+        "ardayasva",
+        "ardasva",
+        "ardayeTAm",
+        "ardeTAm",
+        "ardaDvam",
+        "ardayaDvam",
+        "ardayE",
+        "ardE",
+        "ardayAvahE",
+        "ardAvahE",
+        "ardayAmahE",
+        "ardAmahE"
+      ],
+      "alrung": [
+        "Ardayizyata",
+        "Ardizyata",
+        "ArdayizyetAm",
+        "ArdizyetAm",
+        "Ardayizyanta",
+        "Ardizyanta",
+        "ArdayizyaTAH",
+        "ArdizyaTAH",
+        "ArdayizyeTAm",
+        "ArdizyeTAm",
+        "ArdayizyaDvam",
+        "ArdizyaDvam",
+        "Ardayizye",
+        "Ardizye",
+        "ArdayizyAvahi",
+        "ArdizyAvahi",
+        "ArdayizyAmahi",
+        "ArdizyAmahi"
+      ],
+      "alrut": [
+        "ardayizyate",
+        "ardizyate",
+        "ardayizyete",
+        "ardizyete",
+        "ardayizyante",
+        "ardizyante",
+        "ardayizyase",
+        "ardizyase",
+        "ardayizyeTe",
+        "ardizyeTe",
+        "ardayizyaDve",
+        "ardizyaDve",
+        "ardayizye",
+        "ardizye",
+        "ardayizyAvahe",
+        "ardizyAvahe",
+        "ardayizyAmahe",
+        "ardizyAmahe"
+      ],
+      "alung": [
+        "Ardidata",
+        "Ardizwa",
+        "ArdidetAm",
+        "ArdizAtAm",
+        "Ardidanta",
+        "Ardizata",
+        "ArdidaTAH",
+        "ArdizWAH",
+        "ArdideTAm",
+        "ArdizATAm",
+        "ArdidaDvam",
+        "ArdiDvam",
+        "Ardide",
+        "Ardizi",
+        "ArdidAvahi",
+        "Ardizvahi",
+        "ArdidAmahi",
+        "Ardizmahi"
+      ],
+      "alut": [
+        "ardayitA",
+        "arditA",
+        "ardayitArO",
+        "arditArO",
+        "ardayitAraH",
+        "arditAraH",
+        "ardayitAse",
+        "arditAse",
+        "ardayitAsATe",
+        "arditAsATe",
+        "ardayitADve",
+        "arditADve",
+        "ardayitAhe",
+        "arditAhe",
+        "ardayitAsvahe",
+        "arditAsvahe",
+        "ardayitAsmahe",
+        "arditAsmahe"
+      ],
+      "avidhiling": [
+        "ardayeta",
+        "ardeta",
+        "ardayeyAtAm",
+        "ardeyAtAm",
+        "ardayeran",
+        "arderan",
+        "ardayeTAH",
+        "ardeTAH",
+        "ardayeyATAm",
+        "ardeyATAm",
+        "ardayeDvam",
+        "ardeDvam",
+        "ardayeya",
+        "ardeya",
+        "ardayevahi",
+        "ardevahi",
+        "ardayemahi",
+        "ardemahi"
+      ],
+      "pashirling": [
+        "ardyAt",
+        "ardyAd",
+        "ardyAstAm",
+        "ardyAsuH",
+        "ardyAH",
+        "ardyAstam",
+        "ardyAsta",
+        "ardyAsam",
+        "ardyAsva",
+        "ardyAsma"
+      ],
+      "plang": [
+        "Ardat",
+        "Ardad",
+        "Ardayat",
+        "Ardayad",
+        "ArdatAm",
+        "ArdayatAm",
+        "Ardan",
+        "Ardayan",
+        "ArdaH",
+        "ArdayaH",
+        "Ardatam",
+        "Ardayatam",
+        "Ardata",
+        "Ardayata",
+        "Ardam",
+        "Ardayam",
+        "ArdayAva",
+        "ArdAva",
+        "ArdayAma",
+        "ArdAma"
+      ],
+      "plat": [
+        "ardati",
+        "ardayati",
+        "ardataH",
+        "ardayataH",
+        "ardanti",
+        "ardayanti",
+        "ardayasi",
+        "ardasi",
+        "ardaTaH",
+        "ardayaTaH",
+        "ardaTa",
+        "ardayaTa",
+        "ardayAmi",
+        "ardAmi",
+        "ardayAvaH",
+        "ardAvaH",
+        "ardayAmaH",
+        "ardAmaH"
+      ],
+      "plit": [
+        "ardayAYcakAra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "Anarda",
+        "ardayAYcakratuH",
+        "ardayAmAsatuH",
+        "ardayAmbaBUvatuH",
+        "AnardatuH",
+        "ardayAYcakruH",
+        "ardayAmAsuH",
+        "ardayAmbaBUvuH",
+        "AnarduH",
+        "ardayAYcakarTa",
+        "ardayAmAsiTa",
+        "ardayAmbaBUviTa",
+        "AnardiTa",
+        "ardayAYcakraTuH",
+        "ardayAmAsaTuH",
+        "ardayAmbaBUvaTuH",
+        "AnardaTuH",
+        "ardayAYcakra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "Anarda",
+        "ardayAYcakara",
+        "ardayAYcakAra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "Anarda",
+        "ardayAYcakfva",
+        "ardayAmAsiva",
+        "ardayAmbaBUviva",
+        "Anardiva",
+        "ardayAYcakfma",
+        "ardayAmAsima",
+        "ardayAmbaBUvima",
+        "Anardima"
+      ],
+      "plot": [
+        "ardatAt",
+        "ardatAd",
+        "ardatu",
+        "ardayatAt",
+        "ardayatAd",
+        "ardayatu",
+        "ardatAm",
+        "ardayatAm",
+        "ardantu",
+        "ardayantu",
+        "arda",
+        "ardatAt",
+        "ardatAd",
+        "ardaya",
+        "ardayatAt",
+        "ardayatAd",
+        "ardatam",
+        "ardayatam",
+        "ardata",
+        "ardayata",
+        "ardayAni",
+        "ardAni",
+        "ardayAva",
+        "ardAva",
+        "ardayAma",
+        "ardAma"
+      ],
+      "plrung": [
+        "Ardayizyat",
+        "Ardayizyad",
+        "Ardizyat",
+        "Ardizyad",
+        "ArdayizyatAm",
+        "ArdizyatAm",
+        "Ardayizyan",
+        "Ardizyan",
+        "ArdayizyaH",
+        "ArdizyaH",
+        "Ardayizyatam",
+        "Ardizyatam",
+        "Ardayizyata",
+        "Ardizyata",
+        "Ardayizyam",
+        "Ardizyam",
+        "ArdayizyAva",
+        "ArdizyAva",
+        "ArdayizyAma",
+        "ArdizyAma"
+      ],
+      "plrut": [
+        "ardayizyati",
+        "ardizyati",
+        "ardayizyataH",
+        "ardizyataH",
+        "ardayizyanti",
+        "ardizyanti",
+        "ardayizyasi",
+        "ardizyasi",
+        "ardayizyaTaH",
+        "ardizyaTaH",
+        "ardayizyaTa",
+        "ardizyaTa",
+        "ardayizyAmi",
+        "ardizyAmi",
+        "ardayizyAvaH",
+        "ardizyAvaH",
+        "ardayizyAmaH",
+        "ardizyAmaH"
+      ],
+      "plung": [
+        "Ardidat",
+        "Ardidad",
+        "ArdIt",
+        "ArdId",
+        "ArdidatAm",
+        "ArdizwAm",
+        "Ardidan",
+        "ArdizuH",
+        "ArdidaH",
+        "ArdIH",
+        "Ardidatam",
+        "Ardizwam",
+        "Ardidata",
+        "Ardizwa",
+        "Ardidam",
+        "Ardizam",
+        "ArdidAva",
+        "Ardizva",
+        "ArdidAma",
+        "Ardizma"
+      ],
+      "plut": [
+        "ardayitA",
+        "arditA",
+        "ardayitArO",
+        "arditArO",
+        "ardayitAraH",
+        "arditAraH",
+        "ardayitAsi",
+        "arditAsi",
+        "ardayitAsTaH",
+        "arditAsTaH",
+        "ardayitAsTa",
+        "arditAsTa",
+        "ardayitAsmi",
+        "arditAsmi",
+        "ardayitAsvaH",
+        "arditAsvaH",
+        "ardayitAsmaH",
+        "arditAsmaH"
+      ],
+      "pvidhiling": [
+        "ardayet",
+        "ardayed",
+        "ardet",
+        "arded",
+        "ardayetAm",
+        "ardetAm",
+        "ardayeyuH",
+        "ardeyuH",
+        "ardayeH",
+        "ardeH",
+        "ardayetam",
+        "ardetam",
+        "ardayeta",
+        "ardeta",
+        "ardayeyam",
+        "ardeyam",
+        "ardayeva",
+        "ardeva",
+        "ardayema",
+        "ardema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "ardayizIzwa",
+        "ardizIzwa",
+        "ardayizIyAstAm",
+        "ardizIyAstAm",
+        "ardayizIran",
+        "ardizIran",
+        "ardayizIzWAH",
+        "ardizIzWAH",
+        "ardayizIyAsTAm",
+        "ardizIyAsTAm",
+        "ardayizIQvam",
+        "ardayizIDvam",
+        "ardizIDvam",
+        "ardayizIya",
+        "ardizIya",
+        "ardayizIvahi",
+        "ardizIvahi",
+        "ardayizImahi",
+        "ardizImahi"
+      ],
+      "alang": [
+        "Ardyata",
+        "ArdyetAm",
+        "Ardyanta",
+        "ArdyaTAH",
+        "ArdyeTAm",
+        "ArdyaDvam",
+        "Ardye",
+        "ArdyAvahi",
+        "ArdyAmahi"
+      ],
+      "alat": [
+        "ardyate",
+        "ardyete",
+        "ardyante",
+        "ardyase",
+        "ardyeTe",
+        "ardyaDve",
+        "ardye",
+        "ardyAvahe",
+        "ardyAmahe"
+      ],
+      "alit": [
+        "ardayAYcakre",
+        "ardayAmAse",
+        "ardayAmbaBUve",
+        "Anarde",
+        "ardayAYcakrAte",
+        "ardayAmAsAte",
+        "ardayAmbaBUvAte",
+        "AnardAte",
+        "ardayAYcakrire",
+        "ardayAmAsire",
+        "ardayAmbaBUvire",
+        "Anardire",
+        "ardayAYcakfze",
+        "ardayAmAsize",
+        "ardayAmbaBUvize",
+        "Anardize",
+        "ardayAYcakrATe",
+        "ardayAmAsATe",
+        "ardayAmbaBUvATe",
+        "AnardATe",
+        "ardayAYcakfQve",
+        "ardayAmAsiDve",
+        "ardayAmbaBUviQve",
+        "AnardiDve",
+        "ardayAYcakre",
+        "ardayAmAhe",
+        "ardayAmbaBUve",
+        "Anarde",
+        "ardayAYcakfvahe",
+        "ardayAmAsivahe",
+        "ardayAmbaBUvivahe",
+        "Anardivahe",
+        "ardayAYcakfmahe",
+        "ardayAmAsimahe",
+        "ardayAmbaBUvimahe",
+        "Anardimahe"
+      ],
+      "alot": [
+        "ardyatAm",
+        "ardyetAm",
+        "ardyantAm",
+        "ardyasva",
+        "ardyeTAm",
+        "ardyaDvam",
+        "ardyE",
+        "ardyAvahE",
+        "ardyAmahE"
+      ],
+      "alrung": [
+        "Ardayizyata",
+        "Ardizyata",
+        "ArdayizyetAm",
+        "ArdizyetAm",
+        "Ardayizyanta",
+        "Ardizyanta",
+        "ArdayizyaTAH",
+        "ArdizyaTAH",
+        "ArdayizyeTAm",
+        "ArdizyeTAm",
+        "ArdayizyaDvam",
+        "ArdizyaDvam",
+        "Ardayizye",
+        "Ardizye",
+        "ArdayizyAvahi",
+        "ArdizyAvahi",
+        "ArdayizyAmahi",
+        "ArdizyAmahi"
+      ],
+      "alrut": [
+        "ardayizyate",
+        "ardizyate",
+        "ardayizyete",
+        "ardizyete",
+        "ardayizyante",
+        "ardizyante",
+        "ardayizyase",
+        "ardizyase",
+        "ardayizyeTe",
+        "ardizyeTe",
+        "ardayizyaDve",
+        "ardizyaDve",
+        "ardayizye",
+        "ardizye",
+        "ardayizyAvahe",
+        "ardizyAvahe",
+        "ardayizyAmahe",
+        "ardizyAmahe"
+      ],
+      "alung": [
+        "Ardi",
+        "ArdayizAtAm",
+        "ArdizAtAm",
+        "Ardayizata",
+        "Ardizata",
+        "ArdayizWAH",
+        "ArdizWAH",
+        "ArdayizATAm",
+        "ArdizATAm",
+        "ArdayiQvam",
+        "ArdayiDvam",
+        "ArdiDvam",
+        "Ardayizi",
+        "Ardizi",
+        "Ardayizvahi",
+        "Ardizvahi",
+        "Ardayizmahi",
+        "Ardizmahi"
+      ],
+      "alut": [
+        "ardayitA",
+        "arditA",
+        "ardayitArO",
+        "arditArO",
+        "ardayitAraH",
+        "arditAraH",
+        "ardayitAse",
+        "arditAse",
+        "ardayitAsATe",
+        "arditAsATe",
+        "ardayitADve",
+        "arditADve",
+        "ardayitAhe",
+        "arditAhe",
+        "ardayitAsvahe",
+        "arditAsvahe",
+        "ardayitAsmahe",
+        "arditAsmahe"
+      ],
+      "avidhiling": [
+        "ardyeta",
+        "ardyeyAtAm",
+        "ardyeran",
+        "ardyeTAH",
+        "ardyeyATAm",
+        "ardyeDvam",
+        "ardyeya",
+        "ardyevahi",
+        "ardyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "ardidayizizIzwa",
+        "ardidizizIzwa",
+        "ardidayizizIyAstAm",
+        "ardidizizIyAstAm",
+        "ardidayizizIran",
+        "ardidizizIran",
+        "ardidayizizIzWAH",
+        "ardidizizIzWAH",
+        "ardidayizizIyAsTAm",
+        "ardidizizIyAsTAm",
+        "ardidayizizIDvam",
+        "ardidizizIDvam",
+        "ardidayizizIya",
+        "ardidizizIya",
+        "ardidayizizIvahi",
+        "ardidizizIvahi",
+        "ardidayizizImahi",
+        "ardidizizImahi"
+      ],
+      "alang": [
+        "Ardidayizata",
+        "Ardidizata",
+        "ArdidayizetAm",
+        "ArdidizetAm",
+        "Ardidayizanta",
+        "Ardidizanta",
+        "ArdidayizaTAH",
+        "ArdidizaTAH",
+        "ArdidayizeTAm",
+        "ArdidizeTAm",
+        "ArdidayizaDvam",
+        "ArdidizaDvam",
+        "Ardidayize",
+        "Ardidize",
+        "ArdidayizAvahi",
+        "ArdidizAvahi",
+        "ArdidayizAmahi",
+        "ArdidizAmahi"
+      ],
+      "alat": [
+        "ardidayizate",
+        "ardidizate",
+        "ardidayizete",
+        "ardidizete",
+        "ardidayizante",
+        "ardidizante",
+        "ardidayizase",
+        "ardidizase",
+        "ardidayizeTe",
+        "ardidizeTe",
+        "ardidayizaDve",
+        "ardidizaDve",
+        "ardidayize",
+        "ardidize",
+        "ardidayizAvahe",
+        "ardidizAvahe",
+        "ardidayizAmahe",
+        "ardidizAmahe"
+      ],
+      "alit": [
+        "ardidayizAYcakre",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakre",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakrAte",
+        "ardidayizAmAsatuH",
+        "ardidayizAmbaBUvatuH",
+        "ardidizAYcakrAte",
+        "ardidizAmAsatuH",
+        "ardidizAmbaBUvatuH",
+        "ardidayizAYcakrire",
+        "ardidayizAmAsuH",
+        "ardidayizAmbaBUvuH",
+        "ardidizAYcakrire",
+        "ardidizAmAsuH",
+        "ardidizAmbaBUvuH",
+        "ardidayizAYcakfze",
+        "ardidayizAmAsiTa",
+        "ardidayizAmbaBUviTa",
+        "ardidizAYcakfze",
+        "ardidizAmAsiTa",
+        "ardidizAmbaBUviTa",
+        "ardidayizAYcakrATe",
+        "ardidayizAmAsaTuH",
+        "ardidayizAmbaBUvaTuH",
+        "ardidizAYcakrATe",
+        "ardidizAmAsaTuH",
+        "ardidizAmbaBUvaTuH",
+        "ardidayizAYcakfQve",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakfQve",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakre",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakre",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakfvahe",
+        "ardidayizAmAsiva",
+        "ardidayizAmbaBUviva",
+        "ardidizAYcakfvahe",
+        "ardidizAmAsiva",
+        "ardidizAmbaBUviva",
+        "ardidayizAYcakfmahe",
+        "ardidayizAmAsima",
+        "ardidayizAmbaBUvima",
+        "ardidizAYcakfmahe",
+        "ardidizAmAsima",
+        "ardidizAmbaBUvima"
+      ],
+      "alot": [
+        "ardidayizatAm",
+        "ardidizatAm",
+        "ardidayizetAm",
+        "ardidizetAm",
+        "ardidayizantAm",
+        "ardidizantAm",
+        "ardidayizasva",
+        "ardidizasva",
+        "ardidayizeTAm",
+        "ardidizeTAm",
+        "ardidayizaDvam",
+        "ardidizaDvam",
+        "ardidayizE",
+        "ardidizE",
+        "ardidayizAvahE",
+        "ardidizAvahE",
+        "ardidayizAmahE",
+        "ardidizAmahE"
+      ],
+      "alrung": [
+        "Ardidayizizyata",
+        "Ardidizizyata",
+        "ArdidayizizyetAm",
+        "ArdidizizyetAm",
+        "Ardidayizizyanta",
+        "Ardidizizyanta",
+        "ArdidayizizyaTAH",
+        "ArdidizizyaTAH",
+        "ArdidayizizyeTAm",
+        "ArdidizizyeTAm",
+        "ArdidayizizyaDvam",
+        "ArdidizizyaDvam",
+        "Ardidayizizye",
+        "Ardidizizye",
+        "ArdidayizizyAvahi",
+        "ArdidizizyAvahi",
+        "ArdidayizizyAmahi",
+        "ArdidizizyAmahi"
+      ],
+      "alrut": [
+        "ardidayizizyate",
+        "ardidizizyate",
+        "ardidayizizyete",
+        "ardidizizyete",
+        "ardidayizizyante",
+        "ardidizizyante",
+        "ardidayizizyase",
+        "ardidizizyase",
+        "ardidayizizyeTe",
+        "ardidizizyeTe",
+        "ardidayizizyaDve",
+        "ardidizizyaDve",
+        "ardidayizizye",
+        "ardidizizye",
+        "ardidayizizyAvahe",
+        "ardidizizyAvahe",
+        "ardidayizizyAmahe",
+        "ardidizizyAmahe"
+      ],
+      "alung": [
+        "Ardidayizizwa",
+        "Ardidizizwa",
+        "ArdidayizizAtAm",
+        "ArdidizizAtAm",
+        "Ardidayizizata",
+        "Ardidizizata",
+        "ArdidayizizWAH",
+        "ArdidizizWAH",
+        "ArdidayizizATAm",
+        "ArdidizizATAm",
+        "ArdidayiziDvam",
+        "ArdidiziDvam",
+        "Ardidayizizi",
+        "Ardidizizi",
+        "Ardidayizizvahi",
+        "Ardidizizvahi",
+        "Ardidayizizmahi",
+        "Ardidizizmahi"
+      ],
+      "alut": [
+        "ardidayizitA",
+        "ardidizitA",
+        "ardidayizitArO",
+        "ardidizitArO",
+        "ardidayizitAraH",
+        "ardidizitAraH",
+        "ardidayizitAse",
+        "ardidizitAse",
+        "ardidayizitAsATe",
+        "ardidizitAsATe",
+        "ardidayizitADve",
+        "ardidizitADve",
+        "ardidayizitAhe",
+        "ardidizitAhe",
+        "ardidayizitAsvahe",
+        "ardidizitAsvahe",
+        "ardidayizitAsmahe",
+        "ardidizitAsmahe"
+      ],
+      "avidhiling": [
+        "ardidayizeta",
+        "ardidizeta",
+        "ardidayizeyAtAm",
+        "ardidizeyAtAm",
+        "ardidayizeran",
+        "ardidizeran",
+        "ardidayizeTAH",
+        "ardidizeTAH",
+        "ardidayizeyATAm",
+        "ardidizeyATAm",
+        "ardidayizeDvam",
+        "ardidizeDvam",
+        "ardidayizeya",
+        "ardidizeya",
+        "ardidayizevahi",
+        "ardidizevahi",
+        "ardidayizemahi",
+        "ardidizemahi"
+      ],
+      "pashirling": [
+        "ardidayizyAt",
+        "ardidayizyAd",
+        "ardidizyAt",
+        "ardidizyAd",
+        "ardidayizyAstAm",
+        "ardidizyAstAm",
+        "ardidayizyAsuH",
+        "ardidizyAsuH",
+        "ardidayizyAH",
+        "ardidizyAH",
+        "ardidayizyAstam",
+        "ardidizyAstam",
+        "ardidayizyAsta",
+        "ardidizyAsta",
+        "ardidayizyAsam",
+        "ardidizyAsam",
+        "ardidayizyAsva",
+        "ardidizyAsva",
+        "ardidayizyAsma",
+        "ardidizyAsma"
+      ],
+      "plang": [
+        "Ardidayizat",
+        "Ardidayizad",
+        "Ardidizat",
+        "Ardidizad",
+        "ArdidayizatAm",
+        "ArdidizatAm",
+        "Ardidayizan",
+        "Ardidizan",
+        "ArdidayizaH",
+        "ArdidizaH",
+        "Ardidayizatam",
+        "Ardidizatam",
+        "Ardidayizata",
+        "Ardidizata",
+        "Ardidayizam",
+        "Ardidizam",
+        "ArdidayizAva",
+        "ArdidizAva",
+        "ArdidayizAma",
+        "ArdidizAma"
+      ],
+      "plat": [
+        "ardidayizati",
+        "ardidizati",
+        "ardidayizataH",
+        "ardidizataH",
+        "ardidayizanti",
+        "ardidizanti",
+        "ardidayizasi",
+        "ardidizasi",
+        "ardidayizaTaH",
+        "ardidizaTaH",
+        "ardidayizaTa",
+        "ardidizaTa",
+        "ardidayizAmi",
+        "ardidizAmi",
+        "ardidayizAvaH",
+        "ardidizAvaH",
+        "ardidayizAmaH",
+        "ardidizAmaH"
+      ],
+      "plit": [
+        "ardidayizAYcakAra",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakAra",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakratuH",
+        "ardidayizAmAsatuH",
+        "ardidayizAmbaBUvatuH",
+        "ardidizAYcakratuH",
+        "ardidizAmAsatuH",
+        "ardidizAmbaBUvatuH",
+        "ardidayizAYcakruH",
+        "ardidayizAmAsuH",
+        "ardidayizAmbaBUvuH",
+        "ardidizAYcakruH",
+        "ardidizAmAsuH",
+        "ardidizAmbaBUvuH",
+        "ardidayizAYcakarTa",
+        "ardidayizAmAsiTa",
+        "ardidayizAmbaBUviTa",
+        "ardidizAYcakarTa",
+        "ardidizAmAsiTa",
+        "ardidizAmbaBUviTa",
+        "ardidayizAYcakraTuH",
+        "ardidayizAmAsaTuH",
+        "ardidayizAmbaBUvaTuH",
+        "ardidizAYcakraTuH",
+        "ardidizAmAsaTuH",
+        "ardidizAmbaBUvaTuH",
+        "ardidayizAYcakra",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakra",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakara",
+        "ardidayizAYcakAra",
+        "ardidayizAmAsa",
+        "ardidayizAmbaBUva",
+        "ardidizAYcakara",
+        "ardidizAYcakAra",
+        "ardidizAmAsa",
+        "ardidizAmbaBUva",
+        "ardidayizAYcakfva",
+        "ardidayizAmAsiva",
+        "ardidayizAmbaBUviva",
+        "ardidizAYcakfva",
+        "ardidizAmAsiva",
+        "ardidizAmbaBUviva",
+        "ardidayizAYcakfma",
+        "ardidayizAmAsima",
+        "ardidayizAmbaBUvima",
+        "ardidizAYcakfma",
+        "ardidizAmAsima",
+        "ardidizAmbaBUvima"
+      ],
+      "plot": [
+        "ardidayizatAt",
+        "ardidayizatAd",
+        "ardidayizatu",
+        "ardidizatAt",
+        "ardidizatAd",
+        "ardidizatu",
+        "ardidayizatAm",
+        "ardidizatAm",
+        "ardidayizantu",
+        "ardidizantu",
+        "ardidayiza",
+        "ardidayizatAt",
+        "ardidayizatAd",
+        "ardidiza",
+        "ardidizatAt",
+        "ardidizatAd",
+        "ardidayizatam",
+        "ardidizatam",
+        "ardidayizata",
+        "ardidizata",
+        "ardidayizARi",
+        "ardidizARi",
+        "ardidayizAva",
+        "ardidizAva",
+        "ardidayizAma",
+        "ardidizAma"
+      ],
+      "plrung": [
+        "Ardidayizizyat",
+        "Ardidayizizyad",
+        "Ardidizizyat",
+        "Ardidizizyad",
+        "ArdidayizizyatAm",
+        "ArdidizizyatAm",
+        "Ardidayizizyan",
+        "Ardidizizyan",
+        "ArdidayizizyaH",
+        "ArdidizizyaH",
+        "Ardidayizizyatam",
+        "Ardidizizyatam",
+        "Ardidayizizyata",
+        "Ardidizizyata",
+        "Ardidayizizyam",
+        "Ardidizizyam",
+        "ArdidayizizyAva",
+        "ArdidizizyAva",
+        "ArdidayizizyAma",
+        "ArdidizizyAma"
+      ],
+      "plrut": [
+        "ardidayizizyati",
+        "ardidizizyati",
+        "ardidayizizyataH",
+        "ardidizizyataH",
+        "ardidayizizyanti",
+        "ardidizizyanti",
+        "ardidayizizyasi",
+        "ardidizizyasi",
+        "ardidayizizyaTaH",
+        "ardidizizyaTaH",
+        "ardidayizizyaTa",
+        "ardidizizyaTa",
+        "ardidayizizyAmi",
+        "ardidizizyAmi",
+        "ardidayizizyAvaH",
+        "ardidizizyAvaH",
+        "ardidayizizyAmaH",
+        "ardidizizyAmaH"
+      ],
+      "plung": [
+        "ArdidayizIt",
+        "ArdidayizId",
+        "ArdidizIt",
+        "ArdidizId",
+        "ArdidayizizwAm",
+        "ArdidizizwAm",
+        "ArdidayizizuH",
+        "ArdidizizuH",
+        "ArdidayizIH",
+        "ArdidizIH",
+        "Ardidayizizwam",
+        "Ardidizizwam",
+        "Ardidayizizwa",
+        "Ardidizizwa",
+        "Ardidayizizam",
+        "Ardidizizam",
+        "Ardidayizizva",
+        "Ardidizizva",
+        "Ardidayizizma",
+        "Ardidizizma"
+      ],
+      "plut": [
+        "ardidayizitA",
+        "ardidizitA",
+        "ardidayizitArO",
+        "ardidizitArO",
+        "ardidayizitAraH",
+        "ardidizitAraH",
+        "ardidayizitAsi",
+        "ardidizitAsi",
+        "ardidayizitAsTaH",
+        "ardidizitAsTaH",
+        "ardidayizitAsTa",
+        "ardidizitAsTa",
+        "ardidayizitAsmi",
+        "ardidizitAsmi",
+        "ardidayizitAsvaH",
+        "ardidizitAsvaH",
+        "ardidayizitAsmaH",
+        "ardidizitAsmaH"
+      ],
+      "pvidhiling": [
+        "ardidayizet",
+        "ardidayized",
+        "ardidizet",
+        "ardidized",
+        "ardidayizetAm",
+        "ardidizetAm",
+        "ardidayizeyuH",
+        "ardidizeyuH",
+        "ardidayizeH",
+        "ardidizeH",
+        "ardidayizetam",
+        "ardidizetam",
+        "ardidayizeta",
+        "ardidizeta",
+        "ardidayizeyam",
+        "ardidizeyam",
+        "ardidayizeva",
+        "ardidizeva",
+        "ardidayizema",
+        "ardidizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "ardidayizizIzwa",
+        "ardidizizIzwa",
+        "ardidayizizIyAstAm",
+        "ardidizizIyAstAm",
+        "ardidayizizIran",
+        "ardidizizIran",
+        "ardidayizizIzWAH",
+        "ardidizizIzWAH",
+        "ardidayizizIyAsTAm",
+        "ardidizizIyAsTAm",
+        "ardidayizizIDvam",
+        "ardidizizIDvam",
+        "ardidayizizIya",
+        "ardidizizIya",
+        "ardidayizizIvahi",
+        "ardidizizIvahi",
+        "ardidayizizImahi",
+        "ardidizizImahi"
+      ],
+      "alang": [
+        "Ardidayizyata",
+        "Ardidizyata",
+        "ArdidayizyetAm",
+        "ArdidizyetAm",
+        "Ardidayizyanta",
+        "Ardidizyanta",
+        "ArdidayizyaTAH",
+        "ArdidizyaTAH",
+        "ArdidayizyeTAm",
+        "ArdidizyeTAm",
+        "ArdidayizyaDvam",
+        "ArdidizyaDvam",
+        "Ardidayizye",
+        "Ardidizye",
+        "ArdidayizyAvahi",
+        "ArdidizyAvahi",
+        "ArdidayizyAmahi",
+        "ArdidizyAmahi"
+      ],
+      "alat": [
+        "ardidayizyate",
+        "ardidizyate",
+        "ardidayizyete",
+        "ardidizyete",
+        "ardidayizyante",
+        "ardidizyante",
+        "ardidayizyase",
+        "ardidizyase",
+        "ardidayizyeTe",
+        "ardidizyeTe",
+        "ardidayizyaDve",
+        "ardidizyaDve",
+        "ardidayizye",
+        "ardidizye",
+        "ardidayizyAvahe",
+        "ardidizyAvahe",
+        "ardidayizyAmahe",
+        "ardidizyAmahe"
+      ],
+      "alit": [
+        "ardidayizAYcakre",
+        "ardidayizAmAse",
+        "ardidayizAmbaBUve",
+        "ardidizAYcakre",
+        "ardidizAmAse",
+        "ardidizAmbaBUve",
+        "ardidayizAYcakrAte",
+        "ardidayizAmAsAte",
+        "ardidayizAmbaBUvAte",
+        "ardidizAYcakrAte",
+        "ardidizAmAsAte",
+        "ardidizAmbaBUvAte",
+        "ardidayizAYcakrire",
+        "ardidayizAmAsire",
+        "ardidayizAmbaBUvire",
+        "ardidizAYcakrire",
+        "ardidizAmAsire",
+        "ardidizAmbaBUvire",
+        "ardidayizAYcakfze",
+        "ardidayizAmAsize",
+        "ardidayizAmbaBUvize",
+        "ardidizAYcakfze",
+        "ardidizAmAsize",
+        "ardidizAmbaBUvize",
+        "ardidayizAYcakrATe",
+        "ardidayizAmAsATe",
+        "ardidayizAmbaBUvATe",
+        "ardidizAYcakrATe",
+        "ardidizAmAsATe",
+        "ardidizAmbaBUvATe",
+        "ardidayizAYcakfQve",
+        "ardidayizAmAsiDve",
+        "ardidayizAmbaBUviQve",
+        "ardidizAYcakfQve",
+        "ardidizAmAsiDve",
+        "ardidizAmbaBUviQve",
+        "ardidayizAYcakre",
+        "ardidayizAmAhe",
+        "ardidayizAmbaBUve",
+        "ardidizAYcakre",
+        "ardidizAmAhe",
+        "ardidizAmbaBUve",
+        "ardidayizAYcakfvahe",
+        "ardidayizAmAsivahe",
+        "ardidayizAmbaBUvivahe",
+        "ardidizAYcakfvahe",
+        "ardidizAmAsivahe",
+        "ardidizAmbaBUvivahe",
+        "ardidayizAYcakfmahe",
+        "ardidayizAmAsimahe",
+        "ardidayizAmbaBUvimahe",
+        "ardidizAYcakfmahe",
+        "ardidizAmAsimahe",
+        "ardidizAmbaBUvimahe"
+      ],
+      "alot": [
+        "ardidayizyatAm",
+        "ardidizyatAm",
+        "ardidayizyetAm",
+        "ardidizyetAm",
+        "ardidayizyantAm",
+        "ardidizyantAm",
+        "ardidayizyasva",
+        "ardidizyasva",
+        "ardidayizyeTAm",
+        "ardidizyeTAm",
+        "ardidayizyaDvam",
+        "ardidizyaDvam",
+        "ardidayizyE",
+        "ardidizyE",
+        "ardidayizyAvahE",
+        "ardidizyAvahE",
+        "ardidayizyAmahE",
+        "ardidizyAmahE"
+      ],
+      "alrung": [
+        "Ardidayizizyata",
+        "Ardidizizyata",
+        "ArdidayizizyetAm",
+        "ArdidizizyetAm",
+        "Ardidayizizyanta",
+        "Ardidizizyanta",
+        "ArdidayizizyaTAH",
+        "ArdidizizyaTAH",
+        "ArdidayizizyeTAm",
+        "ArdidizizyeTAm",
+        "ArdidayizizyaDvam",
+        "ArdidizizyaDvam",
+        "Ardidayizizye",
+        "Ardidizizye",
+        "ArdidayizizyAvahi",
+        "ArdidizizyAvahi",
+        "ArdidayizizyAmahi",
+        "ArdidizizyAmahi"
+      ],
+      "alrut": [
+        "ardidayizizyate",
+        "ardidizizyate",
+        "ardidayizizyete",
+        "ardidizizyete",
+        "ardidayizizyante",
+        "ardidizizyante",
+        "ardidayizizyase",
+        "ardidizizyase",
+        "ardidayizizyeTe",
+        "ardidizizyeTe",
+        "ardidayizizyaDve",
+        "ardidizizyaDve",
+        "ardidayizizye",
+        "ardidizizye",
+        "ardidayizizyAvahe",
+        "ardidizizyAvahe",
+        "ardidayizizyAmahe",
+        "ardidizizyAmahe"
+      ],
+      "alung": [
+        "Ardidayizi",
+        "Ardidizi",
+        "ArdidayizizAtAm",
+        "ArdidizizAtAm",
+        "Ardidayizizata",
+        "Ardidizizata",
+        "ArdidayizizWAH",
+        "ArdidizizWAH",
+        "ArdidayizizATAm",
+        "ArdidizizATAm",
+        "ArdidayiziDvam",
+        "ArdidiziDvam",
+        "Ardidayizizi",
+        "Ardidizizi",
+        "Ardidayizizvahi",
+        "Ardidizizvahi",
+        "Ardidayizizmahi",
+        "Ardidizizmahi"
+      ],
+      "alut": [
+        "ardidayizitA",
+        "ardidizitA",
+        "ardidayizitArO",
+        "ardidizitArO",
+        "ardidayizitAraH",
+        "ardidizitAraH",
+        "ardidayizitAse",
+        "ardidizitAse",
+        "ardidayizitAsATe",
+        "ardidizitAsATe",
+        "ardidayizitADve",
+        "ardidizitADve",
+        "ardidayizitAhe",
+        "ardidizitAhe",
+        "ardidayizitAsvahe",
+        "ardidizitAsvahe",
+        "ardidayizitAsmahe",
+        "ardidizitAsmahe"
+      ],
+      "avidhiling": [
+        "ardidayizyeta",
+        "ardidizyeta",
+        "ardidayizyeyAtAm",
+        "ardidizyeyAtAm",
+        "ardidayizyeran",
+        "ardidizyeran",
+        "ardidayizyeTAH",
+        "ardidizyeTAH",
+        "ardidayizyeyATAm",
+        "ardidizyeyATAm",
+        "ardidayizyeDvam",
+        "ardidizyeDvam",
+        "ardidayizyeya",
+        "ardidizyeya",
+        "ardidayizyevahi",
+        "ardidizyevahi",
+        "ardidayizyemahi",
+        "ardidizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "ardayizIzwa",
+        "ardayizIyAstAm",
+        "ardayizIran",
+        "ardayizIzWAH",
+        "ardayizIyAsTAm",
+        "ardayizIQvam",
+        "ardayizIDvam",
+        "ardayizIya",
+        "ardayizIvahi",
+        "ardayizImahi"
+      ],
+      "alang": [
+        "Ardayata",
+        "ArdayetAm",
+        "Ardayanta",
+        "ArdayaTAH",
+        "ArdayeTAm",
+        "ArdayaDvam",
+        "Ardaye",
+        "ArdayAvahi",
+        "ArdayAmahi"
+      ],
+      "alat": [
+        "ardayate",
+        "ardayete",
+        "ardayante",
+        "ardayase",
+        "ardayeTe",
+        "ardayaDve",
+        "ardaye",
+        "ardayAvahe",
+        "ardayAmahe"
+      ],
+      "alit": [
+        "ardayAYcakre",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakrAte",
+        "ardayAmAsatuH",
+        "ardayAmbaBUvatuH",
+        "ardayAYcakrire",
+        "ardayAmAsuH",
+        "ardayAmbaBUvuH",
+        "ardayAYcakfze",
+        "ardayAmAsiTa",
+        "ardayAmbaBUviTa",
+        "ardayAYcakrATe",
+        "ardayAmAsaTuH",
+        "ardayAmbaBUvaTuH",
+        "ardayAYcakfQve",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakre",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakfvahe",
+        "ardayAmAsiva",
+        "ardayAmbaBUviva",
+        "ardayAYcakfmahe",
+        "ardayAmAsima",
+        "ardayAmbaBUvima"
+      ],
+      "alot": [
+        "ardayatAm",
+        "ardayetAm",
+        "ardayantAm",
+        "ardayasva",
+        "ardayeTAm",
+        "ardayaDvam",
+        "ardayE",
+        "ardayAvahE",
+        "ardayAmahE"
+      ],
+      "alrung": [
+        "Ardayizyata",
+        "ArdayizyetAm",
+        "Ardayizyanta",
+        "ArdayizyaTAH",
+        "ArdayizyeTAm",
+        "ArdayizyaDvam",
+        "Ardayizye",
+        "ArdayizyAvahi",
+        "ArdayizyAmahi"
+      ],
+      "alrut": [
+        "ardayizyate",
+        "ardayizyete",
+        "ardayizyante",
+        "ardayizyase",
+        "ardayizyeTe",
+        "ardayizyaDve",
+        "ardayizye",
+        "ardayizyAvahe",
+        "ardayizyAmahe"
+      ],
+      "alung": [
+        "Ardidata",
+        "ArdidetAm",
+        "Ardidanta",
+        "ArdidaTAH",
+        "ArdideTAm",
+        "ArdidaDvam",
+        "Ardide",
+        "ArdidAvahi",
+        "ArdidAmahi"
+      ],
+      "alut": [
+        "ardayitA",
+        "ardayitArO",
+        "ardayitAraH",
+        "ardayitAse",
+        "ardayitAsATe",
+        "ardayitADve",
+        "ardayitAhe",
+        "ardayitAsvahe",
+        "ardayitAsmahe"
+      ],
+      "avidhiling": [
+        "ardayeta",
+        "ardayeyAtAm",
+        "ardayeran",
+        "ardayeTAH",
+        "ardayeyATAm",
+        "ardayeDvam",
+        "ardayeya",
+        "ardayevahi",
+        "ardayemahi"
+      ],
+      "pashirling": [
+        "ardyAt",
+        "ardyAd",
+        "ardyAstAm",
+        "ardyAsuH",
+        "ardyAH",
+        "ardyAstam",
+        "ardyAsta",
+        "ardyAsam",
+        "ardyAsva",
+        "ardyAsma"
+      ],
+      "plang": [
+        "Ardayat",
+        "Ardayad",
+        "ArdayatAm",
+        "Ardayan",
+        "ArdayaH",
+        "Ardayatam",
+        "Ardayata",
+        "Ardayam",
+        "ArdayAva",
+        "ArdayAma"
+      ],
+      "plat": [
+        "ardayati",
+        "ardayataH",
+        "ardayanti",
+        "ardayasi",
+        "ardayaTaH",
+        "ardayaTa",
+        "ardayAmi",
+        "ardayAvaH",
+        "ardayAmaH"
+      ],
+      "plit": [
+        "ardayAYcakAra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakratuH",
+        "ardayAmAsatuH",
+        "ardayAmbaBUvatuH",
+        "ardayAYcakruH",
+        "ardayAmAsuH",
+        "ardayAmbaBUvuH",
+        "ardayAYcakarTa",
+        "ardayAmAsiTa",
+        "ardayAmbaBUviTa",
+        "ardayAYcakraTuH",
+        "ardayAmAsaTuH",
+        "ardayAmbaBUvaTuH",
+        "ardayAYcakra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakara",
+        "ardayAYcakAra",
+        "ardayAmAsa",
+        "ardayAmbaBUva",
+        "ardayAYcakfva",
+        "ardayAmAsiva",
+        "ardayAmbaBUviva",
+        "ardayAYcakfma",
+        "ardayAmAsima",
+        "ardayAmbaBUvima"
+      ],
+      "plot": [
+        "ardayatAt",
+        "ardayatAd",
+        "ardayatu",
+        "ardayatAm",
+        "ardayantu",
+        "ardaya",
+        "ardayatAt",
+        "ardayatAd",
+        "ardayatam",
+        "ardayata",
+        "ardayAni",
+        "ardayAva",
+        "ardayAma"
+      ],
+      "plrung": [
+        "Ardayizyat",
+        "Ardayizyad",
+        "ArdayizyatAm",
+        "Ardayizyan",
+        "ArdayizyaH",
+        "Ardayizyatam",
+        "Ardayizyata",
+        "Ardayizyam",
+        "ArdayizyAva",
+        "ArdayizyAma"
+      ],
+      "plrut": [
+        "ardayizyati",
+        "ardayizyataH",
+        "ardayizyanti",
+        "ardayizyasi",
+        "ardayizyaTaH",
+        "ardayizyaTa",
+        "ardayizyAmi",
+        "ardayizyAvaH",
+        "ardayizyAmaH"
+      ],
+      "plung": [
+        "Ardidat",
+        "Ardidad",
+        "ArdidatAm",
+        "Ardidan",
+        "ArdidaH",
+        "Ardidatam",
+        "Ardidata",
+        "Ardidam",
+        "ArdidAva",
+        "ArdidAma"
+      ],
+      "plut": [
+        "ardayitA",
+        "ardayitArO",
+        "ardayitAraH",
+        "ardayitAsi",
+        "ardayitAsTaH",
+        "ardayitAsTa",
+        "ardayitAsmi",
+        "ardayitAsvaH",
+        "ardayitAsmaH"
+      ],
+      "pvidhiling": [
+        "ardayet",
+        "ardayed",
+        "ardayetAm",
+        "ardayeyuH",
+        "ardayeH",
+        "ardayetam",
+        "ardayeta",
+        "ardayeyam",
+        "ardayeva",
+        "ardayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "ardayizIzwa",
+        "ardizIzwa",
+        "ardayizIyAstAm",
+        "ardizIyAstAm",
+        "ardayizIran",
+        "ardizIran",
+        "ardayizIzWAH",
+        "ardizIzWAH",
+        "ardayizIyAsTAm",
+        "ardizIyAsTAm",
+        "ardayizIQvam",
+        "ardayizIDvam",
+        "ardizIDvam",
+        "ardayizIya",
+        "ardizIya",
+        "ardayizIvahi",
+        "ardizIvahi",
+        "ardayizImahi",
+        "ardizImahi"
+      ],
+      "alang": [
+        "Ardyata",
+        "ArdyetAm",
+        "Ardyanta",
+        "ArdyaTAH",
+        "ArdyeTAm",
+        "ArdyaDvam",
+        "Ardye",
+        "ArdyAvahi",
+        "ArdyAmahi"
+      ],
+      "alat": [
+        "ardyate",
+        "ardyete",
+        "ardyante",
+        "ardyase",
+        "ardyeTe",
+        "ardyaDve",
+        "ardye",
+        "ardyAvahe",
+        "ardyAmahe"
+      ],
+      "alit": [
+        "ardayAYcakre",
+        "ardayAmAse",
+        "ardayAmbaBUve",
+        "ardayAYcakrAte",
+        "ardayAmAsAte",
+        "ardayAmbaBUvAte",
+        "ardayAYcakrire",
+        "ardayAmAsire",
+        "ardayAmbaBUvire",
+        "ardayAYcakfze",
+        "ardayAmAsize",
+        "ardayAmbaBUvize",
+        "ardayAYcakrATe",
+        "ardayAmAsATe",
+        "ardayAmbaBUvATe",
+        "ardayAYcakfQve",
+        "ardayAmAsiDve",
+        "ardayAmbaBUviQve",
+        "ardayAYcakre",
+        "ardayAmAhe",
+        "ardayAmbaBUve",
+        "ardayAYcakfvahe",
+        "ardayAmAsivahe",
+        "ardayAmbaBUvivahe",
+        "ardayAYcakfmahe",
+        "ardayAmAsimahe",
+        "ardayAmbaBUvimahe"
+      ],
+      "alot": [
+        "ardyatAm",
+        "ardyetAm",
+        "ardyantAm",
+        "ardyasva",
+        "ardyeTAm",
+        "ardyaDvam",
+        "ardyE",
+        "ardyAvahE",
+        "ardyAmahE"
+      ],
+      "alrung": [
+        "Ardayizyata",
+        "Ardizyata",
+        "ArdayizyetAm",
+        "ArdizyetAm",
+        "Ardayizyanta",
+        "Ardizyanta",
+        "ArdayizyaTAH",
+        "ArdizyaTAH",
+        "ArdayizyeTAm",
+        "ArdizyeTAm",
+        "ArdayizyaDvam",
+        "ArdizyaDvam",
+        "Ardayizye",
+        "Ardizye",
+        "ArdayizyAvahi",
+        "ArdizyAvahi",
+        "ArdayizyAmahi",
+        "ArdizyAmahi"
+      ],
+      "alrut": [
+        "ardayizyate",
+        "ardizyate",
+        "ardayizyete",
+        "ardizyete",
+        "ardayizyante",
+        "ardizyante",
+        "ardayizyase",
+        "ardizyase",
+        "ardayizyeTe",
+        "ardizyeTe",
+        "ardayizyaDve",
+        "ardizyaDve",
+        "ardayizye",
+        "ardizye",
+        "ardayizyAvahe",
+        "ardizyAvahe",
+        "ardayizyAmahe",
+        "ardizyAmahe"
+      ],
+      "alung": [
+        "Ardi",
+        "ArdayizAtAm",
+        "ArdizAtAm",
+        "Ardayizata",
+        "Ardizata",
+        "ArdayizWAH",
+        "ArdizWAH",
+        "ArdayizATAm",
+        "ArdizATAm",
+        "ArdayiQvam",
+        "ArdayiDvam",
+        "ArdiDvam",
+        "Ardayizi",
+        "Ardizi",
+        "Ardayizvahi",
+        "Ardizvahi",
+        "Ardayizmahi",
+        "Ardizmahi"
+      ],
+      "alut": [
+        "ardayitA",
+        "arditA",
+        "ardayitArO",
+        "arditArO",
+        "ardayitAraH",
+        "arditAraH",
+        "ardayitAse",
+        "arditAse",
+        "ardayitAsATe",
+        "arditAsATe",
+        "ardayitADve",
+        "arditADve",
+        "ardayitAhe",
+        "arditAhe",
+        "ardayitAsvahe",
+        "arditAsvahe",
+        "ardayitAsmahe",
+        "arditAsmahe"
+      ],
+      "avidhiling": [
+        "ardyeta",
+        "ardyeyAtAm",
+        "ardyeran",
+        "ardyeTAH",
+        "ardyeyATAm",
+        "ardyeDvam",
+        "ardyeya",
+        "ardyevahi",
+        "ardyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "ardA",
+          "m": "",
+          "f": "ardA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "arda",
+          "m": "ardaH",
+          "f": "ardA",
+          "n": "ardam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ardanIya",
+          "m": "ardanIyaH",
+          "f": "ardanIyA",
+          "n": "ardanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ardita",
+          "m": "arditaH",
+          "f": "arditA",
+          "n": "arditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "arditavat",
+          "m": "arditavAn",
+          "f": "arditavatI",
+          "n": "arditavat/arditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "arti",
+          "m": "",
+          "f": "artiH",
+          "n": ""
+        },
+        {
+          "base": "artti",
+          "m": "",
+          "f": "arttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "arditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "Anardivas",
+          "m": "AnardivAn",
+          "f": "AnarduzI",
+          "n": "Anardivat/Anardivad"
+        },
+        {
+          "base": "ardayAmbaBUvas",
+          "m": "ardayAmbaBUvAn",
+          "f": "ardayAmbaBUzI",
+          "n": "ardayAmbaBUvat/ardayAmbaBUvad"
+        },
+        {
+          "base": "ardayAmAsivas",
+          "m": "ardayAmAsivAn",
+          "f": "ardayAmAsuzI",
+          "n": "ardayAmAsivat/ardayAmAsivad"
+        },
+        {
+          "base": "ardayAYcakfvas",
+          "m": "ardayAYcakfvAn",
+          "f": "ardayAYcakruzI",
+          "n": "ardayAYcakfvat/ardayAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "arda",
+          "m": "ardaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ardamAna",
+          "m": "ardamAnaH",
+          "f": "ardamAnA",
+          "n": "ardamAnam"
+        },
+        {
+          "base": "ardayamAna",
+          "m": "ardayamAnaH",
+          "f": "ardayamAnA",
+          "n": "ardayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ardam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "ardya",
+          "m": "ardyaH",
+          "f": "ardyA",
+          "n": "ardyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ardaka",
+          "m": "ardakaH",
+          "f": "ardikA",
+          "n": "ardakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "arditavya",
+          "m": "arditavyaH",
+          "f": "arditavyA",
+          "n": "arditavyam"
+        },
+        {
+          "base": "ardayitavya",
+          "m": "ardayitavyaH",
+          "f": "ardayitavyA",
+          "n": "ardayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "arditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "arditf",
+          "m": "arditA",
+          "f": "arditrI",
+          "n": "arditf"
+        },
+        {
+          "base": "ardayitf",
+          "m": "ardayitA",
+          "f": "ardayitrI",
+          "n": "ardayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ardyamAna",
+          "m": "ardyamAnaH",
+          "f": "ardyamAnA",
+          "n": "ardyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ardya",
+          "m": "ardyaH",
+          "f": "ardyA",
+          "n": "ardyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prArdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ardana",
+          "m": "",
+          "f": "",
+          "n": "ardanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ardaka",
+          "m": "ardakaH",
+          "f": "ardikA",
+          "n": "ardakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ardat",
+          "m": "ardan",
+          "f": "ardantI",
+          "n": "ardat/ardad"
+        },
+        {
+          "base": "ardayat",
+          "m": "ardayan",
+          "f": "ardayantI",
+          "n": "ardayat/ardayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ardamAna",
+          "m": "ardamAnaH",
+          "f": "ardamAnA",
+          "n": "ardamAnam"
+        },
+        {
+          "base": "ardayamAna",
+          "m": "ardayamAnaH",
+          "f": "ardayamAnA",
+          "n": "ardayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ardizyamARa",
+          "m": "ardizyamARaH",
+          "f": "ardizyamARA",
+          "n": "ardizyamARam"
+        },
+        {
+          "base": "ardayizyamARa",
+          "m": "ardayizyamARaH",
+          "f": "ardayizyamARA",
+          "n": "ardayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ardizyat",
+          "m": "ardizyan",
+          "f": "ardizyatI/ardizyantI",
+          "n": "ardizyat/ardizyad"
+        },
+        {
+          "base": "ardayizyat",
+          "m": "ardayizyan",
+          "f": "ardayizyatI/ardayizyantI",
+          "n": "ardayizyat/ardayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ardizyamARa",
+          "m": "ardizyamARaH",
+          "f": "ardizyamARA",
+          "n": "ardizyamARam"
+        },
+        {
+          "base": "ardayizyamARa",
+          "m": "ardayizyamARaH",
+          "f": "ardayizyamARA",
+          "n": "ardayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "ardidizA",
+          "m": "",
+          "f": "ardidizA",
+          "n": ""
+        },
+        {
+          "base": "ardidayizA",
+          "m": "",
+          "f": "ardidayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "ardidiza",
+          "m": "ardidizaH",
+          "f": "ardidizA",
+          "n": "ardidizam"
+        },
+        {
+          "base": "ardidayiza",
+          "m": "ardidayizaH",
+          "f": "ardidayizA",
+          "n": "ardidayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ardidizaRIya",
+          "m": "ardidizaRIyaH",
+          "f": "ardidizaRIyA",
+          "n": "ardidizaRIyam"
+        },
+        {
+          "base": "ardidayizaRIya",
+          "m": "ardidayizaRIyaH",
+          "f": "ardidayizaRIyA",
+          "n": "ardidayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "ardidizu",
+          "m": "ardidizuH",
+          "f": "ardidizuH",
+          "n": "ardidizu"
+        },
+        {
+          "base": "ardidayizu",
+          "m": "ardidayizuH",
+          "f": "ardidayizuH",
+          "n": "ardidayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ardidizita",
+          "m": "ardidizitaH",
+          "f": "ardidizitA",
+          "n": "ardidizitam"
+        },
+        {
+          "base": "ardidayizita",
+          "m": "ardidayizitaH",
+          "f": "ardidayizitA",
+          "n": "ardidayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "ardidizitavat",
+          "m": "ardidizitavAn",
+          "f": "ardidizitavatI",
+          "n": "ardidizitavat/ardidizitavad"
+        },
+        {
+          "base": "ardidayizitavat",
+          "m": "ardidayizitavAn",
+          "f": "ardidayizitavatI",
+          "n": "ardidayizitavat/ardidayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "ardidizwi",
+          "m": "",
+          "f": "ardidizwiH",
+          "n": ""
+        },
+        {
+          "base": "ardidayizwi",
+          "m": "",
+          "f": "ardidayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ardidizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardidayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ardidizAmbaBUvas",
+          "m": "ardidizAmbaBUvAn",
+          "f": "ardidizAmbaBUzI",
+          "n": "ardidizAmbaBUvat/ardidizAmbaBUvad"
+        },
+        {
+          "base": "ardidizAmAsivas",
+          "m": "ardidizAmAsivAn",
+          "f": "ardidizAmAsyuzI",
+          "n": "ardidizAmAsivat/ardidizAmAsivad"
+        },
+        {
+          "base": "ardidizAYcakfvas",
+          "m": "ardidizAYcakfvAn",
+          "f": "ardidizAYcakruzI",
+          "n": "ardidizAYcakfvat/ardidizAYcakfvad"
+        },
+        {
+          "base": "ardidayizAmbaBUvas",
+          "m": "ardidayizAmbaBUvAn",
+          "f": "ardidayizAmbaBUzI",
+          "n": "ardidayizAmbaBUvat/ardidayizAmbaBUvad"
+        },
+        {
+          "base": "ardidayizAmAsivas",
+          "m": "ardidayizAmAsivAn",
+          "f": "ardidayizAmAsyuzI",
+          "n": "ardidayizAmAsivat/ardidayizAmAsivad"
+        },
+        {
+          "base": "ardidayizAYcakfvas",
+          "m": "ardidayizAYcakfvAn",
+          "f": "ardidayizAYcakruzI",
+          "n": "ardidayizAYcakfvat/ardidayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "ardidiza",
+          "m": "ardidizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardidayiza",
+          "m": "ardidayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ardidizamARa",
+          "m": "ardidizamARaH",
+          "f": "ardidizamARA",
+          "n": "ardidizamARam"
+        },
+        {
+          "base": "ardidayizamARa",
+          "m": "ardidayizamARaH",
+          "f": "ardidayizamARA",
+          "n": "ardidayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ardidizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardidayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ardidizaka",
+          "m": "ardidizakaH",
+          "f": "ardidizikA",
+          "n": "ardidizakam"
+        },
+        {
+          "base": "ardidayizaka",
+          "m": "ardidayizakaH",
+          "f": "ardidayizikA",
+          "n": "ardidayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ardidizitavya",
+          "m": "ardidizitavyaH",
+          "f": "ardidizitavyA",
+          "n": "ardidizitavyam"
+        },
+        {
+          "base": "ardidayizitavya",
+          "m": "ardidayizitavyaH",
+          "f": "ardidayizitavyA",
+          "n": "ardidayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ardidizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "ardidayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ardidizitf",
+          "m": "ardidizitA",
+          "f": "ardidizitrI",
+          "n": "ardidizitf"
+        },
+        {
+          "base": "ardidayizitf",
+          "m": "ardidayizitA",
+          "f": "ardidayizitrI",
+          "n": "ardidayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ardidizyamARa",
+          "m": "ardidizyamARaH",
+          "f": "ardidizyamARA",
+          "n": "ardidizyamARam"
+        },
+        {
+          "base": "ardidayizyamARa",
+          "m": "ardidayizyamARaH",
+          "f": "ardidayizyamARA",
+          "n": "ardidayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ardidizya",
+          "m": "ardidizyaH",
+          "f": "ardidizyA",
+          "n": "ardidizyam"
+        },
+        {
+          "base": "ardidayizya",
+          "m": "ardidayizyaH",
+          "f": "ardidayizyA",
+          "n": "ardidayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prArdidizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prArdidayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ardidizaRa",
+          "m": "",
+          "f": "",
+          "n": "ardidizaRam"
+        },
+        {
+          "base": "ardidayizaRa",
+          "m": "",
+          "f": "",
+          "n": "ardidayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ardidizaka",
+          "m": "ardidizakaH",
+          "f": "ardidizikA",
+          "n": "ardidizakam"
+        },
+        {
+          "base": "ardidayizaka",
+          "m": "ardidayizakaH",
+          "f": "ardidayizikA",
+          "n": "ardidayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ardidizat",
+          "m": "ardidizan",
+          "f": "ardidizantI",
+          "n": "ardidizat/ardidizad"
+        },
+        {
+          "base": "ardidayizat",
+          "m": "ardidayizan",
+          "f": "ardidayizantI",
+          "n": "ardidayizat/ardidayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ardidizamARa",
+          "m": "ardidizamARaH",
+          "f": "ardidizamARA",
+          "n": "ardidizamARam"
+        },
+        {
+          "base": "ardidayizamARa",
+          "m": "ardidayizamARaH",
+          "f": "ardidayizamARA",
+          "n": "ardidayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ardidizizyamARa",
+          "m": "ardidizizyamARaH",
+          "f": "ardidizizyamARA",
+          "n": "ardidizizyamARam"
+        },
+        {
+          "base": "ardidayizizyamARa",
+          "m": "ardidayizizyamARaH",
+          "f": "ardidayizizyamARA",
+          "n": "ardidayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ardidizizyat",
+          "m": "ardidizizyan",
+          "f": "ardidizizyatI/ardidizizyantI",
+          "n": "ardidizizyat/ardidizizyad"
+        },
+        {
+          "base": "ardidayizizyat",
+          "m": "ardidayizizyan",
+          "f": "ardidayizizyatI/ardidayizizyantI",
+          "n": "ardidayizizyat/ardidayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ardidizizyamARa",
+          "m": "ardidizizyamARaH",
+          "f": "ardidizizyamARA",
+          "n": "ardidizizyamARam"
+        },
+        {
+          "base": "ardidayizizyamARa",
+          "m": "ardidayizizyamARaH",
+          "f": "ardidayizizyamARA",
+          "n": "ardidayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "arda",
+          "m": "ardaH",
+          "f": "ardA",
+          "n": "ardam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "ardanIya",
+          "m": "ardanIyaH",
+          "f": "ardanIyA",
+          "n": "ardanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "ardita",
+          "m": "arditaH",
+          "f": "arditA",
+          "n": "arditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "arditavat",
+          "m": "arditavAn",
+          "f": "arditavatI",
+          "n": "arditavat/arditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "arti",
+          "m": "",
+          "f": "artiH",
+          "n": ""
+        },
+        {
+          "base": "artti",
+          "m": "",
+          "f": "arttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "ardayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "ardayAmbaBUvas",
+          "m": "ardayAmbaBUvAn",
+          "f": "ardayAmbaBUzI",
+          "n": "ardayAmbaBUvat/ardayAmbaBUvad"
+        },
+        {
+          "base": "ardayAmAsivas",
+          "m": "ardayAmAsivAn",
+          "f": "ardayAmAsyuzI",
+          "n": "ardayAmAsivat/ardayAmAsivad"
+        },
+        {
+          "base": "ardayAYcakfvas",
+          "m": "ardayAYcakfvAn",
+          "f": "ardayAYcakruzI",
+          "n": "ardayAYcakfvat/ardayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "ardayamAna",
+          "m": "ardayamAnaH",
+          "f": "ardayamAnA",
+          "n": "ardayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "ardam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "ardaka",
+          "m": "ardakaH",
+          "f": "ardikA",
+          "n": "ardakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "ardayitavya",
+          "m": "ardayitavyaH",
+          "f": "ardayitavyA",
+          "n": "ardayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "ardayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "ardayitf",
+          "m": "ardayitA",
+          "f": "ardayitrI",
+          "n": "ardayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "ardyamAna",
+          "m": "ardyamAnaH",
+          "f": "ardyamAnA",
+          "n": "ardyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "ardya",
+          "m": "ardyaH",
+          "f": "ardyA",
+          "n": "ardyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prArdya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "ardana",
+          "m": "",
+          "f": "",
+          "n": "ardanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "ardaka",
+          "m": "ardakaH",
+          "f": "ardikA",
+          "n": "ardakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "ardayat",
+          "m": "ardayan",
+          "f": "ardayantI",
+          "n": "ardayat/ardayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "ardayamAna",
+          "m": "ardayamAnaH",
+          "f": "ardayamAnA",
+          "n": "ardayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "ardizyamARa",
+          "m": "ardizyamARaH",
+          "f": "ardizyamARA",
+          "n": "ardizyamARam"
+        },
+        {
+          "base": "ardayizyamARa",
+          "m": "ardayizyamARaH",
+          "f": "ardayizyamARA",
+          "n": "ardayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "ardayizyat",
+          "m": "ardayizyan",
+          "f": "ardayizyatI/ardayizyantI",
+          "n": "ardayizyat/ardayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "ardayizyamARa",
+          "m": "ardayizyamARaH",
+          "f": "ardayizyamARA",
+          "n": "ardayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "ard",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

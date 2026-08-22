@@ -1,0 +1,3895 @@
+{
+  "id": "10.0248",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "Gawa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "saNGAte"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to crush, to chop, to gather"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "GowanA, hilAnA, baworanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "Bedane ca ' iti DAtukAvyavyAKyA . ' hantyarTAcca ' (ga.sU.) - navagaRyAm uktAH api hantyarTAH svArTe RicaM laBante ityarTaH ' - kOmudI . ' hana hiMsAgatyoriti hanaDAtoH hiMsA gamanaM ca arTaH . etadarTakAH ye DAtavaH BvAdizu navasu gaRezu paWitAH te sarve curAdO paWitA: pratyetavyAH ityarTaH . tataSca teByaH svArTe Rijapi pakze Bavati iti Palitam \" - bAlamanoramA . ' GAwayed GaRwayed saNGaBAzayo: Gawate mitaH ' (Slo. 70) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "curAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1724"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1724"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2571",
+      "ext_link": "/sutraani/sk2571?scroll=sutra-commentary-kaumudi-region&highlight=Gawa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "GAwayizIzwa",
+        "GAwayizIyAstAm",
+        "GAwayizIran",
+        "GAwayizIzWAH",
+        "GAwayizIyAsTAm",
+        "GAwayizIQvam",
+        "GAwayizIDvam",
+        "GAwayizIya",
+        "GAwayizIvahi",
+        "GAwayizImahi"
+      ],
+      "alang": [
+        "aGAwayata",
+        "aGAwayetAm",
+        "aGAwayanta",
+        "aGAwayaTAH",
+        "aGAwayeTAm",
+        "aGAwayaDvam",
+        "aGAwaye",
+        "aGAwayAvahi",
+        "aGAwayAmahi"
+      ],
+      "alat": [
+        "GAwayate",
+        "GAwayete",
+        "GAwayante",
+        "GAwayase",
+        "GAwayeTe",
+        "GAwayaDve",
+        "GAwaye",
+        "GAwayAvahe",
+        "GAwayAmahe"
+      ],
+      "alit": [
+        "GAwayAYcakre",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakrAte",
+        "GAwayAmAsatuH",
+        "GAwayAmbaBUvatuH",
+        "GAwayAYcakrire",
+        "GAwayAmAsuH",
+        "GAwayAmbaBUvuH",
+        "GAwayAYcakfze",
+        "GAwayAmAsiTa",
+        "GAwayAmbaBUviTa",
+        "GAwayAYcakrATe",
+        "GAwayAmAsaTuH",
+        "GAwayAmbaBUvaTuH",
+        "GAwayAYcakfQve",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakre",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakfvahe",
+        "GAwayAmAsiva",
+        "GAwayAmbaBUviva",
+        "GAwayAYcakfmahe",
+        "GAwayAmAsima",
+        "GAwayAmbaBUvima"
+      ],
+      "alot": [
+        "GAwayatAm",
+        "GAwayetAm",
+        "GAwayantAm",
+        "GAwayasva",
+        "GAwayeTAm",
+        "GAwayaDvam",
+        "GAwayE",
+        "GAwayAvahE",
+        "GAwayAmahE"
+      ],
+      "alrung": [
+        "aGAwayizyata",
+        "aGAwayizyetAm",
+        "aGAwayizyanta",
+        "aGAwayizyaTAH",
+        "aGAwayizyeTAm",
+        "aGAwayizyaDvam",
+        "aGAwayizye",
+        "aGAwayizyAvahi",
+        "aGAwayizyAmahi"
+      ],
+      "alrut": [
+        "GAwayizyate",
+        "GAwayizyete",
+        "GAwayizyante",
+        "GAwayizyase",
+        "GAwayizyeTe",
+        "GAwayizyaDve",
+        "GAwayizye",
+        "GAwayizyAvahe",
+        "GAwayizyAmahe"
+      ],
+      "alung": [
+        "ajIGawata",
+        "ajIGawetAm",
+        "ajIGawanta",
+        "ajIGawaTAH",
+        "ajIGaweTAm",
+        "ajIGawaDvam",
+        "ajIGawe",
+        "ajIGawAvahi",
+        "ajIGawAmahi"
+      ],
+      "alut": [
+        "GAwayitA",
+        "GAwayitArO",
+        "GAwayitAraH",
+        "GAwayitAse",
+        "GAwayitAsATe",
+        "GAwayitADve",
+        "GAwayitAhe",
+        "GAwayitAsvahe",
+        "GAwayitAsmahe"
+      ],
+      "avidhiling": [
+        "GAwayeta",
+        "GAwayeyAtAm",
+        "GAwayeran",
+        "GAwayeTAH",
+        "GAwayeyATAm",
+        "GAwayeDvam",
+        "GAwayeya",
+        "GAwayevahi",
+        "GAwayemahi"
+      ],
+      "pashirling": [
+        "GAwyAt",
+        "GAwyAd",
+        "GAwyAstAm",
+        "GAwyAsuH",
+        "GAwyAH",
+        "GAwyAstam",
+        "GAwyAsta",
+        "GAwyAsam",
+        "GAwyAsva",
+        "GAwyAsma"
+      ],
+      "plang": [
+        "aGAwayat",
+        "aGAwayad",
+        "aGAwayatAm",
+        "aGAwayan",
+        "aGAwayaH",
+        "aGAwayatam",
+        "aGAwayata",
+        "aGAwayam",
+        "aGAwayAva",
+        "aGAwayAma"
+      ],
+      "plat": [
+        "GAwayati",
+        "GAwayataH",
+        "GAwayanti",
+        "GAwayasi",
+        "GAwayaTaH",
+        "GAwayaTa",
+        "GAwayAmi",
+        "GAwayAvaH",
+        "GAwayAmaH"
+      ],
+      "plit": [
+        "GAwayAYcakAra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakratuH",
+        "GAwayAmAsatuH",
+        "GAwayAmbaBUvatuH",
+        "GAwayAYcakruH",
+        "GAwayAmAsuH",
+        "GAwayAmbaBUvuH",
+        "GAwayAYcakarTa",
+        "GAwayAmAsiTa",
+        "GAwayAmbaBUviTa",
+        "GAwayAYcakraTuH",
+        "GAwayAmAsaTuH",
+        "GAwayAmbaBUvaTuH",
+        "GAwayAYcakra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakara",
+        "GAwayAYcakAra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakfva",
+        "GAwayAmAsiva",
+        "GAwayAmbaBUviva",
+        "GAwayAYcakfma",
+        "GAwayAmAsima",
+        "GAwayAmbaBUvima"
+      ],
+      "plot": [
+        "GAwayatAt",
+        "GAwayatAd",
+        "GAwayatu",
+        "GAwayatAm",
+        "GAwayantu",
+        "GAwaya",
+        "GAwayatAt",
+        "GAwayatAd",
+        "GAwayatam",
+        "GAwayata",
+        "GAwayAni",
+        "GAwayAva",
+        "GAwayAma"
+      ],
+      "plrung": [
+        "aGAwayizyat",
+        "aGAwayizyad",
+        "aGAwayizyatAm",
+        "aGAwayizyan",
+        "aGAwayizyaH",
+        "aGAwayizyatam",
+        "aGAwayizyata",
+        "aGAwayizyam",
+        "aGAwayizyAva",
+        "aGAwayizyAma"
+      ],
+      "plrut": [
+        "GAwayizyati",
+        "GAwayizyataH",
+        "GAwayizyanti",
+        "GAwayizyasi",
+        "GAwayizyaTaH",
+        "GAwayizyaTa",
+        "GAwayizyAmi",
+        "GAwayizyAvaH",
+        "GAwayizyAmaH"
+      ],
+      "plung": [
+        "ajIGawat",
+        "ajIGawad",
+        "ajIGawatAm",
+        "ajIGawan",
+        "ajIGawaH",
+        "ajIGawatam",
+        "ajIGawata",
+        "ajIGawam",
+        "ajIGawAva",
+        "ajIGawAma"
+      ],
+      "plut": [
+        "GAwayitA",
+        "GAwayitArO",
+        "GAwayitAraH",
+        "GAwayitAsi",
+        "GAwayitAsTaH",
+        "GAwayitAsTa",
+        "GAwayitAsmi",
+        "GAwayitAsvaH",
+        "GAwayitAsmaH"
+      ],
+      "pvidhiling": [
+        "GAwayet",
+        "GAwayed",
+        "GAwayetAm",
+        "GAwayeyuH",
+        "GAwayeH",
+        "GAwayetam",
+        "GAwayeta",
+        "GAwayeyam",
+        "GAwayeva",
+        "GAwayema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "GAwayizIzwa",
+        "GAwizIzwa",
+        "GAwayizIyAstAm",
+        "GAwizIyAstAm",
+        "GAwayizIran",
+        "GAwizIran",
+        "GAwayizIzWAH",
+        "GAwizIzWAH",
+        "GAwayizIyAsTAm",
+        "GAwizIyAsTAm",
+        "GAwayizIQvam",
+        "GAwayizIDvam",
+        "GAwizIDvam",
+        "GAwayizIya",
+        "GAwizIya",
+        "GAwayizIvahi",
+        "GAwizIvahi",
+        "GAwayizImahi",
+        "GAwizImahi"
+      ],
+      "alang": [
+        "aGAwyata",
+        "aGAwyetAm",
+        "aGAwyanta",
+        "aGAwyaTAH",
+        "aGAwyeTAm",
+        "aGAwyaDvam",
+        "aGAwye",
+        "aGAwyAvahi",
+        "aGAwyAmahi"
+      ],
+      "alat": [
+        "GAwyate",
+        "GAwyete",
+        "GAwyante",
+        "GAwyase",
+        "GAwyeTe",
+        "GAwyaDve",
+        "GAwye",
+        "GAwyAvahe",
+        "GAwyAmahe"
+      ],
+      "alit": [
+        "GAwayAYcakre",
+        "GAwayAmAse",
+        "GAwayAmbaBUve",
+        "GAwayAYcakrAte",
+        "GAwayAmAsAte",
+        "GAwayAmbaBUvAte",
+        "GAwayAYcakrire",
+        "GAwayAmAsire",
+        "GAwayAmbaBUvire",
+        "GAwayAYcakfze",
+        "GAwayAmAsize",
+        "GAwayAmbaBUvize",
+        "GAwayAYcakrATe",
+        "GAwayAmAsATe",
+        "GAwayAmbaBUvATe",
+        "GAwayAYcakfQve",
+        "GAwayAmAsiDve",
+        "GAwayAmbaBUviQve",
+        "GAwayAYcakre",
+        "GAwayAmAhe",
+        "GAwayAmbaBUve",
+        "GAwayAYcakfvahe",
+        "GAwayAmAsivahe",
+        "GAwayAmbaBUvivahe",
+        "GAwayAYcakfmahe",
+        "GAwayAmAsimahe",
+        "GAwayAmbaBUvimahe"
+      ],
+      "alot": [
+        "GAwyatAm",
+        "GAwyetAm",
+        "GAwyantAm",
+        "GAwyasva",
+        "GAwyeTAm",
+        "GAwyaDvam",
+        "GAwyE",
+        "GAwyAvahE",
+        "GAwyAmahE"
+      ],
+      "alrung": [
+        "aGAwayizyata",
+        "aGAwizyata",
+        "aGAwayizyetAm",
+        "aGAwizyetAm",
+        "aGAwayizyanta",
+        "aGAwizyanta",
+        "aGAwayizyaTAH",
+        "aGAwizyaTAH",
+        "aGAwayizyeTAm",
+        "aGAwizyeTAm",
+        "aGAwayizyaDvam",
+        "aGAwizyaDvam",
+        "aGAwayizye",
+        "aGAwizye",
+        "aGAwayizyAvahi",
+        "aGAwizyAvahi",
+        "aGAwayizyAmahi",
+        "aGAwizyAmahi"
+      ],
+      "alrut": [
+        "GAwayizyate",
+        "GAwizyate",
+        "GAwayizyete",
+        "GAwizyete",
+        "GAwayizyante",
+        "GAwizyante",
+        "GAwayizyase",
+        "GAwizyase",
+        "GAwayizyeTe",
+        "GAwizyeTe",
+        "GAwayizyaDve",
+        "GAwizyaDve",
+        "GAwayizye",
+        "GAwizye",
+        "GAwayizyAvahe",
+        "GAwizyAvahe",
+        "GAwayizyAmahe",
+        "GAwizyAmahe"
+      ],
+      "alung": [
+        "aGAwi",
+        "aGAwayizAtAm",
+        "aGAwizAtAm",
+        "aGAwayizata",
+        "aGAwizata",
+        "aGAwayizWAH",
+        "aGAwizWAH",
+        "aGAwayizATAm",
+        "aGAwizATAm",
+        "aGAwayiQvam",
+        "aGAwayiDvam",
+        "aGAwiDvam",
+        "aGAwayizi",
+        "aGAwizi",
+        "aGAwayizvahi",
+        "aGAwizvahi",
+        "aGAwayizmahi",
+        "aGAwizmahi"
+      ],
+      "alut": [
+        "GAwayitA",
+        "GAwitA",
+        "GAwayitArO",
+        "GAwitArO",
+        "GAwayitAraH",
+        "GAwitAraH",
+        "GAwayitAse",
+        "GAwitAse",
+        "GAwayitAsATe",
+        "GAwitAsATe",
+        "GAwayitADve",
+        "GAwitADve",
+        "GAwayitAhe",
+        "GAwitAhe",
+        "GAwayitAsvahe",
+        "GAwitAsvahe",
+        "GAwayitAsmahe",
+        "GAwitAsmahe"
+      ],
+      "avidhiling": [
+        "GAwyeta",
+        "GAwyeyAtAm",
+        "GAwyeran",
+        "GAwyeTAH",
+        "GAwyeyATAm",
+        "GAwyeDvam",
+        "GAwyeya",
+        "GAwyevahi",
+        "GAwyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "jiGAwayizizIzwa",
+        "jiGAwayizizIyAstAm",
+        "jiGAwayizizIran",
+        "jiGAwayizizIzWAH",
+        "jiGAwayizizIyAsTAm",
+        "jiGAwayizizIDvam",
+        "jiGAwayizizIya",
+        "jiGAwayizizIvahi",
+        "jiGAwayizizImahi"
+      ],
+      "alang": [
+        "ajiGAwayizata",
+        "ajiGAwayizetAm",
+        "ajiGAwayizanta",
+        "ajiGAwayizaTAH",
+        "ajiGAwayizeTAm",
+        "ajiGAwayizaDvam",
+        "ajiGAwayize",
+        "ajiGAwayizAvahi",
+        "ajiGAwayizAmahi"
+      ],
+      "alat": [
+        "jiGAwayizate",
+        "jiGAwayizete",
+        "jiGAwayizante",
+        "jiGAwayizase",
+        "jiGAwayizeTe",
+        "jiGAwayizaDve",
+        "jiGAwayize",
+        "jiGAwayizAvahe",
+        "jiGAwayizAmahe"
+      ],
+      "alit": [
+        "jiGAwayizAYcakre",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakrAte",
+        "jiGAwayizAmAsatuH",
+        "jiGAwayizAmbaBUvatuH",
+        "jiGAwayizAYcakrire",
+        "jiGAwayizAmAsuH",
+        "jiGAwayizAmbaBUvuH",
+        "jiGAwayizAYcakfze",
+        "jiGAwayizAmAsiTa",
+        "jiGAwayizAmbaBUviTa",
+        "jiGAwayizAYcakrATe",
+        "jiGAwayizAmAsaTuH",
+        "jiGAwayizAmbaBUvaTuH",
+        "jiGAwayizAYcakfQve",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakre",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakfvahe",
+        "jiGAwayizAmAsiva",
+        "jiGAwayizAmbaBUviva",
+        "jiGAwayizAYcakfmahe",
+        "jiGAwayizAmAsima",
+        "jiGAwayizAmbaBUvima"
+      ],
+      "alot": [
+        "jiGAwayizatAm",
+        "jiGAwayizetAm",
+        "jiGAwayizantAm",
+        "jiGAwayizasva",
+        "jiGAwayizeTAm",
+        "jiGAwayizaDvam",
+        "jiGAwayizE",
+        "jiGAwayizAvahE",
+        "jiGAwayizAmahE"
+      ],
+      "alrung": [
+        "ajiGAwayizizyata",
+        "ajiGAwayizizyetAm",
+        "ajiGAwayizizyanta",
+        "ajiGAwayizizyaTAH",
+        "ajiGAwayizizyeTAm",
+        "ajiGAwayizizyaDvam",
+        "ajiGAwayizizye",
+        "ajiGAwayizizyAvahi",
+        "ajiGAwayizizyAmahi"
+      ],
+      "alrut": [
+        "jiGAwayizizyate",
+        "jiGAwayizizyete",
+        "jiGAwayizizyante",
+        "jiGAwayizizyase",
+        "jiGAwayizizyeTe",
+        "jiGAwayizizyaDve",
+        "jiGAwayizizye",
+        "jiGAwayizizyAvahe",
+        "jiGAwayizizyAmahe"
+      ],
+      "alung": [
+        "ajiGAwayizizwa",
+        "ajiGAwayizizAtAm",
+        "ajiGAwayizizata",
+        "ajiGAwayizizWAH",
+        "ajiGAwayizizATAm",
+        "ajiGAwayiziDvam",
+        "ajiGAwayizizi",
+        "ajiGAwayizizvahi",
+        "ajiGAwayizizmahi"
+      ],
+      "alut": [
+        "jiGAwayizitA",
+        "jiGAwayizitArO",
+        "jiGAwayizitAraH",
+        "jiGAwayizitAse",
+        "jiGAwayizitAsATe",
+        "jiGAwayizitADve",
+        "jiGAwayizitAhe",
+        "jiGAwayizitAsvahe",
+        "jiGAwayizitAsmahe"
+      ],
+      "avidhiling": [
+        "jiGAwayizeta",
+        "jiGAwayizeyAtAm",
+        "jiGAwayizeran",
+        "jiGAwayizeTAH",
+        "jiGAwayizeyATAm",
+        "jiGAwayizeDvam",
+        "jiGAwayizeya",
+        "jiGAwayizevahi",
+        "jiGAwayizemahi"
+      ],
+      "pashirling": [
+        "jiGAwayizyAt",
+        "jiGAwayizyAd",
+        "jiGAwayizyAstAm",
+        "jiGAwayizyAsuH",
+        "jiGAwayizyAH",
+        "jiGAwayizyAstam",
+        "jiGAwayizyAsta",
+        "jiGAwayizyAsam",
+        "jiGAwayizyAsva",
+        "jiGAwayizyAsma"
+      ],
+      "plang": [
+        "ajiGAwayizat",
+        "ajiGAwayizad",
+        "ajiGAwayizatAm",
+        "ajiGAwayizan",
+        "ajiGAwayizaH",
+        "ajiGAwayizatam",
+        "ajiGAwayizata",
+        "ajiGAwayizam",
+        "ajiGAwayizAva",
+        "ajiGAwayizAma"
+      ],
+      "plat": [
+        "jiGAwayizati",
+        "jiGAwayizataH",
+        "jiGAwayizanti",
+        "jiGAwayizasi",
+        "jiGAwayizaTaH",
+        "jiGAwayizaTa",
+        "jiGAwayizAmi",
+        "jiGAwayizAvaH",
+        "jiGAwayizAmaH"
+      ],
+      "plit": [
+        "jiGAwayizAYcakAra",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakratuH",
+        "jiGAwayizAmAsatuH",
+        "jiGAwayizAmbaBUvatuH",
+        "jiGAwayizAYcakruH",
+        "jiGAwayizAmAsuH",
+        "jiGAwayizAmbaBUvuH",
+        "jiGAwayizAYcakarTa",
+        "jiGAwayizAmAsiTa",
+        "jiGAwayizAmbaBUviTa",
+        "jiGAwayizAYcakraTuH",
+        "jiGAwayizAmAsaTuH",
+        "jiGAwayizAmbaBUvaTuH",
+        "jiGAwayizAYcakra",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakara",
+        "jiGAwayizAYcakAra",
+        "jiGAwayizAmAsa",
+        "jiGAwayizAmbaBUva",
+        "jiGAwayizAYcakfva",
+        "jiGAwayizAmAsiva",
+        "jiGAwayizAmbaBUviva",
+        "jiGAwayizAYcakfma",
+        "jiGAwayizAmAsima",
+        "jiGAwayizAmbaBUvima"
+      ],
+      "plot": [
+        "jiGAwayizatAt",
+        "jiGAwayizatAd",
+        "jiGAwayizatu",
+        "jiGAwayizatAm",
+        "jiGAwayizantu",
+        "jiGAwayiza",
+        "jiGAwayizatAt",
+        "jiGAwayizatAd",
+        "jiGAwayizatam",
+        "jiGAwayizata",
+        "jiGAwayizARi",
+        "jiGAwayizAva",
+        "jiGAwayizAma"
+      ],
+      "plrung": [
+        "ajiGAwayizizyat",
+        "ajiGAwayizizyad",
+        "ajiGAwayizizyatAm",
+        "ajiGAwayizizyan",
+        "ajiGAwayizizyaH",
+        "ajiGAwayizizyatam",
+        "ajiGAwayizizyata",
+        "ajiGAwayizizyam",
+        "ajiGAwayizizyAva",
+        "ajiGAwayizizyAma"
+      ],
+      "plrut": [
+        "jiGAwayizizyati",
+        "jiGAwayizizyataH",
+        "jiGAwayizizyanti",
+        "jiGAwayizizyasi",
+        "jiGAwayizizyaTaH",
+        "jiGAwayizizyaTa",
+        "jiGAwayizizyAmi",
+        "jiGAwayizizyAvaH",
+        "jiGAwayizizyAmaH"
+      ],
+      "plung": [
+        "ajiGAwayizIt",
+        "ajiGAwayizId",
+        "ajiGAwayizizwAm",
+        "ajiGAwayizizuH",
+        "ajiGAwayizIH",
+        "ajiGAwayizizwam",
+        "ajiGAwayizizwa",
+        "ajiGAwayizizam",
+        "ajiGAwayizizva",
+        "ajiGAwayizizma"
+      ],
+      "plut": [
+        "jiGAwayizitA",
+        "jiGAwayizitArO",
+        "jiGAwayizitAraH",
+        "jiGAwayizitAsi",
+        "jiGAwayizitAsTaH",
+        "jiGAwayizitAsTa",
+        "jiGAwayizitAsmi",
+        "jiGAwayizitAsvaH",
+        "jiGAwayizitAsmaH"
+      ],
+      "pvidhiling": [
+        "jiGAwayizet",
+        "jiGAwayized",
+        "jiGAwayizetAm",
+        "jiGAwayizeyuH",
+        "jiGAwayizeH",
+        "jiGAwayizetam",
+        "jiGAwayizeta",
+        "jiGAwayizeyam",
+        "jiGAwayizeva",
+        "jiGAwayizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "jiGAwayizizIzwa",
+        "jiGAwayizizIyAstAm",
+        "jiGAwayizizIran",
+        "jiGAwayizizIzWAH",
+        "jiGAwayizizIyAsTAm",
+        "jiGAwayizizIDvam",
+        "jiGAwayizizIya",
+        "jiGAwayizizIvahi",
+        "jiGAwayizizImahi"
+      ],
+      "alang": [
+        "ajiGAwayizyata",
+        "ajiGAwayizyetAm",
+        "ajiGAwayizyanta",
+        "ajiGAwayizyaTAH",
+        "ajiGAwayizyeTAm",
+        "ajiGAwayizyaDvam",
+        "ajiGAwayizye",
+        "ajiGAwayizyAvahi",
+        "ajiGAwayizyAmahi"
+      ],
+      "alat": [
+        "jiGAwayizyate",
+        "jiGAwayizyete",
+        "jiGAwayizyante",
+        "jiGAwayizyase",
+        "jiGAwayizyeTe",
+        "jiGAwayizyaDve",
+        "jiGAwayizye",
+        "jiGAwayizyAvahe",
+        "jiGAwayizyAmahe"
+      ],
+      "alit": [
+        "jiGAwayizAYcakre",
+        "jiGAwayizAmAse",
+        "jiGAwayizAmbaBUve",
+        "jiGAwayizAYcakrAte",
+        "jiGAwayizAmAsAte",
+        "jiGAwayizAmbaBUvAte",
+        "jiGAwayizAYcakrire",
+        "jiGAwayizAmAsire",
+        "jiGAwayizAmbaBUvire",
+        "jiGAwayizAYcakfze",
+        "jiGAwayizAmAsize",
+        "jiGAwayizAmbaBUvize",
+        "jiGAwayizAYcakrATe",
+        "jiGAwayizAmAsATe",
+        "jiGAwayizAmbaBUvATe",
+        "jiGAwayizAYcakfQve",
+        "jiGAwayizAmAsiDve",
+        "jiGAwayizAmbaBUviQve",
+        "jiGAwayizAYcakre",
+        "jiGAwayizAmAhe",
+        "jiGAwayizAmbaBUve",
+        "jiGAwayizAYcakfvahe",
+        "jiGAwayizAmAsivahe",
+        "jiGAwayizAmbaBUvivahe",
+        "jiGAwayizAYcakfmahe",
+        "jiGAwayizAmAsimahe",
+        "jiGAwayizAmbaBUvimahe"
+      ],
+      "alot": [
+        "jiGAwayizyatAm",
+        "jiGAwayizyetAm",
+        "jiGAwayizyantAm",
+        "jiGAwayizyasva",
+        "jiGAwayizyeTAm",
+        "jiGAwayizyaDvam",
+        "jiGAwayizyE",
+        "jiGAwayizyAvahE",
+        "jiGAwayizyAmahE"
+      ],
+      "alrung": [
+        "ajiGAwayizizyata",
+        "ajiGAwayizizyetAm",
+        "ajiGAwayizizyanta",
+        "ajiGAwayizizyaTAH",
+        "ajiGAwayizizyeTAm",
+        "ajiGAwayizizyaDvam",
+        "ajiGAwayizizye",
+        "ajiGAwayizizyAvahi",
+        "ajiGAwayizizyAmahi"
+      ],
+      "alrut": [
+        "jiGAwayizizyate",
+        "jiGAwayizizyete",
+        "jiGAwayizizyante",
+        "jiGAwayizizyase",
+        "jiGAwayizizyeTe",
+        "jiGAwayizizyaDve",
+        "jiGAwayizizye",
+        "jiGAwayizizyAvahe",
+        "jiGAwayizizyAmahe"
+      ],
+      "alung": [
+        "ajiGAwayizi",
+        "ajiGAwayizizAtAm",
+        "ajiGAwayizizata",
+        "ajiGAwayizizWAH",
+        "ajiGAwayizizATAm",
+        "ajiGAwayiziDvam",
+        "ajiGAwayizizi",
+        "ajiGAwayizizvahi",
+        "ajiGAwayizizmahi"
+      ],
+      "alut": [
+        "jiGAwayizitA",
+        "jiGAwayizitArO",
+        "jiGAwayizitAraH",
+        "jiGAwayizitAse",
+        "jiGAwayizitAsATe",
+        "jiGAwayizitADve",
+        "jiGAwayizitAhe",
+        "jiGAwayizitAsvahe",
+        "jiGAwayizitAsmahe"
+      ],
+      "avidhiling": [
+        "jiGAwayizyeta",
+        "jiGAwayizyeyAtAm",
+        "jiGAwayizyeran",
+        "jiGAwayizyeTAH",
+        "jiGAwayizyeyATAm",
+        "jiGAwayizyeDvam",
+        "jiGAwayizyeya",
+        "jiGAwayizyevahi",
+        "jiGAwayizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "GAwayizIzwa",
+        "GAwayizIyAstAm",
+        "GAwayizIran",
+        "GAwayizIzWAH",
+        "GAwayizIyAsTAm",
+        "GAwayizIQvam",
+        "GAwayizIDvam",
+        "GAwayizIya",
+        "GAwayizIvahi",
+        "GAwayizImahi"
+      ],
+      "alang": [
+        "aGAwayata",
+        "aGAwayetAm",
+        "aGAwayanta",
+        "aGAwayaTAH",
+        "aGAwayeTAm",
+        "aGAwayaDvam",
+        "aGAwaye",
+        "aGAwayAvahi",
+        "aGAwayAmahi"
+      ],
+      "alat": [
+        "GAwayate",
+        "GAwayete",
+        "GAwayante",
+        "GAwayase",
+        "GAwayeTe",
+        "GAwayaDve",
+        "GAwaye",
+        "GAwayAvahe",
+        "GAwayAmahe"
+      ],
+      "alit": [
+        "GAwayAYcakre",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakrAte",
+        "GAwayAmAsatuH",
+        "GAwayAmbaBUvatuH",
+        "GAwayAYcakrire",
+        "GAwayAmAsuH",
+        "GAwayAmbaBUvuH",
+        "GAwayAYcakfze",
+        "GAwayAmAsiTa",
+        "GAwayAmbaBUviTa",
+        "GAwayAYcakrATe",
+        "GAwayAmAsaTuH",
+        "GAwayAmbaBUvaTuH",
+        "GAwayAYcakfQve",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakre",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakfvahe",
+        "GAwayAmAsiva",
+        "GAwayAmbaBUviva",
+        "GAwayAYcakfmahe",
+        "GAwayAmAsima",
+        "GAwayAmbaBUvima"
+      ],
+      "alot": [
+        "GAwayatAm",
+        "GAwayetAm",
+        "GAwayantAm",
+        "GAwayasva",
+        "GAwayeTAm",
+        "GAwayaDvam",
+        "GAwayE",
+        "GAwayAvahE",
+        "GAwayAmahE"
+      ],
+      "alrung": [
+        "aGAwayizyata",
+        "aGAwayizyetAm",
+        "aGAwayizyanta",
+        "aGAwayizyaTAH",
+        "aGAwayizyeTAm",
+        "aGAwayizyaDvam",
+        "aGAwayizye",
+        "aGAwayizyAvahi",
+        "aGAwayizyAmahi"
+      ],
+      "alrut": [
+        "GAwayizyate",
+        "GAwayizyete",
+        "GAwayizyante",
+        "GAwayizyase",
+        "GAwayizyeTe",
+        "GAwayizyaDve",
+        "GAwayizye",
+        "GAwayizyAvahe",
+        "GAwayizyAmahe"
+      ],
+      "alung": [
+        "ajIGawata",
+        "ajIGawetAm",
+        "ajIGawanta",
+        "ajIGawaTAH",
+        "ajIGaweTAm",
+        "ajIGawaDvam",
+        "ajIGawe",
+        "ajIGawAvahi",
+        "ajIGawAmahi"
+      ],
+      "alut": [
+        "GAwayitA",
+        "GAwayitArO",
+        "GAwayitAraH",
+        "GAwayitAse",
+        "GAwayitAsATe",
+        "GAwayitADve",
+        "GAwayitAhe",
+        "GAwayitAsvahe",
+        "GAwayitAsmahe"
+      ],
+      "avidhiling": [
+        "GAwayeta",
+        "GAwayeyAtAm",
+        "GAwayeran",
+        "GAwayeTAH",
+        "GAwayeyATAm",
+        "GAwayeDvam",
+        "GAwayeya",
+        "GAwayevahi",
+        "GAwayemahi"
+      ],
+      "pashirling": [
+        "GAwyAt",
+        "GAwyAd",
+        "GAwyAstAm",
+        "GAwyAsuH",
+        "GAwyAH",
+        "GAwyAstam",
+        "GAwyAsta",
+        "GAwyAsam",
+        "GAwyAsva",
+        "GAwyAsma"
+      ],
+      "plang": [
+        "aGAwayat",
+        "aGAwayad",
+        "aGAwayatAm",
+        "aGAwayan",
+        "aGAwayaH",
+        "aGAwayatam",
+        "aGAwayata",
+        "aGAwayam",
+        "aGAwayAva",
+        "aGAwayAma"
+      ],
+      "plat": [
+        "GAwayati",
+        "GAwayataH",
+        "GAwayanti",
+        "GAwayasi",
+        "GAwayaTaH",
+        "GAwayaTa",
+        "GAwayAmi",
+        "GAwayAvaH",
+        "GAwayAmaH"
+      ],
+      "plit": [
+        "GAwayAYcakAra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakratuH",
+        "GAwayAmAsatuH",
+        "GAwayAmbaBUvatuH",
+        "GAwayAYcakruH",
+        "GAwayAmAsuH",
+        "GAwayAmbaBUvuH",
+        "GAwayAYcakarTa",
+        "GAwayAmAsiTa",
+        "GAwayAmbaBUviTa",
+        "GAwayAYcakraTuH",
+        "GAwayAmAsaTuH",
+        "GAwayAmbaBUvaTuH",
+        "GAwayAYcakra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakara",
+        "GAwayAYcakAra",
+        "GAwayAmAsa",
+        "GAwayAmbaBUva",
+        "GAwayAYcakfva",
+        "GAwayAmAsiva",
+        "GAwayAmbaBUviva",
+        "GAwayAYcakfma",
+        "GAwayAmAsima",
+        "GAwayAmbaBUvima"
+      ],
+      "plot": [
+        "GAwayatAt",
+        "GAwayatAd",
+        "GAwayatu",
+        "GAwayatAm",
+        "GAwayantu",
+        "GAwaya",
+        "GAwayatAt",
+        "GAwayatAd",
+        "GAwayatam",
+        "GAwayata",
+        "GAwayAni",
+        "GAwayAva",
+        "GAwayAma"
+      ],
+      "plrung": [
+        "aGAwayizyat",
+        "aGAwayizyad",
+        "aGAwayizyatAm",
+        "aGAwayizyan",
+        "aGAwayizyaH",
+        "aGAwayizyatam",
+        "aGAwayizyata",
+        "aGAwayizyam",
+        "aGAwayizyAva",
+        "aGAwayizyAma"
+      ],
+      "plrut": [
+        "GAwayizyati",
+        "GAwayizyataH",
+        "GAwayizyanti",
+        "GAwayizyasi",
+        "GAwayizyaTaH",
+        "GAwayizyaTa",
+        "GAwayizyAmi",
+        "GAwayizyAvaH",
+        "GAwayizyAmaH"
+      ],
+      "plung": [
+        "ajIGawat",
+        "ajIGawad",
+        "ajIGawatAm",
+        "ajIGawan",
+        "ajIGawaH",
+        "ajIGawatam",
+        "ajIGawata",
+        "ajIGawam",
+        "ajIGawAva",
+        "ajIGawAma"
+      ],
+      "plut": [
+        "GAwayitA",
+        "GAwayitArO",
+        "GAwayitAraH",
+        "GAwayitAsi",
+        "GAwayitAsTaH",
+        "GAwayitAsTa",
+        "GAwayitAsmi",
+        "GAwayitAsvaH",
+        "GAwayitAsmaH"
+      ],
+      "pvidhiling": [
+        "GAwayet",
+        "GAwayed",
+        "GAwayetAm",
+        "GAwayeyuH",
+        "GAwayeH",
+        "GAwayetam",
+        "GAwayeta",
+        "GAwayeyam",
+        "GAwayeva",
+        "GAwayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "GAwayizIzwa",
+        "GAwizIzwa",
+        "GAwayizIyAstAm",
+        "GAwizIyAstAm",
+        "GAwayizIran",
+        "GAwizIran",
+        "GAwayizIzWAH",
+        "GAwizIzWAH",
+        "GAwayizIyAsTAm",
+        "GAwizIyAsTAm",
+        "GAwayizIQvam",
+        "GAwayizIDvam",
+        "GAwizIDvam",
+        "GAwayizIya",
+        "GAwizIya",
+        "GAwayizIvahi",
+        "GAwizIvahi",
+        "GAwayizImahi",
+        "GAwizImahi"
+      ],
+      "alang": [
+        "aGAwyata",
+        "aGAwyetAm",
+        "aGAwyanta",
+        "aGAwyaTAH",
+        "aGAwyeTAm",
+        "aGAwyaDvam",
+        "aGAwye",
+        "aGAwyAvahi",
+        "aGAwyAmahi"
+      ],
+      "alat": [
+        "GAwyate",
+        "GAwyete",
+        "GAwyante",
+        "GAwyase",
+        "GAwyeTe",
+        "GAwyaDve",
+        "GAwye",
+        "GAwyAvahe",
+        "GAwyAmahe"
+      ],
+      "alit": [
+        "GAwayAYcakre",
+        "GAwayAmAse",
+        "GAwayAmbaBUve",
+        "GAwayAYcakrAte",
+        "GAwayAmAsAte",
+        "GAwayAmbaBUvAte",
+        "GAwayAYcakrire",
+        "GAwayAmAsire",
+        "GAwayAmbaBUvire",
+        "GAwayAYcakfze",
+        "GAwayAmAsize",
+        "GAwayAmbaBUvize",
+        "GAwayAYcakrATe",
+        "GAwayAmAsATe",
+        "GAwayAmbaBUvATe",
+        "GAwayAYcakfQve",
+        "GAwayAmAsiDve",
+        "GAwayAmbaBUviQve",
+        "GAwayAYcakre",
+        "GAwayAmAhe",
+        "GAwayAmbaBUve",
+        "GAwayAYcakfvahe",
+        "GAwayAmAsivahe",
+        "GAwayAmbaBUvivahe",
+        "GAwayAYcakfmahe",
+        "GAwayAmAsimahe",
+        "GAwayAmbaBUvimahe"
+      ],
+      "alot": [
+        "GAwyatAm",
+        "GAwyetAm",
+        "GAwyantAm",
+        "GAwyasva",
+        "GAwyeTAm",
+        "GAwyaDvam",
+        "GAwyE",
+        "GAwyAvahE",
+        "GAwyAmahE"
+      ],
+      "alrung": [
+        "aGAwayizyata",
+        "aGAwizyata",
+        "aGAwayizyetAm",
+        "aGAwizyetAm",
+        "aGAwayizyanta",
+        "aGAwizyanta",
+        "aGAwayizyaTAH",
+        "aGAwizyaTAH",
+        "aGAwayizyeTAm",
+        "aGAwizyeTAm",
+        "aGAwayizyaDvam",
+        "aGAwizyaDvam",
+        "aGAwayizye",
+        "aGAwizye",
+        "aGAwayizyAvahi",
+        "aGAwizyAvahi",
+        "aGAwayizyAmahi",
+        "aGAwizyAmahi"
+      ],
+      "alrut": [
+        "GAwayizyate",
+        "GAwizyate",
+        "GAwayizyete",
+        "GAwizyete",
+        "GAwayizyante",
+        "GAwizyante",
+        "GAwayizyase",
+        "GAwizyase",
+        "GAwayizyeTe",
+        "GAwizyeTe",
+        "GAwayizyaDve",
+        "GAwizyaDve",
+        "GAwayizye",
+        "GAwizye",
+        "GAwayizyAvahe",
+        "GAwizyAvahe",
+        "GAwayizyAmahe",
+        "GAwizyAmahe"
+      ],
+      "alung": [
+        "aGAwi",
+        "aGAwayizAtAm",
+        "aGAwizAtAm",
+        "aGAwayizata",
+        "aGAwizata",
+        "aGAwayizWAH",
+        "aGAwizWAH",
+        "aGAwayizATAm",
+        "aGAwizATAm",
+        "aGAwayiQvam",
+        "aGAwayiDvam",
+        "aGAwiDvam",
+        "aGAwayizi",
+        "aGAwizi",
+        "aGAwayizvahi",
+        "aGAwizvahi",
+        "aGAwayizmahi",
+        "aGAwizmahi"
+      ],
+      "alut": [
+        "GAwayitA",
+        "GAwitA",
+        "GAwayitArO",
+        "GAwitArO",
+        "GAwayitAraH",
+        "GAwitAraH",
+        "GAwayitAse",
+        "GAwitAse",
+        "GAwayitAsATe",
+        "GAwitAsATe",
+        "GAwayitADve",
+        "GAwitADve",
+        "GAwayitAhe",
+        "GAwitAhe",
+        "GAwayitAsvahe",
+        "GAwitAsvahe",
+        "GAwayitAsmahe",
+        "GAwitAsmahe"
+      ],
+      "avidhiling": [
+        "GAwyeta",
+        "GAwyeyAtAm",
+        "GAwyeran",
+        "GAwyeTAH",
+        "GAwyeyATAm",
+        "GAwyeDvam",
+        "GAwyeya",
+        "GAwyevahi",
+        "GAwyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "GAwa",
+          "m": "GAwaH",
+          "f": "GAwA",
+          "n": "GAwam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "GAwanIya",
+          "m": "GAwanIyaH",
+          "f": "GAwanIyA",
+          "n": "GAwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "GAwita",
+          "m": "GAwitaH",
+          "f": "GAwitA",
+          "n": "GAwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "GAwitavat",
+          "m": "GAwitavAn",
+          "f": "GAwitavatI",
+          "n": "GAwitavat/GAwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "GAwwi",
+          "m": "",
+          "f": "GAwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "GAwayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "GAwayAmbaBUvas",
+          "m": "GAwayAmbaBUvAn",
+          "f": "GAwayAmbaBUzI",
+          "n": "GAwayAmbaBUvat/GAwayAmbaBUvad"
+        },
+        {
+          "base": "GAwayAmAsivas",
+          "m": "GAwayAmAsivAn",
+          "f": "GAwayAmAsuzI",
+          "n": "GAwayAmAsivat/GAwayAmAsivad"
+        },
+        {
+          "base": "GAwayAYcakfvas",
+          "m": "GAwayAYcakfvAn",
+          "f": "GAwayAYcakruzI",
+          "n": "GAwayAYcakfvat/GAwayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "GAwayamAna",
+          "m": "GAwayamAnaH",
+          "f": "GAwayamAnA",
+          "n": "GAwayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "GAwam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "GAwaka",
+          "m": "GAwakaH",
+          "f": "GAwikA",
+          "n": "GAwakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "GAwayitavya",
+          "m": "GAwayitavyaH",
+          "f": "GAwayitavyA",
+          "n": "GAwayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "GAwayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "GAwayitf",
+          "m": "GAwayitA",
+          "f": "GAwayitrI",
+          "n": "GAwayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "GAwyamAna",
+          "m": "GAwyamAnaH",
+          "f": "GAwyamAnA",
+          "n": "GAwyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "GAwya",
+          "m": "GAwyaH",
+          "f": "GAwyA",
+          "n": "GAwyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praGAwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "GAwana",
+          "m": "",
+          "f": "",
+          "n": "GAwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "GAwaka",
+          "m": "GAwakaH",
+          "f": "GAwikA",
+          "n": "GAwakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "GAwayat",
+          "m": "GAwayan",
+          "f": "GAwayantI",
+          "n": "GAwayat/GAwayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "GAwayamAna",
+          "m": "GAwayamAnaH",
+          "f": "GAwayamAnA",
+          "n": "GAwayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "GAwizyamARa",
+          "m": "GAwizyamARaH",
+          "f": "GAwizyamARA",
+          "n": "GAwizyamARam"
+        },
+        {
+          "base": "GAwayizyamARa",
+          "m": "GAwayizyamARaH",
+          "f": "GAwayizyamARA",
+          "n": "GAwayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "GAwayizyat",
+          "m": "GAwayizyan",
+          "f": "GAwayizyatI/GAwayizyantI",
+          "n": "GAwayizyat/GAwayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "GAwayizyamARa",
+          "m": "GAwayizyamARaH",
+          "f": "GAwayizyamARA",
+          "n": "GAwayizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "jiGAwayizA",
+          "m": "",
+          "f": "jiGAwayizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jiGAwayiza",
+          "m": "jiGAwayizaH",
+          "f": "jiGAwayizA",
+          "n": "jiGAwayizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jiGAwayizaRIya",
+          "m": "jiGAwayizaRIyaH",
+          "f": "jiGAwayizaRIyA",
+          "n": "jiGAwayizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "jiGAwayizu",
+          "m": "jiGAwayizuH",
+          "f": "jiGAwayizuH",
+          "n": "jiGAwayizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jiGAwayizita",
+          "m": "jiGAwayizitaH",
+          "f": "jiGAwayizitA",
+          "n": "jiGAwayizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jiGAwayizitavat",
+          "m": "jiGAwayizitavAn",
+          "f": "jiGAwayizitavatI",
+          "n": "jiGAwayizitavat/jiGAwayizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jiGAwayizwi",
+          "m": "",
+          "f": "jiGAwayizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jiGAwayizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jiGAwayizAmbaBUvas",
+          "m": "jiGAwayizAmbaBUvAn",
+          "f": "jiGAwayizAmbaBUzI",
+          "n": "jiGAwayizAmbaBUvat/jiGAwayizAmbaBUvad"
+        },
+        {
+          "base": "jiGAwayizAmAsivas",
+          "m": "jiGAwayizAmAsivAn",
+          "f": "jiGAwayizAmAsyuzI",
+          "n": "jiGAwayizAmAsivat/jiGAwayizAmAsivad"
+        },
+        {
+          "base": "jiGAwayizAYcakfvas",
+          "m": "jiGAwayizAYcakfvAn",
+          "f": "jiGAwayizAYcakruzI",
+          "n": "jiGAwayizAYcakfvat/jiGAwayizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jiGAwayiza",
+          "m": "jiGAwayizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jiGAwayizamARa",
+          "m": "jiGAwayizamARaH",
+          "f": "jiGAwayizamARA",
+          "n": "jiGAwayizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jiGAwayizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jiGAwayizaka",
+          "m": "jiGAwayizakaH",
+          "f": "jiGAwayizikA",
+          "n": "jiGAwayizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jiGAwayizitavya",
+          "m": "jiGAwayizitavyaH",
+          "f": "jiGAwayizitavyA",
+          "n": "jiGAwayizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jiGAwayizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jiGAwayizitf",
+          "m": "jiGAwayizitA",
+          "f": "jiGAwayizitrI",
+          "n": "jiGAwayizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jiGAwayizyamARa",
+          "m": "jiGAwayizyamARaH",
+          "f": "jiGAwayizyamARA",
+          "n": "jiGAwayizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jiGAwayizya",
+          "m": "jiGAwayizyaH",
+          "f": "jiGAwayizyA",
+          "n": "jiGAwayizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajiGAwayizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jiGAwayizaRa",
+          "m": "",
+          "f": "",
+          "n": "jiGAwayizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jiGAwayizaka",
+          "m": "jiGAwayizakaH",
+          "f": "jiGAwayizikA",
+          "n": "jiGAwayizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jiGAwayizat",
+          "m": "jiGAwayizan",
+          "f": "jiGAwayizantI",
+          "n": "jiGAwayizat/jiGAwayizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jiGAwayizamARa",
+          "m": "jiGAwayizamARaH",
+          "f": "jiGAwayizamARA",
+          "n": "jiGAwayizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jiGAwayizizyamARa",
+          "m": "jiGAwayizizyamARaH",
+          "f": "jiGAwayizizyamARA",
+          "n": "jiGAwayizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jiGAwayizizyat",
+          "m": "jiGAwayizizyan",
+          "f": "jiGAwayizizyatI/jiGAwayizizyantI",
+          "n": "jiGAwayizizyat/jiGAwayizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jiGAwayizizyamARa",
+          "m": "jiGAwayizizyamARaH",
+          "f": "jiGAwayizizyamARA",
+          "n": "jiGAwayizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "GAwa",
+          "m": "GAwaH",
+          "f": "GAwA",
+          "n": "GAwam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "GAwanIya",
+          "m": "GAwanIyaH",
+          "f": "GAwanIyA",
+          "n": "GAwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "GAwita",
+          "m": "GAwitaH",
+          "f": "GAwitA",
+          "n": "GAwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "GAwitavat",
+          "m": "GAwitavAn",
+          "f": "GAwitavatI",
+          "n": "GAwitavat/GAwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "GAwwi",
+          "m": "",
+          "f": "GAwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "GAwayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "GAwayAmbaBUvas",
+          "m": "GAwayAmbaBUvAn",
+          "f": "GAwayAmbaBUzI",
+          "n": "GAwayAmbaBUvat/GAwayAmbaBUvad"
+        },
+        {
+          "base": "GAwayAmAsivas",
+          "m": "GAwayAmAsivAn",
+          "f": "GAwayAmAsyuzI",
+          "n": "GAwayAmAsivat/GAwayAmAsivad"
+        },
+        {
+          "base": "GAwayAYcakfvas",
+          "m": "GAwayAYcakfvAn",
+          "f": "GAwayAYcakruzI",
+          "n": "GAwayAYcakfvat/GAwayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "GAwayamAna",
+          "m": "GAwayamAnaH",
+          "f": "GAwayamAnA",
+          "n": "GAwayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "GAwam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "GAwaka",
+          "m": "GAwakaH",
+          "f": "GAwikA",
+          "n": "GAwakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "GAwayitavya",
+          "m": "GAwayitavyaH",
+          "f": "GAwayitavyA",
+          "n": "GAwayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "GAwayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "GAwayitf",
+          "m": "GAwayitA",
+          "f": "GAwayitrI",
+          "n": "GAwayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "GAwyamAna",
+          "m": "GAwyamAnaH",
+          "f": "GAwyamAnA",
+          "n": "GAwyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "GAwya",
+          "m": "GAwyaH",
+          "f": "GAwyA",
+          "n": "GAwyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praGAwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "GAwana",
+          "m": "",
+          "f": "",
+          "n": "GAwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "GAwaka",
+          "m": "GAwakaH",
+          "f": "GAwikA",
+          "n": "GAwakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "GAwayat",
+          "m": "GAwayan",
+          "f": "GAwayantI",
+          "n": "GAwayat/GAwayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "GAwayamAna",
+          "m": "GAwayamAnaH",
+          "f": "GAwayamAnA",
+          "n": "GAwayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "GAwizyamARa",
+          "m": "GAwizyamARaH",
+          "f": "GAwizyamARA",
+          "n": "GAwizyamARam"
+        },
+        {
+          "base": "GAwayizyamARa",
+          "m": "GAwayizyamARaH",
+          "f": "GAwayizyamARA",
+          "n": "GAwayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "GAwayizyat",
+          "m": "GAwayizyan",
+          "f": "GAwayizyatI/GAwayizyantI",
+          "n": "GAwayizyat/GAwayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "GAwayizyamARa",
+          "m": "GAwayizyamARaH",
+          "f": "GAwayizyamARA",
+          "n": "GAwayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "Gaw",
+    "entries": [
+      {
+        "prefix": "ud",
+        "artha_hindi": "udGAwana karanA"
+      }
+    ]
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {
+    "ud": {
+      "prefix": "ud",
+      "artha_hindi": "udGAwana karanA",
+      "conjugations": {
+        "ting": {
+          "aashirling": [
+            "udGAwayizIzwa",
+            "udGAwayizIyAstAm",
+            "udGAwayizIran",
+            "udGAwayizIzWAH",
+            "udGAwayizIyAsTAm",
+            "udGAwayizIQvam",
+            "udGAwayizIDvam",
+            "udGAwayizIya",
+            "udGAwayizIvahi",
+            "udGAwayizImahi"
+          ],
+          "alang": [
+            "udaGAwayata",
+            "udaGAwayetAm",
+            "udaGAwayanta",
+            "udaGAwayaTAH",
+            "udaGAwayeTAm",
+            "udaGAwayaDvam",
+            "udaGAwaye",
+            "udaGAwayAvahi",
+            "udaGAwayAmahi"
+          ],
+          "alat": [
+            "udGAwayate",
+            "udGAwayete",
+            "udGAwayante",
+            "udGAwayase",
+            "udGAwayeTe",
+            "udGAwayaDve",
+            "udGAwaye",
+            "udGAwayAvahe",
+            "udGAwayAmahe"
+          ],
+          "alit": [
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvatuH",
+            "udGAwayAmAsatuH",
+            "udGAwayAYcakrAte",
+            "udGAwayAmbaBUvuH",
+            "udGAwayAmAsuH",
+            "udGAwayAYcakrire",
+            "udGAwayAmbaBUviTa",
+            "udGAwayAmAsiTa",
+            "udGAwayAYcakfze",
+            "udGAwayAmbaBUvaTuH",
+            "udGAwayAmAsaTuH",
+            "udGAwayAYcakrATe",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakfQve",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUviva",
+            "udGAwayAmAsiva",
+            "udGAwayAYcakfvahe",
+            "udGAwayAmbaBUvima",
+            "udGAwayAmAsima",
+            "udGAwayAYcakfmahe"
+          ],
+          "alot": [
+            "udGAwayatAm",
+            "udGAwayetAm",
+            "udGAwayantAm",
+            "udGAwayasva",
+            "udGAwayeTAm",
+            "udGAwayaDvam",
+            "udGAwayE",
+            "udGAwayAvahE",
+            "udGAwayAmahE"
+          ],
+          "alrung": [
+            "udaGAwayizyata",
+            "udaGAwayizyetAm",
+            "udaGAwayizyanta",
+            "udaGAwayizyaTAH",
+            "udaGAwayizyeTAm",
+            "udaGAwayizyaDvam",
+            "udaGAwayizye",
+            "udaGAwayizyAvahi",
+            "udaGAwayizyAmahi"
+          ],
+          "alrut": [
+            "udGAwayizyate",
+            "udGAwayizyete",
+            "udGAwayizyante",
+            "udGAwayizyase",
+            "udGAwayizyeTe",
+            "udGAwayizyaDve",
+            "udGAwayizye",
+            "udGAwayizyAvahe",
+            "udGAwayizyAmahe"
+          ],
+          "alung": [
+            "udajIGawata",
+            "udajIGawetAm",
+            "udajIGawanta",
+            "udajIGawaTAH",
+            "udajIGaweTAm",
+            "udajIGawaDvam",
+            "udajIGawe",
+            "udajIGawAvahi",
+            "udajIGawAmahi"
+          ],
+          "alut": [
+            "udGAwayitA",
+            "udGAwayitArO",
+            "udGAwayitAraH",
+            "udGAwayitAse",
+            "udGAwayitAsATe",
+            "udGAwayitADve",
+            "udGAwayitAhe",
+            "udGAwayitAsvahe",
+            "udGAwayitAsmahe"
+          ],
+          "avidhiling": [
+            "udGAwayeta",
+            "udGAwayeyAtAm",
+            "udGAwayeran",
+            "udGAwayeTAH",
+            "udGAwayeyATAm",
+            "udGAwayeDvam",
+            "udGAwayeya",
+            "udGAwayevahi",
+            "udGAwayemahi"
+          ],
+          "pashirling": [
+            "udGAwyAt",
+            "udGAwyAd",
+            "udGAwyAstAm",
+            "udGAwyAsuH",
+            "udGAwyAH",
+            "udGAwyAstam",
+            "udGAwyAsta",
+            "udGAwyAsam",
+            "udGAwyAsva",
+            "udGAwyAsma"
+          ],
+          "plang": [
+            "udaGAwayat",
+            "udaGAwayad",
+            "udaGAwayatAm",
+            "udaGAwayan",
+            "udaGAwayaH",
+            "udaGAwayatam",
+            "udaGAwayata",
+            "udaGAwayam",
+            "udaGAwayAva",
+            "udaGAwayAma"
+          ],
+          "plat": [
+            "udGAwayati",
+            "udGAwayataH",
+            "udGAwayanti",
+            "udGAwayasi",
+            "udGAwayaTaH",
+            "udGAwayaTa",
+            "udGAwayAmi",
+            "udGAwayAvaH",
+            "udGAwayAmaH"
+          ],
+          "plit": [
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakAra",
+            "udGAwayAmbaBUvatuH",
+            "udGAwayAmAsatuH",
+            "udGAwayAYcakratuH",
+            "udGAwayAmbaBUvuH",
+            "udGAwayAmAsuH",
+            "udGAwayAYcakruH",
+            "udGAwayAmbaBUviTa",
+            "udGAwayAmAsiTa",
+            "udGAwayAYcakarTa",
+            "udGAwayAmbaBUvaTuH",
+            "udGAwayAmAsaTuH",
+            "udGAwayAYcakraTuH",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakra",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakara",
+            "udGAwayAYcakAra",
+            "udGAwayAmbaBUviva",
+            "udGAwayAmAsiva",
+            "udGAwayAYcakfva",
+            "udGAwayAmbaBUvima",
+            "udGAwayAmAsima",
+            "udGAwayAYcakfma"
+          ],
+          "plot": [
+            "udGAwayatAt",
+            "udGAwayatAd",
+            "udGAwayatu",
+            "udGAwayatAm",
+            "udGAwayantu",
+            "udGAwayatAt",
+            "udGAwayatAd",
+            "udGAwaya",
+            "udGAwayatam",
+            "udGAwayata",
+            "udGAwayAni",
+            "udGAwayAva",
+            "udGAwayAma"
+          ],
+          "plrung": [
+            "udaGAwayizyat",
+            "udaGAwayizyad",
+            "udaGAwayizyatAm",
+            "udaGAwayizyan",
+            "udaGAwayizyaH",
+            "udaGAwayizyatam",
+            "udaGAwayizyata",
+            "udaGAwayizyam",
+            "udaGAwayizyAva",
+            "udaGAwayizyAma"
+          ],
+          "plrut": [
+            "udGAwayizyati",
+            "udGAwayizyataH",
+            "udGAwayizyanti",
+            "udGAwayizyasi",
+            "udGAwayizyaTaH",
+            "udGAwayizyaTa",
+            "udGAwayizyAmi",
+            "udGAwayizyAvaH",
+            "udGAwayizyAmaH"
+          ],
+          "plung": [
+            "udajIGawat",
+            "udajIGawad",
+            "udajIGawatAm",
+            "udajIGawan",
+            "udajIGawaH",
+            "udajIGawatam",
+            "udajIGawata",
+            "udajIGawam",
+            "udajIGawAva",
+            "udajIGawAma"
+          ],
+          "plut": [
+            "udGAwayitA",
+            "udGAwayitArO",
+            "udGAwayitAraH",
+            "udGAwayitAsi",
+            "udGAwayitAsTaH",
+            "udGAwayitAsTa",
+            "udGAwayitAsmi",
+            "udGAwayitAsvaH",
+            "udGAwayitAsmaH"
+          ],
+          "pvidhiling": [
+            "udGAwayet",
+            "udGAwayed",
+            "udGAwayetAm",
+            "udGAwayeyuH",
+            "udGAwayeH",
+            "udGAwayetam",
+            "udGAwayeta",
+            "udGAwayeyam",
+            "udGAwayeva",
+            "udGAwayema"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "udGAwizIzwa",
+            "udGAwayizIzwa",
+            "udGAwizIyAstAm",
+            "udGAwayizIyAstAm",
+            "udGAwizIran",
+            "udGAwayizIran",
+            "udGAwizIzWAH",
+            "udGAwayizIzWAH",
+            "udGAwizIyAsTAm",
+            "udGAwayizIyAsTAm",
+            "udGAwizIDvam",
+            "udGAwayizIQvam",
+            "udGAwayizIDvam",
+            "udGAwizIya",
+            "udGAwayizIya",
+            "udGAwizIvahi",
+            "udGAwayizIvahi",
+            "udGAwizImahi",
+            "udGAwayizImahi"
+          ],
+          "alang": [
+            "udaGAwyata",
+            "udaGAwyetAm",
+            "udaGAwyanta",
+            "udaGAwyaTAH",
+            "udaGAwyeTAm",
+            "udaGAwyaDvam",
+            "udaGAwye",
+            "udaGAwyAvahi",
+            "udaGAwyAmahi"
+          ],
+          "alat": [
+            "udGAwyate",
+            "udGAwyete",
+            "udGAwyante",
+            "udGAwyase",
+            "udGAwyeTe",
+            "udGAwyaDve",
+            "udGAwye",
+            "udGAwyAvahe",
+            "udGAwyAmahe"
+          ],
+          "alit": [
+            "udGAwayAmbaBUve",
+            "udGAwayAmAse",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvAte",
+            "udGAwayAmAsAte",
+            "udGAwayAYcakrAte",
+            "udGAwayAmbaBUvire",
+            "udGAwayAmAsire",
+            "udGAwayAYcakrire",
+            "udGAwayAmbaBUvize",
+            "udGAwayAmAsize",
+            "udGAwayAYcakfze",
+            "udGAwayAmbaBUvATe",
+            "udGAwayAmAsATe",
+            "udGAwayAYcakrATe",
+            "udGAwayAmbaBUviQve",
+            "udGAwayAmAsiDve",
+            "udGAwayAYcakfQve",
+            "udGAwayAmbaBUve",
+            "udGAwayAmAhe",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvivahe",
+            "udGAwayAmAsivahe",
+            "udGAwayAYcakfvahe",
+            "udGAwayAmbaBUvimahe",
+            "udGAwayAmAsimahe",
+            "udGAwayAYcakfmahe"
+          ],
+          "alot": [
+            "udGAwyatAm",
+            "udGAwyetAm",
+            "udGAwyantAm",
+            "udGAwyasva",
+            "udGAwyeTAm",
+            "udGAwyaDvam",
+            "udGAwyE",
+            "udGAwyAvahE",
+            "udGAwyAmahE"
+          ],
+          "alrung": [
+            "udaGAwizyata",
+            "udaGAwayizyata",
+            "udaGAwizyetAm",
+            "udaGAwayizyetAm",
+            "udaGAwizyanta",
+            "udaGAwayizyanta",
+            "udaGAwizyaTAH",
+            "udaGAwayizyaTAH",
+            "udaGAwizyeTAm",
+            "udaGAwayizyeTAm",
+            "udaGAwizyaDvam",
+            "udaGAwayizyaDvam",
+            "udaGAwizye",
+            "udaGAwayizye",
+            "udaGAwizyAvahi",
+            "udaGAwayizyAvahi",
+            "udaGAwizyAmahi",
+            "udaGAwayizyAmahi"
+          ],
+          "alrut": [
+            "udGAwizyate",
+            "udGAwayizyate",
+            "udGAwizyete",
+            "udGAwayizyete",
+            "udGAwizyante",
+            "udGAwayizyante",
+            "udGAwizyase",
+            "udGAwayizyase",
+            "udGAwizyeTe",
+            "udGAwayizyeTe",
+            "udGAwizyaDve",
+            "udGAwayizyaDve",
+            "udGAwizye",
+            "udGAwayizye",
+            "udGAwizyAvahe",
+            "udGAwayizyAvahe",
+            "udGAwizyAmahe",
+            "udGAwayizyAmahe"
+          ],
+          "alung": [
+            "udaGAwi",
+            "udaGAwizAtAm",
+            "udaGAwayizAtAm",
+            "udaGAwizata",
+            "udaGAwayizata",
+            "udaGAwizWAH",
+            "udaGAwayizWAH",
+            "udaGAwizATAm",
+            "udaGAwayizATAm",
+            "udaGAwiDvam",
+            "udaGAwayiQvam",
+            "udaGAwayiDvam",
+            "udaGAwizi",
+            "udaGAwayizi",
+            "udaGAwizvahi",
+            "udaGAwayizvahi",
+            "udaGAwizmahi",
+            "udaGAwayizmahi"
+          ],
+          "alut": [
+            "udGAwitA",
+            "udGAwayitA",
+            "udGAwitArO",
+            "udGAwayitArO",
+            "udGAwitAraH",
+            "udGAwayitAraH",
+            "udGAwitAse",
+            "udGAwayitAse",
+            "udGAwitAsATe",
+            "udGAwayitAsATe",
+            "udGAwitADve",
+            "udGAwayitADve",
+            "udGAwitAhe",
+            "udGAwayitAhe",
+            "udGAwitAsvahe",
+            "udGAwayitAsvahe",
+            "udGAwitAsmahe",
+            "udGAwayitAsmahe"
+          ],
+          "avidhiling": [
+            "udGAwyeta",
+            "udGAwyeyAtAm",
+            "udGAwyeran",
+            "udGAwyeTAH",
+            "udGAwyeyATAm",
+            "udGAwyeDvam",
+            "udGAwyeya",
+            "udGAwyevahi",
+            "udGAwyemahi"
+          ]
+        },
+        "san": {
+          "aashirling": [
+            "ujjiGAwayizizIzwa",
+            "ujjiGAwayizizIyAstAm",
+            "ujjiGAwayizizIran",
+            "ujjiGAwayizizIzWAH",
+            "ujjiGAwayizizIyAsTAm",
+            "ujjiGAwayizizIDvam",
+            "ujjiGAwayizizIya",
+            "ujjiGAwayizizIvahi",
+            "ujjiGAwayizizImahi"
+          ],
+          "alang": [
+            "udajiGAwayizata",
+            "udajiGAwayizetAm",
+            "udajiGAwayizanta",
+            "udajiGAwayizaTAH",
+            "udajiGAwayizeTAm",
+            "udajiGAwayizaDvam",
+            "udajiGAwayize",
+            "udajiGAwayizAvahi",
+            "udajiGAwayizAmahi"
+          ],
+          "alat": [
+            "ujjiGAwayizate",
+            "ujjiGAwayizete",
+            "ujjiGAwayizante",
+            "ujjiGAwayizase",
+            "ujjiGAwayizeTe",
+            "ujjiGAwayizaDve",
+            "ujjiGAwayize",
+            "ujjiGAwayizAvahe",
+            "ujjiGAwayizAmahe"
+          ],
+          "alit": [
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakre",
+            "ujjiGAwayizAmbaBUvatuH",
+            "ujjiGAwayizAmAsatuH",
+            "ujjiGAwayizAYcakrAte",
+            "ujjiGAwayizAmbaBUvuH",
+            "ujjiGAwayizAmAsuH",
+            "ujjiGAwayizAYcakrire",
+            "ujjiGAwayizAmbaBUviTa",
+            "ujjiGAwayizAmAsiTa",
+            "ujjiGAwayizAYcakfze",
+            "ujjiGAwayizAmbaBUvaTuH",
+            "ujjiGAwayizAmAsaTuH",
+            "ujjiGAwayizAYcakrATe",
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakfQve",
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakre",
+            "ujjiGAwayizAmbaBUviva",
+            "ujjiGAwayizAmAsiva",
+            "ujjiGAwayizAYcakfvahe",
+            "ujjiGAwayizAmbaBUvima",
+            "ujjiGAwayizAmAsima",
+            "ujjiGAwayizAYcakfmahe"
+          ],
+          "alot": [
+            "ujjiGAwayizatAm",
+            "ujjiGAwayizetAm",
+            "ujjiGAwayizantAm",
+            "ujjiGAwayizasva",
+            "ujjiGAwayizeTAm",
+            "ujjiGAwayizaDvam",
+            "ujjiGAwayizE",
+            "ujjiGAwayizAvahE",
+            "ujjiGAwayizAmahE"
+          ],
+          "alrung": [
+            "udajiGAwayizizyata",
+            "udajiGAwayizizyetAm",
+            "udajiGAwayizizyanta",
+            "udajiGAwayizizyaTAH",
+            "udajiGAwayizizyeTAm",
+            "udajiGAwayizizyaDvam",
+            "udajiGAwayizizye",
+            "udajiGAwayizizyAvahi",
+            "udajiGAwayizizyAmahi"
+          ],
+          "alrut": [
+            "ujjiGAwayizizyate",
+            "ujjiGAwayizizyete",
+            "ujjiGAwayizizyante",
+            "ujjiGAwayizizyase",
+            "ujjiGAwayizizyeTe",
+            "ujjiGAwayizizyaDve",
+            "ujjiGAwayizizye",
+            "ujjiGAwayizizyAvahe",
+            "ujjiGAwayizizyAmahe"
+          ],
+          "alung": [
+            "udajiGAwayizizwa",
+            "udajiGAwayizizAtAm",
+            "udajiGAwayizizata",
+            "udajiGAwayizizWAH",
+            "udajiGAwayizizATAm",
+            "udajiGAwayiziDvam",
+            "udajiGAwayizizi",
+            "udajiGAwayizizvahi",
+            "udajiGAwayizizmahi"
+          ],
+          "alut": [
+            "ujjiGAwayizitA",
+            "ujjiGAwayizitArO",
+            "ujjiGAwayizitAraH",
+            "ujjiGAwayizitAse",
+            "ujjiGAwayizitAsATe",
+            "ujjiGAwayizitADve",
+            "ujjiGAwayizitAhe",
+            "ujjiGAwayizitAsvahe",
+            "ujjiGAwayizitAsmahe"
+          ],
+          "avidhiling": [
+            "ujjiGAwayizeta",
+            "ujjiGAwayizeyAtAm",
+            "ujjiGAwayizeran",
+            "ujjiGAwayizeTAH",
+            "ujjiGAwayizeyATAm",
+            "ujjiGAwayizeDvam",
+            "ujjiGAwayizeya",
+            "ujjiGAwayizevahi",
+            "ujjiGAwayizemahi"
+          ],
+          "pashirling": [
+            "ujjiGAwayizyAt",
+            "ujjiGAwayizyAd",
+            "ujjiGAwayizyAstAm",
+            "ujjiGAwayizyAsuH",
+            "ujjiGAwayizyAH",
+            "ujjiGAwayizyAstam",
+            "ujjiGAwayizyAsta",
+            "ujjiGAwayizyAsam",
+            "ujjiGAwayizyAsva",
+            "ujjiGAwayizyAsma"
+          ],
+          "plang": [
+            "udajiGAwayizat",
+            "udajiGAwayizad",
+            "udajiGAwayizatAm",
+            "udajiGAwayizan",
+            "udajiGAwayizaH",
+            "udajiGAwayizatam",
+            "udajiGAwayizata",
+            "udajiGAwayizam",
+            "udajiGAwayizAva",
+            "udajiGAwayizAma"
+          ],
+          "plat": [
+            "ujjiGAwayizati",
+            "ujjiGAwayizataH",
+            "ujjiGAwayizanti",
+            "ujjiGAwayizasi",
+            "ujjiGAwayizaTaH",
+            "ujjiGAwayizaTa",
+            "ujjiGAwayizAmi",
+            "ujjiGAwayizAvaH",
+            "ujjiGAwayizAmaH"
+          ],
+          "plit": [
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakAra",
+            "ujjiGAwayizAmbaBUvatuH",
+            "ujjiGAwayizAmAsatuH",
+            "ujjiGAwayizAYcakratuH",
+            "ujjiGAwayizAmbaBUvuH",
+            "ujjiGAwayizAmAsuH",
+            "ujjiGAwayizAYcakruH",
+            "ujjiGAwayizAmbaBUviTa",
+            "ujjiGAwayizAmAsiTa",
+            "ujjiGAwayizAYcakarTa",
+            "ujjiGAwayizAmbaBUvaTuH",
+            "ujjiGAwayizAmAsaTuH",
+            "ujjiGAwayizAYcakraTuH",
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakra",
+            "ujjiGAwayizAmbaBUva",
+            "ujjiGAwayizAmAsa",
+            "ujjiGAwayizAYcakara",
+            "ujjiGAwayizAYcakAra",
+            "ujjiGAwayizAmbaBUviva",
+            "ujjiGAwayizAmAsiva",
+            "ujjiGAwayizAYcakfva",
+            "ujjiGAwayizAmbaBUvima",
+            "ujjiGAwayizAmAsima",
+            "ujjiGAwayizAYcakfma"
+          ],
+          "plot": [
+            "ujjiGAwayizatAt",
+            "ujjiGAwayizatAd",
+            "ujjiGAwayizatu",
+            "ujjiGAwayizatAm",
+            "ujjiGAwayizantu",
+            "ujjiGAwayizatAt",
+            "ujjiGAwayizatAd",
+            "ujjiGAwayiza",
+            "ujjiGAwayizatam",
+            "ujjiGAwayizata",
+            "ujjiGAwayizARi",
+            "ujjiGAwayizAva",
+            "ujjiGAwayizAma"
+          ],
+          "plrung": [
+            "udajiGAwayizizyat",
+            "udajiGAwayizizyad",
+            "udajiGAwayizizyatAm",
+            "udajiGAwayizizyan",
+            "udajiGAwayizizyaH",
+            "udajiGAwayizizyatam",
+            "udajiGAwayizizyata",
+            "udajiGAwayizizyam",
+            "udajiGAwayizizyAva",
+            "udajiGAwayizizyAma"
+          ],
+          "plrut": [
+            "ujjiGAwayizizyati",
+            "ujjiGAwayizizyataH",
+            "ujjiGAwayizizyanti",
+            "ujjiGAwayizizyasi",
+            "ujjiGAwayizizyaTaH",
+            "ujjiGAwayizizyaTa",
+            "ujjiGAwayizizyAmi",
+            "ujjiGAwayizizyAvaH",
+            "ujjiGAwayizizyAmaH"
+          ],
+          "plung": [
+            "udajiGAwayizIt",
+            "udajiGAwayizId",
+            "udajiGAwayizizwAm",
+            "udajiGAwayizizuH",
+            "udajiGAwayizIH",
+            "udajiGAwayizizwam",
+            "udajiGAwayizizwa",
+            "udajiGAwayizizam",
+            "udajiGAwayizizva",
+            "udajiGAwayizizma"
+          ],
+          "plut": [
+            "ujjiGAwayizitA",
+            "ujjiGAwayizitArO",
+            "ujjiGAwayizitAraH",
+            "ujjiGAwayizitAsi",
+            "ujjiGAwayizitAsTaH",
+            "ujjiGAwayizitAsTa",
+            "ujjiGAwayizitAsmi",
+            "ujjiGAwayizitAsvaH",
+            "ujjiGAwayizitAsmaH"
+          ],
+          "pvidhiling": [
+            "ujjiGAwayizet",
+            "ujjiGAwayized",
+            "ujjiGAwayizetAm",
+            "ujjiGAwayizeyuH",
+            "ujjiGAwayizeH",
+            "ujjiGAwayizetam",
+            "ujjiGAwayizeta",
+            "ujjiGAwayizeyam",
+            "ujjiGAwayizeva",
+            "ujjiGAwayizema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "ujjiGAwayizizIzwa",
+            "ujjiGAwayizizIyAstAm",
+            "ujjiGAwayizizIran",
+            "ujjiGAwayizizIzWAH",
+            "ujjiGAwayizizIyAsTAm",
+            "ujjiGAwayizizIDvam",
+            "ujjiGAwayizizIya",
+            "ujjiGAwayizizIvahi",
+            "ujjiGAwayizizImahi"
+          ],
+          "alang": [
+            "udajiGAwayizyata",
+            "udajiGAwayizyetAm",
+            "udajiGAwayizyanta",
+            "udajiGAwayizyaTAH",
+            "udajiGAwayizyeTAm",
+            "udajiGAwayizyaDvam",
+            "udajiGAwayizye",
+            "udajiGAwayizyAvahi",
+            "udajiGAwayizyAmahi"
+          ],
+          "alat": [
+            "ujjiGAwayizyate",
+            "ujjiGAwayizyete",
+            "ujjiGAwayizyante",
+            "ujjiGAwayizyase",
+            "ujjiGAwayizyeTe",
+            "ujjiGAwayizyaDve",
+            "ujjiGAwayizye",
+            "ujjiGAwayizyAvahe",
+            "ujjiGAwayizyAmahe"
+          ],
+          "alit": [
+            "ujjiGAwayizAmbaBUve",
+            "ujjiGAwayizAmAse",
+            "ujjiGAwayizAYcakre",
+            "ujjiGAwayizAmbaBUvAte",
+            "ujjiGAwayizAmAsAte",
+            "ujjiGAwayizAYcakrAte",
+            "ujjiGAwayizAmbaBUvire",
+            "ujjiGAwayizAmAsire",
+            "ujjiGAwayizAYcakrire",
+            "ujjiGAwayizAmbaBUvize",
+            "ujjiGAwayizAmAsize",
+            "ujjiGAwayizAYcakfze",
+            "ujjiGAwayizAmbaBUvATe",
+            "ujjiGAwayizAmAsATe",
+            "ujjiGAwayizAYcakrATe",
+            "ujjiGAwayizAmbaBUviQve",
+            "ujjiGAwayizAmAsiDve",
+            "ujjiGAwayizAYcakfQve",
+            "ujjiGAwayizAmbaBUve",
+            "ujjiGAwayizAmAhe",
+            "ujjiGAwayizAYcakre",
+            "ujjiGAwayizAmbaBUvivahe",
+            "ujjiGAwayizAmAsivahe",
+            "ujjiGAwayizAYcakfvahe",
+            "ujjiGAwayizAmbaBUvimahe",
+            "ujjiGAwayizAmAsimahe",
+            "ujjiGAwayizAYcakfmahe"
+          ],
+          "alot": [
+            "ujjiGAwayizyatAm",
+            "ujjiGAwayizyetAm",
+            "ujjiGAwayizyantAm",
+            "ujjiGAwayizyasva",
+            "ujjiGAwayizyeTAm",
+            "ujjiGAwayizyaDvam",
+            "ujjiGAwayizyE",
+            "ujjiGAwayizyAvahE",
+            "ujjiGAwayizyAmahE"
+          ],
+          "alrung": [
+            "udajiGAwayizizyata",
+            "udajiGAwayizizyetAm",
+            "udajiGAwayizizyanta",
+            "udajiGAwayizizyaTAH",
+            "udajiGAwayizizyeTAm",
+            "udajiGAwayizizyaDvam",
+            "udajiGAwayizizye",
+            "udajiGAwayizizyAvahi",
+            "udajiGAwayizizyAmahi"
+          ],
+          "alrut": [
+            "ujjiGAwayizizyate",
+            "ujjiGAwayizizyete",
+            "ujjiGAwayizizyante",
+            "ujjiGAwayizizyase",
+            "ujjiGAwayizizyeTe",
+            "ujjiGAwayizizyaDve",
+            "ujjiGAwayizizye",
+            "ujjiGAwayizizyAvahe",
+            "ujjiGAwayizizyAmahe"
+          ],
+          "alung": [
+            "udajiGAwayizi",
+            "udajiGAwayizizAtAm",
+            "udajiGAwayizizata",
+            "udajiGAwayizizWAH",
+            "udajiGAwayizizATAm",
+            "udajiGAwayiziDvam",
+            "udajiGAwayizizi",
+            "udajiGAwayizizvahi",
+            "udajiGAwayizizmahi"
+          ],
+          "alut": [
+            "ujjiGAwayizitA",
+            "ujjiGAwayizitArO",
+            "ujjiGAwayizitAraH",
+            "ujjiGAwayizitAse",
+            "ujjiGAwayizitAsATe",
+            "ujjiGAwayizitADve",
+            "ujjiGAwayizitAhe",
+            "ujjiGAwayizitAsvahe",
+            "ujjiGAwayizitAsmahe"
+          ],
+          "avidhiling": [
+            "ujjiGAwayizyeta",
+            "ujjiGAwayizyeyAtAm",
+            "ujjiGAwayizyeran",
+            "ujjiGAwayizyeTAH",
+            "ujjiGAwayizyeyATAm",
+            "ujjiGAwayizyeDvam",
+            "ujjiGAwayizyeya",
+            "ujjiGAwayizyevahi",
+            "ujjiGAwayizyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "udGAwayizIzwa",
+            "udGAwayizIyAstAm",
+            "udGAwayizIran",
+            "udGAwayizIzWAH",
+            "udGAwayizIyAsTAm",
+            "udGAwayizIQvam",
+            "udGAwayizIDvam",
+            "udGAwayizIya",
+            "udGAwayizIvahi",
+            "udGAwayizImahi"
+          ],
+          "alang": [
+            "udaGAwayata",
+            "udaGAwayetAm",
+            "udaGAwayanta",
+            "udaGAwayaTAH",
+            "udaGAwayeTAm",
+            "udaGAwayaDvam",
+            "udaGAwaye",
+            "udaGAwayAvahi",
+            "udaGAwayAmahi"
+          ],
+          "alat": [
+            "udGAwayate",
+            "udGAwayete",
+            "udGAwayante",
+            "udGAwayase",
+            "udGAwayeTe",
+            "udGAwayaDve",
+            "udGAwaye",
+            "udGAwayAvahe",
+            "udGAwayAmahe"
+          ],
+          "alit": [
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvatuH",
+            "udGAwayAmAsatuH",
+            "udGAwayAYcakrAte",
+            "udGAwayAmbaBUvuH",
+            "udGAwayAmAsuH",
+            "udGAwayAYcakrire",
+            "udGAwayAmbaBUviTa",
+            "udGAwayAmAsiTa",
+            "udGAwayAYcakfze",
+            "udGAwayAmbaBUvaTuH",
+            "udGAwayAmAsaTuH",
+            "udGAwayAYcakrATe",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakfQve",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUviva",
+            "udGAwayAmAsiva",
+            "udGAwayAYcakfvahe",
+            "udGAwayAmbaBUvima",
+            "udGAwayAmAsima",
+            "udGAwayAYcakfmahe"
+          ],
+          "alot": [
+            "udGAwayatAm",
+            "udGAwayetAm",
+            "udGAwayantAm",
+            "udGAwayasva",
+            "udGAwayeTAm",
+            "udGAwayaDvam",
+            "udGAwayE",
+            "udGAwayAvahE",
+            "udGAwayAmahE"
+          ],
+          "alrung": [
+            "udaGAwayizyata",
+            "udaGAwayizyetAm",
+            "udaGAwayizyanta",
+            "udaGAwayizyaTAH",
+            "udaGAwayizyeTAm",
+            "udaGAwayizyaDvam",
+            "udaGAwayizye",
+            "udaGAwayizyAvahi",
+            "udaGAwayizyAmahi"
+          ],
+          "alrut": [
+            "udGAwayizyate",
+            "udGAwayizyete",
+            "udGAwayizyante",
+            "udGAwayizyase",
+            "udGAwayizyeTe",
+            "udGAwayizyaDve",
+            "udGAwayizye",
+            "udGAwayizyAvahe",
+            "udGAwayizyAmahe"
+          ],
+          "alung": [
+            "udajIGawata",
+            "udajIGawetAm",
+            "udajIGawanta",
+            "udajIGawaTAH",
+            "udajIGaweTAm",
+            "udajIGawaDvam",
+            "udajIGawe",
+            "udajIGawAvahi",
+            "udajIGawAmahi"
+          ],
+          "alut": [
+            "udGAwayitA",
+            "udGAwayitArO",
+            "udGAwayitAraH",
+            "udGAwayitAse",
+            "udGAwayitAsATe",
+            "udGAwayitADve",
+            "udGAwayitAhe",
+            "udGAwayitAsvahe",
+            "udGAwayitAsmahe"
+          ],
+          "avidhiling": [
+            "udGAwayeta",
+            "udGAwayeyAtAm",
+            "udGAwayeran",
+            "udGAwayeTAH",
+            "udGAwayeyATAm",
+            "udGAwayeDvam",
+            "udGAwayeya",
+            "udGAwayevahi",
+            "udGAwayemahi"
+          ],
+          "pashirling": [
+            "udGAwyAt",
+            "udGAwyAd",
+            "udGAwyAstAm",
+            "udGAwyAsuH",
+            "udGAwyAH",
+            "udGAwyAstam",
+            "udGAwyAsta",
+            "udGAwyAsam",
+            "udGAwyAsva",
+            "udGAwyAsma"
+          ],
+          "plang": [
+            "udaGAwayat",
+            "udaGAwayad",
+            "udaGAwayatAm",
+            "udaGAwayan",
+            "udaGAwayaH",
+            "udaGAwayatam",
+            "udaGAwayata",
+            "udaGAwayam",
+            "udaGAwayAva",
+            "udaGAwayAma"
+          ],
+          "plat": [
+            "udGAwayati",
+            "udGAwayataH",
+            "udGAwayanti",
+            "udGAwayasi",
+            "udGAwayaTaH",
+            "udGAwayaTa",
+            "udGAwayAmi",
+            "udGAwayAvaH",
+            "udGAwayAmaH"
+          ],
+          "plit": [
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakAra",
+            "udGAwayAmbaBUvatuH",
+            "udGAwayAmAsatuH",
+            "udGAwayAYcakratuH",
+            "udGAwayAmbaBUvuH",
+            "udGAwayAmAsuH",
+            "udGAwayAYcakruH",
+            "udGAwayAmbaBUviTa",
+            "udGAwayAmAsiTa",
+            "udGAwayAYcakarTa",
+            "udGAwayAmbaBUvaTuH",
+            "udGAwayAmAsaTuH",
+            "udGAwayAYcakraTuH",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakra",
+            "udGAwayAmbaBUva",
+            "udGAwayAmAsa",
+            "udGAwayAYcakara",
+            "udGAwayAYcakAra",
+            "udGAwayAmbaBUviva",
+            "udGAwayAmAsiva",
+            "udGAwayAYcakfva",
+            "udGAwayAmbaBUvima",
+            "udGAwayAmAsima",
+            "udGAwayAYcakfma"
+          ],
+          "plot": [
+            "udGAwayatAt",
+            "udGAwayatAd",
+            "udGAwayatu",
+            "udGAwayatAm",
+            "udGAwayantu",
+            "udGAwayatAt",
+            "udGAwayatAd",
+            "udGAwaya",
+            "udGAwayatam",
+            "udGAwayata",
+            "udGAwayAni",
+            "udGAwayAva",
+            "udGAwayAma"
+          ],
+          "plrung": [
+            "udaGAwayizyat",
+            "udaGAwayizyad",
+            "udaGAwayizyatAm",
+            "udaGAwayizyan",
+            "udaGAwayizyaH",
+            "udaGAwayizyatam",
+            "udaGAwayizyata",
+            "udaGAwayizyam",
+            "udaGAwayizyAva",
+            "udaGAwayizyAma"
+          ],
+          "plrut": [
+            "udGAwayizyati",
+            "udGAwayizyataH",
+            "udGAwayizyanti",
+            "udGAwayizyasi",
+            "udGAwayizyaTaH",
+            "udGAwayizyaTa",
+            "udGAwayizyAmi",
+            "udGAwayizyAvaH",
+            "udGAwayizyAmaH"
+          ],
+          "plung": [
+            "udajIGawat",
+            "udajIGawad",
+            "udajIGawatAm",
+            "udajIGawan",
+            "udajIGawaH",
+            "udajIGawatam",
+            "udajIGawata",
+            "udajIGawam",
+            "udajIGawAva",
+            "udajIGawAma"
+          ],
+          "plut": [
+            "udGAwayitA",
+            "udGAwayitArO",
+            "udGAwayitAraH",
+            "udGAwayitAsi",
+            "udGAwayitAsTaH",
+            "udGAwayitAsTa",
+            "udGAwayitAsmi",
+            "udGAwayitAsvaH",
+            "udGAwayitAsmaH"
+          ],
+          "pvidhiling": [
+            "udGAwayet",
+            "udGAwayed",
+            "udGAwayetAm",
+            "udGAwayeyuH",
+            "udGAwayeH",
+            "udGAwayetam",
+            "udGAwayeta",
+            "udGAwayeyam",
+            "udGAwayeva",
+            "udGAwayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "udGAwizIzwa",
+            "udGAwayizIzwa",
+            "udGAwizIyAstAm",
+            "udGAwayizIyAstAm",
+            "udGAwizIran",
+            "udGAwayizIran",
+            "udGAwizIzWAH",
+            "udGAwayizIzWAH",
+            "udGAwizIyAsTAm",
+            "udGAwayizIyAsTAm",
+            "udGAwizIDvam",
+            "udGAwayizIQvam",
+            "udGAwayizIDvam",
+            "udGAwizIya",
+            "udGAwayizIya",
+            "udGAwizIvahi",
+            "udGAwayizIvahi",
+            "udGAwizImahi",
+            "udGAwayizImahi"
+          ],
+          "alang": [
+            "udaGAwyata",
+            "udaGAwyetAm",
+            "udaGAwyanta",
+            "udaGAwyaTAH",
+            "udaGAwyeTAm",
+            "udaGAwyaDvam",
+            "udaGAwye",
+            "udaGAwyAvahi",
+            "udaGAwyAmahi"
+          ],
+          "alat": [
+            "udGAwyate",
+            "udGAwyete",
+            "udGAwyante",
+            "udGAwyase",
+            "udGAwyeTe",
+            "udGAwyaDve",
+            "udGAwye",
+            "udGAwyAvahe",
+            "udGAwyAmahe"
+          ],
+          "alit": [
+            "udGAwayAmbaBUve",
+            "udGAwayAmAse",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvAte",
+            "udGAwayAmAsAte",
+            "udGAwayAYcakrAte",
+            "udGAwayAmbaBUvire",
+            "udGAwayAmAsire",
+            "udGAwayAYcakrire",
+            "udGAwayAmbaBUvize",
+            "udGAwayAmAsize",
+            "udGAwayAYcakfze",
+            "udGAwayAmbaBUvATe",
+            "udGAwayAmAsATe",
+            "udGAwayAYcakrATe",
+            "udGAwayAmbaBUviQve",
+            "udGAwayAmAsiDve",
+            "udGAwayAYcakfQve",
+            "udGAwayAmbaBUve",
+            "udGAwayAmAhe",
+            "udGAwayAYcakre",
+            "udGAwayAmbaBUvivahe",
+            "udGAwayAmAsivahe",
+            "udGAwayAYcakfvahe",
+            "udGAwayAmbaBUvimahe",
+            "udGAwayAmAsimahe",
+            "udGAwayAYcakfmahe"
+          ],
+          "alot": [
+            "udGAwyatAm",
+            "udGAwyetAm",
+            "udGAwyantAm",
+            "udGAwyasva",
+            "udGAwyeTAm",
+            "udGAwyaDvam",
+            "udGAwyE",
+            "udGAwyAvahE",
+            "udGAwyAmahE"
+          ],
+          "alrung": [
+            "udaGAwizyata",
+            "udaGAwayizyata",
+            "udaGAwizyetAm",
+            "udaGAwayizyetAm",
+            "udaGAwizyanta",
+            "udaGAwayizyanta",
+            "udaGAwizyaTAH",
+            "udaGAwayizyaTAH",
+            "udaGAwizyeTAm",
+            "udaGAwayizyeTAm",
+            "udaGAwizyaDvam",
+            "udaGAwayizyaDvam",
+            "udaGAwizye",
+            "udaGAwayizye",
+            "udaGAwizyAvahi",
+            "udaGAwayizyAvahi",
+            "udaGAwizyAmahi",
+            "udaGAwayizyAmahi"
+          ],
+          "alrut": [
+            "udGAwizyate",
+            "udGAwayizyate",
+            "udGAwizyete",
+            "udGAwayizyete",
+            "udGAwizyante",
+            "udGAwayizyante",
+            "udGAwizyase",
+            "udGAwayizyase",
+            "udGAwizyeTe",
+            "udGAwayizyeTe",
+            "udGAwizyaDve",
+            "udGAwayizyaDve",
+            "udGAwizye",
+            "udGAwayizye",
+            "udGAwizyAvahe",
+            "udGAwayizyAvahe",
+            "udGAwizyAmahe",
+            "udGAwayizyAmahe"
+          ],
+          "alung": [
+            "udaGAwi",
+            "udaGAwizAtAm",
+            "udaGAwayizAtAm",
+            "udaGAwizata",
+            "udaGAwayizata",
+            "udaGAwizWAH",
+            "udaGAwayizWAH",
+            "udaGAwizATAm",
+            "udaGAwayizATAm",
+            "udaGAwiDvam",
+            "udaGAwayiQvam",
+            "udaGAwayiDvam",
+            "udaGAwizi",
+            "udaGAwayizi",
+            "udaGAwizvahi",
+            "udaGAwayizvahi",
+            "udaGAwizmahi",
+            "udaGAwayizmahi"
+          ],
+          "alut": [
+            "udGAwitA",
+            "udGAwayitA",
+            "udGAwitArO",
+            "udGAwayitArO",
+            "udGAwitAraH",
+            "udGAwayitAraH",
+            "udGAwitAse",
+            "udGAwayitAse",
+            "udGAwitAsATe",
+            "udGAwayitAsATe",
+            "udGAwitADve",
+            "udGAwayitADve",
+            "udGAwitAhe",
+            "udGAwayitAhe",
+            "udGAwitAsvahe",
+            "udGAwayitAsvahe",
+            "udGAwitAsmahe",
+            "udGAwayitAsmahe"
+          ],
+          "avidhiling": [
+            "udGAwyeta",
+            "udGAwyeyAtAm",
+            "udGAwyeran",
+            "udGAwyeTAH",
+            "udGAwyeyATAm",
+            "udGAwyeDvam",
+            "udGAwyeya",
+            "udGAwyevahi",
+            "udGAwyemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "udGAwa",
+              "m": "udGAwaH",
+              "f": "udGAwA",
+              "n": "udGAwam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "udGAwanIya",
+              "m": "udGAwanIyaH",
+              "f": "udGAwanIyA",
+              "n": "udGAwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "udGAwita",
+              "m": "udGAwitaH",
+              "f": "udGAwitA",
+              "n": "udGAwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "udGAwitavat",
+              "m": "udGAwitavAn",
+              "f": "udGAwitavatI",
+              "n": "udGAwitavat/udGAwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "udGAwwi",
+              "m": "",
+              "f": "udGAwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "udGAwayAmbaBUvas",
+              "m": "udGAwayAmbaBUvAn",
+              "f": "udGAwayAmbaBUzI",
+              "n": "udGAwayAmbaBUvat/udGAwayAmbaBUvad"
+            },
+            {
+              "base": "udGAwayAmAsivas",
+              "m": "udGAwayAmAsivAn",
+              "f": "udGAwayAmAsyuzI",
+              "n": "udGAwayAmAsivat/udGAwayAmAsivad"
+            },
+            {
+              "base": "udGAwayAYcakfvas",
+              "m": "udGAwayAYcakfvAn",
+              "f": "udGAwayAYcakruzI",
+              "n": "udGAwayAYcakfvat/udGAwayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "udGAwam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "udGAwaka",
+              "m": "udGAwakaH",
+              "f": "udGAwikA",
+              "n": "udGAwakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "udGAwayitavya",
+              "m": "udGAwayitavyaH",
+              "f": "udGAwayitavyA",
+              "n": "udGAwayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "udGAwayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "udGAwayitf",
+              "m": "udGAwayitA",
+              "f": "udGAwayitrI",
+              "n": "udGAwayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "udGAwya",
+              "m": "udGAwyaH",
+              "f": "udGAwyA",
+              "n": "udGAwyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "udGAwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "udGAwana",
+              "m": "",
+              "f": "",
+              "n": "udGAwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "udGAwaka",
+              "m": "udGAwakaH",
+              "f": "udGAwikA",
+              "n": "udGAwakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "udGAwayat",
+              "m": "udGAwayan",
+              "f": "udGAwayantI",
+              "n": "udGAwayat/udGAwayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "udGAwayat",
+              "m": "udGAwayan",
+              "f": "udGAwayatI/udGAwayantI",
+              "n": "udGAwayat/udGAwayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "ujjiGAwayizA",
+              "m": "",
+              "f": "ujjiGAwayizA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "ujjiGAwayiza",
+              "m": "ujjiGAwayizaH",
+              "f": "ujjiGAwayizA",
+              "n": "ujjiGAwayizam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "ujjiGAwayizaRIya",
+              "m": "ujjiGAwayizaRIyaH",
+              "f": "ujjiGAwayizaRIyA",
+              "n": "ujjiGAwayizaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "ujjiGAwayizu",
+              "m": "ujjiGAwayizuH",
+              "f": "ujjiGAwayizuH",
+              "n": "ujjiGAwayizu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "ujjiGAwayizita",
+              "m": "ujjiGAwayizitaH",
+              "f": "ujjiGAwayizitA",
+              "n": "ujjiGAwayizitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "ujjiGAwayizitavat",
+              "m": "ujjiGAwayizitavAn",
+              "f": "ujjiGAwayizitavatI",
+              "n": "ujjiGAwayizitavat/ujjiGAwayizitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "ujjiGAwayizwi",
+              "m": "",
+              "f": "ujjiGAwayizwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "ujjiGAwayizAmbaBUvas",
+              "m": "ujjiGAwayizAmbaBUvAn",
+              "f": "ujjiGAwayizAmbaBUzI",
+              "n": "ujjiGAwayizAmbaBUvat/ujjiGAwayizAmbaBUvad"
+            },
+            {
+              "base": "ujjiGAwayizAmAsivas",
+              "m": "ujjiGAwayizAmAsivAn",
+              "f": "ujjiGAwayizAmAsyuzI",
+              "n": "ujjiGAwayizAmAsivat/ujjiGAwayizAmAsivad"
+            },
+            {
+              "base": "ujjiGAwayizAYcakfvas",
+              "m": "ujjiGAwayizAYcakfvAn",
+              "f": "ujjiGAwayizAYcakruzI",
+              "n": "ujjiGAwayizAYcakfvat/ujjiGAwayizAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "ujjiGAwayiza",
+              "m": "ujjiGAwayizaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "ujjiGAwayizamARa",
+              "m": "ujjiGAwayizamARaH",
+              "f": "ujjiGAwayizamARA",
+              "n": "ujjiGAwayizamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "ujjiGAwayizam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "ujjiGAwayizaka",
+              "m": "ujjiGAwayizakaH",
+              "f": "ujjiGAwayizikA",
+              "n": "ujjiGAwayizakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "ujjiGAwayizitavya",
+              "m": "ujjiGAwayizitavyaH",
+              "f": "ujjiGAwayizitavyA",
+              "n": "ujjiGAwayizitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "ujjiGAwayizitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "ujjiGAwayizitf",
+              "m": "ujjiGAwayizitA",
+              "f": "ujjiGAwayizitrI",
+              "n": "ujjiGAwayizitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "ujjiGAwayizamARa",
+              "m": "ujjiGAwayizamARaH",
+              "f": "ujjiGAwayizamARA",
+              "n": "ujjiGAwayizamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "ujjiGAwayizya",
+              "m": "ujjiGAwayizyaH",
+              "f": "ujjiGAwayizyA",
+              "n": "ujjiGAwayizyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "ujjiGAwayizya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "ujjiGAwayizaRa",
+              "m": "",
+              "f": "",
+              "n": "ujjiGAwayizaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "ujjiGAwayizaka",
+              "m": "ujjiGAwayizakaH",
+              "f": "ujjiGAwayizikA",
+              "n": "ujjiGAwayizakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "ujjiGAwayizat",
+              "m": "ujjiGAwayizan",
+              "f": "ujjiGAwayizantI",
+              "n": "ujjiGAwayizat/ujjiGAwayizad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "ujjiGAwayizamARa",
+              "m": "ujjiGAwayizamARaH",
+              "f": "ujjiGAwayizamARA",
+              "n": "ujjiGAwayizamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "ujjiGAwayizamARa",
+              "m": "ujjiGAwayizamARaH",
+              "f": "ujjiGAwayizamARA",
+              "n": "ujjiGAwayizamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "ujjiGAwayizat",
+              "m": "ujjiGAwayizan",
+              "f": "ujjiGAwayizatI/ujjiGAwayizantI",
+              "n": "ujjiGAwayizat/ujjiGAwayizad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "ujjiGAwayizamARa",
+              "m": "ujjiGAwayizamARaH",
+              "f": "ujjiGAwayizamARA",
+              "n": "ujjiGAwayizamARam"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "udGAwa",
+              "m": "udGAwaH",
+              "f": "udGAwA",
+              "n": "udGAwam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "udGAwanIya",
+              "m": "udGAwanIyaH",
+              "f": "udGAwanIyA",
+              "n": "udGAwanIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "udGAwita",
+              "m": "udGAwitaH",
+              "f": "udGAwitA",
+              "n": "udGAwitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "udGAwitavat",
+              "m": "udGAwitavAn",
+              "f": "udGAwitavatI",
+              "n": "udGAwitavat/udGAwitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "udGAwwi",
+              "m": "",
+              "f": "udGAwwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "udGAwayAmbaBUvas",
+              "m": "udGAwayAmbaBUvAn",
+              "f": "udGAwayAmbaBUzI",
+              "n": "udGAwayAmbaBUvat/udGAwayAmbaBUvad"
+            },
+            {
+              "base": "udGAwayAmAsivas",
+              "m": "udGAwayAmAsivAn",
+              "f": "udGAwayAmAsyuzI",
+              "n": "udGAwayAmAsivat/udGAwayAmAsivad"
+            },
+            {
+              "base": "udGAwayAYcakfvas",
+              "m": "udGAwayAYcakfvAn",
+              "f": "udGAwayAYcakruzI",
+              "n": "udGAwayAYcakfvat/udGAwayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "udGAwam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "udGAwaka",
+              "m": "udGAwakaH",
+              "f": "udGAwikA",
+              "n": "udGAwakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "udGAwayitavya",
+              "m": "udGAwayitavyaH",
+              "f": "udGAwayitavyA",
+              "n": "udGAwayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "udGAwayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "udGAwayitf",
+              "m": "udGAwayitA",
+              "f": "udGAwayitrI",
+              "n": "udGAwayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "udGAwya",
+              "m": "udGAwyaH",
+              "f": "udGAwyA",
+              "n": "udGAwyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "udGAwya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "udGAwana",
+              "m": "",
+              "f": "",
+              "n": "udGAwanam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "udGAwaka",
+              "m": "udGAwakaH",
+              "f": "udGAwikA",
+              "n": "udGAwakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "udGAwayat",
+              "m": "udGAwayan",
+              "f": "udGAwayantI",
+              "n": "udGAwayat/udGAwayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "udGAwayat",
+              "m": "udGAwayan",
+              "f": "udGAwayatI/udGAwayantI",
+              "n": "udGAwayat/udGAwayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "udGAwayamAna",
+              "m": "udGAwayamAnaH",
+              "f": "udGAwayamAnA",
+              "n": "udGAwayamAnam"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

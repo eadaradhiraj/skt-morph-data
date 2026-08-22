@@ -1,0 +1,6405 @@
+{
+  "id": "02.0067",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "jAgf"
+    },
+    {
+      "name": "arTaH",
+      "value": "nidrAkzaye"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to be awake, to abandon sleep, to be watchful"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "jAganA, nIMda na lenA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "adAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "jakzityAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1072"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1072"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2479",
+      "ext_link": "/sutraani/sk2479?scroll=sutra-commentary-kaumudi-region&highlight=jaAgaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "jAgaryAt",
+        "jAgaryAd",
+        "jAgaryAstAm",
+        "jAgaryAsuH",
+        "jAgaryAH",
+        "jAgaryAstam",
+        "jAgaryAsta",
+        "jAgaryAsam",
+        "jAgaryAsva",
+        "jAgaryAsma"
+      ],
+      "plang": [
+        "ajAgaH",
+        "ajAgftAm",
+        "ajAgaruH",
+        "ajAgaH",
+        "ajAgftam",
+        "ajAgfta",
+        "ajAgaram",
+        "ajAgfva",
+        "ajAgfma"
+      ],
+      "plat": [
+        "jAgarti",
+        "jAgftaH",
+        "jAgrati",
+        "jAgarzi",
+        "jAgfTaH",
+        "jAgfTa",
+        "jAgarmi",
+        "jAgfvaH",
+        "jAgfmaH"
+      ],
+      "plit": [
+        "jajAgAra",
+        "jAgarAYcakAra",
+        "jAgarAmAsa",
+        "jAgarAmbaBUva",
+        "jajAgaratuH",
+        "jAgarAYcakratuH",
+        "jAgarAmAsatuH",
+        "jAgarAmbaBUvatuH",
+        "jajAgaruH",
+        "jAgarAYcakruH",
+        "jAgarAmAsuH",
+        "jAgarAmbaBUvuH",
+        "jajAgariTa",
+        "jAgarAYcakarTa",
+        "jAgarAmAsiTa",
+        "jAgarAmbaBUviTa",
+        "jajAgaraTuH",
+        "jAgarAYcakraTuH",
+        "jAgarAmAsaTuH",
+        "jAgarAmbaBUvaTuH",
+        "jajAgara",
+        "jAgarAYcakra",
+        "jAgarAmAsa",
+        "jAgarAmbaBUva",
+        "jajAgara",
+        "jajAgAra",
+        "jAgarAYcakara",
+        "jAgarAYcakAra",
+        "jAgarAmAsa",
+        "jAgarAmbaBUva",
+        "jajAgariva",
+        "jAgarAYcakfva",
+        "jAgarAmAsiva",
+        "jAgarAmbaBUviva",
+        "jajAgarima",
+        "jAgarAYcakfma",
+        "jAgarAmAsima",
+        "jAgarAmbaBUvima"
+      ],
+      "plot": [
+        "jAgartu",
+        "jAgftAt",
+        "jAgftAd",
+        "jAgftAm",
+        "jAgratu",
+        "jAgftAt",
+        "jAgftAd",
+        "jAgfhi",
+        "jAgftam",
+        "jAgfta",
+        "jAgarARi",
+        "jAgarAva",
+        "jAgarAma"
+      ],
+      "plrung": [
+        "ajAgarizyat",
+        "ajAgarizyad",
+        "ajAgarizyatAm",
+        "ajAgarizyan",
+        "ajAgarizyaH",
+        "ajAgarizyatam",
+        "ajAgarizyata",
+        "ajAgarizyam",
+        "ajAgarizyAva",
+        "ajAgarizyAma"
+      ],
+      "plrut": [
+        "jAgarizyati",
+        "jAgarizyataH",
+        "jAgarizyanti",
+        "jAgarizyasi",
+        "jAgarizyaTaH",
+        "jAgarizyaTa",
+        "jAgarizyAmi",
+        "jAgarizyAvaH",
+        "jAgarizyAmaH"
+      ],
+      "plung": [
+        "ajAgarIt",
+        "ajAgarId",
+        "ajAgarizwAm",
+        "ajAgarizuH",
+        "ajAgarIH",
+        "ajAgarizwam",
+        "ajAgarizwa",
+        "ajAgarizam",
+        "ajAgarizva",
+        "ajAgarizma"
+      ],
+      "plut": [
+        "jAgaritA",
+        "jAgaritArO",
+        "jAgaritAraH",
+        "jAgaritAsi",
+        "jAgaritAsTaH",
+        "jAgaritAsTa",
+        "jAgaritAsmi",
+        "jAgaritAsvaH",
+        "jAgaritAsmaH"
+      ],
+      "pvidhiling": [
+        "jAgfyAt",
+        "jAgfyAd",
+        "jAgfyAtAm",
+        "jAgfyuH",
+        "jAgfyAH",
+        "jAgfyAtam",
+        "jAgfyAta",
+        "jAgfyAm",
+        "jAgfyAva",
+        "jAgfyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "jAgarizIzwa",
+        "jAgarizIyAstAm",
+        "jAgarizIran",
+        "jAgarizIzWAH",
+        "jAgarizIyAsTAm",
+        "jAgarizIQvam",
+        "jAgarizIDvam",
+        "jAgarizIya",
+        "jAgarizIvahi",
+        "jAgarizImahi"
+      ],
+      "alang": [
+        "ajAgaryata",
+        "ajAgaryetAm",
+        "ajAgaryanta",
+        "ajAgaryaTAH",
+        "ajAgaryeTAm",
+        "ajAgaryaDvam",
+        "ajAgarye",
+        "ajAgaryAvahi",
+        "ajAgaryAmahi"
+      ],
+      "alat": [
+        "jAgaryate",
+        "jAgaryete",
+        "jAgaryante",
+        "jAgaryase",
+        "jAgaryeTe",
+        "jAgaryaDve",
+        "jAgarye",
+        "jAgaryAvahe",
+        "jAgaryAmahe"
+      ],
+      "alit": [
+        "jajAgare",
+        "jAgarAYcakre",
+        "jAgarAmAse",
+        "jAgarAmbaBUve",
+        "jajAgarAte",
+        "jAgarAYcakrAte",
+        "jAgarAmAsAte",
+        "jAgarAmbaBUvAte",
+        "jajAgarire",
+        "jAgarAYcakrire",
+        "jAgarAmAsire",
+        "jAgarAmbaBUvire",
+        "jajAgarize",
+        "jAgarAYcakfze",
+        "jAgarAmAsize",
+        "jAgarAmbaBUvize",
+        "jajAgarATe",
+        "jAgarAYcakrATe",
+        "jAgarAmAsATe",
+        "jAgarAmbaBUvATe",
+        "jajAgariQve",
+        "jajAgariDve",
+        "jAgarAYcakfQve",
+        "jAgarAmAsiDve",
+        "jAgarAmbaBUviQve",
+        "jajAgare",
+        "jAgarAYcakre",
+        "jAgarAmAhe",
+        "jAgarAmbaBUve",
+        "jajAgarivahe",
+        "jAgarAYcakfvahe",
+        "jAgarAmAsivahe",
+        "jAgarAmbaBUvivahe",
+        "jajAgarimahe",
+        "jAgarAYcakfmahe",
+        "jAgarAmAsimahe",
+        "jAgarAmbaBUvimahe"
+      ],
+      "alot": [
+        "jAgaryatAm",
+        "jAgaryetAm",
+        "jAgaryantAm",
+        "jAgaryasva",
+        "jAgaryeTAm",
+        "jAgaryaDvam",
+        "jAgaryE",
+        "jAgaryAvahE",
+        "jAgaryAmahE"
+      ],
+      "alrung": [
+        "ajAgarizyata",
+        "ajAgarizyetAm",
+        "ajAgarizyanta",
+        "ajAgarizyaTAH",
+        "ajAgarizyeTAm",
+        "ajAgarizyaDvam",
+        "ajAgarizye",
+        "ajAgarizyAvahi",
+        "ajAgarizyAmahi"
+      ],
+      "alrut": [
+        "jAgarizyate",
+        "jAgarizyete",
+        "jAgarizyante",
+        "jAgarizyase",
+        "jAgarizyeTe",
+        "jAgarizyaDve",
+        "jAgarizye",
+        "jAgarizyAvahe",
+        "jAgarizyAmahe"
+      ],
+      "alung": [
+        "ajAgAri",
+        "ajAgarizAtAm",
+        "ajAgarizata",
+        "ajAgarizWAH",
+        "ajAgarizATAm",
+        "ajAgariQvam",
+        "ajAgariDvam",
+        "ajAgarizi",
+        "ajAgarizvahi",
+        "ajAgarizmahi"
+      ],
+      "alut": [
+        "jAgaritA",
+        "jAgaritArO",
+        "jAgaritAraH",
+        "jAgaritAse",
+        "jAgaritAsATe",
+        "jAgaritADve",
+        "jAgaritAhe",
+        "jAgaritAsvahe",
+        "jAgaritAsmahe"
+      ],
+      "avidhiling": [
+        "jAgaryeta",
+        "jAgaryeyAtAm",
+        "jAgaryeran",
+        "jAgaryeTAH",
+        "jAgaryeyATAm",
+        "jAgaryeDvam",
+        "jAgaryeya",
+        "jAgaryevahi",
+        "jAgaryemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "jijAgIrzyAt",
+        "jijAgIrzyAd",
+        "jijAgIrzyAstAm",
+        "jijAgIrzyAsuH",
+        "jijAgIrzyAH",
+        "jijAgIrzyAstam",
+        "jijAgIrzyAsta",
+        "jijAgIrzyAsam",
+        "jijAgIrzyAsva",
+        "jijAgIrzyAsma"
+      ],
+      "plang": [
+        "ajijAgIrzat",
+        "ajijAgIrzad",
+        "ajijAgIrzatAm",
+        "ajijAgIrzan",
+        "ajijAgIrzaH",
+        "ajijAgIrzatam",
+        "ajijAgIrzata",
+        "ajijAgIrzam",
+        "ajijAgIrzAva",
+        "ajijAgIrzAma"
+      ],
+      "plat": [
+        "jijAgIrzati",
+        "jijAgIrzataH",
+        "jijAgIrzanti",
+        "jijAgIrzasi",
+        "jijAgIrzaTaH",
+        "jijAgIrzaTa",
+        "jijAgIrzAmi",
+        "jijAgIrzAvaH",
+        "jijAgIrzAmaH"
+      ],
+      "plit": [
+        "jijAgIrzAYcakAra",
+        "jijAgIrzAmAsa",
+        "jijAgIrzAmbaBUva",
+        "jijAgIrzAYcakratuH",
+        "jijAgIrzAmAsatuH",
+        "jijAgIrzAmbaBUvatuH",
+        "jijAgIrzAYcakruH",
+        "jijAgIrzAmAsuH",
+        "jijAgIrzAmbaBUvuH",
+        "jijAgIrzAYcakarTa",
+        "jijAgIrzAmAsiTa",
+        "jijAgIrzAmbaBUviTa",
+        "jijAgIrzAYcakraTuH",
+        "jijAgIrzAmAsaTuH",
+        "jijAgIrzAmbaBUvaTuH",
+        "jijAgIrzAYcakra",
+        "jijAgIrzAmAsa",
+        "jijAgIrzAmbaBUva",
+        "jijAgIrzAYcakara",
+        "jijAgIrzAYcakAra",
+        "jijAgIrzAmAsa",
+        "jijAgIrzAmbaBUva",
+        "jijAgIrzAYcakfva",
+        "jijAgIrzAmAsiva",
+        "jijAgIrzAmbaBUviva",
+        "jijAgIrzAYcakfma",
+        "jijAgIrzAmAsima",
+        "jijAgIrzAmbaBUvima"
+      ],
+      "plot": [
+        "jijAgIrzatAt",
+        "jijAgIrzatAd",
+        "jijAgIrzatu",
+        "jijAgIrzatAm",
+        "jijAgIrzantu",
+        "jijAgIrza",
+        "jijAgIrzatAt",
+        "jijAgIrzatAd",
+        "jijAgIrzatam",
+        "jijAgIrzata",
+        "jijAgIrzARi",
+        "jijAgIrzAva",
+        "jijAgIrzAma"
+      ],
+      "plrung": [
+        "ajijAgIrzizyat",
+        "ajijAgIrzizyad",
+        "ajijAgIrzizyatAm",
+        "ajijAgIrzizyan",
+        "ajijAgIrzizyaH",
+        "ajijAgIrzizyatam",
+        "ajijAgIrzizyata",
+        "ajijAgIrzizyam",
+        "ajijAgIrzizyAva",
+        "ajijAgIrzizyAma"
+      ],
+      "plrut": [
+        "jijAgIrzizyati",
+        "jijAgIrzizyataH",
+        "jijAgIrzizyanti",
+        "jijAgIrzizyasi",
+        "jijAgIrzizyaTaH",
+        "jijAgIrzizyaTa",
+        "jijAgIrzizyAmi",
+        "jijAgIrzizyAvaH",
+        "jijAgIrzizyAmaH"
+      ],
+      "plung": [
+        "ajijAgIrzIt",
+        "ajijAgIrzId",
+        "ajijAgIrzizwAm",
+        "ajijAgIrzizuH",
+        "ajijAgIrzIH",
+        "ajijAgIrzizwam",
+        "ajijAgIrzizwa",
+        "ajijAgIrzizam",
+        "ajijAgIrzizva",
+        "ajijAgIrzizma"
+      ],
+      "plut": [
+        "jijAgIrzitA",
+        "jijAgIrzitArO",
+        "jijAgIrzitAraH",
+        "jijAgIrzitAsi",
+        "jijAgIrzitAsTaH",
+        "jijAgIrzitAsTa",
+        "jijAgIrzitAsmi",
+        "jijAgIrzitAsvaH",
+        "jijAgIrzitAsmaH"
+      ],
+      "pvidhiling": [
+        "jijAgIrzet",
+        "jijAgIrzed",
+        "jijAgIrzetAm",
+        "jijAgIrzeyuH",
+        "jijAgIrzeH",
+        "jijAgIrzetam",
+        "jijAgIrzeta",
+        "jijAgIrzeyam",
+        "jijAgIrzeva",
+        "jijAgIrzema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "jijAgIrzizIzwa",
+        "jijAgIrzizIyAstAm",
+        "jijAgIrzizIran",
+        "jijAgIrzizIzWAH",
+        "jijAgIrzizIyAsTAm",
+        "jijAgIrzizIDvam",
+        "jijAgIrzizIya",
+        "jijAgIrzizIvahi",
+        "jijAgIrzizImahi"
+      ],
+      "alang": [
+        "ajijAgIrzyata",
+        "ajijAgIrzyetAm",
+        "ajijAgIrzyanta",
+        "ajijAgIrzyaTAH",
+        "ajijAgIrzyeTAm",
+        "ajijAgIrzyaDvam",
+        "ajijAgIrzye",
+        "ajijAgIrzyAvahi",
+        "ajijAgIrzyAmahi"
+      ],
+      "alat": [
+        "jijAgIrzyate",
+        "jijAgIrzyete",
+        "jijAgIrzyante",
+        "jijAgIrzyase",
+        "jijAgIrzyeTe",
+        "jijAgIrzyaDve",
+        "jijAgIrzye",
+        "jijAgIrzyAvahe",
+        "jijAgIrzyAmahe"
+      ],
+      "alit": [
+        "jijAgIrzAYcakre",
+        "jijAgIrzAmAse",
+        "jijAgIrzAmbaBUve",
+        "jijAgIrzAYcakrAte",
+        "jijAgIrzAmAsAte",
+        "jijAgIrzAmbaBUvAte",
+        "jijAgIrzAYcakrire",
+        "jijAgIrzAmAsire",
+        "jijAgIrzAmbaBUvire",
+        "jijAgIrzAYcakfze",
+        "jijAgIrzAmAsize",
+        "jijAgIrzAmbaBUvize",
+        "jijAgIrzAYcakrATe",
+        "jijAgIrzAmAsATe",
+        "jijAgIrzAmbaBUvATe",
+        "jijAgIrzAYcakfQve",
+        "jijAgIrzAmAsiDve",
+        "jijAgIrzAmbaBUviQve",
+        "jijAgIrzAYcakre",
+        "jijAgIrzAmAhe",
+        "jijAgIrzAmbaBUve",
+        "jijAgIrzAYcakfvahe",
+        "jijAgIrzAmAsivahe",
+        "jijAgIrzAmbaBUvivahe",
+        "jijAgIrzAYcakfmahe",
+        "jijAgIrzAmAsimahe",
+        "jijAgIrzAmbaBUvimahe"
+      ],
+      "alot": [
+        "jijAgIrzyatAm",
+        "jijAgIrzyetAm",
+        "jijAgIrzyantAm",
+        "jijAgIrzyasva",
+        "jijAgIrzyeTAm",
+        "jijAgIrzyaDvam",
+        "jijAgIrzyE",
+        "jijAgIrzyAvahE",
+        "jijAgIrzyAmahE"
+      ],
+      "alrung": [
+        "ajijAgIrzizyata",
+        "ajijAgIrzizyetAm",
+        "ajijAgIrzizyanta",
+        "ajijAgIrzizyaTAH",
+        "ajijAgIrzizyeTAm",
+        "ajijAgIrzizyaDvam",
+        "ajijAgIrzizye",
+        "ajijAgIrzizyAvahi",
+        "ajijAgIrzizyAmahi"
+      ],
+      "alrut": [
+        "jijAgIrzizyate",
+        "jijAgIrzizyete",
+        "jijAgIrzizyante",
+        "jijAgIrzizyase",
+        "jijAgIrzizyeTe",
+        "jijAgIrzizyaDve",
+        "jijAgIrzizye",
+        "jijAgIrzizyAvahe",
+        "jijAgIrzizyAmahe"
+      ],
+      "alung": [
+        "ajijAgIrzi",
+        "ajijAgIrzizAtAm",
+        "ajijAgIrzizata",
+        "ajijAgIrzizWAH",
+        "ajijAgIrzizATAm",
+        "ajijAgIrziDvam",
+        "ajijAgIrzizi",
+        "ajijAgIrzizvahi",
+        "ajijAgIrzizmahi"
+      ],
+      "alut": [
+        "jijAgIrzitA",
+        "jijAgIrzitArO",
+        "jijAgIrzitAraH",
+        "jijAgIrzitAse",
+        "jijAgIrzitAsATe",
+        "jijAgIrzitADve",
+        "jijAgIrzitAhe",
+        "jijAgIrzitAsvahe",
+        "jijAgIrzitAsmahe"
+      ],
+      "avidhiling": [
+        "jijAgIrzyeta",
+        "jijAgIrzyeyAtAm",
+        "jijAgIrzyeran",
+        "jijAgIrzyeTAH",
+        "jijAgIrzyeyATAm",
+        "jijAgIrzyeDvam",
+        "jijAgIrzyeya",
+        "jijAgIrzyevahi",
+        "jijAgIrzyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "jAgarayizIzwa",
+        "jAgarayizIyAstAm",
+        "jAgarayizIran",
+        "jAgarayizIzWAH",
+        "jAgarayizIyAsTAm",
+        "jAgarayizIQvam",
+        "jAgarayizIDvam",
+        "jAgarayizIya",
+        "jAgarayizIvahi",
+        "jAgarayizImahi"
+      ],
+      "alang": [
+        "ajAgarayata",
+        "ajAgarayetAm",
+        "ajAgarayanta",
+        "ajAgarayaTAH",
+        "ajAgarayeTAm",
+        "ajAgarayaDvam",
+        "ajAgaraye",
+        "ajAgarayAvahi",
+        "ajAgarayAmahi"
+      ],
+      "alat": [
+        "jAgarayate",
+        "jAgarayete",
+        "jAgarayante",
+        "jAgarayase",
+        "jAgarayeTe",
+        "jAgarayaDve",
+        "jAgaraye",
+        "jAgarayAvahe",
+        "jAgarayAmahe"
+      ],
+      "alit": [
+        "jAgarayAYcakre",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakrAte",
+        "jAgarayAmAsatuH",
+        "jAgarayAmbaBUvatuH",
+        "jAgarayAYcakrire",
+        "jAgarayAmAsuH",
+        "jAgarayAmbaBUvuH",
+        "jAgarayAYcakfze",
+        "jAgarayAmAsiTa",
+        "jAgarayAmbaBUviTa",
+        "jAgarayAYcakrATe",
+        "jAgarayAmAsaTuH",
+        "jAgarayAmbaBUvaTuH",
+        "jAgarayAYcakfQve",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakre",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakfvahe",
+        "jAgarayAmAsiva",
+        "jAgarayAmbaBUviva",
+        "jAgarayAYcakfmahe",
+        "jAgarayAmAsima",
+        "jAgarayAmbaBUvima"
+      ],
+      "alot": [
+        "jAgarayatAm",
+        "jAgarayetAm",
+        "jAgarayantAm",
+        "jAgarayasva",
+        "jAgarayeTAm",
+        "jAgarayaDvam",
+        "jAgarayE",
+        "jAgarayAvahE",
+        "jAgarayAmahE"
+      ],
+      "alrung": [
+        "ajAgarayizyata",
+        "ajAgarayizyetAm",
+        "ajAgarayizyanta",
+        "ajAgarayizyaTAH",
+        "ajAgarayizyeTAm",
+        "ajAgarayizyaDvam",
+        "ajAgarayizye",
+        "ajAgarayizyAvahi",
+        "ajAgarayizyAmahi"
+      ],
+      "alrut": [
+        "jAgarayizyate",
+        "jAgarayizyete",
+        "jAgarayizyante",
+        "jAgarayizyase",
+        "jAgarayizyeTe",
+        "jAgarayizyaDve",
+        "jAgarayizye",
+        "jAgarayizyAvahe",
+        "jAgarayizyAmahe"
+      ],
+      "alung": [
+        "ajajAgarata",
+        "ajajAgaretAm",
+        "ajajAgaranta",
+        "ajajAgaraTAH",
+        "ajajAgareTAm",
+        "ajajAgaraDvam",
+        "ajajAgare",
+        "ajajAgarAvahi",
+        "ajajAgarAmahi"
+      ],
+      "alut": [
+        "jAgarayitA",
+        "jAgarayitArO",
+        "jAgarayitAraH",
+        "jAgarayitAse",
+        "jAgarayitAsATe",
+        "jAgarayitADve",
+        "jAgarayitAhe",
+        "jAgarayitAsvahe",
+        "jAgarayitAsmahe"
+      ],
+      "avidhiling": [
+        "jAgarayeta",
+        "jAgarayeyAtAm",
+        "jAgarayeran",
+        "jAgarayeTAH",
+        "jAgarayeyATAm",
+        "jAgarayeDvam",
+        "jAgarayeya",
+        "jAgarayevahi",
+        "jAgarayemahi"
+      ],
+      "pashirling": [
+        "jAgaryAt",
+        "jAgaryAd",
+        "jAgaryAstAm",
+        "jAgaryAsuH",
+        "jAgaryAH",
+        "jAgaryAstam",
+        "jAgaryAsta",
+        "jAgaryAsam",
+        "jAgaryAsva",
+        "jAgaryAsma"
+      ],
+      "plang": [
+        "ajAgarayat",
+        "ajAgarayad",
+        "ajAgarayatAm",
+        "ajAgarayan",
+        "ajAgarayaH",
+        "ajAgarayatam",
+        "ajAgarayata",
+        "ajAgarayam",
+        "ajAgarayAva",
+        "ajAgarayAma"
+      ],
+      "plat": [
+        "jAgarayati",
+        "jAgarayataH",
+        "jAgarayanti",
+        "jAgarayasi",
+        "jAgarayaTaH",
+        "jAgarayaTa",
+        "jAgarayAmi",
+        "jAgarayAvaH",
+        "jAgarayAmaH"
+      ],
+      "plit": [
+        "jAgarayAYcakAra",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakratuH",
+        "jAgarayAmAsatuH",
+        "jAgarayAmbaBUvatuH",
+        "jAgarayAYcakruH",
+        "jAgarayAmAsuH",
+        "jAgarayAmbaBUvuH",
+        "jAgarayAYcakarTa",
+        "jAgarayAmAsiTa",
+        "jAgarayAmbaBUviTa",
+        "jAgarayAYcakraTuH",
+        "jAgarayAmAsaTuH",
+        "jAgarayAmbaBUvaTuH",
+        "jAgarayAYcakra",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakara",
+        "jAgarayAYcakAra",
+        "jAgarayAmAsa",
+        "jAgarayAmbaBUva",
+        "jAgarayAYcakfva",
+        "jAgarayAmAsiva",
+        "jAgarayAmbaBUviva",
+        "jAgarayAYcakfma",
+        "jAgarayAmAsima",
+        "jAgarayAmbaBUvima"
+      ],
+      "plot": [
+        "jAgarayatAt",
+        "jAgarayatAd",
+        "jAgarayatu",
+        "jAgarayatAm",
+        "jAgarayantu",
+        "jAgaraya",
+        "jAgarayatAt",
+        "jAgarayatAd",
+        "jAgarayatam",
+        "jAgarayata",
+        "jAgarayARi",
+        "jAgarayAva",
+        "jAgarayAma"
+      ],
+      "plrung": [
+        "ajAgarayizyat",
+        "ajAgarayizyad",
+        "ajAgarayizyatAm",
+        "ajAgarayizyan",
+        "ajAgarayizyaH",
+        "ajAgarayizyatam",
+        "ajAgarayizyata",
+        "ajAgarayizyam",
+        "ajAgarayizyAva",
+        "ajAgarayizyAma"
+      ],
+      "plrut": [
+        "jAgarayizyati",
+        "jAgarayizyataH",
+        "jAgarayizyanti",
+        "jAgarayizyasi",
+        "jAgarayizyaTaH",
+        "jAgarayizyaTa",
+        "jAgarayizyAmi",
+        "jAgarayizyAvaH",
+        "jAgarayizyAmaH"
+      ],
+      "plung": [
+        "ajajAgarat",
+        "ajajAgarad",
+        "ajajAgaratAm",
+        "ajajAgaran",
+        "ajajAgaraH",
+        "ajajAgaratam",
+        "ajajAgarata",
+        "ajajAgaram",
+        "ajajAgarAva",
+        "ajajAgarAma"
+      ],
+      "plut": [
+        "jAgarayitA",
+        "jAgarayitArO",
+        "jAgarayitAraH",
+        "jAgarayitAsi",
+        "jAgarayitAsTaH",
+        "jAgarayitAsTa",
+        "jAgarayitAsmi",
+        "jAgarayitAsvaH",
+        "jAgarayitAsmaH"
+      ],
+      "pvidhiling": [
+        "jAgarayet",
+        "jAgarayed",
+        "jAgarayetAm",
+        "jAgarayeyuH",
+        "jAgarayeH",
+        "jAgarayetam",
+        "jAgarayeta",
+        "jAgarayeyam",
+        "jAgarayeva",
+        "jAgarayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "jAgarayizIzwa",
+        "jAgarizIzwa",
+        "jAgarayizIyAstAm",
+        "jAgarizIyAstAm",
+        "jAgarayizIran",
+        "jAgarizIran",
+        "jAgarayizIzWAH",
+        "jAgarizIzWAH",
+        "jAgarayizIyAsTAm",
+        "jAgarizIyAsTAm",
+        "jAgarayizIQvam",
+        "jAgarayizIDvam",
+        "jAgarizIQvam",
+        "jAgarayizIya",
+        "jAgarizIya",
+        "jAgarayizIvahi",
+        "jAgarizIvahi",
+        "jAgarayizImahi",
+        "jAgarizImahi"
+      ],
+      "alang": [
+        "ajAgaryata",
+        "ajAgaryetAm",
+        "ajAgaryanta",
+        "ajAgaryaTAH",
+        "ajAgaryeTAm",
+        "ajAgaryaDvam",
+        "ajAgarye",
+        "ajAgaryAvahi",
+        "ajAgaryAmahi"
+      ],
+      "alat": [
+        "jAgaryate",
+        "jAgaryete",
+        "jAgaryante",
+        "jAgaryase",
+        "jAgaryeTe",
+        "jAgaryaDve",
+        "jAgarye",
+        "jAgaryAvahe",
+        "jAgaryAmahe"
+      ],
+      "alit": [
+        "jAgarayAYcakre",
+        "jAgarayAmAse",
+        "jAgarayAmbaBUve",
+        "jAgarayAYcakrAte",
+        "jAgarayAmAsAte",
+        "jAgarayAmbaBUvAte",
+        "jAgarayAYcakrire",
+        "jAgarayAmAsire",
+        "jAgarayAmbaBUvire",
+        "jAgarayAYcakfze",
+        "jAgarayAmAsize",
+        "jAgarayAmbaBUvize",
+        "jAgarayAYcakrATe",
+        "jAgarayAmAsATe",
+        "jAgarayAmbaBUvATe",
+        "jAgarayAYcakfQve",
+        "jAgarayAmAsiDve",
+        "jAgarayAmbaBUviQve",
+        "jAgarayAYcakre",
+        "jAgarayAmAhe",
+        "jAgarayAmbaBUve",
+        "jAgarayAYcakfvahe",
+        "jAgarayAmAsivahe",
+        "jAgarayAmbaBUvivahe",
+        "jAgarayAYcakfmahe",
+        "jAgarayAmAsimahe",
+        "jAgarayAmbaBUvimahe"
+      ],
+      "alot": [
+        "jAgaryatAm",
+        "jAgaryetAm",
+        "jAgaryantAm",
+        "jAgaryasva",
+        "jAgaryeTAm",
+        "jAgaryaDvam",
+        "jAgaryE",
+        "jAgaryAvahE",
+        "jAgaryAmahE"
+      ],
+      "alrung": [
+        "ajAgarayizyata",
+        "ajAgarizyata",
+        "ajAgarayizyetAm",
+        "ajAgarizyetAm",
+        "ajAgarayizyanta",
+        "ajAgarizyanta",
+        "ajAgarayizyaTAH",
+        "ajAgarizyaTAH",
+        "ajAgarayizyeTAm",
+        "ajAgarizyeTAm",
+        "ajAgarayizyaDvam",
+        "ajAgarizyaDvam",
+        "ajAgarayizye",
+        "ajAgarizye",
+        "ajAgarayizyAvahi",
+        "ajAgarizyAvahi",
+        "ajAgarayizyAmahi",
+        "ajAgarizyAmahi"
+      ],
+      "alrut": [
+        "jAgarayizyate",
+        "jAgarizyate",
+        "jAgarayizyete",
+        "jAgarizyete",
+        "jAgarayizyante",
+        "jAgarizyante",
+        "jAgarayizyase",
+        "jAgarizyase",
+        "jAgarayizyeTe",
+        "jAgarizyeTe",
+        "jAgarayizyaDve",
+        "jAgarizyaDve",
+        "jAgarayizye",
+        "jAgarizye",
+        "jAgarayizyAvahe",
+        "jAgarizyAvahe",
+        "jAgarayizyAmahe",
+        "jAgarizyAmahe"
+      ],
+      "alung": [
+        "ajAgari",
+        "ajAgarayizAtAm",
+        "ajAgarizAtAm",
+        "ajAgarayizata",
+        "ajAgarizata",
+        "ajAgarayizWAH",
+        "ajAgarizWAH",
+        "ajAgarayizATAm",
+        "ajAgarizATAm",
+        "ajAgarayiQvam",
+        "ajAgarayiDvam",
+        "ajAgariQvam",
+        "ajAgarayizi",
+        "ajAgarizi",
+        "ajAgarayizvahi",
+        "ajAgarizvahi",
+        "ajAgarayizmahi",
+        "ajAgarizmahi"
+      ],
+      "alut": [
+        "jAgarayitA",
+        "jAgaritA",
+        "jAgarayitArO",
+        "jAgaritArO",
+        "jAgarayitAraH",
+        "jAgaritAraH",
+        "jAgarayitAse",
+        "jAgaritAse",
+        "jAgarayitAsATe",
+        "jAgaritAsATe",
+        "jAgarayitADve",
+        "jAgaritADve",
+        "jAgarayitAhe",
+        "jAgaritAhe",
+        "jAgarayitAsvahe",
+        "jAgaritAsvahe",
+        "jAgarayitAsmahe",
+        "jAgaritAsmahe"
+      ],
+      "avidhiling": [
+        "jAgaryeta",
+        "jAgaryeyAtAm",
+        "jAgaryeran",
+        "jAgaryeTAH",
+        "jAgaryeyATAm",
+        "jAgaryeDvam",
+        "jAgaryeya",
+        "jAgaryevahi",
+        "jAgaryemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "jAgara",
+          "m": "jAgaraH",
+          "f": "jAgarA",
+          "n": "jAgaram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAgaraRIya",
+          "m": "jAgaraRIyaH",
+          "f": "jAgaraRIyA",
+          "n": "jAgaraRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAgarita",
+          "m": "jAgaritaH",
+          "f": "jAgaritA",
+          "n": "jAgaritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAgaritavat",
+          "m": "jAgaritavAn",
+          "f": "jAgaritavatI",
+          "n": "jAgaritavat/jAgaritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAgarti",
+          "m": "",
+          "f": "jAgartiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAgaritvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAgarAmbaBUvas",
+          "m": "jAgarAmbaBUvAn",
+          "f": "jAgarAmbaBUzI",
+          "n": "jAgarAmbaBUvat/jAgarAmbaBUvad"
+        },
+        {
+          "base": "jAgarAmAsivas",
+          "m": "jAgarAmAsivAn",
+          "f": "jAgarAmAsuzI",
+          "n": "jAgarAmAsivat/jAgarAmAsivad"
+        },
+        {
+          "base": "jAgarAYcakfvas",
+          "m": "jAgarAYcakfvAn",
+          "f": "jAgarAYcakruzI",
+          "n": "jAgarAYcakfvat/jAgarAYcakfvad"
+        },
+        {
+          "base": "jajAgarvas",
+          "m": "jajAgarvAn",
+          "f": "jajAgaruzI",
+          "n": "jajAgarvat/jajAgarvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jAgara",
+          "m": "jAgaraH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAgrARa",
+          "m": "jAgrARaH",
+          "f": "jAgrARA",
+          "n": "jAgrARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAgaram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "jAgarya",
+          "m": "jAgaryaH",
+          "f": "jAgaryA",
+          "n": "jAgaryam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAgaraka",
+          "m": "jAgarakaH",
+          "f": "jAgarikA",
+          "n": "jAgarakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAgaritavya",
+          "m": "jAgaritavyaH",
+          "f": "jAgaritavyA",
+          "n": "jAgaritavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAgaritum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAgaritf",
+          "m": "jAgaritA",
+          "f": "jAgaritrI",
+          "n": "jAgaritf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAgaryamARa",
+          "m": "jAgaryamARaH",
+          "f": "jAgaryamARA",
+          "n": "jAgaryamARam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAgarya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAgaraRa",
+          "m": "",
+          "f": "",
+          "n": "jAgaraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAgaraka",
+          "m": "jAgarakaH",
+          "f": "jAgarikA",
+          "n": "jAgarakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jAgrat",
+          "m": "jAgrat/jAgrad",
+          "f": "jAgratI/jAgrantI",
+          "n": "jAgrat/jAgrad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAgarizyamARa",
+          "m": "jAgarizyamARaH",
+          "f": "jAgarizyamARA",
+          "n": "jAgarizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jAgarizyat",
+          "m": "jAgarizyan",
+          "f": "jAgarizyatI/jAgarizyantI",
+          "n": "jAgarizyat/jAgarizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "jijAgIrzA",
+          "m": "",
+          "f": "jijAgIrzA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "jijAgIrza",
+          "m": "jijAgIrzaH",
+          "f": "jijAgIrzA",
+          "n": "jijAgIrzam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jijAgIrzaRIya",
+          "m": "jijAgIrzaRIyaH",
+          "f": "jijAgIrzaRIyA",
+          "n": "jijAgIrzaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "jijAgIrzu",
+          "m": "jijAgIrzuH",
+          "f": "jijAgIrzuH",
+          "n": "jijAgIrzu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jijAgIrzita",
+          "m": "jijAgIrzitaH",
+          "f": "jijAgIrzitA",
+          "n": "jijAgIrzitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jijAgIrzitavat",
+          "m": "jijAgIrzitavAn",
+          "f": "jijAgIrzitavatI",
+          "n": "jijAgIrzitavat/jijAgIrzitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jijAgIrzwi",
+          "m": "",
+          "f": "jijAgIrzwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jijAgIrzitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jijAgIrzAmbaBUvas",
+          "m": "jijAgIrzAmbaBUvAn",
+          "f": "jijAgIrzAmbaBUzI",
+          "n": "jijAgIrzAmbaBUvat/jijAgIrzAmbaBUvad"
+        },
+        {
+          "base": "jijAgIrzAmAsivas",
+          "m": "jijAgIrzAmAsivAn",
+          "f": "jijAgIrzAmAsyuzI",
+          "n": "jijAgIrzAmAsivat/jijAgIrzAmAsivad"
+        },
+        {
+          "base": "jijAgIrzAYcakfvas",
+          "m": "jijAgIrzAYcakfvAn",
+          "f": "jijAgIrzAYcakruzI",
+          "n": "jijAgIrzAYcakfvat/jijAgIrzAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "jijAgIrza",
+          "m": "jijAgIrzaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jijAgIrzamARa",
+          "m": "jijAgIrzamARaH",
+          "f": "jijAgIrzamARA",
+          "n": "jijAgIrzamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jijAgIrzam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jijAgIrzaka",
+          "m": "jijAgIrzakaH",
+          "f": "jijAgIrzikA",
+          "n": "jijAgIrzakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jijAgIrzitavya",
+          "m": "jijAgIrzitavyaH",
+          "f": "jijAgIrzitavyA",
+          "n": "jijAgIrzitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jijAgIrzitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jijAgIrzitf",
+          "m": "jijAgIrzitA",
+          "f": "jijAgIrzitrI",
+          "n": "jijAgIrzitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jijAgIrzyamARa",
+          "m": "jijAgIrzyamARaH",
+          "f": "jijAgIrzyamARA",
+          "n": "jijAgIrzyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jijAgIrzya",
+          "m": "jijAgIrzyaH",
+          "f": "jijAgIrzyA",
+          "n": "jijAgIrzyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajijAgIrzya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jijAgIrzaRa",
+          "m": "",
+          "f": "",
+          "n": "jijAgIrzaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jijAgIrzaka",
+          "m": "jijAgIrzakaH",
+          "f": "jijAgIrzikA",
+          "n": "jijAgIrzakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jijAgIrzat",
+          "m": "jijAgIrzan",
+          "f": "jijAgIrzantI",
+          "n": "jijAgIrzat/jijAgIrzad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jijAgIrzizyamARa",
+          "m": "jijAgIrzizyamARaH",
+          "f": "jijAgIrzizyamARA",
+          "n": "jijAgIrzizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jijAgIrzizyat",
+          "m": "jijAgIrzizyan",
+          "f": "jijAgIrzizyatI/jijAgIrzizyantI",
+          "n": "jijAgIrzizyat/jijAgIrzizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "jAgara",
+          "m": "jAgaraH",
+          "f": "jAgarA",
+          "n": "jAgaram"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "jAgaraRIya",
+          "m": "jAgaraRIyaH",
+          "f": "jAgaraRIyA",
+          "n": "jAgaraRIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "jAgarita",
+          "m": "jAgaritaH",
+          "f": "jAgaritA",
+          "n": "jAgaritam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "jAgaritavat",
+          "m": "jAgaritavAn",
+          "f": "jAgaritavatI",
+          "n": "jAgaritavat/jAgaritavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "jAgarti",
+          "m": "",
+          "f": "jAgartiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "jAgarayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "jAgarayAmbaBUvas",
+          "m": "jAgarayAmbaBUvAn",
+          "f": "jAgarayAmbaBUzI",
+          "n": "jAgarayAmbaBUvat/jAgarayAmbaBUvad"
+        },
+        {
+          "base": "jAgarayAmAsivas",
+          "m": "jAgarayAmAsivAn",
+          "f": "jAgarayAmAsyuzI",
+          "n": "jAgarayAmAsivat/jAgarayAmAsivad"
+        },
+        {
+          "base": "jAgarayAYcakfvas",
+          "m": "jAgarayAYcakfvAn",
+          "f": "jAgarayAYcakruzI",
+          "n": "jAgarayAYcakfvat/jAgarayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "jAgarayamARa",
+          "m": "jAgarayamARaH",
+          "f": "jAgarayamARA",
+          "n": "jAgarayamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "jAgaram",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "jAgaraka",
+          "m": "jAgarakaH",
+          "f": "jAgarikA",
+          "n": "jAgarakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "jAgarayitavya",
+          "m": "jAgarayitavyaH",
+          "f": "jAgarayitavyA",
+          "n": "jAgarayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "jAgarayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "jAgarayitf",
+          "m": "jAgarayitA",
+          "f": "jAgarayitrI",
+          "n": "jAgarayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "jAgaryamARa",
+          "m": "jAgaryamARaH",
+          "f": "jAgaryamARA",
+          "n": "jAgaryamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "jAgarya",
+          "m": "jAgaryaH",
+          "f": "jAgaryA",
+          "n": "jAgaryam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prajAgarayya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "jAgaraRa",
+          "m": "",
+          "f": "",
+          "n": "jAgaraRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "jAgaraka",
+          "m": "jAgarakaH",
+          "f": "jAgarikA",
+          "n": "jAgarakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "jAgarayat",
+          "m": "jAgarayan",
+          "f": "jAgarayantI",
+          "n": "jAgarayat/jAgarayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "jAgarayamARa",
+          "m": "jAgarayamARaH",
+          "f": "jAgarayamARA",
+          "n": "jAgarayamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "jAgarizyamARa",
+          "m": "jAgarizyamARaH",
+          "f": "jAgarizyamARA",
+          "n": "jAgarizyamARam"
+        },
+        {
+          "base": "jAgarayizyamARa",
+          "m": "jAgarayizyamARaH",
+          "f": "jAgarayizyamARA",
+          "n": "jAgarayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "jAgarayizyat",
+          "m": "jAgarayizyan",
+          "f": "jAgarayizyatI/jAgarayizyantI",
+          "n": "jAgarayizyat/jAgarayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "jAgarayizyamARa",
+          "m": "jAgarayizyamARaH",
+          "f": "jAgarayizyamARA",
+          "n": "jAgarayizyamARam"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "jAgf",
+    "entries": []
+  },
+  "chandrika": [
+    {
+      "prefix": "pra",
+      "examples": [
+        "'tataH prajAgarAYcakrurvAnarAH' (Bawwi॰14.61). avekzAM cakrire. praSabdaH pratyarTe. avekzA pratijAgara iti kozaH.",
+        "'upaSaye sTitirapi prajAgaro Bavati taTA ca BArate prayogaH- 'adya yudDe susaNkrudDo dIrGaM rAjYaH prajAgaram' (Salya॰27.21)."
+      ]
+    },
+    {
+      "prefix": "su",
+      "examples": [
+        "'agne tvaM su jAgfhi vayaM su mandizImahi' (vA0 saM0 4.14, tE0 saM0 6.1.4.30). suzWu nidrArahito BavetyarTaH."
+      ]
+    },
+    {
+      "prefix": "prati",
+      "examples": [
+        "'sarvadA sa BavatyevaM sarvatra prati-jAgfviH' (azwANga0 sUtra0 7.1).",
+        "'jyotiragrA uzasaH prati jAgarAsi' (aTarva0 14.2.31). prati jAgarAsi jAgfhi. anatyantasaMyogepi uzasa iti dvitIyAntam. pratiyoge vA dvitIyA drazwavyA. tadA pratiranupasargo Bavati.",
+        "'udbuDyasvAgne pratijAgfhi' (vA0 saM0 15.54). pratijAgfhi saMnikarze sanIqe jAgaritA Bava. jAgrastfn."
+      ]
+    }
+  ],
+  "prayoga": [
+    {
+      "form": "jAgrati",
+      "lakaar": "lawlakAraH (parasmEpadam)",
+      "purusha": "praTamapuruzaH",
+      "vachana": "bahuvacanam",
+      "examples": [
+        {
+          "book": "BagavadgItA",
+          "reference": "2.69",
+          "text": "yasyAM jAgrati BUtAni",
+          "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=69"
+        }
+      ]
+    }
+  ],
+  "upasarga_forms": {
+    "pra": {
+      "prefix": "pra",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "pashirling": [
+            "prajAgaryAt",
+            "prajAgaryAd",
+            "prajAgaryAstAm",
+            "prajAgaryAsuH",
+            "prajAgaryAH",
+            "prajAgaryAstam",
+            "prajAgaryAsta",
+            "prajAgaryAsam",
+            "prajAgaryAsva",
+            "prajAgaryAsma"
+          ],
+          "plang": [
+            "prAjAgaH",
+            "prAjAgftAm",
+            "prAjAgaruH",
+            "prAjAgaH",
+            "prAjAgftam",
+            "prAjAgfta",
+            "prAjAgaram",
+            "prAjAgfva",
+            "prAjAgfma"
+          ],
+          "plat": [
+            "prajAgarti",
+            "prajAgftaH",
+            "prajAgrati",
+            "prajAgarzi",
+            "prajAgfTaH",
+            "prajAgfTa",
+            "prajAgarmi",
+            "prajAgfvaH",
+            "prajAgfmaH"
+          ],
+          "plit": [
+            "prajAgarAmbaBUva",
+            "prajAgarAmAsa",
+            "prajAgarAYcakAra",
+            "prajajAgAra",
+            "prajAgarAmbaBUvatuH",
+            "prajAgarAmAsatuH",
+            "prajAgarAYcakratuH",
+            "prajajAgaratuH",
+            "prajAgarAmbaBUvuH",
+            "prajAgarAmAsuH",
+            "prajAgarAYcakruH",
+            "prajajAgaruH",
+            "prajAgarAmbaBUviTa",
+            "prajAgarAmAsiTa",
+            "prajAgarAYcakarTa",
+            "prajajAgariTa",
+            "prajAgarAmbaBUvaTuH",
+            "prajAgarAmAsaTuH",
+            "prajAgarAYcakraTuH",
+            "prajajAgaraTuH",
+            "prajAgarAmbaBUva",
+            "prajAgarAmAsa",
+            "prajAgarAYcakra",
+            "prajajAgara",
+            "prajAgarAmbaBUva",
+            "prajAgarAmAsa",
+            "prajAgarAYcakara",
+            "prajAgarAYcakAra",
+            "prajajAgara",
+            "prajajAgAra",
+            "prajAgarAmbaBUviva",
+            "prajAgarAmAsiva",
+            "prajAgarAYcakfva",
+            "prajajAgariva",
+            "prajAgarAmbaBUvima",
+            "prajAgarAmAsima",
+            "prajAgarAYcakfma",
+            "prajajAgarima"
+          ],
+          "plot": [
+            "prajAgftAt",
+            "prajAgftAd",
+            "prajAgartu",
+            "prajAgftAm",
+            "prajAgratu",
+            "prajAgftAt",
+            "prajAgftAd",
+            "prajAgfhi",
+            "prajAgftam",
+            "prajAgfta",
+            "prajAgarARi",
+            "prajAgarAva",
+            "prajAgarAma"
+          ],
+          "plrung": [
+            "prAjAgarizyat",
+            "prAjAgarizyad",
+            "prAjAgarizyatAm",
+            "prAjAgarizyan",
+            "prAjAgarizyaH",
+            "prAjAgarizyatam",
+            "prAjAgarizyata",
+            "prAjAgarizyam",
+            "prAjAgarizyAva",
+            "prAjAgarizyAma"
+          ],
+          "plrut": [
+            "prajAgarizyati",
+            "prajAgarizyataH",
+            "prajAgarizyanti",
+            "prajAgarizyasi",
+            "prajAgarizyaTaH",
+            "prajAgarizyaTa",
+            "prajAgarizyAmi",
+            "prajAgarizyAvaH",
+            "prajAgarizyAmaH"
+          ],
+          "plung": [
+            "prAjAgarIt",
+            "prAjAgarId",
+            "prAjAgarizwAm",
+            "prAjAgarizuH",
+            "prAjAgarIH",
+            "prAjAgarizwam",
+            "prAjAgarizwa",
+            "prAjAgarizam",
+            "prAjAgarizva",
+            "prAjAgarizma"
+          ],
+          "plut": [
+            "prajAgaritA",
+            "prajAgaritArO",
+            "prajAgaritAraH",
+            "prajAgaritAsi",
+            "prajAgaritAsTaH",
+            "prajAgaritAsTa",
+            "prajAgaritAsmi",
+            "prajAgaritAsvaH",
+            "prajAgaritAsmaH"
+          ],
+          "pvidhiling": [
+            "prajAgfyAt",
+            "prajAgfyAd",
+            "prajAgfyAtAm",
+            "prajAgfyuH",
+            "prajAgfyAH",
+            "prajAgfyAtam",
+            "prajAgfyAta",
+            "prajAgfyAm",
+            "prajAgfyAva",
+            "prajAgfyAma"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "prajAgarizIzwa",
+            "prajAgarizIyAstAm",
+            "prajAgarizIran",
+            "prajAgarizIzWAH",
+            "prajAgarizIyAsTAm",
+            "prajAgarizIQvam",
+            "prajAgarizIDvam",
+            "prajAgarizIya",
+            "prajAgarizIvahi",
+            "prajAgarizImahi"
+          ],
+          "alang": [
+            "prAjAgaryata",
+            "prAjAgaryetAm",
+            "prAjAgaryanta",
+            "prAjAgaryaTAH",
+            "prAjAgaryeTAm",
+            "prAjAgaryaDvam",
+            "prAjAgarye",
+            "prAjAgaryAvahi",
+            "prAjAgaryAmahi"
+          ],
+          "alat": [
+            "prajAgaryate",
+            "prajAgaryete",
+            "prajAgaryante",
+            "prajAgaryase",
+            "prajAgaryeTe",
+            "prajAgaryaDve",
+            "prajAgarye",
+            "prajAgaryAvahe",
+            "prajAgaryAmahe"
+          ],
+          "alit": [
+            "prajAgarAmbaBUve",
+            "prajAgarAmAse",
+            "prajAgarAYcakre",
+            "prajajAgare",
+            "prajAgarAmbaBUvAte",
+            "prajAgarAmAsAte",
+            "prajAgarAYcakrAte",
+            "prajajAgarAte",
+            "prajAgarAmbaBUvire",
+            "prajAgarAmAsire",
+            "prajAgarAYcakrire",
+            "prajajAgarire",
+            "prajAgarAmbaBUvize",
+            "prajAgarAmAsize",
+            "prajAgarAYcakfze",
+            "prajajAgarize",
+            "prajAgarAmbaBUvATe",
+            "prajAgarAmAsATe",
+            "prajAgarAYcakrATe",
+            "prajajAgarATe",
+            "prajAgarAmbaBUviQve",
+            "prajAgarAmAsiDve",
+            "prajAgarAYcakfQve",
+            "prajajAgariQve",
+            "prajajAgariDve",
+            "prajAgarAmbaBUve",
+            "prajAgarAmAhe",
+            "prajAgarAYcakre",
+            "prajajAgare",
+            "prajAgarAmbaBUvivahe",
+            "prajAgarAmAsivahe",
+            "prajAgarAYcakfvahe",
+            "prajajAgarivahe",
+            "prajAgarAmbaBUvimahe",
+            "prajAgarAmAsimahe",
+            "prajAgarAYcakfmahe",
+            "prajajAgarimahe"
+          ],
+          "alot": [
+            "prajAgaryatAm",
+            "prajAgaryetAm",
+            "prajAgaryantAm",
+            "prajAgaryasva",
+            "prajAgaryeTAm",
+            "prajAgaryaDvam",
+            "prajAgaryE",
+            "prajAgaryAvahE",
+            "prajAgaryAmahE"
+          ],
+          "alrung": [
+            "prAjAgarizyata",
+            "prAjAgarizyetAm",
+            "prAjAgarizyanta",
+            "prAjAgarizyaTAH",
+            "prAjAgarizyeTAm",
+            "prAjAgarizyaDvam",
+            "prAjAgarizye",
+            "prAjAgarizyAvahi",
+            "prAjAgarizyAmahi"
+          ],
+          "alrut": [
+            "prajAgarizyate",
+            "prajAgarizyete",
+            "prajAgarizyante",
+            "prajAgarizyase",
+            "prajAgarizyeTe",
+            "prajAgarizyaDve",
+            "prajAgarizye",
+            "prajAgarizyAvahe",
+            "prajAgarizyAmahe"
+          ],
+          "alung": [
+            "prAjAgAri",
+            "prAjAgarizAtAm",
+            "prAjAgarizata",
+            "prAjAgarizWAH",
+            "prAjAgarizATAm",
+            "prAjAgariQvam",
+            "prAjAgariDvam",
+            "prAjAgarizi",
+            "prAjAgarizvahi",
+            "prAjAgarizmahi"
+          ],
+          "alut": [
+            "prajAgaritA",
+            "prajAgaritArO",
+            "prajAgaritAraH",
+            "prajAgaritAse",
+            "prajAgaritAsATe",
+            "prajAgaritADve",
+            "prajAgaritAhe",
+            "prajAgaritAsvahe",
+            "prajAgaritAsmahe"
+          ],
+          "avidhiling": [
+            "prajAgaryeta",
+            "prajAgaryeyAtAm",
+            "prajAgaryeran",
+            "prajAgaryeTAH",
+            "prajAgaryeyATAm",
+            "prajAgaryeDvam",
+            "prajAgaryeya",
+            "prajAgaryevahi",
+            "prajAgaryemahi"
+          ]
+        },
+        "san": {
+          "pashirling": [
+            "prajijAgIrzyAt",
+            "prajijAgIrzyAd",
+            "prajijAgIrzyAstAm",
+            "prajijAgIrzyAsuH",
+            "prajijAgIrzyAH",
+            "prajijAgIrzyAstam",
+            "prajijAgIrzyAsta",
+            "prajijAgIrzyAsam",
+            "prajijAgIrzyAsva",
+            "prajijAgIrzyAsma"
+          ],
+          "plang": [
+            "prAjijAgIrzat",
+            "prAjijAgIrzad",
+            "prAjijAgIrzatAm",
+            "prAjijAgIrzan",
+            "prAjijAgIrzaH",
+            "prAjijAgIrzatam",
+            "prAjijAgIrzata",
+            "prAjijAgIrzam",
+            "prAjijAgIrzAva",
+            "prAjijAgIrzAma"
+          ],
+          "plat": [
+            "prajijAgIrzati",
+            "prajijAgIrzataH",
+            "prajijAgIrzanti",
+            "prajijAgIrzasi",
+            "prajijAgIrzaTaH",
+            "prajijAgIrzaTa",
+            "prajijAgIrzAmi",
+            "prajijAgIrzAvaH",
+            "prajijAgIrzAmaH"
+          ],
+          "plit": [
+            "prajijAgIrzAmbaBUva",
+            "prajijAgIrzAmAsa",
+            "prajijAgIrzAYcakAra",
+            "prajijAgIrzAmbaBUvatuH",
+            "prajijAgIrzAmAsatuH",
+            "prajijAgIrzAYcakratuH",
+            "prajijAgIrzAmbaBUvuH",
+            "prajijAgIrzAmAsuH",
+            "prajijAgIrzAYcakruH",
+            "prajijAgIrzAmbaBUviTa",
+            "prajijAgIrzAmAsiTa",
+            "prajijAgIrzAYcakarTa",
+            "prajijAgIrzAmbaBUvaTuH",
+            "prajijAgIrzAmAsaTuH",
+            "prajijAgIrzAYcakraTuH",
+            "prajijAgIrzAmbaBUva",
+            "prajijAgIrzAmAsa",
+            "prajijAgIrzAYcakra",
+            "prajijAgIrzAmbaBUva",
+            "prajijAgIrzAmAsa",
+            "prajijAgIrzAYcakara",
+            "prajijAgIrzAYcakAra",
+            "prajijAgIrzAmbaBUviva",
+            "prajijAgIrzAmAsiva",
+            "prajijAgIrzAYcakfva",
+            "prajijAgIrzAmbaBUvima",
+            "prajijAgIrzAmAsima",
+            "prajijAgIrzAYcakfma"
+          ],
+          "plot": [
+            "prajijAgIrzatAt",
+            "prajijAgIrzatAd",
+            "prajijAgIrzatu",
+            "prajijAgIrzatAm",
+            "prajijAgIrzantu",
+            "prajijAgIrzatAt",
+            "prajijAgIrzatAd",
+            "prajijAgIrza",
+            "prajijAgIrzatam",
+            "prajijAgIrzata",
+            "prajijAgIrzARi",
+            "prajijAgIrzAva",
+            "prajijAgIrzAma"
+          ],
+          "plrung": [
+            "prAjijAgIrzizyat",
+            "prAjijAgIrzizyad",
+            "prAjijAgIrzizyatAm",
+            "prAjijAgIrzizyan",
+            "prAjijAgIrzizyaH",
+            "prAjijAgIrzizyatam",
+            "prAjijAgIrzizyata",
+            "prAjijAgIrzizyam",
+            "prAjijAgIrzizyAva",
+            "prAjijAgIrzizyAma"
+          ],
+          "plrut": [
+            "prajijAgIrzizyati",
+            "prajijAgIrzizyataH",
+            "prajijAgIrzizyanti",
+            "prajijAgIrzizyasi",
+            "prajijAgIrzizyaTaH",
+            "prajijAgIrzizyaTa",
+            "prajijAgIrzizyAmi",
+            "prajijAgIrzizyAvaH",
+            "prajijAgIrzizyAmaH"
+          ],
+          "plung": [
+            "prAjijAgIrzIt",
+            "prAjijAgIrzId",
+            "prAjijAgIrzizwAm",
+            "prAjijAgIrzizuH",
+            "prAjijAgIrzIH",
+            "prAjijAgIrzizwam",
+            "prAjijAgIrzizwa",
+            "prAjijAgIrzizam",
+            "prAjijAgIrzizva",
+            "prAjijAgIrzizma"
+          ],
+          "plut": [
+            "prajijAgIrzitA",
+            "prajijAgIrzitArO",
+            "prajijAgIrzitAraH",
+            "prajijAgIrzitAsi",
+            "prajijAgIrzitAsTaH",
+            "prajijAgIrzitAsTa",
+            "prajijAgIrzitAsmi",
+            "prajijAgIrzitAsvaH",
+            "prajijAgIrzitAsmaH"
+          ],
+          "pvidhiling": [
+            "prajijAgIrzet",
+            "prajijAgIrzed",
+            "prajijAgIrzetAm",
+            "prajijAgIrzeyuH",
+            "prajijAgIrzeH",
+            "prajijAgIrzetam",
+            "prajijAgIrzeta",
+            "prajijAgIrzeyam",
+            "prajijAgIrzeva",
+            "prajijAgIrzema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "prajijAgIrzizIzwa",
+            "prajijAgIrzizIyAstAm",
+            "prajijAgIrzizIran",
+            "prajijAgIrzizIzWAH",
+            "prajijAgIrzizIyAsTAm",
+            "prajijAgIrzizIDvam",
+            "prajijAgIrzizIya",
+            "prajijAgIrzizIvahi",
+            "prajijAgIrzizImahi"
+          ],
+          "alang": [
+            "prAjijAgIrzyata",
+            "prAjijAgIrzyetAm",
+            "prAjijAgIrzyanta",
+            "prAjijAgIrzyaTAH",
+            "prAjijAgIrzyeTAm",
+            "prAjijAgIrzyaDvam",
+            "prAjijAgIrzye",
+            "prAjijAgIrzyAvahi",
+            "prAjijAgIrzyAmahi"
+          ],
+          "alat": [
+            "prajijAgIrzyate",
+            "prajijAgIrzyete",
+            "prajijAgIrzyante",
+            "prajijAgIrzyase",
+            "prajijAgIrzyeTe",
+            "prajijAgIrzyaDve",
+            "prajijAgIrzye",
+            "prajijAgIrzyAvahe",
+            "prajijAgIrzyAmahe"
+          ],
+          "alit": [
+            "prajijAgIrzAmbaBUve",
+            "prajijAgIrzAmAse",
+            "prajijAgIrzAYcakre",
+            "prajijAgIrzAmbaBUvAte",
+            "prajijAgIrzAmAsAte",
+            "prajijAgIrzAYcakrAte",
+            "prajijAgIrzAmbaBUvire",
+            "prajijAgIrzAmAsire",
+            "prajijAgIrzAYcakrire",
+            "prajijAgIrzAmbaBUvize",
+            "prajijAgIrzAmAsize",
+            "prajijAgIrzAYcakfze",
+            "prajijAgIrzAmbaBUvATe",
+            "prajijAgIrzAmAsATe",
+            "prajijAgIrzAYcakrATe",
+            "prajijAgIrzAmbaBUviQve",
+            "prajijAgIrzAmAsiDve",
+            "prajijAgIrzAYcakfQve",
+            "prajijAgIrzAmbaBUve",
+            "prajijAgIrzAmAhe",
+            "prajijAgIrzAYcakre",
+            "prajijAgIrzAmbaBUvivahe",
+            "prajijAgIrzAmAsivahe",
+            "prajijAgIrzAYcakfvahe",
+            "prajijAgIrzAmbaBUvimahe",
+            "prajijAgIrzAmAsimahe",
+            "prajijAgIrzAYcakfmahe"
+          ],
+          "alot": [
+            "prajijAgIrzyatAm",
+            "prajijAgIrzyetAm",
+            "prajijAgIrzyantAm",
+            "prajijAgIrzyasva",
+            "prajijAgIrzyeTAm",
+            "prajijAgIrzyaDvam",
+            "prajijAgIrzyE",
+            "prajijAgIrzyAvahE",
+            "prajijAgIrzyAmahE"
+          ],
+          "alrung": [
+            "prAjijAgIrzizyata",
+            "prAjijAgIrzizyetAm",
+            "prAjijAgIrzizyanta",
+            "prAjijAgIrzizyaTAH",
+            "prAjijAgIrzizyeTAm",
+            "prAjijAgIrzizyaDvam",
+            "prAjijAgIrzizye",
+            "prAjijAgIrzizyAvahi",
+            "prAjijAgIrzizyAmahi"
+          ],
+          "alrut": [
+            "prajijAgIrzizyate",
+            "prajijAgIrzizyete",
+            "prajijAgIrzizyante",
+            "prajijAgIrzizyase",
+            "prajijAgIrzizyeTe",
+            "prajijAgIrzizyaDve",
+            "prajijAgIrzizye",
+            "prajijAgIrzizyAvahe",
+            "prajijAgIrzizyAmahe"
+          ],
+          "alung": [
+            "prAjijAgIrzi",
+            "prAjijAgIrzizAtAm",
+            "prAjijAgIrzizata",
+            "prAjijAgIrzizWAH",
+            "prAjijAgIrzizATAm",
+            "prAjijAgIrziDvam",
+            "prAjijAgIrzizi",
+            "prAjijAgIrzizvahi",
+            "prAjijAgIrzizmahi"
+          ],
+          "alut": [
+            "prajijAgIrzitA",
+            "prajijAgIrzitArO",
+            "prajijAgIrzitAraH",
+            "prajijAgIrzitAse",
+            "prajijAgIrzitAsATe",
+            "prajijAgIrzitADve",
+            "prajijAgIrzitAhe",
+            "prajijAgIrzitAsvahe",
+            "prajijAgIrzitAsmahe"
+          ],
+          "avidhiling": [
+            "prajijAgIrzyeta",
+            "prajijAgIrzyeyAtAm",
+            "prajijAgIrzyeran",
+            "prajijAgIrzyeTAH",
+            "prajijAgIrzyeyATAm",
+            "prajijAgIrzyeDvam",
+            "prajijAgIrzyeya",
+            "prajijAgIrzyevahi",
+            "prajijAgIrzyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "prajAgarayizIzwa",
+            "prajAgarayizIyAstAm",
+            "prajAgarayizIran",
+            "prajAgarayizIzWAH",
+            "prajAgarayizIyAsTAm",
+            "prajAgarayizIQvam",
+            "prajAgarayizIDvam",
+            "prajAgarayizIya",
+            "prajAgarayizIvahi",
+            "prajAgarayizImahi"
+          ],
+          "alang": [
+            "prAjAgarayata",
+            "prAjAgarayetAm",
+            "prAjAgarayanta",
+            "prAjAgarayaTAH",
+            "prAjAgarayeTAm",
+            "prAjAgarayaDvam",
+            "prAjAgaraye",
+            "prAjAgarayAvahi",
+            "prAjAgarayAmahi"
+          ],
+          "alat": [
+            "prajAgarayate",
+            "prajAgarayete",
+            "prajAgarayante",
+            "prajAgarayase",
+            "prajAgarayeTe",
+            "prajAgarayaDve",
+            "prajAgaraye",
+            "prajAgarayAvahe",
+            "prajAgarayAmahe"
+          ],
+          "alit": [
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakre",
+            "prajAgarayAmbaBUvatuH",
+            "prajAgarayAmAsatuH",
+            "prajAgarayAYcakrAte",
+            "prajAgarayAmbaBUvuH",
+            "prajAgarayAmAsuH",
+            "prajAgarayAYcakrire",
+            "prajAgarayAmbaBUviTa",
+            "prajAgarayAmAsiTa",
+            "prajAgarayAYcakfze",
+            "prajAgarayAmbaBUvaTuH",
+            "prajAgarayAmAsaTuH",
+            "prajAgarayAYcakrATe",
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakfQve",
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakre",
+            "prajAgarayAmbaBUviva",
+            "prajAgarayAmAsiva",
+            "prajAgarayAYcakfvahe",
+            "prajAgarayAmbaBUvima",
+            "prajAgarayAmAsima",
+            "prajAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "prajAgarayatAm",
+            "prajAgarayetAm",
+            "prajAgarayantAm",
+            "prajAgarayasva",
+            "prajAgarayeTAm",
+            "prajAgarayaDvam",
+            "prajAgarayE",
+            "prajAgarayAvahE",
+            "prajAgarayAmahE"
+          ],
+          "alrung": [
+            "prAjAgarayizyata",
+            "prAjAgarayizyetAm",
+            "prAjAgarayizyanta",
+            "prAjAgarayizyaTAH",
+            "prAjAgarayizyeTAm",
+            "prAjAgarayizyaDvam",
+            "prAjAgarayizye",
+            "prAjAgarayizyAvahi",
+            "prAjAgarayizyAmahi"
+          ],
+          "alrut": [
+            "prajAgarayizyate",
+            "prajAgarayizyete",
+            "prajAgarayizyante",
+            "prajAgarayizyase",
+            "prajAgarayizyeTe",
+            "prajAgarayizyaDve",
+            "prajAgarayizye",
+            "prajAgarayizyAvahe",
+            "prajAgarayizyAmahe"
+          ],
+          "alung": [
+            "prAjajAgarata",
+            "prAjajAgaretAm",
+            "prAjajAgaranta",
+            "prAjajAgaraTAH",
+            "prAjajAgareTAm",
+            "prAjajAgaraDvam",
+            "prAjajAgare",
+            "prAjajAgarAvahi",
+            "prAjajAgarAmahi"
+          ],
+          "alut": [
+            "prajAgarayitA",
+            "prajAgarayitArO",
+            "prajAgarayitAraH",
+            "prajAgarayitAse",
+            "prajAgarayitAsATe",
+            "prajAgarayitADve",
+            "prajAgarayitAhe",
+            "prajAgarayitAsvahe",
+            "prajAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "prajAgarayeta",
+            "prajAgarayeyAtAm",
+            "prajAgarayeran",
+            "prajAgarayeTAH",
+            "prajAgarayeyATAm",
+            "prajAgarayeDvam",
+            "prajAgarayeya",
+            "prajAgarayevahi",
+            "prajAgarayemahi"
+          ],
+          "pashirling": [
+            "prajAgaryAt",
+            "prajAgaryAd",
+            "prajAgaryAstAm",
+            "prajAgaryAsuH",
+            "prajAgaryAH",
+            "prajAgaryAstam",
+            "prajAgaryAsta",
+            "prajAgaryAsam",
+            "prajAgaryAsva",
+            "prajAgaryAsma"
+          ],
+          "plang": [
+            "prAjAgarayat",
+            "prAjAgarayad",
+            "prAjAgarayatAm",
+            "prAjAgarayan",
+            "prAjAgarayaH",
+            "prAjAgarayatam",
+            "prAjAgarayata",
+            "prAjAgarayam",
+            "prAjAgarayAva",
+            "prAjAgarayAma"
+          ],
+          "plat": [
+            "prajAgarayati",
+            "prajAgarayataH",
+            "prajAgarayanti",
+            "prajAgarayasi",
+            "prajAgarayaTaH",
+            "prajAgarayaTa",
+            "prajAgarayAmi",
+            "prajAgarayAvaH",
+            "prajAgarayAmaH"
+          ],
+          "plit": [
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakAra",
+            "prajAgarayAmbaBUvatuH",
+            "prajAgarayAmAsatuH",
+            "prajAgarayAYcakratuH",
+            "prajAgarayAmbaBUvuH",
+            "prajAgarayAmAsuH",
+            "prajAgarayAYcakruH",
+            "prajAgarayAmbaBUviTa",
+            "prajAgarayAmAsiTa",
+            "prajAgarayAYcakarTa",
+            "prajAgarayAmbaBUvaTuH",
+            "prajAgarayAmAsaTuH",
+            "prajAgarayAYcakraTuH",
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakra",
+            "prajAgarayAmbaBUva",
+            "prajAgarayAmAsa",
+            "prajAgarayAYcakara",
+            "prajAgarayAYcakAra",
+            "prajAgarayAmbaBUviva",
+            "prajAgarayAmAsiva",
+            "prajAgarayAYcakfva",
+            "prajAgarayAmbaBUvima",
+            "prajAgarayAmAsima",
+            "prajAgarayAYcakfma"
+          ],
+          "plot": [
+            "prajAgarayatAt",
+            "prajAgarayatAd",
+            "prajAgarayatu",
+            "prajAgarayatAm",
+            "prajAgarayantu",
+            "prajAgarayatAt",
+            "prajAgarayatAd",
+            "prajAgaraya",
+            "prajAgarayatam",
+            "prajAgarayata",
+            "prajAgarayARi",
+            "prajAgarayAva",
+            "prajAgarayAma"
+          ],
+          "plrung": [
+            "prAjAgarayizyat",
+            "prAjAgarayizyad",
+            "prAjAgarayizyatAm",
+            "prAjAgarayizyan",
+            "prAjAgarayizyaH",
+            "prAjAgarayizyatam",
+            "prAjAgarayizyata",
+            "prAjAgarayizyam",
+            "prAjAgarayizyAva",
+            "prAjAgarayizyAma"
+          ],
+          "plrut": [
+            "prajAgarayizyati",
+            "prajAgarayizyataH",
+            "prajAgarayizyanti",
+            "prajAgarayizyasi",
+            "prajAgarayizyaTaH",
+            "prajAgarayizyaTa",
+            "prajAgarayizyAmi",
+            "prajAgarayizyAvaH",
+            "prajAgarayizyAmaH"
+          ],
+          "plung": [
+            "prAjajAgarat",
+            "prAjajAgarad",
+            "prAjajAgaratAm",
+            "prAjajAgaran",
+            "prAjajAgaraH",
+            "prAjajAgaratam",
+            "prAjajAgarata",
+            "prAjajAgaram",
+            "prAjajAgarAva",
+            "prAjajAgarAma"
+          ],
+          "plut": [
+            "prajAgarayitA",
+            "prajAgarayitArO",
+            "prajAgarayitAraH",
+            "prajAgarayitAsi",
+            "prajAgarayitAsTaH",
+            "prajAgarayitAsTa",
+            "prajAgarayitAsmi",
+            "prajAgarayitAsvaH",
+            "prajAgarayitAsmaH"
+          ],
+          "pvidhiling": [
+            "prajAgarayet",
+            "prajAgarayed",
+            "prajAgarayetAm",
+            "prajAgarayeyuH",
+            "prajAgarayeH",
+            "prajAgarayetam",
+            "prajAgarayeta",
+            "prajAgarayeyam",
+            "prajAgarayeva",
+            "prajAgarayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "prajAgarizIzwa",
+            "prajAgarayizIzwa",
+            "prajAgarizIyAstAm",
+            "prajAgarayizIyAstAm",
+            "prajAgarizIran",
+            "prajAgarayizIran",
+            "prajAgarizIzWAH",
+            "prajAgarayizIzWAH",
+            "prajAgarizIyAsTAm",
+            "prajAgarayizIyAsTAm",
+            "prajAgarizIQvam",
+            "prajAgarayizIQvam",
+            "prajAgarayizIDvam",
+            "prajAgarizIya",
+            "prajAgarayizIya",
+            "prajAgarizIvahi",
+            "prajAgarayizIvahi",
+            "prajAgarizImahi",
+            "prajAgarayizImahi"
+          ],
+          "alang": [
+            "prAjAgaryata",
+            "prAjAgaryetAm",
+            "prAjAgaryanta",
+            "prAjAgaryaTAH",
+            "prAjAgaryeTAm",
+            "prAjAgaryaDvam",
+            "prAjAgarye",
+            "prAjAgaryAvahi",
+            "prAjAgaryAmahi"
+          ],
+          "alat": [
+            "prajAgaryate",
+            "prajAgaryete",
+            "prajAgaryante",
+            "prajAgaryase",
+            "prajAgaryeTe",
+            "prajAgaryaDve",
+            "prajAgarye",
+            "prajAgaryAvahe",
+            "prajAgaryAmahe"
+          ],
+          "alit": [
+            "prajAgarayAmbaBUve",
+            "prajAgarayAmAse",
+            "prajAgarayAYcakre",
+            "prajAgarayAmbaBUvAte",
+            "prajAgarayAmAsAte",
+            "prajAgarayAYcakrAte",
+            "prajAgarayAmbaBUvire",
+            "prajAgarayAmAsire",
+            "prajAgarayAYcakrire",
+            "prajAgarayAmbaBUvize",
+            "prajAgarayAmAsize",
+            "prajAgarayAYcakfze",
+            "prajAgarayAmbaBUvATe",
+            "prajAgarayAmAsATe",
+            "prajAgarayAYcakrATe",
+            "prajAgarayAmbaBUviQve",
+            "prajAgarayAmAsiDve",
+            "prajAgarayAYcakfQve",
+            "prajAgarayAmbaBUve",
+            "prajAgarayAmAhe",
+            "prajAgarayAYcakre",
+            "prajAgarayAmbaBUvivahe",
+            "prajAgarayAmAsivahe",
+            "prajAgarayAYcakfvahe",
+            "prajAgarayAmbaBUvimahe",
+            "prajAgarayAmAsimahe",
+            "prajAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "prajAgaryatAm",
+            "prajAgaryetAm",
+            "prajAgaryantAm",
+            "prajAgaryasva",
+            "prajAgaryeTAm",
+            "prajAgaryaDvam",
+            "prajAgaryE",
+            "prajAgaryAvahE",
+            "prajAgaryAmahE"
+          ],
+          "alrung": [
+            "prAjAgarizyata",
+            "prAjAgarayizyata",
+            "prAjAgarizyetAm",
+            "prAjAgarayizyetAm",
+            "prAjAgarizyanta",
+            "prAjAgarayizyanta",
+            "prAjAgarizyaTAH",
+            "prAjAgarayizyaTAH",
+            "prAjAgarizyeTAm",
+            "prAjAgarayizyeTAm",
+            "prAjAgarizyaDvam",
+            "prAjAgarayizyaDvam",
+            "prAjAgarizye",
+            "prAjAgarayizye",
+            "prAjAgarizyAvahi",
+            "prAjAgarayizyAvahi",
+            "prAjAgarizyAmahi",
+            "prAjAgarayizyAmahi"
+          ],
+          "alrut": [
+            "prajAgarizyate",
+            "prajAgarayizyate",
+            "prajAgarizyete",
+            "prajAgarayizyete",
+            "prajAgarizyante",
+            "prajAgarayizyante",
+            "prajAgarizyase",
+            "prajAgarayizyase",
+            "prajAgarizyeTe",
+            "prajAgarayizyeTe",
+            "prajAgarizyaDve",
+            "prajAgarayizyaDve",
+            "prajAgarizye",
+            "prajAgarayizye",
+            "prajAgarizyAvahe",
+            "prajAgarayizyAvahe",
+            "prajAgarizyAmahe",
+            "prajAgarayizyAmahe"
+          ],
+          "alung": [
+            "prAjAgari",
+            "prAjAgarizAtAm",
+            "prAjAgarayizAtAm",
+            "prAjAgarizata",
+            "prAjAgarayizata",
+            "prAjAgarizWAH",
+            "prAjAgarayizWAH",
+            "prAjAgarizATAm",
+            "prAjAgarayizATAm",
+            "prAjAgariQvam",
+            "prAjAgarayiQvam",
+            "prAjAgarayiDvam",
+            "prAjAgarizi",
+            "prAjAgarayizi",
+            "prAjAgarizvahi",
+            "prAjAgarayizvahi",
+            "prAjAgarizmahi",
+            "prAjAgarayizmahi"
+          ],
+          "alut": [
+            "prajAgaritA",
+            "prajAgarayitA",
+            "prajAgaritArO",
+            "prajAgarayitArO",
+            "prajAgaritAraH",
+            "prajAgarayitAraH",
+            "prajAgaritAse",
+            "prajAgarayitAse",
+            "prajAgaritAsATe",
+            "prajAgarayitAsATe",
+            "prajAgaritADve",
+            "prajAgarayitADve",
+            "prajAgaritAhe",
+            "prajAgarayitAhe",
+            "prajAgaritAsvahe",
+            "prajAgarayitAsvahe",
+            "prajAgaritAsmahe",
+            "prajAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "prajAgaryeta",
+            "prajAgaryeyAtAm",
+            "prajAgaryeran",
+            "prajAgaryeTAH",
+            "prajAgaryeyATAm",
+            "prajAgaryeDvam",
+            "prajAgaryeya",
+            "prajAgaryevahi",
+            "prajAgaryemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "prajAgara",
+              "m": "prajAgaraH",
+              "f": "prajAgarA",
+              "n": "prajAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "prajAgaraRIya",
+              "m": "prajAgaraRIyaH",
+              "f": "prajAgaraRIyA",
+              "n": "prajAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prajAgarita",
+              "m": "prajAgaritaH",
+              "f": "prajAgaritA",
+              "n": "prajAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prajAgaritavat",
+              "m": "prajAgaritavAn",
+              "f": "prajAgaritavatI",
+              "n": "prajAgaritavat/prajAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prajAgarti",
+              "m": "",
+              "f": "prajAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prajAgarAmbaBUvas",
+              "m": "prajAgarAmbaBUvAn",
+              "f": "prajAgarAmbaBUzI",
+              "n": "prajAgarAmbaBUvat/prajAgarAmbaBUvad"
+            },
+            {
+              "base": "prajAgarAmAsivas",
+              "m": "prajAgarAmAsivAn",
+              "f": "prajAgarAmAsyuzI",
+              "n": "prajAgarAmAsivat/prajAgarAmAsivad"
+            },
+            {
+              "base": "prajAgarAYcakfvas",
+              "m": "prajAgarAYcakfvAn",
+              "f": "prajAgarAYcakruzI",
+              "n": "prajAgarAYcakfvat/prajAgarAYcakfvad"
+            },
+            {
+              "base": "prajajAgarvas",
+              "m": "prajajAgarvAn",
+              "f": "prajajAgaruzI",
+              "n": "prajajAgarvat/prajajAgarvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "prajAgara",
+              "m": "prajAgaraH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prajAgrARa",
+              "m": "prajAgrARaH",
+              "f": "prajAgrARA",
+              "n": "prajAgrARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prajAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "prajAgarya",
+              "m": "prajAgaryaH",
+              "f": "prajAgaryA",
+              "n": "prajAgaryam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prajAgaraka",
+              "m": "prajAgarakaH",
+              "f": "prajAgarikA",
+              "n": "prajAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prajAgaritavya",
+              "m": "prajAgaritavyaH",
+              "f": "prajAgaritavyA",
+              "n": "prajAgaritavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prajAgaritum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prajAgaritf",
+              "m": "prajAgaritA",
+              "f": "prajAgaritrI",
+              "n": "prajAgaritf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prajAgarya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prajAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "prajAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prajAgaraka",
+              "m": "prajAgarakaH",
+              "f": "prajAgarikA",
+              "n": "prajAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prajAgrat",
+              "m": "prajAgran",
+              "f": "prajAgrantI",
+              "n": "prajAgrat/prajAgrad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prajAgrat",
+              "m": "prajAgran",
+              "f": "prajAgratI/prajAgrantI",
+              "n": "prajAgrat/prajAgrad"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "prajijAgIrzA",
+              "m": "",
+              "f": "prajijAgIrzA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "prajijAgIrza",
+              "m": "prajijAgIrzaH",
+              "f": "prajijAgIrzA",
+              "n": "prajijAgIrzam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "prajijAgIrzaRIya",
+              "m": "prajijAgIrzaRIyaH",
+              "f": "prajijAgIrzaRIyA",
+              "n": "prajijAgIrzaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "prajijAgIrzu",
+              "m": "prajijAgIrzuH",
+              "f": "prajijAgIrzuH",
+              "n": "prajijAgIrzu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prajijAgIrzita",
+              "m": "prajijAgIrzitaH",
+              "f": "prajijAgIrzitA",
+              "n": "prajijAgIrzitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prajijAgIrzitavat",
+              "m": "prajijAgIrzitavAn",
+              "f": "prajijAgIrzitavatI",
+              "n": "prajijAgIrzitavat/prajijAgIrzitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prajijAgIrzwi",
+              "m": "",
+              "f": "prajijAgIrzwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prajijAgIrzAmbaBUvas",
+              "m": "prajijAgIrzAmbaBUvAn",
+              "f": "prajijAgIrzAmbaBUzI",
+              "n": "prajijAgIrzAmbaBUvat/prajijAgIrzAmbaBUvad"
+            },
+            {
+              "base": "prajijAgIrzAmAsivas",
+              "m": "prajijAgIrzAmAsivAn",
+              "f": "prajijAgIrzAmAsyuzI",
+              "n": "prajijAgIrzAmAsivat/prajijAgIrzAmAsivad"
+            },
+            {
+              "base": "prajijAgIrzAYcakfvas",
+              "m": "prajijAgIrzAYcakfvAn",
+              "f": "prajijAgIrzAYcakruzI",
+              "n": "prajijAgIrzAYcakfvat/prajijAgIrzAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "prajijAgIrza",
+              "m": "prajijAgIrzaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prajijAgIrzamARa",
+              "m": "prajijAgIrzamARaH",
+              "f": "prajijAgIrzamARA",
+              "n": "prajijAgIrzamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prajijAgIrzam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prajijAgIrzaka",
+              "m": "prajijAgIrzakaH",
+              "f": "prajijAgIrzikA",
+              "n": "prajijAgIrzakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prajijAgIrzitavya",
+              "m": "prajijAgIrzitavyaH",
+              "f": "prajijAgIrzitavyA",
+              "n": "prajijAgIrzitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prajijAgIrzitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prajijAgIrzitf",
+              "m": "prajijAgIrzitA",
+              "f": "prajijAgIrzitrI",
+              "n": "prajijAgIrzitf"
+            }
+          ],
+          "yat": [
+            {
+              "base": "prajijAgIrzya",
+              "m": "prajijAgIrzyaH",
+              "f": "prajijAgIrzyA",
+              "n": "prajijAgIrzyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prajijAgIrzya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prajijAgIrzaRa",
+              "m": "",
+              "f": "",
+              "n": "prajijAgIrzaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prajijAgIrzaka",
+              "m": "prajijAgIrzakaH",
+              "f": "prajijAgIrzikA",
+              "n": "prajijAgIrzakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prajijAgIrzat",
+              "m": "prajijAgIrzan",
+              "f": "prajijAgIrzantI",
+              "n": "prajijAgIrzat/prajijAgIrzad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prajijAgIrzat",
+              "m": "prajijAgIrzan",
+              "f": "prajijAgIrzatI/prajijAgIrzantI",
+              "n": "prajijAgIrzat/prajijAgIrzad"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "prajAgara",
+              "m": "prajAgaraH",
+              "f": "prajAgarA",
+              "n": "prajAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "prajAgaraRIya",
+              "m": "prajAgaraRIyaH",
+              "f": "prajAgaraRIyA",
+              "n": "prajAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "prajAgarita",
+              "m": "prajAgaritaH",
+              "f": "prajAgaritA",
+              "n": "prajAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "prajAgaritavat",
+              "m": "prajAgaritavAn",
+              "f": "prajAgaritavatI",
+              "n": "prajAgaritavat/prajAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "prajAgarti",
+              "m": "",
+              "f": "prajAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "prajAgarayAmbaBUvas",
+              "m": "prajAgarayAmbaBUvAn",
+              "f": "prajAgarayAmbaBUzI",
+              "n": "prajAgarayAmbaBUvat/prajAgarayAmbaBUvad"
+            },
+            {
+              "base": "prajAgarayAmAsivas",
+              "m": "prajAgarayAmAsivAn",
+              "f": "prajAgarayAmAsyuzI",
+              "n": "prajAgarayAmAsivat/prajAgarayAmAsivad"
+            },
+            {
+              "base": "prajAgarayAYcakfvas",
+              "m": "prajAgarayAYcakfvAn",
+              "f": "prajAgarayAYcakruzI",
+              "n": "prajAgarayAYcakfvat/prajAgarayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "prajAgarayamARa",
+              "m": "prajAgarayamARaH",
+              "f": "prajAgarayamARA",
+              "n": "prajAgarayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "prajAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "prajAgaraka",
+              "m": "prajAgarakaH",
+              "f": "prajAgarikA",
+              "n": "prajAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "prajAgarayitavya",
+              "m": "prajAgarayitavyaH",
+              "f": "prajAgarayitavyA",
+              "n": "prajAgarayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "prajAgarayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "prajAgarayitf",
+              "m": "prajAgarayitA",
+              "f": "prajAgarayitrI",
+              "n": "prajAgarayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "prajAgarayamARa",
+              "m": "prajAgarayamARaH",
+              "f": "prajAgarayamARA",
+              "n": "prajAgarayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "prajAgarya",
+              "m": "prajAgaryaH",
+              "f": "prajAgaryA",
+              "n": "prajAgaryam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "prajAgarayya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "prajAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "prajAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "prajAgaraka",
+              "m": "prajAgarakaH",
+              "f": "prajAgarikA",
+              "n": "prajAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "prajAgarayat",
+              "m": "prajAgarayan",
+              "f": "prajAgarayantI",
+              "n": "prajAgarayat/prajAgarayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "prajAgarayamARa",
+              "m": "prajAgarayamARaH",
+              "f": "prajAgarayamARA",
+              "n": "prajAgarayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "prajAgarayamARa",
+              "m": "prajAgarayamARaH",
+              "f": "prajAgarayamARA",
+              "n": "prajAgarayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "prajAgarayat",
+              "m": "prajAgarayan",
+              "f": "prajAgarayatI/prajAgarayantI",
+              "n": "prajAgarayat/prajAgarayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "prajAgarayamARa",
+              "m": "prajAgarayamARaH",
+              "f": "prajAgarayamARA",
+              "n": "prajAgarayamARam"
+            }
+          ]
+        }
+      }
+    },
+    "su": {
+      "prefix": "su",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "pashirling": [
+            "sujAgaryAt",
+            "sujAgaryAd",
+            "sujAgaryAstAm",
+            "sujAgaryAsuH",
+            "sujAgaryAH",
+            "sujAgaryAstam",
+            "sujAgaryAsta",
+            "sujAgaryAsam",
+            "sujAgaryAsva",
+            "sujAgaryAsma"
+          ],
+          "plang": [
+            "svajAgaH",
+            "svajAgftAm",
+            "svajAgaruH",
+            "svajAgaH",
+            "svajAgftam",
+            "svajAgfta",
+            "svajAgaram",
+            "svajAgfva",
+            "svajAgfma"
+          ],
+          "plat": [
+            "sujAgarti",
+            "sujAgftaH",
+            "sujAgrati",
+            "sujAgarzi",
+            "sujAgfTaH",
+            "sujAgfTa",
+            "sujAgarmi",
+            "sujAgfvaH",
+            "sujAgfmaH"
+          ],
+          "plit": [
+            "sujAgarAmbaBUva",
+            "sujAgarAmAsa",
+            "sujAgarAYcakAra",
+            "sujajAgAra",
+            "sujAgarAmbaBUvatuH",
+            "sujAgarAmAsatuH",
+            "sujAgarAYcakratuH",
+            "sujajAgaratuH",
+            "sujAgarAmbaBUvuH",
+            "sujAgarAmAsuH",
+            "sujAgarAYcakruH",
+            "sujajAgaruH",
+            "sujAgarAmbaBUviTa",
+            "sujAgarAmAsiTa",
+            "sujAgarAYcakarTa",
+            "sujajAgariTa",
+            "sujAgarAmbaBUvaTuH",
+            "sujAgarAmAsaTuH",
+            "sujAgarAYcakraTuH",
+            "sujajAgaraTuH",
+            "sujAgarAmbaBUva",
+            "sujAgarAmAsa",
+            "sujAgarAYcakra",
+            "sujajAgara",
+            "sujAgarAmbaBUva",
+            "sujAgarAmAsa",
+            "sujAgarAYcakara",
+            "sujAgarAYcakAra",
+            "sujajAgara",
+            "sujajAgAra",
+            "sujAgarAmbaBUviva",
+            "sujAgarAmAsiva",
+            "sujAgarAYcakfva",
+            "sujajAgariva",
+            "sujAgarAmbaBUvima",
+            "sujAgarAmAsima",
+            "sujAgarAYcakfma",
+            "sujajAgarima"
+          ],
+          "plot": [
+            "sujAgftAt",
+            "sujAgftAd",
+            "sujAgartu",
+            "sujAgftAm",
+            "sujAgratu",
+            "sujAgftAt",
+            "sujAgftAd",
+            "sujAgfhi",
+            "sujAgftam",
+            "sujAgfta",
+            "sujAgarARi",
+            "sujAgarAva",
+            "sujAgarAma"
+          ],
+          "plrung": [
+            "svajAgarizyat",
+            "svajAgarizyad",
+            "svajAgarizyatAm",
+            "svajAgarizyan",
+            "svajAgarizyaH",
+            "svajAgarizyatam",
+            "svajAgarizyata",
+            "svajAgarizyam",
+            "svajAgarizyAva",
+            "svajAgarizyAma"
+          ],
+          "plrut": [
+            "sujAgarizyati",
+            "sujAgarizyataH",
+            "sujAgarizyanti",
+            "sujAgarizyasi",
+            "sujAgarizyaTaH",
+            "sujAgarizyaTa",
+            "sujAgarizyAmi",
+            "sujAgarizyAvaH",
+            "sujAgarizyAmaH"
+          ],
+          "plung": [
+            "svajAgarIt",
+            "svajAgarId",
+            "svajAgarizwAm",
+            "svajAgarizuH",
+            "svajAgarIH",
+            "svajAgarizwam",
+            "svajAgarizwa",
+            "svajAgarizam",
+            "svajAgarizva",
+            "svajAgarizma"
+          ],
+          "plut": [
+            "sujAgaritA",
+            "sujAgaritArO",
+            "sujAgaritAraH",
+            "sujAgaritAsi",
+            "sujAgaritAsTaH",
+            "sujAgaritAsTa",
+            "sujAgaritAsmi",
+            "sujAgaritAsvaH",
+            "sujAgaritAsmaH"
+          ],
+          "pvidhiling": [
+            "sujAgfyAt",
+            "sujAgfyAd",
+            "sujAgfyAtAm",
+            "sujAgfyuH",
+            "sujAgfyAH",
+            "sujAgfyAtam",
+            "sujAgfyAta",
+            "sujAgfyAm",
+            "sujAgfyAva",
+            "sujAgfyAma"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "sujAgarizIzwa",
+            "sujAgarizIyAstAm",
+            "sujAgarizIran",
+            "sujAgarizIzWAH",
+            "sujAgarizIyAsTAm",
+            "sujAgarizIQvam",
+            "sujAgarizIDvam",
+            "sujAgarizIya",
+            "sujAgarizIvahi",
+            "sujAgarizImahi"
+          ],
+          "alang": [
+            "svajAgaryata",
+            "svajAgaryetAm",
+            "svajAgaryanta",
+            "svajAgaryaTAH",
+            "svajAgaryeTAm",
+            "svajAgaryaDvam",
+            "svajAgarye",
+            "svajAgaryAvahi",
+            "svajAgaryAmahi"
+          ],
+          "alat": [
+            "sujAgaryate",
+            "sujAgaryete",
+            "sujAgaryante",
+            "sujAgaryase",
+            "sujAgaryeTe",
+            "sujAgaryaDve",
+            "sujAgarye",
+            "sujAgaryAvahe",
+            "sujAgaryAmahe"
+          ],
+          "alit": [
+            "sujAgarAmbaBUve",
+            "sujAgarAmAse",
+            "sujAgarAYcakre",
+            "sujajAgare",
+            "sujAgarAmbaBUvAte",
+            "sujAgarAmAsAte",
+            "sujAgarAYcakrAte",
+            "sujajAgarAte",
+            "sujAgarAmbaBUvire",
+            "sujAgarAmAsire",
+            "sujAgarAYcakrire",
+            "sujajAgarire",
+            "sujAgarAmbaBUvize",
+            "sujAgarAmAsize",
+            "sujAgarAYcakfze",
+            "sujajAgarize",
+            "sujAgarAmbaBUvATe",
+            "sujAgarAmAsATe",
+            "sujAgarAYcakrATe",
+            "sujajAgarATe",
+            "sujAgarAmbaBUviQve",
+            "sujAgarAmAsiDve",
+            "sujAgarAYcakfQve",
+            "sujajAgariQve",
+            "sujajAgariDve",
+            "sujAgarAmbaBUve",
+            "sujAgarAmAhe",
+            "sujAgarAYcakre",
+            "sujajAgare",
+            "sujAgarAmbaBUvivahe",
+            "sujAgarAmAsivahe",
+            "sujAgarAYcakfvahe",
+            "sujajAgarivahe",
+            "sujAgarAmbaBUvimahe",
+            "sujAgarAmAsimahe",
+            "sujAgarAYcakfmahe",
+            "sujajAgarimahe"
+          ],
+          "alot": [
+            "sujAgaryatAm",
+            "sujAgaryetAm",
+            "sujAgaryantAm",
+            "sujAgaryasva",
+            "sujAgaryeTAm",
+            "sujAgaryaDvam",
+            "sujAgaryE",
+            "sujAgaryAvahE",
+            "sujAgaryAmahE"
+          ],
+          "alrung": [
+            "svajAgarizyata",
+            "svajAgarizyetAm",
+            "svajAgarizyanta",
+            "svajAgarizyaTAH",
+            "svajAgarizyeTAm",
+            "svajAgarizyaDvam",
+            "svajAgarizye",
+            "svajAgarizyAvahi",
+            "svajAgarizyAmahi"
+          ],
+          "alrut": [
+            "sujAgarizyate",
+            "sujAgarizyete",
+            "sujAgarizyante",
+            "sujAgarizyase",
+            "sujAgarizyeTe",
+            "sujAgarizyaDve",
+            "sujAgarizye",
+            "sujAgarizyAvahe",
+            "sujAgarizyAmahe"
+          ],
+          "alung": [
+            "svajAgAri",
+            "svajAgarizAtAm",
+            "svajAgarizata",
+            "svajAgarizWAH",
+            "svajAgarizATAm",
+            "svajAgariQvam",
+            "svajAgariDvam",
+            "svajAgarizi",
+            "svajAgarizvahi",
+            "svajAgarizmahi"
+          ],
+          "alut": [
+            "sujAgaritA",
+            "sujAgaritArO",
+            "sujAgaritAraH",
+            "sujAgaritAse",
+            "sujAgaritAsATe",
+            "sujAgaritADve",
+            "sujAgaritAhe",
+            "sujAgaritAsvahe",
+            "sujAgaritAsmahe"
+          ],
+          "avidhiling": [
+            "sujAgaryeta",
+            "sujAgaryeyAtAm",
+            "sujAgaryeran",
+            "sujAgaryeTAH",
+            "sujAgaryeyATAm",
+            "sujAgaryeDvam",
+            "sujAgaryeya",
+            "sujAgaryevahi",
+            "sujAgaryemahi"
+          ]
+        },
+        "san": {
+          "pashirling": [
+            "sujijAgIrzyAt",
+            "sujijAgIrzyAd",
+            "sujijAgIrzyAstAm",
+            "sujijAgIrzyAsuH",
+            "sujijAgIrzyAH",
+            "sujijAgIrzyAstam",
+            "sujijAgIrzyAsta",
+            "sujijAgIrzyAsam",
+            "sujijAgIrzyAsva",
+            "sujijAgIrzyAsma"
+          ],
+          "plang": [
+            "svajijAgIrzat",
+            "svajijAgIrzad",
+            "svajijAgIrzatAm",
+            "svajijAgIrzan",
+            "svajijAgIrzaH",
+            "svajijAgIrzatam",
+            "svajijAgIrzata",
+            "svajijAgIrzam",
+            "svajijAgIrzAva",
+            "svajijAgIrzAma"
+          ],
+          "plat": [
+            "sujijAgIrzati",
+            "sujijAgIrzataH",
+            "sujijAgIrzanti",
+            "sujijAgIrzasi",
+            "sujijAgIrzaTaH",
+            "sujijAgIrzaTa",
+            "sujijAgIrzAmi",
+            "sujijAgIrzAvaH",
+            "sujijAgIrzAmaH"
+          ],
+          "plit": [
+            "sujijAgIrzAmbaBUva",
+            "sujijAgIrzAmAsa",
+            "sujijAgIrzAYcakAra",
+            "sujijAgIrzAmbaBUvatuH",
+            "sujijAgIrzAmAsatuH",
+            "sujijAgIrzAYcakratuH",
+            "sujijAgIrzAmbaBUvuH",
+            "sujijAgIrzAmAsuH",
+            "sujijAgIrzAYcakruH",
+            "sujijAgIrzAmbaBUviTa",
+            "sujijAgIrzAmAsiTa",
+            "sujijAgIrzAYcakarTa",
+            "sujijAgIrzAmbaBUvaTuH",
+            "sujijAgIrzAmAsaTuH",
+            "sujijAgIrzAYcakraTuH",
+            "sujijAgIrzAmbaBUva",
+            "sujijAgIrzAmAsa",
+            "sujijAgIrzAYcakra",
+            "sujijAgIrzAmbaBUva",
+            "sujijAgIrzAmAsa",
+            "sujijAgIrzAYcakara",
+            "sujijAgIrzAYcakAra",
+            "sujijAgIrzAmbaBUviva",
+            "sujijAgIrzAmAsiva",
+            "sujijAgIrzAYcakfva",
+            "sujijAgIrzAmbaBUvima",
+            "sujijAgIrzAmAsima",
+            "sujijAgIrzAYcakfma"
+          ],
+          "plot": [
+            "sujijAgIrzatAt",
+            "sujijAgIrzatAd",
+            "sujijAgIrzatu",
+            "sujijAgIrzatAm",
+            "sujijAgIrzantu",
+            "sujijAgIrzatAt",
+            "sujijAgIrzatAd",
+            "sujijAgIrza",
+            "sujijAgIrzatam",
+            "sujijAgIrzata",
+            "sujijAgIrzARi",
+            "sujijAgIrzAva",
+            "sujijAgIrzAma"
+          ],
+          "plrung": [
+            "svajijAgIrzizyat",
+            "svajijAgIrzizyad",
+            "svajijAgIrzizyatAm",
+            "svajijAgIrzizyan",
+            "svajijAgIrzizyaH",
+            "svajijAgIrzizyatam",
+            "svajijAgIrzizyata",
+            "svajijAgIrzizyam",
+            "svajijAgIrzizyAva",
+            "svajijAgIrzizyAma"
+          ],
+          "plrut": [
+            "sujijAgIrzizyati",
+            "sujijAgIrzizyataH",
+            "sujijAgIrzizyanti",
+            "sujijAgIrzizyasi",
+            "sujijAgIrzizyaTaH",
+            "sujijAgIrzizyaTa",
+            "sujijAgIrzizyAmi",
+            "sujijAgIrzizyAvaH",
+            "sujijAgIrzizyAmaH"
+          ],
+          "plung": [
+            "svajijAgIrzIt",
+            "svajijAgIrzId",
+            "svajijAgIrzizwAm",
+            "svajijAgIrzizuH",
+            "svajijAgIrzIH",
+            "svajijAgIrzizwam",
+            "svajijAgIrzizwa",
+            "svajijAgIrzizam",
+            "svajijAgIrzizva",
+            "svajijAgIrzizma"
+          ],
+          "plut": [
+            "sujijAgIrzitA",
+            "sujijAgIrzitArO",
+            "sujijAgIrzitAraH",
+            "sujijAgIrzitAsi",
+            "sujijAgIrzitAsTaH",
+            "sujijAgIrzitAsTa",
+            "sujijAgIrzitAsmi",
+            "sujijAgIrzitAsvaH",
+            "sujijAgIrzitAsmaH"
+          ],
+          "pvidhiling": [
+            "sujijAgIrzet",
+            "sujijAgIrzed",
+            "sujijAgIrzetAm",
+            "sujijAgIrzeyuH",
+            "sujijAgIrzeH",
+            "sujijAgIrzetam",
+            "sujijAgIrzeta",
+            "sujijAgIrzeyam",
+            "sujijAgIrzeva",
+            "sujijAgIrzema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "sujijAgIrzizIzwa",
+            "sujijAgIrzizIyAstAm",
+            "sujijAgIrzizIran",
+            "sujijAgIrzizIzWAH",
+            "sujijAgIrzizIyAsTAm",
+            "sujijAgIrzizIDvam",
+            "sujijAgIrzizIya",
+            "sujijAgIrzizIvahi",
+            "sujijAgIrzizImahi"
+          ],
+          "alang": [
+            "svajijAgIrzyata",
+            "svajijAgIrzyetAm",
+            "svajijAgIrzyanta",
+            "svajijAgIrzyaTAH",
+            "svajijAgIrzyeTAm",
+            "svajijAgIrzyaDvam",
+            "svajijAgIrzye",
+            "svajijAgIrzyAvahi",
+            "svajijAgIrzyAmahi"
+          ],
+          "alat": [
+            "sujijAgIrzyate",
+            "sujijAgIrzyete",
+            "sujijAgIrzyante",
+            "sujijAgIrzyase",
+            "sujijAgIrzyeTe",
+            "sujijAgIrzyaDve",
+            "sujijAgIrzye",
+            "sujijAgIrzyAvahe",
+            "sujijAgIrzyAmahe"
+          ],
+          "alit": [
+            "sujijAgIrzAmbaBUve",
+            "sujijAgIrzAmAse",
+            "sujijAgIrzAYcakre",
+            "sujijAgIrzAmbaBUvAte",
+            "sujijAgIrzAmAsAte",
+            "sujijAgIrzAYcakrAte",
+            "sujijAgIrzAmbaBUvire",
+            "sujijAgIrzAmAsire",
+            "sujijAgIrzAYcakrire",
+            "sujijAgIrzAmbaBUvize",
+            "sujijAgIrzAmAsize",
+            "sujijAgIrzAYcakfze",
+            "sujijAgIrzAmbaBUvATe",
+            "sujijAgIrzAmAsATe",
+            "sujijAgIrzAYcakrATe",
+            "sujijAgIrzAmbaBUviQve",
+            "sujijAgIrzAmAsiDve",
+            "sujijAgIrzAYcakfQve",
+            "sujijAgIrzAmbaBUve",
+            "sujijAgIrzAmAhe",
+            "sujijAgIrzAYcakre",
+            "sujijAgIrzAmbaBUvivahe",
+            "sujijAgIrzAmAsivahe",
+            "sujijAgIrzAYcakfvahe",
+            "sujijAgIrzAmbaBUvimahe",
+            "sujijAgIrzAmAsimahe",
+            "sujijAgIrzAYcakfmahe"
+          ],
+          "alot": [
+            "sujijAgIrzyatAm",
+            "sujijAgIrzyetAm",
+            "sujijAgIrzyantAm",
+            "sujijAgIrzyasva",
+            "sujijAgIrzyeTAm",
+            "sujijAgIrzyaDvam",
+            "sujijAgIrzyE",
+            "sujijAgIrzyAvahE",
+            "sujijAgIrzyAmahE"
+          ],
+          "alrung": [
+            "svajijAgIrzizyata",
+            "svajijAgIrzizyetAm",
+            "svajijAgIrzizyanta",
+            "svajijAgIrzizyaTAH",
+            "svajijAgIrzizyeTAm",
+            "svajijAgIrzizyaDvam",
+            "svajijAgIrzizye",
+            "svajijAgIrzizyAvahi",
+            "svajijAgIrzizyAmahi"
+          ],
+          "alrut": [
+            "sujijAgIrzizyate",
+            "sujijAgIrzizyete",
+            "sujijAgIrzizyante",
+            "sujijAgIrzizyase",
+            "sujijAgIrzizyeTe",
+            "sujijAgIrzizyaDve",
+            "sujijAgIrzizye",
+            "sujijAgIrzizyAvahe",
+            "sujijAgIrzizyAmahe"
+          ],
+          "alung": [
+            "svajijAgIrzi",
+            "svajijAgIrzizAtAm",
+            "svajijAgIrzizata",
+            "svajijAgIrzizWAH",
+            "svajijAgIrzizATAm",
+            "svajijAgIrziDvam",
+            "svajijAgIrzizi",
+            "svajijAgIrzizvahi",
+            "svajijAgIrzizmahi"
+          ],
+          "alut": [
+            "sujijAgIrzitA",
+            "sujijAgIrzitArO",
+            "sujijAgIrzitAraH",
+            "sujijAgIrzitAse",
+            "sujijAgIrzitAsATe",
+            "sujijAgIrzitADve",
+            "sujijAgIrzitAhe",
+            "sujijAgIrzitAsvahe",
+            "sujijAgIrzitAsmahe"
+          ],
+          "avidhiling": [
+            "sujijAgIrzyeta",
+            "sujijAgIrzyeyAtAm",
+            "sujijAgIrzyeran",
+            "sujijAgIrzyeTAH",
+            "sujijAgIrzyeyATAm",
+            "sujijAgIrzyeDvam",
+            "sujijAgIrzyeya",
+            "sujijAgIrzyevahi",
+            "sujijAgIrzyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "sujAgarayizIzwa",
+            "sujAgarayizIyAstAm",
+            "sujAgarayizIran",
+            "sujAgarayizIzWAH",
+            "sujAgarayizIyAsTAm",
+            "sujAgarayizIQvam",
+            "sujAgarayizIDvam",
+            "sujAgarayizIya",
+            "sujAgarayizIvahi",
+            "sujAgarayizImahi"
+          ],
+          "alang": [
+            "svajAgarayata",
+            "svajAgarayetAm",
+            "svajAgarayanta",
+            "svajAgarayaTAH",
+            "svajAgarayeTAm",
+            "svajAgarayaDvam",
+            "svajAgaraye",
+            "svajAgarayAvahi",
+            "svajAgarayAmahi"
+          ],
+          "alat": [
+            "sujAgarayate",
+            "sujAgarayete",
+            "sujAgarayante",
+            "sujAgarayase",
+            "sujAgarayeTe",
+            "sujAgarayaDve",
+            "sujAgaraye",
+            "sujAgarayAvahe",
+            "sujAgarayAmahe"
+          ],
+          "alit": [
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakre",
+            "sujAgarayAmbaBUvatuH",
+            "sujAgarayAmAsatuH",
+            "sujAgarayAYcakrAte",
+            "sujAgarayAmbaBUvuH",
+            "sujAgarayAmAsuH",
+            "sujAgarayAYcakrire",
+            "sujAgarayAmbaBUviTa",
+            "sujAgarayAmAsiTa",
+            "sujAgarayAYcakfze",
+            "sujAgarayAmbaBUvaTuH",
+            "sujAgarayAmAsaTuH",
+            "sujAgarayAYcakrATe",
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakfQve",
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakre",
+            "sujAgarayAmbaBUviva",
+            "sujAgarayAmAsiva",
+            "sujAgarayAYcakfvahe",
+            "sujAgarayAmbaBUvima",
+            "sujAgarayAmAsima",
+            "sujAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "sujAgarayatAm",
+            "sujAgarayetAm",
+            "sujAgarayantAm",
+            "sujAgarayasva",
+            "sujAgarayeTAm",
+            "sujAgarayaDvam",
+            "sujAgarayE",
+            "sujAgarayAvahE",
+            "sujAgarayAmahE"
+          ],
+          "alrung": [
+            "svajAgarayizyata",
+            "svajAgarayizyetAm",
+            "svajAgarayizyanta",
+            "svajAgarayizyaTAH",
+            "svajAgarayizyeTAm",
+            "svajAgarayizyaDvam",
+            "svajAgarayizye",
+            "svajAgarayizyAvahi",
+            "svajAgarayizyAmahi"
+          ],
+          "alrut": [
+            "sujAgarayizyate",
+            "sujAgarayizyete",
+            "sujAgarayizyante",
+            "sujAgarayizyase",
+            "sujAgarayizyeTe",
+            "sujAgarayizyaDve",
+            "sujAgarayizye",
+            "sujAgarayizyAvahe",
+            "sujAgarayizyAmahe"
+          ],
+          "alung": [
+            "svajajAgarata",
+            "svajajAgaretAm",
+            "svajajAgaranta",
+            "svajajAgaraTAH",
+            "svajajAgareTAm",
+            "svajajAgaraDvam",
+            "svajajAgare",
+            "svajajAgarAvahi",
+            "svajajAgarAmahi"
+          ],
+          "alut": [
+            "sujAgarayitA",
+            "sujAgarayitArO",
+            "sujAgarayitAraH",
+            "sujAgarayitAse",
+            "sujAgarayitAsATe",
+            "sujAgarayitADve",
+            "sujAgarayitAhe",
+            "sujAgarayitAsvahe",
+            "sujAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "sujAgarayeta",
+            "sujAgarayeyAtAm",
+            "sujAgarayeran",
+            "sujAgarayeTAH",
+            "sujAgarayeyATAm",
+            "sujAgarayeDvam",
+            "sujAgarayeya",
+            "sujAgarayevahi",
+            "sujAgarayemahi"
+          ],
+          "pashirling": [
+            "sujAgaryAt",
+            "sujAgaryAd",
+            "sujAgaryAstAm",
+            "sujAgaryAsuH",
+            "sujAgaryAH",
+            "sujAgaryAstam",
+            "sujAgaryAsta",
+            "sujAgaryAsam",
+            "sujAgaryAsva",
+            "sujAgaryAsma"
+          ],
+          "plang": [
+            "svajAgarayat",
+            "svajAgarayad",
+            "svajAgarayatAm",
+            "svajAgarayan",
+            "svajAgarayaH",
+            "svajAgarayatam",
+            "svajAgarayata",
+            "svajAgarayam",
+            "svajAgarayAva",
+            "svajAgarayAma"
+          ],
+          "plat": [
+            "sujAgarayati",
+            "sujAgarayataH",
+            "sujAgarayanti",
+            "sujAgarayasi",
+            "sujAgarayaTaH",
+            "sujAgarayaTa",
+            "sujAgarayAmi",
+            "sujAgarayAvaH",
+            "sujAgarayAmaH"
+          ],
+          "plit": [
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakAra",
+            "sujAgarayAmbaBUvatuH",
+            "sujAgarayAmAsatuH",
+            "sujAgarayAYcakratuH",
+            "sujAgarayAmbaBUvuH",
+            "sujAgarayAmAsuH",
+            "sujAgarayAYcakruH",
+            "sujAgarayAmbaBUviTa",
+            "sujAgarayAmAsiTa",
+            "sujAgarayAYcakarTa",
+            "sujAgarayAmbaBUvaTuH",
+            "sujAgarayAmAsaTuH",
+            "sujAgarayAYcakraTuH",
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakra",
+            "sujAgarayAmbaBUva",
+            "sujAgarayAmAsa",
+            "sujAgarayAYcakara",
+            "sujAgarayAYcakAra",
+            "sujAgarayAmbaBUviva",
+            "sujAgarayAmAsiva",
+            "sujAgarayAYcakfva",
+            "sujAgarayAmbaBUvima",
+            "sujAgarayAmAsima",
+            "sujAgarayAYcakfma"
+          ],
+          "plot": [
+            "sujAgarayatAt",
+            "sujAgarayatAd",
+            "sujAgarayatu",
+            "sujAgarayatAm",
+            "sujAgarayantu",
+            "sujAgarayatAt",
+            "sujAgarayatAd",
+            "sujAgaraya",
+            "sujAgarayatam",
+            "sujAgarayata",
+            "sujAgarayARi",
+            "sujAgarayAva",
+            "sujAgarayAma"
+          ],
+          "plrung": [
+            "svajAgarayizyat",
+            "svajAgarayizyad",
+            "svajAgarayizyatAm",
+            "svajAgarayizyan",
+            "svajAgarayizyaH",
+            "svajAgarayizyatam",
+            "svajAgarayizyata",
+            "svajAgarayizyam",
+            "svajAgarayizyAva",
+            "svajAgarayizyAma"
+          ],
+          "plrut": [
+            "sujAgarayizyati",
+            "sujAgarayizyataH",
+            "sujAgarayizyanti",
+            "sujAgarayizyasi",
+            "sujAgarayizyaTaH",
+            "sujAgarayizyaTa",
+            "sujAgarayizyAmi",
+            "sujAgarayizyAvaH",
+            "sujAgarayizyAmaH"
+          ],
+          "plung": [
+            "svajajAgarat",
+            "svajajAgarad",
+            "svajajAgaratAm",
+            "svajajAgaran",
+            "svajajAgaraH",
+            "svajajAgaratam",
+            "svajajAgarata",
+            "svajajAgaram",
+            "svajajAgarAva",
+            "svajajAgarAma"
+          ],
+          "plut": [
+            "sujAgarayitA",
+            "sujAgarayitArO",
+            "sujAgarayitAraH",
+            "sujAgarayitAsi",
+            "sujAgarayitAsTaH",
+            "sujAgarayitAsTa",
+            "sujAgarayitAsmi",
+            "sujAgarayitAsvaH",
+            "sujAgarayitAsmaH"
+          ],
+          "pvidhiling": [
+            "sujAgarayet",
+            "sujAgarayed",
+            "sujAgarayetAm",
+            "sujAgarayeyuH",
+            "sujAgarayeH",
+            "sujAgarayetam",
+            "sujAgarayeta",
+            "sujAgarayeyam",
+            "sujAgarayeva",
+            "sujAgarayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "sujAgarizIzwa",
+            "sujAgarayizIzwa",
+            "sujAgarizIyAstAm",
+            "sujAgarayizIyAstAm",
+            "sujAgarizIran",
+            "sujAgarayizIran",
+            "sujAgarizIzWAH",
+            "sujAgarayizIzWAH",
+            "sujAgarizIyAsTAm",
+            "sujAgarayizIyAsTAm",
+            "sujAgarizIQvam",
+            "sujAgarayizIQvam",
+            "sujAgarayizIDvam",
+            "sujAgarizIya",
+            "sujAgarayizIya",
+            "sujAgarizIvahi",
+            "sujAgarayizIvahi",
+            "sujAgarizImahi",
+            "sujAgarayizImahi"
+          ],
+          "alang": [
+            "svajAgaryata",
+            "svajAgaryetAm",
+            "svajAgaryanta",
+            "svajAgaryaTAH",
+            "svajAgaryeTAm",
+            "svajAgaryaDvam",
+            "svajAgarye",
+            "svajAgaryAvahi",
+            "svajAgaryAmahi"
+          ],
+          "alat": [
+            "sujAgaryate",
+            "sujAgaryete",
+            "sujAgaryante",
+            "sujAgaryase",
+            "sujAgaryeTe",
+            "sujAgaryaDve",
+            "sujAgarye",
+            "sujAgaryAvahe",
+            "sujAgaryAmahe"
+          ],
+          "alit": [
+            "sujAgarayAmbaBUve",
+            "sujAgarayAmAse",
+            "sujAgarayAYcakre",
+            "sujAgarayAmbaBUvAte",
+            "sujAgarayAmAsAte",
+            "sujAgarayAYcakrAte",
+            "sujAgarayAmbaBUvire",
+            "sujAgarayAmAsire",
+            "sujAgarayAYcakrire",
+            "sujAgarayAmbaBUvize",
+            "sujAgarayAmAsize",
+            "sujAgarayAYcakfze",
+            "sujAgarayAmbaBUvATe",
+            "sujAgarayAmAsATe",
+            "sujAgarayAYcakrATe",
+            "sujAgarayAmbaBUviQve",
+            "sujAgarayAmAsiDve",
+            "sujAgarayAYcakfQve",
+            "sujAgarayAmbaBUve",
+            "sujAgarayAmAhe",
+            "sujAgarayAYcakre",
+            "sujAgarayAmbaBUvivahe",
+            "sujAgarayAmAsivahe",
+            "sujAgarayAYcakfvahe",
+            "sujAgarayAmbaBUvimahe",
+            "sujAgarayAmAsimahe",
+            "sujAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "sujAgaryatAm",
+            "sujAgaryetAm",
+            "sujAgaryantAm",
+            "sujAgaryasva",
+            "sujAgaryeTAm",
+            "sujAgaryaDvam",
+            "sujAgaryE",
+            "sujAgaryAvahE",
+            "sujAgaryAmahE"
+          ],
+          "alrung": [
+            "svajAgarizyata",
+            "svajAgarayizyata",
+            "svajAgarizyetAm",
+            "svajAgarayizyetAm",
+            "svajAgarizyanta",
+            "svajAgarayizyanta",
+            "svajAgarizyaTAH",
+            "svajAgarayizyaTAH",
+            "svajAgarizyeTAm",
+            "svajAgarayizyeTAm",
+            "svajAgarizyaDvam",
+            "svajAgarayizyaDvam",
+            "svajAgarizye",
+            "svajAgarayizye",
+            "svajAgarizyAvahi",
+            "svajAgarayizyAvahi",
+            "svajAgarizyAmahi",
+            "svajAgarayizyAmahi"
+          ],
+          "alrut": [
+            "sujAgarizyate",
+            "sujAgarayizyate",
+            "sujAgarizyete",
+            "sujAgarayizyete",
+            "sujAgarizyante",
+            "sujAgarayizyante",
+            "sujAgarizyase",
+            "sujAgarayizyase",
+            "sujAgarizyeTe",
+            "sujAgarayizyeTe",
+            "sujAgarizyaDve",
+            "sujAgarayizyaDve",
+            "sujAgarizye",
+            "sujAgarayizye",
+            "sujAgarizyAvahe",
+            "sujAgarayizyAvahe",
+            "sujAgarizyAmahe",
+            "sujAgarayizyAmahe"
+          ],
+          "alung": [
+            "svajAgari",
+            "svajAgarizAtAm",
+            "svajAgarayizAtAm",
+            "svajAgarizata",
+            "svajAgarayizata",
+            "svajAgarizWAH",
+            "svajAgarayizWAH",
+            "svajAgarizATAm",
+            "svajAgarayizATAm",
+            "svajAgariQvam",
+            "svajAgarayiQvam",
+            "svajAgarayiDvam",
+            "svajAgarizi",
+            "svajAgarayizi",
+            "svajAgarizvahi",
+            "svajAgarayizvahi",
+            "svajAgarizmahi",
+            "svajAgarayizmahi"
+          ],
+          "alut": [
+            "sujAgaritA",
+            "sujAgarayitA",
+            "sujAgaritArO",
+            "sujAgarayitArO",
+            "sujAgaritAraH",
+            "sujAgarayitAraH",
+            "sujAgaritAse",
+            "sujAgarayitAse",
+            "sujAgaritAsATe",
+            "sujAgarayitAsATe",
+            "sujAgaritADve",
+            "sujAgarayitADve",
+            "sujAgaritAhe",
+            "sujAgarayitAhe",
+            "sujAgaritAsvahe",
+            "sujAgarayitAsvahe",
+            "sujAgaritAsmahe",
+            "sujAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "sujAgaryeta",
+            "sujAgaryeyAtAm",
+            "sujAgaryeran",
+            "sujAgaryeTAH",
+            "sujAgaryeyATAm",
+            "sujAgaryeDvam",
+            "sujAgaryeya",
+            "sujAgaryevahi",
+            "sujAgaryemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "sujAgara",
+              "m": "sujAgaraH",
+              "f": "sujAgarA",
+              "n": "sujAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "sujAgaraRIya",
+              "m": "sujAgaraRIyaH",
+              "f": "sujAgaraRIyA",
+              "n": "sujAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "sujAgarita",
+              "m": "sujAgaritaH",
+              "f": "sujAgaritA",
+              "n": "sujAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "sujAgaritavat",
+              "m": "sujAgaritavAn",
+              "f": "sujAgaritavatI",
+              "n": "sujAgaritavat/sujAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "sujAgarti",
+              "m": "",
+              "f": "sujAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "sujAgarAmbaBUvas",
+              "m": "sujAgarAmbaBUvAn",
+              "f": "sujAgarAmbaBUzI",
+              "n": "sujAgarAmbaBUvat/sujAgarAmbaBUvad"
+            },
+            {
+              "base": "sujAgarAmAsivas",
+              "m": "sujAgarAmAsivAn",
+              "f": "sujAgarAmAsyuzI",
+              "n": "sujAgarAmAsivat/sujAgarAmAsivad"
+            },
+            {
+              "base": "sujAgarAYcakfvas",
+              "m": "sujAgarAYcakfvAn",
+              "f": "sujAgarAYcakruzI",
+              "n": "sujAgarAYcakfvat/sujAgarAYcakfvad"
+            },
+            {
+              "base": "sujajAgarvas",
+              "m": "sujajAgarvAn",
+              "f": "sujajAgaruzI",
+              "n": "sujajAgarvat/sujajAgarvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "sujAgara",
+              "m": "sujAgaraH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "sujAgrARa",
+              "m": "sujAgrARaH",
+              "f": "sujAgrARA",
+              "n": "sujAgrARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "sujAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "sujAgarya",
+              "m": "sujAgaryaH",
+              "f": "sujAgaryA",
+              "n": "sujAgaryam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "sujAgaraka",
+              "m": "sujAgarakaH",
+              "f": "sujAgarikA",
+              "n": "sujAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "sujAgaritavya",
+              "m": "sujAgaritavyaH",
+              "f": "sujAgaritavyA",
+              "n": "sujAgaritavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "sujAgaritum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "sujAgaritf",
+              "m": "sujAgaritA",
+              "f": "sujAgaritrI",
+              "n": "sujAgaritf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "sujAgarya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "sujAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "sujAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "sujAgaraka",
+              "m": "sujAgarakaH",
+              "f": "sujAgarikA",
+              "n": "sujAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "sujAgrat",
+              "m": "sujAgran",
+              "f": "sujAgrantI",
+              "n": "sujAgrat/sujAgrad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "sujAgrat",
+              "m": "sujAgran",
+              "f": "sujAgratI/sujAgrantI",
+              "n": "sujAgrat/sujAgrad"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "sujijAgIrzA",
+              "m": "",
+              "f": "sujijAgIrzA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "sujijAgIrza",
+              "m": "sujijAgIrzaH",
+              "f": "sujijAgIrzA",
+              "n": "sujijAgIrzam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "sujijAgIrzaRIya",
+              "m": "sujijAgIrzaRIyaH",
+              "f": "sujijAgIrzaRIyA",
+              "n": "sujijAgIrzaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "sujijAgIrzu",
+              "m": "sujijAgIrzuH",
+              "f": "sujijAgIrzuH",
+              "n": "sujijAgIrzu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "sujijAgIrzita",
+              "m": "sujijAgIrzitaH",
+              "f": "sujijAgIrzitA",
+              "n": "sujijAgIrzitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "sujijAgIrzitavat",
+              "m": "sujijAgIrzitavAn",
+              "f": "sujijAgIrzitavatI",
+              "n": "sujijAgIrzitavat/sujijAgIrzitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "sujijAgIrzwi",
+              "m": "",
+              "f": "sujijAgIrzwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "sujijAgIrzAmbaBUvas",
+              "m": "sujijAgIrzAmbaBUvAn",
+              "f": "sujijAgIrzAmbaBUzI",
+              "n": "sujijAgIrzAmbaBUvat/sujijAgIrzAmbaBUvad"
+            },
+            {
+              "base": "sujijAgIrzAmAsivas",
+              "m": "sujijAgIrzAmAsivAn",
+              "f": "sujijAgIrzAmAsyuzI",
+              "n": "sujijAgIrzAmAsivat/sujijAgIrzAmAsivad"
+            },
+            {
+              "base": "sujijAgIrzAYcakfvas",
+              "m": "sujijAgIrzAYcakfvAn",
+              "f": "sujijAgIrzAYcakruzI",
+              "n": "sujijAgIrzAYcakfvat/sujijAgIrzAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "sujijAgIrza",
+              "m": "sujijAgIrzaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "sujijAgIrzamARa",
+              "m": "sujijAgIrzamARaH",
+              "f": "sujijAgIrzamARA",
+              "n": "sujijAgIrzamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "sujijAgIrzam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "sujijAgIrzaka",
+              "m": "sujijAgIrzakaH",
+              "f": "sujijAgIrzikA",
+              "n": "sujijAgIrzakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "sujijAgIrzitavya",
+              "m": "sujijAgIrzitavyaH",
+              "f": "sujijAgIrzitavyA",
+              "n": "sujijAgIrzitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "sujijAgIrzitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "sujijAgIrzitf",
+              "m": "sujijAgIrzitA",
+              "f": "sujijAgIrzitrI",
+              "n": "sujijAgIrzitf"
+            }
+          ],
+          "yat": [
+            {
+              "base": "sujijAgIrzya",
+              "m": "sujijAgIrzyaH",
+              "f": "sujijAgIrzyA",
+              "n": "sujijAgIrzyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "sujijAgIrzya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "sujijAgIrzaRa",
+              "m": "",
+              "f": "",
+              "n": "sujijAgIrzaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "sujijAgIrzaka",
+              "m": "sujijAgIrzakaH",
+              "f": "sujijAgIrzikA",
+              "n": "sujijAgIrzakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "sujijAgIrzat",
+              "m": "sujijAgIrzan",
+              "f": "sujijAgIrzantI",
+              "n": "sujijAgIrzat/sujijAgIrzad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "sujijAgIrzat",
+              "m": "sujijAgIrzan",
+              "f": "sujijAgIrzatI/sujijAgIrzantI",
+              "n": "sujijAgIrzat/sujijAgIrzad"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "sujAgara",
+              "m": "sujAgaraH",
+              "f": "sujAgarA",
+              "n": "sujAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "sujAgaraRIya",
+              "m": "sujAgaraRIyaH",
+              "f": "sujAgaraRIyA",
+              "n": "sujAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "sujAgarita",
+              "m": "sujAgaritaH",
+              "f": "sujAgaritA",
+              "n": "sujAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "sujAgaritavat",
+              "m": "sujAgaritavAn",
+              "f": "sujAgaritavatI",
+              "n": "sujAgaritavat/sujAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "sujAgarti",
+              "m": "",
+              "f": "sujAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "sujAgarayAmbaBUvas",
+              "m": "sujAgarayAmbaBUvAn",
+              "f": "sujAgarayAmbaBUzI",
+              "n": "sujAgarayAmbaBUvat/sujAgarayAmbaBUvad"
+            },
+            {
+              "base": "sujAgarayAmAsivas",
+              "m": "sujAgarayAmAsivAn",
+              "f": "sujAgarayAmAsyuzI",
+              "n": "sujAgarayAmAsivat/sujAgarayAmAsivad"
+            },
+            {
+              "base": "sujAgarayAYcakfvas",
+              "m": "sujAgarayAYcakfvAn",
+              "f": "sujAgarayAYcakruzI",
+              "n": "sujAgarayAYcakfvat/sujAgarayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "sujAgarayamARa",
+              "m": "sujAgarayamARaH",
+              "f": "sujAgarayamARA",
+              "n": "sujAgarayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "sujAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "sujAgaraka",
+              "m": "sujAgarakaH",
+              "f": "sujAgarikA",
+              "n": "sujAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "sujAgarayitavya",
+              "m": "sujAgarayitavyaH",
+              "f": "sujAgarayitavyA",
+              "n": "sujAgarayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "sujAgarayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "sujAgarayitf",
+              "m": "sujAgarayitA",
+              "f": "sujAgarayitrI",
+              "n": "sujAgarayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "sujAgarayamARa",
+              "m": "sujAgarayamARaH",
+              "f": "sujAgarayamARA",
+              "n": "sujAgarayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "sujAgarya",
+              "m": "sujAgaryaH",
+              "f": "sujAgaryA",
+              "n": "sujAgaryam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "sujAgarayya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "sujAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "sujAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "sujAgaraka",
+              "m": "sujAgarakaH",
+              "f": "sujAgarikA",
+              "n": "sujAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "sujAgarayat",
+              "m": "sujAgarayan",
+              "f": "sujAgarayantI",
+              "n": "sujAgarayat/sujAgarayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "sujAgarayamARa",
+              "m": "sujAgarayamARaH",
+              "f": "sujAgarayamARA",
+              "n": "sujAgarayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "sujAgarayamARa",
+              "m": "sujAgarayamARaH",
+              "f": "sujAgarayamARA",
+              "n": "sujAgarayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "sujAgarayat",
+              "m": "sujAgarayan",
+              "f": "sujAgarayatI/sujAgarayantI",
+              "n": "sujAgarayat/sujAgarayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "sujAgarayamARa",
+              "m": "sujAgarayamARaH",
+              "f": "sujAgarayamARA",
+              "n": "sujAgarayamARam"
+            }
+          ]
+        }
+      }
+    },
+    "prati": {
+      "prefix": "prati",
+      "artha_hindi": "",
+      "conjugations": {
+        "ting": {
+          "pashirling": [
+            "pratijAgaryAt",
+            "pratijAgaryAd",
+            "pratijAgaryAstAm",
+            "pratijAgaryAsuH",
+            "pratijAgaryAH",
+            "pratijAgaryAstam",
+            "pratijAgaryAsta",
+            "pratijAgaryAsam",
+            "pratijAgaryAsva",
+            "pratijAgaryAsma"
+          ],
+          "plang": [
+            "pratyajAgaH",
+            "pratyajAgftAm",
+            "pratyajAgaruH",
+            "pratyajAgaH",
+            "pratyajAgftam",
+            "pratyajAgfta",
+            "pratyajAgaram",
+            "pratyajAgfva",
+            "pratyajAgfma"
+          ],
+          "plat": [
+            "pratijAgarti",
+            "pratijAgftaH",
+            "pratijAgrati",
+            "pratijAgarzi",
+            "pratijAgfTaH",
+            "pratijAgfTa",
+            "pratijAgarmi",
+            "pratijAgfvaH",
+            "pratijAgfmaH"
+          ],
+          "plit": [
+            "pratijAgarAmbaBUva",
+            "pratijAgarAmAsa",
+            "pratijAgarAYcakAra",
+            "pratijajAgAra",
+            "pratijAgarAmbaBUvatuH",
+            "pratijAgarAmAsatuH",
+            "pratijAgarAYcakratuH",
+            "pratijajAgaratuH",
+            "pratijAgarAmbaBUvuH",
+            "pratijAgarAmAsuH",
+            "pratijAgarAYcakruH",
+            "pratijajAgaruH",
+            "pratijAgarAmbaBUviTa",
+            "pratijAgarAmAsiTa",
+            "pratijAgarAYcakarTa",
+            "pratijajAgariTa",
+            "pratijAgarAmbaBUvaTuH",
+            "pratijAgarAmAsaTuH",
+            "pratijAgarAYcakraTuH",
+            "pratijajAgaraTuH",
+            "pratijAgarAmbaBUva",
+            "pratijAgarAmAsa",
+            "pratijAgarAYcakra",
+            "pratijajAgara",
+            "pratijAgarAmbaBUva",
+            "pratijAgarAmAsa",
+            "pratijAgarAYcakara",
+            "pratijAgarAYcakAra",
+            "pratijajAgara",
+            "pratijajAgAra",
+            "pratijAgarAmbaBUviva",
+            "pratijAgarAmAsiva",
+            "pratijAgarAYcakfva",
+            "pratijajAgariva",
+            "pratijAgarAmbaBUvima",
+            "pratijAgarAmAsima",
+            "pratijAgarAYcakfma",
+            "pratijajAgarima"
+          ],
+          "plot": [
+            "pratijAgftAt",
+            "pratijAgftAd",
+            "pratijAgartu",
+            "pratijAgftAm",
+            "pratijAgratu",
+            "pratijAgftAt",
+            "pratijAgftAd",
+            "pratijAgfhi",
+            "pratijAgftam",
+            "pratijAgfta",
+            "pratijAgarARi",
+            "pratijAgarAva",
+            "pratijAgarAma"
+          ],
+          "plrung": [
+            "pratyajAgarizyat",
+            "pratyajAgarizyad",
+            "pratyajAgarizyatAm",
+            "pratyajAgarizyan",
+            "pratyajAgarizyaH",
+            "pratyajAgarizyatam",
+            "pratyajAgarizyata",
+            "pratyajAgarizyam",
+            "pratyajAgarizyAva",
+            "pratyajAgarizyAma"
+          ],
+          "plrut": [
+            "pratijAgarizyati",
+            "pratijAgarizyataH",
+            "pratijAgarizyanti",
+            "pratijAgarizyasi",
+            "pratijAgarizyaTaH",
+            "pratijAgarizyaTa",
+            "pratijAgarizyAmi",
+            "pratijAgarizyAvaH",
+            "pratijAgarizyAmaH"
+          ],
+          "plung": [
+            "pratyajAgarIt",
+            "pratyajAgarId",
+            "pratyajAgarizwAm",
+            "pratyajAgarizuH",
+            "pratyajAgarIH",
+            "pratyajAgarizwam",
+            "pratyajAgarizwa",
+            "pratyajAgarizam",
+            "pratyajAgarizva",
+            "pratyajAgarizma"
+          ],
+          "plut": [
+            "pratijAgaritA",
+            "pratijAgaritArO",
+            "pratijAgaritAraH",
+            "pratijAgaritAsi",
+            "pratijAgaritAsTaH",
+            "pratijAgaritAsTa",
+            "pratijAgaritAsmi",
+            "pratijAgaritAsvaH",
+            "pratijAgaritAsmaH"
+          ],
+          "pvidhiling": [
+            "pratijAgfyAt",
+            "pratijAgfyAd",
+            "pratijAgfyAtAm",
+            "pratijAgfyuH",
+            "pratijAgfyAH",
+            "pratijAgfyAtam",
+            "pratijAgfyAta",
+            "pratijAgfyAm",
+            "pratijAgfyAva",
+            "pratijAgfyAma"
+          ]
+        },
+        "yak": {
+          "aashirling": [
+            "pratijAgarizIzwa",
+            "pratijAgarizIyAstAm",
+            "pratijAgarizIran",
+            "pratijAgarizIzWAH",
+            "pratijAgarizIyAsTAm",
+            "pratijAgarizIQvam",
+            "pratijAgarizIDvam",
+            "pratijAgarizIya",
+            "pratijAgarizIvahi",
+            "pratijAgarizImahi"
+          ],
+          "alang": [
+            "pratyajAgaryata",
+            "pratyajAgaryetAm",
+            "pratyajAgaryanta",
+            "pratyajAgaryaTAH",
+            "pratyajAgaryeTAm",
+            "pratyajAgaryaDvam",
+            "pratyajAgarye",
+            "pratyajAgaryAvahi",
+            "pratyajAgaryAmahi"
+          ],
+          "alat": [
+            "pratijAgaryate",
+            "pratijAgaryete",
+            "pratijAgaryante",
+            "pratijAgaryase",
+            "pratijAgaryeTe",
+            "pratijAgaryaDve",
+            "pratijAgarye",
+            "pratijAgaryAvahe",
+            "pratijAgaryAmahe"
+          ],
+          "alit": [
+            "pratijAgarAmbaBUve",
+            "pratijAgarAmAse",
+            "pratijAgarAYcakre",
+            "pratijajAgare",
+            "pratijAgarAmbaBUvAte",
+            "pratijAgarAmAsAte",
+            "pratijAgarAYcakrAte",
+            "pratijajAgarAte",
+            "pratijAgarAmbaBUvire",
+            "pratijAgarAmAsire",
+            "pratijAgarAYcakrire",
+            "pratijajAgarire",
+            "pratijAgarAmbaBUvize",
+            "pratijAgarAmAsize",
+            "pratijAgarAYcakfze",
+            "pratijajAgarize",
+            "pratijAgarAmbaBUvATe",
+            "pratijAgarAmAsATe",
+            "pratijAgarAYcakrATe",
+            "pratijajAgarATe",
+            "pratijAgarAmbaBUviQve",
+            "pratijAgarAmAsiDve",
+            "pratijAgarAYcakfQve",
+            "pratijajAgariQve",
+            "pratijajAgariDve",
+            "pratijAgarAmbaBUve",
+            "pratijAgarAmAhe",
+            "pratijAgarAYcakre",
+            "pratijajAgare",
+            "pratijAgarAmbaBUvivahe",
+            "pratijAgarAmAsivahe",
+            "pratijAgarAYcakfvahe",
+            "pratijajAgarivahe",
+            "pratijAgarAmbaBUvimahe",
+            "pratijAgarAmAsimahe",
+            "pratijAgarAYcakfmahe",
+            "pratijajAgarimahe"
+          ],
+          "alot": [
+            "pratijAgaryatAm",
+            "pratijAgaryetAm",
+            "pratijAgaryantAm",
+            "pratijAgaryasva",
+            "pratijAgaryeTAm",
+            "pratijAgaryaDvam",
+            "pratijAgaryE",
+            "pratijAgaryAvahE",
+            "pratijAgaryAmahE"
+          ],
+          "alrung": [
+            "pratyajAgarizyata",
+            "pratyajAgarizyetAm",
+            "pratyajAgarizyanta",
+            "pratyajAgarizyaTAH",
+            "pratyajAgarizyeTAm",
+            "pratyajAgarizyaDvam",
+            "pratyajAgarizye",
+            "pratyajAgarizyAvahi",
+            "pratyajAgarizyAmahi"
+          ],
+          "alrut": [
+            "pratijAgarizyate",
+            "pratijAgarizyete",
+            "pratijAgarizyante",
+            "pratijAgarizyase",
+            "pratijAgarizyeTe",
+            "pratijAgarizyaDve",
+            "pratijAgarizye",
+            "pratijAgarizyAvahe",
+            "pratijAgarizyAmahe"
+          ],
+          "alung": [
+            "pratyajAgAri",
+            "pratyajAgarizAtAm",
+            "pratyajAgarizata",
+            "pratyajAgarizWAH",
+            "pratyajAgarizATAm",
+            "pratyajAgariQvam",
+            "pratyajAgariDvam",
+            "pratyajAgarizi",
+            "pratyajAgarizvahi",
+            "pratyajAgarizmahi"
+          ],
+          "alut": [
+            "pratijAgaritA",
+            "pratijAgaritArO",
+            "pratijAgaritAraH",
+            "pratijAgaritAse",
+            "pratijAgaritAsATe",
+            "pratijAgaritADve",
+            "pratijAgaritAhe",
+            "pratijAgaritAsvahe",
+            "pratijAgaritAsmahe"
+          ],
+          "avidhiling": [
+            "pratijAgaryeta",
+            "pratijAgaryeyAtAm",
+            "pratijAgaryeran",
+            "pratijAgaryeTAH",
+            "pratijAgaryeyATAm",
+            "pratijAgaryeDvam",
+            "pratijAgaryeya",
+            "pratijAgaryevahi",
+            "pratijAgaryemahi"
+          ]
+        },
+        "san": {
+          "pashirling": [
+            "pratijijAgIrzyAt",
+            "pratijijAgIrzyAd",
+            "pratijijAgIrzyAstAm",
+            "pratijijAgIrzyAsuH",
+            "pratijijAgIrzyAH",
+            "pratijijAgIrzyAstam",
+            "pratijijAgIrzyAsta",
+            "pratijijAgIrzyAsam",
+            "pratijijAgIrzyAsva",
+            "pratijijAgIrzyAsma"
+          ],
+          "plang": [
+            "pratyajijAgIrzat",
+            "pratyajijAgIrzad",
+            "pratyajijAgIrzatAm",
+            "pratyajijAgIrzan",
+            "pratyajijAgIrzaH",
+            "pratyajijAgIrzatam",
+            "pratyajijAgIrzata",
+            "pratyajijAgIrzam",
+            "pratyajijAgIrzAva",
+            "pratyajijAgIrzAma"
+          ],
+          "plat": [
+            "pratijijAgIrzati",
+            "pratijijAgIrzataH",
+            "pratijijAgIrzanti",
+            "pratijijAgIrzasi",
+            "pratijijAgIrzaTaH",
+            "pratijijAgIrzaTa",
+            "pratijijAgIrzAmi",
+            "pratijijAgIrzAvaH",
+            "pratijijAgIrzAmaH"
+          ],
+          "plit": [
+            "pratijijAgIrzAmbaBUva",
+            "pratijijAgIrzAmAsa",
+            "pratijijAgIrzAYcakAra",
+            "pratijijAgIrzAmbaBUvatuH",
+            "pratijijAgIrzAmAsatuH",
+            "pratijijAgIrzAYcakratuH",
+            "pratijijAgIrzAmbaBUvuH",
+            "pratijijAgIrzAmAsuH",
+            "pratijijAgIrzAYcakruH",
+            "pratijijAgIrzAmbaBUviTa",
+            "pratijijAgIrzAmAsiTa",
+            "pratijijAgIrzAYcakarTa",
+            "pratijijAgIrzAmbaBUvaTuH",
+            "pratijijAgIrzAmAsaTuH",
+            "pratijijAgIrzAYcakraTuH",
+            "pratijijAgIrzAmbaBUva",
+            "pratijijAgIrzAmAsa",
+            "pratijijAgIrzAYcakra",
+            "pratijijAgIrzAmbaBUva",
+            "pratijijAgIrzAmAsa",
+            "pratijijAgIrzAYcakara",
+            "pratijijAgIrzAYcakAra",
+            "pratijijAgIrzAmbaBUviva",
+            "pratijijAgIrzAmAsiva",
+            "pratijijAgIrzAYcakfva",
+            "pratijijAgIrzAmbaBUvima",
+            "pratijijAgIrzAmAsima",
+            "pratijijAgIrzAYcakfma"
+          ],
+          "plot": [
+            "pratijijAgIrzatAt",
+            "pratijijAgIrzatAd",
+            "pratijijAgIrzatu",
+            "pratijijAgIrzatAm",
+            "pratijijAgIrzantu",
+            "pratijijAgIrzatAt",
+            "pratijijAgIrzatAd",
+            "pratijijAgIrza",
+            "pratijijAgIrzatam",
+            "pratijijAgIrzata",
+            "pratijijAgIrzARi",
+            "pratijijAgIrzAva",
+            "pratijijAgIrzAma"
+          ],
+          "plrung": [
+            "pratyajijAgIrzizyat",
+            "pratyajijAgIrzizyad",
+            "pratyajijAgIrzizyatAm",
+            "pratyajijAgIrzizyan",
+            "pratyajijAgIrzizyaH",
+            "pratyajijAgIrzizyatam",
+            "pratyajijAgIrzizyata",
+            "pratyajijAgIrzizyam",
+            "pratyajijAgIrzizyAva",
+            "pratyajijAgIrzizyAma"
+          ],
+          "plrut": [
+            "pratijijAgIrzizyati",
+            "pratijijAgIrzizyataH",
+            "pratijijAgIrzizyanti",
+            "pratijijAgIrzizyasi",
+            "pratijijAgIrzizyaTaH",
+            "pratijijAgIrzizyaTa",
+            "pratijijAgIrzizyAmi",
+            "pratijijAgIrzizyAvaH",
+            "pratijijAgIrzizyAmaH"
+          ],
+          "plung": [
+            "pratyajijAgIrzIt",
+            "pratyajijAgIrzId",
+            "pratyajijAgIrzizwAm",
+            "pratyajijAgIrzizuH",
+            "pratyajijAgIrzIH",
+            "pratyajijAgIrzizwam",
+            "pratyajijAgIrzizwa",
+            "pratyajijAgIrzizam",
+            "pratyajijAgIrzizva",
+            "pratyajijAgIrzizma"
+          ],
+          "plut": [
+            "pratijijAgIrzitA",
+            "pratijijAgIrzitArO",
+            "pratijijAgIrzitAraH",
+            "pratijijAgIrzitAsi",
+            "pratijijAgIrzitAsTaH",
+            "pratijijAgIrzitAsTa",
+            "pratijijAgIrzitAsmi",
+            "pratijijAgIrzitAsvaH",
+            "pratijijAgIrzitAsmaH"
+          ],
+          "pvidhiling": [
+            "pratijijAgIrzet",
+            "pratijijAgIrzed",
+            "pratijijAgIrzetAm",
+            "pratijijAgIrzeyuH",
+            "pratijijAgIrzeH",
+            "pratijijAgIrzetam",
+            "pratijijAgIrzeta",
+            "pratijijAgIrzeyam",
+            "pratijijAgIrzeva",
+            "pratijijAgIrzema"
+          ]
+        },
+        "san_yak": {
+          "aashirling": [
+            "pratijijAgIrzizIzwa",
+            "pratijijAgIrzizIyAstAm",
+            "pratijijAgIrzizIran",
+            "pratijijAgIrzizIzWAH",
+            "pratijijAgIrzizIyAsTAm",
+            "pratijijAgIrzizIDvam",
+            "pratijijAgIrzizIya",
+            "pratijijAgIrzizIvahi",
+            "pratijijAgIrzizImahi"
+          ],
+          "alang": [
+            "pratyajijAgIrzyata",
+            "pratyajijAgIrzyetAm",
+            "pratyajijAgIrzyanta",
+            "pratyajijAgIrzyaTAH",
+            "pratyajijAgIrzyeTAm",
+            "pratyajijAgIrzyaDvam",
+            "pratyajijAgIrzye",
+            "pratyajijAgIrzyAvahi",
+            "pratyajijAgIrzyAmahi"
+          ],
+          "alat": [
+            "pratijijAgIrzyate",
+            "pratijijAgIrzyete",
+            "pratijijAgIrzyante",
+            "pratijijAgIrzyase",
+            "pratijijAgIrzyeTe",
+            "pratijijAgIrzyaDve",
+            "pratijijAgIrzye",
+            "pratijijAgIrzyAvahe",
+            "pratijijAgIrzyAmahe"
+          ],
+          "alit": [
+            "pratijijAgIrzAmbaBUve",
+            "pratijijAgIrzAmAse",
+            "pratijijAgIrzAYcakre",
+            "pratijijAgIrzAmbaBUvAte",
+            "pratijijAgIrzAmAsAte",
+            "pratijijAgIrzAYcakrAte",
+            "pratijijAgIrzAmbaBUvire",
+            "pratijijAgIrzAmAsire",
+            "pratijijAgIrzAYcakrire",
+            "pratijijAgIrzAmbaBUvize",
+            "pratijijAgIrzAmAsize",
+            "pratijijAgIrzAYcakfze",
+            "pratijijAgIrzAmbaBUvATe",
+            "pratijijAgIrzAmAsATe",
+            "pratijijAgIrzAYcakrATe",
+            "pratijijAgIrzAmbaBUviQve",
+            "pratijijAgIrzAmAsiDve",
+            "pratijijAgIrzAYcakfQve",
+            "pratijijAgIrzAmbaBUve",
+            "pratijijAgIrzAmAhe",
+            "pratijijAgIrzAYcakre",
+            "pratijijAgIrzAmbaBUvivahe",
+            "pratijijAgIrzAmAsivahe",
+            "pratijijAgIrzAYcakfvahe",
+            "pratijijAgIrzAmbaBUvimahe",
+            "pratijijAgIrzAmAsimahe",
+            "pratijijAgIrzAYcakfmahe"
+          ],
+          "alot": [
+            "pratijijAgIrzyatAm",
+            "pratijijAgIrzyetAm",
+            "pratijijAgIrzyantAm",
+            "pratijijAgIrzyasva",
+            "pratijijAgIrzyeTAm",
+            "pratijijAgIrzyaDvam",
+            "pratijijAgIrzyE",
+            "pratijijAgIrzyAvahE",
+            "pratijijAgIrzyAmahE"
+          ],
+          "alrung": [
+            "pratyajijAgIrzizyata",
+            "pratyajijAgIrzizyetAm",
+            "pratyajijAgIrzizyanta",
+            "pratyajijAgIrzizyaTAH",
+            "pratyajijAgIrzizyeTAm",
+            "pratyajijAgIrzizyaDvam",
+            "pratyajijAgIrzizye",
+            "pratyajijAgIrzizyAvahi",
+            "pratyajijAgIrzizyAmahi"
+          ],
+          "alrut": [
+            "pratijijAgIrzizyate",
+            "pratijijAgIrzizyete",
+            "pratijijAgIrzizyante",
+            "pratijijAgIrzizyase",
+            "pratijijAgIrzizyeTe",
+            "pratijijAgIrzizyaDve",
+            "pratijijAgIrzizye",
+            "pratijijAgIrzizyAvahe",
+            "pratijijAgIrzizyAmahe"
+          ],
+          "alung": [
+            "pratyajijAgIrzi",
+            "pratyajijAgIrzizAtAm",
+            "pratyajijAgIrzizata",
+            "pratyajijAgIrzizWAH",
+            "pratyajijAgIrzizATAm",
+            "pratyajijAgIrziDvam",
+            "pratyajijAgIrzizi",
+            "pratyajijAgIrzizvahi",
+            "pratyajijAgIrzizmahi"
+          ],
+          "alut": [
+            "pratijijAgIrzitA",
+            "pratijijAgIrzitArO",
+            "pratijijAgIrzitAraH",
+            "pratijijAgIrzitAse",
+            "pratijijAgIrzitAsATe",
+            "pratijijAgIrzitADve",
+            "pratijijAgIrzitAhe",
+            "pratijijAgIrzitAsvahe",
+            "pratijijAgIrzitAsmahe"
+          ],
+          "avidhiling": [
+            "pratijijAgIrzyeta",
+            "pratijijAgIrzyeyAtAm",
+            "pratijijAgIrzyeran",
+            "pratijijAgIrzyeTAH",
+            "pratijijAgIrzyeyATAm",
+            "pratijijAgIrzyeDvam",
+            "pratijijAgIrzyeya",
+            "pratijijAgIrzyevahi",
+            "pratijijAgIrzyemahi"
+          ]
+        },
+        "nich": {
+          "aashirling": [
+            "pratijAgarayizIzwa",
+            "pratijAgarayizIyAstAm",
+            "pratijAgarayizIran",
+            "pratijAgarayizIzWAH",
+            "pratijAgarayizIyAsTAm",
+            "pratijAgarayizIQvam",
+            "pratijAgarayizIDvam",
+            "pratijAgarayizIya",
+            "pratijAgarayizIvahi",
+            "pratijAgarayizImahi"
+          ],
+          "alang": [
+            "pratyajAgarayata",
+            "pratyajAgarayetAm",
+            "pratyajAgarayanta",
+            "pratyajAgarayaTAH",
+            "pratyajAgarayeTAm",
+            "pratyajAgarayaDvam",
+            "pratyajAgaraye",
+            "pratyajAgarayAvahi",
+            "pratyajAgarayAmahi"
+          ],
+          "alat": [
+            "pratijAgarayate",
+            "pratijAgarayete",
+            "pratijAgarayante",
+            "pratijAgarayase",
+            "pratijAgarayeTe",
+            "pratijAgarayaDve",
+            "pratijAgaraye",
+            "pratijAgarayAvahe",
+            "pratijAgarayAmahe"
+          ],
+          "alit": [
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakre",
+            "pratijAgarayAmbaBUvatuH",
+            "pratijAgarayAmAsatuH",
+            "pratijAgarayAYcakrAte",
+            "pratijAgarayAmbaBUvuH",
+            "pratijAgarayAmAsuH",
+            "pratijAgarayAYcakrire",
+            "pratijAgarayAmbaBUviTa",
+            "pratijAgarayAmAsiTa",
+            "pratijAgarayAYcakfze",
+            "pratijAgarayAmbaBUvaTuH",
+            "pratijAgarayAmAsaTuH",
+            "pratijAgarayAYcakrATe",
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakfQve",
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakre",
+            "pratijAgarayAmbaBUviva",
+            "pratijAgarayAmAsiva",
+            "pratijAgarayAYcakfvahe",
+            "pratijAgarayAmbaBUvima",
+            "pratijAgarayAmAsima",
+            "pratijAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "pratijAgarayatAm",
+            "pratijAgarayetAm",
+            "pratijAgarayantAm",
+            "pratijAgarayasva",
+            "pratijAgarayeTAm",
+            "pratijAgarayaDvam",
+            "pratijAgarayE",
+            "pratijAgarayAvahE",
+            "pratijAgarayAmahE"
+          ],
+          "alrung": [
+            "pratyajAgarayizyata",
+            "pratyajAgarayizyetAm",
+            "pratyajAgarayizyanta",
+            "pratyajAgarayizyaTAH",
+            "pratyajAgarayizyeTAm",
+            "pratyajAgarayizyaDvam",
+            "pratyajAgarayizye",
+            "pratyajAgarayizyAvahi",
+            "pratyajAgarayizyAmahi"
+          ],
+          "alrut": [
+            "pratijAgarayizyate",
+            "pratijAgarayizyete",
+            "pratijAgarayizyante",
+            "pratijAgarayizyase",
+            "pratijAgarayizyeTe",
+            "pratijAgarayizyaDve",
+            "pratijAgarayizye",
+            "pratijAgarayizyAvahe",
+            "pratijAgarayizyAmahe"
+          ],
+          "alung": [
+            "pratyajajAgarata",
+            "pratyajajAgaretAm",
+            "pratyajajAgaranta",
+            "pratyajajAgaraTAH",
+            "pratyajajAgareTAm",
+            "pratyajajAgaraDvam",
+            "pratyajajAgare",
+            "pratyajajAgarAvahi",
+            "pratyajajAgarAmahi"
+          ],
+          "alut": [
+            "pratijAgarayitA",
+            "pratijAgarayitArO",
+            "pratijAgarayitAraH",
+            "pratijAgarayitAse",
+            "pratijAgarayitAsATe",
+            "pratijAgarayitADve",
+            "pratijAgarayitAhe",
+            "pratijAgarayitAsvahe",
+            "pratijAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "pratijAgarayeta",
+            "pratijAgarayeyAtAm",
+            "pratijAgarayeran",
+            "pratijAgarayeTAH",
+            "pratijAgarayeyATAm",
+            "pratijAgarayeDvam",
+            "pratijAgarayeya",
+            "pratijAgarayevahi",
+            "pratijAgarayemahi"
+          ],
+          "pashirling": [
+            "pratijAgaryAt",
+            "pratijAgaryAd",
+            "pratijAgaryAstAm",
+            "pratijAgaryAsuH",
+            "pratijAgaryAH",
+            "pratijAgaryAstam",
+            "pratijAgaryAsta",
+            "pratijAgaryAsam",
+            "pratijAgaryAsva",
+            "pratijAgaryAsma"
+          ],
+          "plang": [
+            "pratyajAgarayat",
+            "pratyajAgarayad",
+            "pratyajAgarayatAm",
+            "pratyajAgarayan",
+            "pratyajAgarayaH",
+            "pratyajAgarayatam",
+            "pratyajAgarayata",
+            "pratyajAgarayam",
+            "pratyajAgarayAva",
+            "pratyajAgarayAma"
+          ],
+          "plat": [
+            "pratijAgarayati",
+            "pratijAgarayataH",
+            "pratijAgarayanti",
+            "pratijAgarayasi",
+            "pratijAgarayaTaH",
+            "pratijAgarayaTa",
+            "pratijAgarayAmi",
+            "pratijAgarayAvaH",
+            "pratijAgarayAmaH"
+          ],
+          "plit": [
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakAra",
+            "pratijAgarayAmbaBUvatuH",
+            "pratijAgarayAmAsatuH",
+            "pratijAgarayAYcakratuH",
+            "pratijAgarayAmbaBUvuH",
+            "pratijAgarayAmAsuH",
+            "pratijAgarayAYcakruH",
+            "pratijAgarayAmbaBUviTa",
+            "pratijAgarayAmAsiTa",
+            "pratijAgarayAYcakarTa",
+            "pratijAgarayAmbaBUvaTuH",
+            "pratijAgarayAmAsaTuH",
+            "pratijAgarayAYcakraTuH",
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakra",
+            "pratijAgarayAmbaBUva",
+            "pratijAgarayAmAsa",
+            "pratijAgarayAYcakara",
+            "pratijAgarayAYcakAra",
+            "pratijAgarayAmbaBUviva",
+            "pratijAgarayAmAsiva",
+            "pratijAgarayAYcakfva",
+            "pratijAgarayAmbaBUvima",
+            "pratijAgarayAmAsima",
+            "pratijAgarayAYcakfma"
+          ],
+          "plot": [
+            "pratijAgarayatAt",
+            "pratijAgarayatAd",
+            "pratijAgarayatu",
+            "pratijAgarayatAm",
+            "pratijAgarayantu",
+            "pratijAgarayatAt",
+            "pratijAgarayatAd",
+            "pratijAgaraya",
+            "pratijAgarayatam",
+            "pratijAgarayata",
+            "pratijAgarayARi",
+            "pratijAgarayAva",
+            "pratijAgarayAma"
+          ],
+          "plrung": [
+            "pratyajAgarayizyat",
+            "pratyajAgarayizyad",
+            "pratyajAgarayizyatAm",
+            "pratyajAgarayizyan",
+            "pratyajAgarayizyaH",
+            "pratyajAgarayizyatam",
+            "pratyajAgarayizyata",
+            "pratyajAgarayizyam",
+            "pratyajAgarayizyAva",
+            "pratyajAgarayizyAma"
+          ],
+          "plrut": [
+            "pratijAgarayizyati",
+            "pratijAgarayizyataH",
+            "pratijAgarayizyanti",
+            "pratijAgarayizyasi",
+            "pratijAgarayizyaTaH",
+            "pratijAgarayizyaTa",
+            "pratijAgarayizyAmi",
+            "pratijAgarayizyAvaH",
+            "pratijAgarayizyAmaH"
+          ],
+          "plung": [
+            "pratyajajAgarat",
+            "pratyajajAgarad",
+            "pratyajajAgaratAm",
+            "pratyajajAgaran",
+            "pratyajajAgaraH",
+            "pratyajajAgaratam",
+            "pratyajajAgarata",
+            "pratyajajAgaram",
+            "pratyajajAgarAva",
+            "pratyajajAgarAma"
+          ],
+          "plut": [
+            "pratijAgarayitA",
+            "pratijAgarayitArO",
+            "pratijAgarayitAraH",
+            "pratijAgarayitAsi",
+            "pratijAgarayitAsTaH",
+            "pratijAgarayitAsTa",
+            "pratijAgarayitAsmi",
+            "pratijAgarayitAsvaH",
+            "pratijAgarayitAsmaH"
+          ],
+          "pvidhiling": [
+            "pratijAgarayet",
+            "pratijAgarayed",
+            "pratijAgarayetAm",
+            "pratijAgarayeyuH",
+            "pratijAgarayeH",
+            "pratijAgarayetam",
+            "pratijAgarayeta",
+            "pratijAgarayeyam",
+            "pratijAgarayeva",
+            "pratijAgarayema"
+          ]
+        },
+        "nich_yak": {
+          "aashirling": [
+            "pratijAgarizIzwa",
+            "pratijAgarayizIzwa",
+            "pratijAgarizIyAstAm",
+            "pratijAgarayizIyAstAm",
+            "pratijAgarizIran",
+            "pratijAgarayizIran",
+            "pratijAgarizIzWAH",
+            "pratijAgarayizIzWAH",
+            "pratijAgarizIyAsTAm",
+            "pratijAgarayizIyAsTAm",
+            "pratijAgarizIQvam",
+            "pratijAgarayizIQvam",
+            "pratijAgarayizIDvam",
+            "pratijAgarizIya",
+            "pratijAgarayizIya",
+            "pratijAgarizIvahi",
+            "pratijAgarayizIvahi",
+            "pratijAgarizImahi",
+            "pratijAgarayizImahi"
+          ],
+          "alang": [
+            "pratyajAgaryata",
+            "pratyajAgaryetAm",
+            "pratyajAgaryanta",
+            "pratyajAgaryaTAH",
+            "pratyajAgaryeTAm",
+            "pratyajAgaryaDvam",
+            "pratyajAgarye",
+            "pratyajAgaryAvahi",
+            "pratyajAgaryAmahi"
+          ],
+          "alat": [
+            "pratijAgaryate",
+            "pratijAgaryete",
+            "pratijAgaryante",
+            "pratijAgaryase",
+            "pratijAgaryeTe",
+            "pratijAgaryaDve",
+            "pratijAgarye",
+            "pratijAgaryAvahe",
+            "pratijAgaryAmahe"
+          ],
+          "alit": [
+            "pratijAgarayAmbaBUve",
+            "pratijAgarayAmAse",
+            "pratijAgarayAYcakre",
+            "pratijAgarayAmbaBUvAte",
+            "pratijAgarayAmAsAte",
+            "pratijAgarayAYcakrAte",
+            "pratijAgarayAmbaBUvire",
+            "pratijAgarayAmAsire",
+            "pratijAgarayAYcakrire",
+            "pratijAgarayAmbaBUvize",
+            "pratijAgarayAmAsize",
+            "pratijAgarayAYcakfze",
+            "pratijAgarayAmbaBUvATe",
+            "pratijAgarayAmAsATe",
+            "pratijAgarayAYcakrATe",
+            "pratijAgarayAmbaBUviQve",
+            "pratijAgarayAmAsiDve",
+            "pratijAgarayAYcakfQve",
+            "pratijAgarayAmbaBUve",
+            "pratijAgarayAmAhe",
+            "pratijAgarayAYcakre",
+            "pratijAgarayAmbaBUvivahe",
+            "pratijAgarayAmAsivahe",
+            "pratijAgarayAYcakfvahe",
+            "pratijAgarayAmbaBUvimahe",
+            "pratijAgarayAmAsimahe",
+            "pratijAgarayAYcakfmahe"
+          ],
+          "alot": [
+            "pratijAgaryatAm",
+            "pratijAgaryetAm",
+            "pratijAgaryantAm",
+            "pratijAgaryasva",
+            "pratijAgaryeTAm",
+            "pratijAgaryaDvam",
+            "pratijAgaryE",
+            "pratijAgaryAvahE",
+            "pratijAgaryAmahE"
+          ],
+          "alrung": [
+            "pratyajAgarizyata",
+            "pratyajAgarayizyata",
+            "pratyajAgarizyetAm",
+            "pratyajAgarayizyetAm",
+            "pratyajAgarizyanta",
+            "pratyajAgarayizyanta",
+            "pratyajAgarizyaTAH",
+            "pratyajAgarayizyaTAH",
+            "pratyajAgarizyeTAm",
+            "pratyajAgarayizyeTAm",
+            "pratyajAgarizyaDvam",
+            "pratyajAgarayizyaDvam",
+            "pratyajAgarizye",
+            "pratyajAgarayizye",
+            "pratyajAgarizyAvahi",
+            "pratyajAgarayizyAvahi",
+            "pratyajAgarizyAmahi",
+            "pratyajAgarayizyAmahi"
+          ],
+          "alrut": [
+            "pratijAgarizyate",
+            "pratijAgarayizyate",
+            "pratijAgarizyete",
+            "pratijAgarayizyete",
+            "pratijAgarizyante",
+            "pratijAgarayizyante",
+            "pratijAgarizyase",
+            "pratijAgarayizyase",
+            "pratijAgarizyeTe",
+            "pratijAgarayizyeTe",
+            "pratijAgarizyaDve",
+            "pratijAgarayizyaDve",
+            "pratijAgarizye",
+            "pratijAgarayizye",
+            "pratijAgarizyAvahe",
+            "pratijAgarayizyAvahe",
+            "pratijAgarizyAmahe",
+            "pratijAgarayizyAmahe"
+          ],
+          "alung": [
+            "pratyajAgari",
+            "pratyajAgarizAtAm",
+            "pratyajAgarayizAtAm",
+            "pratyajAgarizata",
+            "pratyajAgarayizata",
+            "pratyajAgarizWAH",
+            "pratyajAgarayizWAH",
+            "pratyajAgarizATAm",
+            "pratyajAgarayizATAm",
+            "pratyajAgariQvam",
+            "pratyajAgarayiQvam",
+            "pratyajAgarayiDvam",
+            "pratyajAgarizi",
+            "pratyajAgarayizi",
+            "pratyajAgarizvahi",
+            "pratyajAgarayizvahi",
+            "pratyajAgarizmahi",
+            "pratyajAgarayizmahi"
+          ],
+          "alut": [
+            "pratijAgaritA",
+            "pratijAgarayitA",
+            "pratijAgaritArO",
+            "pratijAgarayitArO",
+            "pratijAgaritAraH",
+            "pratijAgarayitAraH",
+            "pratijAgaritAse",
+            "pratijAgarayitAse",
+            "pratijAgaritAsATe",
+            "pratijAgarayitAsATe",
+            "pratijAgaritADve",
+            "pratijAgarayitADve",
+            "pratijAgaritAhe",
+            "pratijAgarayitAhe",
+            "pratijAgaritAsvahe",
+            "pratijAgarayitAsvahe",
+            "pratijAgaritAsmahe",
+            "pratijAgarayitAsmahe"
+          ],
+          "avidhiling": [
+            "pratijAgaryeta",
+            "pratijAgaryeyAtAm",
+            "pratijAgaryeran",
+            "pratijAgaryeTAH",
+            "pratijAgaryeyATAm",
+            "pratijAgaryeDvam",
+            "pratijAgaryeya",
+            "pratijAgaryevahi",
+            "pratijAgaryemahi"
+          ]
+        }
+      },
+      "participles": {
+        "krut": {
+          "ac": [
+            {
+              "base": "pratijAgara",
+              "m": "pratijAgaraH",
+              "f": "pratijAgarA",
+              "n": "pratijAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pratijAgaraRIya",
+              "m": "pratijAgaraRIyaH",
+              "f": "pratijAgaraRIyA",
+              "n": "pratijAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pratijAgarita",
+              "m": "pratijAgaritaH",
+              "f": "pratijAgaritA",
+              "n": "pratijAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pratijAgaritavat",
+              "m": "pratijAgaritavAn",
+              "f": "pratijAgaritavatI",
+              "n": "pratijAgaritavat/pratijAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pratijAgarti",
+              "m": "",
+              "f": "pratijAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pratijAgarAmbaBUvas",
+              "m": "pratijAgarAmbaBUvAn",
+              "f": "pratijAgarAmbaBUzI",
+              "n": "pratijAgarAmbaBUvat/pratijAgarAmbaBUvad"
+            },
+            {
+              "base": "pratijAgarAmAsivas",
+              "m": "pratijAgarAmAsivAn",
+              "f": "pratijAgarAmAsyuzI",
+              "n": "pratijAgarAmAsivat/pratijAgarAmAsivad"
+            },
+            {
+              "base": "pratijAgarAYcakfvas",
+              "m": "pratijAgarAYcakfvAn",
+              "f": "pratijAgarAYcakruzI",
+              "n": "pratijAgarAYcakfvat/pratijAgarAYcakfvad"
+            },
+            {
+              "base": "pratijajAgarvas",
+              "m": "pratijajAgarvAn",
+              "f": "pratijajAgaruzI",
+              "n": "pratijajAgarvat/pratijajAgarvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "pratijAgara",
+              "m": "pratijAgaraH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pratijAgrARa",
+              "m": "pratijAgrARaH",
+              "f": "pratijAgrARA",
+              "n": "pratijAgrARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pratijAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Ryat": [
+            {
+              "base": "pratijAgarya",
+              "m": "pratijAgaryaH",
+              "f": "pratijAgaryA",
+              "n": "pratijAgaryam"
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pratijAgaraka",
+              "m": "pratijAgarakaH",
+              "f": "pratijAgarikA",
+              "n": "pratijAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pratijAgaritavya",
+              "m": "pratijAgaritavyaH",
+              "f": "pratijAgaritavyA",
+              "n": "pratijAgaritavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pratijAgaritum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pratijAgaritf",
+              "m": "pratijAgaritA",
+              "f": "pratijAgaritrI",
+              "n": "pratijAgaritf"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pratijAgarya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pratijAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "pratijAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pratijAgaraka",
+              "m": "pratijAgarakaH",
+              "f": "pratijAgarikA",
+              "n": "pratijAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pratijAgrat",
+              "m": "pratijAgran",
+              "f": "pratijAgrantI",
+              "n": "pratijAgrat/pratijAgrad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pratijAgrat",
+              "m": "pratijAgran",
+              "f": "pratijAgratI/pratijAgrantI",
+              "n": "pratijAgrat/pratijAgrad"
+            }
+          ]
+        },
+        "san_krut": {
+          "a": [
+            {
+              "base": "pratijijAgIrzA",
+              "m": "",
+              "f": "pratijijAgIrzA",
+              "n": ""
+            }
+          ],
+          "ac": [
+            {
+              "base": "pratijijAgIrza",
+              "m": "pratijijAgIrzaH",
+              "f": "pratijijAgIrzA",
+              "n": "pratijijAgIrzam"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pratijijAgIrzaRIya",
+              "m": "pratijijAgIrzaRIyaH",
+              "f": "pratijijAgIrzaRIyA",
+              "n": "pratijijAgIrzaRIyam"
+            }
+          ],
+          "u": [
+            {
+              "base": "pratijijAgIrzu",
+              "m": "pratijijAgIrzuH",
+              "f": "pratijijAgIrzuH",
+              "n": "pratijijAgIrzu"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pratijijAgIrzita",
+              "m": "pratijijAgIrzitaH",
+              "f": "pratijijAgIrzitA",
+              "n": "pratijijAgIrzitam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pratijijAgIrzitavat",
+              "m": "pratijijAgIrzitavAn",
+              "f": "pratijijAgIrzitavatI",
+              "n": "pratijijAgIrzitavat/pratijijAgIrzitavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pratijijAgIrzwi",
+              "m": "",
+              "f": "pratijijAgIrzwiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pratijijAgIrzAmbaBUvas",
+              "m": "pratijijAgIrzAmbaBUvAn",
+              "f": "pratijijAgIrzAmbaBUzI",
+              "n": "pratijijAgIrzAmbaBUvat/pratijijAgIrzAmbaBUvad"
+            },
+            {
+              "base": "pratijijAgIrzAmAsivas",
+              "m": "pratijijAgIrzAmAsivAn",
+              "f": "pratijijAgIrzAmAsyuzI",
+              "n": "pratijijAgIrzAmAsivat/pratijijAgIrzAmAsivad"
+            },
+            {
+              "base": "pratijijAgIrzAYcakfvas",
+              "m": "pratijijAgIrzAYcakfvAn",
+              "f": "pratijijAgIrzAYcakruzI",
+              "n": "pratijijAgIrzAYcakfvat/pratijijAgIrzAYcakfvad"
+            }
+          ],
+          "GaY": [
+            {
+              "base": "pratijijAgIrza",
+              "m": "pratijijAgIrzaH",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pratijijAgIrzamARa",
+              "m": "pratijijAgIrzamARaH",
+              "f": "pratijijAgIrzamARA",
+              "n": "pratijijAgIrzamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pratijijAgIrzam",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pratijijAgIrzaka",
+              "m": "pratijijAgIrzakaH",
+              "f": "pratijijAgIrzikA",
+              "n": "pratijijAgIrzakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pratijijAgIrzitavya",
+              "m": "pratijijAgIrzitavyaH",
+              "f": "pratijijAgIrzitavyA",
+              "n": "pratijijAgIrzitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pratijijAgIrzitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pratijijAgIrzitf",
+              "m": "pratijijAgIrzitA",
+              "f": "pratijijAgIrzitrI",
+              "n": "pratijijAgIrzitf"
+            }
+          ],
+          "yat": [
+            {
+              "base": "pratijijAgIrzya",
+              "m": "pratijijAgIrzyaH",
+              "f": "pratijijAgIrzyA",
+              "n": "pratijijAgIrzyam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pratijijAgIrzya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pratijijAgIrzaRa",
+              "m": "",
+              "f": "",
+              "n": "pratijijAgIrzaRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pratijijAgIrzaka",
+              "m": "pratijijAgIrzakaH",
+              "f": "pratijijAgIrzikA",
+              "n": "pratijijAgIrzakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pratijijAgIrzat",
+              "m": "pratijijAgIrzan",
+              "f": "pratijijAgIrzantI",
+              "n": "pratijijAgIrzat/pratijijAgIrzad"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pratijijAgIrzat",
+              "m": "pratijijAgIrzan",
+              "f": "pratijijAgIrzatI/pratijijAgIrzantI",
+              "n": "pratijijAgIrzat/pratijijAgIrzad"
+            }
+          ]
+        },
+        "nich_krut": {
+          "ac": [
+            {
+              "base": "pratijAgara",
+              "m": "pratijAgaraH",
+              "f": "pratijAgarA",
+              "n": "pratijAgaram"
+            }
+          ],
+          "anIyar": [
+            {
+              "base": "pratijAgaraRIya",
+              "m": "pratijAgaraRIyaH",
+              "f": "pratijAgaraRIyA",
+              "n": "pratijAgaraRIyam"
+            }
+          ],
+          "kta": [
+            {
+              "base": "pratijAgarita",
+              "m": "pratijAgaritaH",
+              "f": "pratijAgaritA",
+              "n": "pratijAgaritam"
+            }
+          ],
+          "ktavatu": [
+            {
+              "base": "pratijAgaritavat",
+              "m": "pratijAgaritavAn",
+              "f": "pratijAgaritavatI",
+              "n": "pratijAgaritavat/pratijAgaritavad"
+            }
+          ],
+          "ktin": [
+            {
+              "base": "pratijAgarti",
+              "m": "",
+              "f": "pratijAgartiH",
+              "n": ""
+            }
+          ],
+          "kvasu": [
+            {
+              "base": "pratijAgarayAmbaBUvas",
+              "m": "pratijAgarayAmbaBUvAn",
+              "f": "pratijAgarayAmbaBUzI",
+              "n": "pratijAgarayAmbaBUvat/pratijAgarayAmbaBUvad"
+            },
+            {
+              "base": "pratijAgarayAmAsivas",
+              "m": "pratijAgarayAmAsivAn",
+              "f": "pratijAgarayAmAsyuzI",
+              "n": "pratijAgarayAmAsivat/pratijAgarayAmAsivad"
+            },
+            {
+              "base": "pratijAgarayAYcakfvas",
+              "m": "pratijAgarayAYcakfvAn",
+              "f": "pratijAgarayAYcakruzI",
+              "n": "pratijAgarayAYcakfvat/pratijAgarayAYcakfvad"
+            }
+          ],
+          "cAnaS": [
+            {
+              "base": "pratijAgarayamARa",
+              "m": "pratijAgarayamARaH",
+              "f": "pratijAgarayamARA",
+              "n": "pratijAgarayamARam"
+            }
+          ],
+          "Ramul": [
+            {
+              "base": "pratijAgaram",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "Rvul": [
+            {
+              "base": "pratijAgaraka",
+              "m": "pratijAgarakaH",
+              "f": "pratijAgarikA",
+              "n": "pratijAgarakam"
+            }
+          ],
+          "tavya": [
+            {
+              "base": "pratijAgarayitavya",
+              "m": "pratijAgarayitavyaH",
+              "f": "pratijAgarayitavyA",
+              "n": "pratijAgarayitavyam"
+            }
+          ],
+          "tumun": [
+            {
+              "base": "pratijAgarayitum",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "tfc": [
+            {
+              "base": "pratijAgarayitf",
+              "m": "pratijAgarayitA",
+              "f": "pratijAgarayitrI",
+              "n": "pratijAgarayitf"
+            }
+          ],
+          "BAvakarma-SAnac": [
+            {
+              "base": "pratijAgarayamARa",
+              "m": "pratijAgarayamARaH",
+              "f": "pratijAgarayamARA",
+              "n": "pratijAgarayamARam"
+            }
+          ],
+          "yat": [
+            {
+              "base": "pratijAgarya",
+              "m": "pratijAgaryaH",
+              "f": "pratijAgaryA",
+              "n": "pratijAgaryam"
+            }
+          ],
+          "lyap": [
+            {
+              "base": "pratijAgarayya",
+              "m": "",
+              "f": "",
+              "n": ""
+            }
+          ],
+          "lyuw": [
+            {
+              "base": "pratijAgaraRa",
+              "m": "",
+              "f": "",
+              "n": "pratijAgaraRam"
+            }
+          ],
+          "vun": [
+            {
+              "base": "pratijAgaraka",
+              "m": "pratijAgarakaH",
+              "f": "pratijAgarikA",
+              "n": "pratijAgarakam"
+            }
+          ],
+          "Satf": [
+            {
+              "base": "pratijAgarayat",
+              "m": "pratijAgarayan",
+              "f": "pratijAgarayantI",
+              "n": "pratijAgarayat/pratijAgarayad"
+            }
+          ],
+          "SAnac": [
+            {
+              "base": "pratijAgarayamARa",
+              "m": "pratijAgarayamARaH",
+              "f": "pratijAgarayamARA",
+              "n": "pratijAgarayamARam"
+            }
+          ],
+          "sya-BAvakarma-SAnac": [
+            {
+              "base": "pratijAgarayamARa",
+              "m": "pratijAgarayamARaH",
+              "f": "pratijAgarayamARA",
+              "n": "pratijAgarayamARam"
+            }
+          ],
+          "sya-Satf": [
+            {
+              "base": "pratijAgarayat",
+              "m": "pratijAgarayan",
+              "f": "pratijAgarayatI/pratijAgarayantI",
+              "n": "pratijAgarayat/pratijAgarayad"
+            }
+          ],
+          "sya-SAnac": [
+            {
+              "base": "pratijAgarayamARa",
+              "m": "pratijAgarayamARaH",
+              "f": "pratijAgarayamARA",
+              "n": "pratijAgarayamARam"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

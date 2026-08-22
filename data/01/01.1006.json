@@ -1,0 +1,3322 @@
+{
+  "id": "01.1006",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "midf~"
+    },
+    {
+      "name": "arTaH",
+      "value": "meDAhiMsanayoH"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to understand, to know, to hurt, to injure, to cause trouble"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "samaJanA, jAnanA, pIq0A denA, duHKa denA, hAni karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "TAntaH iti svAmI . DAntaH iti nyAsaH ' iti kOmudI . ' fdito medate medenmeDAhiMsanayordvayo: ' (Slo. 104) iti devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "BidAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "uBayapadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "868"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "868"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2362",
+      "ext_link": "/sutraani/sk2362?scroll=sutra-commentary-kaumudi-region&highlight=maidaf"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "medizIzwa",
+        "medizIyAstAm",
+        "medizIran",
+        "medizIzWAH",
+        "medizIyAsTAm",
+        "medizIDvam",
+        "medizIya",
+        "medizIvahi",
+        "medizImahi"
+      ],
+      "alang": [
+        "amedata",
+        "amedetAm",
+        "amedanta",
+        "amedaTAH",
+        "amedeTAm",
+        "amedaDvam",
+        "amede",
+        "amedAvahi",
+        "amedAmahi"
+      ],
+      "alat": [
+        "medate",
+        "medete",
+        "medante",
+        "medase",
+        "medeTe",
+        "medaDve",
+        "mede",
+        "medAvahe",
+        "medAmahe"
+      ],
+      "alit": [
+        "mimide",
+        "mimidAte",
+        "mimidire",
+        "mimidize",
+        "mimidATe",
+        "mimidiDve",
+        "mimide",
+        "mimidivahe",
+        "mimidimahe"
+      ],
+      "alot": [
+        "medatAm",
+        "medetAm",
+        "medantAm",
+        "medasva",
+        "medeTAm",
+        "medaDvam",
+        "medE",
+        "medAvahE",
+        "medAmahE"
+      ],
+      "alrung": [
+        "amedizyata",
+        "amedizyetAm",
+        "amedizyanta",
+        "amedizyaTAH",
+        "amedizyeTAm",
+        "amedizyaDvam",
+        "amedizye",
+        "amedizyAvahi",
+        "amedizyAmahi"
+      ],
+      "alrut": [
+        "medizyate",
+        "medizyete",
+        "medizyante",
+        "medizyase",
+        "medizyeTe",
+        "medizyaDve",
+        "medizye",
+        "medizyAvahe",
+        "medizyAmahe"
+      ],
+      "alung": [
+        "amedizwa",
+        "amedizAtAm",
+        "amedizata",
+        "amedizWAH",
+        "amedizATAm",
+        "amediDvam",
+        "amedizi",
+        "amedizvahi",
+        "amedizmahi"
+      ],
+      "alut": [
+        "meditA",
+        "meditArO",
+        "meditAraH",
+        "meditAse",
+        "meditAsATe",
+        "meditADve",
+        "meditAhe",
+        "meditAsvahe",
+        "meditAsmahe"
+      ],
+      "avidhiling": [
+        "medeta",
+        "medeyAtAm",
+        "mederan",
+        "medeTAH",
+        "medeyATAm",
+        "medeDvam",
+        "medeya",
+        "medevahi",
+        "medemahi"
+      ],
+      "pashirling": [
+        "midyAt",
+        "midyAd",
+        "midyAstAm",
+        "midyAsuH",
+        "midyAH",
+        "midyAstam",
+        "midyAsta",
+        "midyAsam",
+        "midyAsva",
+        "midyAsma"
+      ],
+      "plang": [
+        "amedat",
+        "amedad",
+        "amedatAm",
+        "amedan",
+        "amedaH",
+        "amedatam",
+        "amedata",
+        "amedam",
+        "amedAva",
+        "amedAma"
+      ],
+      "plat": [
+        "medati",
+        "medataH",
+        "medanti",
+        "medasi",
+        "medaTaH",
+        "medaTa",
+        "medAmi",
+        "medAvaH",
+        "medAmaH"
+      ],
+      "plit": [
+        "mimeda",
+        "mimidatuH",
+        "mimiduH",
+        "mimediTa",
+        "mimidaTuH",
+        "mimida",
+        "mimeda",
+        "mimidiva",
+        "mimidima"
+      ],
+      "plot": [
+        "medatAt",
+        "medatAd",
+        "medatu",
+        "medatAm",
+        "medantu",
+        "meda",
+        "medatAt",
+        "medatAd",
+        "medatam",
+        "medata",
+        "medAni",
+        "medAva",
+        "medAma"
+      ],
+      "plrung": [
+        "amedizyat",
+        "amedizyad",
+        "amedizyatAm",
+        "amedizyan",
+        "amedizyaH",
+        "amedizyatam",
+        "amedizyata",
+        "amedizyam",
+        "amedizyAva",
+        "amedizyAma"
+      ],
+      "plrut": [
+        "medizyati",
+        "medizyataH",
+        "medizyanti",
+        "medizyasi",
+        "medizyaTaH",
+        "medizyaTa",
+        "medizyAmi",
+        "medizyAvaH",
+        "medizyAmaH"
+      ],
+      "plung": [
+        "amedIt",
+        "amedId",
+        "amedizwAm",
+        "amedizuH",
+        "amedIH",
+        "amedizwam",
+        "amedizwa",
+        "amedizam",
+        "amedizva",
+        "amedizma"
+      ],
+      "plut": [
+        "meditA",
+        "meditArO",
+        "meditAraH",
+        "meditAsi",
+        "meditAsTaH",
+        "meditAsTa",
+        "meditAsmi",
+        "meditAsvaH",
+        "meditAsmaH"
+      ],
+      "pvidhiling": [
+        "medet",
+        "meded",
+        "medetAm",
+        "medeyuH",
+        "medeH",
+        "medetam",
+        "medeta",
+        "medeyam",
+        "medeva",
+        "medema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "medizIzwa",
+        "medizIyAstAm",
+        "medizIran",
+        "medizIzWAH",
+        "medizIyAsTAm",
+        "medizIDvam",
+        "medizIya",
+        "medizIvahi",
+        "medizImahi"
+      ],
+      "alang": [
+        "amidyata",
+        "amidyetAm",
+        "amidyanta",
+        "amidyaTAH",
+        "amidyeTAm",
+        "amidyaDvam",
+        "amidye",
+        "amidyAvahi",
+        "amidyAmahi"
+      ],
+      "alat": [
+        "midyate",
+        "midyete",
+        "midyante",
+        "midyase",
+        "midyeTe",
+        "midyaDve",
+        "midye",
+        "midyAvahe",
+        "midyAmahe"
+      ],
+      "alit": [
+        "mimide",
+        "mimidAte",
+        "mimidire",
+        "mimidize",
+        "mimidATe",
+        "mimidiDve",
+        "mimide",
+        "mimidivahe",
+        "mimidimahe"
+      ],
+      "alot": [
+        "midyatAm",
+        "midyetAm",
+        "midyantAm",
+        "midyasva",
+        "midyeTAm",
+        "midyaDvam",
+        "midyE",
+        "midyAvahE",
+        "midyAmahE"
+      ],
+      "alrung": [
+        "amedizyata",
+        "amedizyetAm",
+        "amedizyanta",
+        "amedizyaTAH",
+        "amedizyeTAm",
+        "amedizyaDvam",
+        "amedizye",
+        "amedizyAvahi",
+        "amedizyAmahi"
+      ],
+      "alrut": [
+        "medizyate",
+        "medizyete",
+        "medizyante",
+        "medizyase",
+        "medizyeTe",
+        "medizyaDve",
+        "medizye",
+        "medizyAvahe",
+        "medizyAmahe"
+      ],
+      "alung": [
+        "amedi",
+        "amedizAtAm",
+        "amedizata",
+        "amedizWAH",
+        "amedizATAm",
+        "amediDvam",
+        "amedizi",
+        "amedizvahi",
+        "amedizmahi"
+      ],
+      "alut": [
+        "meditA",
+        "meditArO",
+        "meditAraH",
+        "meditAse",
+        "meditAsATe",
+        "meditADve",
+        "meditAhe",
+        "meditAsvahe",
+        "meditAsmahe"
+      ],
+      "avidhiling": [
+        "midyeta",
+        "midyeyAtAm",
+        "midyeran",
+        "midyeTAH",
+        "midyeyATAm",
+        "midyeDvam",
+        "midyeya",
+        "midyevahi",
+        "midyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "mimidizizIzwa",
+        "mimedizizIzwa",
+        "mimidizizIyAstAm",
+        "mimedizizIyAstAm",
+        "mimidizizIran",
+        "mimedizizIran",
+        "mimidizizIzWAH",
+        "mimedizizIzWAH",
+        "mimidizizIyAsTAm",
+        "mimedizizIyAsTAm",
+        "mimidizizIDvam",
+        "mimedizizIDvam",
+        "mimidizizIya",
+        "mimedizizIya",
+        "mimidizizIvahi",
+        "mimedizizIvahi",
+        "mimidizizImahi",
+        "mimedizizImahi"
+      ],
+      "alang": [
+        "amimidizata",
+        "amimedizata",
+        "amimidizetAm",
+        "amimedizetAm",
+        "amimidizanta",
+        "amimedizanta",
+        "amimidizaTAH",
+        "amimedizaTAH",
+        "amimidizeTAm",
+        "amimedizeTAm",
+        "amimidizaDvam",
+        "amimedizaDvam",
+        "amimidize",
+        "amimedize",
+        "amimidizAvahi",
+        "amimedizAvahi",
+        "amimidizAmahi",
+        "amimedizAmahi"
+      ],
+      "alat": [
+        "mimidizate",
+        "mimedizate",
+        "mimidizete",
+        "mimedizete",
+        "mimidizante",
+        "mimedizante",
+        "mimidizase",
+        "mimedizase",
+        "mimidizeTe",
+        "mimedizeTe",
+        "mimidizaDve",
+        "mimedizaDve",
+        "mimidize",
+        "mimedize",
+        "mimidizAvahe",
+        "mimedizAvahe",
+        "mimidizAmahe",
+        "mimedizAmahe"
+      ],
+      "alit": [
+        "mimidizAYcakre",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakre",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakrAte",
+        "mimidizAmAsatuH",
+        "mimidizAmbaBUvatuH",
+        "mimedizAYcakrAte",
+        "mimedizAmAsatuH",
+        "mimedizAmbaBUvatuH",
+        "mimidizAYcakrire",
+        "mimidizAmAsuH",
+        "mimidizAmbaBUvuH",
+        "mimedizAYcakrire",
+        "mimedizAmAsuH",
+        "mimedizAmbaBUvuH",
+        "mimidizAYcakfze",
+        "mimidizAmAsiTa",
+        "mimidizAmbaBUviTa",
+        "mimedizAYcakfze",
+        "mimedizAmAsiTa",
+        "mimedizAmbaBUviTa",
+        "mimidizAYcakrATe",
+        "mimidizAmAsaTuH",
+        "mimidizAmbaBUvaTuH",
+        "mimedizAYcakrATe",
+        "mimedizAmAsaTuH",
+        "mimedizAmbaBUvaTuH",
+        "mimidizAYcakfQve",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakfQve",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakre",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakre",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakfvahe",
+        "mimidizAmAsiva",
+        "mimidizAmbaBUviva",
+        "mimedizAYcakfvahe",
+        "mimedizAmAsiva",
+        "mimedizAmbaBUviva",
+        "mimidizAYcakfmahe",
+        "mimidizAmAsima",
+        "mimidizAmbaBUvima",
+        "mimedizAYcakfmahe",
+        "mimedizAmAsima",
+        "mimedizAmbaBUvima"
+      ],
+      "alot": [
+        "mimidizatAm",
+        "mimedizatAm",
+        "mimidizetAm",
+        "mimedizetAm",
+        "mimidizantAm",
+        "mimedizantAm",
+        "mimidizasva",
+        "mimedizasva",
+        "mimidizeTAm",
+        "mimedizeTAm",
+        "mimidizaDvam",
+        "mimedizaDvam",
+        "mimidizE",
+        "mimedizE",
+        "mimidizAvahE",
+        "mimedizAvahE",
+        "mimidizAmahE",
+        "mimedizAmahE"
+      ],
+      "alrung": [
+        "amimidizizyata",
+        "amimedizizyata",
+        "amimidizizyetAm",
+        "amimedizizyetAm",
+        "amimidizizyanta",
+        "amimedizizyanta",
+        "amimidizizyaTAH",
+        "amimedizizyaTAH",
+        "amimidizizyeTAm",
+        "amimedizizyeTAm",
+        "amimidizizyaDvam",
+        "amimedizizyaDvam",
+        "amimidizizye",
+        "amimedizizye",
+        "amimidizizyAvahi",
+        "amimedizizyAvahi",
+        "amimidizizyAmahi",
+        "amimedizizyAmahi"
+      ],
+      "alrut": [
+        "mimidizizyate",
+        "mimedizizyate",
+        "mimidizizyete",
+        "mimedizizyete",
+        "mimidizizyante",
+        "mimedizizyante",
+        "mimidizizyase",
+        "mimedizizyase",
+        "mimidizizyeTe",
+        "mimedizizyeTe",
+        "mimidizizyaDve",
+        "mimedizizyaDve",
+        "mimidizizye",
+        "mimedizizye",
+        "mimidizizyAvahe",
+        "mimedizizyAvahe",
+        "mimidizizyAmahe",
+        "mimedizizyAmahe"
+      ],
+      "alung": [
+        "amimidizizwa",
+        "amimedizizwa",
+        "amimidizizAtAm",
+        "amimedizizAtAm",
+        "amimidizizata",
+        "amimedizizata",
+        "amimidizizWAH",
+        "amimedizizWAH",
+        "amimidizizATAm",
+        "amimedizizATAm",
+        "amimidiziDvam",
+        "amimediziDvam",
+        "amimidizizi",
+        "amimedizizi",
+        "amimidizizvahi",
+        "amimedizizvahi",
+        "amimidizizmahi",
+        "amimedizizmahi"
+      ],
+      "alut": [
+        "mimidizitA",
+        "mimedizitA",
+        "mimidizitArO",
+        "mimedizitArO",
+        "mimidizitAraH",
+        "mimedizitAraH",
+        "mimidizitAse",
+        "mimedizitAse",
+        "mimidizitAsATe",
+        "mimedizitAsATe",
+        "mimidizitADve",
+        "mimedizitADve",
+        "mimidizitAhe",
+        "mimedizitAhe",
+        "mimidizitAsvahe",
+        "mimedizitAsvahe",
+        "mimidizitAsmahe",
+        "mimedizitAsmahe"
+      ],
+      "avidhiling": [
+        "mimidizeta",
+        "mimedizeta",
+        "mimidizeyAtAm",
+        "mimedizeyAtAm",
+        "mimidizeran",
+        "mimedizeran",
+        "mimidizeTAH",
+        "mimedizeTAH",
+        "mimidizeyATAm",
+        "mimedizeyATAm",
+        "mimidizeDvam",
+        "mimedizeDvam",
+        "mimidizeya",
+        "mimedizeya",
+        "mimidizevahi",
+        "mimedizevahi",
+        "mimidizemahi",
+        "mimedizemahi"
+      ],
+      "pashirling": [
+        "mimidizyAt",
+        "mimidizyAd",
+        "mimedizyAt",
+        "mimedizyAd",
+        "mimidizyAstAm",
+        "mimedizyAstAm",
+        "mimidizyAsuH",
+        "mimedizyAsuH",
+        "mimidizyAH",
+        "mimedizyAH",
+        "mimidizyAstam",
+        "mimedizyAstam",
+        "mimidizyAsta",
+        "mimedizyAsta",
+        "mimidizyAsam",
+        "mimedizyAsam",
+        "mimidizyAsva",
+        "mimedizyAsva",
+        "mimidizyAsma",
+        "mimedizyAsma"
+      ],
+      "plang": [
+        "amimidizat",
+        "amimidizad",
+        "amimedizat",
+        "amimedizad",
+        "amimidizatAm",
+        "amimedizatAm",
+        "amimidizan",
+        "amimedizan",
+        "amimidizaH",
+        "amimedizaH",
+        "amimidizatam",
+        "amimedizatam",
+        "amimidizata",
+        "amimedizata",
+        "amimidizam",
+        "amimedizam",
+        "amimidizAva",
+        "amimedizAva",
+        "amimidizAma",
+        "amimedizAma"
+      ],
+      "plat": [
+        "mimidizati",
+        "mimedizati",
+        "mimidizataH",
+        "mimedizataH",
+        "mimidizanti",
+        "mimedizanti",
+        "mimidizasi",
+        "mimedizasi",
+        "mimidizaTaH",
+        "mimedizaTaH",
+        "mimidizaTa",
+        "mimedizaTa",
+        "mimidizAmi",
+        "mimedizAmi",
+        "mimidizAvaH",
+        "mimedizAvaH",
+        "mimidizAmaH",
+        "mimedizAmaH"
+      ],
+      "plit": [
+        "mimidizAYcakAra",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakAra",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakratuH",
+        "mimidizAmAsatuH",
+        "mimidizAmbaBUvatuH",
+        "mimedizAYcakratuH",
+        "mimedizAmAsatuH",
+        "mimedizAmbaBUvatuH",
+        "mimidizAYcakruH",
+        "mimidizAmAsuH",
+        "mimidizAmbaBUvuH",
+        "mimedizAYcakruH",
+        "mimedizAmAsuH",
+        "mimedizAmbaBUvuH",
+        "mimidizAYcakarTa",
+        "mimidizAmAsiTa",
+        "mimidizAmbaBUviTa",
+        "mimedizAYcakarTa",
+        "mimedizAmAsiTa",
+        "mimedizAmbaBUviTa",
+        "mimidizAYcakraTuH",
+        "mimidizAmAsaTuH",
+        "mimidizAmbaBUvaTuH",
+        "mimedizAYcakraTuH",
+        "mimedizAmAsaTuH",
+        "mimedizAmbaBUvaTuH",
+        "mimidizAYcakra",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakra",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakara",
+        "mimidizAYcakAra",
+        "mimidizAmAsa",
+        "mimidizAmbaBUva",
+        "mimedizAYcakara",
+        "mimedizAYcakAra",
+        "mimedizAmAsa",
+        "mimedizAmbaBUva",
+        "mimidizAYcakfva",
+        "mimidizAmAsiva",
+        "mimidizAmbaBUviva",
+        "mimedizAYcakfva",
+        "mimedizAmAsiva",
+        "mimedizAmbaBUviva",
+        "mimidizAYcakfma",
+        "mimidizAmAsima",
+        "mimidizAmbaBUvima",
+        "mimedizAYcakfma",
+        "mimedizAmAsima",
+        "mimedizAmbaBUvima"
+      ],
+      "plot": [
+        "mimidizatAt",
+        "mimidizatAd",
+        "mimidizatu",
+        "mimedizatAt",
+        "mimedizatAd",
+        "mimedizatu",
+        "mimidizatAm",
+        "mimedizatAm",
+        "mimidizantu",
+        "mimedizantu",
+        "mimidiza",
+        "mimidizatAt",
+        "mimidizatAd",
+        "mimediza",
+        "mimedizatAt",
+        "mimedizatAd",
+        "mimidizatam",
+        "mimedizatam",
+        "mimidizata",
+        "mimedizata",
+        "mimidizARi",
+        "mimedizARi",
+        "mimidizAva",
+        "mimedizAva",
+        "mimidizAma",
+        "mimedizAma"
+      ],
+      "plrung": [
+        "amimidizizyat",
+        "amimidizizyad",
+        "amimedizizyat",
+        "amimedizizyad",
+        "amimidizizyatAm",
+        "amimedizizyatAm",
+        "amimidizizyan",
+        "amimedizizyan",
+        "amimidizizyaH",
+        "amimedizizyaH",
+        "amimidizizyatam",
+        "amimedizizyatam",
+        "amimidizizyata",
+        "amimedizizyata",
+        "amimidizizyam",
+        "amimedizizyam",
+        "amimidizizyAva",
+        "amimedizizyAva",
+        "amimidizizyAma",
+        "amimedizizyAma"
+      ],
+      "plrut": [
+        "mimidizizyati",
+        "mimedizizyati",
+        "mimidizizyataH",
+        "mimedizizyataH",
+        "mimidizizyanti",
+        "mimedizizyanti",
+        "mimidizizyasi",
+        "mimedizizyasi",
+        "mimidizizyaTaH",
+        "mimedizizyaTaH",
+        "mimidizizyaTa",
+        "mimedizizyaTa",
+        "mimidizizyAmi",
+        "mimedizizyAmi",
+        "mimidizizyAvaH",
+        "mimedizizyAvaH",
+        "mimidizizyAmaH",
+        "mimedizizyAmaH"
+      ],
+      "plung": [
+        "amimidizIt",
+        "amimidizId",
+        "amimedizIt",
+        "amimedizId",
+        "amimidizizwAm",
+        "amimedizizwAm",
+        "amimidizizuH",
+        "amimedizizuH",
+        "amimidizIH",
+        "amimedizIH",
+        "amimidizizwam",
+        "amimedizizwam",
+        "amimidizizwa",
+        "amimedizizwa",
+        "amimidizizam",
+        "amimedizizam",
+        "amimidizizva",
+        "amimedizizva",
+        "amimidizizma",
+        "amimedizizma"
+      ],
+      "plut": [
+        "mimidizitA",
+        "mimedizitA",
+        "mimidizitArO",
+        "mimedizitArO",
+        "mimidizitAraH",
+        "mimedizitAraH",
+        "mimidizitAsi",
+        "mimedizitAsi",
+        "mimidizitAsTaH",
+        "mimedizitAsTaH",
+        "mimidizitAsTa",
+        "mimedizitAsTa",
+        "mimidizitAsmi",
+        "mimedizitAsmi",
+        "mimidizitAsvaH",
+        "mimedizitAsvaH",
+        "mimidizitAsmaH",
+        "mimedizitAsmaH"
+      ],
+      "pvidhiling": [
+        "mimidizet",
+        "mimidized",
+        "mimedizet",
+        "mimedized",
+        "mimidizetAm",
+        "mimedizetAm",
+        "mimidizeyuH",
+        "mimedizeyuH",
+        "mimidizeH",
+        "mimedizeH",
+        "mimidizetam",
+        "mimedizetam",
+        "mimidizeta",
+        "mimedizeta",
+        "mimidizeyam",
+        "mimedizeyam",
+        "mimidizeva",
+        "mimedizeva",
+        "mimidizema",
+        "mimedizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "mimidizizIzwa",
+        "mimedizizIzwa",
+        "mimidizizIyAstAm",
+        "mimedizizIyAstAm",
+        "mimidizizIran",
+        "mimedizizIran",
+        "mimidizizIzWAH",
+        "mimedizizIzWAH",
+        "mimidizizIyAsTAm",
+        "mimedizizIyAsTAm",
+        "mimidizizIDvam",
+        "mimedizizIDvam",
+        "mimidizizIya",
+        "mimedizizIya",
+        "mimidizizIvahi",
+        "mimedizizIvahi",
+        "mimidizizImahi",
+        "mimedizizImahi"
+      ],
+      "alang": [
+        "amimidizyata",
+        "amimedizyata",
+        "amimidizyetAm",
+        "amimedizyetAm",
+        "amimidizyanta",
+        "amimedizyanta",
+        "amimidizyaTAH",
+        "amimedizyaTAH",
+        "amimidizyeTAm",
+        "amimedizyeTAm",
+        "amimidizyaDvam",
+        "amimedizyaDvam",
+        "amimidizye",
+        "amimedizye",
+        "amimidizyAvahi",
+        "amimedizyAvahi",
+        "amimidizyAmahi",
+        "amimedizyAmahi"
+      ],
+      "alat": [
+        "mimidizyate",
+        "mimedizyate",
+        "mimidizyete",
+        "mimedizyete",
+        "mimidizyante",
+        "mimedizyante",
+        "mimidizyase",
+        "mimedizyase",
+        "mimidizyeTe",
+        "mimedizyeTe",
+        "mimidizyaDve",
+        "mimedizyaDve",
+        "mimidizye",
+        "mimedizye",
+        "mimidizyAvahe",
+        "mimedizyAvahe",
+        "mimidizyAmahe",
+        "mimedizyAmahe"
+      ],
+      "alit": [
+        "mimidizAYcakre",
+        "mimidizAmAse",
+        "mimidizAmbaBUve",
+        "mimedizAYcakre",
+        "mimedizAmAse",
+        "mimedizAmbaBUve",
+        "mimidizAYcakrAte",
+        "mimidizAmAsAte",
+        "mimidizAmbaBUvAte",
+        "mimedizAYcakrAte",
+        "mimedizAmAsAte",
+        "mimedizAmbaBUvAte",
+        "mimidizAYcakrire",
+        "mimidizAmAsire",
+        "mimidizAmbaBUvire",
+        "mimedizAYcakrire",
+        "mimedizAmAsire",
+        "mimedizAmbaBUvire",
+        "mimidizAYcakfze",
+        "mimidizAmAsize",
+        "mimidizAmbaBUvize",
+        "mimedizAYcakfze",
+        "mimedizAmAsize",
+        "mimedizAmbaBUvize",
+        "mimidizAYcakrATe",
+        "mimidizAmAsATe",
+        "mimidizAmbaBUvATe",
+        "mimedizAYcakrATe",
+        "mimedizAmAsATe",
+        "mimedizAmbaBUvATe",
+        "mimidizAYcakfQve",
+        "mimidizAmAsiDve",
+        "mimidizAmbaBUviQve",
+        "mimedizAYcakfQve",
+        "mimedizAmAsiDve",
+        "mimedizAmbaBUviQve",
+        "mimidizAYcakre",
+        "mimidizAmAhe",
+        "mimidizAmbaBUve",
+        "mimedizAYcakre",
+        "mimedizAmAhe",
+        "mimedizAmbaBUve",
+        "mimidizAYcakfvahe",
+        "mimidizAmAsivahe",
+        "mimidizAmbaBUvivahe",
+        "mimedizAYcakfvahe",
+        "mimedizAmAsivahe",
+        "mimedizAmbaBUvivahe",
+        "mimidizAYcakfmahe",
+        "mimidizAmAsimahe",
+        "mimidizAmbaBUvimahe",
+        "mimedizAYcakfmahe",
+        "mimedizAmAsimahe",
+        "mimedizAmbaBUvimahe"
+      ],
+      "alot": [
+        "mimidizyatAm",
+        "mimedizyatAm",
+        "mimidizyetAm",
+        "mimedizyetAm",
+        "mimidizyantAm",
+        "mimedizyantAm",
+        "mimidizyasva",
+        "mimedizyasva",
+        "mimidizyeTAm",
+        "mimedizyeTAm",
+        "mimidizyaDvam",
+        "mimedizyaDvam",
+        "mimidizyE",
+        "mimedizyE",
+        "mimidizyAvahE",
+        "mimedizyAvahE",
+        "mimidizyAmahE",
+        "mimedizyAmahE"
+      ],
+      "alrung": [
+        "amimidizizyata",
+        "amimedizizyata",
+        "amimidizizyetAm",
+        "amimedizizyetAm",
+        "amimidizizyanta",
+        "amimedizizyanta",
+        "amimidizizyaTAH",
+        "amimedizizyaTAH",
+        "amimidizizyeTAm",
+        "amimedizizyeTAm",
+        "amimidizizyaDvam",
+        "amimedizizyaDvam",
+        "amimidizizye",
+        "amimedizizye",
+        "amimidizizyAvahi",
+        "amimedizizyAvahi",
+        "amimidizizyAmahi",
+        "amimedizizyAmahi"
+      ],
+      "alrut": [
+        "mimidizizyate",
+        "mimedizizyate",
+        "mimidizizyete",
+        "mimedizizyete",
+        "mimidizizyante",
+        "mimedizizyante",
+        "mimidizizyase",
+        "mimedizizyase",
+        "mimidizizyeTe",
+        "mimedizizyeTe",
+        "mimidizizyaDve",
+        "mimedizizyaDve",
+        "mimidizizye",
+        "mimedizizye",
+        "mimidizizyAvahe",
+        "mimedizizyAvahe",
+        "mimidizizyAmahe",
+        "mimedizizyAmahe"
+      ],
+      "alung": [
+        "amimidizi",
+        "amimedizi",
+        "amimidizizAtAm",
+        "amimedizizAtAm",
+        "amimidizizata",
+        "amimedizizata",
+        "amimidizizWAH",
+        "amimedizizWAH",
+        "amimidizizATAm",
+        "amimedizizATAm",
+        "amimidiziDvam",
+        "amimediziDvam",
+        "amimidizizi",
+        "amimedizizi",
+        "amimidizizvahi",
+        "amimedizizvahi",
+        "amimidizizmahi",
+        "amimedizizmahi"
+      ],
+      "alut": [
+        "mimidizitA",
+        "mimedizitA",
+        "mimidizitArO",
+        "mimedizitArO",
+        "mimidizitAraH",
+        "mimedizitAraH",
+        "mimidizitAse",
+        "mimedizitAse",
+        "mimidizitAsATe",
+        "mimedizitAsATe",
+        "mimidizitADve",
+        "mimedizitADve",
+        "mimidizitAhe",
+        "mimedizitAhe",
+        "mimidizitAsvahe",
+        "mimedizitAsvahe",
+        "mimidizitAsmahe",
+        "mimedizitAsmahe"
+      ],
+      "avidhiling": [
+        "mimidizyeta",
+        "mimedizyeta",
+        "mimidizyeyAtAm",
+        "mimedizyeyAtAm",
+        "mimidizyeran",
+        "mimedizyeran",
+        "mimidizyeTAH",
+        "mimedizyeTAH",
+        "mimidizyeyATAm",
+        "mimedizyeyATAm",
+        "mimidizyeDvam",
+        "mimedizyeDvam",
+        "mimidizyeya",
+        "mimedizyeya",
+        "mimidizyevahi",
+        "mimedizyevahi",
+        "mimidizyemahi",
+        "mimedizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "medayizIzwa",
+        "medayizIyAstAm",
+        "medayizIran",
+        "medayizIzWAH",
+        "medayizIyAsTAm",
+        "medayizIQvam",
+        "medayizIDvam",
+        "medayizIya",
+        "medayizIvahi",
+        "medayizImahi"
+      ],
+      "alang": [
+        "amedayata",
+        "amedayetAm",
+        "amedayanta",
+        "amedayaTAH",
+        "amedayeTAm",
+        "amedayaDvam",
+        "amedaye",
+        "amedayAvahi",
+        "amedayAmahi"
+      ],
+      "alat": [
+        "medayate",
+        "medayete",
+        "medayante",
+        "medayase",
+        "medayeTe",
+        "medayaDve",
+        "medaye",
+        "medayAvahe",
+        "medayAmahe"
+      ],
+      "alit": [
+        "medayAYcakre",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakrAte",
+        "medayAmAsatuH",
+        "medayAmbaBUvatuH",
+        "medayAYcakrire",
+        "medayAmAsuH",
+        "medayAmbaBUvuH",
+        "medayAYcakfze",
+        "medayAmAsiTa",
+        "medayAmbaBUviTa",
+        "medayAYcakrATe",
+        "medayAmAsaTuH",
+        "medayAmbaBUvaTuH",
+        "medayAYcakfQve",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakre",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakfvahe",
+        "medayAmAsiva",
+        "medayAmbaBUviva",
+        "medayAYcakfmahe",
+        "medayAmAsima",
+        "medayAmbaBUvima"
+      ],
+      "alot": [
+        "medayatAm",
+        "medayetAm",
+        "medayantAm",
+        "medayasva",
+        "medayeTAm",
+        "medayaDvam",
+        "medayE",
+        "medayAvahE",
+        "medayAmahE"
+      ],
+      "alrung": [
+        "amedayizyata",
+        "amedayizyetAm",
+        "amedayizyanta",
+        "amedayizyaTAH",
+        "amedayizyeTAm",
+        "amedayizyaDvam",
+        "amedayizye",
+        "amedayizyAvahi",
+        "amedayizyAmahi"
+      ],
+      "alrut": [
+        "medayizyate",
+        "medayizyete",
+        "medayizyante",
+        "medayizyase",
+        "medayizyeTe",
+        "medayizyaDve",
+        "medayizye",
+        "medayizyAvahe",
+        "medayizyAmahe"
+      ],
+      "alung": [
+        "amimedata",
+        "amimedetAm",
+        "amimedanta",
+        "amimedaTAH",
+        "amimedeTAm",
+        "amimedaDvam",
+        "amimede",
+        "amimedAvahi",
+        "amimedAmahi"
+      ],
+      "alut": [
+        "medayitA",
+        "medayitArO",
+        "medayitAraH",
+        "medayitAse",
+        "medayitAsATe",
+        "medayitADve",
+        "medayitAhe",
+        "medayitAsvahe",
+        "medayitAsmahe"
+      ],
+      "avidhiling": [
+        "medayeta",
+        "medayeyAtAm",
+        "medayeran",
+        "medayeTAH",
+        "medayeyATAm",
+        "medayeDvam",
+        "medayeya",
+        "medayevahi",
+        "medayemahi"
+      ],
+      "pashirling": [
+        "medyAt",
+        "medyAd",
+        "medyAstAm",
+        "medyAsuH",
+        "medyAH",
+        "medyAstam",
+        "medyAsta",
+        "medyAsam",
+        "medyAsva",
+        "medyAsma"
+      ],
+      "plang": [
+        "amedayat",
+        "amedayad",
+        "amedayatAm",
+        "amedayan",
+        "amedayaH",
+        "amedayatam",
+        "amedayata",
+        "amedayam",
+        "amedayAva",
+        "amedayAma"
+      ],
+      "plat": [
+        "medayati",
+        "medayataH",
+        "medayanti",
+        "medayasi",
+        "medayaTaH",
+        "medayaTa",
+        "medayAmi",
+        "medayAvaH",
+        "medayAmaH"
+      ],
+      "plit": [
+        "medayAYcakAra",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakratuH",
+        "medayAmAsatuH",
+        "medayAmbaBUvatuH",
+        "medayAYcakruH",
+        "medayAmAsuH",
+        "medayAmbaBUvuH",
+        "medayAYcakarTa",
+        "medayAmAsiTa",
+        "medayAmbaBUviTa",
+        "medayAYcakraTuH",
+        "medayAmAsaTuH",
+        "medayAmbaBUvaTuH",
+        "medayAYcakra",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakara",
+        "medayAYcakAra",
+        "medayAmAsa",
+        "medayAmbaBUva",
+        "medayAYcakfva",
+        "medayAmAsiva",
+        "medayAmbaBUviva",
+        "medayAYcakfma",
+        "medayAmAsima",
+        "medayAmbaBUvima"
+      ],
+      "plot": [
+        "medayatAt",
+        "medayatAd",
+        "medayatu",
+        "medayatAm",
+        "medayantu",
+        "medaya",
+        "medayatAt",
+        "medayatAd",
+        "medayatam",
+        "medayata",
+        "medayAni",
+        "medayAva",
+        "medayAma"
+      ],
+      "plrung": [
+        "amedayizyat",
+        "amedayizyad",
+        "amedayizyatAm",
+        "amedayizyan",
+        "amedayizyaH",
+        "amedayizyatam",
+        "amedayizyata",
+        "amedayizyam",
+        "amedayizyAva",
+        "amedayizyAma"
+      ],
+      "plrut": [
+        "medayizyati",
+        "medayizyataH",
+        "medayizyanti",
+        "medayizyasi",
+        "medayizyaTaH",
+        "medayizyaTa",
+        "medayizyAmi",
+        "medayizyAvaH",
+        "medayizyAmaH"
+      ],
+      "plung": [
+        "amimedat",
+        "amimedad",
+        "amimedatAm",
+        "amimedan",
+        "amimedaH",
+        "amimedatam",
+        "amimedata",
+        "amimedam",
+        "amimedAva",
+        "amimedAma"
+      ],
+      "plut": [
+        "medayitA",
+        "medayitArO",
+        "medayitAraH",
+        "medayitAsi",
+        "medayitAsTaH",
+        "medayitAsTa",
+        "medayitAsmi",
+        "medayitAsvaH",
+        "medayitAsmaH"
+      ],
+      "pvidhiling": [
+        "medayet",
+        "medayed",
+        "medayetAm",
+        "medayeyuH",
+        "medayeH",
+        "medayetam",
+        "medayeta",
+        "medayeyam",
+        "medayeva",
+        "medayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "medayizIzwa",
+        "medizIzwa",
+        "medayizIyAstAm",
+        "medizIyAstAm",
+        "medayizIran",
+        "medizIran",
+        "medayizIzWAH",
+        "medizIzWAH",
+        "medayizIyAsTAm",
+        "medizIyAsTAm",
+        "medayizIQvam",
+        "medayizIDvam",
+        "medizIDvam",
+        "medayizIya",
+        "medizIya",
+        "medayizIvahi",
+        "medizIvahi",
+        "medayizImahi",
+        "medizImahi"
+      ],
+      "alang": [
+        "amedyata",
+        "amedyetAm",
+        "amedyanta",
+        "amedyaTAH",
+        "amedyeTAm",
+        "amedyaDvam",
+        "amedye",
+        "amedyAvahi",
+        "amedyAmahi"
+      ],
+      "alat": [
+        "medyate",
+        "medyete",
+        "medyante",
+        "medyase",
+        "medyeTe",
+        "medyaDve",
+        "medye",
+        "medyAvahe",
+        "medyAmahe"
+      ],
+      "alit": [
+        "medayAYcakre",
+        "medayAmAse",
+        "medayAmbaBUve",
+        "medayAYcakrAte",
+        "medayAmAsAte",
+        "medayAmbaBUvAte",
+        "medayAYcakrire",
+        "medayAmAsire",
+        "medayAmbaBUvire",
+        "medayAYcakfze",
+        "medayAmAsize",
+        "medayAmbaBUvize",
+        "medayAYcakrATe",
+        "medayAmAsATe",
+        "medayAmbaBUvATe",
+        "medayAYcakfQve",
+        "medayAmAsiDve",
+        "medayAmbaBUviQve",
+        "medayAYcakre",
+        "medayAmAhe",
+        "medayAmbaBUve",
+        "medayAYcakfvahe",
+        "medayAmAsivahe",
+        "medayAmbaBUvivahe",
+        "medayAYcakfmahe",
+        "medayAmAsimahe",
+        "medayAmbaBUvimahe"
+      ],
+      "alot": [
+        "medyatAm",
+        "medyetAm",
+        "medyantAm",
+        "medyasva",
+        "medyeTAm",
+        "medyaDvam",
+        "medyE",
+        "medyAvahE",
+        "medyAmahE"
+      ],
+      "alrung": [
+        "amedayizyata",
+        "amedizyata",
+        "amedayizyetAm",
+        "amedizyetAm",
+        "amedayizyanta",
+        "amedizyanta",
+        "amedayizyaTAH",
+        "amedizyaTAH",
+        "amedayizyeTAm",
+        "amedizyeTAm",
+        "amedayizyaDvam",
+        "amedizyaDvam",
+        "amedayizye",
+        "amedizye",
+        "amedayizyAvahi",
+        "amedizyAvahi",
+        "amedayizyAmahi",
+        "amedizyAmahi"
+      ],
+      "alrut": [
+        "medayizyate",
+        "medizyate",
+        "medayizyete",
+        "medizyete",
+        "medayizyante",
+        "medizyante",
+        "medayizyase",
+        "medizyase",
+        "medayizyeTe",
+        "medizyeTe",
+        "medayizyaDve",
+        "medizyaDve",
+        "medayizye",
+        "medizye",
+        "medayizyAvahe",
+        "medizyAvahe",
+        "medayizyAmahe",
+        "medizyAmahe"
+      ],
+      "alung": [
+        "amedi",
+        "amedayizAtAm",
+        "amedizAtAm",
+        "amedayizata",
+        "amedizata",
+        "amedayizWAH",
+        "amedizWAH",
+        "amedayizATAm",
+        "amedizATAm",
+        "amedayiQvam",
+        "amedayiDvam",
+        "amediDvam",
+        "amedayizi",
+        "amedizi",
+        "amedayizvahi",
+        "amedizvahi",
+        "amedayizmahi",
+        "amedizmahi"
+      ],
+      "alut": [
+        "medayitA",
+        "meditA",
+        "medayitArO",
+        "meditArO",
+        "medayitAraH",
+        "meditAraH",
+        "medayitAse",
+        "meditAse",
+        "medayitAsATe",
+        "meditAsATe",
+        "medayitADve",
+        "meditADve",
+        "medayitAhe",
+        "meditAhe",
+        "medayitAsvahe",
+        "meditAsvahe",
+        "medayitAsmahe",
+        "meditAsmahe"
+      ],
+      "avidhiling": [
+        "medyeta",
+        "medyeyAtAm",
+        "medyeran",
+        "medyeTAH",
+        "medyeyATAm",
+        "medyeDvam",
+        "medyeya",
+        "medyevahi",
+        "medyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "memidizIzwa",
+        "memidizIyAstAm",
+        "memidizIran",
+        "memidizIzWAH",
+        "memidizIyAsTAm",
+        "memidizIDvam",
+        "memidizIya",
+        "memidizIvahi",
+        "memidizImahi"
+      ],
+      "alang": [
+        "amemidyata",
+        "amemidyetAm",
+        "amemidyanta",
+        "amemidyaTAH",
+        "amemidyeTAm",
+        "amemidyaDvam",
+        "amemidye",
+        "amemidyAvahi",
+        "amemidyAmahi"
+      ],
+      "alat": [
+        "memidyate",
+        "memidyete",
+        "memidyante",
+        "memidyase",
+        "memidyeTe",
+        "memidyaDve",
+        "memidye",
+        "memidyAvahe",
+        "memidyAmahe"
+      ],
+      "alit": [
+        "memidAYcakre",
+        "memidAmAsa",
+        "memidAmbaBUva",
+        "memidAYcakrAte",
+        "memidAmAsatuH",
+        "memidAmbaBUvatuH",
+        "memidAYcakrire",
+        "memidAmAsuH",
+        "memidAmbaBUvuH",
+        "memidAYcakfze",
+        "memidAmAsiTa",
+        "memidAmbaBUviTa",
+        "memidAYcakrATe",
+        "memidAmAsaTuH",
+        "memidAmbaBUvaTuH",
+        "memidAYcakfQve",
+        "memidAmAsa",
+        "memidAmbaBUva",
+        "memidAYcakre",
+        "memidAmAsa",
+        "memidAmbaBUva",
+        "memidAYcakfvahe",
+        "memidAmAsiva",
+        "memidAmbaBUviva",
+        "memidAYcakfmahe",
+        "memidAmAsima",
+        "memidAmbaBUvima"
+      ],
+      "alot": [
+        "memidyatAm",
+        "memidyetAm",
+        "memidyantAm",
+        "memidyasva",
+        "memidyeTAm",
+        "memidyaDvam",
+        "memidyE",
+        "memidyAvahE",
+        "memidyAmahE"
+      ],
+      "alrung": [
+        "amemidizyata",
+        "amemidizyetAm",
+        "amemidizyanta",
+        "amemidizyaTAH",
+        "amemidizyeTAm",
+        "amemidizyaDvam",
+        "amemidizye",
+        "amemidizyAvahi",
+        "amemidizyAmahi"
+      ],
+      "alrut": [
+        "memidizyate",
+        "memidizyete",
+        "memidizyante",
+        "memidizyase",
+        "memidizyeTe",
+        "memidizyaDve",
+        "memidizye",
+        "memidizyAvahe",
+        "memidizyAmahe"
+      ],
+      "alung": [
+        "amemidizwa",
+        "amemidizAtAm",
+        "amemidizata",
+        "amemidizWAH",
+        "amemidizATAm",
+        "amemidiDvam",
+        "amemidizi",
+        "amemidizvahi",
+        "amemidizmahi"
+      ],
+      "alut": [
+        "memiditA",
+        "memiditArO",
+        "memiditAraH",
+        "memiditAse",
+        "memiditAsATe",
+        "memiditADve",
+        "memiditAhe",
+        "memiditAsvahe",
+        "memiditAsmahe"
+      ],
+      "avidhiling": [
+        "memidyeta",
+        "memidyeyAtAm",
+        "memidyeran",
+        "memidyeTAH",
+        "memidyeyATAm",
+        "memidyeDvam",
+        "memidyeya",
+        "memidyevahi",
+        "memidyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "memidizIzwa",
+        "memidizIyAstAm",
+        "memidizIran",
+        "memidizIzWAH",
+        "memidizIyAsTAm",
+        "memidizIDvam",
+        "memidizIya",
+        "memidizIvahi",
+        "memidizImahi"
+      ],
+      "alang": [
+        "amemidyata",
+        "amemidyetAm",
+        "amemidyanta",
+        "amemidyaTAH",
+        "amemidyeTAm",
+        "amemidyaDvam",
+        "amemidye",
+        "amemidyAvahi",
+        "amemidyAmahi"
+      ],
+      "alat": [
+        "memidyate",
+        "memidyete",
+        "memidyante",
+        "memidyase",
+        "memidyeTe",
+        "memidyaDve",
+        "memidye",
+        "memidyAvahe",
+        "memidyAmahe"
+      ],
+      "alit": [
+        "memidAYcakre",
+        "memidAmAse",
+        "memidAmbaBUve",
+        "memidAYcakrAte",
+        "memidAmAsAte",
+        "memidAmbaBUvAte",
+        "memidAYcakrire",
+        "memidAmAsire",
+        "memidAmbaBUvire",
+        "memidAYcakfze",
+        "memidAmAsize",
+        "memidAmbaBUvize",
+        "memidAYcakrATe",
+        "memidAmAsATe",
+        "memidAmbaBUvATe",
+        "memidAYcakfQve",
+        "memidAmAsiDve",
+        "memidAmbaBUviQve",
+        "memidAYcakre",
+        "memidAmAhe",
+        "memidAmbaBUve",
+        "memidAYcakfvahe",
+        "memidAmAsivahe",
+        "memidAmbaBUvivahe",
+        "memidAYcakfmahe",
+        "memidAmAsimahe",
+        "memidAmbaBUvimahe"
+      ],
+      "alot": [
+        "memidyatAm",
+        "memidyetAm",
+        "memidyantAm",
+        "memidyasva",
+        "memidyeTAm",
+        "memidyaDvam",
+        "memidyE",
+        "memidyAvahE",
+        "memidyAmahE"
+      ],
+      "alrung": [
+        "amemidizyata",
+        "amemidizyetAm",
+        "amemidizyanta",
+        "amemidizyaTAH",
+        "amemidizyeTAm",
+        "amemidizyaDvam",
+        "amemidizye",
+        "amemidizyAvahi",
+        "amemidizyAmahi"
+      ],
+      "alrut": [
+        "memidizyate",
+        "memidizyete",
+        "memidizyante",
+        "memidizyase",
+        "memidizyeTe",
+        "memidizyaDve",
+        "memidizye",
+        "memidizyAvahe",
+        "memidizyAmahe"
+      ],
+      "alung": [
+        "amemidi",
+        "amemidizAtAm",
+        "amemidizata",
+        "amemidizWAH",
+        "amemidizATAm",
+        "amemidiDvam",
+        "amemidizi",
+        "amemidizvahi",
+        "amemidizmahi"
+      ],
+      "alut": [
+        "memiditA",
+        "memiditArO",
+        "memiditAraH",
+        "memiditAse",
+        "memiditAsATe",
+        "memiditADve",
+        "memiditAhe",
+        "memiditAsvahe",
+        "memiditAsmahe"
+      ],
+      "avidhiling": [
+        "memidyeta",
+        "memidyeyAtAm",
+        "memidyeran",
+        "memidyeTAH",
+        "memidyeyATAm",
+        "memidyeDvam",
+        "memidyeya",
+        "memidyevahi",
+        "memidyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "memidyAt",
+        "memidyAd",
+        "memidyAstAm",
+        "memidyAsuH",
+        "memidyAH",
+        "memidyAstam",
+        "memidyAsta",
+        "memidyAsam",
+        "memidyAsva",
+        "memidyAsma"
+      ],
+      "plang": [
+        "amemidIt",
+        "amemidId",
+        "amemet",
+        "amemed",
+        "amemittAm",
+        "amemiduH",
+        "amemidIH",
+        "amemeH",
+        "amemet",
+        "amemed",
+        "amemittam",
+        "amemitta",
+        "amemidam",
+        "amemidva",
+        "amemidma"
+      ],
+      "plat": [
+        "memidIti",
+        "memetti",
+        "memittaH",
+        "memidati",
+        "memidIzi",
+        "memetsi",
+        "memitTaH",
+        "memitTa",
+        "memidImi",
+        "memedmi",
+        "memidvaH",
+        "memidmaH"
+      ],
+      "plit": [
+        "memedAYcakAra",
+        "memedAmAsa",
+        "memedAmbaBUva",
+        "memedAYcakratuH",
+        "memedAmAsatuH",
+        "memedAmbaBUvatuH",
+        "memedAYcakruH",
+        "memedAmAsuH",
+        "memedAmbaBUvuH",
+        "memedAYcakarTa",
+        "memedAmAsiTa",
+        "memedAmbaBUviTa",
+        "memedAYcakraTuH",
+        "memedAmAsaTuH",
+        "memedAmbaBUvaTuH",
+        "memedAYcakra",
+        "memedAmAsa",
+        "memedAmbaBUva",
+        "memedAYcakara",
+        "memedAYcakAra",
+        "memedAmAsa",
+        "memedAmbaBUva",
+        "memedAYcakfva",
+        "memedAmAsiva",
+        "memedAmbaBUviva",
+        "memedAYcakfma",
+        "memedAmAsima",
+        "memedAmbaBUvima"
+      ],
+      "plot": [
+        "memittAt",
+        "memittAd",
+        "memidItu",
+        "memettu",
+        "memittAm",
+        "memidatu",
+        "memittAt",
+        "memittAd",
+        "memidDi",
+        "memittam",
+        "memitta",
+        "memidAni",
+        "memidAva",
+        "memidAma"
+      ],
+      "plrung": [
+        "amemedizyat",
+        "amemedizyad",
+        "amemedizyatAm",
+        "amemedizyan",
+        "amemedizyaH",
+        "amemedizyatam",
+        "amemedizyata",
+        "amemedizyam",
+        "amemedizyAva",
+        "amemedizyAma"
+      ],
+      "plrut": [
+        "memedizyati",
+        "memedizyataH",
+        "memedizyanti",
+        "memedizyasi",
+        "memedizyaTaH",
+        "memedizyaTa",
+        "memedizyAmi",
+        "memedizyAvaH",
+        "memedizyAmaH"
+      ],
+      "plung": [
+        "amemedIt",
+        "amemedId",
+        "amemedizwAm",
+        "amemedizuH",
+        "amemedIH",
+        "amemedizwam",
+        "amemedizwa",
+        "amemedizam",
+        "amemedizva",
+        "amemedizma"
+      ],
+      "plut": [
+        "memeditA",
+        "memeditArO",
+        "memeditAraH",
+        "memeditAsi",
+        "memeditAsTaH",
+        "memeditAsTa",
+        "memeditAsmi",
+        "memeditAsvaH",
+        "memeditAsmaH"
+      ],
+      "pvidhiling": [
+        "memidyAt",
+        "memidyAd",
+        "memidyAtAm",
+        "memidyuH",
+        "memidyAH",
+        "memidyAtam",
+        "memidyAta",
+        "memidyAm",
+        "memidyAva",
+        "memidyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "memedizIzwa",
+        "memedizIyAstAm",
+        "memedizIran",
+        "memedizIzWAH",
+        "memedizIyAsTAm",
+        "memedizIDvam",
+        "memedizIya",
+        "memedizIvahi",
+        "memedizImahi"
+      ],
+      "alang": [
+        "amemidyata",
+        "amemidyetAm",
+        "amemidyanta",
+        "amemidyaTAH",
+        "amemidyeTAm",
+        "amemidyaDvam",
+        "amemidye",
+        "amemidyAvahi",
+        "amemidyAmahi"
+      ],
+      "alat": [
+        "memidyate",
+        "memidyete",
+        "memidyante",
+        "memidyase",
+        "memidyeTe",
+        "memidyaDve",
+        "memidye",
+        "memidyAvahe",
+        "memidyAmahe"
+      ],
+      "alit": [
+        "memedAYcakre",
+        "memedAmAse",
+        "memedAmbaBUve",
+        "memedAYcakrAte",
+        "memedAmAsAte",
+        "memedAmbaBUvAte",
+        "memedAYcakrire",
+        "memedAmAsire",
+        "memedAmbaBUvire",
+        "memedAYcakfze",
+        "memedAmAsize",
+        "memedAmbaBUvize",
+        "memedAYcakrATe",
+        "memedAmAsATe",
+        "memedAmbaBUvATe",
+        "memedAYcakfQve",
+        "memedAmAsiDve",
+        "memedAmbaBUviQve",
+        "memedAYcakre",
+        "memedAmAhe",
+        "memedAmbaBUve",
+        "memedAYcakfvahe",
+        "memedAmAsivahe",
+        "memedAmbaBUvivahe",
+        "memedAYcakfmahe",
+        "memedAmAsimahe",
+        "memedAmbaBUvimahe"
+      ],
+      "alot": [
+        "memidyatAm",
+        "memidyetAm",
+        "memidyantAm",
+        "memidyasva",
+        "memidyeTAm",
+        "memidyaDvam",
+        "memidyE",
+        "memidyAvahE",
+        "memidyAmahE"
+      ],
+      "alrung": [
+        "amemedizyata",
+        "amemedizyetAm",
+        "amemedizyanta",
+        "amemedizyaTAH",
+        "amemedizyeTAm",
+        "amemedizyaDvam",
+        "amemedizye",
+        "amemedizyAvahi",
+        "amemedizyAmahi"
+      ],
+      "alrut": [
+        "memedizyate",
+        "memedizyete",
+        "memedizyante",
+        "memedizyase",
+        "memedizyeTe",
+        "memedizyaDve",
+        "memedizye",
+        "memedizyAvahe",
+        "memedizyAmahe"
+      ],
+      "alung": [
+        "amemedi",
+        "amemedizAtAm",
+        "amemedizata",
+        "amemedizWAH",
+        "amemedizATAm",
+        "amemediDvam",
+        "amemedizi",
+        "amemedizvahi",
+        "amemedizmahi"
+      ],
+      "alut": [
+        "memeditA",
+        "memeditArO",
+        "memeditAraH",
+        "memeditAse",
+        "memeditAsATe",
+        "memeditADve",
+        "memeditAhe",
+        "memeditAsvahe",
+        "memeditAsmahe"
+      ],
+      "avidhiling": [
+        "memidyeta",
+        "memidyeyAtAm",
+        "memidyeran",
+        "memidyeTAH",
+        "memidyeyATAm",
+        "memidyeDvam",
+        "memidyeya",
+        "memidyevahi",
+        "memidyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "medanIya",
+          "m": "medanIyaH",
+          "f": "medanIyA",
+          "n": "medanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "medita",
+          "m": "meditaH",
+          "f": "meditA",
+          "n": "meditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "meditavat",
+          "m": "meditavAn",
+          "f": "meditavatI",
+          "n": "meditavat/meditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mitti",
+          "m": "",
+          "f": "mittiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "miditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "meditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mimidvas",
+          "m": "mimidvAn",
+          "f": "mimiduzI",
+          "n": "mimidvat/mimidvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "meda",
+          "m": "medaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Gurac": [
+        {
+          "base": "medura",
+          "m": "meduraH",
+          "f": "medurA",
+          "n": "meduram"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "medamAna",
+          "m": "medamAnaH",
+          "f": "medamAnA",
+          "n": "medamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "medam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "medya",
+          "m": "medyaH",
+          "f": "medyA",
+          "n": "medyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "medaka",
+          "m": "medakaH",
+          "f": "medikA",
+          "n": "medakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "meditavya",
+          "m": "meditavyaH",
+          "f": "meditavyA",
+          "n": "meditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "meditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "meditf",
+          "m": "meditA",
+          "f": "meditrI",
+          "n": "meditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "midyamAna",
+          "m": "midyamAnaH",
+          "f": "midyamAnA",
+          "n": "midyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramidya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "medana",
+          "m": "",
+          "f": "",
+          "n": "medanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "medaka",
+          "m": "medakaH",
+          "f": "medikA",
+          "n": "medakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "medat",
+          "m": "medan",
+          "f": "medantI",
+          "n": "medat/medad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "medamAna",
+          "m": "medamAnaH",
+          "f": "medamAnA",
+          "n": "medamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "medizyamARa",
+          "m": "medizyamARaH",
+          "f": "medizyamARA",
+          "n": "medizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "medizyat",
+          "m": "medizyan",
+          "f": "medizyatI/medizyantI",
+          "n": "medizyat/medizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "medizyamARa",
+          "m": "medizyamARaH",
+          "f": "medizyamARA",
+          "n": "medizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "mimidizA",
+          "m": "",
+          "f": "mimidizA",
+          "n": ""
+        },
+        {
+          "base": "mimedizA",
+          "m": "",
+          "f": "mimedizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "mimidiza",
+          "m": "mimidizaH",
+          "f": "mimidizA",
+          "n": "mimidizam"
+        },
+        {
+          "base": "mimediza",
+          "m": "mimedizaH",
+          "f": "mimedizA",
+          "n": "mimedizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mimidizaRIya",
+          "m": "mimidizaRIyaH",
+          "f": "mimidizaRIyA",
+          "n": "mimidizaRIyam"
+        },
+        {
+          "base": "mimedizaRIya",
+          "m": "mimedizaRIyaH",
+          "f": "mimedizaRIyA",
+          "n": "mimedizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "mimidizu",
+          "m": "mimidizuH",
+          "f": "mimidizuH",
+          "n": "mimidizu"
+        },
+        {
+          "base": "mimedizu",
+          "m": "mimedizuH",
+          "f": "mimedizuH",
+          "n": "mimedizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mimidizita",
+          "m": "mimidizitaH",
+          "f": "mimidizitA",
+          "n": "mimidizitam"
+        },
+        {
+          "base": "mimedizita",
+          "m": "mimedizitaH",
+          "f": "mimedizitA",
+          "n": "mimedizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mimidizitavat",
+          "m": "mimidizitavAn",
+          "f": "mimidizitavatI",
+          "n": "mimidizitavat/mimidizitavad"
+        },
+        {
+          "base": "mimedizitavat",
+          "m": "mimedizitavAn",
+          "f": "mimedizitavatI",
+          "n": "mimedizitavat/mimedizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mimidizwi",
+          "m": "",
+          "f": "mimidizwiH",
+          "n": ""
+        },
+        {
+          "base": "mimedizwi",
+          "m": "",
+          "f": "mimedizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mimidizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mimedizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mimidizAmbaBUvas",
+          "m": "mimidizAmbaBUvAn",
+          "f": "mimidizAmbaBUzI",
+          "n": "mimidizAmbaBUvat/mimidizAmbaBUvad"
+        },
+        {
+          "base": "mimidizAmAsivas",
+          "m": "mimidizAmAsivAn",
+          "f": "mimidizAmAsyuzI",
+          "n": "mimidizAmAsivat/mimidizAmAsivad"
+        },
+        {
+          "base": "mimidizAYcakfvas",
+          "m": "mimidizAYcakfvAn",
+          "f": "mimidizAYcakruzI",
+          "n": "mimidizAYcakfvat/mimidizAYcakfvad"
+        },
+        {
+          "base": "mimedizAmbaBUvas",
+          "m": "mimedizAmbaBUvAn",
+          "f": "mimedizAmbaBUzI",
+          "n": "mimedizAmbaBUvat/mimedizAmbaBUvad"
+        },
+        {
+          "base": "mimedizAmAsivas",
+          "m": "mimedizAmAsivAn",
+          "f": "mimedizAmAsyuzI",
+          "n": "mimedizAmAsivat/mimedizAmAsivad"
+        },
+        {
+          "base": "mimedizAYcakfvas",
+          "m": "mimedizAYcakfvAn",
+          "f": "mimedizAYcakruzI",
+          "n": "mimedizAYcakfvat/mimedizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mimidiza",
+          "m": "mimidizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mimediza",
+          "m": "mimedizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mimidizamARa",
+          "m": "mimidizamARaH",
+          "f": "mimidizamARA",
+          "n": "mimidizamARam"
+        },
+        {
+          "base": "mimedizamARa",
+          "m": "mimedizamARaH",
+          "f": "mimedizamARA",
+          "n": "mimedizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mimidizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mimedizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mimidizaka",
+          "m": "mimidizakaH",
+          "f": "mimidizikA",
+          "n": "mimidizakam"
+        },
+        {
+          "base": "mimedizaka",
+          "m": "mimedizakaH",
+          "f": "mimedizikA",
+          "n": "mimedizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mimidizitavya",
+          "m": "mimidizitavyaH",
+          "f": "mimidizitavyA",
+          "n": "mimidizitavyam"
+        },
+        {
+          "base": "mimedizitavya",
+          "m": "mimedizitavyaH",
+          "f": "mimedizitavyA",
+          "n": "mimedizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mimidizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mimedizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mimidizitf",
+          "m": "mimidizitA",
+          "f": "mimidizitrI",
+          "n": "mimidizitf"
+        },
+        {
+          "base": "mimedizitf",
+          "m": "mimedizitA",
+          "f": "mimedizitrI",
+          "n": "mimedizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mimidizyamARa",
+          "m": "mimidizyamARaH",
+          "f": "mimidizyamARA",
+          "n": "mimidizyamARam"
+        },
+        {
+          "base": "mimedizyamARa",
+          "m": "mimedizyamARaH",
+          "f": "mimedizyamARA",
+          "n": "mimedizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "mimidizya",
+          "m": "mimidizyaH",
+          "f": "mimidizyA",
+          "n": "mimidizyam"
+        },
+        {
+          "base": "mimedizya",
+          "m": "mimedizyaH",
+          "f": "mimedizyA",
+          "n": "mimedizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramimidizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pramimedizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mimidizaRa",
+          "m": "",
+          "f": "",
+          "n": "mimidizaRam"
+        },
+        {
+          "base": "mimedizaRa",
+          "m": "",
+          "f": "",
+          "n": "mimedizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mimidizaka",
+          "m": "mimidizakaH",
+          "f": "mimidizikA",
+          "n": "mimidizakam"
+        },
+        {
+          "base": "mimedizaka",
+          "m": "mimedizakaH",
+          "f": "mimedizikA",
+          "n": "mimedizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "mimidizat",
+          "m": "mimidizan",
+          "f": "mimidizantI",
+          "n": "mimidizat/mimidizad"
+        },
+        {
+          "base": "mimedizat",
+          "m": "mimedizan",
+          "f": "mimedizantI",
+          "n": "mimedizat/mimedizad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "mimidizamARa",
+          "m": "mimidizamARaH",
+          "f": "mimidizamARA",
+          "n": "mimidizamARam"
+        },
+        {
+          "base": "mimedizamARa",
+          "m": "mimedizamARaH",
+          "f": "mimedizamARA",
+          "n": "mimedizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mimidizizyamARa",
+          "m": "mimidizizyamARaH",
+          "f": "mimidizizyamARA",
+          "n": "mimidizizyamARam"
+        },
+        {
+          "base": "mimedizizyamARa",
+          "m": "mimedizizyamARaH",
+          "f": "mimedizizyamARA",
+          "n": "mimedizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "mimidizizyat",
+          "m": "mimidizizyan",
+          "f": "mimidizizyatI/mimidizizyantI",
+          "n": "mimidizizyat/mimidizizyad"
+        },
+        {
+          "base": "mimedizizyat",
+          "m": "mimedizizyan",
+          "f": "mimedizizyatI/mimedizizyantI",
+          "n": "mimedizizyat/mimedizizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "mimidizizyamARa",
+          "m": "mimidizizyamARaH",
+          "f": "mimidizizyamARA",
+          "n": "mimidizizyamARam"
+        },
+        {
+          "base": "mimedizizyamARa",
+          "m": "mimedizizyamARaH",
+          "f": "mimedizizyamARA",
+          "n": "mimedizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "meda",
+          "m": "medaH",
+          "f": "medA",
+          "n": "medam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "medanIya",
+          "m": "medanIyaH",
+          "f": "medanIyA",
+          "n": "medanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "medita",
+          "m": "meditaH",
+          "f": "meditA",
+          "n": "meditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "meditavat",
+          "m": "meditavAn",
+          "f": "meditavatI",
+          "n": "meditavat/meditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "metti",
+          "m": "",
+          "f": "mettiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "medayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "medayAmbaBUvas",
+          "m": "medayAmbaBUvAn",
+          "f": "medayAmbaBUzI",
+          "n": "medayAmbaBUvat/medayAmbaBUvad"
+        },
+        {
+          "base": "medayAmAsivas",
+          "m": "medayAmAsivAn",
+          "f": "medayAmAsyuzI",
+          "n": "medayAmAsivat/medayAmAsivad"
+        },
+        {
+          "base": "medayAYcakfvas",
+          "m": "medayAYcakfvAn",
+          "f": "medayAYcakruzI",
+          "n": "medayAYcakfvat/medayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "medayamAna",
+          "m": "medayamAnaH",
+          "f": "medayamAnA",
+          "n": "medayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "medam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "medaka",
+          "m": "medakaH",
+          "f": "medikA",
+          "n": "medakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "medayitavya",
+          "m": "medayitavyaH",
+          "f": "medayitavyA",
+          "n": "medayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "medayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "medayitf",
+          "m": "medayitA",
+          "f": "medayitrI",
+          "n": "medayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "medyamAna",
+          "m": "medyamAnaH",
+          "f": "medyamAnA",
+          "n": "medyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "medya",
+          "m": "medyaH",
+          "f": "medyA",
+          "n": "medyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramedya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "medana",
+          "m": "",
+          "f": "",
+          "n": "medanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "medaka",
+          "m": "medakaH",
+          "f": "medikA",
+          "n": "medakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "medayat",
+          "m": "medayan",
+          "f": "medayantI",
+          "n": "medayat/medayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "medayamAna",
+          "m": "medayamAnaH",
+          "f": "medayamAnA",
+          "n": "medayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "medizyamARa",
+          "m": "medizyamARaH",
+          "f": "medizyamARA",
+          "n": "medizyamARam"
+        },
+        {
+          "base": "medayizyamARa",
+          "m": "medayizyamARaH",
+          "f": "medayizyamARA",
+          "n": "medayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "medayizyat",
+          "m": "medayizyan",
+          "f": "medayizyatI/medayizyantI",
+          "n": "medayizyat/medayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "medayizyamARa",
+          "m": "medayizyamARaH",
+          "f": "medayizyamARA",
+          "n": "medayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "memidA",
+          "m": "",
+          "f": "memidA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "memida",
+          "m": "memidaH",
+          "f": "memidA",
+          "n": "memidam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "memidanIya",
+          "m": "memidanIyaH",
+          "f": "memidanIyA",
+          "n": "memidanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "memidita",
+          "m": "memiditaH",
+          "f": "memiditA",
+          "n": "memiditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "memiditavat",
+          "m": "memiditavAn",
+          "f": "memiditavatI",
+          "n": "memiditavat/memiditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "memitti",
+          "m": "",
+          "f": "memittiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "memiditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "memidAmbaBUvas",
+          "m": "memidAmbaBUvAn",
+          "f": "memidAmbaBUzI",
+          "n": "memidAmbaBUvat/memidAmbaBUvad"
+        },
+        {
+          "base": "memidAmAsivas",
+          "m": "memidAmAsivAn",
+          "f": "memidAmAsyuzI",
+          "n": "memidAmAsivat/memidAmAsivad"
+        },
+        {
+          "base": "memidAYcakfvas",
+          "m": "memidAYcakfvAn",
+          "f": "memidAYcakruzI",
+          "n": "memidAYcakfvat/memidAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "memida",
+          "m": "memidaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "memidyamAna",
+          "m": "memidyamAnaH",
+          "f": "memidyamAnA",
+          "n": "memidyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "memidam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "memidaka",
+          "m": "memidakaH",
+          "f": "memidikA",
+          "n": "memidakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "memiditavya",
+          "m": "memiditavyaH",
+          "f": "memiditavyA",
+          "n": "memiditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "memiditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "memiditf",
+          "m": "memiditA",
+          "f": "memiditrI",
+          "n": "memiditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "memidyamAna",
+          "m": "memidyamAnaH",
+          "f": "memidyamAnA",
+          "n": "memidyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "memidya",
+          "m": "memidyaH",
+          "f": "memidyA",
+          "n": "memidyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramemidya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "memidana",
+          "m": "",
+          "f": "",
+          "n": "memidanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "memidaka",
+          "m": "memidakaH",
+          "f": "memidikA",
+          "n": "memidakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "memidyamAna",
+          "m": "memidyamAnaH",
+          "f": "memidyamAnA",
+          "n": "memidyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "memidizyamARa",
+          "m": "memidizyamARaH",
+          "f": "memidizyamARA",
+          "n": "memidizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "memidizyamARa",
+          "m": "memidizyamARaH",
+          "f": "memidizyamARA",
+          "n": "memidizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "memedA",
+          "m": "",
+          "f": "memedA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "memeda",
+          "m": "memedaH",
+          "f": "memedA",
+          "n": "memedam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "memedanIya",
+          "m": "memedanIyaH",
+          "f": "memedanIyA",
+          "n": "memedanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "memidita",
+          "m": "memiditaH",
+          "f": "memiditA",
+          "n": "memiditam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "memiditavat",
+          "m": "memiditavAn",
+          "f": "memiditavatI",
+          "n": "memiditavat/memiditavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "memitti",
+          "m": "",
+          "f": "memittiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "memeditvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "memedAmbaBUvas",
+          "m": "memedAmbaBUvAn",
+          "f": "memedAmbaBUzI",
+          "n": "memedAmbaBUvat/memedAmbaBUvad"
+        },
+        {
+          "base": "memedAmAsivas",
+          "m": "memedAmAsivAn",
+          "f": "memedAmAsyuzI",
+          "n": "memedAmAsivat/memedAmAsivad"
+        },
+        {
+          "base": "memedAYcakfvas",
+          "m": "memedAYcakfvAn",
+          "f": "memedAYcakruzI",
+          "n": "memedAYcakfvat/memedAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "memeda",
+          "m": "memedaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "memedAna",
+          "m": "memedAnaH",
+          "f": "memedAnA",
+          "n": "memedAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "memedam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "memedaka",
+          "m": "memedakaH",
+          "f": "memedikA",
+          "n": "memedakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "memeditavya",
+          "m": "memeditavyaH",
+          "f": "memeditavyA",
+          "n": "memeditavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "memeditum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "memeditf",
+          "m": "memeditA",
+          "f": "memeditrI",
+          "n": "memeditf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "memidyamAna",
+          "m": "memidyamAnaH",
+          "f": "memidyamAnA",
+          "n": "memidyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramemidya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "memedana",
+          "m": "",
+          "f": "",
+          "n": "memedanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "memedaka",
+          "m": "memedakaH",
+          "f": "memedikA",
+          "n": "memedakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "memedat",
+          "m": "memedat/memedad",
+          "f": "memedatI",
+          "n": "memedat/memedad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "memedizyamARa",
+          "m": "memedizyamARaH",
+          "f": "memedizyamARA",
+          "n": "memedizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "memedizyat",
+          "m": "memedizyan",
+          "f": "memedizyatI/memedizyantI",
+          "n": "memedizyat/memedizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "mid",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

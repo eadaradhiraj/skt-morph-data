@@ -1,0 +1,2592 @@
+{
+  "id": "01.0870",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "prasa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "vistAre"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to extend,to expand"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "vistAra karanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "zicca . ' prasave ' iti kzIrasvAmI ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": "GawAdiH"
+    },
+    {
+      "name": "padam",
+      "value": "AtmanepadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "766"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "766"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2353",
+      "ext_link": "/sutraani/sk2353?scroll=sutra-commentary-kaumudi-region&highlight=parasa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "aashirling": [
+        "prasizIzwa",
+        "prasizIyAstAm",
+        "prasizIran",
+        "prasizIzWAH",
+        "prasizIyAsTAm",
+        "prasizIDvam",
+        "prasizIya",
+        "prasizIvahi",
+        "prasizImahi"
+      ],
+      "alang": [
+        "aprasata",
+        "aprasetAm",
+        "aprasanta",
+        "aprasaTAH",
+        "apraseTAm",
+        "aprasaDvam",
+        "aprase",
+        "aprasAvahi",
+        "aprasAmahi"
+      ],
+      "alat": [
+        "prasate",
+        "prasete",
+        "prasante",
+        "prasase",
+        "praseTe",
+        "prasaDve",
+        "prase",
+        "prasAvahe",
+        "prasAmahe"
+      ],
+      "alit": [
+        "paprase",
+        "paprasAte",
+        "paprasire",
+        "paprasize",
+        "paprasATe",
+        "paprasiDve",
+        "paprase",
+        "paprasivahe",
+        "paprasimahe"
+      ],
+      "alot": [
+        "prasatAm",
+        "prasetAm",
+        "prasantAm",
+        "prasasva",
+        "praseTAm",
+        "prasaDvam",
+        "prasE",
+        "prasAvahE",
+        "prasAmahE"
+      ],
+      "alrung": [
+        "aprasizyata",
+        "aprasizyetAm",
+        "aprasizyanta",
+        "aprasizyaTAH",
+        "aprasizyeTAm",
+        "aprasizyaDvam",
+        "aprasizye",
+        "aprasizyAvahi",
+        "aprasizyAmahi"
+      ],
+      "alrut": [
+        "prasizyate",
+        "prasizyete",
+        "prasizyante",
+        "prasizyase",
+        "prasizyeTe",
+        "prasizyaDve",
+        "prasizye",
+        "prasizyAvahe",
+        "prasizyAmahe"
+      ],
+      "alung": [
+        "aprasizwa",
+        "aprasizAtAm",
+        "aprasizata",
+        "aprasizWAH",
+        "aprasizATAm",
+        "aprasiDvam",
+        "aprasizi",
+        "aprasizvahi",
+        "aprasizmahi"
+      ],
+      "alut": [
+        "prasitA",
+        "prasitArO",
+        "prasitAraH",
+        "prasitAse",
+        "prasitAsATe",
+        "prasitADve",
+        "prasitAhe",
+        "prasitAsvahe",
+        "prasitAsmahe"
+      ],
+      "avidhiling": [
+        "praseta",
+        "praseyAtAm",
+        "praseran",
+        "praseTAH",
+        "praseyATAm",
+        "praseDvam",
+        "praseya",
+        "prasevahi",
+        "prasemahi"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "prasizIzwa",
+        "prasizIyAstAm",
+        "prasizIran",
+        "prasizIzWAH",
+        "prasizIyAsTAm",
+        "prasizIDvam",
+        "prasizIya",
+        "prasizIvahi",
+        "prasizImahi"
+      ],
+      "alang": [
+        "aprasyata",
+        "aprasyetAm",
+        "aprasyanta",
+        "aprasyaTAH",
+        "aprasyeTAm",
+        "aprasyaDvam",
+        "aprasye",
+        "aprasyAvahi",
+        "aprasyAmahi"
+      ],
+      "alat": [
+        "prasyate",
+        "prasyete",
+        "prasyante",
+        "prasyase",
+        "prasyeTe",
+        "prasyaDve",
+        "prasye",
+        "prasyAvahe",
+        "prasyAmahe"
+      ],
+      "alit": [
+        "paprase",
+        "paprasAte",
+        "paprasire",
+        "paprasize",
+        "paprasATe",
+        "paprasiDve",
+        "paprase",
+        "paprasivahe",
+        "paprasimahe"
+      ],
+      "alot": [
+        "prasyatAm",
+        "prasyetAm",
+        "prasyantAm",
+        "prasyasva",
+        "prasyeTAm",
+        "prasyaDvam",
+        "prasyE",
+        "prasyAvahE",
+        "prasyAmahE"
+      ],
+      "alrung": [
+        "aprasizyata",
+        "aprasizyetAm",
+        "aprasizyanta",
+        "aprasizyaTAH",
+        "aprasizyeTAm",
+        "aprasizyaDvam",
+        "aprasizye",
+        "aprasizyAvahi",
+        "aprasizyAmahi"
+      ],
+      "alrut": [
+        "prasizyate",
+        "prasizyete",
+        "prasizyante",
+        "prasizyase",
+        "prasizyeTe",
+        "prasizyaDve",
+        "prasizye",
+        "prasizyAvahe",
+        "prasizyAmahe"
+      ],
+      "alung": [
+        "aprAsi",
+        "aprasizAtAm",
+        "aprasizata",
+        "aprasizWAH",
+        "aprasizATAm",
+        "aprasiDvam",
+        "aprasizi",
+        "aprasizvahi",
+        "aprasizmahi"
+      ],
+      "alut": [
+        "prasitA",
+        "prasitArO",
+        "prasitAraH",
+        "prasitAse",
+        "prasitAsATe",
+        "prasitADve",
+        "prasitAhe",
+        "prasitAsvahe",
+        "prasitAsmahe"
+      ],
+      "avidhiling": [
+        "prasyeta",
+        "prasyeyAtAm",
+        "prasyeran",
+        "prasyeTAH",
+        "prasyeyATAm",
+        "prasyeDvam",
+        "prasyeya",
+        "prasyevahi",
+        "prasyemahi"
+      ]
+    },
+    "san": {
+      "aashirling": [
+        "piprasizizIzwa",
+        "piprasizizIyAstAm",
+        "piprasizizIran",
+        "piprasizizIzWAH",
+        "piprasizizIyAsTAm",
+        "piprasizizIDvam",
+        "piprasizizIya",
+        "piprasizizIvahi",
+        "piprasizizImahi"
+      ],
+      "alang": [
+        "apiprasizata",
+        "apiprasizetAm",
+        "apiprasizanta",
+        "apiprasizaTAH",
+        "apiprasizeTAm",
+        "apiprasizaDvam",
+        "apiprasize",
+        "apiprasizAvahi",
+        "apiprasizAmahi"
+      ],
+      "alat": [
+        "piprasizate",
+        "piprasizete",
+        "piprasizante",
+        "piprasizase",
+        "piprasizeTe",
+        "piprasizaDve",
+        "piprasize",
+        "piprasizAvahe",
+        "piprasizAmahe"
+      ],
+      "alit": [
+        "piprasizAYcakre",
+        "piprasizAmAsa",
+        "piprasizAmbaBUva",
+        "piprasizAYcakrAte",
+        "piprasizAmAsatuH",
+        "piprasizAmbaBUvatuH",
+        "piprasizAYcakrire",
+        "piprasizAmAsuH",
+        "piprasizAmbaBUvuH",
+        "piprasizAYcakfze",
+        "piprasizAmAsiTa",
+        "piprasizAmbaBUviTa",
+        "piprasizAYcakrATe",
+        "piprasizAmAsaTuH",
+        "piprasizAmbaBUvaTuH",
+        "piprasizAYcakfQve",
+        "piprasizAmAsa",
+        "piprasizAmbaBUva",
+        "piprasizAYcakre",
+        "piprasizAmAsa",
+        "piprasizAmbaBUva",
+        "piprasizAYcakfvahe",
+        "piprasizAmAsiva",
+        "piprasizAmbaBUviva",
+        "piprasizAYcakfmahe",
+        "piprasizAmAsima",
+        "piprasizAmbaBUvima"
+      ],
+      "alot": [
+        "piprasizatAm",
+        "piprasizetAm",
+        "piprasizantAm",
+        "piprasizasva",
+        "piprasizeTAm",
+        "piprasizaDvam",
+        "piprasizE",
+        "piprasizAvahE",
+        "piprasizAmahE"
+      ],
+      "alrung": [
+        "apiprasizizyata",
+        "apiprasizizyetAm",
+        "apiprasizizyanta",
+        "apiprasizizyaTAH",
+        "apiprasizizyeTAm",
+        "apiprasizizyaDvam",
+        "apiprasizizye",
+        "apiprasizizyAvahi",
+        "apiprasizizyAmahi"
+      ],
+      "alrut": [
+        "piprasizizyate",
+        "piprasizizyete",
+        "piprasizizyante",
+        "piprasizizyase",
+        "piprasizizyeTe",
+        "piprasizizyaDve",
+        "piprasizizye",
+        "piprasizizyAvahe",
+        "piprasizizyAmahe"
+      ],
+      "alung": [
+        "apiprasizizwa",
+        "apiprasizizAtAm",
+        "apiprasizizata",
+        "apiprasizizWAH",
+        "apiprasizizATAm",
+        "apiprasiziDvam",
+        "apiprasizizi",
+        "apiprasizizvahi",
+        "apiprasizizmahi"
+      ],
+      "alut": [
+        "piprasizitA",
+        "piprasizitArO",
+        "piprasizitAraH",
+        "piprasizitAse",
+        "piprasizitAsATe",
+        "piprasizitADve",
+        "piprasizitAhe",
+        "piprasizitAsvahe",
+        "piprasizitAsmahe"
+      ],
+      "avidhiling": [
+        "piprasizeta",
+        "piprasizeyAtAm",
+        "piprasizeran",
+        "piprasizeTAH",
+        "piprasizeyATAm",
+        "piprasizeDvam",
+        "piprasizeya",
+        "piprasizevahi",
+        "piprasizemahi"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "piprasizizIzwa",
+        "piprasizizIyAstAm",
+        "piprasizizIran",
+        "piprasizizIzWAH",
+        "piprasizizIyAsTAm",
+        "piprasizizIDvam",
+        "piprasizizIya",
+        "piprasizizIvahi",
+        "piprasizizImahi"
+      ],
+      "alang": [
+        "apiprasizyata",
+        "apiprasizyetAm",
+        "apiprasizyanta",
+        "apiprasizyaTAH",
+        "apiprasizyeTAm",
+        "apiprasizyaDvam",
+        "apiprasizye",
+        "apiprasizyAvahi",
+        "apiprasizyAmahi"
+      ],
+      "alat": [
+        "piprasizyate",
+        "piprasizyete",
+        "piprasizyante",
+        "piprasizyase",
+        "piprasizyeTe",
+        "piprasizyaDve",
+        "piprasizye",
+        "piprasizyAvahe",
+        "piprasizyAmahe"
+      ],
+      "alit": [
+        "piprasizAYcakre",
+        "piprasizAmAse",
+        "piprasizAmbaBUve",
+        "piprasizAYcakrAte",
+        "piprasizAmAsAte",
+        "piprasizAmbaBUvAte",
+        "piprasizAYcakrire",
+        "piprasizAmAsire",
+        "piprasizAmbaBUvire",
+        "piprasizAYcakfze",
+        "piprasizAmAsize",
+        "piprasizAmbaBUvize",
+        "piprasizAYcakrATe",
+        "piprasizAmAsATe",
+        "piprasizAmbaBUvATe",
+        "piprasizAYcakfQve",
+        "piprasizAmAsiDve",
+        "piprasizAmbaBUviQve",
+        "piprasizAYcakre",
+        "piprasizAmAhe",
+        "piprasizAmbaBUve",
+        "piprasizAYcakfvahe",
+        "piprasizAmAsivahe",
+        "piprasizAmbaBUvivahe",
+        "piprasizAYcakfmahe",
+        "piprasizAmAsimahe",
+        "piprasizAmbaBUvimahe"
+      ],
+      "alot": [
+        "piprasizyatAm",
+        "piprasizyetAm",
+        "piprasizyantAm",
+        "piprasizyasva",
+        "piprasizyeTAm",
+        "piprasizyaDvam",
+        "piprasizyE",
+        "piprasizyAvahE",
+        "piprasizyAmahE"
+      ],
+      "alrung": [
+        "apiprasizizyata",
+        "apiprasizizyetAm",
+        "apiprasizizyanta",
+        "apiprasizizyaTAH",
+        "apiprasizizyeTAm",
+        "apiprasizizyaDvam",
+        "apiprasizizye",
+        "apiprasizizyAvahi",
+        "apiprasizizyAmahi"
+      ],
+      "alrut": [
+        "piprasizizyate",
+        "piprasizizyete",
+        "piprasizizyante",
+        "piprasizizyase",
+        "piprasizizyeTe",
+        "piprasizizyaDve",
+        "piprasizizye",
+        "piprasizizyAvahe",
+        "piprasizizyAmahe"
+      ],
+      "alung": [
+        "apiprasizi",
+        "apiprasizizAtAm",
+        "apiprasizizata",
+        "apiprasizizWAH",
+        "apiprasizizATAm",
+        "apiprasiziDvam",
+        "apiprasizizi",
+        "apiprasizizvahi",
+        "apiprasizizmahi"
+      ],
+      "alut": [
+        "piprasizitA",
+        "piprasizitArO",
+        "piprasizitAraH",
+        "piprasizitAse",
+        "piprasizitAsATe",
+        "piprasizitADve",
+        "piprasizitAhe",
+        "piprasizitAsvahe",
+        "piprasizitAsmahe"
+      ],
+      "avidhiling": [
+        "piprasizyeta",
+        "piprasizyeyAtAm",
+        "piprasizyeran",
+        "piprasizyeTAH",
+        "piprasizyeyATAm",
+        "piprasizyeDvam",
+        "piprasizyeya",
+        "piprasizyevahi",
+        "piprasizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "prasayizIzwa",
+        "prasayizIyAstAm",
+        "prasayizIran",
+        "prasayizIzWAH",
+        "prasayizIyAsTAm",
+        "prasayizIQvam",
+        "prasayizIDvam",
+        "prasayizIya",
+        "prasayizIvahi",
+        "prasayizImahi"
+      ],
+      "alang": [
+        "aprasayata",
+        "aprasayetAm",
+        "aprasayanta",
+        "aprasayaTAH",
+        "aprasayeTAm",
+        "aprasayaDvam",
+        "aprasaye",
+        "aprasayAvahi",
+        "aprasayAmahi"
+      ],
+      "alat": [
+        "prasayate",
+        "prasayete",
+        "prasayante",
+        "prasayase",
+        "prasayeTe",
+        "prasayaDve",
+        "prasaye",
+        "prasayAvahe",
+        "prasayAmahe"
+      ],
+      "alit": [
+        "prasayAYcakre",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakrAte",
+        "prasayAmAsatuH",
+        "prasayAmbaBUvatuH",
+        "prasayAYcakrire",
+        "prasayAmAsuH",
+        "prasayAmbaBUvuH",
+        "prasayAYcakfze",
+        "prasayAmAsiTa",
+        "prasayAmbaBUviTa",
+        "prasayAYcakrATe",
+        "prasayAmAsaTuH",
+        "prasayAmbaBUvaTuH",
+        "prasayAYcakfQve",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakre",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakfvahe",
+        "prasayAmAsiva",
+        "prasayAmbaBUviva",
+        "prasayAYcakfmahe",
+        "prasayAmAsima",
+        "prasayAmbaBUvima"
+      ],
+      "alot": [
+        "prasayatAm",
+        "prasayetAm",
+        "prasayantAm",
+        "prasayasva",
+        "prasayeTAm",
+        "prasayaDvam",
+        "prasayE",
+        "prasayAvahE",
+        "prasayAmahE"
+      ],
+      "alrung": [
+        "aprasayizyata",
+        "aprasayizyetAm",
+        "aprasayizyanta",
+        "aprasayizyaTAH",
+        "aprasayizyeTAm",
+        "aprasayizyaDvam",
+        "aprasayizye",
+        "aprasayizyAvahi",
+        "aprasayizyAmahi"
+      ],
+      "alrut": [
+        "prasayizyate",
+        "prasayizyete",
+        "prasayizyante",
+        "prasayizyase",
+        "prasayizyeTe",
+        "prasayizyaDve",
+        "prasayizye",
+        "prasayizyAvahe",
+        "prasayizyAmahe"
+      ],
+      "alung": [
+        "apiprasata",
+        "apiprasetAm",
+        "apiprasanta",
+        "apiprasaTAH",
+        "apipraseTAm",
+        "apiprasaDvam",
+        "apiprase",
+        "apiprasAvahi",
+        "apiprasAmahi"
+      ],
+      "alut": [
+        "prasayitA",
+        "prasayitArO",
+        "prasayitAraH",
+        "prasayitAse",
+        "prasayitAsATe",
+        "prasayitADve",
+        "prasayitAhe",
+        "prasayitAsvahe",
+        "prasayitAsmahe"
+      ],
+      "avidhiling": [
+        "prasayeta",
+        "prasayeyAtAm",
+        "prasayeran",
+        "prasayeTAH",
+        "prasayeyATAm",
+        "prasayeDvam",
+        "prasayeya",
+        "prasayevahi",
+        "prasayemahi"
+      ],
+      "pashirling": [
+        "prasyAt",
+        "prasyAd",
+        "prasyAstAm",
+        "prasyAsuH",
+        "prasyAH",
+        "prasyAstam",
+        "prasyAsta",
+        "prasyAsam",
+        "prasyAsva",
+        "prasyAsma"
+      ],
+      "plang": [
+        "aprasayat",
+        "aprasayad",
+        "aprasayatAm",
+        "aprasayan",
+        "aprasayaH",
+        "aprasayatam",
+        "aprasayata",
+        "aprasayam",
+        "aprasayAva",
+        "aprasayAma"
+      ],
+      "plat": [
+        "prasayati",
+        "prasayataH",
+        "prasayanti",
+        "prasayasi",
+        "prasayaTaH",
+        "prasayaTa",
+        "prasayAmi",
+        "prasayAvaH",
+        "prasayAmaH"
+      ],
+      "plit": [
+        "prasayAYcakAra",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakratuH",
+        "prasayAmAsatuH",
+        "prasayAmbaBUvatuH",
+        "prasayAYcakruH",
+        "prasayAmAsuH",
+        "prasayAmbaBUvuH",
+        "prasayAYcakarTa",
+        "prasayAmAsiTa",
+        "prasayAmbaBUviTa",
+        "prasayAYcakraTuH",
+        "prasayAmAsaTuH",
+        "prasayAmbaBUvaTuH",
+        "prasayAYcakra",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakara",
+        "prasayAYcakAra",
+        "prasayAmAsa",
+        "prasayAmbaBUva",
+        "prasayAYcakfva",
+        "prasayAmAsiva",
+        "prasayAmbaBUviva",
+        "prasayAYcakfma",
+        "prasayAmAsima",
+        "prasayAmbaBUvima"
+      ],
+      "plot": [
+        "prasayatAt",
+        "prasayatAd",
+        "prasayatu",
+        "prasayatAm",
+        "prasayantu",
+        "prasaya",
+        "prasayatAt",
+        "prasayatAd",
+        "prasayatam",
+        "prasayata",
+        "prasayAni",
+        "prasayAva",
+        "prasayAma"
+      ],
+      "plrung": [
+        "aprasayizyat",
+        "aprasayizyad",
+        "aprasayizyatAm",
+        "aprasayizyan",
+        "aprasayizyaH",
+        "aprasayizyatam",
+        "aprasayizyata",
+        "aprasayizyam",
+        "aprasayizyAva",
+        "aprasayizyAma"
+      ],
+      "plrut": [
+        "prasayizyati",
+        "prasayizyataH",
+        "prasayizyanti",
+        "prasayizyasi",
+        "prasayizyaTaH",
+        "prasayizyaTa",
+        "prasayizyAmi",
+        "prasayizyAvaH",
+        "prasayizyAmaH"
+      ],
+      "plung": [
+        "apiprasat",
+        "apiprasad",
+        "apiprasatAm",
+        "apiprasan",
+        "apiprasaH",
+        "apiprasatam",
+        "apiprasata",
+        "apiprasam",
+        "apiprasAva",
+        "apiprasAma"
+      ],
+      "plut": [
+        "prasayitA",
+        "prasayitArO",
+        "prasayitAraH",
+        "prasayitAsi",
+        "prasayitAsTaH",
+        "prasayitAsTa",
+        "prasayitAsmi",
+        "prasayitAsvaH",
+        "prasayitAsmaH"
+      ],
+      "pvidhiling": [
+        "prasayet",
+        "prasayed",
+        "prasayetAm",
+        "prasayeyuH",
+        "prasayeH",
+        "prasayetam",
+        "prasayeta",
+        "prasayeyam",
+        "prasayeva",
+        "prasayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "prasayizIzwa",
+        "prasizIzwa",
+        "prasayizIyAstAm",
+        "prasizIyAstAm",
+        "prasayizIran",
+        "prasizIran",
+        "prasayizIzWAH",
+        "prasizIzWAH",
+        "prasayizIyAsTAm",
+        "prasizIyAsTAm",
+        "prasayizIQvam",
+        "prasayizIDvam",
+        "prasizIDvam",
+        "prasayizIya",
+        "prasizIya",
+        "prasayizIvahi",
+        "prasizIvahi",
+        "prasayizImahi",
+        "prasizImahi"
+      ],
+      "alang": [
+        "aprasyata",
+        "aprasyetAm",
+        "aprasyanta",
+        "aprasyaTAH",
+        "aprasyeTAm",
+        "aprasyaDvam",
+        "aprasye",
+        "aprasyAvahi",
+        "aprasyAmahi"
+      ],
+      "alat": [
+        "prasyate",
+        "prasyete",
+        "prasyante",
+        "prasyase",
+        "prasyeTe",
+        "prasyaDve",
+        "prasye",
+        "prasyAvahe",
+        "prasyAmahe"
+      ],
+      "alit": [
+        "prasayAYcakre",
+        "prasayAmAse",
+        "prasayAmbaBUve",
+        "prasayAYcakrAte",
+        "prasayAmAsAte",
+        "prasayAmbaBUvAte",
+        "prasayAYcakrire",
+        "prasayAmAsire",
+        "prasayAmbaBUvire",
+        "prasayAYcakfze",
+        "prasayAmAsize",
+        "prasayAmbaBUvize",
+        "prasayAYcakrATe",
+        "prasayAmAsATe",
+        "prasayAmbaBUvATe",
+        "prasayAYcakfQve",
+        "prasayAmAsiDve",
+        "prasayAmbaBUviQve",
+        "prasayAYcakre",
+        "prasayAmAhe",
+        "prasayAmbaBUve",
+        "prasayAYcakfvahe",
+        "prasayAmAsivahe",
+        "prasayAmbaBUvivahe",
+        "prasayAYcakfmahe",
+        "prasayAmAsimahe",
+        "prasayAmbaBUvimahe"
+      ],
+      "alot": [
+        "prasyatAm",
+        "prasyetAm",
+        "prasyantAm",
+        "prasyasva",
+        "prasyeTAm",
+        "prasyaDvam",
+        "prasyE",
+        "prasyAvahE",
+        "prasyAmahE"
+      ],
+      "alrung": [
+        "aprasayizyata",
+        "aprasizyata",
+        "aprasayizyetAm",
+        "aprasizyetAm",
+        "aprasayizyanta",
+        "aprasizyanta",
+        "aprasayizyaTAH",
+        "aprasizyaTAH",
+        "aprasayizyeTAm",
+        "aprasizyeTAm",
+        "aprasayizyaDvam",
+        "aprasizyaDvam",
+        "aprasayizye",
+        "aprasizye",
+        "aprasayizyAvahi",
+        "aprasizyAvahi",
+        "aprasayizyAmahi",
+        "aprasizyAmahi"
+      ],
+      "alrut": [
+        "prasayizyate",
+        "prasizyate",
+        "prasayizyete",
+        "prasizyete",
+        "prasayizyante",
+        "prasizyante",
+        "prasayizyase",
+        "prasizyase",
+        "prasayizyeTe",
+        "prasizyeTe",
+        "prasayizyaDve",
+        "prasizyaDve",
+        "prasayizye",
+        "prasizye",
+        "prasayizyAvahe",
+        "prasizyAvahe",
+        "prasayizyAmahe",
+        "prasizyAmahe"
+      ],
+      "alung": [
+        "aprasi",
+        "aprAsi",
+        "aprasayizAtAm",
+        "aprasizAtAm",
+        "aprasayizata",
+        "aprasizata",
+        "aprasayizWAH",
+        "aprasizWAH",
+        "aprasayizATAm",
+        "aprasizATAm",
+        "aprasayiQvam",
+        "aprasayiDvam",
+        "aprasiDvam",
+        "aprasayizi",
+        "aprasizi",
+        "aprasayizvahi",
+        "aprasizvahi",
+        "aprasayizmahi",
+        "aprasizmahi"
+      ],
+      "alut": [
+        "prasayitA",
+        "prasitA",
+        "prasayitArO",
+        "prasitArO",
+        "prasayitAraH",
+        "prasitAraH",
+        "prasayitAse",
+        "prasitAse",
+        "prasayitAsATe",
+        "prasitAsATe",
+        "prasayitADve",
+        "prasitADve",
+        "prasayitAhe",
+        "prasitAhe",
+        "prasayitAsvahe",
+        "prasitAsvahe",
+        "prasayitAsmahe",
+        "prasitAsmahe"
+      ],
+      "avidhiling": [
+        "prasyeta",
+        "prasyeyAtAm",
+        "prasyeran",
+        "prasyeTAH",
+        "prasyeyATAm",
+        "prasyeDvam",
+        "prasyeya",
+        "prasyevahi",
+        "prasyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "pAprasizIzwa",
+        "pAprasizIyAstAm",
+        "pAprasizIran",
+        "pAprasizIzWAH",
+        "pAprasizIyAsTAm",
+        "pAprasizIDvam",
+        "pAprasizIya",
+        "pAprasizIvahi",
+        "pAprasizImahi"
+      ],
+      "alang": [
+        "apAprasyata",
+        "apAprasyetAm",
+        "apAprasyanta",
+        "apAprasyaTAH",
+        "apAprasyeTAm",
+        "apAprasyaDvam",
+        "apAprasye",
+        "apAprasyAvahi",
+        "apAprasyAmahi"
+      ],
+      "alat": [
+        "pAprasyate",
+        "pAprasyete",
+        "pAprasyante",
+        "pAprasyase",
+        "pAprasyeTe",
+        "pAprasyaDve",
+        "pAprasye",
+        "pAprasyAvahe",
+        "pAprasyAmahe"
+      ],
+      "alit": [
+        "pAprasAYcakre",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakrAte",
+        "pAprasAmAsatuH",
+        "pAprasAmbaBUvatuH",
+        "pAprasAYcakrire",
+        "pAprasAmAsuH",
+        "pAprasAmbaBUvuH",
+        "pAprasAYcakfze",
+        "pAprasAmAsiTa",
+        "pAprasAmbaBUviTa",
+        "pAprasAYcakrATe",
+        "pAprasAmAsaTuH",
+        "pAprasAmbaBUvaTuH",
+        "pAprasAYcakfQve",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakre",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakfvahe",
+        "pAprasAmAsiva",
+        "pAprasAmbaBUviva",
+        "pAprasAYcakfmahe",
+        "pAprasAmAsima",
+        "pAprasAmbaBUvima"
+      ],
+      "alot": [
+        "pAprasyatAm",
+        "pAprasyetAm",
+        "pAprasyantAm",
+        "pAprasyasva",
+        "pAprasyeTAm",
+        "pAprasyaDvam",
+        "pAprasyE",
+        "pAprasyAvahE",
+        "pAprasyAmahE"
+      ],
+      "alrung": [
+        "apAprasizyata",
+        "apAprasizyetAm",
+        "apAprasizyanta",
+        "apAprasizyaTAH",
+        "apAprasizyeTAm",
+        "apAprasizyaDvam",
+        "apAprasizye",
+        "apAprasizyAvahi",
+        "apAprasizyAmahi"
+      ],
+      "alrut": [
+        "pAprasizyate",
+        "pAprasizyete",
+        "pAprasizyante",
+        "pAprasizyase",
+        "pAprasizyeTe",
+        "pAprasizyaDve",
+        "pAprasizye",
+        "pAprasizyAvahe",
+        "pAprasizyAmahe"
+      ],
+      "alung": [
+        "apAprasizwa",
+        "apAprasizAtAm",
+        "apAprasizata",
+        "apAprasizWAH",
+        "apAprasizATAm",
+        "apAprasiDvam",
+        "apAprasizi",
+        "apAprasizvahi",
+        "apAprasizmahi"
+      ],
+      "alut": [
+        "pAprasitA",
+        "pAprasitArO",
+        "pAprasitAraH",
+        "pAprasitAse",
+        "pAprasitAsATe",
+        "pAprasitADve",
+        "pAprasitAhe",
+        "pAprasitAsvahe",
+        "pAprasitAsmahe"
+      ],
+      "avidhiling": [
+        "pAprasyeta",
+        "pAprasyeyAtAm",
+        "pAprasyeran",
+        "pAprasyeTAH",
+        "pAprasyeyATAm",
+        "pAprasyeDvam",
+        "pAprasyeya",
+        "pAprasyevahi",
+        "pAprasyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "pAprasizIzwa",
+        "pAprasizIyAstAm",
+        "pAprasizIran",
+        "pAprasizIzWAH",
+        "pAprasizIyAsTAm",
+        "pAprasizIDvam",
+        "pAprasizIya",
+        "pAprasizIvahi",
+        "pAprasizImahi"
+      ],
+      "alang": [
+        "apAprasyata",
+        "apAprasyetAm",
+        "apAprasyanta",
+        "apAprasyaTAH",
+        "apAprasyeTAm",
+        "apAprasyaDvam",
+        "apAprasye",
+        "apAprasyAvahi",
+        "apAprasyAmahi"
+      ],
+      "alat": [
+        "pAprasyate",
+        "pAprasyete",
+        "pAprasyante",
+        "pAprasyase",
+        "pAprasyeTe",
+        "pAprasyaDve",
+        "pAprasye",
+        "pAprasyAvahe",
+        "pAprasyAmahe"
+      ],
+      "alit": [
+        "pAprasAYcakre",
+        "pAprasAmAse",
+        "pAprasAmbaBUve",
+        "pAprasAYcakrAte",
+        "pAprasAmAsAte",
+        "pAprasAmbaBUvAte",
+        "pAprasAYcakrire",
+        "pAprasAmAsire",
+        "pAprasAmbaBUvire",
+        "pAprasAYcakfze",
+        "pAprasAmAsize",
+        "pAprasAmbaBUvize",
+        "pAprasAYcakrATe",
+        "pAprasAmAsATe",
+        "pAprasAmbaBUvATe",
+        "pAprasAYcakfQve",
+        "pAprasAmAsiDve",
+        "pAprasAmbaBUviQve",
+        "pAprasAYcakre",
+        "pAprasAmAhe",
+        "pAprasAmbaBUve",
+        "pAprasAYcakfvahe",
+        "pAprasAmAsivahe",
+        "pAprasAmbaBUvivahe",
+        "pAprasAYcakfmahe",
+        "pAprasAmAsimahe",
+        "pAprasAmbaBUvimahe"
+      ],
+      "alot": [
+        "pAprasyatAm",
+        "pAprasyetAm",
+        "pAprasyantAm",
+        "pAprasyasva",
+        "pAprasyeTAm",
+        "pAprasyaDvam",
+        "pAprasyE",
+        "pAprasyAvahE",
+        "pAprasyAmahE"
+      ],
+      "alrung": [
+        "apAprasizyata",
+        "apAprasizyetAm",
+        "apAprasizyanta",
+        "apAprasizyaTAH",
+        "apAprasizyeTAm",
+        "apAprasizyaDvam",
+        "apAprasizye",
+        "apAprasizyAvahi",
+        "apAprasizyAmahi"
+      ],
+      "alrut": [
+        "pAprasizyate",
+        "pAprasizyete",
+        "pAprasizyante",
+        "pAprasizyase",
+        "pAprasizyeTe",
+        "pAprasizyaDve",
+        "pAprasizye",
+        "pAprasizyAvahe",
+        "pAprasizyAmahe"
+      ],
+      "alung": [
+        "apAprasi",
+        "apAprasizAtAm",
+        "apAprasizata",
+        "apAprasizWAH",
+        "apAprasizATAm",
+        "apAprasiDvam",
+        "apAprasizi",
+        "apAprasizvahi",
+        "apAprasizmahi"
+      ],
+      "alut": [
+        "pAprasitA",
+        "pAprasitArO",
+        "pAprasitAraH",
+        "pAprasitAse",
+        "pAprasitAsATe",
+        "pAprasitADve",
+        "pAprasitAhe",
+        "pAprasitAsvahe",
+        "pAprasitAsmahe"
+      ],
+      "avidhiling": [
+        "pAprasyeta",
+        "pAprasyeyAtAm",
+        "pAprasyeran",
+        "pAprasyeTAH",
+        "pAprasyeyATAm",
+        "pAprasyeDvam",
+        "pAprasyeya",
+        "pAprasyevahi",
+        "pAprasyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "pAprasyAt",
+        "pAprasyAd",
+        "pAprasyAstAm",
+        "pAprasyAsuH",
+        "pAprasyAH",
+        "pAprasyAstam",
+        "pAprasyAsta",
+        "pAprasyAsam",
+        "pAprasyAsva",
+        "pAprasyAsma"
+      ],
+      "plang": [
+        "apAprat",
+        "apAprad",
+        "apAprasIt",
+        "apAprasId",
+        "apAprastAm",
+        "apAprasuH",
+        "apApraH",
+        "apAprat",
+        "apAprad",
+        "apAprasIH",
+        "apAprastam",
+        "apAprasta",
+        "apAprasam",
+        "apAprasva",
+        "apAprasma"
+      ],
+      "plat": [
+        "pAprasIti",
+        "pAprasti",
+        "pAprastaH",
+        "pAprasati",
+        "pAprasIzi",
+        "pAprassi",
+        "pAprasTaH",
+        "pAprasTa",
+        "pAprasImi",
+        "pAprasmi",
+        "pAprasvaH",
+        "pAprasmaH"
+      ],
+      "plit": [
+        "pAprasAYcakAra",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakratuH",
+        "pAprasAmAsatuH",
+        "pAprasAmbaBUvatuH",
+        "pAprasAYcakruH",
+        "pAprasAmAsuH",
+        "pAprasAmbaBUvuH",
+        "pAprasAYcakarTa",
+        "pAprasAmAsiTa",
+        "pAprasAmbaBUviTa",
+        "pAprasAYcakraTuH",
+        "pAprasAmAsaTuH",
+        "pAprasAmbaBUvaTuH",
+        "pAprasAYcakra",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakara",
+        "pAprasAYcakAra",
+        "pAprasAmAsa",
+        "pAprasAmbaBUva",
+        "pAprasAYcakfva",
+        "pAprasAmAsiva",
+        "pAprasAmbaBUviva",
+        "pAprasAYcakfma",
+        "pAprasAmAsima",
+        "pAprasAmbaBUvima"
+      ],
+      "plot": [
+        "pAprasItu",
+        "pAprastAt",
+        "pAprastAd",
+        "pAprastu",
+        "pAprastAm",
+        "pAprasatu",
+        "pApraDi",
+        "pAprastAt",
+        "pAprastAd",
+        "pAprastam",
+        "pAprasta",
+        "pAprasAni",
+        "pAprasAva",
+        "pAprasAma"
+      ],
+      "plrung": [
+        "apAprasizyat",
+        "apAprasizyad",
+        "apAprasizyatAm",
+        "apAprasizyan",
+        "apAprasizyaH",
+        "apAprasizyatam",
+        "apAprasizyata",
+        "apAprasizyam",
+        "apAprasizyAva",
+        "apAprasizyAma"
+      ],
+      "plrut": [
+        "pAprasizyati",
+        "pAprasizyataH",
+        "pAprasizyanti",
+        "pAprasizyasi",
+        "pAprasizyaTaH",
+        "pAprasizyaTa",
+        "pAprasizyAmi",
+        "pAprasizyAvaH",
+        "pAprasizyAmaH"
+      ],
+      "plung": [
+        "apAprasIt",
+        "apAprasId",
+        "apAprAsIt",
+        "apAprAsId",
+        "apAprasizwAm",
+        "apAprAsizwAm",
+        "apAprasizuH",
+        "apAprAsizuH",
+        "apAprasIH",
+        "apAprAsIH",
+        "apAprasizwam",
+        "apAprAsizwam",
+        "apAprasizwa",
+        "apAprAsizwa",
+        "apAprasizam",
+        "apAprAsizam",
+        "apAprasizva",
+        "apAprAsizva",
+        "apAprasizma",
+        "apAprAsizma"
+      ],
+      "plut": [
+        "pAprasitA",
+        "pAprasitArO",
+        "pAprasitAraH",
+        "pAprasitAsi",
+        "pAprasitAsTaH",
+        "pAprasitAsTa",
+        "pAprasitAsmi",
+        "pAprasitAsvaH",
+        "pAprasitAsmaH"
+      ],
+      "pvidhiling": [
+        "pAprasyAt",
+        "pAprasyAd",
+        "pAprasyAtAm",
+        "pAprasyuH",
+        "pAprasyAH",
+        "pAprasyAtam",
+        "pAprasyAta",
+        "pAprasyAm",
+        "pAprasyAva",
+        "pAprasyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "pAprasizIzwa",
+        "pAprAsizIzwa",
+        "pAprasizIyAstAm",
+        "pAprAsizIyAstAm",
+        "pAprasizIran",
+        "pAprAsizIran",
+        "pAprasizIzWAH",
+        "pAprAsizIzWAH",
+        "pAprasizIyAsTAm",
+        "pAprAsizIyAsTAm",
+        "pAprasizIDvam",
+        "pAprAsizIDvam",
+        "pAprasizIya",
+        "pAprAsizIya",
+        "pAprasizIvahi",
+        "pAprAsizIvahi",
+        "pAprasizImahi",
+        "pAprAsizImahi"
+      ],
+      "alang": [
+        "apAprasyata",
+        "apAprasyetAm",
+        "apAprasyanta",
+        "apAprasyaTAH",
+        "apAprasyeTAm",
+        "apAprasyaDvam",
+        "apAprasye",
+        "apAprasyAvahi",
+        "apAprasyAmahi"
+      ],
+      "alat": [
+        "pAprasyate",
+        "pAprasyete",
+        "pAprasyante",
+        "pAprasyase",
+        "pAprasyeTe",
+        "pAprasyaDve",
+        "pAprasye",
+        "pAprasyAvahe",
+        "pAprasyAmahe"
+      ],
+      "alit": [
+        "pAprasAYcakre",
+        "pAprasAmAse",
+        "pAprasAmbaBUve",
+        "pAprasAYcakrAte",
+        "pAprasAmAsAte",
+        "pAprasAmbaBUvAte",
+        "pAprasAYcakrire",
+        "pAprasAmAsire",
+        "pAprasAmbaBUvire",
+        "pAprasAYcakfze",
+        "pAprasAmAsize",
+        "pAprasAmbaBUvize",
+        "pAprasAYcakrATe",
+        "pAprasAmAsATe",
+        "pAprasAmbaBUvATe",
+        "pAprasAYcakfQve",
+        "pAprasAmAsiDve",
+        "pAprasAmbaBUviQve",
+        "pAprasAYcakre",
+        "pAprasAmAhe",
+        "pAprasAmbaBUve",
+        "pAprasAYcakfvahe",
+        "pAprasAmAsivahe",
+        "pAprasAmbaBUvivahe",
+        "pAprasAYcakfmahe",
+        "pAprasAmAsimahe",
+        "pAprasAmbaBUvimahe"
+      ],
+      "alot": [
+        "pAprasyatAm",
+        "pAprasyetAm",
+        "pAprasyantAm",
+        "pAprasyasva",
+        "pAprasyeTAm",
+        "pAprasyaDvam",
+        "pAprasyE",
+        "pAprasyAvahE",
+        "pAprasyAmahE"
+      ],
+      "alrung": [
+        "apAprasizyata",
+        "apAprAsizyata",
+        "apAprasizyetAm",
+        "apAprAsizyetAm",
+        "apAprasizyanta",
+        "apAprAsizyanta",
+        "apAprasizyaTAH",
+        "apAprAsizyaTAH",
+        "apAprasizyeTAm",
+        "apAprAsizyeTAm",
+        "apAprasizyaDvam",
+        "apAprAsizyaDvam",
+        "apAprasizye",
+        "apAprAsizye",
+        "apAprasizyAvahi",
+        "apAprAsizyAvahi",
+        "apAprasizyAmahi",
+        "apAprAsizyAmahi"
+      ],
+      "alrut": [
+        "pAprasizyate",
+        "pAprAsizyate",
+        "pAprasizyete",
+        "pAprAsizyete",
+        "pAprasizyante",
+        "pAprAsizyante",
+        "pAprasizyase",
+        "pAprAsizyase",
+        "pAprasizyeTe",
+        "pAprAsizyeTe",
+        "pAprasizyaDve",
+        "pAprAsizyaDve",
+        "pAprasizye",
+        "pAprAsizye",
+        "pAprasizyAvahe",
+        "pAprAsizyAvahe",
+        "pAprasizyAmahe",
+        "pAprAsizyAmahe"
+      ],
+      "alung": [
+        "apAprAsi",
+        "apAprasizAtAm",
+        "apAprAsizAtAm",
+        "apAprasizata",
+        "apAprAsizata",
+        "apAprasizWAH",
+        "apAprAsizWAH",
+        "apAprasizATAm",
+        "apAprAsizATAm",
+        "apAprasiDvam",
+        "apAprAsiDvam",
+        "apAprasizi",
+        "apAprAsizi",
+        "apAprasizvahi",
+        "apAprAsizvahi",
+        "apAprasizmahi",
+        "apAprAsizmahi"
+      ],
+      "alut": [
+        "pAprasitA",
+        "pAprAsitA",
+        "pAprasitArO",
+        "pAprAsitArO",
+        "pAprasitAraH",
+        "pAprAsitAraH",
+        "pAprasitAse",
+        "pAprAsitAse",
+        "pAprasitAsATe",
+        "pAprAsitAsATe",
+        "pAprasitADve",
+        "pAprAsitADve",
+        "pAprasitAhe",
+        "pAprAsitAhe",
+        "pAprasitAsvahe",
+        "pAprAsitAsvahe",
+        "pAprasitAsmahe",
+        "pAprAsitAsmahe"
+      ],
+      "avidhiling": [
+        "pAprasyeta",
+        "pAprasyeyAtAm",
+        "pAprasyeran",
+        "pAprasyeTAH",
+        "pAprasyeyATAm",
+        "pAprasyeDvam",
+        "pAprasyeya",
+        "pAprasyevahi",
+        "pAprasyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "ac": [
+        {
+          "base": "prasa",
+          "m": "prasaH",
+          "f": "prasA",
+          "n": "prasam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prasanIya",
+          "m": "prasanIyaH",
+          "f": "prasanIyA",
+          "n": "prasanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prasita",
+          "m": "prasitaH",
+          "f": "prasitA",
+          "n": "prasitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prasitavat",
+          "m": "prasitavAn",
+          "f": "prasitavatI",
+          "n": "prasitavat/prasitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prasti",
+          "m": "",
+          "f": "prastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prasitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "paprasvas",
+          "m": "paprasvAn",
+          "f": "paprasuzI",
+          "n": "paprasvat/paprasvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "prAsa",
+          "m": "prAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prasamAna",
+          "m": "prasamAnaH",
+          "f": "prasamAnA",
+          "n": "prasamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "prAsya",
+          "m": "prAsyaH",
+          "f": "prAsyA",
+          "n": "prAsyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prAsaka",
+          "m": "prAsakaH",
+          "f": "prAsikA",
+          "n": "prAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "prasitavya",
+          "m": "prasitavyaH",
+          "f": "prasitavyA",
+          "n": "prasitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "prasitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "prasitf",
+          "m": "prasitA",
+          "f": "prasitrI",
+          "n": "prasitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prasyamAna",
+          "m": "prasyamAnaH",
+          "f": "prasyamAnA",
+          "n": "prasyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prasana",
+          "m": "",
+          "f": "",
+          "n": "prasanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prasaka",
+          "m": "prasakaH",
+          "f": "prasikA",
+          "n": "prasakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prasamAna",
+          "m": "prasamAnaH",
+          "f": "prasamAnA",
+          "n": "prasamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prasizyamARa",
+          "m": "prasizyamARaH",
+          "f": "prasizyamARA",
+          "n": "prasizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prasizyamARa",
+          "m": "prasizyamARaH",
+          "f": "prasizyamARA",
+          "n": "prasizyamARam"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "piprasizA",
+          "m": "",
+          "f": "piprasizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "piprasiza",
+          "m": "piprasizaH",
+          "f": "piprasizA",
+          "n": "piprasizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "piprasizaRIya",
+          "m": "piprasizaRIyaH",
+          "f": "piprasizaRIyA",
+          "n": "piprasizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "piprasizu",
+          "m": "piprasizuH",
+          "f": "piprasizuH",
+          "n": "piprasizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "piprasizita",
+          "m": "piprasizitaH",
+          "f": "piprasizitA",
+          "n": "piprasizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "piprasizitavat",
+          "m": "piprasizitavAn",
+          "f": "piprasizitavatI",
+          "n": "piprasizitavat/piprasizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "piprasizwi",
+          "m": "",
+          "f": "piprasizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "piprasizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "piprasizAmbaBUvas",
+          "m": "piprasizAmbaBUvAn",
+          "f": "piprasizAmbaBUzI",
+          "n": "piprasizAmbaBUvat/piprasizAmbaBUvad"
+        },
+        {
+          "base": "piprasizAmAsivas",
+          "m": "piprasizAmAsivAn",
+          "f": "piprasizAmAsyuzI",
+          "n": "piprasizAmAsivat/piprasizAmAsivad"
+        },
+        {
+          "base": "piprasizAYcakfvas",
+          "m": "piprasizAYcakfvAn",
+          "f": "piprasizAYcakruzI",
+          "n": "piprasizAYcakfvat/piprasizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "piprasiza",
+          "m": "piprasizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "piprasizamARa",
+          "m": "piprasizamARaH",
+          "f": "piprasizamARA",
+          "n": "piprasizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "piprasizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "piprasizaka",
+          "m": "piprasizakaH",
+          "f": "piprasizikA",
+          "n": "piprasizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "piprasizitavya",
+          "m": "piprasizitavyaH",
+          "f": "piprasizitavyA",
+          "n": "piprasizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "piprasizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "piprasizitf",
+          "m": "piprasizitA",
+          "f": "piprasizitrI",
+          "n": "piprasizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "piprasizyamARa",
+          "m": "piprasizyamARaH",
+          "f": "piprasizyamARA",
+          "n": "piprasizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "piprasizya",
+          "m": "piprasizyaH",
+          "f": "piprasizyA",
+          "n": "piprasizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapiprasizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "piprasizaRa",
+          "m": "",
+          "f": "",
+          "n": "piprasizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "piprasizaka",
+          "m": "piprasizakaH",
+          "f": "piprasizikA",
+          "n": "piprasizakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "piprasizamARa",
+          "m": "piprasizamARaH",
+          "f": "piprasizamARA",
+          "n": "piprasizamARam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "piprasizizyamARa",
+          "m": "piprasizizyamARaH",
+          "f": "piprasizizyamARA",
+          "n": "piprasizizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "piprasizizyamARa",
+          "m": "piprasizizyamARaH",
+          "f": "piprasizizyamARA",
+          "n": "piprasizizyamARam"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "prasa",
+          "m": "prasaH",
+          "f": "prasA",
+          "n": "prasam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "prasanIya",
+          "m": "prasanIyaH",
+          "f": "prasanIyA",
+          "n": "prasanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "prasita",
+          "m": "prasitaH",
+          "f": "prasitA",
+          "n": "prasitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "prasitavat",
+          "m": "prasitavAn",
+          "f": "prasitavatI",
+          "n": "prasitavat/prasitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "prasti",
+          "m": "",
+          "f": "prastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "prasayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "prasayAmbaBUvas",
+          "m": "prasayAmbaBUvAn",
+          "f": "prasayAmbaBUzI",
+          "n": "prasayAmbaBUvat/prasayAmbaBUvad"
+        },
+        {
+          "base": "prasayAmAsivas",
+          "m": "prasayAmAsivAn",
+          "f": "prasayAmAsyuzI",
+          "n": "prasayAmAsivat/prasayAmAsivad"
+        },
+        {
+          "base": "prasayAYcakfvas",
+          "m": "prasayAYcakfvAn",
+          "f": "prasayAYcakruzI",
+          "n": "prasayAYcakfvat/prasayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "prasayamAna",
+          "m": "prasayamAnaH",
+          "f": "prasayamAnA",
+          "n": "prasayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "prAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "prasam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "prasaka",
+          "m": "prasakaH",
+          "f": "prasikA",
+          "n": "prasakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "prasayitavya",
+          "m": "prasayitavyaH",
+          "f": "prasayitavyA",
+          "n": "prasayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "prasayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "prasayitf",
+          "m": "prasayitA",
+          "f": "prasayitrI",
+          "n": "prasayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "prasyamAna",
+          "m": "prasyamAnaH",
+          "f": "prasyamAnA",
+          "n": "prasyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "prasya",
+          "m": "prasyaH",
+          "f": "prasyA",
+          "n": "prasyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "praprasayya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "prasana",
+          "m": "",
+          "f": "",
+          "n": "prasanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "prasaka",
+          "m": "prasakaH",
+          "f": "prasikA",
+          "n": "prasakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "prasayat",
+          "m": "prasayan",
+          "f": "prasayantI",
+          "n": "prasayat/prasayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "prasayamAna",
+          "m": "prasayamAnaH",
+          "f": "prasayamAnA",
+          "n": "prasayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "prasizyamARa",
+          "m": "prasizyamARaH",
+          "f": "prasizyamARA",
+          "n": "prasizyamARam"
+        },
+        {
+          "base": "prasayizyamARa",
+          "m": "prasayizyamARaH",
+          "f": "prasayizyamARA",
+          "n": "prasayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "prasayizyat",
+          "m": "prasayizyan",
+          "f": "prasayizyatI/prasayizyantI",
+          "n": "prasayizyat/prasayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "prasayizyamARa",
+          "m": "prasayizyamARaH",
+          "f": "prasayizyamARA",
+          "n": "prasayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "pAprasA",
+          "m": "",
+          "f": "pAprasA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pAprasa",
+          "m": "pAprasaH",
+          "f": "pAprasA",
+          "n": "pAprasam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pAprasanIya",
+          "m": "pAprasanIyaH",
+          "f": "pAprasanIyA",
+          "n": "pAprasanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pAprasita",
+          "m": "pAprasitaH",
+          "f": "pAprasitA",
+          "n": "pAprasitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pAprasitavat",
+          "m": "pAprasitavAn",
+          "f": "pAprasitavatI",
+          "n": "pAprasitavat/pAprasitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pAprasti",
+          "m": "",
+          "f": "pAprastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pAprasitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pAprasAmbaBUvas",
+          "m": "pAprasAmbaBUvAn",
+          "f": "pAprasAmbaBUzI",
+          "n": "pAprasAmbaBUvat/pAprasAmbaBUvad"
+        },
+        {
+          "base": "pAprasAmAsivas",
+          "m": "pAprasAmAsivAn",
+          "f": "pAprasAmAsyuzI",
+          "n": "pAprasAmAsivat/pAprasAmAsivad"
+        },
+        {
+          "base": "pAprasAYcakfvas",
+          "m": "pAprasAYcakfvAn",
+          "f": "pAprasAYcakruzI",
+          "n": "pAprasAYcakfvat/pAprasAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pAprasa",
+          "m": "pAprasaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pAprasyamAna",
+          "m": "pAprasyamAnaH",
+          "f": "pAprasyamAnA",
+          "n": "pAprasyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pAprasam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pAprasaka",
+          "m": "pAprasakaH",
+          "f": "pAprasikA",
+          "n": "pAprasakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pAprasitavya",
+          "m": "pAprasitavyaH",
+          "f": "pAprasitavyA",
+          "n": "pAprasitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pAprasitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pAprasitf",
+          "m": "pAprasitA",
+          "f": "pAprasitrI",
+          "n": "pAprasitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pAprasyamAna",
+          "m": "pAprasyamAnaH",
+          "f": "pAprasyamAnA",
+          "n": "pAprasyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "pAprasya",
+          "m": "pAprasyaH",
+          "f": "pAprasyA",
+          "n": "pAprasyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapAprasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pAprasana",
+          "m": "",
+          "f": "",
+          "n": "pAprasanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pAprasaka",
+          "m": "pAprasakaH",
+          "f": "pAprasikA",
+          "n": "pAprasakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "pAprasyamAna",
+          "m": "pAprasyamAnaH",
+          "f": "pAprasyamAnA",
+          "n": "pAprasyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pAprasizyamARa",
+          "m": "pAprasizyamARaH",
+          "f": "pAprasizyamARA",
+          "n": "pAprasizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "pAprasizyamARa",
+          "m": "pAprasizyamARaH",
+          "f": "pAprasizyamARA",
+          "n": "pAprasizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "pAprasA",
+          "m": "",
+          "f": "pAprasA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "pAprasa",
+          "m": "pAprasaH",
+          "f": "pAprasA",
+          "n": "pAprasam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "pAprasanIya",
+          "m": "pAprasanIyaH",
+          "f": "pAprasanIyA",
+          "n": "pAprasanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "pAprasita",
+          "m": "pAprasitaH",
+          "f": "pAprasitA",
+          "n": "pAprasitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "pAprasitavat",
+          "m": "pAprasitavAn",
+          "f": "pAprasitavatI",
+          "n": "pAprasitavat/pAprasitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "pAprasti",
+          "m": "",
+          "f": "pAprastiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "pAprasitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "pAprasAmbaBUvas",
+          "m": "pAprasAmbaBUvAn",
+          "f": "pAprasAmbaBUzI",
+          "n": "pAprasAmbaBUvat/pAprasAmbaBUvad"
+        },
+        {
+          "base": "pAprasAmAsivas",
+          "m": "pAprasAmAsivAn",
+          "f": "pAprasAmAsyuzI",
+          "n": "pAprasAmAsivat/pAprasAmAsivad"
+        },
+        {
+          "base": "pAprasAYcakfvas",
+          "m": "pAprasAYcakfvAn",
+          "f": "pAprasAYcakruzI",
+          "n": "pAprasAYcakfvat/pAprasAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "pAprAsa",
+          "m": "pAprAsaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "pAprasAna",
+          "m": "pAprasAnaH",
+          "f": "pAprasAnA",
+          "n": "pAprasAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "pAprAsam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "pAprAsaka",
+          "m": "pAprAsakaH",
+          "f": "pAprAsikA",
+          "n": "pAprAsakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "pAprasitavya",
+          "m": "pAprasitavyaH",
+          "f": "pAprasitavyA",
+          "n": "pAprasitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "pAprasitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "pAprasitf",
+          "m": "pAprasitA",
+          "f": "pAprasitrI",
+          "n": "pAprasitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "pAprasyamAna",
+          "m": "pAprasyamAnaH",
+          "f": "pAprasyamAnA",
+          "n": "pAprasyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prapAprasya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "pAprasana",
+          "m": "",
+          "f": "",
+          "n": "pAprasanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "pAprasaka",
+          "m": "pAprasakaH",
+          "f": "pAprasikA",
+          "n": "pAprasakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "pAprasat",
+          "m": "pAprasat/pAprasad",
+          "f": "pAprasatI",
+          "n": "pAprasat/pAprasad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "pAprAsizyamARa",
+          "m": "pAprAsizyamARaH",
+          "f": "pAprAsizyamARA",
+          "n": "pAprAsizyamARam"
+        },
+        {
+          "base": "pAprasizyamARa",
+          "m": "pAprasizyamARaH",
+          "f": "pAprasizyamARA",
+          "n": "pAprasizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "pAprasizyat",
+          "m": "pAprasizyan",
+          "f": "pAprasizyatI/pAprasizyantI",
+          "n": "pAprasizyat/pAprasizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "pras",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

@@ -1,0 +1,2923 @@
+{
+  "id": "01.0469",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "cupa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "mandAyAM gatO"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to move slowly"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "DIre DIre calanA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "' sparSe cupati mandAyAM gatO tu Sapi copati ' (Slo. 138) - devaH ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "403"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "403"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2308",
+      "ext_link": "/sutraani/sk2308?scroll=sutra-commentary-kaumudi-region&highlight=caupa"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "cupyAt",
+        "cupyAd",
+        "cupyAstAm",
+        "cupyAsuH",
+        "cupyAH",
+        "cupyAstam",
+        "cupyAsta",
+        "cupyAsam",
+        "cupyAsva",
+        "cupyAsma"
+      ],
+      "plang": [
+        "acopat",
+        "acopad",
+        "acopatAm",
+        "acopan",
+        "acopaH",
+        "acopatam",
+        "acopata",
+        "acopam",
+        "acopAva",
+        "acopAma"
+      ],
+      "plat": [
+        "copati",
+        "copataH",
+        "copanti",
+        "copasi",
+        "copaTaH",
+        "copaTa",
+        "copAmi",
+        "copAvaH",
+        "copAmaH"
+      ],
+      "plit": [
+        "cucopa",
+        "cucupatuH",
+        "cucupuH",
+        "cucopiTa",
+        "cucupaTuH",
+        "cucupa",
+        "cucopa",
+        "cucupiva",
+        "cucupima"
+      ],
+      "plot": [
+        "copatAt",
+        "copatAd",
+        "copatu",
+        "copatAm",
+        "copantu",
+        "copa",
+        "copatAt",
+        "copatAd",
+        "copatam",
+        "copata",
+        "copAni",
+        "copAva",
+        "copAma"
+      ],
+      "plrung": [
+        "acopizyat",
+        "acopizyad",
+        "acopizyatAm",
+        "acopizyan",
+        "acopizyaH",
+        "acopizyatam",
+        "acopizyata",
+        "acopizyam",
+        "acopizyAva",
+        "acopizyAma"
+      ],
+      "plrut": [
+        "copizyati",
+        "copizyataH",
+        "copizyanti",
+        "copizyasi",
+        "copizyaTaH",
+        "copizyaTa",
+        "copizyAmi",
+        "copizyAvaH",
+        "copizyAmaH"
+      ],
+      "plung": [
+        "acopIt",
+        "acopId",
+        "acopizwAm",
+        "acopizuH",
+        "acopIH",
+        "acopizwam",
+        "acopizwa",
+        "acopizam",
+        "acopizva",
+        "acopizma"
+      ],
+      "plut": [
+        "copitA",
+        "copitArO",
+        "copitAraH",
+        "copitAsi",
+        "copitAsTaH",
+        "copitAsTa",
+        "copitAsmi",
+        "copitAsvaH",
+        "copitAsmaH"
+      ],
+      "pvidhiling": [
+        "copet",
+        "coped",
+        "copetAm",
+        "copeyuH",
+        "copeH",
+        "copetam",
+        "copeta",
+        "copeyam",
+        "copeva",
+        "copema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "copizIzwa",
+        "copizIyAstAm",
+        "copizIran",
+        "copizIzWAH",
+        "copizIyAsTAm",
+        "copizIDvam",
+        "copizIya",
+        "copizIvahi",
+        "copizImahi"
+      ],
+      "alang": [
+        "acupyata",
+        "acupyetAm",
+        "acupyanta",
+        "acupyaTAH",
+        "acupyeTAm",
+        "acupyaDvam",
+        "acupye",
+        "acupyAvahi",
+        "acupyAmahi"
+      ],
+      "alat": [
+        "cupyate",
+        "cupyete",
+        "cupyante",
+        "cupyase",
+        "cupyeTe",
+        "cupyaDve",
+        "cupye",
+        "cupyAvahe",
+        "cupyAmahe"
+      ],
+      "alit": [
+        "cucupe",
+        "cucupAte",
+        "cucupire",
+        "cucupize",
+        "cucupATe",
+        "cucupiDve",
+        "cucupe",
+        "cucupivahe",
+        "cucupimahe"
+      ],
+      "alot": [
+        "cupyatAm",
+        "cupyetAm",
+        "cupyantAm",
+        "cupyasva",
+        "cupyeTAm",
+        "cupyaDvam",
+        "cupyE",
+        "cupyAvahE",
+        "cupyAmahE"
+      ],
+      "alrung": [
+        "acopizyata",
+        "acopizyetAm",
+        "acopizyanta",
+        "acopizyaTAH",
+        "acopizyeTAm",
+        "acopizyaDvam",
+        "acopizye",
+        "acopizyAvahi",
+        "acopizyAmahi"
+      ],
+      "alrut": [
+        "copizyate",
+        "copizyete",
+        "copizyante",
+        "copizyase",
+        "copizyeTe",
+        "copizyaDve",
+        "copizye",
+        "copizyAvahe",
+        "copizyAmahe"
+      ],
+      "alung": [
+        "acopi",
+        "acopizAtAm",
+        "acopizata",
+        "acopizWAH",
+        "acopizATAm",
+        "acopiDvam",
+        "acopizi",
+        "acopizvahi",
+        "acopizmahi"
+      ],
+      "alut": [
+        "copitA",
+        "copitArO",
+        "copitAraH",
+        "copitAse",
+        "copitAsATe",
+        "copitADve",
+        "copitAhe",
+        "copitAsvahe",
+        "copitAsmahe"
+      ],
+      "avidhiling": [
+        "cupyeta",
+        "cupyeyAtAm",
+        "cupyeran",
+        "cupyeTAH",
+        "cupyeyATAm",
+        "cupyeDvam",
+        "cupyeya",
+        "cupyevahi",
+        "cupyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "cucupizyAt",
+        "cucupizyAd",
+        "cucopizyAt",
+        "cucopizyAd",
+        "cucupizyAstAm",
+        "cucopizyAstAm",
+        "cucupizyAsuH",
+        "cucopizyAsuH",
+        "cucupizyAH",
+        "cucopizyAH",
+        "cucupizyAstam",
+        "cucopizyAstam",
+        "cucupizyAsta",
+        "cucopizyAsta",
+        "cucupizyAsam",
+        "cucopizyAsam",
+        "cucupizyAsva",
+        "cucopizyAsva",
+        "cucupizyAsma",
+        "cucopizyAsma"
+      ],
+      "plang": [
+        "acucupizat",
+        "acucupizad",
+        "acucopizat",
+        "acucopizad",
+        "acucupizatAm",
+        "acucopizatAm",
+        "acucupizan",
+        "acucopizan",
+        "acucupizaH",
+        "acucopizaH",
+        "acucupizatam",
+        "acucopizatam",
+        "acucupizata",
+        "acucopizata",
+        "acucupizam",
+        "acucopizam",
+        "acucupizAva",
+        "acucopizAva",
+        "acucupizAma",
+        "acucopizAma"
+      ],
+      "plat": [
+        "cucupizati",
+        "cucopizati",
+        "cucupizataH",
+        "cucopizataH",
+        "cucupizanti",
+        "cucopizanti",
+        "cucupizasi",
+        "cucopizasi",
+        "cucupizaTaH",
+        "cucopizaTaH",
+        "cucupizaTa",
+        "cucopizaTa",
+        "cucupizAmi",
+        "cucopizAmi",
+        "cucupizAvaH",
+        "cucopizAvaH",
+        "cucupizAmaH",
+        "cucopizAmaH"
+      ],
+      "plit": [
+        "cucupizAYcakAra",
+        "cucupizAmAsa",
+        "cucupizAmbaBUva",
+        "cucopizAYcakAra",
+        "cucopizAmAsa",
+        "cucopizAmbaBUva",
+        "cucupizAYcakratuH",
+        "cucupizAmAsatuH",
+        "cucupizAmbaBUvatuH",
+        "cucopizAYcakratuH",
+        "cucopizAmAsatuH",
+        "cucopizAmbaBUvatuH",
+        "cucupizAYcakruH",
+        "cucupizAmAsuH",
+        "cucupizAmbaBUvuH",
+        "cucopizAYcakruH",
+        "cucopizAmAsuH",
+        "cucopizAmbaBUvuH",
+        "cucupizAYcakarTa",
+        "cucupizAmAsiTa",
+        "cucupizAmbaBUviTa",
+        "cucopizAYcakarTa",
+        "cucopizAmAsiTa",
+        "cucopizAmbaBUviTa",
+        "cucupizAYcakraTuH",
+        "cucupizAmAsaTuH",
+        "cucupizAmbaBUvaTuH",
+        "cucopizAYcakraTuH",
+        "cucopizAmAsaTuH",
+        "cucopizAmbaBUvaTuH",
+        "cucupizAYcakra",
+        "cucupizAmAsa",
+        "cucupizAmbaBUva",
+        "cucopizAYcakra",
+        "cucopizAmAsa",
+        "cucopizAmbaBUva",
+        "cucupizAYcakara",
+        "cucupizAYcakAra",
+        "cucupizAmAsa",
+        "cucupizAmbaBUva",
+        "cucopizAYcakara",
+        "cucopizAYcakAra",
+        "cucopizAmAsa",
+        "cucopizAmbaBUva",
+        "cucupizAYcakfva",
+        "cucupizAmAsiva",
+        "cucupizAmbaBUviva",
+        "cucopizAYcakfva",
+        "cucopizAmAsiva",
+        "cucopizAmbaBUviva",
+        "cucupizAYcakfma",
+        "cucupizAmAsima",
+        "cucupizAmbaBUvima",
+        "cucopizAYcakfma",
+        "cucopizAmAsima",
+        "cucopizAmbaBUvima"
+      ],
+      "plot": [
+        "cucupizatAt",
+        "cucupizatAd",
+        "cucupizatu",
+        "cucopizatAt",
+        "cucopizatAd",
+        "cucopizatu",
+        "cucupizatAm",
+        "cucopizatAm",
+        "cucupizantu",
+        "cucopizantu",
+        "cucupiza",
+        "cucupizatAt",
+        "cucupizatAd",
+        "cucopiza",
+        "cucopizatAt",
+        "cucopizatAd",
+        "cucupizatam",
+        "cucopizatam",
+        "cucupizata",
+        "cucopizata",
+        "cucupizARi",
+        "cucopizARi",
+        "cucupizAva",
+        "cucopizAva",
+        "cucupizAma",
+        "cucopizAma"
+      ],
+      "plrung": [
+        "acucupizizyat",
+        "acucupizizyad",
+        "acucopizizyat",
+        "acucopizizyad",
+        "acucupizizyatAm",
+        "acucopizizyatAm",
+        "acucupizizyan",
+        "acucopizizyan",
+        "acucupizizyaH",
+        "acucopizizyaH",
+        "acucupizizyatam",
+        "acucopizizyatam",
+        "acucupizizyata",
+        "acucopizizyata",
+        "acucupizizyam",
+        "acucopizizyam",
+        "acucupizizyAva",
+        "acucopizizyAva",
+        "acucupizizyAma",
+        "acucopizizyAma"
+      ],
+      "plrut": [
+        "cucupizizyati",
+        "cucopizizyati",
+        "cucupizizyataH",
+        "cucopizizyataH",
+        "cucupizizyanti",
+        "cucopizizyanti",
+        "cucupizizyasi",
+        "cucopizizyasi",
+        "cucupizizyaTaH",
+        "cucopizizyaTaH",
+        "cucupizizyaTa",
+        "cucopizizyaTa",
+        "cucupizizyAmi",
+        "cucopizizyAmi",
+        "cucupizizyAvaH",
+        "cucopizizyAvaH",
+        "cucupizizyAmaH",
+        "cucopizizyAmaH"
+      ],
+      "plung": [
+        "acucupizIt",
+        "acucupizId",
+        "acucopizIt",
+        "acucopizId",
+        "acucupizizwAm",
+        "acucopizizwAm",
+        "acucupizizuH",
+        "acucopizizuH",
+        "acucupizIH",
+        "acucopizIH",
+        "acucupizizwam",
+        "acucopizizwam",
+        "acucupizizwa",
+        "acucopizizwa",
+        "acucupizizam",
+        "acucopizizam",
+        "acucupizizva",
+        "acucopizizva",
+        "acucupizizma",
+        "acucopizizma"
+      ],
+      "plut": [
+        "cucupizitA",
+        "cucopizitA",
+        "cucupizitArO",
+        "cucopizitArO",
+        "cucupizitAraH",
+        "cucopizitAraH",
+        "cucupizitAsi",
+        "cucopizitAsi",
+        "cucupizitAsTaH",
+        "cucopizitAsTaH",
+        "cucupizitAsTa",
+        "cucopizitAsTa",
+        "cucupizitAsmi",
+        "cucopizitAsmi",
+        "cucupizitAsvaH",
+        "cucopizitAsvaH",
+        "cucupizitAsmaH",
+        "cucopizitAsmaH"
+      ],
+      "pvidhiling": [
+        "cucupizet",
+        "cucupized",
+        "cucopizet",
+        "cucopized",
+        "cucupizetAm",
+        "cucopizetAm",
+        "cucupizeyuH",
+        "cucopizeyuH",
+        "cucupizeH",
+        "cucopizeH",
+        "cucupizetam",
+        "cucopizetam",
+        "cucupizeta",
+        "cucopizeta",
+        "cucupizeyam",
+        "cucopizeyam",
+        "cucupizeva",
+        "cucopizeva",
+        "cucupizema",
+        "cucopizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "cucupizizIzwa",
+        "cucopizizIzwa",
+        "cucupizizIyAstAm",
+        "cucopizizIyAstAm",
+        "cucupizizIran",
+        "cucopizizIran",
+        "cucupizizIzWAH",
+        "cucopizizIzWAH",
+        "cucupizizIyAsTAm",
+        "cucopizizIyAsTAm",
+        "cucupizizIDvam",
+        "cucopizizIDvam",
+        "cucupizizIya",
+        "cucopizizIya",
+        "cucupizizIvahi",
+        "cucopizizIvahi",
+        "cucupizizImahi",
+        "cucopizizImahi"
+      ],
+      "alang": [
+        "acucupizyata",
+        "acucopizyata",
+        "acucupizyetAm",
+        "acucopizyetAm",
+        "acucupizyanta",
+        "acucopizyanta",
+        "acucupizyaTAH",
+        "acucopizyaTAH",
+        "acucupizyeTAm",
+        "acucopizyeTAm",
+        "acucupizyaDvam",
+        "acucopizyaDvam",
+        "acucupizye",
+        "acucopizye",
+        "acucupizyAvahi",
+        "acucopizyAvahi",
+        "acucupizyAmahi",
+        "acucopizyAmahi"
+      ],
+      "alat": [
+        "cucupizyate",
+        "cucopizyate",
+        "cucupizyete",
+        "cucopizyete",
+        "cucupizyante",
+        "cucopizyante",
+        "cucupizyase",
+        "cucopizyase",
+        "cucupizyeTe",
+        "cucopizyeTe",
+        "cucupizyaDve",
+        "cucopizyaDve",
+        "cucupizye",
+        "cucopizye",
+        "cucupizyAvahe",
+        "cucopizyAvahe",
+        "cucupizyAmahe",
+        "cucopizyAmahe"
+      ],
+      "alit": [
+        "cucupizAYcakre",
+        "cucupizAmAse",
+        "cucupizAmbaBUve",
+        "cucopizAYcakre",
+        "cucopizAmAse",
+        "cucopizAmbaBUve",
+        "cucupizAYcakrAte",
+        "cucupizAmAsAte",
+        "cucupizAmbaBUvAte",
+        "cucopizAYcakrAte",
+        "cucopizAmAsAte",
+        "cucopizAmbaBUvAte",
+        "cucupizAYcakrire",
+        "cucupizAmAsire",
+        "cucupizAmbaBUvire",
+        "cucopizAYcakrire",
+        "cucopizAmAsire",
+        "cucopizAmbaBUvire",
+        "cucupizAYcakfze",
+        "cucupizAmAsize",
+        "cucupizAmbaBUvize",
+        "cucopizAYcakfze",
+        "cucopizAmAsize",
+        "cucopizAmbaBUvize",
+        "cucupizAYcakrATe",
+        "cucupizAmAsATe",
+        "cucupizAmbaBUvATe",
+        "cucopizAYcakrATe",
+        "cucopizAmAsATe",
+        "cucopizAmbaBUvATe",
+        "cucupizAYcakfQve",
+        "cucupizAmAsiDve",
+        "cucupizAmbaBUviQve",
+        "cucopizAYcakfQve",
+        "cucopizAmAsiDve",
+        "cucopizAmbaBUviQve",
+        "cucupizAYcakre",
+        "cucupizAmAhe",
+        "cucupizAmbaBUve",
+        "cucopizAYcakre",
+        "cucopizAmAhe",
+        "cucopizAmbaBUve",
+        "cucupizAYcakfvahe",
+        "cucupizAmAsivahe",
+        "cucupizAmbaBUvivahe",
+        "cucopizAYcakfvahe",
+        "cucopizAmAsivahe",
+        "cucopizAmbaBUvivahe",
+        "cucupizAYcakfmahe",
+        "cucupizAmAsimahe",
+        "cucupizAmbaBUvimahe",
+        "cucopizAYcakfmahe",
+        "cucopizAmAsimahe",
+        "cucopizAmbaBUvimahe"
+      ],
+      "alot": [
+        "cucupizyatAm",
+        "cucopizyatAm",
+        "cucupizyetAm",
+        "cucopizyetAm",
+        "cucupizyantAm",
+        "cucopizyantAm",
+        "cucupizyasva",
+        "cucopizyasva",
+        "cucupizyeTAm",
+        "cucopizyeTAm",
+        "cucupizyaDvam",
+        "cucopizyaDvam",
+        "cucupizyE",
+        "cucopizyE",
+        "cucupizyAvahE",
+        "cucopizyAvahE",
+        "cucupizyAmahE",
+        "cucopizyAmahE"
+      ],
+      "alrung": [
+        "acucupizizyata",
+        "acucopizizyata",
+        "acucupizizyetAm",
+        "acucopizizyetAm",
+        "acucupizizyanta",
+        "acucopizizyanta",
+        "acucupizizyaTAH",
+        "acucopizizyaTAH",
+        "acucupizizyeTAm",
+        "acucopizizyeTAm",
+        "acucupizizyaDvam",
+        "acucopizizyaDvam",
+        "acucupizizye",
+        "acucopizizye",
+        "acucupizizyAvahi",
+        "acucopizizyAvahi",
+        "acucupizizyAmahi",
+        "acucopizizyAmahi"
+      ],
+      "alrut": [
+        "cucupizizyate",
+        "cucopizizyate",
+        "cucupizizyete",
+        "cucopizizyete",
+        "cucupizizyante",
+        "cucopizizyante",
+        "cucupizizyase",
+        "cucopizizyase",
+        "cucupizizyeTe",
+        "cucopizizyeTe",
+        "cucupizizyaDve",
+        "cucopizizyaDve",
+        "cucupizizye",
+        "cucopizizye",
+        "cucupizizyAvahe",
+        "cucopizizyAvahe",
+        "cucupizizyAmahe",
+        "cucopizizyAmahe"
+      ],
+      "alung": [
+        "acucupizi",
+        "acucopizi",
+        "acucupizizAtAm",
+        "acucopizizAtAm",
+        "acucupizizata",
+        "acucopizizata",
+        "acucupizizWAH",
+        "acucopizizWAH",
+        "acucupizizATAm",
+        "acucopizizATAm",
+        "acucupiziDvam",
+        "acucopiziDvam",
+        "acucupizizi",
+        "acucopizizi",
+        "acucupizizvahi",
+        "acucopizizvahi",
+        "acucupizizmahi",
+        "acucopizizmahi"
+      ],
+      "alut": [
+        "cucupizitA",
+        "cucopizitA",
+        "cucupizitArO",
+        "cucopizitArO",
+        "cucupizitAraH",
+        "cucopizitAraH",
+        "cucupizitAse",
+        "cucopizitAse",
+        "cucupizitAsATe",
+        "cucopizitAsATe",
+        "cucupizitADve",
+        "cucopizitADve",
+        "cucupizitAhe",
+        "cucopizitAhe",
+        "cucupizitAsvahe",
+        "cucopizitAsvahe",
+        "cucupizitAsmahe",
+        "cucopizitAsmahe"
+      ],
+      "avidhiling": [
+        "cucupizyeta",
+        "cucopizyeta",
+        "cucupizyeyAtAm",
+        "cucopizyeyAtAm",
+        "cucupizyeran",
+        "cucopizyeran",
+        "cucupizyeTAH",
+        "cucopizyeTAH",
+        "cucupizyeyATAm",
+        "cucopizyeyATAm",
+        "cucupizyeDvam",
+        "cucopizyeDvam",
+        "cucupizyeya",
+        "cucopizyeya",
+        "cucupizyevahi",
+        "cucopizyevahi",
+        "cucupizyemahi",
+        "cucopizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "copayizIzwa",
+        "copayizIyAstAm",
+        "copayizIran",
+        "copayizIzWAH",
+        "copayizIyAsTAm",
+        "copayizIQvam",
+        "copayizIDvam",
+        "copayizIya",
+        "copayizIvahi",
+        "copayizImahi"
+      ],
+      "alang": [
+        "acopayata",
+        "acopayetAm",
+        "acopayanta",
+        "acopayaTAH",
+        "acopayeTAm",
+        "acopayaDvam",
+        "acopaye",
+        "acopayAvahi",
+        "acopayAmahi"
+      ],
+      "alat": [
+        "copayate",
+        "copayete",
+        "copayante",
+        "copayase",
+        "copayeTe",
+        "copayaDve",
+        "copaye",
+        "copayAvahe",
+        "copayAmahe"
+      ],
+      "alit": [
+        "copayAYcakre",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakrAte",
+        "copayAmAsatuH",
+        "copayAmbaBUvatuH",
+        "copayAYcakrire",
+        "copayAmAsuH",
+        "copayAmbaBUvuH",
+        "copayAYcakfze",
+        "copayAmAsiTa",
+        "copayAmbaBUviTa",
+        "copayAYcakrATe",
+        "copayAmAsaTuH",
+        "copayAmbaBUvaTuH",
+        "copayAYcakfQve",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakre",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakfvahe",
+        "copayAmAsiva",
+        "copayAmbaBUviva",
+        "copayAYcakfmahe",
+        "copayAmAsima",
+        "copayAmbaBUvima"
+      ],
+      "alot": [
+        "copayatAm",
+        "copayetAm",
+        "copayantAm",
+        "copayasva",
+        "copayeTAm",
+        "copayaDvam",
+        "copayE",
+        "copayAvahE",
+        "copayAmahE"
+      ],
+      "alrung": [
+        "acopayizyata",
+        "acopayizyetAm",
+        "acopayizyanta",
+        "acopayizyaTAH",
+        "acopayizyeTAm",
+        "acopayizyaDvam",
+        "acopayizye",
+        "acopayizyAvahi",
+        "acopayizyAmahi"
+      ],
+      "alrut": [
+        "copayizyate",
+        "copayizyete",
+        "copayizyante",
+        "copayizyase",
+        "copayizyeTe",
+        "copayizyaDve",
+        "copayizye",
+        "copayizyAvahe",
+        "copayizyAmahe"
+      ],
+      "alung": [
+        "acUcupata",
+        "acUcupetAm",
+        "acUcupanta",
+        "acUcupaTAH",
+        "acUcupeTAm",
+        "acUcupaDvam",
+        "acUcupe",
+        "acUcupAvahi",
+        "acUcupAmahi"
+      ],
+      "alut": [
+        "copayitA",
+        "copayitArO",
+        "copayitAraH",
+        "copayitAse",
+        "copayitAsATe",
+        "copayitADve",
+        "copayitAhe",
+        "copayitAsvahe",
+        "copayitAsmahe"
+      ],
+      "avidhiling": [
+        "copayeta",
+        "copayeyAtAm",
+        "copayeran",
+        "copayeTAH",
+        "copayeyATAm",
+        "copayeDvam",
+        "copayeya",
+        "copayevahi",
+        "copayemahi"
+      ],
+      "pashirling": [
+        "copyAt",
+        "copyAd",
+        "copyAstAm",
+        "copyAsuH",
+        "copyAH",
+        "copyAstam",
+        "copyAsta",
+        "copyAsam",
+        "copyAsva",
+        "copyAsma"
+      ],
+      "plang": [
+        "acopayat",
+        "acopayad",
+        "acopayatAm",
+        "acopayan",
+        "acopayaH",
+        "acopayatam",
+        "acopayata",
+        "acopayam",
+        "acopayAva",
+        "acopayAma"
+      ],
+      "plat": [
+        "copayati",
+        "copayataH",
+        "copayanti",
+        "copayasi",
+        "copayaTaH",
+        "copayaTa",
+        "copayAmi",
+        "copayAvaH",
+        "copayAmaH"
+      ],
+      "plit": [
+        "copayAYcakAra",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakratuH",
+        "copayAmAsatuH",
+        "copayAmbaBUvatuH",
+        "copayAYcakruH",
+        "copayAmAsuH",
+        "copayAmbaBUvuH",
+        "copayAYcakarTa",
+        "copayAmAsiTa",
+        "copayAmbaBUviTa",
+        "copayAYcakraTuH",
+        "copayAmAsaTuH",
+        "copayAmbaBUvaTuH",
+        "copayAYcakra",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakara",
+        "copayAYcakAra",
+        "copayAmAsa",
+        "copayAmbaBUva",
+        "copayAYcakfva",
+        "copayAmAsiva",
+        "copayAmbaBUviva",
+        "copayAYcakfma",
+        "copayAmAsima",
+        "copayAmbaBUvima"
+      ],
+      "plot": [
+        "copayatAt",
+        "copayatAd",
+        "copayatu",
+        "copayatAm",
+        "copayantu",
+        "copaya",
+        "copayatAt",
+        "copayatAd",
+        "copayatam",
+        "copayata",
+        "copayAni",
+        "copayAva",
+        "copayAma"
+      ],
+      "plrung": [
+        "acopayizyat",
+        "acopayizyad",
+        "acopayizyatAm",
+        "acopayizyan",
+        "acopayizyaH",
+        "acopayizyatam",
+        "acopayizyata",
+        "acopayizyam",
+        "acopayizyAva",
+        "acopayizyAma"
+      ],
+      "plrut": [
+        "copayizyati",
+        "copayizyataH",
+        "copayizyanti",
+        "copayizyasi",
+        "copayizyaTaH",
+        "copayizyaTa",
+        "copayizyAmi",
+        "copayizyAvaH",
+        "copayizyAmaH"
+      ],
+      "plung": [
+        "acUcupat",
+        "acUcupad",
+        "acUcupatAm",
+        "acUcupan",
+        "acUcupaH",
+        "acUcupatam",
+        "acUcupata",
+        "acUcupam",
+        "acUcupAva",
+        "acUcupAma"
+      ],
+      "plut": [
+        "copayitA",
+        "copayitArO",
+        "copayitAraH",
+        "copayitAsi",
+        "copayitAsTaH",
+        "copayitAsTa",
+        "copayitAsmi",
+        "copayitAsvaH",
+        "copayitAsmaH"
+      ],
+      "pvidhiling": [
+        "copayet",
+        "copayed",
+        "copayetAm",
+        "copayeyuH",
+        "copayeH",
+        "copayetam",
+        "copayeta",
+        "copayeyam",
+        "copayeva",
+        "copayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "copayizIzwa",
+        "copizIzwa",
+        "copayizIyAstAm",
+        "copizIyAstAm",
+        "copayizIran",
+        "copizIran",
+        "copayizIzWAH",
+        "copizIzWAH",
+        "copayizIyAsTAm",
+        "copizIyAsTAm",
+        "copayizIQvam",
+        "copayizIDvam",
+        "copizIDvam",
+        "copayizIya",
+        "copizIya",
+        "copayizIvahi",
+        "copizIvahi",
+        "copayizImahi",
+        "copizImahi"
+      ],
+      "alang": [
+        "acopyata",
+        "acopyetAm",
+        "acopyanta",
+        "acopyaTAH",
+        "acopyeTAm",
+        "acopyaDvam",
+        "acopye",
+        "acopyAvahi",
+        "acopyAmahi"
+      ],
+      "alat": [
+        "copyate",
+        "copyete",
+        "copyante",
+        "copyase",
+        "copyeTe",
+        "copyaDve",
+        "copye",
+        "copyAvahe",
+        "copyAmahe"
+      ],
+      "alit": [
+        "copayAYcakre",
+        "copayAmAse",
+        "copayAmbaBUve",
+        "copayAYcakrAte",
+        "copayAmAsAte",
+        "copayAmbaBUvAte",
+        "copayAYcakrire",
+        "copayAmAsire",
+        "copayAmbaBUvire",
+        "copayAYcakfze",
+        "copayAmAsize",
+        "copayAmbaBUvize",
+        "copayAYcakrATe",
+        "copayAmAsATe",
+        "copayAmbaBUvATe",
+        "copayAYcakfQve",
+        "copayAmAsiDve",
+        "copayAmbaBUviQve",
+        "copayAYcakre",
+        "copayAmAhe",
+        "copayAmbaBUve",
+        "copayAYcakfvahe",
+        "copayAmAsivahe",
+        "copayAmbaBUvivahe",
+        "copayAYcakfmahe",
+        "copayAmAsimahe",
+        "copayAmbaBUvimahe"
+      ],
+      "alot": [
+        "copyatAm",
+        "copyetAm",
+        "copyantAm",
+        "copyasva",
+        "copyeTAm",
+        "copyaDvam",
+        "copyE",
+        "copyAvahE",
+        "copyAmahE"
+      ],
+      "alrung": [
+        "acopayizyata",
+        "acopizyata",
+        "acopayizyetAm",
+        "acopizyetAm",
+        "acopayizyanta",
+        "acopizyanta",
+        "acopayizyaTAH",
+        "acopizyaTAH",
+        "acopayizyeTAm",
+        "acopizyeTAm",
+        "acopayizyaDvam",
+        "acopizyaDvam",
+        "acopayizye",
+        "acopizye",
+        "acopayizyAvahi",
+        "acopizyAvahi",
+        "acopayizyAmahi",
+        "acopizyAmahi"
+      ],
+      "alrut": [
+        "copayizyate",
+        "copizyate",
+        "copayizyete",
+        "copizyete",
+        "copayizyante",
+        "copizyante",
+        "copayizyase",
+        "copizyase",
+        "copayizyeTe",
+        "copizyeTe",
+        "copayizyaDve",
+        "copizyaDve",
+        "copayizye",
+        "copizye",
+        "copayizyAvahe",
+        "copizyAvahe",
+        "copayizyAmahe",
+        "copizyAmahe"
+      ],
+      "alung": [
+        "acopi",
+        "acopayizAtAm",
+        "acopizAtAm",
+        "acopayizata",
+        "acopizata",
+        "acopayizWAH",
+        "acopizWAH",
+        "acopayizATAm",
+        "acopizATAm",
+        "acopayiQvam",
+        "acopayiDvam",
+        "acopiDvam",
+        "acopayizi",
+        "acopizi",
+        "acopayizvahi",
+        "acopizvahi",
+        "acopayizmahi",
+        "acopizmahi"
+      ],
+      "alut": [
+        "copayitA",
+        "copitA",
+        "copayitArO",
+        "copitArO",
+        "copayitAraH",
+        "copitAraH",
+        "copayitAse",
+        "copitAse",
+        "copayitAsATe",
+        "copitAsATe",
+        "copayitADve",
+        "copitADve",
+        "copayitAhe",
+        "copitAhe",
+        "copayitAsvahe",
+        "copitAsvahe",
+        "copayitAsmahe",
+        "copitAsmahe"
+      ],
+      "avidhiling": [
+        "copyeta",
+        "copyeyAtAm",
+        "copyeran",
+        "copyeTAH",
+        "copyeyATAm",
+        "copyeDvam",
+        "copyeya",
+        "copyevahi",
+        "copyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "cocupizIzwa",
+        "cocupizIyAstAm",
+        "cocupizIran",
+        "cocupizIzWAH",
+        "cocupizIyAsTAm",
+        "cocupizIDvam",
+        "cocupizIya",
+        "cocupizIvahi",
+        "cocupizImahi"
+      ],
+      "alang": [
+        "acocupyata",
+        "acocupyetAm",
+        "acocupyanta",
+        "acocupyaTAH",
+        "acocupyeTAm",
+        "acocupyaDvam",
+        "acocupye",
+        "acocupyAvahi",
+        "acocupyAmahi"
+      ],
+      "alat": [
+        "cocupyate",
+        "cocupyete",
+        "cocupyante",
+        "cocupyase",
+        "cocupyeTe",
+        "cocupyaDve",
+        "cocupye",
+        "cocupyAvahe",
+        "cocupyAmahe"
+      ],
+      "alit": [
+        "cocupAYcakre",
+        "cocupAmAsa",
+        "cocupAmbaBUva",
+        "cocupAYcakrAte",
+        "cocupAmAsatuH",
+        "cocupAmbaBUvatuH",
+        "cocupAYcakrire",
+        "cocupAmAsuH",
+        "cocupAmbaBUvuH",
+        "cocupAYcakfze",
+        "cocupAmAsiTa",
+        "cocupAmbaBUviTa",
+        "cocupAYcakrATe",
+        "cocupAmAsaTuH",
+        "cocupAmbaBUvaTuH",
+        "cocupAYcakfQve",
+        "cocupAmAsa",
+        "cocupAmbaBUva",
+        "cocupAYcakre",
+        "cocupAmAsa",
+        "cocupAmbaBUva",
+        "cocupAYcakfvahe",
+        "cocupAmAsiva",
+        "cocupAmbaBUviva",
+        "cocupAYcakfmahe",
+        "cocupAmAsima",
+        "cocupAmbaBUvima"
+      ],
+      "alot": [
+        "cocupyatAm",
+        "cocupyetAm",
+        "cocupyantAm",
+        "cocupyasva",
+        "cocupyeTAm",
+        "cocupyaDvam",
+        "cocupyE",
+        "cocupyAvahE",
+        "cocupyAmahE"
+      ],
+      "alrung": [
+        "acocupizyata",
+        "acocupizyetAm",
+        "acocupizyanta",
+        "acocupizyaTAH",
+        "acocupizyeTAm",
+        "acocupizyaDvam",
+        "acocupizye",
+        "acocupizyAvahi",
+        "acocupizyAmahi"
+      ],
+      "alrut": [
+        "cocupizyate",
+        "cocupizyete",
+        "cocupizyante",
+        "cocupizyase",
+        "cocupizyeTe",
+        "cocupizyaDve",
+        "cocupizye",
+        "cocupizyAvahe",
+        "cocupizyAmahe"
+      ],
+      "alung": [
+        "acocupizwa",
+        "acocupizAtAm",
+        "acocupizata",
+        "acocupizWAH",
+        "acocupizATAm",
+        "acocupiDvam",
+        "acocupizi",
+        "acocupizvahi",
+        "acocupizmahi"
+      ],
+      "alut": [
+        "cocupitA",
+        "cocupitArO",
+        "cocupitAraH",
+        "cocupitAse",
+        "cocupitAsATe",
+        "cocupitADve",
+        "cocupitAhe",
+        "cocupitAsvahe",
+        "cocupitAsmahe"
+      ],
+      "avidhiling": [
+        "cocupyeta",
+        "cocupyeyAtAm",
+        "cocupyeran",
+        "cocupyeTAH",
+        "cocupyeyATAm",
+        "cocupyeDvam",
+        "cocupyeya",
+        "cocupyevahi",
+        "cocupyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "cocupizIzwa",
+        "cocupizIyAstAm",
+        "cocupizIran",
+        "cocupizIzWAH",
+        "cocupizIyAsTAm",
+        "cocupizIDvam",
+        "cocupizIya",
+        "cocupizIvahi",
+        "cocupizImahi"
+      ],
+      "alang": [
+        "acocupyata",
+        "acocupyetAm",
+        "acocupyanta",
+        "acocupyaTAH",
+        "acocupyeTAm",
+        "acocupyaDvam",
+        "acocupye",
+        "acocupyAvahi",
+        "acocupyAmahi"
+      ],
+      "alat": [
+        "cocupyate",
+        "cocupyete",
+        "cocupyante",
+        "cocupyase",
+        "cocupyeTe",
+        "cocupyaDve",
+        "cocupye",
+        "cocupyAvahe",
+        "cocupyAmahe"
+      ],
+      "alit": [
+        "cocupAYcakre",
+        "cocupAmAse",
+        "cocupAmbaBUve",
+        "cocupAYcakrAte",
+        "cocupAmAsAte",
+        "cocupAmbaBUvAte",
+        "cocupAYcakrire",
+        "cocupAmAsire",
+        "cocupAmbaBUvire",
+        "cocupAYcakfze",
+        "cocupAmAsize",
+        "cocupAmbaBUvize",
+        "cocupAYcakrATe",
+        "cocupAmAsATe",
+        "cocupAmbaBUvATe",
+        "cocupAYcakfQve",
+        "cocupAmAsiDve",
+        "cocupAmbaBUviQve",
+        "cocupAYcakre",
+        "cocupAmAhe",
+        "cocupAmbaBUve",
+        "cocupAYcakfvahe",
+        "cocupAmAsivahe",
+        "cocupAmbaBUvivahe",
+        "cocupAYcakfmahe",
+        "cocupAmAsimahe",
+        "cocupAmbaBUvimahe"
+      ],
+      "alot": [
+        "cocupyatAm",
+        "cocupyetAm",
+        "cocupyantAm",
+        "cocupyasva",
+        "cocupyeTAm",
+        "cocupyaDvam",
+        "cocupyE",
+        "cocupyAvahE",
+        "cocupyAmahE"
+      ],
+      "alrung": [
+        "acocupizyata",
+        "acocupizyetAm",
+        "acocupizyanta",
+        "acocupizyaTAH",
+        "acocupizyeTAm",
+        "acocupizyaDvam",
+        "acocupizye",
+        "acocupizyAvahi",
+        "acocupizyAmahi"
+      ],
+      "alrut": [
+        "cocupizyate",
+        "cocupizyete",
+        "cocupizyante",
+        "cocupizyase",
+        "cocupizyeTe",
+        "cocupizyaDve",
+        "cocupizye",
+        "cocupizyAvahe",
+        "cocupizyAmahe"
+      ],
+      "alung": [
+        "acocupi",
+        "acocupizAtAm",
+        "acocupizata",
+        "acocupizWAH",
+        "acocupizATAm",
+        "acocupiDvam",
+        "acocupizi",
+        "acocupizvahi",
+        "acocupizmahi"
+      ],
+      "alut": [
+        "cocupitA",
+        "cocupitArO",
+        "cocupitAraH",
+        "cocupitAse",
+        "cocupitAsATe",
+        "cocupitADve",
+        "cocupitAhe",
+        "cocupitAsvahe",
+        "cocupitAsmahe"
+      ],
+      "avidhiling": [
+        "cocupyeta",
+        "cocupyeyAtAm",
+        "cocupyeran",
+        "cocupyeTAH",
+        "cocupyeyATAm",
+        "cocupyeDvam",
+        "cocupyeya",
+        "cocupyevahi",
+        "cocupyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "cocupyAt",
+        "cocupyAd",
+        "cocupyAstAm",
+        "cocupyAsuH",
+        "cocupyAH",
+        "cocupyAstam",
+        "cocupyAsta",
+        "cocupyAsam",
+        "cocupyAsva",
+        "cocupyAsma"
+      ],
+      "plang": [
+        "acocupIt",
+        "acocupId",
+        "acocop",
+        "acocob",
+        "acocuptAm",
+        "acocupuH",
+        "acocupIH",
+        "acocop",
+        "acocob",
+        "acocuptam",
+        "acocupta",
+        "acocupam",
+        "acocupva",
+        "acocupma"
+      ],
+      "plat": [
+        "cocupIti",
+        "cocopti",
+        "cocuptaH",
+        "cocupati",
+        "cocupIzi",
+        "cocopsi",
+        "cocupTaH",
+        "cocupTa",
+        "cocupImi",
+        "cocopmi",
+        "cocupvaH",
+        "cocupmaH"
+      ],
+      "plit": [
+        "cocopAYcakAra",
+        "cocopAmAsa",
+        "cocopAmbaBUva",
+        "cocopAYcakratuH",
+        "cocopAmAsatuH",
+        "cocopAmbaBUvatuH",
+        "cocopAYcakruH",
+        "cocopAmAsuH",
+        "cocopAmbaBUvuH",
+        "cocopAYcakarTa",
+        "cocopAmAsiTa",
+        "cocopAmbaBUviTa",
+        "cocopAYcakraTuH",
+        "cocopAmAsaTuH",
+        "cocopAmbaBUvaTuH",
+        "cocopAYcakra",
+        "cocopAmAsa",
+        "cocopAmbaBUva",
+        "cocopAYcakara",
+        "cocopAYcakAra",
+        "cocopAmAsa",
+        "cocopAmbaBUva",
+        "cocopAYcakfva",
+        "cocopAmAsiva",
+        "cocopAmbaBUviva",
+        "cocopAYcakfma",
+        "cocopAmAsima",
+        "cocopAmbaBUvima"
+      ],
+      "plot": [
+        "cocupItu",
+        "cocuptAt",
+        "cocuptAd",
+        "cocoptu",
+        "cocuptAm",
+        "cocupatu",
+        "cocuptAt",
+        "cocuptAd",
+        "cocubDi",
+        "cocuptam",
+        "cocupta",
+        "cocupAni",
+        "cocupAva",
+        "cocupAma"
+      ],
+      "plrung": [
+        "acocopizyat",
+        "acocopizyad",
+        "acocopizyatAm",
+        "acocopizyan",
+        "acocopizyaH",
+        "acocopizyatam",
+        "acocopizyata",
+        "acocopizyam",
+        "acocopizyAva",
+        "acocopizyAma"
+      ],
+      "plrut": [
+        "cocopizyati",
+        "cocopizyataH",
+        "cocopizyanti",
+        "cocopizyasi",
+        "cocopizyaTaH",
+        "cocopizyaTa",
+        "cocopizyAmi",
+        "cocopizyAvaH",
+        "cocopizyAmaH"
+      ],
+      "plung": [
+        "acocopIt",
+        "acocopId",
+        "acocopizwAm",
+        "acocopizuH",
+        "acocopIH",
+        "acocopizwam",
+        "acocopizwa",
+        "acocopizam",
+        "acocopizva",
+        "acocopizma"
+      ],
+      "plut": [
+        "cocopitA",
+        "cocopitArO",
+        "cocopitAraH",
+        "cocopitAsi",
+        "cocopitAsTaH",
+        "cocopitAsTa",
+        "cocopitAsmi",
+        "cocopitAsvaH",
+        "cocopitAsmaH"
+      ],
+      "pvidhiling": [
+        "cocupyAt",
+        "cocupyAd",
+        "cocupyAtAm",
+        "cocupyuH",
+        "cocupyAH",
+        "cocupyAtam",
+        "cocupyAta",
+        "cocupyAm",
+        "cocupyAva",
+        "cocupyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "cocopizIzwa",
+        "cocopizIyAstAm",
+        "cocopizIran",
+        "cocopizIzWAH",
+        "cocopizIyAsTAm",
+        "cocopizIDvam",
+        "cocopizIya",
+        "cocopizIvahi",
+        "cocopizImahi"
+      ],
+      "alang": [
+        "acocupyata",
+        "acocupyetAm",
+        "acocupyanta",
+        "acocupyaTAH",
+        "acocupyeTAm",
+        "acocupyaDvam",
+        "acocupye",
+        "acocupyAvahi",
+        "acocupyAmahi"
+      ],
+      "alat": [
+        "cocupyate",
+        "cocupyete",
+        "cocupyante",
+        "cocupyase",
+        "cocupyeTe",
+        "cocupyaDve",
+        "cocupye",
+        "cocupyAvahe",
+        "cocupyAmahe"
+      ],
+      "alit": [
+        "cocopAYcakre",
+        "cocopAmAse",
+        "cocopAmbaBUve",
+        "cocopAYcakrAte",
+        "cocopAmAsAte",
+        "cocopAmbaBUvAte",
+        "cocopAYcakrire",
+        "cocopAmAsire",
+        "cocopAmbaBUvire",
+        "cocopAYcakfze",
+        "cocopAmAsize",
+        "cocopAmbaBUvize",
+        "cocopAYcakrATe",
+        "cocopAmAsATe",
+        "cocopAmbaBUvATe",
+        "cocopAYcakfQve",
+        "cocopAmAsiDve",
+        "cocopAmbaBUviQve",
+        "cocopAYcakre",
+        "cocopAmAhe",
+        "cocopAmbaBUve",
+        "cocopAYcakfvahe",
+        "cocopAmAsivahe",
+        "cocopAmbaBUvivahe",
+        "cocopAYcakfmahe",
+        "cocopAmAsimahe",
+        "cocopAmbaBUvimahe"
+      ],
+      "alot": [
+        "cocupyatAm",
+        "cocupyetAm",
+        "cocupyantAm",
+        "cocupyasva",
+        "cocupyeTAm",
+        "cocupyaDvam",
+        "cocupyE",
+        "cocupyAvahE",
+        "cocupyAmahE"
+      ],
+      "alrung": [
+        "acocopizyata",
+        "acocopizyetAm",
+        "acocopizyanta",
+        "acocopizyaTAH",
+        "acocopizyeTAm",
+        "acocopizyaDvam",
+        "acocopizye",
+        "acocopizyAvahi",
+        "acocopizyAmahi"
+      ],
+      "alrut": [
+        "cocopizyate",
+        "cocopizyete",
+        "cocopizyante",
+        "cocopizyase",
+        "cocopizyeTe",
+        "cocopizyaDve",
+        "cocopizye",
+        "cocopizyAvahe",
+        "cocopizyAmahe"
+      ],
+      "alung": [
+        "acocopi",
+        "acocopizAtAm",
+        "acocopizata",
+        "acocopizWAH",
+        "acocopizATAm",
+        "acocopiDvam",
+        "acocopizi",
+        "acocopizvahi",
+        "acocopizmahi"
+      ],
+      "alut": [
+        "cocopitA",
+        "cocopitArO",
+        "cocopitAraH",
+        "cocopitAse",
+        "cocopitAsATe",
+        "cocopitADve",
+        "cocopitAhe",
+        "cocopitAsvahe",
+        "cocopitAsmahe"
+      ],
+      "avidhiling": [
+        "cocupyeta",
+        "cocupyeyAtAm",
+        "cocupyeran",
+        "cocupyeTAH",
+        "cocupyeyATAm",
+        "cocupyeDvam",
+        "cocupyeya",
+        "cocupyevahi",
+        "cocupyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "copanIya",
+          "m": "copanIyaH",
+          "f": "copanIyA",
+          "n": "copanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cupita",
+          "m": "cupitaH",
+          "f": "cupitA",
+          "n": "cupitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cupitavat",
+          "m": "cupitavAn",
+          "f": "cupitavatI",
+          "n": "cupitavat/cupitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cupti",
+          "m": "",
+          "f": "cuptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cupitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "copitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cucupvas",
+          "m": "cucupvAn",
+          "f": "cucupuzI",
+          "n": "cucupvat/cucupvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "copa",
+          "m": "copaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "copamAna",
+          "m": "copamAnaH",
+          "f": "copamAnA",
+          "n": "copamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "copam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "copya",
+          "m": "copyaH",
+          "f": "copyA",
+          "n": "copyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "copaka",
+          "m": "copakaH",
+          "f": "copikA",
+          "n": "copakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "copitavya",
+          "m": "copitavyaH",
+          "f": "copitavyA",
+          "n": "copitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "copitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "copitf",
+          "m": "copitA",
+          "f": "copitrI",
+          "n": "copitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cupyamAna",
+          "m": "cupyamAnaH",
+          "f": "cupyamAnA",
+          "n": "cupyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracupya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "copana",
+          "m": "",
+          "f": "",
+          "n": "copanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "copaka",
+          "m": "copakaH",
+          "f": "copikA",
+          "n": "copakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "copat",
+          "m": "copan",
+          "f": "copantI",
+          "n": "copat/copad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "copizyamARa",
+          "m": "copizyamARaH",
+          "f": "copizyamARA",
+          "n": "copizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "copizyat",
+          "m": "copizyan",
+          "f": "copizyatI/copizyantI",
+          "n": "copizyat/copizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "cucupizA",
+          "m": "",
+          "f": "cucupizA",
+          "n": ""
+        },
+        {
+          "base": "cucopizA",
+          "m": "",
+          "f": "cucopizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cucupiza",
+          "m": "cucupizaH",
+          "f": "cucupizA",
+          "n": "cucupizam"
+        },
+        {
+          "base": "cucopiza",
+          "m": "cucopizaH",
+          "f": "cucopizA",
+          "n": "cucopizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cucupizaRIya",
+          "m": "cucupizaRIyaH",
+          "f": "cucupizaRIyA",
+          "n": "cucupizaRIyam"
+        },
+        {
+          "base": "cucopizaRIya",
+          "m": "cucopizaRIyaH",
+          "f": "cucopizaRIyA",
+          "n": "cucopizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "cucupizu",
+          "m": "cucupizuH",
+          "f": "cucupizuH",
+          "n": "cucupizu"
+        },
+        {
+          "base": "cucopizu",
+          "m": "cucopizuH",
+          "f": "cucopizuH",
+          "n": "cucopizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cucupizita",
+          "m": "cucupizitaH",
+          "f": "cucupizitA",
+          "n": "cucupizitam"
+        },
+        {
+          "base": "cucopizita",
+          "m": "cucopizitaH",
+          "f": "cucopizitA",
+          "n": "cucopizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cucupizitavat",
+          "m": "cucupizitavAn",
+          "f": "cucupizitavatI",
+          "n": "cucupizitavat/cucupizitavad"
+        },
+        {
+          "base": "cucopizitavat",
+          "m": "cucopizitavAn",
+          "f": "cucopizitavatI",
+          "n": "cucopizitavat/cucopizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cucupizwi",
+          "m": "",
+          "f": "cucupizwiH",
+          "n": ""
+        },
+        {
+          "base": "cucopizwi",
+          "m": "",
+          "f": "cucopizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cucupizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cucopizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cucupizAmbaBUvas",
+          "m": "cucupizAmbaBUvAn",
+          "f": "cucupizAmbaBUzI",
+          "n": "cucupizAmbaBUvat/cucupizAmbaBUvad"
+        },
+        {
+          "base": "cucupizAmAsivas",
+          "m": "cucupizAmAsivAn",
+          "f": "cucupizAmAsyuzI",
+          "n": "cucupizAmAsivat/cucupizAmAsivad"
+        },
+        {
+          "base": "cucupizAYcakfvas",
+          "m": "cucupizAYcakfvAn",
+          "f": "cucupizAYcakruzI",
+          "n": "cucupizAYcakfvat/cucupizAYcakfvad"
+        },
+        {
+          "base": "cucopizAmbaBUvas",
+          "m": "cucopizAmbaBUvAn",
+          "f": "cucopizAmbaBUzI",
+          "n": "cucopizAmbaBUvat/cucopizAmbaBUvad"
+        },
+        {
+          "base": "cucopizAmAsivas",
+          "m": "cucopizAmAsivAn",
+          "f": "cucopizAmAsyuzI",
+          "n": "cucopizAmAsivat/cucopizAmAsivad"
+        },
+        {
+          "base": "cucopizAYcakfvas",
+          "m": "cucopizAYcakfvAn",
+          "f": "cucopizAYcakruzI",
+          "n": "cucopizAYcakfvat/cucopizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cucupiza",
+          "m": "cucupizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cucopiza",
+          "m": "cucopizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cucupizamARa",
+          "m": "cucupizamARaH",
+          "f": "cucupizamARA",
+          "n": "cucupizamARam"
+        },
+        {
+          "base": "cucopizamARa",
+          "m": "cucopizamARaH",
+          "f": "cucopizamARA",
+          "n": "cucopizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cucupizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cucopizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cucupizaka",
+          "m": "cucupizakaH",
+          "f": "cucupizikA",
+          "n": "cucupizakam"
+        },
+        {
+          "base": "cucopizaka",
+          "m": "cucopizakaH",
+          "f": "cucopizikA",
+          "n": "cucopizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cucupizitavya",
+          "m": "cucupizitavyaH",
+          "f": "cucupizitavyA",
+          "n": "cucupizitavyam"
+        },
+        {
+          "base": "cucopizitavya",
+          "m": "cucopizitavyaH",
+          "f": "cucopizitavyA",
+          "n": "cucopizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cucupizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "cucopizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cucupizitf",
+          "m": "cucupizitA",
+          "f": "cucupizitrI",
+          "n": "cucupizitf"
+        },
+        {
+          "base": "cucopizitf",
+          "m": "cucopizitA",
+          "f": "cucopizitrI",
+          "n": "cucopizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cucupizyamARa",
+          "m": "cucupizyamARaH",
+          "f": "cucupizyamARA",
+          "n": "cucupizyamARam"
+        },
+        {
+          "base": "cucopizyamARa",
+          "m": "cucopizyamARaH",
+          "f": "cucopizyamARA",
+          "n": "cucopizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cucupizya",
+          "m": "cucupizyaH",
+          "f": "cucupizyA",
+          "n": "cucupizyam"
+        },
+        {
+          "base": "cucopizya",
+          "m": "cucopizyaH",
+          "f": "cucopizyA",
+          "n": "cucopizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracucupizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pracucopizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cucupizaRa",
+          "m": "",
+          "f": "",
+          "n": "cucupizaRam"
+        },
+        {
+          "base": "cucopizaRa",
+          "m": "",
+          "f": "",
+          "n": "cucopizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cucupizaka",
+          "m": "cucupizakaH",
+          "f": "cucupizikA",
+          "n": "cucupizakam"
+        },
+        {
+          "base": "cucopizaka",
+          "m": "cucopizakaH",
+          "f": "cucopizikA",
+          "n": "cucopizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cucupizat",
+          "m": "cucupizan",
+          "f": "cucupizantI",
+          "n": "cucupizat/cucupizad"
+        },
+        {
+          "base": "cucopizat",
+          "m": "cucopizan",
+          "f": "cucopizantI",
+          "n": "cucopizat/cucopizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cucupizizyamARa",
+          "m": "cucupizizyamARaH",
+          "f": "cucupizizyamARA",
+          "n": "cucupizizyamARam"
+        },
+        {
+          "base": "cucopizizyamARa",
+          "m": "cucopizizyamARaH",
+          "f": "cucopizizyamARA",
+          "n": "cucopizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cucupizizyat",
+          "m": "cucupizizyan",
+          "f": "cucupizizyatI/cucupizizyantI",
+          "n": "cucupizizyat/cucupizizyad"
+        },
+        {
+          "base": "cucopizizyat",
+          "m": "cucopizizyan",
+          "f": "cucopizizyatI/cucopizizyantI",
+          "n": "cucopizizyat/cucopizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "copa",
+          "m": "copaH",
+          "f": "copA",
+          "n": "copam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "copanIya",
+          "m": "copanIyaH",
+          "f": "copanIyA",
+          "n": "copanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "copita",
+          "m": "copitaH",
+          "f": "copitA",
+          "n": "copitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "copitavat",
+          "m": "copitavAn",
+          "f": "copitavatI",
+          "n": "copitavat/copitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "copti",
+          "m": "",
+          "f": "coptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "copayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "copayAmbaBUvas",
+          "m": "copayAmbaBUvAn",
+          "f": "copayAmbaBUzI",
+          "n": "copayAmbaBUvat/copayAmbaBUvad"
+        },
+        {
+          "base": "copayAmAsivas",
+          "m": "copayAmAsivAn",
+          "f": "copayAmAsyuzI",
+          "n": "copayAmAsivat/copayAmAsivad"
+        },
+        {
+          "base": "copayAYcakfvas",
+          "m": "copayAYcakfvAn",
+          "f": "copayAYcakruzI",
+          "n": "copayAYcakfvat/copayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "copayamAna",
+          "m": "copayamAnaH",
+          "f": "copayamAnA",
+          "n": "copayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "copam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "copaka",
+          "m": "copakaH",
+          "f": "copikA",
+          "n": "copakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "copayitavya",
+          "m": "copayitavyaH",
+          "f": "copayitavyA",
+          "n": "copayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "copayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "copayitf",
+          "m": "copayitA",
+          "f": "copayitrI",
+          "n": "copayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "copyamAna",
+          "m": "copyamAnaH",
+          "f": "copyamAnA",
+          "n": "copyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "copya",
+          "m": "copyaH",
+          "f": "copyA",
+          "n": "copyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracopya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "copana",
+          "m": "",
+          "f": "",
+          "n": "copanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "copaka",
+          "m": "copakaH",
+          "f": "copikA",
+          "n": "copakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "copayat",
+          "m": "copayan",
+          "f": "copayantI",
+          "n": "copayat/copayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "copayamAna",
+          "m": "copayamAnaH",
+          "f": "copayamAnA",
+          "n": "copayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "copizyamARa",
+          "m": "copizyamARaH",
+          "f": "copizyamARA",
+          "n": "copizyamARam"
+        },
+        {
+          "base": "copayizyamARa",
+          "m": "copayizyamARaH",
+          "f": "copayizyamARA",
+          "n": "copayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "copayizyat",
+          "m": "copayizyan",
+          "f": "copayizyatI/copayizyantI",
+          "n": "copayizyat/copayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "copayizyamARa",
+          "m": "copayizyamARaH",
+          "f": "copayizyamARA",
+          "n": "copayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "cocupA",
+          "m": "",
+          "f": "cocupA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cocupa",
+          "m": "cocupaH",
+          "f": "cocupA",
+          "n": "cocupam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cocupanIya",
+          "m": "cocupanIyaH",
+          "f": "cocupanIyA",
+          "n": "cocupanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cocupita",
+          "m": "cocupitaH",
+          "f": "cocupitA",
+          "n": "cocupitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cocupitavat",
+          "m": "cocupitavAn",
+          "f": "cocupitavatI",
+          "n": "cocupitavat/cocupitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cocupti",
+          "m": "",
+          "f": "cocuptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cocupitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cocupAmbaBUvas",
+          "m": "cocupAmbaBUvAn",
+          "f": "cocupAmbaBUzI",
+          "n": "cocupAmbaBUvat/cocupAmbaBUvad"
+        },
+        {
+          "base": "cocupAmAsivas",
+          "m": "cocupAmAsivAn",
+          "f": "cocupAmAsyuzI",
+          "n": "cocupAmAsivat/cocupAmAsivad"
+        },
+        {
+          "base": "cocupAYcakfvas",
+          "m": "cocupAYcakfvAn",
+          "f": "cocupAYcakruzI",
+          "n": "cocupAYcakfvat/cocupAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cocupa",
+          "m": "cocupaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cocupyamAna",
+          "m": "cocupyamAnaH",
+          "f": "cocupyamAnA",
+          "n": "cocupyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cocupam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cocupaka",
+          "m": "cocupakaH",
+          "f": "cocupikA",
+          "n": "cocupakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cocupitavya",
+          "m": "cocupitavyaH",
+          "f": "cocupitavyA",
+          "n": "cocupitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cocupitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cocupitf",
+          "m": "cocupitA",
+          "f": "cocupitrI",
+          "n": "cocupitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cocupyamAna",
+          "m": "cocupyamAnaH",
+          "f": "cocupyamAnA",
+          "n": "cocupyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "cocupya",
+          "m": "cocupyaH",
+          "f": "cocupyA",
+          "n": "cocupyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracocupya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cocupana",
+          "m": "",
+          "f": "",
+          "n": "cocupanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cocupaka",
+          "m": "cocupakaH",
+          "f": "cocupikA",
+          "n": "cocupakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "cocupyamAna",
+          "m": "cocupyamAnaH",
+          "f": "cocupyamAnA",
+          "n": "cocupyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cocupizyamARa",
+          "m": "cocupizyamARaH",
+          "f": "cocupizyamARA",
+          "n": "cocupizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "cocupizyamARa",
+          "m": "cocupizyamARaH",
+          "f": "cocupizyamARA",
+          "n": "cocupizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "cocopA",
+          "m": "",
+          "f": "cocopA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "cocopa",
+          "m": "cocopaH",
+          "f": "cocopA",
+          "n": "cocopam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "cocopanIya",
+          "m": "cocopanIyaH",
+          "f": "cocopanIyA",
+          "n": "cocopanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "cocupita",
+          "m": "cocupitaH",
+          "f": "cocupitA",
+          "n": "cocupitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "cocupitavat",
+          "m": "cocupitavAn",
+          "f": "cocupitavatI",
+          "n": "cocupitavat/cocupitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "cocupti",
+          "m": "",
+          "f": "cocuptiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "cocopitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "cocopAmbaBUvas",
+          "m": "cocopAmbaBUvAn",
+          "f": "cocopAmbaBUzI",
+          "n": "cocopAmbaBUvat/cocopAmbaBUvad"
+        },
+        {
+          "base": "cocopAmAsivas",
+          "m": "cocopAmAsivAn",
+          "f": "cocopAmAsyuzI",
+          "n": "cocopAmAsivat/cocopAmAsivad"
+        },
+        {
+          "base": "cocopAYcakfvas",
+          "m": "cocopAYcakfvAn",
+          "f": "cocopAYcakruzI",
+          "n": "cocopAYcakfvat/cocopAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "cocopa",
+          "m": "cocopaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "cocupAna",
+          "m": "cocupAnaH",
+          "f": "cocupAnA",
+          "n": "cocupAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "cocopam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "cocopaka",
+          "m": "cocopakaH",
+          "f": "cocopikA",
+          "n": "cocopakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "cocopitavya",
+          "m": "cocopitavyaH",
+          "f": "cocopitavyA",
+          "n": "cocopitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "cocopitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "cocopitf",
+          "m": "cocopitA",
+          "f": "cocopitrI",
+          "n": "cocopitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "cocupyamAna",
+          "m": "cocupyamAnaH",
+          "f": "cocupyamAnA",
+          "n": "cocupyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pracocupya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "cocopana",
+          "m": "",
+          "f": "",
+          "n": "cocopanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "cocopaka",
+          "m": "cocopakaH",
+          "f": "cocopikA",
+          "n": "cocopakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "cocupat",
+          "m": "cocupat/cocupad",
+          "f": "cocupatI",
+          "n": "cocupat/cocupad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "cocopizyamARa",
+          "m": "cocopizyamARaH",
+          "f": "cocopizyamARA",
+          "n": "cocopizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "cocopizyat",
+          "m": "cocopizyan",
+          "f": "cocopizyatI/cocopizyantI",
+          "n": "cocopizyat/cocopizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "cup",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

@@ -1,0 +1,2604 @@
+{
+  "id": "02.0074",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": "kezAYcana paRqitAnAM matena asmin DAtO vidyamAnaH  'n + s + t' ayam sampUrRaH varRakramaH eva saMyogasaMjYAM svIkaroti, na hi tasya 's + t' iti aMSaH . asmin pakze asmin DAtO vidyamAnaH takArapUrvaH sakAraH 'saMyogAdiH' na Bavitum arhati, ataSca skoH saMyogAdyorante ca 8.2.29 iti tasya lopaH api na samBavati . asmin pakze jAyamAnAni rUpARi api atra dattAni santi ."
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "zasti~"
+    },
+    {
+      "name": "arTaH",
+      "value": "svapne"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to sleep"
+    },
+    {
+      "name": "hindI arTa",
+      "value": "sonA"
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": "DAturayaM CAndasaH .  ' tadevaM deDIN vevIN zasa zasti vaSa ete paYca DAtavaH CAndasAH eva iti mADavAdayaH . tatra ' dIDIvevIwAm ' iti sUtre dIDIvevyoH CandovizayatvAt iti BAzyam . ' jakzityAdayaH zaw ' iti sUtre zasivazI CAndasAviti BAzyam . etadBAzyAdeva zastiDAtornAtra pAWa iti pratIyate ' iti bAlamanoramA ."
+    },
+    {
+      "name": "gaRaH",
+      "value": "adAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "akarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "1079"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1079"
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "2488",
+      "ext_link": "/sutraani/sk2488?scroll=sutra-commentary-kaumudi-region&highlight=zasatai"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "saMstyAt",
+        "saMstyAd",
+        "saMstyAstAm",
+        "saMstyAsuH",
+        "saMstyAH",
+        "saMstyAstam",
+        "saMstyAsta",
+        "saMstyAsam",
+        "saMstyAsva",
+        "saMstyAsma"
+      ],
+      "plang": [
+        "asan",
+        "asaMstAm",
+        "asaMsttAm",
+        "asaMstan",
+        "asan",
+        "asaMstam",
+        "asaMsttam",
+        "asaMsta",
+        "asaMstta",
+        "asaMstam",
+        "asaMstva",
+        "asaMstma"
+      ],
+      "plat": [
+        "saMsti",
+        "saMstti",
+        "saMstaH",
+        "saMsttaH",
+        "saMstanti",
+        "saMstsi",
+        "saMstTaH",
+        "saMsTaH",
+        "saMstTa",
+        "saMsTa",
+        "saMstmi",
+        "saMstvaH",
+        "saMstmaH"
+      ],
+      "plit": [
+        "sasaMsta",
+        "sasaMstatuH",
+        "sasaMstuH",
+        "sasaMstiTa",
+        "sasaMstaTuH",
+        "sasaMsta",
+        "sasaMsta",
+        "sasaMstiva",
+        "sasaMstima"
+      ],
+      "plot": [
+        "saMstAt",
+        "saMstAd",
+        "saMstu",
+        "saMsttAt",
+        "saMsttAd",
+        "saMsttu",
+        "saMstAm",
+        "saMsttAm",
+        "saMstantu",
+        "saMstAt",
+        "saMstAd",
+        "saMsttAt",
+        "saMsttAd",
+        "sanddDi",
+        "sanDi",
+        "saMstam",
+        "saMsttam",
+        "saMsta",
+        "saMstta",
+        "saMstAni",
+        "saMstAva",
+        "saMstAma"
+      ],
+      "plrung": [
+        "asaMstizyat",
+        "asaMstizyad",
+        "asaMstizyatAm",
+        "asaMstizyan",
+        "asaMstizyaH",
+        "asaMstizyatam",
+        "asaMstizyata",
+        "asaMstizyam",
+        "asaMstizyAva",
+        "asaMstizyAma"
+      ],
+      "plrut": [
+        "saMstizyati",
+        "saMstizyataH",
+        "saMstizyanti",
+        "saMstizyasi",
+        "saMstizyaTaH",
+        "saMstizyaTa",
+        "saMstizyAmi",
+        "saMstizyAvaH",
+        "saMstizyAmaH"
+      ],
+      "plung": [
+        "asaMstIt",
+        "asaMstId",
+        "asaMstizwAm",
+        "asaMstizuH",
+        "asaMstIH",
+        "asaMstizwam",
+        "asaMstizwa",
+        "asaMstizam",
+        "asaMstizva",
+        "asaMstizma"
+      ],
+      "plut": [
+        "saMstitA",
+        "saMstitArO",
+        "saMstitAraH",
+        "saMstitAsi",
+        "saMstitAsTaH",
+        "saMstitAsTa",
+        "saMstitAsmi",
+        "saMstitAsvaH",
+        "saMstitAsmaH"
+      ],
+      "pvidhiling": [
+        "saMstyAt",
+        "saMstyAd",
+        "saMstyAtAm",
+        "saMstyuH",
+        "saMstyAH",
+        "saMstyAtam",
+        "saMstyAta",
+        "saMstyAm",
+        "saMstyAva",
+        "saMstyAma"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "saMstizIzwa",
+        "saMstizIyAstAm",
+        "saMstizIran",
+        "saMstizIzWAH",
+        "saMstizIyAsTAm",
+        "saMstizIDvam",
+        "saMstizIya",
+        "saMstizIvahi",
+        "saMstizImahi"
+      ],
+      "alang": [
+        "asaMstyata",
+        "asaMstyetAm",
+        "asaMstyanta",
+        "asaMstyaTAH",
+        "asaMstyeTAm",
+        "asaMstyaDvam",
+        "asaMstye",
+        "asaMstyAvahi",
+        "asaMstyAmahi"
+      ],
+      "alat": [
+        "saMstyate",
+        "saMstyete",
+        "saMstyante",
+        "saMstyase",
+        "saMstyeTe",
+        "saMstyaDve",
+        "saMstye",
+        "saMstyAvahe",
+        "saMstyAmahe"
+      ],
+      "alit": [
+        "sasaMste",
+        "sasaMstAte",
+        "sasaMstire",
+        "sasaMstize",
+        "sasaMstATe",
+        "sasaMstiDve",
+        "sasaMste",
+        "sasaMstivahe",
+        "sasaMstimahe"
+      ],
+      "alot": [
+        "saMstyatAm",
+        "saMstyetAm",
+        "saMstyantAm",
+        "saMstyasva",
+        "saMstyeTAm",
+        "saMstyaDvam",
+        "saMstyE",
+        "saMstyAvahE",
+        "saMstyAmahE"
+      ],
+      "alrung": [
+        "asaMstizyata",
+        "asaMstizyetAm",
+        "asaMstizyanta",
+        "asaMstizyaTAH",
+        "asaMstizyeTAm",
+        "asaMstizyaDvam",
+        "asaMstizye",
+        "asaMstizyAvahi",
+        "asaMstizyAmahi"
+      ],
+      "alrut": [
+        "saMstizyate",
+        "saMstizyete",
+        "saMstizyante",
+        "saMstizyase",
+        "saMstizyeTe",
+        "saMstizyaDve",
+        "saMstizye",
+        "saMstizyAvahe",
+        "saMstizyAmahe"
+      ],
+      "alung": [
+        "asaMsti",
+        "asaMstizAtAm",
+        "asaMstizata",
+        "asaMstizWAH",
+        "asaMstizATAm",
+        "asaMstiDvam",
+        "asaMstizi",
+        "asaMstizvahi",
+        "asaMstizmahi"
+      ],
+      "alut": [
+        "saMstitA",
+        "saMstitArO",
+        "saMstitAraH",
+        "saMstitAse",
+        "saMstitAsATe",
+        "saMstitADve",
+        "saMstitAhe",
+        "saMstitAsvahe",
+        "saMstitAsmahe"
+      ],
+      "avidhiling": [
+        "saMstyeta",
+        "saMstyeyAtAm",
+        "saMstyeran",
+        "saMstyeTAH",
+        "saMstyeyATAm",
+        "saMstyeDvam",
+        "saMstyeya",
+        "saMstyevahi",
+        "saMstyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "sisaMstizyAt",
+        "sisaMstizyAd",
+        "sisaMstizyAstAm",
+        "sisaMstizyAsuH",
+        "sisaMstizyAH",
+        "sisaMstizyAstam",
+        "sisaMstizyAsta",
+        "sisaMstizyAsam",
+        "sisaMstizyAsva",
+        "sisaMstizyAsma"
+      ],
+      "plang": [
+        "asisaMstizat",
+        "asisaMstizad",
+        "asisaMstizatAm",
+        "asisaMstizan",
+        "asisaMstizaH",
+        "asisaMstizatam",
+        "asisaMstizata",
+        "asisaMstizam",
+        "asisaMstizAva",
+        "asisaMstizAma"
+      ],
+      "plat": [
+        "sisaMstizati",
+        "sisaMstizataH",
+        "sisaMstizanti",
+        "sisaMstizasi",
+        "sisaMstizaTaH",
+        "sisaMstizaTa",
+        "sisaMstizAmi",
+        "sisaMstizAvaH",
+        "sisaMstizAmaH"
+      ],
+      "plit": [
+        "sisaMstizAYcakAra",
+        "sisaMstizAmAsa",
+        "sisaMstizAmbaBUva",
+        "sisaMstizAYcakratuH",
+        "sisaMstizAmAsatuH",
+        "sisaMstizAmbaBUvatuH",
+        "sisaMstizAYcakruH",
+        "sisaMstizAmAsuH",
+        "sisaMstizAmbaBUvuH",
+        "sisaMstizAYcakarTa",
+        "sisaMstizAmAsiTa",
+        "sisaMstizAmbaBUviTa",
+        "sisaMstizAYcakraTuH",
+        "sisaMstizAmAsaTuH",
+        "sisaMstizAmbaBUvaTuH",
+        "sisaMstizAYcakra",
+        "sisaMstizAmAsa",
+        "sisaMstizAmbaBUva",
+        "sisaMstizAYcakara",
+        "sisaMstizAYcakAra",
+        "sisaMstizAmAsa",
+        "sisaMstizAmbaBUva",
+        "sisaMstizAYcakfva",
+        "sisaMstizAmAsiva",
+        "sisaMstizAmbaBUviva",
+        "sisaMstizAYcakfma",
+        "sisaMstizAmAsima",
+        "sisaMstizAmbaBUvima"
+      ],
+      "plot": [
+        "sisaMstizatAt",
+        "sisaMstizatAd",
+        "sisaMstizatu",
+        "sisaMstizatAm",
+        "sisaMstizantu",
+        "sisaMstiza",
+        "sisaMstizatAt",
+        "sisaMstizatAd",
+        "sisaMstizatam",
+        "sisaMstizata",
+        "sisaMstizARi",
+        "sisaMstizAva",
+        "sisaMstizAma"
+      ],
+      "plrung": [
+        "asisaMstizizyat",
+        "asisaMstizizyad",
+        "asisaMstizizyatAm",
+        "asisaMstizizyan",
+        "asisaMstizizyaH",
+        "asisaMstizizyatam",
+        "asisaMstizizyata",
+        "asisaMstizizyam",
+        "asisaMstizizyAva",
+        "asisaMstizizyAma"
+      ],
+      "plrut": [
+        "sisaMstizizyati",
+        "sisaMstizizyataH",
+        "sisaMstizizyanti",
+        "sisaMstizizyasi",
+        "sisaMstizizyaTaH",
+        "sisaMstizizyaTa",
+        "sisaMstizizyAmi",
+        "sisaMstizizyAvaH",
+        "sisaMstizizyAmaH"
+      ],
+      "plung": [
+        "asisaMstizIt",
+        "asisaMstizId",
+        "asisaMstizizwAm",
+        "asisaMstizizuH",
+        "asisaMstizIH",
+        "asisaMstizizwam",
+        "asisaMstizizwa",
+        "asisaMstizizam",
+        "asisaMstizizva",
+        "asisaMstizizma"
+      ],
+      "plut": [
+        "sisaMstizitA",
+        "sisaMstizitArO",
+        "sisaMstizitAraH",
+        "sisaMstizitAsi",
+        "sisaMstizitAsTaH",
+        "sisaMstizitAsTa",
+        "sisaMstizitAsmi",
+        "sisaMstizitAsvaH",
+        "sisaMstizitAsmaH"
+      ],
+      "pvidhiling": [
+        "sisaMstizet",
+        "sisaMstized",
+        "sisaMstizetAm",
+        "sisaMstizeyuH",
+        "sisaMstizeH",
+        "sisaMstizetam",
+        "sisaMstizeta",
+        "sisaMstizeyam",
+        "sisaMstizeva",
+        "sisaMstizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "sisaMstizizIzwa",
+        "sisaMstizizIyAstAm",
+        "sisaMstizizIran",
+        "sisaMstizizIzWAH",
+        "sisaMstizizIyAsTAm",
+        "sisaMstizizIDvam",
+        "sisaMstizizIya",
+        "sisaMstizizIvahi",
+        "sisaMstizizImahi"
+      ],
+      "alang": [
+        "asisaMstizyata",
+        "asisaMstizyetAm",
+        "asisaMstizyanta",
+        "asisaMstizyaTAH",
+        "asisaMstizyeTAm",
+        "asisaMstizyaDvam",
+        "asisaMstizye",
+        "asisaMstizyAvahi",
+        "asisaMstizyAmahi"
+      ],
+      "alat": [
+        "sisaMstizyate",
+        "sisaMstizyete",
+        "sisaMstizyante",
+        "sisaMstizyase",
+        "sisaMstizyeTe",
+        "sisaMstizyaDve",
+        "sisaMstizye",
+        "sisaMstizyAvahe",
+        "sisaMstizyAmahe"
+      ],
+      "alit": [
+        "sisaMstizAYcakre",
+        "sisaMstizAmAse",
+        "sisaMstizAmbaBUve",
+        "sisaMstizAYcakrAte",
+        "sisaMstizAmAsAte",
+        "sisaMstizAmbaBUvAte",
+        "sisaMstizAYcakrire",
+        "sisaMstizAmAsire",
+        "sisaMstizAmbaBUvire",
+        "sisaMstizAYcakfze",
+        "sisaMstizAmAsize",
+        "sisaMstizAmbaBUvize",
+        "sisaMstizAYcakrATe",
+        "sisaMstizAmAsATe",
+        "sisaMstizAmbaBUvATe",
+        "sisaMstizAYcakfQve",
+        "sisaMstizAmAsiDve",
+        "sisaMstizAmbaBUviQve",
+        "sisaMstizAYcakre",
+        "sisaMstizAmAhe",
+        "sisaMstizAmbaBUve",
+        "sisaMstizAYcakfvahe",
+        "sisaMstizAmAsivahe",
+        "sisaMstizAmbaBUvivahe",
+        "sisaMstizAYcakfmahe",
+        "sisaMstizAmAsimahe",
+        "sisaMstizAmbaBUvimahe"
+      ],
+      "alot": [
+        "sisaMstizyatAm",
+        "sisaMstizyetAm",
+        "sisaMstizyantAm",
+        "sisaMstizyasva",
+        "sisaMstizyeTAm",
+        "sisaMstizyaDvam",
+        "sisaMstizyE",
+        "sisaMstizyAvahE",
+        "sisaMstizyAmahE"
+      ],
+      "alrung": [
+        "asisaMstizizyata",
+        "asisaMstizizyetAm",
+        "asisaMstizizyanta",
+        "asisaMstizizyaTAH",
+        "asisaMstizizyeTAm",
+        "asisaMstizizyaDvam",
+        "asisaMstizizye",
+        "asisaMstizizyAvahi",
+        "asisaMstizizyAmahi"
+      ],
+      "alrut": [
+        "sisaMstizizyate",
+        "sisaMstizizyete",
+        "sisaMstizizyante",
+        "sisaMstizizyase",
+        "sisaMstizizyeTe",
+        "sisaMstizizyaDve",
+        "sisaMstizizye",
+        "sisaMstizizyAvahe",
+        "sisaMstizizyAmahe"
+      ],
+      "alung": [
+        "asisaMstizi",
+        "asisaMstizizAtAm",
+        "asisaMstizizata",
+        "asisaMstizizWAH",
+        "asisaMstizizATAm",
+        "asisaMstiziDvam",
+        "asisaMstizizi",
+        "asisaMstizizvahi",
+        "asisaMstizizmahi"
+      ],
+      "alut": [
+        "sisaMstizitA",
+        "sisaMstizitArO",
+        "sisaMstizitAraH",
+        "sisaMstizitAse",
+        "sisaMstizitAsATe",
+        "sisaMstizitADve",
+        "sisaMstizitAhe",
+        "sisaMstizitAsvahe",
+        "sisaMstizitAsmahe"
+      ],
+      "avidhiling": [
+        "sisaMstizyeta",
+        "sisaMstizyeyAtAm",
+        "sisaMstizyeran",
+        "sisaMstizyeTAH",
+        "sisaMstizyeyATAm",
+        "sisaMstizyeDvam",
+        "sisaMstizyeya",
+        "sisaMstizyevahi",
+        "sisaMstizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "saMstayizIzwa",
+        "saMstayizIyAstAm",
+        "saMstayizIran",
+        "saMstayizIzWAH",
+        "saMstayizIyAsTAm",
+        "saMstayizIQvam",
+        "saMstayizIDvam",
+        "saMstayizIya",
+        "saMstayizIvahi",
+        "saMstayizImahi"
+      ],
+      "alang": [
+        "asaMstayata",
+        "asaMstayetAm",
+        "asaMstayanta",
+        "asaMstayaTAH",
+        "asaMstayeTAm",
+        "asaMstayaDvam",
+        "asaMstaye",
+        "asaMstayAvahi",
+        "asaMstayAmahi"
+      ],
+      "alat": [
+        "saMstayate",
+        "saMstayete",
+        "saMstayante",
+        "saMstayase",
+        "saMstayeTe",
+        "saMstayaDve",
+        "saMstaye",
+        "saMstayAvahe",
+        "saMstayAmahe"
+      ],
+      "alit": [
+        "saMstayAYcakre",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakrAte",
+        "saMstayAmAsatuH",
+        "saMstayAmbaBUvatuH",
+        "saMstayAYcakrire",
+        "saMstayAmAsuH",
+        "saMstayAmbaBUvuH",
+        "saMstayAYcakfze",
+        "saMstayAmAsiTa",
+        "saMstayAmbaBUviTa",
+        "saMstayAYcakrATe",
+        "saMstayAmAsaTuH",
+        "saMstayAmbaBUvaTuH",
+        "saMstayAYcakfQve",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakre",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakfvahe",
+        "saMstayAmAsiva",
+        "saMstayAmbaBUviva",
+        "saMstayAYcakfmahe",
+        "saMstayAmAsima",
+        "saMstayAmbaBUvima"
+      ],
+      "alot": [
+        "saMstayatAm",
+        "saMstayetAm",
+        "saMstayantAm",
+        "saMstayasva",
+        "saMstayeTAm",
+        "saMstayaDvam",
+        "saMstayE",
+        "saMstayAvahE",
+        "saMstayAmahE"
+      ],
+      "alrung": [
+        "asaMstayizyata",
+        "asaMstayizyetAm",
+        "asaMstayizyanta",
+        "asaMstayizyaTAH",
+        "asaMstayizyeTAm",
+        "asaMstayizyaDvam",
+        "asaMstayizye",
+        "asaMstayizyAvahi",
+        "asaMstayizyAmahi"
+      ],
+      "alrut": [
+        "saMstayizyate",
+        "saMstayizyete",
+        "saMstayizyante",
+        "saMstayizyase",
+        "saMstayizyeTe",
+        "saMstayizyaDve",
+        "saMstayizye",
+        "saMstayizyAvahe",
+        "saMstayizyAmahe"
+      ],
+      "alung": [
+        "asasaMstata",
+        "asasaMstetAm",
+        "asasaMstanta",
+        "asasaMstaTAH",
+        "asasaMsteTAm",
+        "asasaMstaDvam",
+        "asasaMste",
+        "asasaMstAvahi",
+        "asasaMstAmahi"
+      ],
+      "alut": [
+        "saMstayitA",
+        "saMstayitArO",
+        "saMstayitAraH",
+        "saMstayitAse",
+        "saMstayitAsATe",
+        "saMstayitADve",
+        "saMstayitAhe",
+        "saMstayitAsvahe",
+        "saMstayitAsmahe"
+      ],
+      "avidhiling": [
+        "saMstayeta",
+        "saMstayeyAtAm",
+        "saMstayeran",
+        "saMstayeTAH",
+        "saMstayeyATAm",
+        "saMstayeDvam",
+        "saMstayeya",
+        "saMstayevahi",
+        "saMstayemahi"
+      ],
+      "pashirling": [
+        "saMstyAt",
+        "saMstyAd",
+        "saMstyAstAm",
+        "saMstyAsuH",
+        "saMstyAH",
+        "saMstyAstam",
+        "saMstyAsta",
+        "saMstyAsam",
+        "saMstyAsva",
+        "saMstyAsma"
+      ],
+      "plang": [
+        "asaMstayat",
+        "asaMstayad",
+        "asaMstayatAm",
+        "asaMstayan",
+        "asaMstayaH",
+        "asaMstayatam",
+        "asaMstayata",
+        "asaMstayam",
+        "asaMstayAva",
+        "asaMstayAma"
+      ],
+      "plat": [
+        "saMstayati",
+        "saMstayataH",
+        "saMstayanti",
+        "saMstayasi",
+        "saMstayaTaH",
+        "saMstayaTa",
+        "saMstayAmi",
+        "saMstayAvaH",
+        "saMstayAmaH"
+      ],
+      "plit": [
+        "saMstayAYcakAra",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakratuH",
+        "saMstayAmAsatuH",
+        "saMstayAmbaBUvatuH",
+        "saMstayAYcakruH",
+        "saMstayAmAsuH",
+        "saMstayAmbaBUvuH",
+        "saMstayAYcakarTa",
+        "saMstayAmAsiTa",
+        "saMstayAmbaBUviTa",
+        "saMstayAYcakraTuH",
+        "saMstayAmAsaTuH",
+        "saMstayAmbaBUvaTuH",
+        "saMstayAYcakra",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakara",
+        "saMstayAYcakAra",
+        "saMstayAmAsa",
+        "saMstayAmbaBUva",
+        "saMstayAYcakfva",
+        "saMstayAmAsiva",
+        "saMstayAmbaBUviva",
+        "saMstayAYcakfma",
+        "saMstayAmAsima",
+        "saMstayAmbaBUvima"
+      ],
+      "plot": [
+        "saMstayatAt",
+        "saMstayatAd",
+        "saMstayatu",
+        "saMstayatAm",
+        "saMstayantu",
+        "saMstaya",
+        "saMstayatAt",
+        "saMstayatAd",
+        "saMstayatam",
+        "saMstayata",
+        "saMstayAni",
+        "saMstayAva",
+        "saMstayAma"
+      ],
+      "plrung": [
+        "asaMstayizyat",
+        "asaMstayizyad",
+        "asaMstayizyatAm",
+        "asaMstayizyan",
+        "asaMstayizyaH",
+        "asaMstayizyatam",
+        "asaMstayizyata",
+        "asaMstayizyam",
+        "asaMstayizyAva",
+        "asaMstayizyAma"
+      ],
+      "plrut": [
+        "saMstayizyati",
+        "saMstayizyataH",
+        "saMstayizyanti",
+        "saMstayizyasi",
+        "saMstayizyaTaH",
+        "saMstayizyaTa",
+        "saMstayizyAmi",
+        "saMstayizyAvaH",
+        "saMstayizyAmaH"
+      ],
+      "plung": [
+        "asasaMstat",
+        "asasaMstad",
+        "asasaMstatAm",
+        "asasaMstan",
+        "asasaMstaH",
+        "asasaMstatam",
+        "asasaMstata",
+        "asasaMstam",
+        "asasaMstAva",
+        "asasaMstAma"
+      ],
+      "plut": [
+        "saMstayitA",
+        "saMstayitArO",
+        "saMstayitAraH",
+        "saMstayitAsi",
+        "saMstayitAsTaH",
+        "saMstayitAsTa",
+        "saMstayitAsmi",
+        "saMstayitAsvaH",
+        "saMstayitAsmaH"
+      ],
+      "pvidhiling": [
+        "saMstayet",
+        "saMstayed",
+        "saMstayetAm",
+        "saMstayeyuH",
+        "saMstayeH",
+        "saMstayetam",
+        "saMstayeta",
+        "saMstayeyam",
+        "saMstayeva",
+        "saMstayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "saMstayizIzwa",
+        "saMstizIzwa",
+        "saMstayizIyAstAm",
+        "saMstizIyAstAm",
+        "saMstayizIran",
+        "saMstizIran",
+        "saMstayizIzWAH",
+        "saMstizIzWAH",
+        "saMstayizIyAsTAm",
+        "saMstizIyAsTAm",
+        "saMstayizIQvam",
+        "saMstayizIDvam",
+        "saMstizIDvam",
+        "saMstayizIya",
+        "saMstizIya",
+        "saMstayizIvahi",
+        "saMstizIvahi",
+        "saMstayizImahi",
+        "saMstizImahi"
+      ],
+      "alang": [
+        "asaMstyata",
+        "asaMstyetAm",
+        "asaMstyanta",
+        "asaMstyaTAH",
+        "asaMstyeTAm",
+        "asaMstyaDvam",
+        "asaMstye",
+        "asaMstyAvahi",
+        "asaMstyAmahi"
+      ],
+      "alat": [
+        "saMstyate",
+        "saMstyete",
+        "saMstyante",
+        "saMstyase",
+        "saMstyeTe",
+        "saMstyaDve",
+        "saMstye",
+        "saMstyAvahe",
+        "saMstyAmahe"
+      ],
+      "alit": [
+        "saMstayAYcakre",
+        "saMstayAmAse",
+        "saMstayAmbaBUve",
+        "saMstayAYcakrAte",
+        "saMstayAmAsAte",
+        "saMstayAmbaBUvAte",
+        "saMstayAYcakrire",
+        "saMstayAmAsire",
+        "saMstayAmbaBUvire",
+        "saMstayAYcakfze",
+        "saMstayAmAsize",
+        "saMstayAmbaBUvize",
+        "saMstayAYcakrATe",
+        "saMstayAmAsATe",
+        "saMstayAmbaBUvATe",
+        "saMstayAYcakfQve",
+        "saMstayAmAsiDve",
+        "saMstayAmbaBUviQve",
+        "saMstayAYcakre",
+        "saMstayAmAhe",
+        "saMstayAmbaBUve",
+        "saMstayAYcakfvahe",
+        "saMstayAmAsivahe",
+        "saMstayAmbaBUvivahe",
+        "saMstayAYcakfmahe",
+        "saMstayAmAsimahe",
+        "saMstayAmbaBUvimahe"
+      ],
+      "alot": [
+        "saMstyatAm",
+        "saMstyetAm",
+        "saMstyantAm",
+        "saMstyasva",
+        "saMstyeTAm",
+        "saMstyaDvam",
+        "saMstyE",
+        "saMstyAvahE",
+        "saMstyAmahE"
+      ],
+      "alrung": [
+        "asaMstayizyata",
+        "asaMstizyata",
+        "asaMstayizyetAm",
+        "asaMstizyetAm",
+        "asaMstayizyanta",
+        "asaMstizyanta",
+        "asaMstayizyaTAH",
+        "asaMstizyaTAH",
+        "asaMstayizyeTAm",
+        "asaMstizyeTAm",
+        "asaMstayizyaDvam",
+        "asaMstizyaDvam",
+        "asaMstayizye",
+        "asaMstizye",
+        "asaMstayizyAvahi",
+        "asaMstizyAvahi",
+        "asaMstayizyAmahi",
+        "asaMstizyAmahi"
+      ],
+      "alrut": [
+        "saMstayizyate",
+        "saMstizyate",
+        "saMstayizyete",
+        "saMstizyete",
+        "saMstayizyante",
+        "saMstizyante",
+        "saMstayizyase",
+        "saMstizyase",
+        "saMstayizyeTe",
+        "saMstizyeTe",
+        "saMstayizyaDve",
+        "saMstizyaDve",
+        "saMstayizye",
+        "saMstizye",
+        "saMstayizyAvahe",
+        "saMstizyAvahe",
+        "saMstayizyAmahe",
+        "saMstizyAmahe"
+      ],
+      "alung": [
+        "asaMsti",
+        "asaMstayizAtAm",
+        "asaMstizAtAm",
+        "asaMstayizata",
+        "asaMstizata",
+        "asaMstayizWAH",
+        "asaMstizWAH",
+        "asaMstayizATAm",
+        "asaMstizATAm",
+        "asaMstayiQvam",
+        "asaMstayiDvam",
+        "asaMstiDvam",
+        "asaMstayizi",
+        "asaMstizi",
+        "asaMstayizvahi",
+        "asaMstizvahi",
+        "asaMstayizmahi",
+        "asaMstizmahi"
+      ],
+      "alut": [
+        "saMstayitA",
+        "saMstitA",
+        "saMstayitArO",
+        "saMstitArO",
+        "saMstayitAraH",
+        "saMstitAraH",
+        "saMstayitAse",
+        "saMstitAse",
+        "saMstayitAsATe",
+        "saMstitAsATe",
+        "saMstayitADve",
+        "saMstitADve",
+        "saMstayitAhe",
+        "saMstitAhe",
+        "saMstayitAsvahe",
+        "saMstitAsvahe",
+        "saMstayitAsmahe",
+        "saMstitAsmahe"
+      ],
+      "avidhiling": [
+        "saMstyeta",
+        "saMstyeyAtAm",
+        "saMstyeran",
+        "saMstyeTAH",
+        "saMstyeyATAm",
+        "saMstyeDvam",
+        "saMstyeya",
+        "saMstyevahi",
+        "saMstyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "sAsaMstizIzwa",
+        "sAsaMstizIyAstAm",
+        "sAsaMstizIran",
+        "sAsaMstizIzWAH",
+        "sAsaMstizIyAsTAm",
+        "sAsaMstizIDvam",
+        "sAsaMstizIya",
+        "sAsaMstizIvahi",
+        "sAsaMstizImahi"
+      ],
+      "alang": [
+        "asAsaMstyata",
+        "asAsaMstyetAm",
+        "asAsaMstyanta",
+        "asAsaMstyaTAH",
+        "asAsaMstyeTAm",
+        "asAsaMstyaDvam",
+        "asAsaMstye",
+        "asAsaMstyAvahi",
+        "asAsaMstyAmahi"
+      ],
+      "alat": [
+        "sAsaMstyate",
+        "sAsaMstyete",
+        "sAsaMstyante",
+        "sAsaMstyase",
+        "sAsaMstyeTe",
+        "sAsaMstyaDve",
+        "sAsaMstye",
+        "sAsaMstyAvahe",
+        "sAsaMstyAmahe"
+      ],
+      "alit": [
+        "sAsaMstAYcakre",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakrAte",
+        "sAsaMstAmAsatuH",
+        "sAsaMstAmbaBUvatuH",
+        "sAsaMstAYcakrire",
+        "sAsaMstAmAsuH",
+        "sAsaMstAmbaBUvuH",
+        "sAsaMstAYcakfze",
+        "sAsaMstAmAsiTa",
+        "sAsaMstAmbaBUviTa",
+        "sAsaMstAYcakrATe",
+        "sAsaMstAmAsaTuH",
+        "sAsaMstAmbaBUvaTuH",
+        "sAsaMstAYcakfQve",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakre",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakfvahe",
+        "sAsaMstAmAsiva",
+        "sAsaMstAmbaBUviva",
+        "sAsaMstAYcakfmahe",
+        "sAsaMstAmAsima",
+        "sAsaMstAmbaBUvima"
+      ],
+      "alot": [
+        "sAsaMstyatAm",
+        "sAsaMstyetAm",
+        "sAsaMstyantAm",
+        "sAsaMstyasva",
+        "sAsaMstyeTAm",
+        "sAsaMstyaDvam",
+        "sAsaMstyE",
+        "sAsaMstyAvahE",
+        "sAsaMstyAmahE"
+      ],
+      "alrung": [
+        "asAsaMstizyata",
+        "asAsaMstizyetAm",
+        "asAsaMstizyanta",
+        "asAsaMstizyaTAH",
+        "asAsaMstizyeTAm",
+        "asAsaMstizyaDvam",
+        "asAsaMstizye",
+        "asAsaMstizyAvahi",
+        "asAsaMstizyAmahi"
+      ],
+      "alrut": [
+        "sAsaMstizyate",
+        "sAsaMstizyete",
+        "sAsaMstizyante",
+        "sAsaMstizyase",
+        "sAsaMstizyeTe",
+        "sAsaMstizyaDve",
+        "sAsaMstizye",
+        "sAsaMstizyAvahe",
+        "sAsaMstizyAmahe"
+      ],
+      "alung": [
+        "asAsaMstizwa",
+        "asAsaMstizAtAm",
+        "asAsaMstizata",
+        "asAsaMstizWAH",
+        "asAsaMstizATAm",
+        "asAsaMstiDvam",
+        "asAsaMstizi",
+        "asAsaMstizvahi",
+        "asAsaMstizmahi"
+      ],
+      "alut": [
+        "sAsaMstitA",
+        "sAsaMstitArO",
+        "sAsaMstitAraH",
+        "sAsaMstitAse",
+        "sAsaMstitAsATe",
+        "sAsaMstitADve",
+        "sAsaMstitAhe",
+        "sAsaMstitAsvahe",
+        "sAsaMstitAsmahe"
+      ],
+      "avidhiling": [
+        "sAsaMstyeta",
+        "sAsaMstyeyAtAm",
+        "sAsaMstyeran",
+        "sAsaMstyeTAH",
+        "sAsaMstyeyATAm",
+        "sAsaMstyeDvam",
+        "sAsaMstyeya",
+        "sAsaMstyevahi",
+        "sAsaMstyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "sAsaMstizIzwa",
+        "sAsaMstizIyAstAm",
+        "sAsaMstizIran",
+        "sAsaMstizIzWAH",
+        "sAsaMstizIyAsTAm",
+        "sAsaMstizIDvam",
+        "sAsaMstizIya",
+        "sAsaMstizIvahi",
+        "sAsaMstizImahi"
+      ],
+      "alang": [
+        "asAsaMstyata",
+        "asAsaMstyetAm",
+        "asAsaMstyanta",
+        "asAsaMstyaTAH",
+        "asAsaMstyeTAm",
+        "asAsaMstyaDvam",
+        "asAsaMstye",
+        "asAsaMstyAvahi",
+        "asAsaMstyAmahi"
+      ],
+      "alat": [
+        "sAsaMstyate",
+        "sAsaMstyete",
+        "sAsaMstyante",
+        "sAsaMstyase",
+        "sAsaMstyeTe",
+        "sAsaMstyaDve",
+        "sAsaMstye",
+        "sAsaMstyAvahe",
+        "sAsaMstyAmahe"
+      ],
+      "alit": [
+        "sAsaMstAYcakre",
+        "sAsaMstAmAse",
+        "sAsaMstAmbaBUve",
+        "sAsaMstAYcakrAte",
+        "sAsaMstAmAsAte",
+        "sAsaMstAmbaBUvAte",
+        "sAsaMstAYcakrire",
+        "sAsaMstAmAsire",
+        "sAsaMstAmbaBUvire",
+        "sAsaMstAYcakfze",
+        "sAsaMstAmAsize",
+        "sAsaMstAmbaBUvize",
+        "sAsaMstAYcakrATe",
+        "sAsaMstAmAsATe",
+        "sAsaMstAmbaBUvATe",
+        "sAsaMstAYcakfQve",
+        "sAsaMstAmAsiDve",
+        "sAsaMstAmbaBUviQve",
+        "sAsaMstAYcakre",
+        "sAsaMstAmAhe",
+        "sAsaMstAmbaBUve",
+        "sAsaMstAYcakfvahe",
+        "sAsaMstAmAsivahe",
+        "sAsaMstAmbaBUvivahe",
+        "sAsaMstAYcakfmahe",
+        "sAsaMstAmAsimahe",
+        "sAsaMstAmbaBUvimahe"
+      ],
+      "alot": [
+        "sAsaMstyatAm",
+        "sAsaMstyetAm",
+        "sAsaMstyantAm",
+        "sAsaMstyasva",
+        "sAsaMstyeTAm",
+        "sAsaMstyaDvam",
+        "sAsaMstyE",
+        "sAsaMstyAvahE",
+        "sAsaMstyAmahE"
+      ],
+      "alrung": [
+        "asAsaMstizyata",
+        "asAsaMstizyetAm",
+        "asAsaMstizyanta",
+        "asAsaMstizyaTAH",
+        "asAsaMstizyeTAm",
+        "asAsaMstizyaDvam",
+        "asAsaMstizye",
+        "asAsaMstizyAvahi",
+        "asAsaMstizyAmahi"
+      ],
+      "alrut": [
+        "sAsaMstizyate",
+        "sAsaMstizyete",
+        "sAsaMstizyante",
+        "sAsaMstizyase",
+        "sAsaMstizyeTe",
+        "sAsaMstizyaDve",
+        "sAsaMstizye",
+        "sAsaMstizyAvahe",
+        "sAsaMstizyAmahe"
+      ],
+      "alung": [
+        "asAsaMsti",
+        "asAsaMstizAtAm",
+        "asAsaMstizata",
+        "asAsaMstizWAH",
+        "asAsaMstizATAm",
+        "asAsaMstiDvam",
+        "asAsaMstizi",
+        "asAsaMstizvahi",
+        "asAsaMstizmahi"
+      ],
+      "alut": [
+        "sAsaMstitA",
+        "sAsaMstitArO",
+        "sAsaMstitAraH",
+        "sAsaMstitAse",
+        "sAsaMstitAsATe",
+        "sAsaMstitADve",
+        "sAsaMstitAhe",
+        "sAsaMstitAsvahe",
+        "sAsaMstitAsmahe"
+      ],
+      "avidhiling": [
+        "sAsaMstyeta",
+        "sAsaMstyeyAtAm",
+        "sAsaMstyeran",
+        "sAsaMstyeTAH",
+        "sAsaMstyeyATAm",
+        "sAsaMstyeDvam",
+        "sAsaMstyeya",
+        "sAsaMstyevahi",
+        "sAsaMstyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "sAsaMstyAt",
+        "sAsaMstyAd",
+        "sAsaMstyAstAm",
+        "sAsaMstyAsuH",
+        "sAsaMstyAH",
+        "sAsaMstyAstam",
+        "sAsaMstyAsta",
+        "sAsaMstyAsam",
+        "sAsaMstyAsva",
+        "sAsaMstyAsma"
+      ],
+      "plang": [
+        "asAsaMstIt",
+        "asAsaMstId",
+        "asAsan",
+        "asAsaMstAm",
+        "asAsaMsttAm",
+        "asAsaMstuH",
+        "asAsaMstIH",
+        "asAsan",
+        "asAsaMstam",
+        "asAsaMsttam",
+        "asAsaMsta",
+        "asAsaMstta",
+        "asAsaMstam",
+        "asAsaMstva",
+        "asAsaMstma"
+      ],
+      "plat": [
+        "sAsaMsti",
+        "sAsaMstIti",
+        "sAsaMstti",
+        "sAsaMstaH",
+        "sAsaMsttaH",
+        "sAsaMstati",
+        "sAsaMstIzi",
+        "sAsaMstsi",
+        "sAsaMstTaH",
+        "sAsaMsTaH",
+        "sAsaMstTa",
+        "sAsaMsTa",
+        "sAsaMstImi",
+        "sAsaMstmi",
+        "sAsaMstvaH",
+        "sAsaMstmaH"
+      ],
+      "plit": [
+        "sAsaMstAYcakAra",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakratuH",
+        "sAsaMstAmAsatuH",
+        "sAsaMstAmbaBUvatuH",
+        "sAsaMstAYcakruH",
+        "sAsaMstAmAsuH",
+        "sAsaMstAmbaBUvuH",
+        "sAsaMstAYcakarTa",
+        "sAsaMstAmAsiTa",
+        "sAsaMstAmbaBUviTa",
+        "sAsaMstAYcakraTuH",
+        "sAsaMstAmAsaTuH",
+        "sAsaMstAmbaBUvaTuH",
+        "sAsaMstAYcakra",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakara",
+        "sAsaMstAYcakAra",
+        "sAsaMstAmAsa",
+        "sAsaMstAmbaBUva",
+        "sAsaMstAYcakfva",
+        "sAsaMstAmAsiva",
+        "sAsaMstAmbaBUviva",
+        "sAsaMstAYcakfma",
+        "sAsaMstAmAsima",
+        "sAsaMstAmbaBUvima"
+      ],
+      "plot": [
+        "sAsaMstAt",
+        "sAsaMstAd",
+        "sAsaMstItu",
+        "sAsaMstu",
+        "sAsaMsttAt",
+        "sAsaMsttAd",
+        "sAsaMsttu",
+        "sAsaMstAm",
+        "sAsaMsttAm",
+        "sAsaMstatu",
+        "sAsaMstAt",
+        "sAsaMstAd",
+        "sAsaMsttAt",
+        "sAsaMsttAd",
+        "sAsanddDi",
+        "sAsanDi",
+        "sAsaMstam",
+        "sAsaMsttam",
+        "sAsaMsta",
+        "sAsaMstta",
+        "sAsaMstAni",
+        "sAsaMstAva",
+        "sAsaMstAma"
+      ],
+      "plrung": [
+        "asAsaMstizyat",
+        "asAsaMstizyad",
+        "asAsaMstizyatAm",
+        "asAsaMstizyan",
+        "asAsaMstizyaH",
+        "asAsaMstizyatam",
+        "asAsaMstizyata",
+        "asAsaMstizyam",
+        "asAsaMstizyAva",
+        "asAsaMstizyAma"
+      ],
+      "plrut": [
+        "sAsaMstizyati",
+        "sAsaMstizyataH",
+        "sAsaMstizyanti",
+        "sAsaMstizyasi",
+        "sAsaMstizyaTaH",
+        "sAsaMstizyaTa",
+        "sAsaMstizyAmi",
+        "sAsaMstizyAvaH",
+        "sAsaMstizyAmaH"
+      ],
+      "plung": [
+        "asAsaMstIt",
+        "asAsaMstId",
+        "asAsaMstizwAm",
+        "asAsaMstizuH",
+        "asAsaMstIH",
+        "asAsaMstizwam",
+        "asAsaMstizwa",
+        "asAsaMstizam",
+        "asAsaMstizva",
+        "asAsaMstizma"
+      ],
+      "plut": [
+        "sAsaMstitA",
+        "sAsaMstitArO",
+        "sAsaMstitAraH",
+        "sAsaMstitAsi",
+        "sAsaMstitAsTaH",
+        "sAsaMstitAsTa",
+        "sAsaMstitAsmi",
+        "sAsaMstitAsvaH",
+        "sAsaMstitAsmaH"
+      ],
+      "pvidhiling": [
+        "sAsaMstyAt",
+        "sAsaMstyAd",
+        "sAsaMstyAtAm",
+        "sAsaMstyuH",
+        "sAsaMstyAH",
+        "sAsaMstyAtam",
+        "sAsaMstyAta",
+        "sAsaMstyAm",
+        "sAsaMstyAva",
+        "sAsaMstyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "sAsaMstizIzwa",
+        "sAsaMstizIyAstAm",
+        "sAsaMstizIran",
+        "sAsaMstizIzWAH",
+        "sAsaMstizIyAsTAm",
+        "sAsaMstizIDvam",
+        "sAsaMstizIya",
+        "sAsaMstizIvahi",
+        "sAsaMstizImahi"
+      ],
+      "alang": [
+        "asAsaMstyata",
+        "asAsaMstyetAm",
+        "asAsaMstyanta",
+        "asAsaMstyaTAH",
+        "asAsaMstyeTAm",
+        "asAsaMstyaDvam",
+        "asAsaMstye",
+        "asAsaMstyAvahi",
+        "asAsaMstyAmahi"
+      ],
+      "alat": [
+        "sAsaMstyate",
+        "sAsaMstyete",
+        "sAsaMstyante",
+        "sAsaMstyase",
+        "sAsaMstyeTe",
+        "sAsaMstyaDve",
+        "sAsaMstye",
+        "sAsaMstyAvahe",
+        "sAsaMstyAmahe"
+      ],
+      "alit": [
+        "sAsaMstAYcakre",
+        "sAsaMstAmAse",
+        "sAsaMstAmbaBUve",
+        "sAsaMstAYcakrAte",
+        "sAsaMstAmAsAte",
+        "sAsaMstAmbaBUvAte",
+        "sAsaMstAYcakrire",
+        "sAsaMstAmAsire",
+        "sAsaMstAmbaBUvire",
+        "sAsaMstAYcakfze",
+        "sAsaMstAmAsize",
+        "sAsaMstAmbaBUvize",
+        "sAsaMstAYcakrATe",
+        "sAsaMstAmAsATe",
+        "sAsaMstAmbaBUvATe",
+        "sAsaMstAYcakfQve",
+        "sAsaMstAmAsiDve",
+        "sAsaMstAmbaBUviQve",
+        "sAsaMstAYcakre",
+        "sAsaMstAmAhe",
+        "sAsaMstAmbaBUve",
+        "sAsaMstAYcakfvahe",
+        "sAsaMstAmAsivahe",
+        "sAsaMstAmbaBUvivahe",
+        "sAsaMstAYcakfmahe",
+        "sAsaMstAmAsimahe",
+        "sAsaMstAmbaBUvimahe"
+      ],
+      "alot": [
+        "sAsaMstyatAm",
+        "sAsaMstyetAm",
+        "sAsaMstyantAm",
+        "sAsaMstyasva",
+        "sAsaMstyeTAm",
+        "sAsaMstyaDvam",
+        "sAsaMstyE",
+        "sAsaMstyAvahE",
+        "sAsaMstyAmahE"
+      ],
+      "alrung": [
+        "asAsaMstizyata",
+        "asAsaMstizyetAm",
+        "asAsaMstizyanta",
+        "asAsaMstizyaTAH",
+        "asAsaMstizyeTAm",
+        "asAsaMstizyaDvam",
+        "asAsaMstizye",
+        "asAsaMstizyAvahi",
+        "asAsaMstizyAmahi"
+      ],
+      "alrut": [
+        "sAsaMstizyate",
+        "sAsaMstizyete",
+        "sAsaMstizyante",
+        "sAsaMstizyase",
+        "sAsaMstizyeTe",
+        "sAsaMstizyaDve",
+        "sAsaMstizye",
+        "sAsaMstizyAvahe",
+        "sAsaMstizyAmahe"
+      ],
+      "alung": [
+        "asAsaMsti",
+        "asAsaMstizAtAm",
+        "asAsaMstizata",
+        "asAsaMstizWAH",
+        "asAsaMstizATAm",
+        "asAsaMstiDvam",
+        "asAsaMstizi",
+        "asAsaMstizvahi",
+        "asAsaMstizmahi"
+      ],
+      "alut": [
+        "sAsaMstitA",
+        "sAsaMstitArO",
+        "sAsaMstitAraH",
+        "sAsaMstitAse",
+        "sAsaMstitAsATe",
+        "sAsaMstitADve",
+        "sAsaMstitAhe",
+        "sAsaMstitAsvahe",
+        "sAsaMstitAsmahe"
+      ],
+      "avidhiling": [
+        "sAsaMstyeta",
+        "sAsaMstyeyAtAm",
+        "sAsaMstyeran",
+        "sAsaMstyeTAH",
+        "sAsaMstyeyATAm",
+        "sAsaMstyeDvam",
+        "sAsaMstyeya",
+        "sAsaMstyevahi",
+        "sAsaMstyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "a": [
+        {
+          "base": "saMstA",
+          "m": "",
+          "f": "saMstA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "saMsta",
+          "m": "saMstaH",
+          "f": "saMstA",
+          "n": "saMstam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "saMstanIya",
+          "m": "saMstanIyaH",
+          "f": "saMstanIyA",
+          "n": "saMstanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "saMstita",
+          "m": "saMstitaH",
+          "f": "saMstitA",
+          "n": "saMstitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "saMstitavat",
+          "m": "saMstitavAn",
+          "f": "saMstitavatI",
+          "n": "saMstitavat/saMstitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "saMsti",
+          "m": "",
+          "f": "saMstiH",
+          "n": ""
+        },
+        {
+          "base": "saMstti",
+          "m": "",
+          "f": "saMsttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "saMstitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sasaMstvas",
+          "m": "sasaMstvAn",
+          "f": "sasaMstuzI",
+          "n": "sasaMstvat/sasaMstvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "saMsta",
+          "m": "saMstaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "saMstAna",
+          "m": "saMstAnaH",
+          "f": "saMstAnA",
+          "n": "saMstAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "saMstam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "saMstya",
+          "m": "saMstyaH",
+          "f": "saMstyA",
+          "n": "saMstyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "saMstaka",
+          "m": "saMstakaH",
+          "f": "saMstikA",
+          "n": "saMstakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "saMstitavya",
+          "m": "saMstitavyaH",
+          "f": "saMstitavyA",
+          "n": "saMstitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "saMstitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "saMstitf",
+          "m": "saMstitA",
+          "f": "saMstitrI",
+          "n": "saMstitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "saMstyamAna",
+          "m": "saMstyamAnaH",
+          "f": "saMstyamAnA",
+          "n": "saMstyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasaMstya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "saMstana",
+          "m": "",
+          "f": "",
+          "n": "saMstanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "saMstaka",
+          "m": "saMstakaH",
+          "f": "saMstikA",
+          "n": "saMstakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "saMstat",
+          "m": "saMstan",
+          "f": "saMstatI",
+          "n": "saMstat/saMstad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "saMstizyamARa",
+          "m": "saMstizyamARaH",
+          "f": "saMstizyamARA",
+          "n": "saMstizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "saMstizyat",
+          "m": "saMstizyan",
+          "f": "saMstizyatI/saMstizyantI",
+          "n": "saMstizyat/saMstizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "sisaMstizA",
+          "m": "",
+          "f": "sisaMstizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sisaMstiza",
+          "m": "sisaMstizaH",
+          "f": "sisaMstizA",
+          "n": "sisaMstizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sisaMstizaRIya",
+          "m": "sisaMstizaRIyaH",
+          "f": "sisaMstizaRIyA",
+          "n": "sisaMstizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "sisaMstizu",
+          "m": "sisaMstizuH",
+          "f": "sisaMstizuH",
+          "n": "sisaMstizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sisaMstizita",
+          "m": "sisaMstizitaH",
+          "f": "sisaMstizitA",
+          "n": "sisaMstizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sisaMstizitavat",
+          "m": "sisaMstizitavAn",
+          "f": "sisaMstizitavatI",
+          "n": "sisaMstizitavat/sisaMstizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sisaMstizwi",
+          "m": "",
+          "f": "sisaMstizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sisaMstizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sisaMstizAmbaBUvas",
+          "m": "sisaMstizAmbaBUvAn",
+          "f": "sisaMstizAmbaBUzI",
+          "n": "sisaMstizAmbaBUvat/sisaMstizAmbaBUvad"
+        },
+        {
+          "base": "sisaMstizAmAsivas",
+          "m": "sisaMstizAmAsivAn",
+          "f": "sisaMstizAmAsyuzI",
+          "n": "sisaMstizAmAsivat/sisaMstizAmAsivad"
+        },
+        {
+          "base": "sisaMstizAYcakfvas",
+          "m": "sisaMstizAYcakfvAn",
+          "f": "sisaMstizAYcakruzI",
+          "n": "sisaMstizAYcakfvat/sisaMstizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sisaMstiza",
+          "m": "sisaMstizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sisaMstizamARa",
+          "m": "sisaMstizamARaH",
+          "f": "sisaMstizamARA",
+          "n": "sisaMstizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sisaMstizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sisaMstizaka",
+          "m": "sisaMstizakaH",
+          "f": "sisaMstizikA",
+          "n": "sisaMstizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sisaMstizitavya",
+          "m": "sisaMstizitavyaH",
+          "f": "sisaMstizitavyA",
+          "n": "sisaMstizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sisaMstizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sisaMstizitf",
+          "m": "sisaMstizitA",
+          "f": "sisaMstizitrI",
+          "n": "sisaMstizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sisaMstizyamARa",
+          "m": "sisaMstizyamARaH",
+          "f": "sisaMstizyamARA",
+          "n": "sisaMstizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sisaMstizya",
+          "m": "sisaMstizyaH",
+          "f": "sisaMstizyA",
+          "n": "sisaMstizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasisaMstizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sisaMstizaRa",
+          "m": "",
+          "f": "",
+          "n": "sisaMstizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sisaMstizaka",
+          "m": "sisaMstizakaH",
+          "f": "sisaMstizikA",
+          "n": "sisaMstizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sisaMstizat",
+          "m": "sisaMstizan",
+          "f": "sisaMstizantI",
+          "n": "sisaMstizat/sisaMstizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sisaMstizizyamARa",
+          "m": "sisaMstizizyamARaH",
+          "f": "sisaMstizizyamARA",
+          "n": "sisaMstizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sisaMstizizyat",
+          "m": "sisaMstizizyan",
+          "f": "sisaMstizizyatI/sisaMstizizyantI",
+          "n": "sisaMstizizyat/sisaMstizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "saMsta",
+          "m": "saMstaH",
+          "f": "saMstA",
+          "n": "saMstam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "saMstanIya",
+          "m": "saMstanIyaH",
+          "f": "saMstanIyA",
+          "n": "saMstanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "saMstita",
+          "m": "saMstitaH",
+          "f": "saMstitA",
+          "n": "saMstitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "saMstitavat",
+          "m": "saMstitavAn",
+          "f": "saMstitavatI",
+          "n": "saMstitavat/saMstitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "saMsti",
+          "m": "",
+          "f": "saMstiH",
+          "n": ""
+        },
+        {
+          "base": "saMstti",
+          "m": "",
+          "f": "saMsttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "saMstayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "saMstayAmbaBUvas",
+          "m": "saMstayAmbaBUvAn",
+          "f": "saMstayAmbaBUzI",
+          "n": "saMstayAmbaBUvat/saMstayAmbaBUvad"
+        },
+        {
+          "base": "saMstayAmAsivas",
+          "m": "saMstayAmAsivAn",
+          "f": "saMstayAmAsyuzI",
+          "n": "saMstayAmAsivat/saMstayAmAsivad"
+        },
+        {
+          "base": "saMstayAYcakfvas",
+          "m": "saMstayAYcakfvAn",
+          "f": "saMstayAYcakruzI",
+          "n": "saMstayAYcakfvat/saMstayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "saMstayamAna",
+          "m": "saMstayamAnaH",
+          "f": "saMstayamAnA",
+          "n": "saMstayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "saMstam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "saMstaka",
+          "m": "saMstakaH",
+          "f": "saMstikA",
+          "n": "saMstakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "saMstayitavya",
+          "m": "saMstayitavyaH",
+          "f": "saMstayitavyA",
+          "n": "saMstayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "saMstayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "saMstayitf",
+          "m": "saMstayitA",
+          "f": "saMstayitrI",
+          "n": "saMstayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "saMstyamAna",
+          "m": "saMstyamAnaH",
+          "f": "saMstyamAnA",
+          "n": "saMstyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "saMstya",
+          "m": "saMstyaH",
+          "f": "saMstyA",
+          "n": "saMstyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasaMstya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "saMstana",
+          "m": "",
+          "f": "",
+          "n": "saMstanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "saMstaka",
+          "m": "saMstakaH",
+          "f": "saMstikA",
+          "n": "saMstakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "saMstayat",
+          "m": "saMstayan",
+          "f": "saMstayantI",
+          "n": "saMstayat/saMstayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "saMstayamAna",
+          "m": "saMstayamAnaH",
+          "f": "saMstayamAnA",
+          "n": "saMstayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "saMstizyamARa",
+          "m": "saMstizyamARaH",
+          "f": "saMstizyamARA",
+          "n": "saMstizyamARam"
+        },
+        {
+          "base": "saMstayizyamARa",
+          "m": "saMstayizyamARaH",
+          "f": "saMstayizyamARA",
+          "n": "saMstayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "saMstayizyat",
+          "m": "saMstayizyan",
+          "f": "saMstayizyatI/saMstayizyantI",
+          "n": "saMstayizyat/saMstayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "saMstayizyamARa",
+          "m": "saMstayizyamARaH",
+          "f": "saMstayizyamARA",
+          "n": "saMstayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "sAsaMstA",
+          "m": "",
+          "f": "sAsaMstA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sAsaMsta",
+          "m": "sAsaMstaH",
+          "f": "sAsaMstA",
+          "n": "sAsaMstam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sAsaMstanIya",
+          "m": "sAsaMstanIyaH",
+          "f": "sAsaMstanIyA",
+          "n": "sAsaMstanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAsaMstita",
+          "m": "sAsaMstitaH",
+          "f": "sAsaMstitA",
+          "n": "sAsaMstitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAsaMstitavat",
+          "m": "sAsaMstitavAn",
+          "f": "sAsaMstitavatI",
+          "n": "sAsaMstitavat/sAsaMstitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAsaMsti",
+          "m": "",
+          "f": "sAsaMstiH",
+          "n": ""
+        },
+        {
+          "base": "sAsaMstti",
+          "m": "",
+          "f": "sAsaMsttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAsaMstitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sAsaMstAmbaBUvas",
+          "m": "sAsaMstAmbaBUvAn",
+          "f": "sAsaMstAmbaBUzI",
+          "n": "sAsaMstAmbaBUvat/sAsaMstAmbaBUvad"
+        },
+        {
+          "base": "sAsaMstAmAsivas",
+          "m": "sAsaMstAmAsivAn",
+          "f": "sAsaMstAmAsyuzI",
+          "n": "sAsaMstAmAsivat/sAsaMstAmAsivad"
+        },
+        {
+          "base": "sAsaMstAYcakfvas",
+          "m": "sAsaMstAYcakfvAn",
+          "f": "sAsaMstAYcakruzI",
+          "n": "sAsaMstAYcakfvat/sAsaMstAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sAsaMsta",
+          "m": "sAsaMstaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sAsaMstyamAna",
+          "m": "sAsaMstyamAnaH",
+          "f": "sAsaMstyamAnA",
+          "n": "sAsaMstyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAsaMstam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAsaMstaka",
+          "m": "sAsaMstakaH",
+          "f": "sAsaMstikA",
+          "n": "sAsaMstakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sAsaMstitavya",
+          "m": "sAsaMstitavyaH",
+          "f": "sAsaMstitavyA",
+          "n": "sAsaMstitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sAsaMstitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sAsaMstitf",
+          "m": "sAsaMstitA",
+          "f": "sAsaMstitrI",
+          "n": "sAsaMstitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAsaMstyamAna",
+          "m": "sAsaMstyamAnaH",
+          "f": "sAsaMstyamAnA",
+          "n": "sAsaMstyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "sAsaMstya",
+          "m": "sAsaMstyaH",
+          "f": "sAsaMstyA",
+          "n": "sAsaMstyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAsaMstya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sAsaMstana",
+          "m": "",
+          "f": "",
+          "n": "sAsaMstanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sAsaMstaka",
+          "m": "sAsaMstakaH",
+          "f": "sAsaMstikA",
+          "n": "sAsaMstakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "sAsaMstyamAna",
+          "m": "sAsaMstyamAnaH",
+          "f": "sAsaMstyamAnA",
+          "n": "sAsaMstyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sAsaMstizyamARa",
+          "m": "sAsaMstizyamARaH",
+          "f": "sAsaMstizyamARA",
+          "n": "sAsaMstizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "sAsaMstizyamARa",
+          "m": "sAsaMstizyamARaH",
+          "f": "sAsaMstizyamARA",
+          "n": "sAsaMstizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "sAsaMstA",
+          "m": "",
+          "f": "sAsaMstA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "sAsaMsta",
+          "m": "sAsaMstaH",
+          "f": "sAsaMstA",
+          "n": "sAsaMstam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "sAsaMstanIya",
+          "m": "sAsaMstanIyaH",
+          "f": "sAsaMstanIyA",
+          "n": "sAsaMstanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "sAsaMstita",
+          "m": "sAsaMstitaH",
+          "f": "sAsaMstitA",
+          "n": "sAsaMstitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "sAsaMstitavat",
+          "m": "sAsaMstitavAn",
+          "f": "sAsaMstitavatI",
+          "n": "sAsaMstitavat/sAsaMstitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "sAsaMsti",
+          "m": "",
+          "f": "sAsaMstiH",
+          "n": ""
+        },
+        {
+          "base": "sAsaMstti",
+          "m": "",
+          "f": "sAsaMsttiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "sAsaMstitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "sAsaMstAmbaBUvas",
+          "m": "sAsaMstAmbaBUvAn",
+          "f": "sAsaMstAmbaBUzI",
+          "n": "sAsaMstAmbaBUvat/sAsaMstAmbaBUvad"
+        },
+        {
+          "base": "sAsaMstAmAsivas",
+          "m": "sAsaMstAmAsivAn",
+          "f": "sAsaMstAmAsyuzI",
+          "n": "sAsaMstAmAsivat/sAsaMstAmAsivad"
+        },
+        {
+          "base": "sAsaMstAYcakfvas",
+          "m": "sAsaMstAYcakfvAn",
+          "f": "sAsaMstAYcakruzI",
+          "n": "sAsaMstAYcakfvat/sAsaMstAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "sAsaMsta",
+          "m": "sAsaMstaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "sAsaMstAna",
+          "m": "sAsaMstAnaH",
+          "f": "sAsaMstAnA",
+          "n": "sAsaMstAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "sAsaMstam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "sAsaMstaka",
+          "m": "sAsaMstakaH",
+          "f": "sAsaMstikA",
+          "n": "sAsaMstakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "sAsaMstitavya",
+          "m": "sAsaMstitavyaH",
+          "f": "sAsaMstitavyA",
+          "n": "sAsaMstitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "sAsaMstitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "sAsaMstitf",
+          "m": "sAsaMstitA",
+          "f": "sAsaMstitrI",
+          "n": "sAsaMstitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "sAsaMstyamAna",
+          "m": "sAsaMstyamAnaH",
+          "f": "sAsaMstyamAnA",
+          "n": "sAsaMstyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "prasAsaMstya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "sAsaMstana",
+          "m": "",
+          "f": "",
+          "n": "sAsaMstanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "sAsaMstaka",
+          "m": "sAsaMstakaH",
+          "f": "sAsaMstikA",
+          "n": "sAsaMstakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "sAsaMstat",
+          "m": "sAsaMstat/sAsaMstad",
+          "f": "sAsaMstatI",
+          "n": "sAsaMstat/sAsaMstad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "sAsaMstizyamARa",
+          "m": "sAsaMstizyamARaH",
+          "f": "sAsaMstizyamARA",
+          "n": "sAsaMstizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "sAsaMstizyat",
+          "m": "sAsaMstizyan",
+          "f": "sAsaMstizyatI/sAsaMstizyantI",
+          "n": "sAsaMstizyat/sAsaMstizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "saMst",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

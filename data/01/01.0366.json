@@ -1,0 +1,2922 @@
+{
+  "id": "01.0366",
+  "info": [
+    {
+      "name": "DAtuviSezaH",
+      "value": ""
+    },
+    {
+      "name": "anubanDaviSezaH",
+      "value": ""
+    },
+    {
+      "name": "OpadeSikasvarUpam",
+      "value": "muwa~"
+    },
+    {
+      "name": "arTaH",
+      "value": "mardane"
+    },
+    {
+      "name": "English Meaning",
+      "value": "to press, to massage, to rub"
+    },
+    {
+      "name": "hindI arTa",
+      "value": ""
+    },
+    {
+      "name": "DAturUpanandinIwippaRI",
+      "value": ""
+    },
+    {
+      "name": "gaRaH",
+      "value": "BvAdiH"
+    },
+    {
+      "name": "antargaRaH",
+      "value": ""
+    },
+    {
+      "name": "padam",
+      "value": "parasmEpadI"
+    },
+    {
+      "name": "karmakatvam",
+      "value": "sakarmakaH"
+    },
+    {
+      "name": "iqAgamayogyatA",
+      "value": "sew"
+    },
+    {
+      "name": "DAturUpanandinIkramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "kOmudIDAtukramANkaH",
+      "value": "1.364 muqa~ ityasya ayaM pAWaBedaH sidDAntakOmudyAm pAWitaH nAsti parantu mADavIyaDAtuvfttO dfSyate ."
+    },
+    {
+      "name": "kOmudIsUtrakramANkaH",
+      "value": "-"
+    },
+    {
+      "name": "laGukOmudIsUtrakramANkaH",
+      "value": "-"
+    }
+  ],
+  "conjugations": {
+    "ting": {
+      "pashirling": [
+        "muwyAt",
+        "muwyAd",
+        "muwyAstAm",
+        "muwyAsuH",
+        "muwyAH",
+        "muwyAstam",
+        "muwyAsta",
+        "muwyAsam",
+        "muwyAsva",
+        "muwyAsma"
+      ],
+      "plang": [
+        "amowat",
+        "amowad",
+        "amowatAm",
+        "amowan",
+        "amowaH",
+        "amowatam",
+        "amowata",
+        "amowam",
+        "amowAva",
+        "amowAma"
+      ],
+      "plat": [
+        "mowati",
+        "mowataH",
+        "mowanti",
+        "mowasi",
+        "mowaTaH",
+        "mowaTa",
+        "mowAmi",
+        "mowAvaH",
+        "mowAmaH"
+      ],
+      "plit": [
+        "mumowa",
+        "mumuwatuH",
+        "mumuwuH",
+        "mumowiTa",
+        "mumuwaTuH",
+        "mumuwa",
+        "mumowa",
+        "mumuwiva",
+        "mumuwima"
+      ],
+      "plot": [
+        "mowatAt",
+        "mowatAd",
+        "mowatu",
+        "mowatAm",
+        "mowantu",
+        "mowa",
+        "mowatAt",
+        "mowatAd",
+        "mowatam",
+        "mowata",
+        "mowAni",
+        "mowAva",
+        "mowAma"
+      ],
+      "plrung": [
+        "amowizyat",
+        "amowizyad",
+        "amowizyatAm",
+        "amowizyan",
+        "amowizyaH",
+        "amowizyatam",
+        "amowizyata",
+        "amowizyam",
+        "amowizyAva",
+        "amowizyAma"
+      ],
+      "plrut": [
+        "mowizyati",
+        "mowizyataH",
+        "mowizyanti",
+        "mowizyasi",
+        "mowizyaTaH",
+        "mowizyaTa",
+        "mowizyAmi",
+        "mowizyAvaH",
+        "mowizyAmaH"
+      ],
+      "plung": [
+        "amowIt",
+        "amowId",
+        "amowizwAm",
+        "amowizuH",
+        "amowIH",
+        "amowizwam",
+        "amowizwa",
+        "amowizam",
+        "amowizva",
+        "amowizma"
+      ],
+      "plut": [
+        "mowitA",
+        "mowitArO",
+        "mowitAraH",
+        "mowitAsi",
+        "mowitAsTaH",
+        "mowitAsTa",
+        "mowitAsmi",
+        "mowitAsvaH",
+        "mowitAsmaH"
+      ],
+      "pvidhiling": [
+        "mowet",
+        "mowed",
+        "mowetAm",
+        "moweyuH",
+        "moweH",
+        "mowetam",
+        "moweta",
+        "moweyam",
+        "moweva",
+        "mowema"
+      ]
+    },
+    "yak": {
+      "aashirling": [
+        "mowizIzwa",
+        "mowizIyAstAm",
+        "mowizIran",
+        "mowizIzWAH",
+        "mowizIyAsTAm",
+        "mowizIDvam",
+        "mowizIya",
+        "mowizIvahi",
+        "mowizImahi"
+      ],
+      "alang": [
+        "amuwyata",
+        "amuwyetAm",
+        "amuwyanta",
+        "amuwyaTAH",
+        "amuwyeTAm",
+        "amuwyaDvam",
+        "amuwye",
+        "amuwyAvahi",
+        "amuwyAmahi"
+      ],
+      "alat": [
+        "muwyate",
+        "muwyete",
+        "muwyante",
+        "muwyase",
+        "muwyeTe",
+        "muwyaDve",
+        "muwye",
+        "muwyAvahe",
+        "muwyAmahe"
+      ],
+      "alit": [
+        "mumuwe",
+        "mumuwAte",
+        "mumuwire",
+        "mumuwize",
+        "mumuwATe",
+        "mumuwiDve",
+        "mumuwe",
+        "mumuwivahe",
+        "mumuwimahe"
+      ],
+      "alot": [
+        "muwyatAm",
+        "muwyetAm",
+        "muwyantAm",
+        "muwyasva",
+        "muwyeTAm",
+        "muwyaDvam",
+        "muwyE",
+        "muwyAvahE",
+        "muwyAmahE"
+      ],
+      "alrung": [
+        "amowizyata",
+        "amowizyetAm",
+        "amowizyanta",
+        "amowizyaTAH",
+        "amowizyeTAm",
+        "amowizyaDvam",
+        "amowizye",
+        "amowizyAvahi",
+        "amowizyAmahi"
+      ],
+      "alrut": [
+        "mowizyate",
+        "mowizyete",
+        "mowizyante",
+        "mowizyase",
+        "mowizyeTe",
+        "mowizyaDve",
+        "mowizye",
+        "mowizyAvahe",
+        "mowizyAmahe"
+      ],
+      "alung": [
+        "amowi",
+        "amowizAtAm",
+        "amowizata",
+        "amowizWAH",
+        "amowizATAm",
+        "amowiDvam",
+        "amowizi",
+        "amowizvahi",
+        "amowizmahi"
+      ],
+      "alut": [
+        "mowitA",
+        "mowitArO",
+        "mowitAraH",
+        "mowitAse",
+        "mowitAsATe",
+        "mowitADve",
+        "mowitAhe",
+        "mowitAsvahe",
+        "mowitAsmahe"
+      ],
+      "avidhiling": [
+        "muwyeta",
+        "muwyeyAtAm",
+        "muwyeran",
+        "muwyeTAH",
+        "muwyeyATAm",
+        "muwyeDvam",
+        "muwyeya",
+        "muwyevahi",
+        "muwyemahi"
+      ]
+    },
+    "san": {
+      "pashirling": [
+        "mumuwizyAt",
+        "mumuwizyAd",
+        "mumowizyAt",
+        "mumowizyAd",
+        "mumuwizyAstAm",
+        "mumowizyAstAm",
+        "mumuwizyAsuH",
+        "mumowizyAsuH",
+        "mumuwizyAH",
+        "mumowizyAH",
+        "mumuwizyAstam",
+        "mumowizyAstam",
+        "mumuwizyAsta",
+        "mumowizyAsta",
+        "mumuwizyAsam",
+        "mumowizyAsam",
+        "mumuwizyAsva",
+        "mumowizyAsva",
+        "mumuwizyAsma",
+        "mumowizyAsma"
+      ],
+      "plang": [
+        "amumuwizat",
+        "amumuwizad",
+        "amumowizat",
+        "amumowizad",
+        "amumuwizatAm",
+        "amumowizatAm",
+        "amumuwizan",
+        "amumowizan",
+        "amumuwizaH",
+        "amumowizaH",
+        "amumuwizatam",
+        "amumowizatam",
+        "amumuwizata",
+        "amumowizata",
+        "amumuwizam",
+        "amumowizam",
+        "amumuwizAva",
+        "amumowizAva",
+        "amumuwizAma",
+        "amumowizAma"
+      ],
+      "plat": [
+        "mumuwizati",
+        "mumowizati",
+        "mumuwizataH",
+        "mumowizataH",
+        "mumuwizanti",
+        "mumowizanti",
+        "mumuwizasi",
+        "mumowizasi",
+        "mumuwizaTaH",
+        "mumowizaTaH",
+        "mumuwizaTa",
+        "mumowizaTa",
+        "mumuwizAmi",
+        "mumowizAmi",
+        "mumuwizAvaH",
+        "mumowizAvaH",
+        "mumuwizAmaH",
+        "mumowizAmaH"
+      ],
+      "plit": [
+        "mumuwizAYcakAra",
+        "mumuwizAmAsa",
+        "mumuwizAmbaBUva",
+        "mumowizAYcakAra",
+        "mumowizAmAsa",
+        "mumowizAmbaBUva",
+        "mumuwizAYcakratuH",
+        "mumuwizAmAsatuH",
+        "mumuwizAmbaBUvatuH",
+        "mumowizAYcakratuH",
+        "mumowizAmAsatuH",
+        "mumowizAmbaBUvatuH",
+        "mumuwizAYcakruH",
+        "mumuwizAmAsuH",
+        "mumuwizAmbaBUvuH",
+        "mumowizAYcakruH",
+        "mumowizAmAsuH",
+        "mumowizAmbaBUvuH",
+        "mumuwizAYcakarTa",
+        "mumuwizAmAsiTa",
+        "mumuwizAmbaBUviTa",
+        "mumowizAYcakarTa",
+        "mumowizAmAsiTa",
+        "mumowizAmbaBUviTa",
+        "mumuwizAYcakraTuH",
+        "mumuwizAmAsaTuH",
+        "mumuwizAmbaBUvaTuH",
+        "mumowizAYcakraTuH",
+        "mumowizAmAsaTuH",
+        "mumowizAmbaBUvaTuH",
+        "mumuwizAYcakra",
+        "mumuwizAmAsa",
+        "mumuwizAmbaBUva",
+        "mumowizAYcakra",
+        "mumowizAmAsa",
+        "mumowizAmbaBUva",
+        "mumuwizAYcakara",
+        "mumuwizAYcakAra",
+        "mumuwizAmAsa",
+        "mumuwizAmbaBUva",
+        "mumowizAYcakara",
+        "mumowizAYcakAra",
+        "mumowizAmAsa",
+        "mumowizAmbaBUva",
+        "mumuwizAYcakfva",
+        "mumuwizAmAsiva",
+        "mumuwizAmbaBUviva",
+        "mumowizAYcakfva",
+        "mumowizAmAsiva",
+        "mumowizAmbaBUviva",
+        "mumuwizAYcakfma",
+        "mumuwizAmAsima",
+        "mumuwizAmbaBUvima",
+        "mumowizAYcakfma",
+        "mumowizAmAsima",
+        "mumowizAmbaBUvima"
+      ],
+      "plot": [
+        "mumuwizatAt",
+        "mumuwizatAd",
+        "mumuwizatu",
+        "mumowizatAt",
+        "mumowizatAd",
+        "mumowizatu",
+        "mumuwizatAm",
+        "mumowizatAm",
+        "mumuwizantu",
+        "mumowizantu",
+        "mumuwiza",
+        "mumuwizatAt",
+        "mumuwizatAd",
+        "mumowiza",
+        "mumowizatAt",
+        "mumowizatAd",
+        "mumuwizatam",
+        "mumowizatam",
+        "mumuwizata",
+        "mumowizata",
+        "mumuwizARi",
+        "mumowizARi",
+        "mumuwizAva",
+        "mumowizAva",
+        "mumuwizAma",
+        "mumowizAma"
+      ],
+      "plrung": [
+        "amumuwizizyat",
+        "amumuwizizyad",
+        "amumowizizyat",
+        "amumowizizyad",
+        "amumuwizizyatAm",
+        "amumowizizyatAm",
+        "amumuwizizyan",
+        "amumowizizyan",
+        "amumuwizizyaH",
+        "amumowizizyaH",
+        "amumuwizizyatam",
+        "amumowizizyatam",
+        "amumuwizizyata",
+        "amumowizizyata",
+        "amumuwizizyam",
+        "amumowizizyam",
+        "amumuwizizyAva",
+        "amumowizizyAva",
+        "amumuwizizyAma",
+        "amumowizizyAma"
+      ],
+      "plrut": [
+        "mumuwizizyati",
+        "mumowizizyati",
+        "mumuwizizyataH",
+        "mumowizizyataH",
+        "mumuwizizyanti",
+        "mumowizizyanti",
+        "mumuwizizyasi",
+        "mumowizizyasi",
+        "mumuwizizyaTaH",
+        "mumowizizyaTaH",
+        "mumuwizizyaTa",
+        "mumowizizyaTa",
+        "mumuwizizyAmi",
+        "mumowizizyAmi",
+        "mumuwizizyAvaH",
+        "mumowizizyAvaH",
+        "mumuwizizyAmaH",
+        "mumowizizyAmaH"
+      ],
+      "plung": [
+        "amumuwizIt",
+        "amumuwizId",
+        "amumowizIt",
+        "amumowizId",
+        "amumuwizizwAm",
+        "amumowizizwAm",
+        "amumuwizizuH",
+        "amumowizizuH",
+        "amumuwizIH",
+        "amumowizIH",
+        "amumuwizizwam",
+        "amumowizizwam",
+        "amumuwizizwa",
+        "amumowizizwa",
+        "amumuwizizam",
+        "amumowizizam",
+        "amumuwizizva",
+        "amumowizizva",
+        "amumuwizizma",
+        "amumowizizma"
+      ],
+      "plut": [
+        "mumuwizitA",
+        "mumowizitA",
+        "mumuwizitArO",
+        "mumowizitArO",
+        "mumuwizitAraH",
+        "mumowizitAraH",
+        "mumuwizitAsi",
+        "mumowizitAsi",
+        "mumuwizitAsTaH",
+        "mumowizitAsTaH",
+        "mumuwizitAsTa",
+        "mumowizitAsTa",
+        "mumuwizitAsmi",
+        "mumowizitAsmi",
+        "mumuwizitAsvaH",
+        "mumowizitAsvaH",
+        "mumuwizitAsmaH",
+        "mumowizitAsmaH"
+      ],
+      "pvidhiling": [
+        "mumuwizet",
+        "mumuwized",
+        "mumowizet",
+        "mumowized",
+        "mumuwizetAm",
+        "mumowizetAm",
+        "mumuwizeyuH",
+        "mumowizeyuH",
+        "mumuwizeH",
+        "mumowizeH",
+        "mumuwizetam",
+        "mumowizetam",
+        "mumuwizeta",
+        "mumowizeta",
+        "mumuwizeyam",
+        "mumowizeyam",
+        "mumuwizeva",
+        "mumowizeva",
+        "mumuwizema",
+        "mumowizema"
+      ]
+    },
+    "san_yak": {
+      "aashirling": [
+        "mumuwizizIzwa",
+        "mumowizizIzwa",
+        "mumuwizizIyAstAm",
+        "mumowizizIyAstAm",
+        "mumuwizizIran",
+        "mumowizizIran",
+        "mumuwizizIzWAH",
+        "mumowizizIzWAH",
+        "mumuwizizIyAsTAm",
+        "mumowizizIyAsTAm",
+        "mumuwizizIDvam",
+        "mumowizizIDvam",
+        "mumuwizizIya",
+        "mumowizizIya",
+        "mumuwizizIvahi",
+        "mumowizizIvahi",
+        "mumuwizizImahi",
+        "mumowizizImahi"
+      ],
+      "alang": [
+        "amumuwizyata",
+        "amumowizyata",
+        "amumuwizyetAm",
+        "amumowizyetAm",
+        "amumuwizyanta",
+        "amumowizyanta",
+        "amumuwizyaTAH",
+        "amumowizyaTAH",
+        "amumuwizyeTAm",
+        "amumowizyeTAm",
+        "amumuwizyaDvam",
+        "amumowizyaDvam",
+        "amumuwizye",
+        "amumowizye",
+        "amumuwizyAvahi",
+        "amumowizyAvahi",
+        "amumuwizyAmahi",
+        "amumowizyAmahi"
+      ],
+      "alat": [
+        "mumuwizyate",
+        "mumowizyate",
+        "mumuwizyete",
+        "mumowizyete",
+        "mumuwizyante",
+        "mumowizyante",
+        "mumuwizyase",
+        "mumowizyase",
+        "mumuwizyeTe",
+        "mumowizyeTe",
+        "mumuwizyaDve",
+        "mumowizyaDve",
+        "mumuwizye",
+        "mumowizye",
+        "mumuwizyAvahe",
+        "mumowizyAvahe",
+        "mumuwizyAmahe",
+        "mumowizyAmahe"
+      ],
+      "alit": [
+        "mumuwizAYcakre",
+        "mumuwizAmAse",
+        "mumuwizAmbaBUve",
+        "mumowizAYcakre",
+        "mumowizAmAse",
+        "mumowizAmbaBUve",
+        "mumuwizAYcakrAte",
+        "mumuwizAmAsAte",
+        "mumuwizAmbaBUvAte",
+        "mumowizAYcakrAte",
+        "mumowizAmAsAte",
+        "mumowizAmbaBUvAte",
+        "mumuwizAYcakrire",
+        "mumuwizAmAsire",
+        "mumuwizAmbaBUvire",
+        "mumowizAYcakrire",
+        "mumowizAmAsire",
+        "mumowizAmbaBUvire",
+        "mumuwizAYcakfze",
+        "mumuwizAmAsize",
+        "mumuwizAmbaBUvize",
+        "mumowizAYcakfze",
+        "mumowizAmAsize",
+        "mumowizAmbaBUvize",
+        "mumuwizAYcakrATe",
+        "mumuwizAmAsATe",
+        "mumuwizAmbaBUvATe",
+        "mumowizAYcakrATe",
+        "mumowizAmAsATe",
+        "mumowizAmbaBUvATe",
+        "mumuwizAYcakfQve",
+        "mumuwizAmAsiDve",
+        "mumuwizAmbaBUviQve",
+        "mumowizAYcakfQve",
+        "mumowizAmAsiDve",
+        "mumowizAmbaBUviQve",
+        "mumuwizAYcakre",
+        "mumuwizAmAhe",
+        "mumuwizAmbaBUve",
+        "mumowizAYcakre",
+        "mumowizAmAhe",
+        "mumowizAmbaBUve",
+        "mumuwizAYcakfvahe",
+        "mumuwizAmAsivahe",
+        "mumuwizAmbaBUvivahe",
+        "mumowizAYcakfvahe",
+        "mumowizAmAsivahe",
+        "mumowizAmbaBUvivahe",
+        "mumuwizAYcakfmahe",
+        "mumuwizAmAsimahe",
+        "mumuwizAmbaBUvimahe",
+        "mumowizAYcakfmahe",
+        "mumowizAmAsimahe",
+        "mumowizAmbaBUvimahe"
+      ],
+      "alot": [
+        "mumuwizyatAm",
+        "mumowizyatAm",
+        "mumuwizyetAm",
+        "mumowizyetAm",
+        "mumuwizyantAm",
+        "mumowizyantAm",
+        "mumuwizyasva",
+        "mumowizyasva",
+        "mumuwizyeTAm",
+        "mumowizyeTAm",
+        "mumuwizyaDvam",
+        "mumowizyaDvam",
+        "mumuwizyE",
+        "mumowizyE",
+        "mumuwizyAvahE",
+        "mumowizyAvahE",
+        "mumuwizyAmahE",
+        "mumowizyAmahE"
+      ],
+      "alrung": [
+        "amumuwizizyata",
+        "amumowizizyata",
+        "amumuwizizyetAm",
+        "amumowizizyetAm",
+        "amumuwizizyanta",
+        "amumowizizyanta",
+        "amumuwizizyaTAH",
+        "amumowizizyaTAH",
+        "amumuwizizyeTAm",
+        "amumowizizyeTAm",
+        "amumuwizizyaDvam",
+        "amumowizizyaDvam",
+        "amumuwizizye",
+        "amumowizizye",
+        "amumuwizizyAvahi",
+        "amumowizizyAvahi",
+        "amumuwizizyAmahi",
+        "amumowizizyAmahi"
+      ],
+      "alrut": [
+        "mumuwizizyate",
+        "mumowizizyate",
+        "mumuwizizyete",
+        "mumowizizyete",
+        "mumuwizizyante",
+        "mumowizizyante",
+        "mumuwizizyase",
+        "mumowizizyase",
+        "mumuwizizyeTe",
+        "mumowizizyeTe",
+        "mumuwizizyaDve",
+        "mumowizizyaDve",
+        "mumuwizizye",
+        "mumowizizye",
+        "mumuwizizyAvahe",
+        "mumowizizyAvahe",
+        "mumuwizizyAmahe",
+        "mumowizizyAmahe"
+      ],
+      "alung": [
+        "amumuwizi",
+        "amumowizi",
+        "amumuwizizAtAm",
+        "amumowizizAtAm",
+        "amumuwizizata",
+        "amumowizizata",
+        "amumuwizizWAH",
+        "amumowizizWAH",
+        "amumuwizizATAm",
+        "amumowizizATAm",
+        "amumuwiziDvam",
+        "amumowiziDvam",
+        "amumuwizizi",
+        "amumowizizi",
+        "amumuwizizvahi",
+        "amumowizizvahi",
+        "amumuwizizmahi",
+        "amumowizizmahi"
+      ],
+      "alut": [
+        "mumuwizitA",
+        "mumowizitA",
+        "mumuwizitArO",
+        "mumowizitArO",
+        "mumuwizitAraH",
+        "mumowizitAraH",
+        "mumuwizitAse",
+        "mumowizitAse",
+        "mumuwizitAsATe",
+        "mumowizitAsATe",
+        "mumuwizitADve",
+        "mumowizitADve",
+        "mumuwizitAhe",
+        "mumowizitAhe",
+        "mumuwizitAsvahe",
+        "mumowizitAsvahe",
+        "mumuwizitAsmahe",
+        "mumowizitAsmahe"
+      ],
+      "avidhiling": [
+        "mumuwizyeta",
+        "mumowizyeta",
+        "mumuwizyeyAtAm",
+        "mumowizyeyAtAm",
+        "mumuwizyeran",
+        "mumowizyeran",
+        "mumuwizyeTAH",
+        "mumowizyeTAH",
+        "mumuwizyeyATAm",
+        "mumowizyeyATAm",
+        "mumuwizyeDvam",
+        "mumowizyeDvam",
+        "mumuwizyeya",
+        "mumowizyeya",
+        "mumuwizyevahi",
+        "mumowizyevahi",
+        "mumuwizyemahi",
+        "mumowizyemahi"
+      ]
+    },
+    "nich": {
+      "aashirling": [
+        "mowayizIzwa",
+        "mowayizIyAstAm",
+        "mowayizIran",
+        "mowayizIzWAH",
+        "mowayizIyAsTAm",
+        "mowayizIQvam",
+        "mowayizIDvam",
+        "mowayizIya",
+        "mowayizIvahi",
+        "mowayizImahi"
+      ],
+      "alang": [
+        "amowayata",
+        "amowayetAm",
+        "amowayanta",
+        "amowayaTAH",
+        "amowayeTAm",
+        "amowayaDvam",
+        "amowaye",
+        "amowayAvahi",
+        "amowayAmahi"
+      ],
+      "alat": [
+        "mowayate",
+        "mowayete",
+        "mowayante",
+        "mowayase",
+        "mowayeTe",
+        "mowayaDve",
+        "mowaye",
+        "mowayAvahe",
+        "mowayAmahe"
+      ],
+      "alit": [
+        "mowayAYcakre",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakrAte",
+        "mowayAmAsatuH",
+        "mowayAmbaBUvatuH",
+        "mowayAYcakrire",
+        "mowayAmAsuH",
+        "mowayAmbaBUvuH",
+        "mowayAYcakfze",
+        "mowayAmAsiTa",
+        "mowayAmbaBUviTa",
+        "mowayAYcakrATe",
+        "mowayAmAsaTuH",
+        "mowayAmbaBUvaTuH",
+        "mowayAYcakfQve",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakre",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakfvahe",
+        "mowayAmAsiva",
+        "mowayAmbaBUviva",
+        "mowayAYcakfmahe",
+        "mowayAmAsima",
+        "mowayAmbaBUvima"
+      ],
+      "alot": [
+        "mowayatAm",
+        "mowayetAm",
+        "mowayantAm",
+        "mowayasva",
+        "mowayeTAm",
+        "mowayaDvam",
+        "mowayE",
+        "mowayAvahE",
+        "mowayAmahE"
+      ],
+      "alrung": [
+        "amowayizyata",
+        "amowayizyetAm",
+        "amowayizyanta",
+        "amowayizyaTAH",
+        "amowayizyeTAm",
+        "amowayizyaDvam",
+        "amowayizye",
+        "amowayizyAvahi",
+        "amowayizyAmahi"
+      ],
+      "alrut": [
+        "mowayizyate",
+        "mowayizyete",
+        "mowayizyante",
+        "mowayizyase",
+        "mowayizyeTe",
+        "mowayizyaDve",
+        "mowayizye",
+        "mowayizyAvahe",
+        "mowayizyAmahe"
+      ],
+      "alung": [
+        "amUmuwata",
+        "amUmuwetAm",
+        "amUmuwanta",
+        "amUmuwaTAH",
+        "amUmuweTAm",
+        "amUmuwaDvam",
+        "amUmuwe",
+        "amUmuwAvahi",
+        "amUmuwAmahi"
+      ],
+      "alut": [
+        "mowayitA",
+        "mowayitArO",
+        "mowayitAraH",
+        "mowayitAse",
+        "mowayitAsATe",
+        "mowayitADve",
+        "mowayitAhe",
+        "mowayitAsvahe",
+        "mowayitAsmahe"
+      ],
+      "avidhiling": [
+        "mowayeta",
+        "mowayeyAtAm",
+        "mowayeran",
+        "mowayeTAH",
+        "mowayeyATAm",
+        "mowayeDvam",
+        "mowayeya",
+        "mowayevahi",
+        "mowayemahi"
+      ],
+      "pashirling": [
+        "mowyAt",
+        "mowyAd",
+        "mowyAstAm",
+        "mowyAsuH",
+        "mowyAH",
+        "mowyAstam",
+        "mowyAsta",
+        "mowyAsam",
+        "mowyAsva",
+        "mowyAsma"
+      ],
+      "plang": [
+        "amowayat",
+        "amowayad",
+        "amowayatAm",
+        "amowayan",
+        "amowayaH",
+        "amowayatam",
+        "amowayata",
+        "amowayam",
+        "amowayAva",
+        "amowayAma"
+      ],
+      "plat": [
+        "mowayati",
+        "mowayataH",
+        "mowayanti",
+        "mowayasi",
+        "mowayaTaH",
+        "mowayaTa",
+        "mowayAmi",
+        "mowayAvaH",
+        "mowayAmaH"
+      ],
+      "plit": [
+        "mowayAYcakAra",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakratuH",
+        "mowayAmAsatuH",
+        "mowayAmbaBUvatuH",
+        "mowayAYcakruH",
+        "mowayAmAsuH",
+        "mowayAmbaBUvuH",
+        "mowayAYcakarTa",
+        "mowayAmAsiTa",
+        "mowayAmbaBUviTa",
+        "mowayAYcakraTuH",
+        "mowayAmAsaTuH",
+        "mowayAmbaBUvaTuH",
+        "mowayAYcakra",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakara",
+        "mowayAYcakAra",
+        "mowayAmAsa",
+        "mowayAmbaBUva",
+        "mowayAYcakfva",
+        "mowayAmAsiva",
+        "mowayAmbaBUviva",
+        "mowayAYcakfma",
+        "mowayAmAsima",
+        "mowayAmbaBUvima"
+      ],
+      "plot": [
+        "mowayatAt",
+        "mowayatAd",
+        "mowayatu",
+        "mowayatAm",
+        "mowayantu",
+        "mowaya",
+        "mowayatAt",
+        "mowayatAd",
+        "mowayatam",
+        "mowayata",
+        "mowayAni",
+        "mowayAva",
+        "mowayAma"
+      ],
+      "plrung": [
+        "amowayizyat",
+        "amowayizyad",
+        "amowayizyatAm",
+        "amowayizyan",
+        "amowayizyaH",
+        "amowayizyatam",
+        "amowayizyata",
+        "amowayizyam",
+        "amowayizyAva",
+        "amowayizyAma"
+      ],
+      "plrut": [
+        "mowayizyati",
+        "mowayizyataH",
+        "mowayizyanti",
+        "mowayizyasi",
+        "mowayizyaTaH",
+        "mowayizyaTa",
+        "mowayizyAmi",
+        "mowayizyAvaH",
+        "mowayizyAmaH"
+      ],
+      "plung": [
+        "amUmuwat",
+        "amUmuwad",
+        "amUmuwatAm",
+        "amUmuwan",
+        "amUmuwaH",
+        "amUmuwatam",
+        "amUmuwata",
+        "amUmuwam",
+        "amUmuwAva",
+        "amUmuwAma"
+      ],
+      "plut": [
+        "mowayitA",
+        "mowayitArO",
+        "mowayitAraH",
+        "mowayitAsi",
+        "mowayitAsTaH",
+        "mowayitAsTa",
+        "mowayitAsmi",
+        "mowayitAsvaH",
+        "mowayitAsmaH"
+      ],
+      "pvidhiling": [
+        "mowayet",
+        "mowayed",
+        "mowayetAm",
+        "mowayeyuH",
+        "mowayeH",
+        "mowayetam",
+        "mowayeta",
+        "mowayeyam",
+        "mowayeva",
+        "mowayema"
+      ]
+    },
+    "nich_yak": {
+      "aashirling": [
+        "mowayizIzwa",
+        "mowizIzwa",
+        "mowayizIyAstAm",
+        "mowizIyAstAm",
+        "mowayizIran",
+        "mowizIran",
+        "mowayizIzWAH",
+        "mowizIzWAH",
+        "mowayizIyAsTAm",
+        "mowizIyAsTAm",
+        "mowayizIQvam",
+        "mowayizIDvam",
+        "mowizIDvam",
+        "mowayizIya",
+        "mowizIya",
+        "mowayizIvahi",
+        "mowizIvahi",
+        "mowayizImahi",
+        "mowizImahi"
+      ],
+      "alang": [
+        "amowyata",
+        "amowyetAm",
+        "amowyanta",
+        "amowyaTAH",
+        "amowyeTAm",
+        "amowyaDvam",
+        "amowye",
+        "amowyAvahi",
+        "amowyAmahi"
+      ],
+      "alat": [
+        "mowyate",
+        "mowyete",
+        "mowyante",
+        "mowyase",
+        "mowyeTe",
+        "mowyaDve",
+        "mowye",
+        "mowyAvahe",
+        "mowyAmahe"
+      ],
+      "alit": [
+        "mowayAYcakre",
+        "mowayAmAse",
+        "mowayAmbaBUve",
+        "mowayAYcakrAte",
+        "mowayAmAsAte",
+        "mowayAmbaBUvAte",
+        "mowayAYcakrire",
+        "mowayAmAsire",
+        "mowayAmbaBUvire",
+        "mowayAYcakfze",
+        "mowayAmAsize",
+        "mowayAmbaBUvize",
+        "mowayAYcakrATe",
+        "mowayAmAsATe",
+        "mowayAmbaBUvATe",
+        "mowayAYcakfQve",
+        "mowayAmAsiDve",
+        "mowayAmbaBUviQve",
+        "mowayAYcakre",
+        "mowayAmAhe",
+        "mowayAmbaBUve",
+        "mowayAYcakfvahe",
+        "mowayAmAsivahe",
+        "mowayAmbaBUvivahe",
+        "mowayAYcakfmahe",
+        "mowayAmAsimahe",
+        "mowayAmbaBUvimahe"
+      ],
+      "alot": [
+        "mowyatAm",
+        "mowyetAm",
+        "mowyantAm",
+        "mowyasva",
+        "mowyeTAm",
+        "mowyaDvam",
+        "mowyE",
+        "mowyAvahE",
+        "mowyAmahE"
+      ],
+      "alrung": [
+        "amowayizyata",
+        "amowizyata",
+        "amowayizyetAm",
+        "amowizyetAm",
+        "amowayizyanta",
+        "amowizyanta",
+        "amowayizyaTAH",
+        "amowizyaTAH",
+        "amowayizyeTAm",
+        "amowizyeTAm",
+        "amowayizyaDvam",
+        "amowizyaDvam",
+        "amowayizye",
+        "amowizye",
+        "amowayizyAvahi",
+        "amowizyAvahi",
+        "amowayizyAmahi",
+        "amowizyAmahi"
+      ],
+      "alrut": [
+        "mowayizyate",
+        "mowizyate",
+        "mowayizyete",
+        "mowizyete",
+        "mowayizyante",
+        "mowizyante",
+        "mowayizyase",
+        "mowizyase",
+        "mowayizyeTe",
+        "mowizyeTe",
+        "mowayizyaDve",
+        "mowizyaDve",
+        "mowayizye",
+        "mowizye",
+        "mowayizyAvahe",
+        "mowizyAvahe",
+        "mowayizyAmahe",
+        "mowizyAmahe"
+      ],
+      "alung": [
+        "amowi",
+        "amowayizAtAm",
+        "amowizAtAm",
+        "amowayizata",
+        "amowizata",
+        "amowayizWAH",
+        "amowizWAH",
+        "amowayizATAm",
+        "amowizATAm",
+        "amowayiQvam",
+        "amowayiDvam",
+        "amowiDvam",
+        "amowayizi",
+        "amowizi",
+        "amowayizvahi",
+        "amowizvahi",
+        "amowayizmahi",
+        "amowizmahi"
+      ],
+      "alut": [
+        "mowayitA",
+        "mowitA",
+        "mowayitArO",
+        "mowitArO",
+        "mowayitAraH",
+        "mowitAraH",
+        "mowayitAse",
+        "mowitAse",
+        "mowayitAsATe",
+        "mowitAsATe",
+        "mowayitADve",
+        "mowitADve",
+        "mowayitAhe",
+        "mowitAhe",
+        "mowayitAsvahe",
+        "mowitAsvahe",
+        "mowayitAsmahe",
+        "mowitAsmahe"
+      ],
+      "avidhiling": [
+        "mowyeta",
+        "mowyeyAtAm",
+        "mowyeran",
+        "mowyeTAH",
+        "mowyeyATAm",
+        "mowyeDvam",
+        "mowyeya",
+        "mowyevahi",
+        "mowyemahi"
+      ]
+    },
+    "yang": {
+      "aashirling": [
+        "momuwizIzwa",
+        "momuwizIyAstAm",
+        "momuwizIran",
+        "momuwizIzWAH",
+        "momuwizIyAsTAm",
+        "momuwizIDvam",
+        "momuwizIya",
+        "momuwizIvahi",
+        "momuwizImahi"
+      ],
+      "alang": [
+        "amomuwyata",
+        "amomuwyetAm",
+        "amomuwyanta",
+        "amomuwyaTAH",
+        "amomuwyeTAm",
+        "amomuwyaDvam",
+        "amomuwye",
+        "amomuwyAvahi",
+        "amomuwyAmahi"
+      ],
+      "alat": [
+        "momuwyate",
+        "momuwyete",
+        "momuwyante",
+        "momuwyase",
+        "momuwyeTe",
+        "momuwyaDve",
+        "momuwye",
+        "momuwyAvahe",
+        "momuwyAmahe"
+      ],
+      "alit": [
+        "momuwAYcakre",
+        "momuwAmAsa",
+        "momuwAmbaBUva",
+        "momuwAYcakrAte",
+        "momuwAmAsatuH",
+        "momuwAmbaBUvatuH",
+        "momuwAYcakrire",
+        "momuwAmAsuH",
+        "momuwAmbaBUvuH",
+        "momuwAYcakfze",
+        "momuwAmAsiTa",
+        "momuwAmbaBUviTa",
+        "momuwAYcakrATe",
+        "momuwAmAsaTuH",
+        "momuwAmbaBUvaTuH",
+        "momuwAYcakfQve",
+        "momuwAmAsa",
+        "momuwAmbaBUva",
+        "momuwAYcakre",
+        "momuwAmAsa",
+        "momuwAmbaBUva",
+        "momuwAYcakfvahe",
+        "momuwAmAsiva",
+        "momuwAmbaBUviva",
+        "momuwAYcakfmahe",
+        "momuwAmAsima",
+        "momuwAmbaBUvima"
+      ],
+      "alot": [
+        "momuwyatAm",
+        "momuwyetAm",
+        "momuwyantAm",
+        "momuwyasva",
+        "momuwyeTAm",
+        "momuwyaDvam",
+        "momuwyE",
+        "momuwyAvahE",
+        "momuwyAmahE"
+      ],
+      "alrung": [
+        "amomuwizyata",
+        "amomuwizyetAm",
+        "amomuwizyanta",
+        "amomuwizyaTAH",
+        "amomuwizyeTAm",
+        "amomuwizyaDvam",
+        "amomuwizye",
+        "amomuwizyAvahi",
+        "amomuwizyAmahi"
+      ],
+      "alrut": [
+        "momuwizyate",
+        "momuwizyete",
+        "momuwizyante",
+        "momuwizyase",
+        "momuwizyeTe",
+        "momuwizyaDve",
+        "momuwizye",
+        "momuwizyAvahe",
+        "momuwizyAmahe"
+      ],
+      "alung": [
+        "amomuwizwa",
+        "amomuwizAtAm",
+        "amomuwizata",
+        "amomuwizWAH",
+        "amomuwizATAm",
+        "amomuwiDvam",
+        "amomuwizi",
+        "amomuwizvahi",
+        "amomuwizmahi"
+      ],
+      "alut": [
+        "momuwitA",
+        "momuwitArO",
+        "momuwitAraH",
+        "momuwitAse",
+        "momuwitAsATe",
+        "momuwitADve",
+        "momuwitAhe",
+        "momuwitAsvahe",
+        "momuwitAsmahe"
+      ],
+      "avidhiling": [
+        "momuwyeta",
+        "momuwyeyAtAm",
+        "momuwyeran",
+        "momuwyeTAH",
+        "momuwyeyATAm",
+        "momuwyeDvam",
+        "momuwyeya",
+        "momuwyevahi",
+        "momuwyemahi"
+      ]
+    },
+    "yang_yak": {
+      "aashirling": [
+        "momuwizIzwa",
+        "momuwizIyAstAm",
+        "momuwizIran",
+        "momuwizIzWAH",
+        "momuwizIyAsTAm",
+        "momuwizIDvam",
+        "momuwizIya",
+        "momuwizIvahi",
+        "momuwizImahi"
+      ],
+      "alang": [
+        "amomuwyata",
+        "amomuwyetAm",
+        "amomuwyanta",
+        "amomuwyaTAH",
+        "amomuwyeTAm",
+        "amomuwyaDvam",
+        "amomuwye",
+        "amomuwyAvahi",
+        "amomuwyAmahi"
+      ],
+      "alat": [
+        "momuwyate",
+        "momuwyete",
+        "momuwyante",
+        "momuwyase",
+        "momuwyeTe",
+        "momuwyaDve",
+        "momuwye",
+        "momuwyAvahe",
+        "momuwyAmahe"
+      ],
+      "alit": [
+        "momuwAYcakre",
+        "momuwAmAse",
+        "momuwAmbaBUve",
+        "momuwAYcakrAte",
+        "momuwAmAsAte",
+        "momuwAmbaBUvAte",
+        "momuwAYcakrire",
+        "momuwAmAsire",
+        "momuwAmbaBUvire",
+        "momuwAYcakfze",
+        "momuwAmAsize",
+        "momuwAmbaBUvize",
+        "momuwAYcakrATe",
+        "momuwAmAsATe",
+        "momuwAmbaBUvATe",
+        "momuwAYcakfQve",
+        "momuwAmAsiDve",
+        "momuwAmbaBUviQve",
+        "momuwAYcakre",
+        "momuwAmAhe",
+        "momuwAmbaBUve",
+        "momuwAYcakfvahe",
+        "momuwAmAsivahe",
+        "momuwAmbaBUvivahe",
+        "momuwAYcakfmahe",
+        "momuwAmAsimahe",
+        "momuwAmbaBUvimahe"
+      ],
+      "alot": [
+        "momuwyatAm",
+        "momuwyetAm",
+        "momuwyantAm",
+        "momuwyasva",
+        "momuwyeTAm",
+        "momuwyaDvam",
+        "momuwyE",
+        "momuwyAvahE",
+        "momuwyAmahE"
+      ],
+      "alrung": [
+        "amomuwizyata",
+        "amomuwizyetAm",
+        "amomuwizyanta",
+        "amomuwizyaTAH",
+        "amomuwizyeTAm",
+        "amomuwizyaDvam",
+        "amomuwizye",
+        "amomuwizyAvahi",
+        "amomuwizyAmahi"
+      ],
+      "alrut": [
+        "momuwizyate",
+        "momuwizyete",
+        "momuwizyante",
+        "momuwizyase",
+        "momuwizyeTe",
+        "momuwizyaDve",
+        "momuwizye",
+        "momuwizyAvahe",
+        "momuwizyAmahe"
+      ],
+      "alung": [
+        "amomuwi",
+        "amomuwizAtAm",
+        "amomuwizata",
+        "amomuwizWAH",
+        "amomuwizATAm",
+        "amomuwiDvam",
+        "amomuwizi",
+        "amomuwizvahi",
+        "amomuwizmahi"
+      ],
+      "alut": [
+        "momuwitA",
+        "momuwitArO",
+        "momuwitAraH",
+        "momuwitAse",
+        "momuwitAsATe",
+        "momuwitADve",
+        "momuwitAhe",
+        "momuwitAsvahe",
+        "momuwitAsmahe"
+      ],
+      "avidhiling": [
+        "momuwyeta",
+        "momuwyeyAtAm",
+        "momuwyeran",
+        "momuwyeTAH",
+        "momuwyeyATAm",
+        "momuwyeDvam",
+        "momuwyeya",
+        "momuwyevahi",
+        "momuwyemahi"
+      ]
+    },
+    "yangluk": {
+      "pashirling": [
+        "momuwyAt",
+        "momuwyAd",
+        "momuwyAstAm",
+        "momuwyAsuH",
+        "momuwyAH",
+        "momuwyAstam",
+        "momuwyAsta",
+        "momuwyAsam",
+        "momuwyAsva",
+        "momuwyAsma"
+      ],
+      "plang": [
+        "amomuwIt",
+        "amomuwId",
+        "amomow",
+        "amomoq",
+        "amomuwwAm",
+        "amomuwuH",
+        "amomuwIH",
+        "amomow",
+        "amomoq",
+        "amomuwwam",
+        "amomuwwa",
+        "amomuwam",
+        "amomuwva",
+        "amomuwma"
+      ],
+      "plat": [
+        "momuwIti",
+        "momowwi",
+        "momuwwaH",
+        "momuwati",
+        "momuwIzi",
+        "momowzi",
+        "momuwWaH",
+        "momuwWa",
+        "momuwImi",
+        "momowmi",
+        "momuwvaH",
+        "momuwmaH"
+      ],
+      "plit": [
+        "momowAYcakAra",
+        "momowAmAsa",
+        "momowAmbaBUva",
+        "momowAYcakratuH",
+        "momowAmAsatuH",
+        "momowAmbaBUvatuH",
+        "momowAYcakruH",
+        "momowAmAsuH",
+        "momowAmbaBUvuH",
+        "momowAYcakarTa",
+        "momowAmAsiTa",
+        "momowAmbaBUviTa",
+        "momowAYcakraTuH",
+        "momowAmAsaTuH",
+        "momowAmbaBUvaTuH",
+        "momowAYcakra",
+        "momowAmAsa",
+        "momowAmbaBUva",
+        "momowAYcakara",
+        "momowAYcakAra",
+        "momowAmAsa",
+        "momowAmbaBUva",
+        "momowAYcakfva",
+        "momowAmAsiva",
+        "momowAmbaBUviva",
+        "momowAYcakfma",
+        "momowAmAsima",
+        "momowAmbaBUvima"
+      ],
+      "plot": [
+        "momuwItu",
+        "momuwwAt",
+        "momuwwAd",
+        "momowwu",
+        "momuwwAm",
+        "momuwatu",
+        "momuwwAt",
+        "momuwwAd",
+        "momuqQi",
+        "momuwwam",
+        "momuwwa",
+        "momuwAni",
+        "momuwAva",
+        "momuwAma"
+      ],
+      "plrung": [
+        "amomowizyat",
+        "amomowizyad",
+        "amomowizyatAm",
+        "amomowizyan",
+        "amomowizyaH",
+        "amomowizyatam",
+        "amomowizyata",
+        "amomowizyam",
+        "amomowizyAva",
+        "amomowizyAma"
+      ],
+      "plrut": [
+        "momowizyati",
+        "momowizyataH",
+        "momowizyanti",
+        "momowizyasi",
+        "momowizyaTaH",
+        "momowizyaTa",
+        "momowizyAmi",
+        "momowizyAvaH",
+        "momowizyAmaH"
+      ],
+      "plung": [
+        "amomowIt",
+        "amomowId",
+        "amomowizwAm",
+        "amomowizuH",
+        "amomowIH",
+        "amomowizwam",
+        "amomowizwa",
+        "amomowizam",
+        "amomowizva",
+        "amomowizma"
+      ],
+      "plut": [
+        "momowitA",
+        "momowitArO",
+        "momowitAraH",
+        "momowitAsi",
+        "momowitAsTaH",
+        "momowitAsTa",
+        "momowitAsmi",
+        "momowitAsvaH",
+        "momowitAsmaH"
+      ],
+      "pvidhiling": [
+        "momuwyAt",
+        "momuwyAd",
+        "momuwyAtAm",
+        "momuwyuH",
+        "momuwyAH",
+        "momuwyAtam",
+        "momuwyAta",
+        "momuwyAm",
+        "momuwyAva",
+        "momuwyAma"
+      ]
+    },
+    "yangluk_yak": {
+      "aashirling": [
+        "momowizIzwa",
+        "momowizIyAstAm",
+        "momowizIran",
+        "momowizIzWAH",
+        "momowizIyAsTAm",
+        "momowizIDvam",
+        "momowizIya",
+        "momowizIvahi",
+        "momowizImahi"
+      ],
+      "alang": [
+        "amomuwyata",
+        "amomuwyetAm",
+        "amomuwyanta",
+        "amomuwyaTAH",
+        "amomuwyeTAm",
+        "amomuwyaDvam",
+        "amomuwye",
+        "amomuwyAvahi",
+        "amomuwyAmahi"
+      ],
+      "alat": [
+        "momuwyate",
+        "momuwyete",
+        "momuwyante",
+        "momuwyase",
+        "momuwyeTe",
+        "momuwyaDve",
+        "momuwye",
+        "momuwyAvahe",
+        "momuwyAmahe"
+      ],
+      "alit": [
+        "momowAYcakre",
+        "momowAmAse",
+        "momowAmbaBUve",
+        "momowAYcakrAte",
+        "momowAmAsAte",
+        "momowAmbaBUvAte",
+        "momowAYcakrire",
+        "momowAmAsire",
+        "momowAmbaBUvire",
+        "momowAYcakfze",
+        "momowAmAsize",
+        "momowAmbaBUvize",
+        "momowAYcakrATe",
+        "momowAmAsATe",
+        "momowAmbaBUvATe",
+        "momowAYcakfQve",
+        "momowAmAsiDve",
+        "momowAmbaBUviQve",
+        "momowAYcakre",
+        "momowAmAhe",
+        "momowAmbaBUve",
+        "momowAYcakfvahe",
+        "momowAmAsivahe",
+        "momowAmbaBUvivahe",
+        "momowAYcakfmahe",
+        "momowAmAsimahe",
+        "momowAmbaBUvimahe"
+      ],
+      "alot": [
+        "momuwyatAm",
+        "momuwyetAm",
+        "momuwyantAm",
+        "momuwyasva",
+        "momuwyeTAm",
+        "momuwyaDvam",
+        "momuwyE",
+        "momuwyAvahE",
+        "momuwyAmahE"
+      ],
+      "alrung": [
+        "amomowizyata",
+        "amomowizyetAm",
+        "amomowizyanta",
+        "amomowizyaTAH",
+        "amomowizyeTAm",
+        "amomowizyaDvam",
+        "amomowizye",
+        "amomowizyAvahi",
+        "amomowizyAmahi"
+      ],
+      "alrut": [
+        "momowizyate",
+        "momowizyete",
+        "momowizyante",
+        "momowizyase",
+        "momowizyeTe",
+        "momowizyaDve",
+        "momowizye",
+        "momowizyAvahe",
+        "momowizyAmahe"
+      ],
+      "alung": [
+        "amomowi",
+        "amomowizAtAm",
+        "amomowizata",
+        "amomowizWAH",
+        "amomowizATAm",
+        "amomowiDvam",
+        "amomowizi",
+        "amomowizvahi",
+        "amomowizmahi"
+      ],
+      "alut": [
+        "momowitA",
+        "momowitArO",
+        "momowitAraH",
+        "momowitAse",
+        "momowitAsATe",
+        "momowitADve",
+        "momowitAhe",
+        "momowitAsvahe",
+        "momowitAsmahe"
+      ],
+      "avidhiling": [
+        "momuwyeta",
+        "momuwyeyAtAm",
+        "momuwyeran",
+        "momuwyeTAH",
+        "momuwyeyATAm",
+        "momuwyeDvam",
+        "momuwyeya",
+        "momuwyevahi",
+        "momuwyemahi"
+      ]
+    }
+  },
+  "participles": {
+    "krut": {
+      "anIyar": [
+        {
+          "base": "mowanIya",
+          "m": "mowanIyaH",
+          "f": "mowanIyA",
+          "n": "mowanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "muwita",
+          "m": "muwitaH",
+          "f": "muwitA",
+          "n": "muwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "muwitavat",
+          "m": "muwitavAn",
+          "f": "muwitavatI",
+          "n": "muwitavat/muwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "muwwi",
+          "m": "",
+          "f": "muwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "muwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mowitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mumuwvas",
+          "m": "mumuwvAn",
+          "f": "mumuwuzI",
+          "n": "mumuwvat/mumuwvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mowa",
+          "m": "mowaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mowamAna",
+          "m": "mowamAnaH",
+          "f": "mowamAnA",
+          "n": "mowamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Ryat": [
+        {
+          "base": "mowya",
+          "m": "mowyaH",
+          "f": "mowyA",
+          "n": "mowyam"
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mowaka",
+          "m": "mowakaH",
+          "f": "mowikA",
+          "n": "mowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mowitavya",
+          "m": "mowitavyaH",
+          "f": "mowitavyA",
+          "n": "mowitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mowitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mowitf",
+          "m": "mowitA",
+          "f": "mowitrI",
+          "n": "mowitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "muwyamAna",
+          "m": "muwyamAnaH",
+          "f": "muwyamAnA",
+          "n": "muwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mowana",
+          "m": "",
+          "f": "",
+          "n": "mowanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mowaka",
+          "m": "mowakaH",
+          "f": "mowikA",
+          "n": "mowakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "mowat",
+          "m": "mowan",
+          "f": "mowantI",
+          "n": "mowat/mowad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mowizyamARa",
+          "m": "mowizyamARaH",
+          "f": "mowizyamARA",
+          "n": "mowizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "mowizyat",
+          "m": "mowizyan",
+          "f": "mowizyatI/mowizyantI",
+          "n": "mowizyat/mowizyad"
+        }
+      ]
+    },
+    "san_krut": {
+      "a": [
+        {
+          "base": "mumuwizA",
+          "m": "",
+          "f": "mumuwizA",
+          "n": ""
+        },
+        {
+          "base": "mumowizA",
+          "m": "",
+          "f": "mumowizA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "mumuwiza",
+          "m": "mumuwizaH",
+          "f": "mumuwizA",
+          "n": "mumuwizam"
+        },
+        {
+          "base": "mumowiza",
+          "m": "mumowizaH",
+          "f": "mumowizA",
+          "n": "mumowizam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mumuwizaRIya",
+          "m": "mumuwizaRIyaH",
+          "f": "mumuwizaRIyA",
+          "n": "mumuwizaRIyam"
+        },
+        {
+          "base": "mumowizaRIya",
+          "m": "mumowizaRIyaH",
+          "f": "mumowizaRIyA",
+          "n": "mumowizaRIyam"
+        }
+      ],
+      "u": [
+        {
+          "base": "mumuwizu",
+          "m": "mumuwizuH",
+          "f": "mumuwizuH",
+          "n": "mumuwizu"
+        },
+        {
+          "base": "mumowizu",
+          "m": "mumowizuH",
+          "f": "mumowizuH",
+          "n": "mumowizu"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mumuwizita",
+          "m": "mumuwizitaH",
+          "f": "mumuwizitA",
+          "n": "mumuwizitam"
+        },
+        {
+          "base": "mumowizita",
+          "m": "mumowizitaH",
+          "f": "mumowizitA",
+          "n": "mumowizitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mumuwizitavat",
+          "m": "mumuwizitavAn",
+          "f": "mumuwizitavatI",
+          "n": "mumuwizitavat/mumuwizitavad"
+        },
+        {
+          "base": "mumowizitavat",
+          "m": "mumowizitavAn",
+          "f": "mumowizitavatI",
+          "n": "mumowizitavat/mumowizitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mumuwizwi",
+          "m": "",
+          "f": "mumuwizwiH",
+          "n": ""
+        },
+        {
+          "base": "mumowizwi",
+          "m": "",
+          "f": "mumowizwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mumuwizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mumowizitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mumuwizAmbaBUvas",
+          "m": "mumuwizAmbaBUvAn",
+          "f": "mumuwizAmbaBUzI",
+          "n": "mumuwizAmbaBUvat/mumuwizAmbaBUvad"
+        },
+        {
+          "base": "mumuwizAmAsivas",
+          "m": "mumuwizAmAsivAn",
+          "f": "mumuwizAmAsyuzI",
+          "n": "mumuwizAmAsivat/mumuwizAmAsivad"
+        },
+        {
+          "base": "mumuwizAYcakfvas",
+          "m": "mumuwizAYcakfvAn",
+          "f": "mumuwizAYcakruzI",
+          "n": "mumuwizAYcakfvat/mumuwizAYcakfvad"
+        },
+        {
+          "base": "mumowizAmbaBUvas",
+          "m": "mumowizAmbaBUvAn",
+          "f": "mumowizAmbaBUzI",
+          "n": "mumowizAmbaBUvat/mumowizAmbaBUvad"
+        },
+        {
+          "base": "mumowizAmAsivas",
+          "m": "mumowizAmAsivAn",
+          "f": "mumowizAmAsyuzI",
+          "n": "mumowizAmAsivat/mumowizAmAsivad"
+        },
+        {
+          "base": "mumowizAYcakfvas",
+          "m": "mumowizAYcakfvAn",
+          "f": "mumowizAYcakruzI",
+          "n": "mumowizAYcakfvat/mumowizAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "mumuwiza",
+          "m": "mumuwizaH",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mumowiza",
+          "m": "mumowizaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mumuwizamARa",
+          "m": "mumuwizamARaH",
+          "f": "mumuwizamARA",
+          "n": "mumuwizamARam"
+        },
+        {
+          "base": "mumowizamARa",
+          "m": "mumowizamARaH",
+          "f": "mumowizamARA",
+          "n": "mumowizamARam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mumuwizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mumowizam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mumuwizaka",
+          "m": "mumuwizakaH",
+          "f": "mumuwizikA",
+          "n": "mumuwizakam"
+        },
+        {
+          "base": "mumowizaka",
+          "m": "mumowizakaH",
+          "f": "mumowizikA",
+          "n": "mumowizakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mumuwizitavya",
+          "m": "mumuwizitavyaH",
+          "f": "mumuwizitavyA",
+          "n": "mumuwizitavyam"
+        },
+        {
+          "base": "mumowizitavya",
+          "m": "mumowizitavyaH",
+          "f": "mumowizitavyA",
+          "n": "mumowizitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mumuwizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "mumowizitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mumuwizitf",
+          "m": "mumuwizitA",
+          "f": "mumuwizitrI",
+          "n": "mumuwizitf"
+        },
+        {
+          "base": "mumowizitf",
+          "m": "mumowizitA",
+          "f": "mumowizitrI",
+          "n": "mumowizitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mumuwizyamARa",
+          "m": "mumuwizyamARaH",
+          "f": "mumuwizyamARA",
+          "n": "mumuwizyamARam"
+        },
+        {
+          "base": "mumowizyamARa",
+          "m": "mumowizyamARaH",
+          "f": "mumowizyamARA",
+          "n": "mumowizyamARam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "mumuwizya",
+          "m": "mumuwizyaH",
+          "f": "mumuwizyA",
+          "n": "mumuwizyam"
+        },
+        {
+          "base": "mumowizya",
+          "m": "mumowizyaH",
+          "f": "mumowizyA",
+          "n": "mumowizyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramumuwizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        },
+        {
+          "base": "pramumowizya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mumuwizaRa",
+          "m": "",
+          "f": "",
+          "n": "mumuwizaRam"
+        },
+        {
+          "base": "mumowizaRa",
+          "m": "",
+          "f": "",
+          "n": "mumowizaRam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mumuwizaka",
+          "m": "mumuwizakaH",
+          "f": "mumuwizikA",
+          "n": "mumuwizakam"
+        },
+        {
+          "base": "mumowizaka",
+          "m": "mumowizakaH",
+          "f": "mumowizikA",
+          "n": "mumowizakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "mumuwizat",
+          "m": "mumuwizan",
+          "f": "mumuwizantI",
+          "n": "mumuwizat/mumuwizad"
+        },
+        {
+          "base": "mumowizat",
+          "m": "mumowizan",
+          "f": "mumowizantI",
+          "n": "mumowizat/mumowizad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mumuwizizyamARa",
+          "m": "mumuwizizyamARaH",
+          "f": "mumuwizizyamARA",
+          "n": "mumuwizizyamARam"
+        },
+        {
+          "base": "mumowizizyamARa",
+          "m": "mumowizizyamARaH",
+          "f": "mumowizizyamARA",
+          "n": "mumowizizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "mumuwizizyat",
+          "m": "mumuwizizyan",
+          "f": "mumuwizizyatI/mumuwizizyantI",
+          "n": "mumuwizizyat/mumuwizizyad"
+        },
+        {
+          "base": "mumowizizyat",
+          "m": "mumowizizyan",
+          "f": "mumowizizyatI/mumowizizyantI",
+          "n": "mumowizizyat/mumowizizyad"
+        }
+      ]
+    },
+    "nich_krut": {
+      "ac": [
+        {
+          "base": "mowa",
+          "m": "mowaH",
+          "f": "mowA",
+          "n": "mowam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "mowanIya",
+          "m": "mowanIyaH",
+          "f": "mowanIyA",
+          "n": "mowanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "mowita",
+          "m": "mowitaH",
+          "f": "mowitA",
+          "n": "mowitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "mowitavat",
+          "m": "mowitavAn",
+          "f": "mowitavatI",
+          "n": "mowitavat/mowitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "mowwi",
+          "m": "",
+          "f": "mowwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "mowayitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "mowayAmbaBUvas",
+          "m": "mowayAmbaBUvAn",
+          "f": "mowayAmbaBUzI",
+          "n": "mowayAmbaBUvat/mowayAmbaBUvad"
+        },
+        {
+          "base": "mowayAmAsivas",
+          "m": "mowayAmAsivAn",
+          "f": "mowayAmAsyuzI",
+          "n": "mowayAmAsivat/mowayAmAsivad"
+        },
+        {
+          "base": "mowayAYcakfvas",
+          "m": "mowayAYcakfvAn",
+          "f": "mowayAYcakruzI",
+          "n": "mowayAYcakfvat/mowayAYcakfvad"
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "mowayamAna",
+          "m": "mowayamAnaH",
+          "f": "mowayamAnA",
+          "n": "mowayamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "mowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "mowaka",
+          "m": "mowakaH",
+          "f": "mowikA",
+          "n": "mowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "mowayitavya",
+          "m": "mowayitavyaH",
+          "f": "mowayitavyA",
+          "n": "mowayitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "mowayitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "mowayitf",
+          "m": "mowayitA",
+          "f": "mowayitrI",
+          "n": "mowayitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "mowyamAna",
+          "m": "mowyamAnaH",
+          "f": "mowyamAnA",
+          "n": "mowyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "mowya",
+          "m": "mowyaH",
+          "f": "mowyA",
+          "n": "mowyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramowya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "mowana",
+          "m": "",
+          "f": "",
+          "n": "mowanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "mowaka",
+          "m": "mowakaH",
+          "f": "mowikA",
+          "n": "mowakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "mowayat",
+          "m": "mowayan",
+          "f": "mowayantI",
+          "n": "mowayat/mowayad"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "mowayamAna",
+          "m": "mowayamAnaH",
+          "f": "mowayamAnA",
+          "n": "mowayamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "mowizyamARa",
+          "m": "mowizyamARaH",
+          "f": "mowizyamARA",
+          "n": "mowizyamARam"
+        },
+        {
+          "base": "mowayizyamARa",
+          "m": "mowayizyamARaH",
+          "f": "mowayizyamARA",
+          "n": "mowayizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "mowayizyat",
+          "m": "mowayizyan",
+          "f": "mowayizyatI/mowayizyantI",
+          "n": "mowayizyat/mowayizyad"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "mowayizyamARa",
+          "m": "mowayizyamARaH",
+          "f": "mowayizyamARA",
+          "n": "mowayizyamARam"
+        }
+      ]
+    },
+    "yang_krut": {
+      "a": [
+        {
+          "base": "momuwA",
+          "m": "",
+          "f": "momuwA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "momuwa",
+          "m": "momuwaH",
+          "f": "momuwA",
+          "n": "momuwam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "momuwanIya",
+          "m": "momuwanIyaH",
+          "f": "momuwanIyA",
+          "n": "momuwanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "momuwita",
+          "m": "momuwitaH",
+          "f": "momuwitA",
+          "n": "momuwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "momuwitavat",
+          "m": "momuwitavAn",
+          "f": "momuwitavatI",
+          "n": "momuwitavat/momuwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "momuwwi",
+          "m": "",
+          "f": "momuwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "momuwitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "momuwAmbaBUvas",
+          "m": "momuwAmbaBUvAn",
+          "f": "momuwAmbaBUzI",
+          "n": "momuwAmbaBUvat/momuwAmbaBUvad"
+        },
+        {
+          "base": "momuwAmAsivas",
+          "m": "momuwAmAsivAn",
+          "f": "momuwAmAsyuzI",
+          "n": "momuwAmAsivat/momuwAmAsivad"
+        },
+        {
+          "base": "momuwAYcakfvas",
+          "m": "momuwAYcakfvAn",
+          "f": "momuwAYcakruzI",
+          "n": "momuwAYcakfvat/momuwAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "momuwa",
+          "m": "momuwaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "momuwyamAna",
+          "m": "momuwyamAnaH",
+          "f": "momuwyamAnA",
+          "n": "momuwyamAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "momuwam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "momuwaka",
+          "m": "momuwakaH",
+          "f": "momuwikA",
+          "n": "momuwakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "momuwitavya",
+          "m": "momuwitavyaH",
+          "f": "momuwitavyA",
+          "n": "momuwitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "momuwitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "momuwitf",
+          "m": "momuwitA",
+          "f": "momuwitrI",
+          "n": "momuwitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "momuwyamAna",
+          "m": "momuwyamAnaH",
+          "f": "momuwyamAnA",
+          "n": "momuwyamAnam"
+        }
+      ],
+      "yat": [
+        {
+          "base": "momuwya",
+          "m": "momuwyaH",
+          "f": "momuwyA",
+          "n": "momuwyam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramomuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "momuwana",
+          "m": "",
+          "f": "",
+          "n": "momuwanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "momuwaka",
+          "m": "momuwakaH",
+          "f": "momuwikA",
+          "n": "momuwakam"
+        }
+      ],
+      "SAnac": [
+        {
+          "base": "momuwyamAna",
+          "m": "momuwyamAnaH",
+          "f": "momuwyamAnA",
+          "n": "momuwyamAnam"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "momuwizyamARa",
+          "m": "momuwizyamARaH",
+          "f": "momuwizyamARA",
+          "n": "momuwizyamARam"
+        }
+      ],
+      "sya-SAnac": [
+        {
+          "base": "momuwizyamARa",
+          "m": "momuwizyamARaH",
+          "f": "momuwizyamARA",
+          "n": "momuwizyamARam"
+        }
+      ]
+    },
+    "yangluk_krut": {
+      "a": [
+        {
+          "base": "momowA",
+          "m": "",
+          "f": "momowA",
+          "n": ""
+        }
+      ],
+      "ac": [
+        {
+          "base": "momowa",
+          "m": "momowaH",
+          "f": "momowA",
+          "n": "momowam"
+        }
+      ],
+      "anIyar": [
+        {
+          "base": "momowanIya",
+          "m": "momowanIyaH",
+          "f": "momowanIyA",
+          "n": "momowanIyam"
+        }
+      ],
+      "kta": [
+        {
+          "base": "momuwita",
+          "m": "momuwitaH",
+          "f": "momuwitA",
+          "n": "momuwitam"
+        }
+      ],
+      "ktavatu": [
+        {
+          "base": "momuwitavat",
+          "m": "momuwitavAn",
+          "f": "momuwitavatI",
+          "n": "momuwitavat/momuwitavad"
+        }
+      ],
+      "ktin": [
+        {
+          "base": "momuwwi",
+          "m": "",
+          "f": "momuwwiH",
+          "n": ""
+        }
+      ],
+      "ktvA": [
+        {
+          "base": "momowitvA",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "kvasu": [
+        {
+          "base": "momowAmbaBUvas",
+          "m": "momowAmbaBUvAn",
+          "f": "momowAmbaBUzI",
+          "n": "momowAmbaBUvat/momowAmbaBUvad"
+        },
+        {
+          "base": "momowAmAsivas",
+          "m": "momowAmAsivAn",
+          "f": "momowAmAsyuzI",
+          "n": "momowAmAsivat/momowAmAsivad"
+        },
+        {
+          "base": "momowAYcakfvas",
+          "m": "momowAYcakfvAn",
+          "f": "momowAYcakruzI",
+          "n": "momowAYcakfvat/momowAYcakfvad"
+        }
+      ],
+      "GaY": [
+        {
+          "base": "momowa",
+          "m": "momowaH",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "cAnaS": [
+        {
+          "base": "momuwAna",
+          "m": "momuwAnaH",
+          "f": "momuwAnA",
+          "n": "momuwAnam"
+        }
+      ],
+      "Ramul": [
+        {
+          "base": "momowam",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "Rvul": [
+        {
+          "base": "momowaka",
+          "m": "momowakaH",
+          "f": "momowikA",
+          "n": "momowakam"
+        }
+      ],
+      "tavya": [
+        {
+          "base": "momowitavya",
+          "m": "momowitavyaH",
+          "f": "momowitavyA",
+          "n": "momowitavyam"
+        }
+      ],
+      "tumun": [
+        {
+          "base": "momowitum",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "tfc": [
+        {
+          "base": "momowitf",
+          "m": "momowitA",
+          "f": "momowitrI",
+          "n": "momowitf"
+        }
+      ],
+      "BAvakarma-SAnac": [
+        {
+          "base": "momuwyamAna",
+          "m": "momuwyamAnaH",
+          "f": "momuwyamAnA",
+          "n": "momuwyamAnam"
+        }
+      ],
+      "lyap": [
+        {
+          "base": "pramomuwya",
+          "m": "",
+          "f": "",
+          "n": ""
+        }
+      ],
+      "lyuw": [
+        {
+          "base": "momowana",
+          "m": "",
+          "f": "",
+          "n": "momowanam"
+        }
+      ],
+      "vun": [
+        {
+          "base": "momowaka",
+          "m": "momowakaH",
+          "f": "momowikA",
+          "n": "momowakam"
+        }
+      ],
+      "Satf": [
+        {
+          "base": "momuwat",
+          "m": "momuwat/momuwad",
+          "f": "momuwatI",
+          "n": "momuwat/momuwad"
+        }
+      ],
+      "sya-BAvakarma-SAnac": [
+        {
+          "base": "momowizyamARa",
+          "m": "momowizyamARaH",
+          "f": "momowizyamARA",
+          "n": "momowizyamARam"
+        }
+      ],
+      "sya-Satf": [
+        {
+          "base": "momowizyat",
+          "m": "momowizyan",
+          "f": "momowizyatI/momowizyantI",
+          "n": "momowizyat/momowizyad"
+        }
+      ]
+    }
+  },
+  "upasarga": {
+    "dhatu": "muw",
+    "entries": []
+  },
+  "chandrika": [],
+  "prayoga": [],
+  "upasarga_forms": {}
+}

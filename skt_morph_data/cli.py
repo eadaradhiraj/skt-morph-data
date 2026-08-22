@@ -12,6 +12,7 @@ from .query import (
     get_chandrika,
     get_conjugations,
     get_dhatu,
+    get_ids_by_dhatu,
     get_info,
     get_participles,
     get_prayoga,
@@ -19,6 +20,7 @@ from .query import (
     get_upasarga_forms,
     list_dhatus,
     query,
+    resolve_dhatu_input,
     search_dhatus,
     search_forms,
 )
@@ -61,36 +63,69 @@ def cmd_download(args: argparse.Namespace) -> int:
         return 1
 
 
+def _resolve_ids(inp: str, db_path) -> list[str]:
+    ids = resolve_dhatu_input(inp, db_path=db_path)
+    if not ids:
+        # also try as-is (maybe id with typo)
+        return []
+    return ids
+
+def _require_one_id(inp: str, db_path) -> tuple[str | None, list[str]]:
+    ids = _resolve_ids(inp, db_path)
+    if not ids:
+        return None, []
+    return ids[0], ids
+
 def cmd_info(args: argparse.Namespace) -> int:
-    try:
-        d = get_dhatu(args.dhatu_id, db_path=args.db)
-    except (KeyError, FileNotFoundError) as e:
-        print(str(e), file=sys.stderr)
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}' (try id 01.0001 or dhatu BU)", file=sys.stderr)
         return 1
-    if args.json:
-        _print_json(d["info"] if "info" in d else d)
-    else:
-        if d.get("skipped"):
-            print(f"{d['id']} skipped ({d.get('skip_reason')}) label={d.get('label')}")
-            return 0
-        rows = d["info"]
-        for item in rows:
-            note = f"  note={item['note']}" if item.get("note") else ""
-            link = f"  link={item['ext_link']}" if item.get("ext_link") else ""
-            print(f"{item['name']:30} {item['value']}{note}{link}")
+    # if multiple (same dhatu string occurs in multiple ganas), show all
+    for dhatu_id in ids:
+        try:
+            d = get_dhatu(dhatu_id, db_path=args.db)
+        except (KeyError, FileNotFoundError) as e:
+            print(str(e), file=sys.stderr)
+            continue
+        if len(ids) > 1:
+            print(f"=== {dhatu_id} ({d.get('info',[{}])[2].get('value','') if len(d.get('info',[]))>2 else ''}) ===")
+        if args.json:
+            _print_json(d["info"] if "info" in d else d)
+        else:
+            if d.get("skipped"):
+                print(f"{d['id']} skipped ({d.get('skip_reason')}) label={d.get('label')}")
+                continue
+            rows = d["info"]
+            for item in rows:
+                note = f"  note={item['note']}" if item.get("note") else ""
+                link = f"  link={item['ext_link']}" if item.get("ext_link") else ""
+                print(f"{item['name']:30} {item['value']}{note}{link}")
     return 0
 
 
 def cmd_show(args: argparse.Namespace) -> int:
-    try:
-        d = get_dhatu(args.dhatu_id, db_path=args.db)
-    except Exception as e:
-        print(str(e), file=sys.stderr)
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}'", file=sys.stderr)
         return 1
-    if args.json:
+    # if multiple, return list
+    if len(ids) == 1:
+        try:
+            d = get_dhatu(ids[0], db_path=args.db)
+        except Exception as e:
+            print(str(e), file=sys.stderr)
+            return 1
         _print_json(d)
-    else:
-        _print_json(d)
+        return 0
+    # multiple
+    out = []
+    for did in ids:
+        try:
+            out.append(get_dhatu(did, db_path=args.db))
+        except Exception as e:
+            print(f"{did}: {e}", file=sys.stderr)
+    _print_json(out)
     return 0
 
 
@@ -138,81 +173,116 @@ def cmd_search(args: argparse.Namespace) -> int:
 
 
 def cmd_conj(args: argparse.Namespace) -> int:
-    try:
-        data = get_conjugations(args.dhatu_id, category=args.category, prefix=args.prefix or "", db_path=args.db)
-    except FileNotFoundError as e:
-        print(str(e), file=sys.stderr); return 1
-    if args.json:
-        _print_json(data)
-        return 0
-    if not data:
-        print("(no conjugations)")
-        return 0
-    for cat, forms in data.items():
-        print(f"\n[{cat}] (prefix='{args.prefix or ''}')")
-        for ftype, vals in forms.items():
-            print(f"  {ftype:15} {', '.join(vals[:8])}{' ...' if len(vals)>8 else ''}  ({len(vals)} forms)")
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}' (try BU or 01.0001)", file=sys.stderr)
+        return 1
+    for did in ids:
+        if len(ids) > 1:
+            print(f"\n=== {did} ===")
+        try:
+            data = get_conjugations(did, category=args.category, prefix=args.prefix or "", db_path=args.db)
+        except FileNotFoundError as e:
+            print(str(e), file=sys.stderr); continue
+        if args.json:
+            # if multiple, wrap with id
+            if len(ids) > 1:
+                _print_json({did: data})
+            else:
+                _print_json(data)
+            continue
+        if not data:
+            print(f"{did}: (no conjugations)")
+            continue
+        for cat, forms in data.items():
+            print(f"\n[{cat}] {did} (prefix='{args.prefix or ''}')")
+            for ftype, vals in forms.items():
+                print(f"  {ftype:15} {', '.join(vals[:8])}{' ...' if len(vals)>8 else ''}  ({len(vals)} forms)")
     return 0
 
 
 def cmd_part(args: argparse.Namespace) -> int:
-    try:
-        data = get_participles(args.dhatu_id, category=args.category, prefix=args.prefix or "", db_path=args.db)
-    except FileNotFoundError as e:
-        print(str(e), file=sys.stderr); return 1
-    if args.json:
-        _print_json(data)
-        return 0
-    if not data:
-        print("(no participles)")
-        return 0
-    for cat, variant_map in data.items():
-        print(f"\n[{cat}]")
-        for variant, rows in variant_map.items():
-            print(f"  {variant:15} ({len(rows)} rows)")
-            for r in rows[:3]:
-                print(f"    base={r['base']:15} m={r['m']:15} f={r['f']:15} n={r['n']}")
-            if len(rows) > 3:
-                print(f"    ... {len(rows)-3} more")
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}'", file=sys.stderr)
+        return 1
+    for did in ids:
+        if len(ids) > 1:
+            print(f"\n=== {did} ===")
+        try:
+            data = get_participles(did, category=args.category, prefix=args.prefix or "", db_path=args.db)
+        except FileNotFoundError as e:
+            print(str(e), file=sys.stderr); continue
+        if args.json:
+            if len(ids) > 1:
+                _print_json({did: data})
+            else:
+                _print_json(data)
+            continue
+        if not data:
+            print(f"{did}: (no participles)")
+            continue
+        for cat, variant_map in data.items():
+            print(f"\n[{cat}] {did}")
+            for variant, rows in variant_map.items():
+                print(f"  {variant:15} ({len(rows)} rows)")
+                for r in rows[:3]:
+                    print(f"    base={r['base']:15} m={r['m']:15} f={r['f']:15} n={r['n']}")
+                if len(rows) > 3:
+                    print(f"    ... {len(rows)-3} more")
     return 0
 
 
 def cmd_upasarga(args: argparse.Namespace) -> int:
-    try:
-        if args.chandrika:
-            data = get_chandrika(args.dhatu_id, db_path=args.db)
-            _print_json(data) if args.json else _print_json(data)
-        else:
-            data = get_upasarga_entries(args.dhatu_id, db_path=args.db)
-            if args.json:
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}'", file=sys.stderr)
+        return 1
+    for did in ids:
+        if len(ids) > 1:
+            print(f"=== {did} ===")
+        try:
+            if args.chandrika:
+                data = get_chandrika(did, db_path=args.db)
                 _print_json(data)
             else:
-                print(f"dhatu: {data['dhatu']}")
-                for e in data["entries"]:
-                    print(f"  {e['prefix']:15} {e['artha_hindi']}")
-                if args.with_forms:
-                    forms = get_upasarga_forms(args.dhatu_id, db_path=args.db)
-                    print("\n--- upasarga forms ---")
-                    _print_json(forms)
-    except FileNotFoundError as e:
-        print(str(e), file=sys.stderr); return 1
+                data = get_upasarga_entries(did, db_path=args.db)
+                if args.json:
+                    _print_json({did: data} if len(ids)>1 else data)
+                else:
+                    print(f"dhatu: {data['dhatu']}")
+                    for e in data["entries"]:
+                        print(f"  {e['prefix']:15} {e['artha_hindi']}")
+                    if args.with_forms:
+                        forms = get_upasarga_forms(did, db_path=args.db)
+                        print("\n--- upasarga forms ---")
+                        _print_json(forms)
+        except FileNotFoundError as e:
+            print(str(e), file=sys.stderr); continue
     return 0
 
 
 def cmd_prayoga(args: argparse.Namespace) -> int:
-    try:
-        data = get_prayoga(args.dhatu_id, db_path=args.db)
-    except FileNotFoundError as e:
-        print(str(e), file=sys.stderr); return 1
-    if args.json:
-        _print_json(data)
-    else:
-        for row in data[:20]:
-            print(f"{row['form']:15} {row['lakaar']:30} {row['purusha']:15} {row['vachana']}")
-            for ex in row["examples"][:2]:
-                print(f"    - {ex['book']} {ex['reference']}: {ex['text'][:60]}")
-        if len(data) > 20:
-            print(f"... {len(data)-20} more (use --json for full)")
+    ids = _resolve_ids(args.dhatu, db_path=args.db)
+    if not ids:
+        print(f"No dhatu found for '{args.dhatu}'", file=sys.stderr)
+        return 1
+    for did in ids:
+        if len(ids)>1:
+            print(f"=== {did} ===")
+        try:
+            data = get_prayoga(did, db_path=args.db)
+        except FileNotFoundError as e:
+            print(str(e), file=sys.stderr); continue
+        if args.json:
+            _print_json({did: data} if len(ids)>1 else data)
+        else:
+            for row in data[:20]:
+                print(f"{row['form']:15} {row['lakaar']:30} {row['purusha']:15} {row['vachana']}")
+                for ex in row["examples"][:2]:
+                    print(f"    - {ex['book']} {ex['reference']}: {ex['text'][:60]}")
+            if len(data) > 20:
+                print(f"... {len(data)-20} more (use --json for full)")
     return 0
 
 
@@ -237,13 +307,14 @@ def build_parser() -> argparse.ArgumentParser:
         epilog=textwrap.dedent("""
         examples:
           skt-morph download
-          skt-morph info 01.0001
+          skt-morph info 01.0001          # or: skt-morph info BU
           skt-morph show 01.0001 --json > dhatu.json
           skt-morph list --gana 01 --limit 20
           skt-morph conjugations 01.0001 --category ting
-          skt-morph participles 01.0001 --category krut
-          skt-morph upasarga 01.0001
-          skt-morph prayoga 01.0001
+          skt-morph conjugations BU --category ting   # by dhatu string
+          skt-morph participles BU --category krut
+          skt-morph upasarga BU
+          skt-morph prayoga BU
           skt-morph search Bavati --exact        # exact match
           skt-morph search BU --gana 01            # substring
           skt-morph search AdAra --exact --json    # detailed JSON with prefix/pratyaya/dhatu/id
@@ -267,13 +338,13 @@ def build_parser() -> argparse.ArgumentParser:
 
     # info
     s = sub.add_parser("info", help="show dhatu info fields")
-    s.add_argument("dhatu_id", help="e.g. 01.0001")
+    s.add_argument("dhatu", help="dhatu id e.g. 01.0001 or dhatu string e.g. BU")
     s.add_argument("--json", action="store_true", help="output JSON")
     s.set_defaults(func=cmd_info)
 
     # show (full dhatu)
     sh = sub.add_parser("show", help="show full dhatu JSON (all tables)")
-    sh.add_argument("dhatu_id")
+    sh.add_argument("dhatu", help="dhatu id or dhatu string")
     sh.add_argument("--json", action="store_true", default=True, help="output JSON (default)")
     sh.set_defaults(func=cmd_show)
 
@@ -296,9 +367,9 @@ def build_parser() -> argparse.ArgumentParser:
     se.add_argument("--json", action="store_true")
     se.set_defaults(func=cmd_search)
 
-    # conjugations
-    c = sub.add_parser("conjugations", aliases=["conj", "ting"], help="conjugation forms")
-    c.add_argument("dhatu_id")
+    # conjugations (accept id or dhatu string)
+    c = sub.add_parser("conjugations", aliases=["conj", "ting"], help="conjugation forms (id or dhatu string)")
+    c.add_argument("dhatu", help="dhatu id e.g. 01.0001 or dhatu string e.g. BU")
     c.add_argument("--category", help="e.g. ting, yak, san ...")
     c.add_argument("--prefix", help="upasarga prefix e.g. pra, sam", default="")
     c.add_argument("--json", action="store_true")
@@ -306,7 +377,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     # participles
     pt = sub.add_parser("participles", aliases=["krt", "krut"], help="krdanta/participle forms")
-    pt.add_argument("dhatu_id")
+    pt.add_argument("dhatu", help="dhatu id or dhatu string e.g. BU")
     pt.add_argument("--category", help="e.g. krut, san_krut ...")
     pt.add_argument("--prefix", default="")
     pt.add_argument("--json", action="store_true")
@@ -314,7 +385,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     # upasarga
     up = sub.add_parser("upasarga", help="upasarga entries / chandrika")
-    up.add_argument("dhatu_id")
+    up.add_argument("dhatu", help="dhatu id or dhatu string")
     up.add_argument("--chandrika", action="store_true", help="show chandrika examples instead")
     up.add_argument("--with-forms", action="store_true", help="also dump upasarga_forms")
     up.add_argument("--json", action="store_true")
@@ -322,7 +393,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     # prayoga
     pr = sub.add_parser("prayoga", help="show prayoga examples")
-    pr.add_argument("dhatu_id")
+    pr.add_argument("dhatu", help="dhatu id or dhatu string")
     pr.add_argument("--json", action="store_true")
     pr.set_defaults(func=cmd_prayoga)
 

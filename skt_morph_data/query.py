@@ -391,6 +391,39 @@ def find(text: str, exact: bool = False, gana: str | None = None, limit: int = 5
     return search_forms(text, exact=exact, gana=gana, limit=limit, db_path=db_path)
 
 
+def get_ids_by_dhatu(dhatu: str, db_path: Path | str | None = None) -> list[str]:
+    """Resolve SLP1 dhatu string (OpadeSikasvarUpam) to list of dhatu ids.
+    Exact match on value. Returns sorted ids."""
+    con = connect(db_path)
+    dhatu = dhatu.strip()
+    if not dhatu:
+        return []
+    cur = con.execute(
+        "SELECT dhatu_id FROM dhatu_info WHERE name='OpadeSikasvarUpam' AND value=? ORDER BY dhatu_id",
+        (dhatu,)
+    )
+    ids = [r["dhatu_id"] for r in cur.fetchall()]
+    # fallback: also try dhatu column in upasarga_entries (sometimes differs)
+    if not ids:
+        cur2 = con.execute("SELECT DISTINCT dhatu_id FROM upasarga_entries WHERE dhatu=? ORDER BY dhatu_id", (dhatu,))
+        ids = [r["dhatu_id"] for r in cur2.fetchall()]
+    return ids
+
+
+def resolve_dhatu_input(inp: str, db_path: Path | str | None = None) -> list[str]:
+    """If inp looks like NN.NNNN treat as id, else treat as dhatu string.
+    Returns list of ids (empty if not found). For id, validates existence."""
+    import re
+    inp = inp.strip()
+    if re.match(r"^\d{2}\.\d{4}$", inp):
+        # verify exists
+        con = connect(db_path)
+        row = con.execute("SELECT id FROM dhatus WHERE id=?", (inp,)).fetchone()
+        return [inp] if row else []
+    # else treat as dhatu string
+    return get_ids_by_dhatu(inp, db_path=db_path)
+
+
 def query(sql: str, params: tuple | dict | None = None, db_path: Path | str | None = None) -> list[dict[str, Any]]:
     """Run arbitrary SELECT and return rows as dicts."""
     con = connect(db_path)

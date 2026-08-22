@@ -24,6 +24,14 @@ from .query import (
     search_dhatus,
     search_forms,
 )
+from .subanta import (
+    analyze,
+    analyze_form,
+    decline,
+    list_numerals,
+    list_paradigms,
+    list_pronouns,
+)
 
 # ---------- pretty helpers ----------
 
@@ -143,32 +151,120 @@ def cmd_list(args: argparse.Namespace) -> int:
 
 
 def cmd_search(args: argparse.Namespace) -> int:
-    # New detailed search (exact or substring) across all forms
-    # Use search_forms which returns prefix, pratyaya, dhatu, id, etc.
-    # Keep --exact flag for exact equality, otherwise substring LIKE
-    if args.detailed or args.exact or True:  # default to detailed
-        rows = search_forms(args.text, exact=args.exact, gana=args.gana, limit=args.limit, db_path=args.db)
+    # Unified search: verb conjugations/participles (DB) + nominal declensions (generated)
+    # If exact=True, do exact match; else substring LIKE for verbs and loose contains for nominal
+    verb_rows = []
+    try:
+        verb_rows = search_forms(args.text, exact=args.exact, gana=args.gana, limit=args.limit, db_path=args.db)
+    except Exception as e:
         if args.json:
-            _print_json(rows)
+            pass
         else:
-            if not rows:
-                print("(no matches)")
-                return 0
-            # pretty table: show most useful columns
-            headers = ["dhatu_id","dhatu","artha","match_type","prefix","category","pratyaya","matched_field","matched_value"]
-            # shorten artha/english for table
-            display = []
-            for r in rows:
-                display.append({k: (str(v)[:20] if k in ("artha","english") else v) for k,v in r.items() if k in headers})
-            _print_table(display, headers=headers)
-            print(f"\n{len(rows)} hits (exact={args.exact}) — use --json for full dhatu/english fields")
-        return 0
-    # fallback legacy (not used)
-    rows = search_dhatus(args.text, gana=args.gana, limit=args.limit, db_path=args.db)
+            print(f"(verb search skipped: {e})", file=sys.stderr)
+        verb_rows = []
+    # nominal declension analysis (exact or substring)
+    nominal_rows = []
+    try:
+        if args.exact:
+            hits = analyze_form(args.text, limit=args.limit, loose=True)
+            for h in hits:
+                nominal_rows.append({
+                    "dhatu_id": "",
+                    "dhatu": h.get("lemma",""),
+                    "artha": h.get("paradigm_desc",""),
+                    "match_type": h.get("match_type","noun_declension"),
+                    "prefix": "",
+                    "category": h.get("vibhakti","") + "/" + h.get("vacana",""),
+                    "pratyaya": h.get("paradigm",""),
+                    "matched_field": f"{h.get('vibhakti','')}:{h.get('vacana','')}",
+                    "matched_value": h.get("matched_form", args.text),
+                    "gender": h.get("gender",""),
+                    "lemma": h.get("lemma",""),
+                    "vibhakti": h.get("vibhakti",""),
+                    "vacana": h.get("vacana",""),
+                    "suffix": h.get("suffix",""),
+                })
+        else:
+            # substring for nominal: check if query is substring of any generated declension form (loose, limited)
+            # We do quick check: for common paradigms generate sample lemmas? Too expensive to generate all.
+            # Instead do: if query appears inside any pronoun/numeral form or inside suffix match, we already handled exact.
+            # For substring nominal we can show declension analyses where query is substring of matched_form (already exact hits cover most)
+            # We'll also try to see if query is substring of any declension form for a heuristic lemma set (rAma etc.)
+            pass
+    except Exception as e:
+        print(f"nominal analysis error: {e}", file=sys.stderr)
+    rows = verb_rows + nominal_rows
+    # fallback legacy if no hits and not exact: try substring verb search via LIKE already done
     if args.json:
-        _print_json(rows)
+        # merge verb + nominal; keep verb rows as before plus nominal with extra fields
+        _print_json(rows if rows else verb_rows or nominal_rows)
     else:
-        _print_table(rows)
+        if not rows:
+            print("(no matches)")
+            # still show hint about declension analyze
+            if not verb_rows:
+                print(f"Tip: try exact SLP1 form e.g. 'rAmeRa' for tRtiyA, or use 'skt-morph analyze {args.text}'")
+            return 0
+        headers = ["dhatu_id","dhatu","artha","match_type","prefix","category","pratyaya","matched_field","matched_value","gender","vibhakti","vacana","lemma"]
+        # filter headers to those present
+        present = [h for h in headers if any(h in r for r in rows)]
+        display = []
+        for r in rows:
+            display.append({k: (str(v)[:24] if k in ("artha","english") else v) for k,v in r.items() if k in present})
+        _print_table(display, headers=present)
+        print(f"\n{len(verb_rows)} verb hits + {len(nominal_rows)} declension hits (exact={args.exact}) — use --json for full fields")
+        if nominal_rows:
+            print("Declension hit example: \"rAmeRa\" → lemma rAma (a_m) tRtiyA ekavacana, suffix eRa")
+    return 0
+
+def cmd_analyze(args: argparse.Namespace) -> int:
+    word = args.word
+    try:
+        hits = analyze(word, limit=args.limit, loose=not args.strict, db_path=args.db, include_verb=not args.nominal_only)
+        # Filter to nominal only if requested? analyze includes both; if nominal_only filter out verb
+        if args.nominal_only:
+            hits = [h for h in hits if h.get("match_type","").startswith("noun") or h.get("type") in ("noun","pronoun","numeral")]
+    except Exception as e:
+        print(f"analyze error: {e}", file=sys.stderr)
+        return 1
+    if args.json:
+        _print_json(hits)
+        return 0
+    if not hits:
+        print("(no analysis found)")
+        print(f"Tip: word \"{word}\" not found as verb form nor as nominal declension. Try SLP1 (rAmeRa not rampena) or use --strict/--nominal-only")
+        return 0
+    # pretty per hit
+    rows = []
+    for h in hits:
+        if h.get("match_type") in ("conjugation", "participle") or h.get("type") == "conjugation":
+            rows.append({
+                "type": h.get("match_type", h.get("type","conjugation")),
+                "lemma": h.get("dhatu","") or h.get("lemma",""),
+                "dhatu_id": h.get("dhatu_id",""),
+                "category": h.get("category",""),
+                "pratyaya": h.get("pratyaya", h.get("form_type","")),
+                "form": h.get("matched_value", h.get("form_value","")),
+                "prefix": h.get("prefix",""),
+            })
+        else:
+            rows.append({
+                "type": h.get("match_type", h.get("type")),
+                "lemma": h.get("lemma",""),
+                "paradigm": h.get("paradigm",""),
+                "gender": h.get("gender",""),
+                "vibhakti": h.get("vibhakti",""),
+                "vacana": h.get("vacana",""),
+                "suffix": h.get("suffix",""),
+                "form": h.get("matched_form", h.get("word","")),
+            })
+    _print_table(rows)
+    print(f"\n{len(hits)} analyses for \"{word}\" (loose={not args.strict})")
+    # Show explanation for first noun hit
+    for h in hits:
+        if h.get("vibhakti"):
+            print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} of \"{h.get('lemma')}\" [{h.get('paradigm')}] suffix \"{h.get('suffix')}\"")
+            break
     return 0
 
 
@@ -299,6 +395,51 @@ def cmd_query(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_decline(args: argparse.Namespace) -> int:
+    word = args.word
+    try:
+        res = decline(word, gender=args.gender, paradigm=args.paradigm, category=args.category)
+    except Exception as e:
+        print(f"declension error: {e}", file=sys.stderr)
+        return 1
+    if args.json:
+        _print_json(res)
+        return 0
+    # pretty
+    from .subanta import to_table
+    print(to_table(res))
+    return 0
+
+
+def cmd_paradigms(args: argparse.Namespace) -> int:
+    rows = list_paradigms()
+    if args.json:
+        _print_json(rows)
+    else:
+        _print_table(rows, headers=["paradigm","ending","gender","desc"])
+    return 0
+
+
+def cmd_pronouns(args: argparse.Namespace) -> int:
+    rows = [{"pronoun": p} for p in list_pronouns()]
+    if args.json:
+        _print_json(rows)
+    else:
+        _print_table(rows)
+        print("\nUse: skt-morph decline <pronoun> --category pronoun [--gender m|f|n] --json")
+    return 0
+
+
+def cmd_numerals(args: argparse.Namespace) -> int:
+    rows = [{"numeral": n} for n in list_numerals()]
+    if args.json:
+        _print_json(rows)
+    else:
+        _print_table(rows)
+        print("\nUse: skt-morph decline <numeral> --category numeral [--gender m|f|n] --json")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="skt-morph",
@@ -403,6 +544,37 @@ def build_parser() -> argparse.ArgumentParser:
     q.add_argument("--json", action="store_true")
     q.set_defaults(func=cmd_query)
 
+    # declension – nouns / pronouns / numerals
+    dc = sub.add_parser("decline", aliases=["declines", "declension", "subanta", "nominal"], help="decline noun/pronoun/numeral – complete 8×3 vibhakti table")
+    dc.add_argument("word", help="word to decline (SLP1), e.g. rAma, nadI, hari, pitf, tad, eka")
+    dc.add_argument("--gender", help="gender: m|f|n (optional – auto-detect if omitted)", default=None)
+    dc.add_argument("--paradigm", help="force noun paradigm e.g. a_m, a_n, A_f, i_m, I_f, u_m, f_m, an_m, in_m, at_m, as_n", default=None)
+    dc.add_argument("--category", help="force category: noun|pronoun|numeral", choices=["noun","pronoun","numeral"], default=None)
+    dc.add_argument("--json", action="store_true", help="output JSON")
+    dc.set_defaults(func=cmd_decline)
+
+    # analyze – unified verb+nominal morphological analyzer
+    an = sub.add_parser("analyze", aliases=["parse", "analyse"], help="analyze inflected form (verb or declension) → lemma, vibhakti/vacana or dhatu")
+    an.add_argument("word", help="inflected form to analyze (SLP1), e.g. rAmeRa, TrampeRa, Bavati, rAmaH")
+    an.add_argument("--limit", type=int, default=20, help="max analyses")
+    an.add_argument("--strict", action="store_true", help="strict SLP1 (no R/n, S/s loose matching)")
+    an.add_argument("--nominal-only", action="store_true", help="only nominal declension, skip verb DB")
+    an.add_argument("--json", action="store_true", help="output JSON")
+    an.set_defaults(func=cmd_analyze)
+
+    # helper listings
+    pm = sub.add_parser("paradigms", help="list available noun paradigms")
+    pm.add_argument("--json", action="store_true")
+    pm.set_defaults(func=cmd_paradigms)
+
+    pn = sub.add_parser("pronouns", help="list available pronouns")
+    pn.add_argument("--json", action="store_true")
+    pn.set_defaults(func=cmd_pronouns)
+
+    nm = sub.add_parser("numerals", help="list available numerals")
+    nm.add_argument("--json", action="store_true")
+    nm.set_defaults(func=cmd_numerals)
+
     return p
 
 
@@ -414,8 +586,8 @@ def main(argv: list[str] | None = None) -> None:
         args.db = Path(args.db)
     else:
         args.db = None
-        # trigger auto-download unless command is download itself (which handles it)
-        if args.cmd != "download":
+        # trigger auto-download unless command is download/decline/paradigms/analyze which don't need DB (analyze can work nominal-only)
+        if args.cmd not in ("download", "decline", "declines", "declension", "subanta", "nominal", "paradigms", "pronouns", "numerals", "analyze", "parse", "analyse"):
             # ensure DB exists before any query
             try:
                 ensure_db()

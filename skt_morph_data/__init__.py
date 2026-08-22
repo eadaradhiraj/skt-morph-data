@@ -36,6 +36,22 @@ from .query import (
     search_dhatus,
     search_forms,
 )
+from .subanta import (
+    analyze,
+    analyze_form,
+    decline,
+    decline_noun,
+    decline_numeral,
+    decline_pronoun,
+    decline_to_dict,
+    detect_paradigm,
+    flatten_forms,
+    get_declension,
+    list_numerals,
+    list_paradigms,
+    list_pronouns,
+    to_table,
+)
 
 __all__ = [
     "connect",
@@ -56,6 +72,21 @@ __all__ = [
     "search_forms",
     "find",
     "query",
+    # subanta / nominal declension
+    "decline",
+    "get_declension",
+    "decline_noun",
+    "decline_pronoun",
+    "decline_numeral",
+    "decline_to_dict",
+    "detect_paradigm",
+    "flatten_forms",
+    "list_paradigms",
+    "list_pronouns",
+    "list_numerals",
+    "to_table",
+    "analyze",
+    "analyze_form",
 ]
 
 __version__ = "0.1.0"

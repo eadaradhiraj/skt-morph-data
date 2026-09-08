@@ -26,8 +26,9 @@ Usage::
     # CLI: skt-morph decline rAma --gender m --paradigm a_m --json
 
 Paradigm keys (noun):
-  a_m, a_n, A_f, i_m, i_f, i_n, I_f, u_m, u_f, u_n, U_f, f_m, f_f, f_n,
-  an_m (rAjan), in_m (yogin/danin), at_m/f/n (Bavat), as_n (manas), us_n (danus), etc.
+  a_m, a_n, A_f, i_m/pati_m/sakhi_m, i_f, i_n, I_f, u_m, u_f, u_n, U_f, f_m, f_f, f_n,
+  an_m (rAjan), an_n (nAman), in_m (yogin), at_m (Bavat m), at_n (jagat/Bavat n.),
+  as_n (manas n), as_m/f (sumanas bahuvrIhi m/f), us_n (danus), is_n (havis), c_f (vAc), t_m/f/n, o_m (go), etc.
 
 Pronoun keys auto-detected if word matches pronoun list; else noun logic.
 
@@ -127,6 +128,30 @@ _register("i_m", "i", "m", "i-kArAnta puMliNga (hari)", {
     "zazWI": ["eH", "yoH", "IRAm"],
     "saptamI": ["O", "yoH", "izu"],
     "saMboDana": ["e", "I", "ayaH"],
+})
+
+# pati - irregular i_kArAnta puMliNga (pati - patyA, patye, patyuH, patyO, patInAm) + compounds like BU-pati
+_register("pati_m", "pati", "m", "i-kArAnta puMliNga (pati) - irregular", {
+    "prathamA": ["patiH", "patI", "patayaH"],
+    "dvitIyA": ["patim", "patI", "patIn"],
+    "tftIyA": ["patyA", "patiByAm", "patiBiH"],
+    "caturTI": ["patye", "patiByAm", "patiByaH"],
+    "paYcamI": ["patyuH", "patiByAm", "patiByaH"],
+    "zazWI": ["patyuH", "patyoH", "patInAm"],
+    "saptamI": ["patyO", "patyoH", "patizu"],
+    "saMboDana": ["pate", "patI", "patayaH"],
+})
+
+# sakhi - irregular i_kArAnta puMliNga (sakhi - sakhyA, sakhye, sakhyuH, sakhyO, sakhInAm) + compounds like priya-sakhi
+_register("sakhi_m", "sakhi", "m", "i-kArAnta puMliNga (sakhi) - irregular", {
+    "prathamA": ["sakhA", "sakhAyO", "sakhAyaH"],
+    "dvitIyA": ["sakhAyam", "sakhAyO", "sakhIn"],
+    "tftIyA": ["sakhyA", "sakhiByAm", "sakhiBiH"],
+    "caturTI": ["sakhye", "sakhiByAm", "sakhiByaH"],
+    "paYcamI": ["sakhyuH", "sakhiByAm", "sakhiByaH"],
+    "zazWI": ["sakhyuH", "sakhyoH", "sakhInAm"],
+    "saptamI": ["sakhyO", "sakhyoH", "sakhiSu"],
+    "saMboDana": ["sakhe", "sakhAyO", "sakhAyaH"],
 })
 
 # i_kArAnta strIliNga  mati (allows yA variant but we pick mati-like)
@@ -254,13 +279,25 @@ _register("f_n", "f", "n", "f-kArAnta napuMsaka (dAtf)", {
 # an-stem rAjan (m) – strips "an" -> base rAj
 _register("an_m", "an", "m", "an-kArAnta puMliNga (rAjan)", {
     "prathamA": ["A", "AnO", "AnaH"],
-    "dvitIyA": ["Anam", "AnO", "aH"],
-    "tftIyA": ["YA", "AByAm", "aBiH"],
-    "caturTI": ["e", "AByAm", "aByaH"],
-    "paYcamI": ["aH", "AByAm", "aByaH"],
-    "zazWI": ["aH", "oH", "Am"],
-    "saptamI": ["i", "oH", "asu"],
+    "dvitIyA": ["Anam", "AnO", "YaH"],
+    "tftIyA": ["YA", "aByAm", "aBiH"],
+    "caturTI": ["Ye", "aByAm", "aByaH"],
+    "paYcamI": ["YaH", "aByAm", "aByaH"],
+    "zazWI": ["YaH", "YoH", "YAm"],
+    "saptamI": ["Yi", "YoH", "asu"],
     "saMboDana": ["an", "AnO", "AnaH"],
+})
+
+# an-stem nAman (n) – napuMsaka an-kArAnta (nAman, brahman n.)
+_register("an_n", "an", "n", "an-kArAnta napuMsaka (nAman)", {
+    "prathamA": ["a", "nI", "Ani"],
+    "dvitIyA": ["a", "nI", "Ani"],
+    "tftIyA": ["nA", "aByAm", "aBiH"],
+    "caturTI": ["ne", "aByAm", "aByaH"],
+    "paYcamI": ["naH", "aByAm", "aByaH"],
+    "zazWI": ["naH", "noH", "nAm"],
+    "saptamI": ["ni", "noH", "asu"],
+    "saMboDana": ["a", "nI", "Ani"],
 })
 
 # in-stem yogin (also danin, etc)
@@ -276,7 +313,7 @@ _register("in_m", "in", "m", "in-kArAnta puMliNga (yogin)", {
 })
 
 # at-stem Bavat (present participle) – m/f
-_register("at_m", "at", "m", "at-kArAnta (Bavat) puM", {
+_register("at_m", "at", "m", "at-kArAnta puMliNga (Bavat)", {
     "prathamA": ["an", "antO", "antaH"],
     "dvitIyA": ["antam", "antO", "ataH"],
     "tftIyA": ["atA", "aByAm", "aBiH"],
@@ -287,7 +324,19 @@ _register("at_m", "at", "m", "at-kArAnta (Bavat) puM", {
     "saMboDana": ["an", "antO", "antaH"],
 })
 
-# as-stem manas (n)
+# at-stem neuter (jagat / Bavat n. – bhavat, bhavatI, bhavanti)
+_register("at_n", "at", "n", "at-kArAnta napuMsaka (jagat/Bavat n.)", {
+    "prathamA": ["at", "atI", "anti"],
+    "dvitIyA": ["at", "atI", "anti"],
+    "tftIyA": ["atA", "adByAm", "adBiH"],
+    "caturTI": ["ate", "adByAm", "adByaH"],
+    "paYcamI": ["ataH", "adByAm", "adByaH"],
+    "zazWI": ["ataH", "atoH", "atAm"],
+    "saptamI": ["ati", "atoH", "atsu"],
+    "saMboDana": ["at", "atI", "anti"],
+})
+
+# as-stem manas (n) - neuter
 _register("as_n", "as", "n", "as-kArAnta napuMsaka (manas)", {
     "prathamA": ["aH", "asI", "AMsi"],
     "dvitIyA": ["aH", "asI", "AMsi"],
@@ -297,6 +346,31 @@ _register("as_n", "as", "n", "as-kArAnta napuMsaka (manas)", {
     "zazWI": ["asaH", "asoH", "asAm"],
     "saptamI": ["asi", "asoH", "aHsu"],
     "saMboDana": ["aH", "asI", "AMsi"],
+})
+
+# as-stem bahuvrIhi masculine/feminine (sumanas, durmanas - adj. from manas)
+# When manas is final member of bahuvrIhi, it becomes an adjective and takes m/f gender
+# e.g., sumanas m: sumanAH, sumanasO, sumanasaH / sumanasam ... cf. aGgiras
+_register("as_m", "as", "m", "as-kArAnta puMliNga (sumanas - bahuvrIhi of manas)", {
+    "prathamA": ["AH", "asO", "asaH"],
+    "dvitIyA": ["asam", "asO", "asaH"],
+    "tftIyA": ["asA", "oByAm", "oBiH"],
+    "caturTI": ["ase", "oByAm", "oByaH"],
+    "paYcamI": ["asaH", "oByAm", "oByaH"],
+    "zazWI": ["asaH", "asoH", "asAm"],
+    "saptamI": ["asi", "asoH", "aHsu"],
+    "saMboDana": ["aH", "asO", "asaH"],
+})
+
+_register("as_f", "as", "f", "as-kArAnta strIliNga (sumanas - bahuvrIhi f.)", {
+    "prathamA": ["AH", "asO", "asaH"],
+    "dvitIyA": ["asam", "asO", "asaH"],
+    "tftIyA": ["asA", "oByAm", "oBiH"],
+    "caturTI": ["ase", "oByAm", "oByaH"],
+    "paYcamI": ["asaH", "oByAm", "oByaH"],
+    "zazWI": ["asaH", "asoH", "asAm"],
+    "saptamI": ["asi", "asoH", "aHsu"],
+    "saMboDana": ["aH", "asO", "asaH"],
 })
 
 # us-stem danus (n)
@@ -917,41 +991,26 @@ _triMSat_full = {
     "saMboDana": ["triMSat", "triMSatO", "triMSataH"],
 }
 for _h in ["triMSat", "catvAriMSat", "paYcASat"]:
-    # generate similarly by stem substitution (simplified)
-    _base = _h.replace("triMSat", "triMSat").replace("catvAriMSat", "catvAriMSat").replace("paYcASat", "paYcASat")
+    # Fix sandhi d/t: triMSadByAm -> catvAriMSadByAm / paYcASadByAm
+    # Replace prefix triMSa (6 chars) with stem of _h (triMSa/catvAriMSa/paYcASa)
+    stem = _h[:-1]  # strip final t -> triMSa / catvAriMSa / paYcASa
     _tbl = {}
     for _vib, _vals in _triMSat_full.items():
-        _tbl[_vib] = [v.replace("triMSat", _h) for v in _vals]
+        new_vals = []
+        for v in _vals:
+            if v.startswith("triMSa"):
+                new_vals.append(stem + v[6:])
+            else:
+                new_vals.append(v.replace("triMSat", _h))
+        _tbl[_vib] = new_vals
     NUMERALS[_h] = {"f": _tbl, "m": _tbl, "n": _tbl}
-# zazwi, saptati, aSIti, navati – i-stem f like viMSati (replace viMSat prefix)
+# zazwi, saptati, aSIti, navati – i-stem f like viMSati (replace viMSat prefix -> zazw/saptat/aSIt/navat)
 for _h in ["zazwi", "saptati", "aSIti", "navati"]:
+    stem_base = _h[:-1]  # zazw, saptat, aSIt, navat
     _tbl = {}
     for _vib, _vals in _viMSati_full.items():
-        _new = []
-        for v in _vals:
-            # replace stem viMSat* with new stem (zazw etc.)
-            if v.startswith("viMSat"):
-                _new.append(_h[:4] + v[6:] if _h.startswith("z") else _h + v[7:])  # hack: keep suffix after viMSat
-                # simpler: replace prefix viMSat with stem prefix (remove last i)
-                # viMSati -> zazwi : viMSat -> zazw ; viMSati -> zazwi ; handle correctly
-                # We'll do direct prefix replace
-                if v.startswith("viMSati"):
-                    _new[-1] = v.replace("viMSati", _h, 1)
-                elif v.startswith("viMSat"):
-                    stem = _h[:-1] if _h.endswith("i") else _h  # zazwi -> zazw
-                    _new[-1] = v.replace("viMSat", stem, 1)
-            else:
-                _new.append(v)
-        _tbl[_vib] = _new
-    # fallback: if above hack produced wrong, rebuild via simple template using i_f paradigm suffixes
-    # For safety, rebuild cleanly from i_f pattern using stem
-    stem_base = _h[:-1]  # zazw, saptat, aSIt, navat
-    # Use i_f-like declension for these feminines (like mati with viMSati pattern) – just use viMSati pattern with stem substitution via prefix
-    # Correctly redo with straightforward replace of "viMSat" -> stem_base
-    _tbl2 = {}
-    for _vib, _vals in _viMSati_full.items():
-        _tbl2[_vib] = [v.replace("viMSat", stem_base, 1) if v.startswith("viMSat") else v for v in _vals]
-    NUMERALS[_h] = {"f": _tbl2, "m": _tbl2, "n": _tbl2}
+        _tbl[_vib] = [v.replace("viMSat", stem_base, 1) if v.startswith("viMSat") else v for v in _vals]
+    NUMERALS[_h] = {"f": _tbl, "m": _tbl, "n": _tbl}
 # Satam (100), sahasram (1000) – a-n napuMsaka like Pala (regular neuter a-stem, not defective)
 _Satam_full = {
     "prathamA": ["Satam", "Sate", "SatAni"],
@@ -1107,6 +1166,26 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return [f"pronoun:{word}"]
     if low in NUMERALS or word in NUMERALS:
         return [f"numeral:{word}"]
+    # irregular pati/sakhi (and compounds like BU-pati, priya-sakhi) must override regular i_m (hari)
+    if word == "pati" or word.endswith("pati"):
+        if gender is None or gender == "m":
+            return ["pati_m", "i_m"] if gender == "m" else ["pati_m"]
+    if word == "sakhi" or word.endswith("sakhi"):
+        if gender is None or gender == "m":
+            return ["sakhi_m", "i_m"] if gender == "m" else ["sakhi_m"]
+    # an-stem neuter nAman vs masculine rAjan – both end "an" so need lexicon
+    if word in ("nAman", "brahman", "vyoman", "sAman", "Daman") or word.endswith("nAman"):
+        if gender is None or gender == "n":
+            return ["an_n", "an_m"] if gender == "n" else ["an_n"]
+    if word in ("jagat", "Bavat") or word.endswith("jagat"):
+        # jagat is neuter at-stem; Bavat masc is at_m, neut is at_n – use at_n for jagat
+        if gender is None or gender == "n":
+            # for gender None prefer at_n for jagat, for explicit n also at_n
+            if word == "jagat" or word.endswith("jagat"):
+                return ["at_n", "t_n"] if gender == "n" else ["at_n"]
+    # manas neuter should be default for gender None (as_n before as_m already ensures this, but keep explicit)
+    if word == "manas" and (gender is None or gender == "n"):
+        return ["as_n", "as_m"] if gender == "n" else ["as_n"]
     # check endings longest first
     for paradigm, meta in sorted(PARADIGMS.items(), key=lambda x: -len(x[1]["ending"])):
         ending = meta["ending"]
@@ -1460,7 +1539,8 @@ def analyze_form(word: str, limit: int = 20, loose: bool = True) -> list[dict[st
                     base = word[: len(word) - len(suf)] if len(suf) else word
                     lemma = base + ending
                     # Filter implausible lemmas: must end with ending (by construction it does) and base not empty
-                    if not lemma or len(base) == 0:
+                    # Exception: pati_m/sakhi_m allow empty base (pati -> "", bhUpati -> "BU") for exact matches like patyA==suffix
+                    if not lemma or (len(base) == 0 and paradigm not in ("pati_m", "sakhi_m")):
                         continue
                     # Score by suffix length (longer = more specific) and paradigm ending length
                     score = len(suf) * 10 + len(ending)

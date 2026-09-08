@@ -548,7 +548,7 @@ def build_parser() -> argparse.ArgumentParser:
     dc = sub.add_parser("decline", aliases=["declines", "declension", "subanta", "nominal"], help="decline noun/pronoun/numeral – complete 8×3 vibhakti table")
     dc.add_argument("word", help="word to decline (SLP1), e.g. rAma, nadI, hari, pitf, tad, eka")
     dc.add_argument("--gender", help="gender: m|f|n (optional – auto-detect if omitted)", default=None)
-    dc.add_argument("--paradigm", help="force noun paradigm e.g. a_m, a_n, A_f, i_m, I_f, u_m, f_m, an_m, in_m, at_m, as_n", default=None)
+    dc.add_argument("--paradigm", help="force noun paradigm e.g. a_m,a_n,A_f,i_m/pati_m/sakhi_m,I_f,u_m,f_m,an_m/an_n,in_m,at_m/at_n,as_n/as_m/as_f", default=None)
     dc.add_argument("--category", help="force category: noun|pronoun|numeral", choices=["noun","pronoun","numeral"], default=None)
     dc.add_argument("--json", action="store_true", help="output JSON")
     dc.set_defaults(func=cmd_decline)

@@ -336,6 +336,41 @@ _register("at_n", "at", "n", "at-kArAnta napuMsaka (jagat/Bavat n.)", {
     "saMboDana": ["at", "atI", "anti"],
 })
 
+# pathin irregular (panTA/patha) - supanTA, pathA etc. SLP1 paTin (paTin = pathin)
+_register("pathin_m", "paTin", "m", "in-kArAnta puMliNga (pathin) - irregular", {
+    "prathamA": ["panTAH", "panTAnO", "panTAnaH"],
+    "dvitIyA": ["panTAnam", "panTAnO", "paTaH"],
+    "tftIyA": ["paTA", "paTiByAm", "paTiBiH"],
+    "caturTI": ["paTe", "paTiByAm", "paTiByaH"],
+    "paYcamI": ["paTaH", "paTiByAm", "paTiByaH"],
+    "zazWI": ["paTaH", "paToH", "paTAm"],
+    "saptamI": ["paTi", "paToH", "paTsu"],
+    "saMboDana": ["panTan", "panTAnO", "panTAnaH"],
+})
+
+# vat/mat (matup) – dhanavat, buddhimat – vAn/vatA etc.
+_register("vat_m", "vat", "m", "vat-kArAnta puMliNga (dhanavat) - matup", {
+    "prathamA": ["vAn", "vantO", "vantaH"],
+    "dvitIyA": ["vantam", "vantO", "vataH"],
+    "tftIyA": ["vatA", "vadByAm", "vadBiH"],
+    "caturTI": ["vate", "vadByAm", "vadByaH"],
+    "paYcamI": ["vataH", "vadByAm", "vadByaH"],
+    "zazWI": ["vataH", "vatoH", "vatAm"],
+    "saptamI": ["vati", "vatoH", "vatsu"],
+    "saMboDana": ["van", "vantO", "vantaH"],
+})
+
+_register("mat_m", "mat", "m", "mat-kArAnta puMliNga (buddhimat) - matup", {
+    "prathamA": ["mAn", "mantO", "mantaH"],
+    "dvitIyA": ["mantam", "mantO", "mataH"],
+    "tftIyA": ["matA", "madByAm", "madBiH"],
+    "caturTI": ["mate", "madByAm", "madByaH"],
+    "paYcamI": ["mataH", "madByAm", "madByaH"],
+    "zazWI": ["mataH", "matoH", "matAm"],
+    "saptamI": ["mati", "matoH", "matsu"],
+    "saMboDana": ["man", "mantO", "mantaH"],
+})
+
 # as-stem manas (n) - neuter
 _register("as_n", "as", "n", "as-kArAnta napuMsaka (manas)", {
     "prathamA": ["aH", "asI", "AMsi"],
@@ -1186,6 +1221,13 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     # manas neuter should be default for gender None (as_n before as_m already ensures this, but keep explicit)
     if word == "manas" and (gender is None or gender == "n"):
         return ["as_n", "as_m"] if gender == "n" else ["as_n"]
+    # Bavat present participle vs dhanavat matup – both end "vat" but need at_m for Bavat
+    if word == "Bavat" or word == "BavAt":
+        if gender is None or gender == "m":
+            return ["at_m", "vat_m"] if gender == "m" else ["at_m"]
+    # pathin handled via ending length, but ensure compounds (SLP1 paTin)
+    if word.endswith("paTin") and (gender is None or gender == "m"):
+        return ["pathin_m", "in_m"] if gender == "m" else ["pathin_m"]
     # check endings longest first
     for paradigm, meta in sorted(PARADIGMS.items(), key=lambda x: -len(x[1]["ending"])):
         ending = meta["ending"]

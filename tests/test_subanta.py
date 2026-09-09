@@ -276,6 +276,192 @@ class TestSubanta(unittest.TestCase):
         self.assertTrue(any(h["lemma"] == "pums" for h in analyze_form("pumAn")))
         self.assertTrue(any(h["lemma"] == "vidvas" for h in analyze_form("vidvAn")))
 
+    def test_anaquh_paradigm(self):
+        forms = decline("anaquh", gender="m")["forms"]
+        self.assertEqual(forms["prathamA"], ["anaqvAn", "anaqvAhO", "anaqvAhaH"])
+        self.assertEqual(forms["dvitIyA"], ["anaqvAham", "anaqvAhO", "anaquhaH"])
+        self.assertEqual(forms["tftIyA"][0], "anaquhA")
+        self.assertEqual(forms["tftIyA"][1], "anaqudByAm")
+        self.assertEqual(forms["tftIyA"][2], "anaqudBiH")
+        self.assertIn("anaqutsu", forms["saptamI"][2])
+        self.assertEqual(forms["saMboDana"][0], "anaqvan")
+        self.assertTrue(any(h["lemma"] == "anaquh" for h in analyze_form("anaqvAn")))
+
+    def test_root_a_masculine(self):
+        forms = decline("viSvapA", gender="m")["forms"]
+        self.assertEqual(forms["prathamA"], ["viSvapAH", "viSvapO", "viSvapAH"])
+        self.assertEqual(forms["dvitIyA"], ["viSvapAm", "viSvapO", "viSvapaH"])
+        self.assertEqual(forms["tftIyA"][0], "viSvapA")
+        self.assertEqual(forms["tftIyA"][1], "viSvapAByAm")
+        self.assertEqual(forms["caturTI"][0], "viSvape")
+        self.assertEqual(forms["saptamI"][0], "viSvapi")
+        self.assertEqual(forms["saptamI"][2], "viSvapAsu")
+        self.assertTrue(any(h["lemma"] == "viSvapA" for h in analyze_form("viSvapAH")))
+
+    def test_root_i_masculine_sudhi_and_senani(self):
+        # suDI: iyaN-AdeSa
+        sudhi = decline("suDI", gender="m")["forms"]
+        self.assertEqual(sudhi["prathamA"], ["suDIH", "suDiyO", "suDiyaH"])
+        self.assertEqual(sudhi["dvitIyA"], ["suDiyam", "suDiyO", "suDiyaH"])
+        self.assertEqual(sudhi["tftIyA"][0], "suDiyA")
+        self.assertEqual(sudhi["tftIyA"][1], "suDIByAm")
+        self.assertEqual(sudhi["saptamI"][2], "suDIzu")
+        self.assertTrue(any(h["lemma"] == "suDI" for h in analyze_form("suDIH")))
+
+        # senAnI: yaR-AdeSa
+        senani = decline("senAnI", gender="m")["forms"]
+        self.assertEqual(senani["prathamA"], ["senAnIH", "senAnyO", "senAnyaH"])
+        self.assertEqual(senani["dvitIyA"], ["senAnyam", "senAnyO", "senAnyaH"])
+        self.assertEqual(senani["tftIyA"][0], "senAnyA")
+        self.assertEqual(senani["tftIyA"][1], "senAnIByAm")
+        self.assertEqual(senani["saptamI"][2], "senAnIzu")
+        self.assertTrue(any(h["lemma"] == "senAnI" for h in analyze_form("senAnIH")))
+
+    def test_r_stems_gir_pur_dvar(self):
+        # gir
+        gir = decline("gir", gender="f")["forms"]
+        self.assertEqual(gir["prathamA"], ["gIH", "girO", "giraH"])
+        self.assertEqual(gir["dvitIyA"][0], "giram")
+        self.assertEqual(gir["tftIyA"], ["girA", "gIrByAm", "gIrBiH"])
+        self.assertEqual(gir["saptamI"][2], "gIrzu")
+        self.assertTrue(any(h["lemma"] == "gir" for h in analyze_form("gIH")))
+
+        # pur
+        pur = decline("pur", gender="f")["forms"]
+        self.assertEqual(pur["prathamA"], ["pUH", "purO", "puraH"])
+        self.assertEqual(pur["tftIyA"], ["purA", "pUrByAm", "pUrBiH"])
+        self.assertEqual(pur["saptamI"][2], "pUrzu")
+        self.assertTrue(any(h["lemma"] == "pur" for h in analyze_form("pUH")))
+
+        # dvAr
+        dvar = decline("dvAr", gender="f")["forms"]
+        self.assertEqual(dvar["prathamA"], ["dvAH", "dvArO", "dvAraH"])
+        self.assertEqual(dvar["tftIyA"], ["dvArA", "dvArByAm", "dvArBiH"])
+        self.assertEqual(dvar["saptamI"][2], "dvArzu")
+        self.assertTrue(any(h["lemma"] == "dvAr" for h in analyze_form("dvAH")))
+
+    def test_div_and_dyu(self):
+        div_f = decline("div", gender="f")["forms"]
+        self.assertEqual(div_f["prathamA"], ["dyOH", "divO", "divaH"])
+        self.assertEqual(div_f["dvitIyA"], ["divam", "divO", "divaH"])
+        self.assertEqual(div_f["tftIyA"], ["divA", "dyuByAm", "dyuBiH"])
+        self.assertEqual(div_f["caturTI"][0], "dive")
+        self.assertEqual(div_f["saptamI"], ["divi", "divoH", "dyuzu"])
+        self.assertEqual(div_f["saMboDana"][0], "dyOH")
+
+        dyu = decline("dyu", gender="f")["forms"]
+        self.assertEqual(dyu["prathamA"][0], "dyOH")
+        self.assertEqual(dyu["tftIyA"][1], "dyuByAm")
+        self.assertTrue(any(h["lemma"] == "div" for h in analyze_form("dyOH")))
+
+    def test_directional_anc_stems(self):
+        pranc = decline("prAYc", gender="m")["forms"]
+        self.assertEqual(pranc["prathamA"], ["prAN", "prAYcO", "prAYcaH"])
+        self.assertEqual(pranc["dvitIyA"], ["prAYcam", "prAYcO", "prAcaH"])
+        self.assertEqual(pranc["tftIyA"], ["prAcA", "prAgByAm", "prAgBiH"])
+        self.assertEqual(pranc["saptamI"][2], "prAkzu")
+        self.assertTrue(any(h["lemma"] == "prAYc" for h in analyze_form("prAN")))
+
+        pratyanc = decline("pratyaYc", gender="m")["forms"]
+        self.assertEqual(pratyanc["prathamA"], ["pratyaN", "pratyaYcO", "pratyaYcaH"])
+        self.assertEqual(pratyanc["dvitIyA"], ["pratyaYcam", "pratyaYcO", "pratIcaH"])
+        self.assertEqual(pratyanc["tftIyA"], ["pratIcA", "pratyagByAm", "pratyagBiH"])
+        self.assertEqual(pratyanc["saptamI"][2], "pratyakzu")
+        self.assertTrue(any(h["lemma"] == "pratyaYc" for h in analyze_form("pratyaN")))
+
+        udanc = decline("udaYc", gender="m")["forms"]
+        self.assertEqual(udanc["prathamA"], ["udaN", "udaYcO", "udaYcaH"])
+        self.assertEqual(udanc["dvitIyA"], ["udaYcam", "udaYcO", "udIcaH"])
+        self.assertEqual(udanc["tftIyA"], ["udIcA", "udagByAm", "udagBiH"])
+        self.assertEqual(udanc["saptamI"][2], "udakzu")
+        self.assertTrue(any(h["lemma"] == "udaYc" for h in analyze_form("udaN")))
+
+    def test_krozwu_paradigm(self):
+        kroztu = decline("krozwu", gender="m")["forms"]
+        self.assertEqual(kroztu["prathamA"], ["krozwA", "krozwArO", "krozwAraH"])
+        self.assertEqual(kroztu["dvitIyA"], ["krozwAram", "krozwArO", "krozwUn"])
+        self.assertIn("krozwrA", kroztu["tftIyA"][0])
+        self.assertEqual(kroztu["tftIyA"][1], "krozwuByAm")
+        self.assertIn("krozwre", kroztu["caturTI"][0])
+        self.assertIn("krozwari", kroztu["saptamI"][0])
+        self.assertEqual(kroztu["saptamI"][2], "krozwuzu")
+        self.assertEqual(kroztu["saMboDana"][0], "krozwo")
+        self.assertTrue(any(h["lemma"] == "krozwu" for h in analyze_form("krozwA")))
+
+    def test_candramas_paradigm(self):
+        candramas = decline("candramas", gender="m")["forms"]
+        self.assertEqual(candramas["prathamA"], ["candramAH", "candramasO", "candramasaH"])
+        self.assertEqual(candramas["dvitIyA"], ["candramasam", "candramasO", "candramasaH"])
+        self.assertEqual(candramas["tftIyA"], ["candramasA", "candramoByAm", "candramoBiH"])
+        self.assertEqual(candramas["saptamI"][0], "candramasi")
+        self.assertIn("candramaHsu", candramas["saptamI"][2])
+        self.assertEqual(candramas["saMboDana"][0], "candramaH")
+        self.assertTrue(any(h["lemma"] == "candramas" for h in analyze_form("candramAH")))
+
+    def test_yuj_paradigm(self):
+        yuj = decline("yuj", gender="m")["forms"]
+        self.assertEqual(yuj["prathamA"], ["yuN", "yuYjO", "yuYjaH"])
+        self.assertEqual(yuj["dvitIyA"], ["yuYjam", "yuYjO", "yujaH"])
+        self.assertEqual(yuj["tftIyA"], ["yujA", "yugByAm", "yugBiH"])
+        self.assertEqual(yuj["saptamI"], ["yuji", "yujoH", "yukzu"])
+        self.assertEqual(yuj["saMboDana"], ["yuN", "yuYjO", "yuYjaH"])
+        self.assertTrue(any(h["lemma"] == "yuj" for h in analyze_form("yuN")))
+
+    def test_bhuj_and_j_stem(self):
+        # Bizaj (verifying gByAm fix)
+        bhishaj = decline("Bizaj", gender="m")["forms"]
+        self.assertEqual(bhishaj["tftIyA"][1], "BizagByAm")
+
+        # Buj
+        bhuj = decline("Buj", gender="m")["forms"]
+        self.assertEqual(bhuj["prathamA"], ["Buk", "BujO", "BujaH"])
+        self.assertEqual(bhuj["dvitIyA"], ["Bujam", "BujO", "BujaH"])
+        self.assertEqual(bhuj["tftIyA"], ["BujA", "BugByAm", "BugBiH"])
+        self.assertEqual(bhuj["saptamI"], ["Buji", "BujoH", "Bukzu"])
+        self.assertTrue(any(h["lemma"] == "Buj" for h in analyze_form("Buk")))
+
+    def test_kzuD_and_dh_stems(self):
+        # kzuD
+        kzhudh = decline("kzuD", gender="f")["forms"]
+        self.assertIn("kzut", kzhudh["prathamA"][0])
+        self.assertEqual(kzhudh["prathamA"][1], "kzuDO")
+        self.assertEqual(kzhudh["tftIyA"], ["kzuDA", "kzudByAm", "kzudBiH"])
+        self.assertEqual(kzhudh["saptamI"], ["kzuDi", "kzuDoH", "kzutsu"])
+        self.assertTrue(any(h["lemma"] == "kzuD" for h in analyze_form("kzut")))
+
+        # samiD
+        samidh = decline("samiD", gender="f")["forms"]
+        self.assertEqual(samidh["prathamA"][1], "samiDO")
+        self.assertEqual(samidh["tftIyA"][1], "samidByAm")
+        self.assertEqual(samidh["saptamI"][2], "samitsu")
+
+    def test_vftrahan_and_maghavan(self):
+        # vftrahan
+        vritrahan = decline("vftrahan", gender="m")["forms"]
+        self.assertEqual(vritrahan["prathamA"], ["vftrahA", "vftrahaRO", "vftrahaRaH"])
+        self.assertEqual(vritrahan["dvitIyA"][0], "vftrahaRam")
+        self.assertIn("vftraGRaH", vritrahan["dvitIyA"][2])
+        self.assertEqual(vritrahan["tftIyA"][1], "vftrahaByAm")
+        self.assertEqual(vritrahan["saptamI"][2], "vftrahasu")
+        self.assertEqual(vritrahan["saMboDana"][0], "vftrahan")
+        self.assertTrue(any(h["lemma"] == "vftrahan" for h in analyze_form("vftrahA")))
+
+        # Satruhan
+        satruhan = decline("Satruhan", gender="m")["forms"]
+        self.assertEqual(satruhan["prathamA"][0], "SatruhA")
+        self.assertEqual(satruhan["tftIyA"][1], "SatruhaByAm")
+
+        # maGavan
+        maghavan = decline("maGavan", gender="m")["forms"]
+        self.assertEqual(maghavan["prathamA"], ["maGavAn", "maGavAntO", "maGavAntaH"])
+        self.assertEqual(maghavan["dvitIyA"], ["maGavAntam", "maGavAntO", "maGonaH"])
+        self.assertEqual(maghavan["tftIyA"], ["maGonA", "maGavadByAm", "maGavadBiH"])
+        self.assertEqual(maghavan["caturTI"][0], "maGone")
+        self.assertEqual(maghavan["saptamI"], ["maGoni", "maGonoH", "maGavatsu"])
+        self.assertEqual(maghavan["saMboDana"][0], "maGavan")
+        self.assertTrue(any(h["lemma"] == "maGavan" for h in analyze_form("maGavAn")))
+
 
 if __name__ == "__main__":
     unittest.main()
+

@@ -24,18 +24,21 @@ Usage::
     decline("eka")                       # numeral
 
 Paradigm keys (noun):
-  a_m, a_n, A_f, i_m, pati_m, sakhi_m, i_f, i_n, asthi_n (daDi/akzi/asTi/sakTi),
-  I_f (nadI), sri_f (SrI/hrI/DI), lakzmi_f, stri_f,
-  u_m (guru), u_f (Denu), u_n (maDu), U_f (vaDU), bhu_f (BU/BrU),
+  a_m, a_n, A_f, A_m (viSvapA root A-stem), i_m, pati_m, sakhi_m, i_f, i_n, asthi_n (daDi/akzi/asTi/sakTi),
+  I_f (nadI), sri_f (SrI/hrI/DI), sudhi_m (suDI iyaN), I_m (senAnI yaR), lakzmi_f, stri_f,
+  u_m (guru), krozwu_m (krozwu/krozwf), u_f (Denu), u_n (maDu), U_f (vaDU), bhu_f (BU/BrU),
   f_m (pitf kinship), tf_m (kartf agent noun), f_f (mAtf), svasf_f (svasf), f_n (dAtf),
+  r_f (dvAr), gir_f (gir), pur_f (pur), div_f/div_m (div/dyu heaven),
   an_m (Atman), rajan_m (rAjan), an_n (nAman), karman_n (karman), in_m (yogin), in_n (balin),
   at_m (participle Bavat), bhavat_m (honorific Bavat), at_n (jagat), mahat_m, mahat_n,
   pathin_m (panTA), vat_m (Danavat), mat_m (budDimat), vidvas_m (vidvAn),
-  yas_m (Sreyas m.), yas_n (Sreyas n.), as_n (manas), as_m/as_f (sumanas),
-  us_n (danus), is_n (havis), c_f (vAc), t_m (marut), t_f (sarit), t_n (jagat),
-  d_f (sampad), j_m (Bizaj), dis_f/dis_m (diS/viS),
+  yas_m (Sreyas m.), yas_n (Sreyas n.), as_n (manas), as_m/as_f (sumanas), candramas_m (candramas),
+  us_n (danus), is_n (havis), c_f (vAc), pranc_m (prAYc), pratyanc_m (pratyaYc), udanc_m (udaYc),
+  t_m (marut), t_f (sarit), t_n (jagat), d_f (sampad), kzuD_f (kzuD), dh_f (samiD),
+  j_m (Bizaj), yuj_m (yuj), Buj_m/Buj_f (Buj), dis_f/dis_m (diS/viS),
   o_m/o_f (go), ahan_n (ahan), pums_m (pums), svan_m (Svan), yuvan_m (yuvan),
-  ap_f (ap water), nau_f (nO), glau_m (glO), rai_m/rai_f (rE), etc.
+  vftrahan_m (vftrahan), han_m (han-compounds), maghavan_m (maGavan),
+  anaquh_m (anaquh ox), ap_f (ap water), nau_f (nO), glau_m (glO), rai_m/rai_f (rE), etc.
 """
 
 from __future__ import annotations
@@ -785,9 +788,9 @@ _register("d_f", "d", "f", "d-kArAnta strIliNga (sampad)", {
 _register("j_m", "j", "m", "j-kArAnta puMliNga (Bizaj)", {
     "prathamA": ["k", "jO", "jaH"],
     "dvitIyA": ["jam", "jO", "jaH"],
-    "tftIyA": ["jA", "GByAm", "GBiH"],
-    "caturTI": ["je", "GByAm", "GByaH"],
-    "paYcamI": ["jaH", "GByAm", "GByaH"],
+    "tftIyA": ["jA", "gByAm", "gBiH"],
+    "caturTI": ["je", "gByAm", "gByaH"],
+    "paYcamI": ["jaH", "gByAm", "gByaH"],
     "zazWI": ["jaH", "joH", "jAm"],
     "saptamI": ["ji", "joH", "kzu"],
     "saMboDana": ["k", "jO", "jaH"],
@@ -873,6 +876,262 @@ _register("ap_f", "ap", "f", "p-kArAnta strIliNga (ap - water, plural only)", {
     "zazWI": ["-", "-", "apAm"],
     "saptamI": ["-", "-", "apsu"],
     "saMboDana": ["-", "-", "ApaH"],
+})
+
+# anaquh (ox / bull, m.) - Panini 7.1.98, 7.1.99, 8.2.72
+_register("anaquh_m", "anaquh", "m", "h-kArAnta puMliNga (anaquh - ox/bull) - irregular", {
+    "prathamA": ["anaqvAn", "anaqvAhO", "anaqvAhaH"],
+    "dvitIyA": ["anaqvAham", "anaqvAhO", "anaquhaH"],
+    "tftIyA": ["anaquhA", "anaqudByAm", "anaqudBiH"],
+    "caturTI": ["anaquhe", "anaqudByAm", "anaqudByaH"],
+    "paYcamI": ["anaquhaH", "anaqudByAm", "anaqudByaH"],
+    "zazWI": ["anaquhaH", "anaquhoH", "anaquhAm"],
+    "saptamI": ["anaquhi", "anaquhoH", "anaqutsu / anaqvatsu"],
+    "saMboDana": ["anaqvan", "anaqvAhO", "anaqvAhaH"],
+})
+
+# A-stem masculine (root stems like viSvapA, somapA - Panini 6.4.140 Ato DdtoH)
+_register("A_m", "A", "m", "A-kArAnta puMliNga (viSvapA - root A-stem)", {
+    "prathamA": ["AH", "O", "AH"],
+    "dvitIyA": ["Am", "O", "aH"],
+    "tftIyA": ["A", "AByAm", "ABiH"],
+    "caturTI": ["e", "AByAm", "AByaH"],
+    "paYcamI": ["aH", "AByAm", "AByaH"],
+    "zazWI": ["aH", "oH", "Am"],
+    "saptamI": ["i", "oH", "Asu"],
+    "saMboDana": ["AH", "O", "AH"],
+})
+
+# I-stem masculine (suDI - iyaN-AdeSa per Panini 6.4.85)
+_register("sudhi_m", "I", "m", "I-kArAnta puMliNga (suDI - iyaN-AdeSa)", {
+    "prathamA": ["IH", "iyO", "iyaH"],
+    "dvitIyA": ["iyam", "iyO", "iyaH"],
+    "tftIyA": ["iyA", "IByAm", "IBiH"],
+    "caturTI": ["iye", "IByAm", "IByaH"],
+    "paYcamI": ["iyaH", "IByAm", "IByaH"],
+    "zazWI": ["iyaH", "iyoH", "iyAm"],
+    "saptamI": ["iyi", "iyoH", "Izu"],
+    "saMboDana": ["IH", "iyO", "iyaH"],
+})
+
+# I-stem masculine (senAnI / grAmaRI - yaR-AdeSa per Panini 6.4.82)
+_register("I_m", "I", "m", "I-kArAnta puMliNga (senAnI - yaR-AdeSa)", {
+    "prathamA": ["IH", "yO", "yaH"],
+    "dvitIyA": ["yam", "yO", "yaH"],
+    "tftIyA": ["yA", "IByAm", "IBiH"],
+    "caturTI": ["ye", "IByAm", "IByaH"],
+    "paYcamI": ["yaH", "IByAm", "IByaH"],
+    "zazWI": ["yaH", "yoH", "yAm"],
+    "saptamI": ["yi / yAm", "yoH", "Izu"],
+    "saMboDana": ["IH", "yO", "yaH"],
+})
+
+# r-stem feminine (gir - speech/voice: dIrGa ikaH Panini 8.2.76)
+_register("gir_f", "gir", "f", "r-kArAnta strIliNga (gir - voice/speech)", {
+    "prathamA": ["gIH", "girO", "giraH"],
+    "dvitIyA": ["giram", "girO", "giraH"],
+    "tftIyA": ["girA", "gIrByAm", "gIrBiH"],
+    "caturTI": ["gire", "gIrByAm", "gIrByaH"],
+    "paYcamI": ["giraH", "gIrByAm", "gIrByaH"],
+    "zazWI": ["giraH", "giroH", "girAm"],
+    "saptamI": ["giri", "giroH", "gIrzu"],
+    "saMboDana": ["gIH", "girO", "giraH"],
+})
+
+# r-stem feminine (pur - city: dIrGa ikaH Panini 8.2.76)
+_register("pur_f", "pur", "f", "r-kArAnta strIliNga (pur - city)", {
+    "prathamA": ["pUH", "purO", "puraH"],
+    "dvitIyA": ["puram", "purO", "puraH"],
+    "tftIyA": ["purA", "pUrByAm", "pUrBiH"],
+    "caturTI": ["pure", "pUrByAm", "pUrByaH"],
+    "paYcamI": ["puraH", "pUrByAm", "pUrByaH"],
+    "zazWI": ["puraH", "puroH", "purAm"],
+    "saptamI": ["puri", "puroH", "pUrzu"],
+    "saMboDana": ["pUH", "purO", "puraH"],
+})
+
+# r-stem feminine (dvAr - door)
+_register("r_f", "r", "f", "r-kArAnta strIliNga (dvAr - door)", {
+    "prathamA": ["H", "rO", "raH"],
+    "dvitIyA": ["ram", "rO", "raH"],
+    "tftIyA": ["rA", "rByAm", "rBiH"],
+    "caturTI": ["re", "rByAm", "rByaH"],
+    "paYcamI": ["raH", "rByAm", "rByaH"],
+    "zazWI": ["raH", "roH", "rAm"],
+    "saptamI": ["ri", "roH", "rzu"],
+    "saMboDana": ["H", "rO", "raH"],
+})
+
+# div / dyu (heaven/sky - Panini 6.1.131 diva aut)
+_register("div_f", "div", "f", "v-kArAnta strIliNga (div/dyu - heaven/sky)", {
+    "prathamA": ["dyOH", "divO", "divaH"],
+    "dvitIyA": ["divam", "divO", "divaH"],
+    "tftIyA": ["divA", "dyuByAm", "dyuBiH"],
+    "caturTI": ["dive", "dyuByAm", "dyuByaH"],
+    "paYcamI": ["divaH", "dyuByAm", "dyuByaH"],
+    "zazWI": ["divaH", "divoH", "divAm"],
+    "saptamI": ["divi", "divoH", "dyuzu"],
+    "saMboDana": ["dyOH", "divO", "divaH"],
+})
+_register("div_m", "div", "m", "v-kArAnta puMliNga (div/dyu - heaven/sky)", {
+    "prathamA": ["dyOH", "divO", "divaH"],
+    "dvitIyA": ["divam", "divO", "divaH"],
+    "tftIyA": ["divA", "dyuByAm", "dyuBiH"],
+    "caturTI": ["dive", "dyuByAm", "dyuByaH"],
+    "paYcamI": ["divaH", "dyuByAm", "dyuByaH"],
+    "zazWI": ["divaH", "divoH", "divAm"],
+    "saptamI": ["divi", "divoH", "dyuzu"],
+    "saMboDana": ["dyOH", "divO", "divaH"],
+})
+
+# Directional adjectives in -aYc (prAYc / pratyaYc / udaYc)
+_register("pranc_m", "prAYc", "m", "c-kArAnta puMliNga (prAYc - eastern/forward)", {
+    "prathamA": ["prAN", "prAYcO", "prAYcaH"],
+    "dvitIyA": ["prAYcam", "prAYcO", "prAcaH"],
+    "tftIyA": ["prAcA", "prAgByAm", "prAgBiH"],
+    "caturTI": ["prAce", "prAgByAm", "prAgByaH"],
+    "paYcamI": ["prAcaH", "prAgByAm", "prAgByaH"],
+    "zazWI": ["prAcaH", "prAcoH", "prAcAm"],
+    "saptamI": ["prAci", "prAcoH", "prAkzu"],
+    "saMboDana": ["prAN", "prAYcO", "prAYcaH"],
+})
+
+_register("pratyanc_m", "pratyaYc", "m", "c-kArAnta puMliNga (pratyaYc - western/backward)", {
+    "prathamA": ["pratyaN", "pratyaYcO", "pratyaYcaH"],
+    "dvitIyA": ["pratyaYcam", "pratyaYcO", "pratIcaH"],
+    "tftIyA": ["pratIcA", "pratyagByAm", "pratyagBiH"],
+    "caturTI": ["pratIce", "pratyagByAm", "pratyagByaH"],
+    "paYcamI": ["pratIcaH", "pratyagByAm", "pratyagByaH"],
+    "zazWI": ["pratIcaH", "pratIcoH", "pratIcAm"],
+    "saptamI": ["pratIci", "pratIcoH", "pratyakzu"],
+    "saMboDana": ["pratyaN", "pratyaYcO", "pratyaYcaH"],
+})
+
+_register("udanc_m", "udaYc", "m", "c-kArAnta puMliNga (udaYc - northern/upward)", {
+    "prathamA": ["udaN", "udaYcO", "udaYcaH"],
+    "dvitIyA": ["udaYcam", "udaYcO", "udIcaH"],
+    "tftIyA": ["udIcA", "udagByAm", "udagBiH"],
+    "caturTI": ["udIce", "udagByAm", "udagByaH"],
+    "paYcamI": ["udIcaH", "udagByAm", "udagByaH"],
+    "zazWI": ["udIcaH", "udIcoH", "udIcAm"],
+    "saptamI": ["udIci", "udIcoH", "udakzu"],
+    "saMboDana": ["udaN", "udaYcO", "udaYcaH"],
+})
+
+# krozwu (jackal, m.) - Panini 7.1.95 (tftIyAdisu tftvam)
+_register("krozwu_m", "krozwu", "m", "u-kArAnta puMliNga (krozwu - jackal) - tf-AdeSa", {
+    "prathamA": ["krozwA", "krozwArO", "krozwAraH"],
+    "dvitIyA": ["krozwAram", "krozwArO", "krozwUn"],
+    "tftIyA": ["krozwrA / krozwunA", "krozwuByAm", "krozwuBiH"],
+    "caturTI": ["krozwre / krozwave", "krozwuByAm", "krozwuByaH"],
+    "paYcamI": ["krozwuH / krozwOH", "krozwuByAm", "krozwuByaH"],
+    "zazWI": ["krozwuH / krozwOH", "krozwroH / krozwvoH", "krozwFRAm / krozwUnAm"],
+    "saptamI": ["krozwari / krozwO", "krozwroH / krozwvoH", "krozwuzu"],
+    "saMboDana": ["krozwo", "krozwArO", "krozwAraH"],
+})
+
+# candramas (moon, m.) - as-stem masculine
+_register("candramas_m", "candramas", "m", "as-kArAnta puMliNga (candramas - moon)", {
+    "prathamA": ["candramAH", "candramasO", "candramasaH"],
+    "dvitIyA": ["candramasam", "candramasO", "candramasaH"],
+    "tftIyA": ["candramasA", "candramoByAm", "candramoBiH"],
+    "caturTI": ["candramase", "candramoByAm", "candramoByaH"],
+    "paYcamI": ["candramasaH", "candramoByAm", "candramoByaH"],
+    "zazWI": ["candramasaH", "candramasoH", "candramasAm"],
+    "saptamI": ["candramasi", "candramasoH", "candramaHsu / candramassu"],
+    "saMboDana": ["candramaH", "candramasO", "candramasaH"],
+})
+
+# yuj (companion / yoke, m.) - Panini 7.1.71 yuje-rasamAse (num in sarvanAmasthAna)
+_register("yuj_m", "yuj", "m", "j-kArAnta puMliNga (yuj - companion/yoke) - irregular", {
+    "prathamA": ["yuN", "yuYjO", "yuYjaH"],
+    "dvitIyA": ["yuYjam", "yuYjO", "yujaH"],
+    "tftIyA": ["yujA", "yugByAm", "yugBiH"],
+    "caturTI": ["yuje", "yugByAm", "yugByaH"],
+    "paYcamI": ["yujaH", "yugByAm", "yugByaH"],
+    "zazWI": ["yujaH", "yujoH", "yujAm"],
+    "saptamI": ["yuji", "yujoH", "yukzu"],
+    "saMboDana": ["yuN", "yuYjO", "yuYjaH"],
+})
+
+# Buj (enjoyer / ruler / eater, m./f.) - regular j-stem with kutva
+_register("Buj_m", "Buj", "m", "j-kArAnta puMliNga (Buj - ruler/enjoyer)", {
+    "prathamA": ["Buk", "BujO", "BujaH"],
+    "dvitIyA": ["Bujam", "BujO", "BujaH"],
+    "tftIyA": ["BujA", "BugByAm", "BugBiH"],
+    "caturTI": ["Buje", "BugByAm", "BugByaH"],
+    "paYcamI": ["BujaH", "BugByAm", "BugByaH"],
+    "zazWI": ["BujaH", "BujoH", "BujAm"],
+    "saptamI": ["Buji", "BujoH", "Bukzu"],
+    "saMboDana": ["Buk", "BujO", "BujaH"],
+})
+_register("Buj_f", "Buj", "f", "j-kArAnta strIliNga (Buj - ruler/enjoyer)", {
+    "prathamA": ["Buk", "BujO", "BujaH"],
+    "dvitIyA": ["Bujam", "BujO", "BujaH"],
+    "tftIyA": ["BujA", "BugByAm", "BugBiH"],
+    "caturTI": ["Buje", "BugByAm", "BugByaH"],
+    "paYcamI": ["BujaH", "BugByAm", "BugByaH"],
+    "zazWI": ["BujaH", "BujoH", "BujAm"],
+    "saptamI": ["Buji", "BujoH", "Bukzu"],
+    "saMboDana": ["Buk", "BujO", "BujaH"],
+})
+
+# kzuD (hunger, f.) & dh-stems (samiD)
+_register("kzuD_f", "kzuD", "f", "D-kArAnta strIliNga (kzuD - hunger)", {
+    "prathamA": ["kzut / kzud", "kzuDO", "kzuDaH"],
+    "dvitIyA": ["kzuDam", "kzuDO", "kzuDaH"],
+    "tftIyA": ["kzuDA", "kzudByAm", "kzudBiH"],
+    "caturTI": ["kzuDe", "kzudByAm", "kzudByaH"],
+    "paYcamI": ["kzuDaH", "kzudByAm", "kzudByaH"],
+    "zazWI": ["kzuDaH", "kzuDoH", "kzuDAm"],
+    "saptamI": ["kzuDi", "kzuDoH", "kzutsu"],
+    "saMboDana": ["kzut / kzud", "kzuDO", "kzuDaH"],
+})
+_register("dh_f", "D", "f", "D-kArAnta strIliNga (samiD - fuel)", {
+    "prathamA": ["t / d", "DO", "DaH"],
+    "dvitIyA": ["Dam", "DO", "DaH"],
+    "tftIyA": ["DA", "dByAm", "dBiH"],
+    "caturTI": ["De", "dByAm", "dByaH"],
+    "paYcamI": ["DaH", "dByAm", "dByaH"],
+    "zazWI": ["DaH", "DoH", "DAm"],
+    "saptamI": ["Di", "DoH", "tsu"],
+    "saMboDana": ["t / d", "DO", "DaH"],
+})
+
+# vftrahan (slayer of Vritra, m.) - Panini 6.4.98, 7.3.54
+_register("vftrahan_m", "vftrahan", "m", "an-kArAnta puMliNga (vftrahan - slayer of Vritra) - irregular", {
+    "prathamA": ["vftrahA", "vftrahaRO", "vftrahaRaH"],
+    "dvitIyA": ["vftrahaRam", "vftrahaRO", "vftraGRaH"],
+    "tftIyA": ["vftraGRA", "vftrahaByAm", "vftrahaBiH"],
+    "caturTI": ["vftraGRe", "vftrahaByAm", "vftrahaByaH"],
+    "paYcamI": ["vftraGRaH", "vftrahaByAm", "vftrahaByaH"],
+    "zazWI": ["vftraGRaH", "vftraGRoH", "vftraGRAm"],
+    "saptamI": ["vftrahaRi / vftraGNi", "vftraGRoH", "vftrahasu"],
+    "saMboDana": ["vftrahan", "vftrahaRO", "vftrahaRaH"],
+})
+
+# han-compounds (Satruhan, ripuhan - slayer, m.)
+_register("han_m", "han", "m", "an-kArAnta puMliNga (han-compounds - slayer) - irregular", {
+    "prathamA": ["hA", "haRO / hanO", "haRaH / hanaH"],
+    "dvitIyA": ["haRam / hanam", "haRO / hanO", "GnaH / GRaH"],
+    "tftIyA": ["GnA / GRA", "haByAm", "haBiH"],
+    "caturTI": ["Gne / GRe", "haByAm", "haByaH"],
+    "paYcamI": ["GnaH / GRaH", "haByAm", "haByaH"],
+    "zazWI": ["GnaH / GRaH", "GnoH / GRoH", "GnAm / GRAm"],
+    "saptamI": ["haRi / hani / Gni / GNi", "GnoH / GRoH", "hasu"],
+    "saMboDana": ["han", "haRO / hanO", "haRaH / hanaH"],
+})
+
+# maGavan (Indra, m.) - Panini 6.4.128 maGavA bahulam (samprasAraRa maGonaH)
+_register("maghavan_m", "maGavan", "m", "an-kArAnta puMliNga (maGavan - Indra) - samprasAraRa", {
+    "prathamA": ["maGavAn", "maGavAntO", "maGavAntaH"],
+    "dvitIyA": ["maGavAntam", "maGavAntO", "maGonaH"],
+    "tftIyA": ["maGonA", "maGavadByAm", "maGavadBiH"],
+    "caturTI": ["maGone", "maGavadByAm", "maGavadByaH"],
+    "paYcamI": ["maGonaH", "maGavadByAm", "maGavadByaH"],
+    "zazWI": ["maGonaH", "maGonoH", "maGonAm"],
+    "saptamI": ["maGoni", "maGonoH", "maGavatsu"],
+    "saMboDana": ["maGavan", "maGavAntO", "maGavAntaH"],
 })
 
 # generic consonant fallback
@@ -1491,6 +1750,16 @@ def _generate_noun(word: str, paradigm: str) -> dict[str, list[str]]:
     # compute base
     if word.endswith(ending):
         base = word[: -len(ending)] if len(ending) <= len(word) else ""
+    elif paradigm in ("div_f", "div_m") and word.endswith("dyu"):
+        base = word[:-3]
+    elif paradigm == "pranc_m" and word.endswith("prAc"):
+        base = word[:-4]
+    elif paradigm == "pratyanc_m" and word.endswith("pratIc"):
+        base = word[:-6]
+    elif paradigm == "udanc_m" and word.endswith("udIc"):
+        base = word[:-4]
+    elif paradigm == "anaquh_m" and word.endswith("anaqvat"):
+        base = word[:-7]
     else:
         if len(ending) == 1:
             base = word[:-1] if word else ""
@@ -1558,9 +1827,17 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         else:
             return ["o_m", "o_f"]
 
-    # root vowels SrI, BU, strI, lakzmI
-    if word in ("SrI", "hrI", "DI") or word.endswith("SrI"):
+    # root vowels SrI, BU, strI, lakzmI, suDI, senAnI, viSvapA
+    if word == "DI":
+        return ["sudhi_m"] if gender == "m" else ["sri_f"]
+    if word in ("SrI", "hrI") or word.endswith("SrI"):
         return ["sri_f"]
+    if word in ("suDI", "praDI") or (word.endswith("DI") and word not in ("DI", "hrI", "SrI")):
+        return ["sudhi_m", "I_m"] if gender in (None, "m") else ["sudhi_m", "I_f"]
+    if word in ("senAnI", "grAmaRI") or (word.endswith("nI") and gender == "m"):
+        return ["I_m", "sudhi_m"]
+    if word in ("viSvapA", "somapA", "DUpapA", "balapA") or (word.endswith("pA") and gender == "m"):
+        return ["A_m"]
     if word in ("BU", "BrU") or (word.endswith("BU") and len(word) <= 4):
         return ["bhu_f"]
     if word == "strI" or word.endswith("strI"):
@@ -1576,7 +1853,43 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word in ("rE", "rai") or word.endswith("rE"):
         return ["rai_f"] if gender == "f" else ["rai_m", "rai_f"]
 
-    # special irregulars: ahan, pums, Svan, yuvan, ap, diS
+    # special irregulars: anaquh, div/dyu, gir/pur/dvAr, krozwu, candramas, yuj, Buj, kzuD/samiD, vftrahan/han/maGavan
+    if word in ("anaquh", "anaqvat") or word.endswith("anaquh"):
+        return ["anaquh_m"]
+    if word in ("div", "dyu") or word.endswith("div") or word.endswith("dyu"):
+        return ["div_f", "div_m"] if gender is None else (["div_f"] if gender == "f" else ["div_m"])
+    if word == "gir" or word.endswith("gir"):
+        return ["gir_f", "r_f"]
+    if word == "pur" or word.endswith("pur"):
+        return ["pur_f", "r_f"]
+    if word == "dvAr" or word.endswith("dvAr") or (word.endswith("r") and gender == "f"):
+        return ["r_f"]
+    if word in ("prAYc", "prAc") or word.endswith("prAYc") or word.endswith("prAc"):
+        return ["pranc_m"]
+    if word in ("pratyaYc", "pratIc") or word.endswith("pratyaYc") or word.endswith("pratIc"):
+        return ["pratyanc_m"]
+    if word in ("udaYc", "udIc") or word.endswith("udaYc") or word.endswith("udIc"):
+        return ["udanc_m"]
+    if word == "krozwu" or word.endswith("krozwu"):
+        return ["krozwu_m", "u_m"]
+    if word == "candramas" or word.endswith("candramas"):
+        return ["candramas_m", "as_m"]
+    if word == "yuj":
+        return ["yuj_m", "j_m"]
+    if word == "Buj" or word.endswith("Buj"):
+        return ["Buj_f"] if gender == "f" else ["Buj_m"] if gender == "m" else ["Buj_m", "Buj_f"]
+    if word == "kzuD" or word.endswith("kzuD"):
+        return ["kzuD_f", "dh_f"]
+    if (word.endswith("D") or word.endswith("dh")) and gender == "f":
+        return ["dh_f"]
+    if word == "vftrahan" or word.endswith("vftrahan"):
+        return ["vftrahan_m", "han_m"]
+    if word.endswith("han") and (gender is None or gender == "m"):
+        return ["han_m"]
+    if word == "maGavan" or word.endswith("maGavan"):
+        return ["maghavan_m"]
+
+    # other irregulars: ahan, pums, Svan, yuvan, ap, diS
     if word == "ahan" or word.endswith("ahan"):
         return ["ahan_n"]
     if word in ("pums", "pumAMs") or word.endswith("pums"):
@@ -1872,6 +2185,8 @@ _ALLOW_EMPTY_BASE_PARADIGMS = {
     "pums_m", "svan_m", "yuvan_m", "mahat_m", "mahat_n", "vidvas_m", "bhavat_m",
     "sri_f", "bhu_f", "stri_f", "lakzmi_f", "nau_f", "glau_m", "rai_m", "rai_f",
     "ap_f", "dis_f", "dis_m",
+    "anaquh_m", "div_f", "div_m", "krozwu_m", "candramas_m", "yuj_m", "Buj_m", "Buj_f",
+    "kzuD_f", "vftrahan_m", "maghavan_m", "pranc_m", "pratyanc_m", "udanc_m", "gir_f", "pur_f",
 }
 
 def analyze_form(word: str, limit: int = 20, loose: bool = True) -> list[dict[str, Any]]:

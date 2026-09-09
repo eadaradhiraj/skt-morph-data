@@ -546,6 +546,168 @@ class TestSubanta(unittest.TestCase):
         self.assertIn("BUtvA", to_csv(avyaya_res))
         self.assertIn("BUtvA", to_anki(avyaya_res))
 
+    def test_nr_declension(self):
+        """Test nf (man, m.) - Panini 6.4.11-12."""
+        res = decline("nf", gender="m")["forms"]
+        self.assertEqual(res["prathamA"], ["nA", "narO", "naraH"])
+        self.assertEqual(res["dvitIyA"], ["naram", "narO", "nfn"])
+        self.assertEqual(res["tftIyA"], ["nrA", "nfByAm", "nfBiH"])
+        self.assertEqual(res["caturTI"], ["nre", "nfByAm", "nfByaH"])
+        self.assertEqual(res["paYcamI"], ["nuH", "nfByAm", "nfByaH"])
+        self.assertEqual(res["zazWI"], ["nuH", "nroH", "nfRAm / nFRAM"])
+        self.assertEqual(res["saptamI"], ["nari", "nroH", "nfzu"])
+        self.assertEqual(res["saMboDana"], ["nar / naH", "narO", "naraH"])
+
+        # Reverse analysis
+        an = analyze_form("nA")
+        self.assertTrue(any(h["lemma"] == "nf" and h["vibhakti"] == "prathamA" for h in an))
+        an_acc = analyze_form("nfn")
+        self.assertTrue(any(h["lemma"] == "nf" and h["vibhakti"] == "dvitIyA" for h in an_acc))
+
+    def test_pad_pat_pada_declension(self):
+        """Test pad / pat / pada standalone and compounds."""
+        # Masculine: pAt, padO, padaH
+        pad_m = decline("pad", gender="m")["forms"]
+        pat_m = decline("pat", gender="m")["forms"]
+        pada_m = decline("pada", gender="m")["forms"]
+        self.assertEqual(pad_m["prathamA"], ["pAt", "padO", "padaH"])
+        self.assertEqual(pat_m["prathamA"], ["pAt", "padO", "padaH"])
+        self.assertEqual(pada_m["prathamA"], ["pAt", "padO", "padaH"])
+        self.assertEqual(pad_m["saptamI"], ["padi", "padoH", "patsu"])
+
+        # Feminine: pat, padO, padaH
+        pad_f = decline("pad", gender="f")["forms"]
+        pat_f = decline("pat", gender="f")["forms"]
+        self.assertEqual(pad_f["prathamA"], ["pat", "padO", "padaH"])
+        self.assertEqual(pat_f["prathamA"], ["pat", "padO", "padaH"])
+        self.assertEqual(pad_f["saptamI"], ["padi", "padoH", "patsu"])
+
+        # Compounds
+        dvipad_m = decline("dvipad", gender="m")["forms"]
+        dvipat_m = decline("dvipat", gender="m")["forms"]
+        self.assertEqual(dvipad_m["prathamA"], ["dvipAt", "dvipadO", "dvipadaH"])
+        self.assertEqual(dvipat_m["prathamA"], ["dvipAt", "dvipadO", "dvipadaH"])
+
+        # Reverse analysis
+        an_pat = analyze_form("pAt")
+        self.assertTrue(any(h["lemma"] == "pad" and h["gender"] == "m" for h in an_pat))
+
+    def test_h_stems_and_velar_nouns(self):
+        """Test root consonant nouns in -h (duh, lih, druh), dfS, spfS, and tiryac."""
+        # duh (Grassmann throwback)
+        duh_m = decline("duh", gender="m")["forms"]
+        self.assertEqual(duh_m["prathamA"], ["Duk / Dug", "duhO", "duhaH"])
+        self.assertEqual(duh_m["tftIyA"], ["duhA", "DugByAm", "DugBiH"])
+        self.assertEqual(duh_m["saptamI"], ["duhi", "duhoH", "Dukzu"])
+
+        kduh = decline("kAmaduh", gender="m")["forms"]
+        self.assertEqual(kduh["prathamA"], ["kAmaDuk / kAmaDug", "kAmaduhO", "kAmaduhaH"])
+        self.assertEqual(kduh["tftIyA"], ["kAmaduhA", "kAmaDugByAm", "kAmaDugBiH"])
+
+        # lih (cerebral)
+        lih_m = decline("lih", gender="m")["forms"]
+        self.assertEqual(lih_m["prathamA"], ["liw / liq", "lihO", "lihaH"])
+        self.assertEqual(lih_m["saptamI"], ["lihi", "lihoH", "liwsu"])
+        mlih = decline("maDulih", gender="m")["forms"]
+        self.assertEqual(mlih["prathamA"], ["maDuliw / maDuliq", "maDulihO", "maDulihaH"])
+
+        # druh (optional gh/dh)
+        druh_m = decline("druh", gender="m")["forms"]
+        self.assertIn("Druk / Drug / Druw / Druq", druh_m["prathamA"][0])
+
+        # dfS (velar)
+        tadrs = decline("tAdfS", gender="m")["forms"]
+        self.assertEqual(tadrs["prathamA"], ["tAdfk / tAdfg", "tAdfSO", "tAdfSaH"])
+        self.assertEqual(tadrs["tftIyA"], ["tAdfSA", "tAdfgByAm", "tAdfgBiH"])
+        self.assertEqual(tadrs["saptamI"], ["tAdfSi", "tAdfSoH", "tAdfkzu"])
+
+        # spfS (velar)
+        spfs = decline("spfS", gender="m")["forms"]
+        self.assertEqual(spfs["prathamA"], ["spfk / spfg", "spfSO", "spfSaH"])
+
+        # tiryac (Panini 6.4.113)
+        tir_m = decline("tiryac", gender="m")["forms"]
+        self.assertEqual(tir_m["prathamA"], ["tiryaN", "tiryaYcO", "tiryaYcaH"])
+        self.assertEqual(tir_m["dvitIyA"], ["tiryaYcam", "tiryaYcO", "tiraScaH"])
+        self.assertEqual(tir_m["tftIyA"], ["tiraScA", "tiryakByAm / tiryagByAm", "tiryakBiH / tiryagBiH"])
+        self.assertEqual(tir_m["saptamI"], ["tiraSci", "tiraScoH", "tiryakzu"])
+
+        tir_n = decline("tiryac", gender="n")["forms"]
+        self.assertEqual(tir_n["prathamA"], ["tiryak", "tiraScI", "tiryaYci"])
+        self.assertEqual(tir_n["dvitIyA"], ["tiryak", "tiraScI", "tiryaYci"])
+
+        # Reverse analysis
+        self.assertTrue(any(h["lemma"] == "duh" for h in analyze_form("Duk")))
+        self.assertTrue(any(h["lemma"] == "tiryac" for h in analyze_form("tiryaN")))
+
+    def test_paddan_adi_optional_stems(self):
+        """Test paddan-Adi optional substitutions (Panini 6.1.63)."""
+        danta = decline("danta", gender="m")["forms"]
+        self.assertIn("dantAn / dataH", danta["dvitIyA"][2])
+        self.assertIn("dantena / datA", danta["tftIyA"][0])
+        self.assertIn("dantAByAm / dadByAm", danta["tftIyA"][1])
+        self.assertIn("dantezu / datsu", danta["saptamI"][2])
+
+        mAsa = decline("mAsa", gender="m")["forms"]
+        self.assertIn("mAsena / mAsA", mAsa["tftIyA"][0])
+        self.assertIn("mAsoByAm", mAsa["tftIyA"][1])
+
+        hfdaya = decline("hfdaya", gender="n")["forms"]
+        self.assertIn("hfdayena / hfdA", hfdaya["tftIyA"][0])
+        self.assertIn("hfdayezu / hftsu", hfdaya["saptamI"][2])
+
+        pAda = decline("pAda", gender="m")["forms"]
+        self.assertIn("pAdAn / padaH", pAda["dvitIyA"][2])
+        self.assertIn("pAdena / padA", pAda["tftIyA"][0])
+
+        niSA = decline("niSA", gender="f")["forms"]
+        self.assertIn("niSayA / niSA", niSA["tftIyA"][0])
+        self.assertIn("nigByAm", niSA["tftIyA"][1])
+
+        udaka = decline("udaka", gender="n")["forms"]
+        self.assertIn("udakena / udnA", udaka["tftIyA"][0])
+        self.assertIn("udani / udni", udaka["saptamI"][0])
+
+        # Reverse analysis mappings
+        self.assertTrue(any(h["lemma"] == "danta" for h in analyze_form("datA")))
+        self.assertTrue(any(h["lemma"] == "hfdaya" for h in analyze_form("hfdA")))
+        self.assertTrue(any(h["lemma"] == "mAsa" for h in analyze_form("mAsA")))
+        self.assertTrue(any(h["lemma"] == "niSA" for h in analyze_form("nigByAm")))
+        self.assertTrue(any(h["lemma"] == "udaka" for h in analyze_form("udnA")))
+
+    def test_sarvanamas_and_numerals_20_99(self):
+        """Test sama, sIma, nema, praTama-adi, and 20-99 singular feminine only."""
+        # sama, sIma, nema
+        sama = decline("sama", gender="m")["forms"]
+        self.assertEqual(sama["prathamA"], ["samaH", "samO", "same"])
+        self.assertEqual(sama["caturTI"], ["samasmE", "samAByAm", "sameByaH"])
+
+        sIma = decline("sIma", gender="m")["forms"]
+        self.assertEqual(sIma["caturTI"], ["sImasmE", "sImAByAm", "sImeByaH"])
+
+        nema = decline("nema", gender="m")["forms"]
+        self.assertEqual(nema["caturTI"], ["nemasmE", "nemAByAm", "nemeByaH"])
+
+        # praTama / carama optional Jas plural
+        prath = decline("praTama", gender="m")["forms"]
+        self.assertEqual(prath["prathamA"][2], "praTamAH / praTame")
+        cara = decline("carama", gender="m")["forms"]
+        self.assertEqual(cara["prathamA"][2], "caramAH / carame")
+
+        # viMSati to 99 singular feminine only (viMSatyAdayaH sadaikatve strItvam)
+        v = decline("viMSati")
+        self.assertEqual(list(v["genders"].keys()), ["f"])
+        self.assertEqual(v["genders"]["f"]["prathamA"], ["viMSatiH", "-", "-"])
+        self.assertEqual(v["genders"]["f"]["tftIyA"], ["viMSatyA", "-", "-"])
+
+        t30 = decline("triMSat")
+        self.assertEqual(list(t30["genders"].keys()), ["f"])
+        self.assertEqual(t30["genders"]["f"]["prathamA"], ["triMSat", "-", "-"])
+
+        z60 = decline("zazwi")
+        self.assertEqual(list(z60["genders"].keys()), ["f"])
+        self.assertEqual(z60["genders"]["f"]["prathamA"], ["zazwiH", "-", "-"])
+
 
 if __name__ == "__main__":
     unittest.main()

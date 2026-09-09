@@ -1146,6 +1146,206 @@ _register("maghavan_m", "maGavan", "m", "an-kArAnta puMliNga (maGavan - Indra) -
     "saMboDana": ["maGavan", "maGavAntO", "maGavAntaH"],
 })
 
+# nf (man, m.) - Panini 6.4.11-12 (guRa in sarvanAmasTAna, optional dirgha in zazWI bahuvacana)
+_register("nr_m", "nf", "m", "f-kArAnta puMliNga (nf - man) - irregular (Panini 6.4.11-12)", {
+    "prathamA": ["nA", "narO", "naraH"],
+    "dvitIyA": ["naram", "narO", "nfn"],
+    "tftIyA": ["nrA", "nfByAm", "nfBiH"],
+    "caturTI": ["nre", "nfByAm", "nfByaH"],
+    "paYcamI": ["nuH", "nfByAm", "nfByaH"],
+    "zazWI": ["nuH", "nroH", "nfRAm / nFRAM"],
+    "saptamI": ["nari", "nroH", "nfzu"],
+    "saMboDana": ["nar / naH", "narO", "naraH"],
+})
+
+# pad / pat (foot, m.) - Panini 6.4.130 pAdaH pat
+_register("pad_m", "pad", "m", "d-kArAnta puMliNga (pad - foot) - irregular (Panini 6.4.130)", {
+    "prathamA": ["pAt", "padO", "padaH"],
+    "dvitIyA": ["padam", "padO", "padaH"],
+    "tftIyA": ["padA", "padByAm", "padBiH"],
+    "caturTI": ["pade", "padByAm", "padByaH"],
+    "paYcamI": ["padaH", "padByAm", "padByaH"],
+    "zazWI": ["padaH", "padoH", "padAm"],
+    "saptamI": ["padi", "padoH", "patsu"],
+    "saMboDana": ["pAt", "padO", "padaH"],
+})
+
+# duh (milker, m/f) - Panini 8.2.32, 8.2.37 (dāder dhātor ghaḥ + Grassmann throwback bhaṣ)
+_register("duh_m", "duh", "m", "h-kArAnta puMliNga (duh - milker) - throwback aspiration (Panini 8.2.32, 8.2.37)", {
+    "prathamA": ["Duk / Dug", "duhO", "duhaH"],
+    "dvitIyA": ["duham", "duhO", "duhaH"],
+    "tftIyA": ["duhA", "DugByAm", "DugBiH"],
+    "caturTI": ["duhe", "DugByAm", "DugByaH"],
+    "paYcamI": ["duhaH", "DugByAm", "DugByaH"],
+    "zazWI": ["duhaH", "duhoH", "duhAm"],
+    "saptamI": ["duhi", "duhoH", "Dukzu"],
+    "saMboDana": ["Duk / Dug", "duhO", "duhaH"],
+})
+_register("duh_f", "duh", "f", "h-kArAnta strIliNga (duh - milker) - throwback aspiration (Panini 8.2.32, 8.2.37)", {
+    "prathamA": ["Duk / Dug", "duhO", "duhaH"],
+    "dvitIyA": ["duham", "duhO", "duhaH"],
+    "tftIyA": ["duhA", "DugByAm", "DugBiH"],
+    "caturTI": ["duhe", "DugByAm", "DugByaH"],
+    "paYcamI": ["duhaH", "DugByAm", "DugByaH"],
+    "zazWI": ["duhaH", "duhoH", "duhAm"],
+    "saptamI": ["duhi", "duhoH", "Dukzu"],
+    "saMboDana": ["Duk / Dug", "duhO", "duhaH"],
+})
+
+# lih (licker, m/f) - Panini 8.2.31 ho ḍhaḥ -> liṭ/liḍ
+_register("lih_m", "lih", "m", "h-kArAnta puMliNga (lih - licker) - cerebral (Panini 8.2.31)", {
+    "prathamA": ["liw / liq", "lihO", "lihaH"],
+    "dvitIyA": ["liham", "lihO", "lihaH"],
+    "tftIyA": ["lihA", "liqByAm", "liqBiH"],
+    "caturTI": ["lihe", "liqByAm", "liqByaH"],
+    "paYcamI": ["lihaH", "liqByAm", "liqByaH"],
+    "zazWI": ["lihaH", "lihoH", "lihAm"],
+    "saptamI": ["lihi", "lihoH", "liwsu"],
+    "saMboDana": ["liw / liq", "lihO", "lihaH"],
+})
+_register("lih_f", "lih", "f", "h-kArAnta strIliNga (lih - licker) - cerebral (Panini 8.2.31)", {
+    "prathamA": ["liw / liq", "lihO", "lihaH"],
+    "dvitIyA": ["liham", "lihO", "lihaH"],
+    "tftIyA": ["lihA", "liqByAm", "liqBiH"],
+    "caturTI": ["lihe", "liqByAm", "liqByaH"],
+    "paYcamI": ["lihaH", "liqByAm", "liqByaH"],
+    "zazWI": ["lihaH", "lihoH", "lihAm"],
+    "saptamI": ["lihi", "lihoH", "liwsu"],
+    "saMboDana": ["liw / liq", "lihO", "lihaH"],
+})
+
+# druh (enemy, m/f) - Panini 8.2.33 vā droha-moha-snehānucidām (optional gh/ḍh with throwback aspiration)
+_register("druh_m", "druh", "m", "h-kArAnta puMliNga (druh - enemy) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["Druk / Drug / Druw / Druq", "druhO", "druhaH"],
+    "dvitIyA": ["druham", "druhO", "druhaH"],
+    "tftIyA": ["druhA", "DrugByAm / DruqByAm", "DrugBiH / DruqBiH"],
+    "caturTI": ["druhe", "DrugByAm / DruqByAm", "DrugByaH / DruqByaH"],
+    "paYcamI": ["druhaH", "DrugByAm / DruqByAm", "DrugByaH / DruqByaH"],
+    "zazWI": ["druhaH", "druhoH", "druhAm"],
+    "saptamI": ["druhi", "druhoH", "Drukzu / Druwsu"],
+    "saMboDana": ["Druk / Drug / Druw / Druq", "druhO", "druhaH"],
+})
+_register("druh_f", "druh", "f", "h-kArAnta strIliNga (druh - enemy) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["Druk / Drug / Druw / Druq", "druhO", "druhaH"],
+    "dvitIyA": ["druham", "druhO", "druhaH"],
+    "tftIyA": ["druhA", "DrugByAm / DruqByAm", "DrugBiH / DruqBiH"],
+    "caturTI": ["druhe", "DrugByAm / DruqByAm", "DrugByaH / DruqByaH"],
+    "paYcamI": ["druhaH", "DrugByAm / DruqByAm", "DrugByaH / DruqByaH"],
+    "zazWI": ["druhaH", "druhoH", "druhAm"],
+    "saptamI": ["druhi", "druhoH", "Drukzu / Druwsu"],
+    "saMboDana": ["Druk / Drug / Druw / Druq", "druhO", "druhaH"],
+})
+
+# muh (confused, m/f) - Panini 8.2.33
+_register("muh_m", "muh", "m", "h-kArAnta puMliNga (muh - bewildered) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["muk / mug / muw / muq", "muhO", "muhaH"],
+    "dvitIyA": ["muham", "muhO", "muhaH"],
+    "tftIyA": ["muhA", "mugByAm / muqByAm", "mugBiH / muqBiH"],
+    "caturTI": ["muhe", "mugByAm / muqByAm", "mugByaH / muqByaH"],
+    "paYcamI": ["muhaH", "mugByAm / muqByAm", "mugByaH / muqByaH"],
+    "zazWI": ["muhaH", "muhoH", "muhAm"],
+    "saptamI": ["muhi", "muhoH", "mukzu / muwsu"],
+    "saMboDana": ["muk / mug / muw / muq", "muhO", "muhaH"],
+})
+_register("muh_f", "muh", "f", "h-kArAnta strIliNga (muh - bewildered) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["muk / mug / muw / muq", "muhO", "muhaH"],
+    "dvitIyA": ["muham", "muhO", "muhaH"],
+    "tftIyA": ["muhA", "mugByAm / muqByAm", "mugBiH / muqBiH"],
+    "caturTI": ["muhe", "mugByAm / muqByAm", "mugByaH / muqByaH"],
+    "paYcamI": ["muhaH", "mugByAm / muqByAm", "mugByaH / muqByaH"],
+    "zazWI": ["muhaH", "muhoH", "muhAm"],
+    "saptamI": ["muhi", "muhoH", "mukzu / muwsu"],
+    "saMboDana": ["muk / mug / muw / muq", "muhO", "muhaH"],
+})
+
+# snih (affectionate, m/f) - Panini 8.2.33
+_register("snih_m", "snih", "m", "h-kArAnta puMliNga (snih - attached) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["snik / snig / sniw / sniq", "snihO", "snihaH"],
+    "dvitIyA": ["sniham", "snihO", "snihaH"],
+    "tftIyA": ["snihA", "snigByAm / sniqByAm", "snigBiH / sniqBiH"],
+    "caturTI": ["snihe", "snigByAm / sniqByAm", "snigByaH / sniqByaH"],
+    "paYcamI": ["snihaH", "snigByAm / sniqByAm", "snigByaH / sniqByaH"],
+    "zazWI": ["snihaH", "snihoH", "snihAm"],
+    "saptamI": ["snihi", "snihoH", "snikzu / sniwsu"],
+    "saMboDana": ["snik / snig / sniw / sniq", "snihO", "snihaH"],
+})
+_register("snih_f", "snih", "f", "h-kArAnta strIliNga (snih - attached) - optional gh/dh (Panini 8.2.33)", {
+    "prathamA": ["snik / snig / sniw / sniq", "snihO", "snihaH"],
+    "dvitIyA": ["sniham", "snihO", "snihaH"],
+    "tftIyA": ["snihA", "snigByAm / sniqByAm", "snigBiH / sniqBiH"],
+    "caturTI": ["snihe", "snigByAm / sniqByAm", "snigByaH / sniqByaH"],
+    "paYcamI": ["snihaH", "snigByAm / sniqByAm", "snigByaH / sniqByaH"],
+    "zazWI": ["snihaH", "snihoH", "snihAm"],
+    "saptamI": ["snihi", "snihoH", "snikzu / sniwsu"],
+    "saMboDana": ["snik / snig / sniw / sniq", "snihO", "snihaH"],
+})
+
+# dfS (seeing, m/f) - Panini 8.2.36, 8.2.62 (velar k/g)
+_register("drs_m", "dfS", "m", "S-kArAnta puMliNga (dfS - seeing) - velar (Panini 8.2.36, 8.2.62)", {
+    "prathamA": ["dfk / dfg", "dfSO", "dfSaH"],
+    "dvitIyA": ["dfSam", "dfSO", "dfSaH"],
+    "tftIyA": ["dfSA", "dfgByAm", "dfgBiH"],
+    "caturTI": ["dfSe", "dfgByAm", "dfgByaH"],
+    "paYcamI": ["dfSaH", "dfgByAm", "dfgByaH"],
+    "zazWI": ["dfSaH", "dfSoH", "dfSAm"],
+    "saptamI": ["dfSi", "dfSoH", "dfkzu"],
+    "saMboDana": ["dfk / dfg", "dfSO", "dfSaH"],
+})
+_register("drs_f", "dfS", "f", "S-kArAnta strIliNga (dfS - eye/sight) - velar (Panini 8.2.36, 8.2.62)", {
+    "prathamA": ["dfk / dfg", "dfSO", "dfSaH"],
+    "dvitIyA": ["dfSam", "dfSO", "dfSaH"],
+    "tftIyA": ["dfSA", "dfgByAm", "dfgBiH"],
+    "caturTI": ["dfSe", "dfgByAm", "dfgByaH"],
+    "paYcamI": ["dfSaH", "dfgByAm", "dfgByaH"],
+    "zazWI": ["dfSaH", "dfSoH", "dfSAm"],
+    "saptamI": ["dfSi", "dfSoH", "dfkzu"],
+    "saMboDana": ["dfk / dfg", "dfSO", "dfSaH"],
+})
+
+# spfS (touching, m/f) - Panini 8.2.36, 8.2.62 (velar k/g)
+_register("spfs_m", "spfS", "m", "S-kArAnta puMliNga (spfS - touching) - velar (Panini 8.2.36, 8.2.62)", {
+    "prathamA": ["spfk / spfg", "spfSO", "spfSaH"],
+    "dvitIyA": ["spfSam", "spfSO", "spfSaH"],
+    "tftIyA": ["spfSA", "spfgByAm", "spfgBiH"],
+    "caturTI": ["spfSe", "spfgByAm", "spfgByaH"],
+    "paYcamI": ["spfSaH", "spfgByAm", "spfgByaH"],
+    "zazWI": ["spfSaH", "spfSoH", "spfSAm"],
+    "saptamI": ["spfSi", "spfSoH", "spfkzu"],
+    "saMboDana": ["spfk / spfg", "spfSO", "spfSaH"],
+})
+_register("spfs_f", "spfS", "f", "S-kArAnta strIliNga (spfS - touching) - velar (Panini 8.2.36, 8.2.62)", {
+    "prathamA": ["spfk / spfg", "spfSO", "spfSaH"],
+    "dvitIyA": ["spfSam", "spfSO", "spfSaH"],
+    "tftIyA": ["spfSA", "spfgByAm", "spfgBiH"],
+    "caturTI": ["spfSe", "spfgByAm", "spfgByaH"],
+    "paYcamI": ["spfSaH", "spfgByAm", "spfgByaH"],
+    "zazWI": ["spfSaH", "spfSoH", "spfSAm"],
+    "saptamI": ["spfSi", "spfSoH", "spfkzu"],
+    "saMboDana": ["spfk / spfg", "spfSO", "spfSaH"],
+})
+
+# tiryac / tiraYc (transverse/animal, m/n) - Panini 6.4.113 tiryacas tiryateḥ
+_register("tiryac_m", "tiryac", "m", "ac-kArAnta puMliNga (tiryac - animal) - Panini 6.4.113", {
+    "prathamA": ["tiryaN", "tiryaYcO", "tiryaYcaH"],
+    "dvitIyA": ["tiryaYcam", "tiryaYcO", "tiraScaH"],
+    "tftIyA": ["tiraScA", "tiryakByAm / tiryagByAm", "tiryakBiH / tiryagBiH"],
+    "caturTI": ["tiraSce", "tiryakByAm / tiryagByAm", "tiryakByaH / tiryagByaH"],
+    "paYcamI": ["tiraScaH", "tiryakByAm / tiryagByAm", "tiryakByaH / tiryagByaH"],
+    "zazWI": ["tiraScaH", "tiraScoH", "tiraScAm"],
+    "saptamI": ["tiraSci", "tiraScoH", "tiryakzu"],
+    "saMboDana": ["tiryaN", "tiryaYcO", "tiryaYcaH"],
+})
+_register("tiryac_n", "tiryac", "n", "ac-kArAnta napuMsakaliNga (tiryac) - Panini 6.4.113", {
+    "prathamA": ["tiryak", "tiraScI", "tiryaYci"],
+    "dvitIyA": ["tiryak", "tiraScI", "tiryaYci"],
+    "tftIyA": ["tiraScA", "tiryakByAm / tiryagByAm", "tiryakBiH / tiryagBiH"],
+    "caturTI": ["tiraSce", "tiryakByAm / tiryagByAm", "tiryakByaH / tiryagByaH"],
+    "paYcamI": ["tiraScaH", "tiryakByAm / tiryagByAm", "tiryakByaH / tiryagByaH"],
+    "zazWI": ["tiraScaH", "tiraScoH", "tiraScAm"],
+    "saptamI": ["tiraSci", "tiraScoH", "tiryakzu"],
+    "saMboDana": ["tiryak", "tiraScI", "tiryaYci"],
+})
+
 # generic consonant fallback
 _GENERIC_CONS_TABLE = {
     "prathamA": ["", "O", "aH"],
@@ -1448,7 +1648,7 @@ def _add_pronoun_suf(base: str, suf: str) -> str:
         return " / ".join(apply_natva(base + p.strip()) for p in suf.split("/"))
     return apply_natva(base + suf)
 
-for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "dakziRa", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva", "antara"]:
+for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "dakziRa", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva", "antara", "sama", "sIma", "nema"]:
     if _w == "uBa":
         PRONOUNS[_w] = {
             "m": {"prathamA": ["-", "uBO", "-"], "dvitIyA": ["-", "uBO", "-"], "tftIyA": ["-", "uBAByAm", "-"], "caturTI": ["-", "uBAByAm", "-"], "paYcamI": ["-", "uBAByAm", "-"], "zazWI": ["-", "uBayoH", "-"], "saptamI": ["-", "uBayoH", "-"], "saMboDana": ["-", "uBO", "-"]},
@@ -1710,29 +1910,29 @@ _azwan_table = {
 }
 NUMERALS["azwan"] = NUMERALS["azwa"] = NUMERALS["azwO"] = {"m": _azwan_table, "f": _azwan_table, "n": _azwan_table}
 
-# Higher numerals: viMSati etc. are feminine nouns (decline fully)
+# Higher numerals: viMSati etc. are feminine nouns, singular only (viMSatyAdayaH sadaikatve strItvam)
 _viMSati_full = {
-    "prathamA": ["viMSatiH", "viMSatI", "viMSatayaH"],
-    "dvitIyA": ["viMSatim", "viMSatI", "viMSatIH"],
-    "tftIyA": ["viMSatyA", "viMSatiByAm", "viMSatiBiH"],
-    "caturTI": ["viMSataye", "viMSatiByAm", "viMSatiByaH"],
-    "paYcamI": ["viMSateH", "viMSatiByAm", "viMSatiByaH"],
-    "zazWI": ["viMSateH", "viMSatyoH", "viMSatInAm"],
-    "saptamI": ["viMSatO", "viMSatyoH", "viMSatizu"],
-    "saMboDana": ["viMSate", "viMSatI", "viMSatayaH"],
+    "prathamA": ["viMSatiH", "-", "-"],
+    "dvitIyA": ["viMSatim", "-", "-"],
+    "tftIyA": ["viMSatyA", "-", "-"],
+    "caturTI": ["viMSataye", "-", "-"],
+    "paYcamI": ["viMSateH", "-", "-"],
+    "zazWI": ["viMSateH", "-", "-"],
+    "saptamI": ["viMSatO", "-", "-"],
+    "saMboDana": ["viMSate", "-", "-"],
 }
-NUMERALS["viMSati"] = {"f": _viMSati_full, "m": _viMSati_full, "n": _viMSati_full}
+NUMERALS["viMSati"] = {"f": _viMSati_full}
 
-# triMSat (30) – at-stem f (triMSat) full
+# triMSat (30) – at-stem f (triMSat), singular only
 _triMSat_full = {
-    "prathamA": ["triMSat", "triMSatO", "triMSataH"],
-    "dvitIyA": ["triMSatam", "triMSatO", "triMSataH"],
-    "tftIyA": ["triMSatA", "triMSadByAm", "triMSadBiH"],
-    "caturTI": ["triMSate", "triMSadByAm", "triMSadByaH"],
-    "paYcamI": ["triMSataH", "triMSadByAm", "triMSadByaH"],
-    "zazWI": ["triMSataH", "triMSatoH", "triMSatAm"],
-    "saptamI": ["triMSati", "triMSatoH", "triMSatsu"],
-    "saMboDana": ["triMSat", "triMSatO", "triMSataH"],
+    "prathamA": ["triMSat", "-", "-"],
+    "dvitIyA": ["triMSatam", "-", "-"],
+    "tftIyA": ["triMSatA", "-", "-"],
+    "caturTI": ["triMSate", "-", "-"],
+    "paYcamI": ["triMSataH", "-", "-"],
+    "zazWI": ["triMSataH", "-", "-"],
+    "saptamI": ["triMSati", "-", "-"],
+    "saMboDana": ["triMSat", "-", "-"],
 }
 for _h in ["triMSat", "catvAriMSat", "paYcASat"]:
     stem = _h[:-1]
@@ -1740,19 +1940,21 @@ for _h in ["triMSat", "catvAriMSat", "paYcASat"]:
     for _vib, _vals in _triMSat_full.items():
         new_vals = []
         for v in _vals:
-            if v.startswith("triMSa"):
+            if v == "-":
+                new_vals.append("-")
+            elif v.startswith("triMSa"):
                 new_vals.append(stem + v[6:])
             else:
                 new_vals.append(v.replace("triMSat", _h))
         _tbl[_vib] = new_vals
-    NUMERALS[_h] = {"f": _tbl, "m": _tbl, "n": _tbl}
+    NUMERALS[_h] = {"f": _tbl}
 
 for _h in ["zazwi", "saptati", "aSIti", "navati"]:
     stem_base = _h[:-1]
     _tbl = {}
     for _vib, _vals in _viMSati_full.items():
         _tbl[_vib] = [v.replace("viMSat", stem_base, 1) if v.startswith("viMSat") else v for v in _vals]
-    NUMERALS[_h] = {"f": _tbl, "m": _tbl, "n": _tbl}
+    NUMERALS[_h] = {"f": _tbl}
 
 _Satam_full = {
     "prathamA": ["Satam", "Sate", "SatAni"],
@@ -1789,8 +1991,24 @@ def _generate_noun(word: str, paradigm: str) -> dict[str, list[str]]:
     # compute base
     if word.endswith(ending):
         base = word[: -len(ending)] if len(ending) <= len(word) else ""
+    elif paradigm == "pad_m":
+        if word.endswith("pada"):
+            base = word[:-4]
+        elif word.endswith("pad") or word.endswith("pat"):
+            base = word[:-3]
+        else:
+            base = ""
+    elif paradigm == "d_f" and word.endswith("pat"):
+        base = word[:-1]
     elif paradigm in ("div_f", "div_m") and word.endswith("dyu"):
         base = word[:-3]
+    elif paradigm in ("tiryac_m", "tiryac_n"):
+        if word.endswith("tiryac"):
+            base = word[:-6]
+        elif word.endswith("tiraYc"):
+            base = word[:-6]
+        else:
+            base = word
     elif paradigm == "pranc_m" and word.endswith("prAc"):
         base = word[:-4]
     elif paradigm == "pratyanc_m" and word.endswith("pratIc"):
@@ -1939,9 +2157,72 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return ["yuvan_m"]
     if word == "ap":
         return ["ap_f"]
-    if word in ("diS", "dfS", "viS") or word.endswith("diS"):
+    # nf (man) - Panini 6.4.11-12
+    if word == "nf" or word.endswith("nf"):
+        if gender is None or gender == "m":
+            return ["nr_m"]
+
+    # pad / pat / pada (foot)
+    if word in ("pad", "pat") or word.endswith("pad") or word.endswith("pat"):
+        if word in ("sampad", "vipad", "Apad"):
+            return ["d_f"]
+        if gender == "f":
+            return ["d_f"]
+        elif gender == "m":
+            return ["pad_m"]
+        else:
+            return ["pad_m", "d_f"]
+    if word == "pada" or (word.endswith("pada") and gender == "m"):
+        if gender == "m":
+            return ["pad_m", "a_m"]
+        elif gender == "n":
+            return ["a_n"]
+        else:
+            return ["a_n", "pad_m"]
+
+    # root consonant nouns in -h
+    if word == "duh" or word.endswith("duh"):
+        return ["duh_m"] if gender == "m" else ["duh_f"] if gender == "f" else ["duh_m", "duh_f"]
+    if word == "lih" or word.endswith("lih"):
+        return ["lih_m"] if gender == "m" else ["lih_f"] if gender == "f" else ["lih_m", "lih_f"]
+    if word == "druh" or word.endswith("druh"):
+        return ["druh_m"] if gender == "m" else ["druh_f"] if gender == "f" else ["druh_m", "druh_f"]
+    if word == "muh" or word.endswith("muh"):
+        return ["muh_m"] if gender == "m" else ["muh_f"] if gender == "f" else ["muh_m", "muh_f"]
+    if word == "snih" or word.endswith("snih"):
+        return ["snih_m"] if gender == "m" else ["snih_f"] if gender == "f" else ["snih_m", "snih_f"]
+
+    # dfS, spfS, diS, viS
+    if word == "dfS" or word.endswith("dfS"):
+        return ["drs_m"] if gender == "m" else ["drs_f"] if gender == "f" else ["drs_m", "drs_f"]
+    if word == "spfS" or word.endswith("spfS"):
+        return ["spfs_m"] if gender == "m" else ["spfs_f"] if gender == "f" else ["spfs_m", "spfs_f"]
+    if word == "diS" or word.endswith("diS"):
         return ["dis_f"] if gender != "m" else ["dis_m"]
-    if word in ("sampad", "vipad", "Apad") or (word.endswith("pad") and len(word) > 3):
+    if word == "viS" or word.endswith("viS"):
+        return ["dis_m"] if gender == "m" else ["dis_f"]
+
+    # tiryac / tiraYc
+    if word in ("tiryac", "tiraYc") or word.endswith("tiryac") or word.endswith("tiraYc"):
+        if gender == "n":
+            return ["tiryac_n"]
+        elif gender == "m":
+            return ["tiryac_m"]
+        else:
+            return ["tiryac_m", "tiryac_n"]
+
+    # praTama, carama, katipaya, dvitaya, tritaya (Panini 1.1.33)
+    if word in ("praTama", "carama", "katipaya", "dvitaya", "tritaya"):
+        if gender == "m":
+            return ["a_m"]
+        elif gender == "f":
+            return ["A_f"]
+        elif gender == "n":
+            return ["a_n"]
+        else:
+            return ["a_m", "A_f", "a_n"]
+
+    if word in ("sampad", "vipad", "Apad"):
         return ["d_f"]
     if word in ("Bizaj", "ftvij"):
         return ["j_m"]
@@ -2037,6 +2318,177 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
             uniq.append(c)
     return uniq
 
+# Paddan-adi optional consonant stem substitutions (Panini 6.1.63)
+_PADDAN_MAP = {
+    "danta": {
+        ("dvitIyA", 2): "dataH",
+        ("tftIyA", 0): "datA",
+        ("tftIyA", 1): "dadByAm",
+        ("tftIyA", 2): "dadBiH",
+        ("caturTI", 0): "date",
+        ("caturTI", 1): "dadByAm",
+        ("caturTI", 2): "dadByaH",
+        ("paYcamI", 0): "dataH",
+        ("paYcamI", 1): "dadByAm",
+        ("paYcamI", 2): "dadByaH",
+        ("zazWI", 0): "dataH",
+        ("zazWI", 1): "datoH",
+        ("zazWI", 2): "datAm",
+        ("saptamI", 0): "dati",
+        ("saptamI", 1): "datoH",
+        ("saptamI", 2): "datsu",
+    },
+    "mAsa": {
+        ("dvitIyA", 2): "mAsaH",
+        ("tftIyA", 0): "mAsA",
+        ("tftIyA", 1): "mAsoByAm",
+        ("tftIyA", 2): "mAsoBiH",
+        ("caturTI", 0): "mAse",
+        ("caturTI", 1): "mAsoByAm",
+        ("caturTI", 2): "mAseByaH",
+        ("paYcamI", 0): "mAsaH",
+        ("paYcamI", 1): "mAsoByAm",
+        ("paYcamI", 2): "mAseByaH",
+        ("zazWI", 0): "mAsaH",
+        ("zazWI", 1): "mAsoH",
+        ("zazWI", 2): "mAsAm",
+        ("saptamI", 0): "mAsi",
+        ("saptamI", 1): "mAsoH",
+        ("saptamI", 2): "mAssu / mAHsu",
+    },
+    "hfdaya": {
+        ("dvitIyA", 2): "hfdaH",
+        ("tftIyA", 0): "hfdA",
+        ("tftIyA", 1): "hfdByAm",
+        ("tftIyA", 2): "hfdBiH",
+        ("caturTI", 0): "hfde",
+        ("caturTI", 1): "hfdByAm",
+        ("caturTI", 2): "hfdByaH",
+        ("paYcamI", 0): "hfdaH",
+        ("paYcamI", 1): "hfdByAm",
+        ("paYcamI", 2): "hfdByaH",
+        ("zazWI", 0): "hfdaH",
+        ("zazWI", 1): "hfdoH",
+        ("zazWI", 2): "hfdAm",
+        ("saptamI", 0): "hfdi",
+        ("saptamI", 1): "hfdoH",
+        ("saptamI", 2): "hftsu",
+    },
+    "pAda": {
+        ("dvitIyA", 2): "padaH",
+        ("tftIyA", 0): "padA",
+        ("tftIyA", 1): "padByAm",
+        ("tftIyA", 2): "padBiH",
+        ("caturTI", 0): "pade",
+        ("caturTI", 1): "padByAm",
+        ("caturTI", 2): "padByaH",
+        ("paYcamI", 0): "padaH",
+        ("paYcamI", 1): "padByAm",
+        ("paYcamI", 2): "padByaH",
+        ("zazWI", 0): "padaH",
+        ("zazWI", 1): "padoH",
+        ("zazWI", 2): "padAm",
+        ("saptamI", 0): "padi",
+        ("saptamI", 1): "padoH",
+        ("saptamI", 2): "patsu",
+    },
+    "niSA": {
+        ("dvitIyA", 2): "niSaH",
+        ("tftIyA", 0): "niSA",
+        ("tftIyA", 1): "nigByAm",
+        ("tftIyA", 2): "nigBiH",
+        ("caturTI", 0): "niSe",
+        ("caturTI", 1): "nigByAm",
+        ("caturTI", 2): "nigByaH",
+        ("paYcamI", 0): "niSaH",
+        ("paYcamI", 1): "nigByAm",
+        ("paYcamI", 2): "nigByaH",
+        ("zazWI", 0): "niSaH",
+        ("zazWI", 1): "niSoH",
+        ("zazWI", 2): "niSAm",
+        ("saptamI", 0): "niSi",
+        ("saptamI", 1): "niSoH",
+        ("saptamI", 2): "nikzu",
+    },
+    "udaka": {
+        ("tftIyA", 0): "udnA",
+        ("tftIyA", 1): "udaByAm",
+        ("tftIyA", 2): "udaBiH",
+        ("caturTI", 0): "udne",
+        ("caturTI", 1): "udaByAm",
+        ("caturTI", 2): "udaByaH",
+        ("paYcamI", 0): "udnaH",
+        ("paYcamI", 1): "udaByAm",
+        ("paYcamI", 2): "udaByaH",
+        ("zazWI", 0): "udnaH",
+        ("zazWI", 1): "udnoH",
+        ("zazWI", 2): "udnAm",
+        ("saptamI", 0): "udani / udni",
+        ("saptamI", 1): "udnoH",
+        ("saptamI", 2): "udasu",
+    },
+}
+
+_PADDAN_REVERSE: dict[str, list[tuple[str, str, str, str, str]]] = {
+    # dat -> danta (m)
+    "dataH": [("danta", "a_m", "m", "dvitIyA", "bahuvacana"), ("danta", "a_m", "m", "paYcamI", "ekavacana"), ("danta", "a_m", "m", "zazWI", "ekavacana")],
+    "datA": [("danta", "a_m", "m", "tftIyA", "ekavacana")],
+    "dadByAm": [("danta", "a_m", "m", "tftIyA", "dvivacana"), ("danta", "a_m", "m", "caturTI", "dvivacana"), ("danta", "a_m", "m", "paYcamI", "dvivacana")],
+    "dadBiH": [("danta", "a_m", "m", "tftIyA", "bahuvacana")],
+    "date": [("danta", "a_m", "m", "caturTI", "ekavacana")],
+    "dadByaH": [("danta", "a_m", "m", "caturTI", "bahuvacana"), ("danta", "a_m", "m", "paYcamI", "bahuvacana")],
+    "datoH": [("danta", "a_m", "m", "zazWI", "dvivacana"), ("danta", "a_m", "m", "saptamI", "dvivacana")],
+    "datAm": [("danta", "a_m", "m", "zazWI", "bahuvacana")],
+    "dati": [("danta", "a_m", "m", "saptamI", "ekavacana")],
+    "datsu": [("danta", "a_m", "m", "saptamI", "bahuvacana")],
+
+    # hfd -> hfdaya (n)
+    "hfdaH": [("hfdaya", "a_n", "n", "dvitIyA", "bahuvacana"), ("hfdaya", "a_n", "n", "paYcamI", "ekavacana"), ("hfdaya", "a_n", "n", "zazWI", "ekavacana")],
+    "hfdA": [("hfdaya", "a_n", "n", "tftIyA", "ekavacana")],
+    "hfdByAm": [("hfdaya", "a_n", "n", "tftIyA", "dvivacana"), ("hfdaya", "a_n", "n", "caturTI", "dvivacana"), ("hfdaya", "a_n", "n", "paYcamI", "dvivacana")],
+    "hfdBiH": [("hfdaya", "a_n", "n", "tftIyA", "bahuvacana")],
+    "hfde": [("hfdaya", "a_n", "n", "caturTI", "ekavacana")],
+    "hfdByaH": [("hfdaya", "a_n", "n", "caturTI", "bahuvacana"), ("hfdaya", "a_n", "n", "paYcamI", "bahuvacana")],
+    "hfdoH": [("hfdaya", "a_n", "n", "zazWI", "dvivacana"), ("hfdaya", "a_n", "n", "saptamI", "dvivacana")],
+    "hfdAm": [("hfdaya", "a_n", "n", "zazWI", "bahuvacana")],
+    "hfdi": [("hfdaya", "a_n", "n", "saptamI", "ekavacana")],
+    "hftsu": [("hfdaya", "a_n", "n", "saptamI", "bahuvacana")],
+
+    # mAs -> mAsa (m)
+    "mAsA": [("mAsa", "a_m", "m", "tftIyA", "ekavacana")],
+    "mAsoByAm": [("mAsa", "a_m", "m", "tftIyA", "dvivacana"), ("mAsa", "a_m", "m", "caturTI", "dvivacana"), ("mAsa", "a_m", "m", "paYcamI", "dvivacana")],
+    "mAsoBiH": [("mAsa", "a_m", "m", "tftIyA", "bahuvacana")],
+    "mAseByaH": [("mAsa", "a_m", "m", "caturTI", "bahuvacana"), ("mAsa", "a_m", "m", "paYcamI", "bahuvacana")],
+    "mAsAm": [("mAsa", "a_m", "m", "zazWI", "bahuvacana")],
+    "mAsi": [("mAsa", "a_m", "m", "saptamI", "ekavacana")],
+    "mAssu": [("mAsa", "a_m", "m", "saptamI", "bahuvacana")],
+    "mAHsu": [("mAsa", "a_m", "m", "saptamI", "bahuvacana")],
+
+    # niS -> niSA (f)
+    "niSaH": [("niSA", "A_f", "f", "dvitIyA", "bahuvacana"), ("niSA", "A_f", "f", "paYcamI", "ekavacana"), ("niSA", "A_f", "f", "zazWI", "ekavacana")],
+    "nigByAm": [("niSA", "A_f", "f", "tftIyA", "dvivacana"), ("niSA", "A_f", "f", "caturTI", "dvivacana"), ("niSA", "A_f", "f", "paYcamI", "dvivacana")],
+    "nigBiH": [("niSA", "A_f", "f", "tftIyA", "bahuvacana")],
+    "niSe": [("niSA", "A_f", "f", "caturTI", "ekavacana")],
+    "nigByaH": [("niSA", "A_f", "f", "caturTI", "bahuvacana"), ("niSA", "A_f", "f", "paYcamI", "bahuvacana")],
+    "niSoH": [("niSA", "A_f", "f", "zazWI", "dvivacana"), ("niSA", "A_f", "f", "saptamI", "dvivacana")],
+    "niSAm": [("niSA", "A_f", "f", "zazWI", "bahuvacana")],
+    "niSi": [("niSA", "A_f", "f", "saptamI", "ekavacana")],
+    "nikzu": [("niSA", "A_f", "f", "saptamI", "bahuvacana")],
+
+    # udan -> udaka (n)
+    "udnA": [("udaka", "a_n", "n", "tftIyA", "ekavacana")],
+    "udaByAm": [("udaka", "a_n", "n", "tftIyA", "dvivacana"), ("udaka", "a_n", "n", "caturTI", "dvivacana"), ("udaka", "a_n", "n", "paYcamI", "dvivacana")],
+    "udaBiH": [("udaka", "a_n", "n", "tftIyA", "bahuvacana")],
+    "udne": [("udaka", "a_n", "n", "caturTI", "ekavacana")],
+    "udaByaH": [("udaka", "a_n", "n", "caturTI", "bahuvacana"), ("udaka", "a_n", "n", "paYcamI", "bahuvacana")],
+    "udnaH": [("udaka", "a_n", "n", "paYcamI", "ekavacana"), ("udaka", "a_n", "n", "zazWI", "ekavacana")],
+    "udnoH": [("udaka", "a_n", "n", "zazWI", "dvivacana"), ("udaka", "a_n", "n", "saptamI", "dvivacana")],
+    "udnAm": [("udaka", "a_n", "n", "zazWI", "bahuvacana")],
+    "udani": [("udaka", "a_n", "n", "saptamI", "ekavacana")],
+    "udni": [("udaka", "a_n", "n", "saptamI", "ekavacana")],
+    "udasu": [("udaka", "a_n", "n", "saptamI", "bahuvacana")],
+}
+
 def decline_noun(word: str, gender: str | None = None, paradigm: str | None = None) -> dict[str, Any]:
     """Decline a noun given word, gender, optional paradigm."""
     word = word.strip()
@@ -2063,6 +2515,22 @@ def decline_noun(word: str, gender: str | None = None, paradigm: str | None = No
         desc = meta["desc"]
         ending = meta["ending"]
         table = _generate_noun(word, paradigm)
+
+    # Paddan-adi optional forms (Panini 6.1.63)
+    if word in _PADDAN_MAP:
+        for (v, idx), alt_form in _PADDAN_MAP[word].items():
+            if v in table and idx < len(table[v]):
+                orig = table[v][idx]
+                if alt_form not in orig:
+                    table[v][idx] = f"{orig} / {alt_form}"
+
+    # Panini 1.1.33 optional plural -e for praTama, carama, katipaya, dvitaya, tritaya
+    if word in ("praTama", "carama", "katipaya", "dvitaya", "tritaya") and gender_out == "m":
+        base_w = word[:-1]
+        if "prathamA" in table and len(table["prathamA"]) > 2:
+            table["prathamA"][2] = f"{base_w}AH / {base_w}e"
+        if "saMboDana" in table and len(table["saMboDana"]) > 2:
+            table["saMboDana"][2] = f"{base_w}AH / {base_w}e"
 
     return {
         "word": word,
@@ -2446,6 +2914,9 @@ _ALLOW_EMPTY_BASE_PARADIGMS = {
     "ap_f", "dis_f", "dis_m",
     "anaquh_m", "div_f", "div_m", "krozwu_m", "candramas_m", "yuj_m", "Buj_m", "Buj_f",
     "kzuD_f", "vftrahan_m", "maghavan_m", "pranc_m", "pratyanc_m", "udanc_m", "gir_f", "pur_f",
+    "nr_m", "pad_m", "duh_m", "duh_f", "lih_m", "lih_f", "druh_m", "druh_f",
+    "muh_m", "muh_f", "snih_m", "snih_f", "drs_m", "drs_f", "spfs_m", "spfs_f",
+    "tiryac_m", "tiryac_n",
 }
 
 def analyze_form(word: str, limit: int = 20, loose: bool = True) -> list[dict[str, Any]]:
@@ -2509,6 +2980,27 @@ def analyze_form(word: str, limit: int = 20, loose: bool = True) -> list[dict[st
                             })
                             if len(hits) >= limit:
                                 return hits[:limit]
+
+    # --- Paddan-adi reverse forms (Panini 6.1.63) ---
+    if word in _PADDAN_REVERSE:
+        for lemma, para, g, vib, vac in _PADDAN_REVERSE[word]:
+            hits.append({
+                "type": "noun",
+                "match_type": "noun_declension_paddan",
+                "lemma": lemma,
+                "word": word,
+                "matched_form": word,
+                "paradigm": para,
+                "paradigm_desc": f"paddan-Adi alternative form of {lemma}",
+                "ending": "",
+                "gender": g,
+                "vibhakti": vib,
+                "vacana": vac,
+                "suffix": "",
+                "base": lemma,
+            })
+            if len(hits) >= limit:
+                return hits[:limit]
 
     # --- nouns: suffix stripping -> lemma reconstruction ---
     candidates: list[tuple[int, dict[str, Any]]] = []

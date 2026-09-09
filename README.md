@@ -1,25 +1,111 @@
 # skt-morph-data
 
-Sanskrit **dhatu morphology** database scraped from [ashtadhyayi.com](https://ashtadhyayi.com) — conjugations (`ting`, `yak`, `san` …), participles (`krt`/`krut`), `upasarga`, `chandrika` and `prayoga` examples. Data is stored as normalized **SQLite** and queried via Python API + CLI. The DB is auto-downloaded on first use (NLTK-style) to `~/.local/share/skt_morph_data/skt_morph.db`.
+Comprehensive Sanskrit morphology engine and database:
+- **Dhatu Morphology (Verbal)**: 2,200+ dhātus scraped from [ashtadhyayi.com](https://ashtadhyayi.com) — complete conjugations (`ting`, `yak`, `san`, `yaṅ`), participles (`krut`), `upasarga` variants, `chandrika` and `prayoga` usage examples. Data is stored in normalized **SQLite**.
+- **Subanta Engine (Nominal Declensions)**: Complete 8-vibhakti × 3-vacana tables across **86 classical paradigms** (vowel and consonant stems, classical irregulars like `anaquh`, `div`/`dyu`, `krozwu`, `candramas`, `yuj`, `vftrahan`, `maGavan`), pronouns (`asmad`, `yuzmad`, `tad`, `etad`, `sarva`...), and numerals (`eka` through `sahasra`).
+- **Kṛdanta Bridge (Participle Declensions)**: Connects verbal participles (`kta`, `ktavatu`, `Satf`, `SAnac`, `tavya`, `anIyar`, `yat`, `tfc`, `kvasu`, etc.) with the subanta engine to generate complete nominal declension tables across all genders and cases.
+- **Reverse Morphological Analyzer**: Analyze inflected Sanskrit forms back to their base lemma, vibhakti, vacana, or dhātu.
+- **Pāṇinian Natva Engine**: Exact implementation of *raṣābhyāṁ no ṇaḥ samānapade* (8.4.1) and *aṭkupvāṅnumvyavāye'pi* (8.4.2).
 
-Install directly from GitHub (no PyPI needed):
+All inputs and outputs use standard **SLP1** transliteration.
+
+The SQLite database is auto-downloaded on first use (NLTK-style) to `~/.local/share/skt_morph_data/skt_morph.db`.
+
+## Installation
+
+Install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/eadaradhiraj/skt-morph-data.git
-# or with conda pip
+# or with SSH
 pip install git+ssh://git@github.com/eadaradhiraj/skt-morph-data.git
 ```
 
-## Quick start (Python)
+---
+
+## Quick Start (Python)
+
+### 1. Subanta (Nominal Declensions)
+
+```python
+from skt_morph_data import decline, analyze_form, to_table
+
+# Regular vowel stems (with automatic Paninian natva)
+decline("rAma", gender="m")    # a-stem (rAmeRa, rAmARAm)
+decline("deva", gender="m")    # a-stem (devena, devAnAm)
+decline("Pala", gender="n")    # a-stem neuter
+decline("nadI", gender="f")    # I-stem feminine
+
+# Consonant and classical irregular stems
+decline("anaquh", gender="m")  # ox/bull (anaqvAn, anaqvAhO, anaqudByAm, anaqutsu)
+decline("div", gender="f")     # heaven/sky (dyOH, divam, divA, dyuByAm)
+decline("krozwu", gender="m")  # jackal (krozwA, krozwrA/krozwunA)
+decline("candramas", gender="m") # moon (candramAH, candramoByAm)
+decline("yuj", gender="m")     # companion (yuN, yuYjO, yugByAm)
+decline("vftrahan", gender="m")# slayer of Vritra (vftrahA, vftrahaRO, vftraGRaH)
+decline("maGavan", gender="m") # Indra (maGavAn, maGavAntO, maGonaH)
+decline("go", gender="m")      # bull/cow (gOH, gAm, gavA, gave)
+decline("pitf", gender="m")    # kinship (pitA, pitarO, pitaraH)
+decline("kartf", gender="m")   # agent noun (kartA, kartArO, kartAraH)
+
+# Pronouns (with correct enclitic distribution & vocatives)
+decline("asmad")               # aham, AvAm, vayam; mAm/mA; mahyam/me...
+decline("yuzmad")              # tvam, yuvAm, yUyam; tvAm/tvA; tuByam/te...
+decline("tad", gender="m")     # saH, tO, te
+decline("sarva", gender="m")   # sarvaH, sarvO, sarve (vocative: he sarva)
+
+# Numerals
+decline("tri", gender="f")     # tisraH, tisfBiH, tisfRAm
+decline("catur", gender="m")   # catvAraH, caturaH, caturBiH
+
+# Pretty table printing
+print(to_table(decline("rAma", gender="m")))
+
+# Reverse morphological analysis (inflected form -> lemma + vibhakti/vacana)
+hits = analyze_form("anaqvAn")
+# -> [{'lemma': 'anaquh', 'vibhakti': 'prathamA', 'vacana': 'ekavacana', ...}]
+```
+
+### 2. Kṛdanta (Verbal Participles)
+
+```python
+from skt_morph_data import decline_participle, list_participle_pratyayas
+
+# Past passive participle (kta)
+res = decline_participle("BU", "kta", gender="m")
+# -> BUtaH, BUtO, BUtAH...
+
+# Present active participle (Satf)
+res = decline_participle("gam", "Satf", gender="f")
+# -> gacCantI, gacCantyO, gacCantyaH...
+
+# Past active participle (ktavatu) across all 3 genders
+res = decline_participle("kf", "ktavatu")
+# res["genders"]["m"] -> kftavAn...
+# res["genders"]["f"] -> kftavatI...
+# res["genders"]["n"] -> kftavat...
+
+# Agent noun (tfc)
+res = decline_participle("BU", "tfc", gender="m")
+# -> BavitA, BavitArO, BavitAraH...
+
+# Indeclinables (avyaya)
+res = decline_participle("BU", "ktvA")   # BUtvA
+res = decline_participle("gam", "tumun") # gantum
+
+# Available suffixes for a root
+print(list_participle_pratyayas("BU"))
+```
+
+### 3. Dhatu Morphology (Verbal)
 
 ```python
 import skt_morph_data as skt
 
-# first call auto-downloads DB to ~/.local/share/skt_morph_data/skt_morph.db
-# (bundled data/skt_morph.db is copied if you run from a checkout)
-skt.ensure_db()  
+# Auto-downloads DB to ~/.local/share/skt_morph_data/skt_morph.db on first call
+skt.ensure_db()
 
-# full dhatu (same shape as original JSON)
+# Full dhatu details
 d = skt.get_dhatu("01.0001")           # BU – sattAyAm
 print(d["info"])
 print(d["conjugations"]["ting"]["plat"][:3])
@@ -27,144 +113,134 @@ print(d["participles"]["krut"]["kta"])
 print(d["upasarga"])
 print(d["prayoga"][:1])
 
-# list / search
+# Search dhatus and forms
 for row in skt.list_dhatus(gana="01", limit=5):
     print(row["id"], row["label"])
 
-for row in skt.search_dhatus("BU", gana="01", limit=5):
-    print(row)
-
-# detailed exact search: returns prefix, pratyaya, dhatu, id, etc.
 for hit in skt.search_forms("AdAra", exact=True, limit=5):
-    print(hit["dhatu_id"], hit["dhatu"], hit["prefix"], hit["pratyaya"], hit["matched_value"])
-hits = skt.find("BUta", exact=True)  # alias
+    print(hit["dhatu_id"], hit["dhatu"], hit["prefix"], hit["pratyaya"])
 
-# low-level
-print(skt.get_conjugations("01.0001", category="ting"))
-print(skt.get_participles("01.0001", category="krut"))
-print(skt.get_upasarga_entries("01.0001"))
-print(skt.get_chandrika("01.0001"))
-print(skt.query("SELECT gana, count(*) as n FROM dhatus GROUP BY gana"))
-
-# custom DB path
-skt.get_dhatu("01.0001", db_path="data/skt_morph.db")
+# Unified verb + nominal analyzer
+results = skt.analyze("Bavati")   # conjugation of BU
+results = skt.analyze("rAmeRa")   # declension of rAma
 ```
 
-`ensure_db()` honors:
-- `SKT_MORPH_DATA_DIR` – override cache dir
-- `SKT_MORPH_DB_URL` – override download URL (default: `https://github.com/eadaradhiraj/skt-morph-data/releases/download/v0.1.0/skt_morph.db` with fallback to `raw.githubusercontent.com/.../data/skt_morph.db`)
+---
 
 ## CLI
 
-After `pip install`, two entry points are available: `skt-morph` and `skt-morph-data`.
+Two command-line aliases are provided: `skt-morph` and `skt-morph-data`.
+
+### Subanta (Declension)
 
 ```bash
-# download / cache DB
+# Decline nouns, pronouns, numerals
+skt-morph decline rAma --gender m
+skt-morph decline anaquh --gender m
+skt-morph decline div --gender f
+skt-morph decline asmad
+skt-morph decline sarva --gender m
+skt-morph decline tri --gender f
+skt-morph decline rAma --gender m --json
+
+# List supported paradigms
+skt-morph paradigms
+skt-morph pronouns
+skt-morph numerals
+```
+
+### Kṛdanta (Participles)
+
+```bash
+# Decline participles
+skt-morph decline-participle BU kta --gender m
+skt-morph decline-participle gam Satf --gender f
+skt-morph decline-participle kf ktavatu             # all genders (m, f, n)
+skt-morph decline-participle BU tfc --gender m
+skt-morph decline-participle BU ktvA                # avyaya (indeclinable)
+skt-morph decline-participle gam tumun
+```
+
+### Morphological Analysis
+
+```bash
+# Analyze any inflected word (verb conjugation or noun declension)
+skt-morph analyze rAmeRa
+skt-morph analyze Bavati
+skt-morph analyze anaqvAn
+skt-morph analyze --json gacCan
+```
+
+### Dhatu Queries
+
+```bash
+# Download / verify DB
 skt-morph download
-skt-morph download --force --url https://example.com/skt_morph.db
+skt-morph download --force
 
-# show info (SLP1)
+# Dhatu info and search
 skt-morph info 01.0001
-skt-morph show 01.0001 --json > /tmp/dhatu.json
+skt-morph search BU --gana 01
+skt-morph search AdAra --exact
 
-# list / search
-skt-morph list --gana 01 --limit 20
-skt-morph list --gana 06 --limit 50 --json
-skt-morph search BU --gana 01 --limit 10      # substring
-skt-morph search AdAra --exact --json        # exact: shows prefix/pratyaya/dhatu/id
-skt-morph search "sattAyAm" --limit 5
-
-# conjugations / participles (prefix = upasarga)
+# Conjugations & participles
 skt-morph conjugations 01.0001 --category ting
-skt-morph conjugations 01.0001 --prefix pra --json
+skt-morph conjugations 01.0001 --prefix pra
 skt-morph participles 01.0001 --category krut
-skt-morph participles 01.0001 --category krut --prefix sam
 
-# upasarga / chandrika / prayoga
-skt-morph upasarga 01.0001
-skt-morph upasarga 01.0001 --chandrika
+# Upasarga, Chandrika, Prayoga
 skt-morph upasarga 01.0001 --with-forms
 skt-morph prayoga 01.0001
 
-# raw SQL
+# Raw SQL
 skt-morph query "SELECT id, gana FROM dhatus WHERE gana='01' LIMIT 5"
-skt-morph query "SELECT prefix, count(*) FROM conjugation_forms GROUP BY prefix LIMIT 5" --json
-
-# use custom DB
-skt-morph --db data/skt_morph.db info 01.0001
 ```
 
-All commands auto-download the DB on first run.
+---
 
-## Data & DB
+## Supported Subanta Paradigms (86 total)
 
-- Raw JSON: `data/<gana>/<id>.json` (2259 files, ~10 ganas)
-- Built SQLite: `data/skt_morph.db` (~1.2 GB, 10M+ conjugation rows)
+| Category | Paradigms |
+| :--- | :--- |
+| **Ajanta (Vowels)** | `a_m` (rAma), `a_n` (Pala), `A_f` (ramA), `A_m` (viSvapA root A), `i_m` (hari), `pati_m` (pati uncompounded), `sakhi_m` (sakhi), `i_f` (mati), `i_n` (vAri), `asthi_n` (daDi, akzi, asTi, sakTi), `I_f` (nadI), `sri_f` (SrI/hrI/DI iyaṅ), `sudhi_m` (suDI iyaṅ), `I_m` (senAnI yaṇ), `lakzmi_f` (lakzmI), `stri_f` (strI), `u_m` (guru), `krozwu_m` (krozwu/krozwf), `u_f` (Denu), `u_n` (maDu), `U_f` (vaDU), `bhu_f` (BU/BrU uvaṅ), `f_m` (pitf kinship), `tf_m` (kartf agent noun), `f_f` (mAtf), `svasf_f` (svasf), `f_n` (dAtf) |
+| **Diphthongs** | `o_m` / `o_f` (go bull/cow), `nau_f` (nO boat), `glau_m` (glO moon), `rai_m` / `rai_f` (rE wealth) |
+| **Halanta (Consonants)** | `t_m` (marut), `t_f` (sarit), `t_n` (jagat), `d_f` (sampad, Apad), `kzuD_f` (kzuD), `dh_f` (samiD), `c_f` (vAc), `j_m` (Bizaj), `yuj_m` (yuj), `Buj_m` / `Buj_f` (Buj ruler/enjoyer), `dis_f` / `dis_m` (diS/viS), `r_f` (dvAr), `gir_f` (gir), `pur_f` (pur), `div_f` / `div_m` (div/dyu heaven), `ap_f` (ap water plural) |
+| **-at / -vat / -mat Stems** | `at_m` (participle Bavat/gacchat), `bhavat_m` (honorific BavAn), `at_n` (jagat), `mahat_m` (mahAn), `mahat_n` (mahat), `vat_m` (Danavat), `mat_m` (budDimat) |
+| **-an / -in Stems** | `an_m` (Atman), `rajan_m` (rAjan), `an_n` (nAman), `karman_n` (karman), `in_m` (yogin), `in_n` (balin), `pathin_m` (panTA), `ahan_n` (ahan), `pums_m` (pums), `svan_m` (Svan), `yuvan_m` (yuvan), `vftrahan_m` (vftrahan), `han_m` (Satruhan), `maghavan_m` (maGavan) |
+| **-as / -is / -us Stems** | `as_n` (manas), `as_m` / `as_f` (sumanas), `candramas_m` (candramas), `yas_m` / `yas_n` (Sreyas), `vidvas_m` / `vas_m` (vidvAn / kvasu participles), `is_n` (havis), `us_n` (Danus) |
+| **Directional -aYc Stems** | `pranc_m` (prAYc), `pratyanc_m` (pratyaYc), `udanc_m` (udaYc) |
+| **Pronouns** | `asmad`, `yuzmad`, `tad`, `etad`, `yad`, `kim`, `idam`, `adas`, `tyad`, `sarva`, `viSva`, `uBa`, `uBaya`, `anya`, `anyatara`, `itara`, `katara`, `katama`, `pUrva`, `para`, `avara`, `dakziRa`, `uttara`, `apara`, `aDara` |
+| **Numerals** | `eka`, `dvi`, `tri`, `catur`, `paYcan`, `zaz`, `saptan`, `azwan`, `navan`, `daSan`, teens 11–19, tens 20–90, `Sata`, `sahasra` |
 
-Build DB locally:
+---
 
-```bash
-python scripts/json_to_sqlite.py --data-dir data --output data/skt_morph.db --force
-# custom cache location
-python scripts/json_to_sqlite.py --data-dir data --output ~/.local/share/skt_morph_data/skt_morph.db --force
-```
+## Data & Database Schema
 
-Schema:
+The SQLite database (~1.2 GB, 10M+ conjugation rows) normalizes:
 - `dhatus(id, gana, skipped, skip_reason, label)`
 - `dhatu_info(dhatu_id, name, value, note, ext_link)`
-- `upasarga_entries(dhatu_id, dhatu, prefix, artha_hindi)` + `upasarga_prefix_meta`
-- `chandrika_examples(dhatu_id, prefix, example)`
 - `conjugation_forms(dhatu_id, prefix, category, form_type, form_value, position)`
 - `participle_forms(dhatu_id, prefix, category, variant, base, m, f, n)`
+- `upasarga_entries(dhatu_id, dhatu, prefix, artha_hindi)` + `upasarga_prefix_meta`
+- `chandrika_examples(dhatu_id, prefix, example)`
 - `prayoga(dhatu_id, form, lakaar, purusha, vachana)` + `prayoga_examples`
 
-## Scraping (scripts)
-
-Combined scraper `scripts/scrape_dhatu.py` merges the old `scrape_dhatu.py` + `scrape_all.py`.
-
+Rebuild database locally from raw JSON:
 ```bash
-# single dhatu
-python scripts/scrape_dhatu.py 01.0001 -o data
-
-# whole gana
-python scripts/scrape_dhatu.py --gana 01 -o data
-
-# all
-python scripts/scrape_dhatu.py --all -o data
-
-# explicit list / file
-python scripts/scrape_dhatu.py --ids 01.0001,01.0002 -o data
-python scripts/scrape_dhatu.py --ids-file ids.txt -o data
-
-# resume support (uses data/completed.txt, failed.txt, dhatu_ids.txt)
-python scripts/scrape_dhatu.py --gana 06 --refresh-ids -o data --restart-browser-every 25 --stop-on-error
-
-# rebuild DB after scraping
 python scripts/json_to_sqlite.py --data-dir data --output data/skt_morph.db --force
 ```
 
-Install scraping deps:
-```bash
-conda activate ./env  # or pip
-pip install -r scripts/requirements.txt
-```
-Requires `chromedriver.exe` next to script or at repo root + Chrome.
+---
 
-## Publishing a DB release (for auto-download)
+## Running Tests
 
-1. Build `data/skt_morph.db`
-2. `gh release create v0.1.0 data/skt_morph.db`  (or upload via GitHub UI)
-3. Users `pip install git+https://github.com/eadaradhiraj/skt-morph-data.git` will auto-fetch `.../releases/download/v0.1.0/skt_morph.db`.
-
-## Development
+Run the full test suite (subanta, krdanta, search, query, CLI):
 
 ```bash
-git clone git@github.com:eadaradhiraj/skt-morph-data.git
-cd skt-morph-data
-pip install -e .
-skt-morph download          # copies bundled data/skt_morph.db if present, else downloads
-pytest -q                   # (no tests yet)
+pytest
 ```
+
+---
 
 ## License
 

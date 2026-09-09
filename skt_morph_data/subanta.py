@@ -645,6 +645,18 @@ _register("vidvas_m", "vidvas", "m", "vas-kArAnta puMliNga (vidvas) - samprasAra
     "saMboDana": ["vidvan", "vidvAMsO", "vidvAMsaH"],
 })
 
+# vas-stem participles (kvasu - Panini 6.4.131 vasoḥ samprasāraṇam)
+_register("vas_m", "vas", "m", "vas-kArAnta puMliNga (kvasu participle) - samprasAraRa", {
+    "prathamA": ["vAn", "vAMsO", "vAMsaH"],
+    "dvitIyA": ["vAMsam", "vAMsO", "uzaH"],
+    "tftIyA": ["uzA", "vadByAm", "vadBiH"],
+    "caturTI": ["uze", "vadByAm", "vadByaH"],
+    "paYcamI": ["uzaH", "vadByAm", "vadByaH"],
+    "zazWI": ["uzaH", "uzoH", "uzAm"],
+    "saptamI": ["uzi", "uzoH", "vatsu"],
+    "saMboDana": ["van", "vAMsO", "vAMsaH"],
+})
+
 # comparatives in -Iyas / -yas (Sreyas, balIyas - m.)
 _register("yas_m", "yas", "m", "Iyas-kArAnta puMliNga comparative (Sreyas)", {
     "prathamA": ["yAn", "yAMsO", "yAMsaH"],
@@ -1907,9 +1919,11 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word in ("Bizaj", "ftvij"):
         return ["j_m"]
 
-    # vidvas (scholar)
+    # vidvas (scholar) & vas participles (kvasu)
     if word in ("vidvas", "vidvAn") or word.endswith("vidvas"):
-        return ["vidvas_m"]
+        return ["vidvas_m", "vas_m"]
+    if word.endswith("vas") and (gender is None or gender == "m"):
+        return ["vas_m"]
 
     # mahat (great)
     if word == "mahat" or word.endswith("mahat"):

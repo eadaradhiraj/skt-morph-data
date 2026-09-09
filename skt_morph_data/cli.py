@@ -411,6 +411,32 @@ def cmd_decline(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_decline_participle(args: argparse.Namespace) -> int:
+    from .krdanta import decline_participle
+    try:
+        res = decline_participle(
+            dhatu=args.dhatu,
+            pratyaya=args.pratyaya,
+            gender=args.gender,
+            prefix=args.prefix,
+            category=args.category,
+            db_path=args.db,
+        )
+    except Exception as e:
+        print(f"participle declension error: {e}", file=sys.stderr)
+        return 1
+    if args.json:
+        _print_json(res)
+        return 0
+    if res.get("is_avyaya"):
+        print(f"# {res['dhatu']} + {res['pratyaya']} [avyaya] (indeclinable)")
+        print(f"form: {res['form']}")
+        return 0
+    from .subanta import to_table
+    print(to_table(res))
+    return 0
+
+
 def cmd_paradigms(args: argparse.Namespace) -> int:
     rows = list_paradigms()
     if args.json:
@@ -552,6 +578,16 @@ def build_parser() -> argparse.ArgumentParser:
     dc.add_argument("--category", help="force category: noun|pronoun|numeral", choices=["noun","pronoun","numeral"], default=None)
     dc.add_argument("--json", action="store_true", help="output JSON")
     dc.set_defaults(func=cmd_decline)
+
+    # participle declension (krdanta)
+    dp = sub.add_parser("decline-participle", aliases=["krdanta", "participle-decline"], help="decline verbal participle (kta, ktavatu, Satf, SAnac, tavya, etc.)")
+    dp.add_argument("dhatu", help="dhatu ID (e.g. 01.0001) or lemma in SLP1 (e.g. BU, gam, kf)")
+    dp.add_argument("pratyaya", help="participle affix (e.g. kta, ktavatu, Satf, SAnac, tavya, anIyar, tfc, kvasu, ktvA, tumun)")
+    dp.add_argument("--gender", help="gender: m|f|n (optional – all genders if omitted)", default=None)
+    dp.add_argument("--prefix", help="upasarga / prefix (default: '')", default="")
+    dp.add_argument("--category", help="category: krut|san_krut|nich_krut|yang_krut|yangluk_krut", default="krut")
+    dp.add_argument("--json", action="store_true", help="output JSON")
+    dp.set_defaults(func=cmd_decline_participle)
 
     # analyze – unified verb+nominal morphological analyzer
     an = sub.add_parser("analyze", aliases=["parse", "analyse"], help="analyze inflected form (verb or declension) → lemma, vibhakti/vacana or dhatu")

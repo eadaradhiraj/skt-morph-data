@@ -52,6 +52,11 @@ from .subanta import (
     list_pronouns,
     to_table,
 )
+from .krdanta import (
+    decline_participle,
+    get_dhatu_participles_summary,
+    list_participle_pratyayas,
+)
 
 __all__ = [
     "connect",
@@ -87,6 +92,10 @@ __all__ = [
     "to_table",
     "analyze",
     "analyze_form",
+    # krdanta / participle declension
+    "decline_participle",
+    "list_participle_pratyayas",
+    "get_dhatu_participles_summary",
 ]
 
 __version__ = "0.1.0"

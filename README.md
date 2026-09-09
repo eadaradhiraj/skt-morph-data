@@ -140,8 +140,15 @@ skt-morph decline anaquh --gender m
 skt-morph decline div --gender f
 skt-morph decline asmad
 skt-morph decline sarva --gender m
+skt-morph decline pUrva --category pronoun --gender m  # Panini 1.1.32-36 optional forms
 skt-morph decline tri --gender f
-skt-morph decline rAma --gender m --json
+
+# Export in multiple formats: markdown, html, csv, latex, anki, json
+skt-morph decline rAma --gender m --format markdown
+skt-morph decline rAma --gender m --format html
+skt-morph decline rAma --gender m --format csv
+skt-morph decline rAma --gender m --format latex
+skt-morph decline rAma --gender m --format anki > anki_cards.tsv  # Anki flashcards (Front <TAB> Back <TAB> Tag)
 
 # List supported paradigms
 skt-morph paradigms
@@ -159,16 +166,27 @@ skt-morph decline-participle kf ktavatu             # all genders (m, f, n)
 skt-morph decline-participle BU tfc --gender m
 skt-morph decline-participle BU ktvA                # avyaya (indeclinable)
 skt-morph decline-participle gam tumun
+
+# Export participle declensions directly to Anki flashcards
+skt-morph decline-participle BU ktavatu --gender m --format anki
 ```
 
 ### Morphological Analysis
 
 ```bash
-# Analyze any inflected word (verb conjugation or noun declension)
+# Analyze any inflected word (verb conjugation, noun declension, or verbal participle)
 skt-morph analyze rAmeRa
 skt-morph analyze Bavati
 skt-morph analyze anaqvAn
 skt-morph analyze --json gacCan
+
+# Participle inflections are automatically bridged back to root + pratyaya:
+skt-morph analyze BUtavatA
+# -> tftIyA ekavacana (m) of root "BU" + "ktavatu" (nominal stem "BUtavat")
+skt-morph analyze gacCatA
+# -> tftIyA ekavacana (m) of root "gamx~" + "Satf" (nominal stem "gacCat")
+skt-morph analyze kftena
+# -> tftIyA ekavacana (m) of root "qukfY"/"kfY" + "kta" (nominal stem "kfta")
 ```
 
 ### Dhatu Queries

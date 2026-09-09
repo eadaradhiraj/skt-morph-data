@@ -247,6 +247,18 @@ def cmd_analyze(args: argparse.Namespace) -> int:
                 "form": h.get("matched_value", h.get("form_value","")),
                 "prefix": h.get("prefix",""),
             })
+        elif h.get("match_type") == "participle_declension":
+            rows.append({
+                "type": "participle_decl",
+                "dhatu": h.get("participle_dhatu", "") or h.get("dhatu", ""),
+                "dhatu_id": h.get("participle_dhatu_id", "") or h.get("dhatu_id", ""),
+                "pratyaya": h.get("pratyaya", ""),
+                "gender": h.get("gender", ""),
+                "vibhakti": h.get("vibhakti", ""),
+                "vacana": h.get("vacana", ""),
+                "lemma": h.get("lemma", ""),
+                "form": h.get("matched_form", h.get("word", "")),
+            })
         else:
             rows.append({
                 "type": h.get("match_type", h.get("type")),
@@ -260,9 +272,12 @@ def cmd_analyze(args: argparse.Namespace) -> int:
             })
     _print_table(rows)
     print(f"\n{len(hits)} analyses for \"{word}\" (loose={not args.strict})")
-    # Show explanation for first noun hit
+    # Show explanation for first hit
     for h in hits:
-        if h.get("vibhakti"):
+        if h.get("match_type") == "participle_declension":
+            print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} ({h.get('gender')}) of root \"{h.get('participle_dhatu')}\" + \"{h.get('pratyaya')}\" (nominal stem \"{h.get('lemma')}\")")
+            break
+        elif h.get("vibhakti"):
             print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} of \"{h.get('lemma')}\" [{h.get('paradigm')}] suffix \"{h.get('suffix')}\"")
             break
     return 0
@@ -402,12 +417,12 @@ def cmd_decline(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"declension error: {e}", file=sys.stderr)
         return 1
-    if args.json:
+    fmt = getattr(args, "format", "table")
+    if args.json or fmt == "json":
         _print_json(res)
         return 0
-    # pretty
-    from .subanta import to_table
-    print(to_table(res))
+    from .subanta import format_declension
+    print(format_declension(res, fmt=fmt))
     return 0
 
 
@@ -425,15 +440,12 @@ def cmd_decline_participle(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"participle declension error: {e}", file=sys.stderr)
         return 1
-    if args.json:
+    fmt = getattr(args, "format", "table")
+    if args.json or fmt == "json":
         _print_json(res)
         return 0
-    if res.get("is_avyaya"):
-        print(f"# {res['dhatu']} + {res['pratyaya']} [avyaya] (indeclinable)")
-        print(f"form: {res['form']}")
-        return 0
-    from .subanta import to_table
-    print(to_table(res))
+    from .subanta import format_declension
+    print(format_declension(res, fmt=fmt))
     return 0
 
 
@@ -576,7 +588,8 @@ def build_parser() -> argparse.ArgumentParser:
     dc.add_argument("--gender", help="gender: m|f|n (optional – auto-detect if omitted)", default=None)
     dc.add_argument("--paradigm", help="force noun paradigm e.g. a_m,a_n,A_f,i_m/pati_m/sakhi_m,I_f,u_m,f_m,an_m/an_n,in_m,at_m/at_n,as_n/as_m/as_f", default=None)
     dc.add_argument("--category", help="force category: noun|pronoun|numeral", choices=["noun","pronoun","numeral"], default=None)
-    dc.add_argument("--json", action="store_true", help="output JSON")
+    dc.add_argument("--format", "-f", choices=["table", "markdown", "html", "csv", "latex", "anki", "json"], default="table", help="output format: table|markdown|html|csv|latex|anki|json (default: table)")
+    dc.add_argument("--json", action="store_true", help="output JSON (equivalent to --format json)")
     dc.set_defaults(func=cmd_decline)
 
     # participle declension (krdanta)
@@ -586,7 +599,8 @@ def build_parser() -> argparse.ArgumentParser:
     dp.add_argument("--gender", help="gender: m|f|n (optional – all genders if omitted)", default=None)
     dp.add_argument("--prefix", help="upasarga / prefix (default: '')", default="")
     dp.add_argument("--category", help="category: krut|san_krut|nich_krut|yang_krut|yangluk_krut", default="krut")
-    dp.add_argument("--json", action="store_true", help="output JSON")
+    dp.add_argument("--format", "-f", choices=["table", "markdown", "html", "csv", "latex", "anki", "json"], default="table", help="output format: table|markdown|html|csv|latex|anki|json (default: table)")
+    dp.add_argument("--json", action="store_true", help="output JSON (equivalent to --format json)")
     dp.set_defaults(func=cmd_decline_participle)
 
     # analyze – unified verb+nominal morphological analyzer

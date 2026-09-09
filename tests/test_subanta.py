@@ -461,6 +461,91 @@ class TestSubanta(unittest.TestCase):
         self.assertEqual(maghavan["saMboDana"][0], "maGavan")
         self.assertTrue(any(h["lemma"] == "maGavan" for h in analyze_form("maGavAn")))
 
+    def test_purvadi_pronouns(self):
+        # Panini 1.1.32 vibhāṣā jasi, 1.1.34-36 pūrvaparāvara...
+        p_m = decline("pUrva", category="pronoun", gender="m")["forms"]
+        # Nom.pl has both pronoun -e and nominal -AH
+        self.assertEqual(p_m["prathamA"][2], "pUrve / pUrvAH")
+        self.assertEqual(p_m["saMboDana"][2], "pUrve / pUrvAH")
+        # Abl.sg has asmAt and At
+        self.assertEqual(p_m["paYcamI"][0], "pUrvasmAt / pUrvAt")
+        # Loc.sg has asmin and e
+        self.assertEqual(p_m["saptamI"][0], "pUrvasmin / pUrvAt".replace("At", "e"))
+        # Natva applied properly in gen.pl and loc.pl
+        self.assertEqual(p_m["zazWI"][2], "pUrvezAm")
+        self.assertEqual(p_m["saptamI"][2], "pUrvezu")
+
+        # Feminine optional forms (1.1.34-36)
+        p_f = decline("pUrva", category="pronoun", gender="f")["forms"]
+        self.assertEqual(p_f["caturTI"][0], "pUrvasyE / pUrvAyE")
+        self.assertEqual(p_f["paYcamI"][0], "pUrvasyAH / pUrvAyAH")
+        self.assertEqual(p_f["zazWI"][0], "pUrvasyAH / pUrvAyAH")
+        self.assertEqual(p_f["saptamI"][0], "pUrvasyAm / pUrvAyAm")
+
+        # Reverse analysis finds pUrva for both variants
+        hits_pe = analyze_form("pUrve")
+        self.assertTrue(any(h["lemma"] == "pUrva" for h in hits_pe))
+        hits_pah = analyze_form("pUrvAH")
+        self.assertTrue(any(h["lemma"] == "pUrva" for h in hits_pah))
+        hits_psmat = analyze_form("pUrvasmAt")
+        self.assertTrue(any(h["lemma"] == "pUrva" for h in hits_psmat))
+        hits_pat = analyze_form("pUrvAt")
+        self.assertTrue(any(h["lemma"] == "pUrva" for h in hits_pat))
+
+    def test_formatters(self):
+        from skt_morph_data.subanta import (
+            to_markdown,
+            to_html,
+            to_csv,
+            to_latex,
+            to_anki,
+            format_declension,
+        )
+        res = decline("rAma", gender="m")
+        # Markdown
+        md = to_markdown(res)
+        self.assertIn("| vibhakti | ekavacana | dvivacana | bahuvacana |", md)
+        self.assertIn("| prathamA | rAmaH | rAmO | rAmAH |", md)
+
+        # HTML
+        html_out = to_html(res)
+        self.assertIn('<table class="subanta-table">', html_out)
+        self.assertIn("<td>prathamA</td><td>rAmaH</td>", html_out)
+
+        # CSV
+        csv_out = to_csv(res)
+        self.assertIn("vibhakti,ekavacana,dvivacana,bahuvacana", csv_out)
+        self.assertIn("prathamA,rAmaH,rAmO,rAmAH", csv_out)
+
+        # LaTeX
+        latex_out = to_latex(res)
+        self.assertIn("\\begin{tabular}{|l|l|l|l|}", latex_out)
+        self.assertIn("prathamA & rAmaH & rAmO & rAmAH \\\\", latex_out)
+
+        # Anki
+        anki_out = to_anki(res)
+        self.assertIn("rAma [m] - prathamA ekavacana\trAmaH\tsubanta:a_m", anki_out)
+
+        # format_declension dispatcher
+        self.assertEqual(format_declension(res, "markdown"), md)
+        self.assertEqual(format_declension(res, "csv"), csv_out)
+        self.assertEqual(format_declension(res, "latex"), latex_out)
+        self.assertEqual(format_declension(res, "anki"), anki_out)
+        self.assertEqual(format_declension(res, "html"), html_out)
+
+        # Multi-gender format
+        tad_res = decline("tad")
+        self.assertIn("gender: m", to_markdown(tad_res))
+        self.assertIn("gender: f", to_markdown(tad_res))
+        self.assertIn("gender,vibhakti,ekavacana,dvivacana,bahuvacana", to_csv(tad_res))
+
+        # Avyaya format
+        avyaya_res = {"dhatu": "BU", "pratyaya": "ktvA", "is_avyaya": True, "form": "BUtvA"}
+        self.assertIn("BUtvA", to_markdown(avyaya_res))
+        self.assertIn("BUtvA", to_html(avyaya_res))
+        self.assertIn("BUtvA", to_csv(avyaya_res))
+        self.assertIn("BUtvA", to_anki(avyaya_res))
+
 
 if __name__ == "__main__":
     unittest.main()

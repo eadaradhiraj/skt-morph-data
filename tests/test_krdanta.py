@@ -107,6 +107,44 @@ class TestKrdanta(unittest.TestCase):
         self.assertIn("kta", pratyayas)
         self.assertIn("ktavatu", pratyayas)
 
+    def test_participle_reverse_analysis_bridge(self):
+        from skt_morph_data.subanta import analyze
+
+        # Inflected past active participle BUtavatA -> root BU + ktavatu
+        hits = analyze("BUtavatA")
+        part_hits = [h for h in hits if h.get("match_type") == "participle_declension"]
+        self.assertGreater(len(part_hits), 0)
+        top = part_hits[0]
+        self.assertEqual(top["participle_base"], "BUtavat")
+        self.assertEqual(top["pratyaya"], "ktavatu")
+        self.assertIn(top["dhatu"], ("BU", "asa~"))
+        self.assertEqual(top["vibhakti"], "tftIyA")
+        self.assertEqual(top["vacana"], "ekavacana")
+
+        # Inflected present participle gacCatA -> root gamx~ + Satf
+        hits_gam = analyze("gacCatA")
+        gam_parts = [h for h in hits_gam if h.get("match_type") == "participle_declension"]
+        self.assertGreater(len(gam_parts), 0)
+        top_gam = gam_parts[0]
+        self.assertEqual(top_gam["dhatu"], "gamx~")
+        self.assertEqual(top_gam["pratyaya"], "Satf")
+        self.assertEqual(top_gam["participle_base"], "gacCat")
+
+        # Inflected past passive participle kftena -> root kfY/qukfY + kta
+        hits_kfta = analyze("kftena")
+        kfta_parts = [h for h in hits_kfta if h.get("match_type") == "participle_declension"]
+        self.assertGreater(len(kfta_parts), 0)
+        top_kfta = kfta_parts[0]
+        self.assertIn(top_kfta["dhatu"], ("kfY", "qukfY"))
+        self.assertEqual(top_kfta["pratyaya"], "kta")
+
+        # Feminine stem analysis: BUtavatyAm -> root BU + ktavatu, locative
+        hits_fem = analyze("BUtavatyAm")
+        fem_parts = [h for h in hits_fem if h.get("match_type") == "participle_declension"]
+        self.assertGreater(len(fem_parts), 0)
+        self.assertEqual(fem_parts[0]["pratyaya"], "ktavatu")
+        self.assertEqual(fem_parts[0]["vibhakti"], "saptamI")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1440,7 +1440,15 @@ _SARVA_PRONOUN_N = {
 # ḍatara/ḍatama class words take -at/-ad in neuter prathamA/dvitIyA (Panini 7.1.25)
 _DATARA_WORDS = {"anya", "anyatara", "itara", "katara", "katama"}
 
-for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva"]:
+# Pūrvādi directional and optional sarvanāmas (Panini 1.1.32 vibhāṣā jasi, 1.1.34-36 pūrvaparāvara...)
+_PURVADI_WORDS = {"pUrva", "para", "avara", "dakziRa", "DakziRa", "uttara", "apara", "aDara", "sva", "antara"}
+
+def _add_pronoun_suf(base: str, suf: str) -> str:
+    if " / " in suf:
+        return " / ".join(apply_natva(base + p.strip()) for p in suf.split("/"))
+    return apply_natva(base + suf)
+
+for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "dakziRa", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva", "antara"]:
     if _w == "uBa":
         PRONOUNS[_w] = {
             "m": {"prathamA": ["-", "uBO", "-"], "dvitIyA": ["-", "uBO", "-"], "tftIyA": ["-", "uBAByAm", "-"], "caturTI": ["-", "uBAByAm", "-"], "paYcamI": ["-", "uBAByAm", "-"], "zazWI": ["-", "uBayoH", "-"], "saptamI": ["-", "uBayoH", "-"], "saMboDana": ["-", "uBO", "-"]},
@@ -1452,16 +1460,35 @@ for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyata
     if _w == "uBaya":
         base = "uBay"
 
+    m_table = dict(_SARVA_PRONOUN_M)
+    f_table = dict(_SARVA_PRONOUN_F)
     n_table = dict(_SARVA_PRONOUN_N)
+
     if _w in _DATARA_WORDS:
         n_table["prathamA"] = ["at", "e", "Ani"]
         n_table["dvitIyA"] = ["at", "e", "Ani"]
         n_table["saMboDana"] = ["at", "e", "Ani"]
 
+    if _w in _PURVADI_WORDS:
+        # Panini 1.1.32 vibhāṣā jasi: prathamA bahuvacana e / AH
+        m_table["prathamA"] = ["aH", "O", "e / AH"]
+        m_table["saMboDana"] = ["a", "O", "e / AH"]
+        # Panini 1.1.34 pūrvaparāvara...: pañcamI ekavacana asmAt / At, saptamI asmin / e
+        m_table["paYcamI"] = ["asmAt / At", "AByAm", "eByaH"]
+        m_table["saptamI"] = ["asmin / e", "ayoH", "ezu"]
+
+        n_table["paYcamI"] = ["asmAt / At", "AByAm", "eByaH"]
+        n_table["saptamI"] = ["asmin / e", "ayoH", "ezu"]
+
+        f_table["caturTI"] = ["asyE / AyE", "AByAm", "AByaH"]
+        f_table["paYcamI"] = ["asyAH / AyAH", "AByAm", "AByaH"]
+        f_table["zazWI"] = ["asyAH / AyAH", "ayoH", "AsAm"]
+        f_table["saptamI"] = ["asyAm / AyAm", "ayoH", "Asu"]
+
     PRONOUNS[_w] = {
-        "m": {v: [apply_natva(base + s) for s in sufs] for v, sufs in _SARVA_PRONOUN_M.items()},
-        "f": {v: [apply_natva(base + s) for s in sufs] for v, sufs in _SARVA_PRONOUN_F.items()},
-        "n": {v: [apply_natva(base + s) for s in sufs] for v, sufs in n_table.items()},
+        "m": {v: [_add_pronoun_suf(base, s) for s in sufs] for v, sufs in m_table.items()},
+        "f": {v: [_add_pronoun_suf(base, s) for s in sufs] for v, sufs in f_table.items()},
+        "n": {v: [_add_pronoun_suf(base, s) for s in sufs] for v, sufs in n_table.items()},
     }
 
 # asmad / yuzmad – personal pronouns (no gender, enclitics only in 2, 4, 6)
@@ -2159,6 +2186,11 @@ def flatten_forms(result: dict[str, Any]) -> list[dict[str, str]]:
     return rows
 
 def to_table(result: dict[str, Any]) -> str:
+    if result.get("is_avyaya"):
+        d = result.get("dhatu", "")
+        p = result.get("pratyaya", "")
+        form = result.get("form", "")
+        return f"# {d} + {p} [avyaya] (indeclinable)\nform: {form}"
     lines = []
     lines.append(f"# {result.get('word')}  [{result.get('type')}]  {result.get('desc','')}  gender={result.get('gender','') or ','.join(result.get('genders',{}))}  paradigm={result.get('paradigm','')}")
     if "forms" in result:
@@ -2180,6 +2212,219 @@ def to_table(result: dict[str, Any]) -> str:
                 e, d, b = tbl[vib]
                 lines.append(f"{vib:12} | {e:14} | {d:14} | {b:14}")
     return "\n".join(lines)
+
+def to_markdown(result: dict[str, Any]) -> str:
+    """Format declension result as a GitHub Flavored Markdown table."""
+    if result.get("is_avyaya"):
+        d = result.get("dhatu", "")
+        p = result.get("pratyaya", "")
+        form = result.get("form", "")
+        return f"# {d} + {p} [avyaya] (indeclinable)\n\n**Form:** `{form}`"
+    lines = []
+    title = f"# {result.get('word', '')}"
+    meta = []
+    if result.get("type"):
+        meta.append(f"type: {result['type']}")
+    if result.get("paradigm"):
+        meta.append(f"paradigm: {result['paradigm']}")
+    if result.get("desc"):
+        meta.append(result["desc"])
+    if meta:
+        lines.append(f"{title} ({', '.join(meta)})\n")
+    else:
+        lines.append(f"{title}\n")
+
+    if "forms" in result:
+        lines.append("| vibhakti | ekavacana | dvivacana | bahuvacana |")
+        lines.append("| --- | --- | --- | --- |")
+        for vib in VIBHAKTIS:
+            if vib not in result["forms"]:
+                continue
+            e, d, b = result["forms"][vib]
+            lines.append(f"| {vib} | {e} | {d} | {b} |")
+    elif "genders" in result:
+        for g, tbl in result["genders"].items():
+            lines.append(f"\n### gender: {g}\n")
+            lines.append("| vibhakti | ekavacana | dvivacana | bahuvacana |")
+            lines.append("| --- | --- | --- | --- |")
+            for vib in VIBHAKTIS:
+                if vib not in tbl:
+                    continue
+                e, d, b = tbl[vib]
+                lines.append(f"| {vib} | {e} | {d} | {b} |")
+    return "\n".join(lines)
+
+def to_html(result: dict[str, Any]) -> str:
+    """Format declension result as semantic HTML."""
+    import html
+    if result.get("is_avyaya"):
+        d = html.escape(str(result.get("dhatu", "")))
+        p = html.escape(str(result.get("pratyaya", "")))
+        form = html.escape(str(result.get("form", "")))
+        return f'<div class="subanta-declension">\n  <h3>{d} + {p} [avyaya] (indeclinable)</h3>\n  <p><strong>Form:</strong> {form}</p>\n</div>'
+
+    word = html.escape(str(result.get("word", "")))
+    lines = ['<div class="subanta-declension">']
+    title_parts = [f"<h3>{word}"]
+    if result.get("gender"):
+        title_parts.append(f" (gender={html.escape(str(result['gender']))}")
+        if result.get("paradigm"):
+            title_parts.append(f", paradigm={html.escape(str(result['paradigm']))}")
+        title_parts.append(")")
+    title_parts.append("</h3>")
+    lines.append("  " + "".join(title_parts))
+
+    def _render_table(forms_map: dict[str, list[str]], indent: str = "  ") -> list[str]:
+        t = [
+            f'{indent}<table class="subanta-table">',
+            f'{indent}  <thead>',
+            f'{indent}    <tr><th>vibhakti</th><th>ekavacana</th><th>dvivacana</th><th>bahuvacana</th></tr>',
+            f'{indent}  </thead>',
+            f'{indent}  <tbody>',
+        ]
+        for vib in VIBHAKTIS:
+            if vib not in forms_map:
+                continue
+            e, d, b = forms_map[vib]
+            t.append(f'{indent}    <tr><td>{html.escape(vib)}</td><td>{html.escape(e)}</td><td>{html.escape(d)}</td><td>{html.escape(b)}</td></tr>')
+        t.append(f'{indent}  </tbody>')
+        t.append(f'{indent}</table>')
+        return t
+
+    if "forms" in result:
+        lines.extend(_render_table(result["forms"]))
+    elif "genders" in result:
+        for g, tbl in result["genders"].items():
+            lines.append(f'  <h4>gender: {html.escape(g)}</h4>')
+            lines.extend(_render_table(tbl))
+    lines.append('</div>')
+    return "\n".join(lines)
+
+def to_csv(result: dict[str, Any]) -> str:
+    """Format declension result as CSV."""
+    import csv
+    import io
+    output = io.StringIO()
+    writer = csv.writer(output)
+    if result.get("is_avyaya"):
+        writer.writerow(["type", "dhatu", "pratyaya", "form"])
+        writer.writerow(["avyaya", result.get("dhatu", ""), result.get("pratyaya", ""), result.get("form", "")])
+        return output.getvalue().rstrip()
+
+    if "forms" in result:
+        writer.writerow(["vibhakti", "ekavacana", "dvivacana", "bahuvacana"])
+        for vib in VIBHAKTIS:
+            if vib not in result["forms"]:
+                continue
+            e, d, b = result["forms"][vib]
+            writer.writerow([vib, e, d, b])
+    elif "genders" in result:
+        writer.writerow(["gender", "vibhakti", "ekavacana", "dvivacana", "bahuvacana"])
+        for g, tbl in result["genders"].items():
+            for vib in VIBHAKTIS:
+                if vib not in tbl:
+                    continue
+                e, d, b = tbl[vib]
+                writer.writerow([g, vib, e, d, b])
+    return output.getvalue().rstrip()
+
+def to_latex(result: dict[str, Any]) -> str:
+    """Format declension result as LaTeX tabular."""
+    if result.get("is_avyaya"):
+        d = result.get("dhatu", "")
+        p = result.get("pratyaya", "")
+        form = result.get("form", "")
+        return f"% {d} + {p} [avyaya]\n\\textbf{{{d} + {p}}} (avyaya): \\texttt{{{form}}}"
+
+    lines = []
+    word = result.get("word", "")
+    lines.append(f"% {word} [{result.get('type','')}] {result.get('paradigm','')}")
+
+    def _render_tabular(tbl: dict[str, list[str]]) -> list[str]:
+        t = [
+            "\\begin{tabular}{|l|l|l|l|}",
+            "\\hline",
+            "\\textbf{vibhakti} & \\textbf{ekavacana} & \\textbf{dvivacana} & \\textbf{bahuvacana} \\\\",
+            "\\hline",
+        ]
+        for vib in VIBHAKTIS:
+            if vib not in tbl:
+                continue
+            e, d, b = tbl[vib]
+            t.append(f"{vib} & {e} & {d} & {b} \\\\")
+        t.append("\\hline")
+        t.append("\\end{tabular}")
+        return t
+
+    if "forms" in result:
+        lines.extend(_render_tabular(result["forms"]))
+    elif "genders" in result:
+        for g, tbl in result["genders"].items():
+            lines.append(f"\n% gender: {g}")
+            lines.append(f"\\subsubsection*{{Gender: {g}}}")
+            lines.extend(_render_tabular(tbl))
+    return "\n".join(lines)
+
+def to_anki(result: dict[str, Any]) -> str:
+    """Export to TSV suitable for Anki flashcard import (Front <TAB> Back <TAB> Tag)."""
+    if result.get("is_avyaya"):
+        d = result.get("dhatu", "")
+        p = result.get("pratyaya", "")
+        form = result.get("form", "")
+        return f"{d} + {p} [avyaya]\t{form}\tavyaya"
+
+    word = result.get("word", "")
+    paradigm = result.get("paradigm", "") or result.get("type", "nominal")
+    tag = f"subanta:{paradigm}" if not result.get("pratyaya") else f"krdanta:{result.get('pratyaya')}"
+
+    cards = []
+    if "forms" in result:
+        gender = result.get("gender", "")
+        gender_tag = f" [{gender}]" if gender else ""
+        for vib in VIBHAKTIS:
+            if vib not in result["forms"]:
+                continue
+            row = result["forms"][vib]
+            for idx, vac in enumerate(VACANAS):
+                val = row[idx].strip()
+                if not val or val == "-":
+                    continue
+                front = f"{word}{gender_tag} - {vib} {vac}"
+                cards.append(f"{front}\t{val}\t{tag}")
+    elif "genders" in result:
+        for g, tbl in result["genders"].items():
+            for vib in VIBHAKTIS:
+                if vib not in tbl:
+                    continue
+                row = tbl[vib]
+                for idx, vac in enumerate(VACANAS):
+                    val = row[idx].strip()
+                    if not val or val == "-":
+                        continue
+                    front = f"{word} [{g}] - {vib} {vac}"
+                    cards.append(f"{front}\t{val}\t{tag}")
+    return "\n".join(cards)
+
+def format_declension(result: dict[str, Any], fmt: str = "table") -> str:
+    """Format declension result according to specified format."""
+    import json
+    fmt = fmt.lower().strip()
+    if fmt in ("table", "ascii", "text", "txt"):
+        return to_table(result)
+    elif fmt in ("markdown", "md"):
+        return to_markdown(result)
+    elif fmt == "html":
+        return to_html(result)
+    elif fmt == "csv":
+        return to_csv(result)
+    elif fmt in ("latex", "tex"):
+        return to_latex(result)
+    elif fmt in ("anki", "tsv", "flashcards"):
+        return to_anki(result)
+    elif fmt == "json":
+        return json.dumps(result, ensure_ascii=False, indent=2)
+    else:
+        raise ValueError(f"Unknown format '{fmt}'. Choose from: table, markdown, html, csv, latex, anki, json")
 
 def decline_to_dict(word: str, gender: str | None = None, paradigm: str | None = None, category: str | None = None) -> dict[str, Any]:
     res = decline(word, gender=gender, paradigm=paradigm, category=category)
@@ -2345,8 +2590,86 @@ def analyze_form(word: str, limit: int = 20, loose: bool = True) -> list[dict[st
             break
     return hits[:limit]
 
+def _find_participles_for_lemmas(lemmas: list[str], db_path=None) -> dict[str, list[dict[str, Any]]]:
+    """Look up participle records matching candidate bases or feminine stems."""
+    if not lemmas:
+        return {}
+    try:
+        from .db import connect
+        con = connect(db_path)
+    except Exception:
+        return {}
+
+    base_map: dict[str, list[str]] = {}
+    all_cands: set[str] = set()
+    for l in lemmas:
+        cands = [l]
+        if l.endswith("I"):
+            cands.append(l[:-1])
+            if l.endswith("trI"):
+                cands.append(l[:-3] + "tf")
+        elif l.endswith("A"):
+            cands.append(l[:-1] + "a")
+        base_map[l] = cands
+        all_cands.update(cands)
+
+    if not all_cands:
+        return {}
+
+    cands_list = list(all_cands)
+    placeholders = ",".join("?" for _ in cands_list)
+    q = f"""
+    SELECT pf.dhatu_id, pf.prefix, pf.category, pf.variant as pratyaya, pf.base, pf.f,
+           di_dhatu.value as dhatu, di_artha.value as arTaH, di_eng.value as english
+    FROM participle_forms pf
+    LEFT JOIN dhatu_info di_dhatu ON di_dhatu.dhatu_id = pf.dhatu_id AND di_dhatu.name = 'OpadeSikasvarUpam'
+    LEFT JOIN dhatu_info di_artha ON di_artha.dhatu_id = pf.dhatu_id AND di_artha.name = 'arTaH'
+    LEFT JOIN dhatu_info di_eng   ON di_eng.dhatu_id   = pf.dhatu_id AND di_eng.name   = 'English Meaning'
+    WHERE pf.base IN ({placeholders}) OR pf.f IN ({placeholders})
+    """
+    try:
+        cur = con.execute(q, cands_list + cands_list)
+        rows = cur.fetchall()
+    except Exception:
+        return {}
+
+    results_by_cand: dict[str, list[dict[str, Any]]] = {}
+    for r in rows:
+        item = {
+            "dhatu_id": r["dhatu_id"],
+            "prefix": r["prefix"] or "",
+            "category": r["category"],
+            "pratyaya": r["pratyaya"],
+            "base": r["base"],
+            "f": r["f"] or "",
+            "dhatu": r["dhatu"] or "",
+            "artha": r["arTaH"] or "",
+            "english": r["english"] or "",
+        }
+        b = r["base"]
+        results_by_cand.setdefault(b, []).append(item)
+        if r["f"]:
+            results_by_cand.setdefault(r["f"], []).append(item)
+            if "/" in r["f"]:
+                for part in r["f"].split("/"):
+                    results_by_cand.setdefault(part.strip(), []).append(item)
+
+    lemma_to_parts: dict[str, list[dict[str, Any]]] = {}
+    for l in lemmas:
+        seen = set()
+        matched = []
+        for c in base_map.get(l, []):
+            for item in results_by_cand.get(c, []):
+                key = (item["dhatu_id"], item["prefix"], item["category"], item["pratyaya"])
+                if key not in seen:
+                    seen.add(key)
+                    matched.append(item)
+        if matched:
+            lemma_to_parts[l] = matched
+    return lemma_to_parts
+
 def analyze(word: str, limit: int = 20, loose: bool = True, db_path=None, include_verb: bool = True) -> list[dict[str, Any]]:
-    """Unified analyzer: verb conjugations + nominal declensions."""
+    """Unified analyzer: verb conjugations + nominal declensions + participle linking."""
     hits: list[dict[str, Any]] = []
     if include_verb:
         try:
@@ -2365,8 +2688,42 @@ def analyze(word: str, limit: int = 20, loose: bool = True, db_path=None, includ
     try:
         remaining = limit - len(hits)
         if remaining > 0:
-            nom = analyze_form(word, limit=remaining, loose=loose)
-            hits.extend(nom)
+            nom = analyze_form(word, limit=max(limit * 3, 60), loose=loose)
+            part_map = _find_participles_for_lemmas(list({h["lemma"] for h in nom}), db_path=db_path) if include_verb else {}
+
+            participle_hits: list[dict[str, Any]] = []
+            noun_hits: list[dict[str, Any]] = []
+
+            for h in nom:
+                l = h["lemma"]
+                if l in part_map:
+                    for p in part_map[l]:
+                        ph = dict(h)
+                        ph["type"] = "participle"
+                        ph["match_type"] = "participle_declension"
+                        ph["dhatu"] = p["dhatu"]
+                        ph["dhatu_id"] = p["dhatu_id"]
+                        ph["participle_dhatu"] = p["dhatu"]
+                        ph["participle_dhatu_id"] = p["dhatu_id"]
+                        ph["pratyaya"] = p["pratyaya"]
+                        ph["category"] = p["category"]
+                        ph["prefix"] = p["prefix"]
+                        ph["participle_base"] = p["base"]
+                        ph["artha"] = p["artha"]
+                        ph["english"] = p["english"]
+                        participle_hits.append(ph)
+                else:
+                    noun_hits.append(h)
+
+            seen = set()
+            for h in participle_hits + noun_hits:
+                key = (h.get("match_type"), h.get("dhatu_id"), h.get("lemma"), h.get("gender"), h.get("vibhakti"), h.get("vacana"))
+                if key in seen:
+                    continue
+                seen.add(key)
+                hits.append(h)
+                if len(hits) >= limit:
+                    break
     except Exception:
         pass
     return hits[:limit]

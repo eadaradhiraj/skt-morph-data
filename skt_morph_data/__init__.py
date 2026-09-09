@@ -49,8 +49,13 @@ from .subanta import (
     get_declension,
     list_numerals,
     list_paradigms,
-    list_pronouns,
     to_table,
+    to_markdown,
+    to_html,
+    to_csv,
+    to_latex,
+    to_anki,
+    format_declension,
 )
 from .krdanta import (
     decline_participle,
@@ -90,6 +95,12 @@ __all__ = [
     "list_pronouns",
     "list_numerals",
     "to_table",
+    "to_markdown",
+    "to_html",
+    "to_csv",
+    "to_latex",
+    "to_anki",
+    "format_declension",
     "analyze",
     "analyze_form",
     # krdanta / participle declension

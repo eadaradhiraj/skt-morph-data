@@ -1,0 +1,73 @@
+{
+  "id": "01.1137",
+  "split_from": "01.1137.json",
+  "parts": [
+    "01.1137.base.json",
+    "01.1137.upasarga_00.json",
+    "01.1137.upasarga_01.json",
+    "01.1137.upasarga_02.json",
+    "01.1137.upasarga_03.json",
+    "01.1137.upasarga_04.json"
+  ],
+  "upasarga_chunks": [
+    [
+      "A",
+      "AN",
+      "aBi",
+      "aBi;AN",
+      "aBi;sam",
+      "aBi;ud",
+      "aBi;upa",
+      "aDi",
+      "anu",
+      "anu;sam"
+    ],
+    [
+      "apa",
+      "api",
+      "ati",
+      "ava",
+      "dur",
+      "dus",
+      "ni",
+      "nir",
+      "parA",
+      "pari"
+    ],
+    [
+      "pari;AN",
+      "pari;ud",
+      "pra",
+      "prati",
+      "prati;A",
+      "prati;AN",
+      "prati;ava",
+      "prati;ud",
+      "sam",
+      "sam;A"
+    ],
+    [
+      "sam;AN",
+      "sam;aDi",
+      "sam;anu",
+      "sam;anu;AN",
+      "sam;ni",
+      "sam;upa",
+      "sam;upa;AN",
+      "su",
+      "ud",
+      "upa"
+    ],
+    [
+      "upa;A",
+      "upa;AN",
+      "upa;ni",
+      "upa;sam",
+      "vi",
+      "vi;apa",
+      "vi;ati",
+      "vi;ni",
+      "vi;pra"
+    ]
+  ]
+}

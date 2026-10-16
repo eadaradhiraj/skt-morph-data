@@ -1,0 +1,51 @@
+{
+  "id": "01.0923",
+  "source": "ashtadhyayi.com krdanta subanta tables via Dhatu.showSubantaFormsInSidebar / AshtadhyayiPrakriya.generateSubantaPrakriyas (8x3)",
+  "tabs": [
+    "krut",
+    "san_krut",
+    "nich_krut",
+    "yang_krut",
+    "yangluk_krut"
+  ],
+  "base": {
+    "krut": [],
+    "san_krut": [],
+    "nich_krut": [],
+    "yang_krut": [],
+    "yangluk_krut": []
+  },
+  "upasarga": {},
+  "stats": {
+    "base:krut": {
+      "clickable_spans": 0,
+      "unique_tables": 0,
+      "tables_ok": 0
+    },
+    "base:san_krut": {
+      "clickable_spans": 0,
+      "unique_tables": 0,
+      "tables_ok": 0
+    },
+    "base:nich_krut": {
+      "clickable_spans": 0,
+      "unique_tables": 0,
+      "tables_ok": 0
+    },
+    "base:yang_krut": {
+      "clickable_spans": 0,
+      "unique_tables": 0,
+      "tables_ok": 0
+    },
+    "base:yangluk_krut": {
+      "clickable_spans": 0,
+      "unique_tables": 0,
+      "tables_ok": 0
+    }
+  },
+  "notes": [
+    "Only spans with showSubantaFormsInSidebar are stored; avyayas (ktvA, lyap, tumun, Namul) have no declension table.",
+    "Gender presence is read from the page: nitya-linga pratyayas yield one table, others up to three (pu/strI/napuM).",
+    "table: 8 vibhakti x 3 vachana, SLP1; empty list = '-' on site."
+  ]
+}

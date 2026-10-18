@@ -49,6 +49,7 @@ from .subanta import (
     get_declension,
     list_numerals,
     list_paradigms,
+    list_pronouns,
     to_table,
     to_markdown,
     to_html,

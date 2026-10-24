@@ -52,7 +52,9 @@ class TestKrdanta(unittest.TestCase):
 
         self.assertEqual(res["genders"]["m"]["prathamA"], ["kftavAn", "kftavantO", "kftavantaH"])
         self.assertEqual(res["genders"]["f"]["prathamA"], ["kftavatI", "kftavatyO", "kftavatyaH"])
-        self.assertEqual(res["genders"]["n"]["prathamA"], ["kftavat", "kftavatI", "kftavanti"])
+        # Neuter nom. sg. carries pause pair (kftavad / kftavat) per Ashtadhyayi.com ground truth
+        self.assertIn("kftavat", res["genders"]["n"]["prathamA"][0])
+        self.assertEqual(res["genders"]["n"]["prathamA"][1:], ["kftavatI", "kftavanti"])
 
     def test_satr_participle(self):
         # gam + Satf -> gacCat
@@ -64,7 +66,9 @@ class TestKrdanta(unittest.TestCase):
         self.assertEqual(res_f["forms"]["prathamA"], ["gacCantI", "gacCantyO", "gacCantyaH"])
 
         res_n = decline_participle("gam", "Satf", gender="n")
-        self.assertEqual(res_n["forms"]["prathamA"], ["gacCat", "gacCatI", "gacCanti"])
+        # Neuter nom. sg. carries pause pair (gacCad / gacCat); dual carries gacCantI per @pacat1
+        self.assertIn("gacCat", res_n["forms"]["prathamA"][0])
+        self.assertEqual(res_n["forms"]["prathamA"][1:], ["gacCantI", "gacCanti"])
 
     def test_tfc_agent_noun(self):
         # BU + tfc -> Bavitf

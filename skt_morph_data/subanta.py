@@ -43,7 +43,12 @@ Paradigm keys (noun):
 
 from __future__ import annotations
 
-from typing import Any
+import re
+from dataclasses import dataclass
+from enum import Enum
+from typing import Any, Optional
+
+from .subanta_data import CELL_ALTS
 
 # ---------------------------------------------------------------------------
 # Vibhakti / vacana order
@@ -62,14 +67,638 @@ VIBHAKTI_SHORT = {
     "saMboDana": "voc",
 }
 
+VIBHAKTI_INDEX: dict[str, int] = {v: i + 1 for i, v in enumerate(VIBHAKTIS)}
+VACANA_INDEX: dict[str, int] = {v: i + 1 for i, v in enumerate(VACANAS)}
+VIBHAKTI_ORDERED = list(VIBHAKTIS)
+
+# ---------------------------------------------------------------------------
+# Parity architecture with dhaturupa-wasm (Rust) — see docs/SUBANTA_KRDANTA_PARITY_PLAN.md
+# New class-based paradigm types mirroring `engine/subanta.rs` (~9.2k lines).
+# ---------------------------------------------------------------------------
+class Linga(str, Enum):
+    """Linga (gender/literality class) of a nominal paradigm: m | f | n."""
+
+    M = "m"  # Pullinga
+    F = "f"  # Strilinga
+    N = "n"  # Napumsakalinga
+
+    @classmethod
+    def parse(cls, s: Optional[str]) -> Optional["Linga"]:
+        if s is None:
+            return None
+        t = str(s).strip().lower()
+        if not t:
+            return None
+        for lg in cls:
+            if lg.value == t:
+                return lg
+        return None
+
+    def __str__(self) -> str:
+        return self.value
+
+    @property
+    def label(self) -> str:
+        return self.value
+
+
+@dataclass(slots=True)
+class SubantaSlot:
+    """One vibhakti × vacana cell of a paradigm (8 × 3 = 24 slots)."""
+
+    vibhakti: int  # 1 to 8 (8 = saMboDana / sambodhana)
+    vacana: int  # 1: eka, 2: dvi, 3: bahu
+    forms: list[str]  # e.g. ["BavanAd", "BavanAt"]
+
+
+@dataclass(slots=True)
+class SubantaParadigm:
+    """A single declined paradigm: stem + linga + class + 24 cells."""
+
+    stem: str
+    linga: Linga
+    class_id: str
+    cells: list[SubantaSlot]  # Exactly 24 slots (8 x 3)
+
+
+def _gender_of_liga(lg: Linga) -> str:
+    if lg is None:
+        return "m"
+    return {"m": "m", "f": "f", "n": "n"}.get(str(lg), "m")
+
+
+def _slot(vibhakti: str, vacana: str, forms: list[str]) -> SubantaSlot:
+    return SubantaSlot(
+        vibhakti=int(VIBHAKTI_INDEX[vibhakti]),
+        vacana=int(VACANA_INDEX[vacana]),
+        forms=[f.strip() for f in forms] if forms else ["-"],
+    )
+
+
+def site_grid_cells(spec: str) -> list[SubantaSlot]:
+    """Expand one SITE_GRIDS spec (row-major `|`-joined cells, `/`-joined alternants)."""
+    vibs = list(VIBHAKTIS)
+    vacs = list(VACANAS)
+    cells = spec.split("|")
+    out: list[SubantaSlot] = []
+    for i, cell in enumerate(cells):
+        vib_i = i // 3
+        vac_i = i % 3
+        if vib_i >= len(vibs) or vac_i >= len(vacs):
+            break
+        vib = vibs[vib_i]
+        vac = vacs[vac_i]
+        if cell.strip() == "":
+            forms: list[str] = []
+        else:
+            forms = [f.strip() for f in cell.split("/") if f.strip()]
+        out.append(SubantaSlot(vibhakti=int(VIBHAKTI_INDEX[vib]), vacana=int(VACANA_INDEX[vac]), forms=forms))
+    return out
+
+
+# Site-verbatim paradigm grids (irregular words the site grids in full).
+# Tuple: (stem, linga, cells-spec) — cells are row-major over 8 vibhaktis x 3 vacanas.
+SITE_GRIDS: list[tuple[str, str, str]] = [
+    ("x", "m", "A|alO|alaH|alam|alO|Fn|lA|xByAm|xBiH|le|xByAm|xByaH|ul|xByAm|xByaH|ul|loH|FRAm|ali|loH|xzu|al|alO|alaH"),
+    ("kF", "m", "kFH/kIH|krO/kirO|kraH/kiraH|kFm/kiram|krO/kirO|kFn/kiraH|krA/kirA|kFByAm/kIrByAm|kFBiH/kIrBiH|kre/kire|kFByAm/kIrByAm|kFByaH/kIrByaH|kraH/kiraH|kFByAm/kIrByAm|kFByaH/kIrByaH|kraH/kiraH|kroH/kiroH|krAm/kirAm|kri/kiri|kroH/kiroH|kFzu/kIrzu|kFH/kIH|krO/kirO|kraH/kiraH"),
+    ("gamx", "m", "gamA|gamalO|gamalaH|gamalam|gamalO|gamFn|gamlA|gamxByAm|gamxBiH|gamle|gamxByAm|gamxByaH|gamul|gamxByAm|gamxByaH|gamul|gamloH|gamFRAm|gamali|gamloH|gamxzu|gamal|gamalO|gamalaH"),
+    ("gamx", "n", "gamx|gamxnI|gamFRi|gamx|gamxnI|gamFRi|gamxnA/gamlA|gamxByAm|gamxBiH|gamxne/gamle|gamxByAm|gamxByaH|gamxnaH/gamul|gamxByAm|gamxByaH|gamxnaH/gamul|gamxnoH/gamloH|gamFRAm|gamxni/gamali|gamxnoH/gamloH|gamxzu|gamx/gamal|gamxnI|gamFRi"),
+    ("tF", "m", "tFH/tIH|trO/tirO|traH/tiraH|tFm/tiram|trO/tirO|tFn/tiraH|trA/tirA|tFByAm/tIrByAm|tFBiH/tIrBiH|tre/tire|tFByAm/tIrByAm|tFByaH/tIrByaH|traH/tiraH|tFByAm/tIrByAm|tFByaH/tIrByaH|traH/tiraH|troH/tiroH|trAm/tirAm|tri/tiri|troH/tiroH|tFzu/tIrzu|tFH/tIH|trO/tirO|traH/tiraH"),
+    ("Sakx", "m", "SakA|SakalO|SakalaH|Sakalam|SakalO|SakFn|SaklA|SakxByAm|SakxBiH|Sakle|SakxByAm|SakxByaH|Sakul|SakxByAm|SakxByaH|Sakul|SakloH|SakFRAm|Sakali|SakloH|Sakxzu|Sakal|SakalO|SakalaH"),
+    ("div", "f", "dyOH|divO|divaH|divam|divO|divaH|divA|dyuByAm|dyuBiH|dive|dyuByAm|dyuByaH|divaH|dyuByAm|dyuByaH|divaH|divoH|divAm|divi|divoH|dyuzu|dyOH|divO|divaH"),
+    ("dyo", "f", "dyOH|dyAvO|dyAvaH|dyAm|dyAvO|dyAH|dyavA|dyoByAm|dyoBiH|dyave|dyoByAm|dyoByaH|dyoH|dyoByAm|dyoByaH|dyoH|dyavoH|dyavAm|dyavi|dyavoH|dyozu|dyOH|dyAvO|dyAvaH"),
+    ("pradyo", "n", "pradyu|pradyunI|pradyUni|pradyu|pradyunI|pradyUni|pradyunA|pradyuByAm|pradyuBiH|pradyune|pradyuByAm|pradyuByaH|pradyunaH|pradyuByAm|pradyuByaH|pradyunaH|pradyunoH|pradyUnAm|pradyuni|pradyunoH|pradyuzu|pradyu/pradyo|pradyunI|pradyUni"),
+    ("sudyo", "m", "sudyOH|sudyAvO|sudyAvaH|sudyAm|sudyAvO|sudyAH|sudyavA|sudyoByAm|sudyoBiH|sudyave|sudyoByAm|sudyoByaH|sudyoH|sudyoByAm|sudyoByaH|sudyoH|sudyavoH|sudyavAm|sudyavi|sudyavoH|sudyozu|sudyOH|sudyAvO|sudyAvaH"),
+    ("sudiv", "m", "sudyOH|sudivO|sudivaH|sudivam|sudivO|sudivaH|sudivA|sudyuByAm|sudyuBiH|sudive|sudyuByAm|sudyuByaH|sudivaH|sudyuByAm|sudyuByaH|sudivaH|sudivoH|sudivAm|sudivi|sudivoH|sudyuzu|sudyOH|sudivO|sudivaH"),
+    ("vimaladiv", "n", "vimaladyu|vimaladivI|vimaladivi|vimaladyu|vimaladivI|vimaladivi|vimaladivA|vimaladyuByAm|vimaladyuBiH|vimaladive|vimaladyuByAm|vimaladyuByaH|vimaladivaH|vimaladyuByAm|vimaladyuByaH|vimaladivaH|vimaladivoH|vimaladivAm|vimaladivi|vimaladivoH|vimaladyuzu|vimaladyu|vimaladivI|vimaladivi"),
+    ("praDI", "m", "praDIH|praDyO|praDyaH|praDyam|praDyO|praDyaH|praDyA|praDIByAm|praDIBiH|praDyE|praDIByAm|praDIByaH|praDyAH|praDIByAm|praDIByaH|praDyAH|praDyoH|praDInAm|praDyAm|praDyoH|praDIzu|praDi|praDyO|praDyaH"),
+    ("praDI", "m", "praDIH|praDyO|praDyaH|praDyam|praDyO|praDyaH|praDyA|praDIByAm|praDIBiH|praDye|praDIByAm|praDIByaH|praDyaH|praDIByAm|praDIByaH|praDyaH|praDyoH|praDyAm|praDyi|praDyoH|praDIzu|praDIH|praDyO|praDyaH"),
+    ("praDI", "f", "praDIH|praDyO|praDyaH|praDyam|praDyO|praDyaH|praDyA|praDIByAm|praDIBiH|praDye/praDyE|praDIByAm|praDIByaH|praDyaH/praDyAH|praDIByAm|praDIByaH|praDyaH/praDyAH|praDyoH|praDyAm/praDInAm|praDyi/praDyAm|praDyoH|praDIzu|praDIH/praDi|praDyO|praDyaH"),
+    ("praDI", "f", "praDIH|praDyO|praDyaH|praDyam|praDyO|praDyaH|praDyA|praDIByAm|praDIBiH|praDyE|praDIByAm|praDIByaH|praDyAH|praDIByAm|praDIByaH|praDyAH|praDyoH|praDInAm|praDyAm|praDyoH|praDIzu|praDi|praDyO|praDyaH"),
+    ("praDI", "n", "praDi|praDinI|praDIni|praDi|praDinI|praDIni|praDinA/praDyA|praDiByAm|praDiBiH|praDine/praDye|praDiByAm|praDiByaH|praDinaH/praDyaH|praDiByAm|praDiByaH|praDinaH/praDyaH|praDinoH/praDyoH|praDInAm/praDyAm|praDini/praDyi|praDinoH/praDyoH|praDizu|praDi/praDe|praDinI|praDIni"),
+    ("suDI", "m", "suDIH|suDiyO|suDiyaH|suDiyam|suDiyO|suDiyaH|suDiyA|suDIByAm|suDIBiH|suDiye|suDIByAm|suDIByaH|suDiyaH|suDIByAm|suDIByaH|suDiyaH|suDiyoH|suDiyAm|suDiyi|suDiyoH|suDIzu|suDIH|suDiyO|suDiyaH"),
+    ("suDI", "f", "suDIH|suDiyO|suDiyaH|suDiyam|suDiyO|suDiyaH|suDiyA|suDIByAm|suDIBiH|suDiye/suDiyE|suDIByAm|suDIByaH|suDiyaH/suDiyAH|suDIByAm|suDIByaH|suDiyaH/suDiyAH|suDiyoH|suDiyAm/suDInAm|suDiyi/suDiyAm|suDiyoH|suDIzu|suDIH|suDiyO|suDiyaH"),
+    ("suDI", "n", "suDi|suDinI|suDIni|suDi|suDinI|suDIni|suDinA/suDiyA|suDiByAm|suDiBiH|suDine/suDiye|suDiByAm|suDiByaH|suDinaH/suDiyaH|suDiByAm|suDiByaH|suDinaH/suDiyaH|suDinoH/suDiyoH|suDInAm/suDiyAm|suDini/suDiyi|suDinoH/suDiyoH|suDizu|suDi/suDe|suDinI|suDIni"),
+    ("prarE", "n", "prari|prariRI|prarIRi|prari|prariRI|prarIRi|prariRA|prarAByAm|prarABiH|prariRe|prarAByAm|prarAByaH|prariRaH|prarAByAm|prarAByaH|prariRaH|prariRoH|prarIRAm|prariRi|prariRoH|prarAsu|prari/prare|prariRI|prarIRi"),
+    ("sunO", "n", "sunu|sununI|sunUni|sunu|sununI|sunUni|sununA|sunuByAm|sunuBiH|sunune|sunuByAm|sunuByaH|sununaH|sunuByAm|sunuByaH|sununaH|sununoH|sunUnAm|sununi|sununoH|sunuzu|sunu/suno|sununI|sunUni"),
+    ("sulU", "m", "sulUH|sulvO|sulvaH|sulvam|sulvO|sulvaH|sulvA|sulUByAm|sulUBiH|sulve|sulUByAm|sulUByaH|sulvaH|sulUByAm|sulUByaH|sulvaH|sulvoH|sulvAm|sulvi|sulvoH|sulUzu|sulUH|sulvO|sulvaH"),
+    ("sulU", "n", "sulu|sulunI|sulUni|sulu|sulunI|sulUni|sulunA/sulvA|suluByAm|suluBiH|sulune/sulve|suluByAm|suluByaH|sulunaH/sulvaH|suluByAm|suluByaH|sulunaH/sulvaH|sulunoH/sulvoH|sulUnAm/sulvAm|suluni/sulvi|sulunoH/sulvoH|suluzu|sulu/sulo|sulunI|sulUni"),
+    ("se", "m", "seH|sayO|sayaH|sayam|sayO|sayaH|sayA|seByAm|seBiH|saye|seByAm|seByaH|seH|seByAm|seByaH|seH|sayoH|sayAm|sayi|sayoH|sezu|se|sayO|sayaH"),
+    ("smfte", "m", "smfteH|smftayO|smftayaH|smftayam|smftayO|smftayaH|smftayA|smfteByAm|smfteBiH|smftaye|smfteByAm|smfteByaH|smfteH|smfteByAm|smfteByaH|smfteH|smftayoH|smftayAm|smftayi|smftayoH|smftezu|smfte|smftayO|smftayaH"),
+    ("smfto", "m", "smftOH|smftAvO|smftAvaH|smftAm|smftAvO|smftAH|smftavA|smftoByAm|smftoBiH|smftave|smftoByAm|smftoByaH|smftoH|smftoByAm|smftoByaH|smftoH|smftavoH|smftavAm|smftavi|smftavoH|smftozu|smftOH|smftAvO|smftAvaH"),
+    ("susmfte", "n", "susmfti|susmftinI|susmftIni|susmfti|susmftinI|susmftIni|susmftinA|susmftiByAm|susmftiBiH|susmftine|susmftiByAm|susmftiByaH|susmftinaH|susmftiByAm|susmftiByaH|susmftinaH|susmftinoH|susmftInAm|susmftini|susmftinoH|susmftizu|susmfti/susmfte|susmftinI|susmftIni"),
+    ("praSAm", "m", "praSAn|praSAmO|praSAmaH|praSAmam|praSAmO|praSAmaH|praSAmA|praSAnByAm|praSAnBiH|praSAme|praSAnByAm|praSAnByaH|praSAmaH|praSAnByAm|praSAnByaH|praSAmaH|praSAmoH|praSAmAm|praSAmi|praSAmoH|praSAnsu/praSAntsu|praSAn|praSAmO|praSAmaH"),
+    ("svap", "n", "svab/svap|svapI|svampi/svAmpi|svab/svap|svapI|svampi/svAmpi|svapA|svadByAm|svadBiH|svape|svadByAm|svadByaH|svapaH|svadByAm|svadByaH|svapaH|svapoH|svapAm|svapi|svapoH|svapsu|svab/svap|svapI|svampi/svAmpi"),
+    ("paramacatur", "m", "||paramacatvAraH|||paramacaturaH|||paramacaturBiH|||paramacaturByaH|||paramacaturByaH|||paramacaturRAm|||paramacaturzu|||paramacatvAraH"),
+    ("priyacatur", "m", "priyacatvAH|priyacatvArO|priyacatvAraH|priyacatvAram|priyacatvArO|priyacaturaH|priyacaturA|priyacaturByAm|priyacaturBiH|priyacature|priyacaturByAm|priyacaturByaH|priyacaturaH|priyacaturByAm|priyacaturByaH|priyacaturaH|priyacaturoH|priyacaturAm|priyacaturi|priyacaturoH|priyacaturzu|priyacatvaH|priyacatvArO|priyacatvAraH"),
+    ("idakam", "m", "ayakam|imakO|imake|imakam/enam|imakO/enO|imakAn/enAn|imakena/enena|imakAByAm/AByAm|imakEH/eBiH|imakasmE/asmE|imakAByAm/AByAm|imakeByaH/eByaH|imakasmAd/asmAd/asmAt/imakasmAt|imakAByAm/AByAm|imakeByaH/eByaH|imakasya/asya|imakayoH/enayoH|imakezAm/ezAm|imakasmin/asmin|imakayoH/enayoH|imakezu/ezu|||"),
+    ("aticamU", "m", "aticamUH|aticamvO|aticamvaH|aticamUm|aticamvO|aticamUn|aticamvA|aticamUByAm|aticamUBiH|aticamvE|aticamUByAm|aticamUByaH|aticamvAH|aticamUByAm|aticamUByaH|aticamvAH|aticamvoH|aticamUnAm|aticamvAm|aticamvoH|aticamUzu|aticamu|aticamvO|aticamvaH"),
+    ("atilakzmI", "m", "atilakzmIH|atilakzmyO|atilakzmyaH|atilakzmIm|atilakzmyO|atilakzmIn|atilakzmyA|atilakzmIByAm|atilakzmIBiH|atilakzmyE|atilakzmIByAm|atilakzmIByaH|atilakzmyAH|atilakzmIByAm|atilakzmIByaH|atilakzmyAH|atilakzmyoH|atilakzmIRAm|atilakzmyAm|atilakzmyoH|atilakzmIzu|atilakzmi|atilakzmyO|atilakzmyaH"),
+    ("atisaKi", "m", "atisaKA|atisaKAyO|atisaKAyaH|atisaKAyam|atisaKAyO|atisaKIn|atisaKinA|atisaKiByAm|atisaKiBiH|atisaKaye|atisaKiByAm|atisaKiByaH|atisaKeH|atisaKiByAm|atisaKiByaH|atisaKeH|atisaKyoH|atisaKInAm|atisaKO|atisaKyoH|atisaKizu|atisaKe|atisaKAyO|atisaKAyaH"),
+    ("atistri", "m", "atistriH|atistriyO|atistriyaH|atistriyam/atistrim|atistriyO|atistriyaH/atistrIn|atistriRA|atistriByAm|atistriBiH|atistraye|atistriByAm|atistriByaH|atistreH|atistriByAm|atistriByaH|atistreH|atistriyoH|atistrIRAm|atistrO|atistriyoH|atistrizu|atistre|atistriyO|atistriyaH"),
+    ("atistri", "f", "atistriH|atistriyO|atistriyaH|atistriyam/atistrim|atistriyO|atistriyaH/atistrIH|atistriyA|atistriByAm|atistriBiH|atistraye/atistriyE|atistriByAm|atistriByaH|atistreH/atistriyAH|atistriByAm|atistriByaH|atistreH/atistriyAH|atistriyoH|atistrIRAm|atistrO/atistriyAm|atistriyoH|atistrizu|atistre|atistriyO|atistriyaH"),
+    ("ap", "f", "||ApaH|||apaH|||adBiH|||adByaH|||adByaH|||apAm|||apsu|||ApaH"),
+    ("arvan", "m", "arvA|arvantO|arvantaH|arvantam|arvantO|arvataH|arvatA|arvadByAm|arvadBiH|arvate|arvadByAm|arvadByaH|arvataH|arvadByAm|arvadByaH|arvataH|arvatoH|arvatAm|arvati|arvatoH|arvatsu|arvan|arvantO|arvantaH"),
+    ("ahan", "n", "ahaH|ahnI/ahanI|ahAni|ahaH|ahnI/ahanI|ahAni|ahnA|ahoByAm|ahoBiH|ahne|ahoByAm|ahoByaH|ahnaH|ahoByAm|ahoByaH|ahnaH|ahnoH|ahnAm|ahni/ahani|ahnoH|ahaHsu/ahassu|ahaH|ahnI/ahanI|ahAni"),
+    ("ANgirasa", "m", "ANgirasaH|ANgirasO|aNgirasaH|ANgirasam|ANgirasO|aNgirasaH|ANgirasena|ANgirasAByAm|aNgiroBiH|ANgirasAya|ANgirasAByAm|aNgiroByaH|ANgirasAd/ANgirasAt|ANgirasAByAm|aNgiroByaH|ANgirasasya|ANgirasayoH|aNgirasAm|ANgirase|ANgirasayoH|aNgiraHsu/aNgirassu|ANgirasa|ANgirasO|aNgirasaH"),
+    ("Urj", "n", "Urg/Urk|UrjI|Unrji|Urg/Urk|UrjI|Unrji|UrjA|UrgByAm|UrgBiH|Urje|UrgByAm|UrgByaH|UrjaH|UrgByAm|UrgByaH|UrjaH|UrjoH|UrjAm|Urji|UrjoH|Urkzu|Urg/Urk|UrjI|Unrji"),
+    ("f", "m", "A|arO|araH|aram|arO|Fn|rA|fByAm|fBiH|re|fByAm|fByaH|uH|fByAm|fByaH|uH|roH|FRAm|ari|roH|fzu|aH|arO|araH"),
+    ("kati", "m", "||kati|||kati|||katiBiH|||katiByaH|||katiByaH|||katInAm|||katizu|||kati"),
+    ("kati", "f", "||kati|||kati|||katiBiH|||katiByaH|||katiByaH|||katInAm|||katizu|||kati"),
+    ("kati", "n", "||kati|||kati|||katiBiH|||katiByaH|||katiByaH|||katInAm|||katizu|||kati"),
+    ("krunc", "m", "kruN|kruYcO|kruYcaH|kruYcam|kruYcO|kruYcaH|kruYcA|kruNByAm|kruNBiH|kruYce|kruNByAm|kruNByaH|kruYcaH|kruNByAm|kruNByaH|kruYcaH|kruYcoH|kruYcAm|kruYci|kruYcoH|kruNzu/kruNkzu/kruNKzu|kruN|kruYcO|kruYcaH"),
+    ("krozwu", "m", "krozwA|krozwArO|krozwAraH|krozwAram|krozwArO|krozwUn|krozwrA/krozwunA|krozwuByAm|krozwuBiH|krozwre/krozwave|krozwuByAm|krozwuByaH|krozwuH/krozwoH|krozwuByAm|krozwuByaH|krozwuH/krozwoH|krozwroH/krozwvoH|krozwUnAm|krozwari/krozwO|krozwroH/krozwvoH|krozwuzu|krozwo|krozwArO|krozwAraH"),
+    ("krozwu", "f", "krozwrI|krozwryO|krozwryaH|krozwrIm|krozwryO|krozwrIH|krozwryA|krozwrIByAm|krozwrIBiH|krozwryE|krozwrIByAm|krozwrIByaH|krozwryAH|krozwrIByAm|krozwrIByaH|krozwryAH|krozwryoH|krozwrIRAm|krozwryAm|krozwryoH|krozwrIzu|krozwri|krozwryO|krozwryaH"),
+    ("gopA", "f", "gopAH|gopO|gopAH|gopAm|gopO|gopaH|gopA|gopAByAm|gopABiH|gope|gopAByAm|gopAByaH|gopaH|gopAByAm|gopAByaH|gopaH|gopoH|gopAm|gopi|gopoH|gopAsu|gopAH|gopO|gopAH"),
+    ("goviz", "n", "goviq/goviw|govizI|goviMzi|goviq/goviw|govizI|goviMzi|govizA|goviqByAm|goviqBiH|govize|goviqByAm|goviqByaH|govizaH|goviqByAm|goviqByaH|govizaH|govizoH|govizAm|govizi|govizoH|goviwsu/goviwtsu|goviq/goviw|govizI|goviMzi"),
+    ("grAmaRI", "f", "grAmaRIH|grAmaRyO|grAmaRyaH|grAmaRyam|grAmaRyO|grAmaRyaH|grAmaRyA|grAmaRIByAm|grAmaRIBiH|grAmaRye|grAmaRIByAm|grAmaRIByaH|grAmaRyaH|grAmaRIByAm|grAmaRIByaH|grAmaRyaH|grAmaRyoH|grAmaRyAm|grAmaRyAm|grAmaRyoH|grAmaRIzu|grAmaRIH|grAmaRyO|grAmaRyaH"),
+    ("tamisrahan", "m", "tamisrahA|tamisrahaRO|tamisrahaRaH|tamisrahaRam|tamisrahaRO|tamisraGnaH|tamisraGnA|tamisrahaByAm|tamisrahaBiH|tamisraGne|tamisrahaByAm|tamisrahaByaH|tamisraGnaH|tamisrahaByAm|tamisrahaByaH|tamisraGnaH|tamisraGnoH|tamisraGnAm|tamisraGni/tamisrahaRi|tamisraGnoH|tamisrahasu|tamisrahan|tamisrahaRO|tamisrahaRaH"),
+    ("tyad", "m", "syaH|tyO|tye|tyam|tyO|tyAn|tyena|tyAByAm|tyEH|tyasmE|tyAByAm|tyeByaH|tyasmAd/tyasmAt|tyAByAm|tyeByaH|tyasya|tyayoH|tyezAm|tyasmin|tyayoH|tyezu|||"),
+    ("tyad", "f", "syA|tye|tyAH|tyAm|tye|tyAH|tyayA|tyAByAm|tyABiH|tyasyE|tyAByAm|tyAByaH|tyasyAH|tyAByAm|tyAByaH|tyasyAH|tyayoH|tyAsAm|tyasyAm|tyayoH|tyAsu|||"),
+    ("tyad", "n", "tyad/tyat|tye|tyAni|tyad/tyat|tye|tyAni|tyena|tyAByAm|tyEH|tyasmE|tyAByAm|tyeByaH|tyasmAd/tyasmAt|tyAByAm|tyeByaH|tyasya|tyayoH|tyezAm|tyasmin|tyayoH|tyezu|||"),
+    ("dIrGAhan", "m", "dIrGAhAH|dIrGAhAnO|dIrGAhAnaH|dIrGAhAnam|dIrGAhAnO|dIrGAhnaH|dIrGAhnA|dIrGAhoByAm|dIrGAhoBiH|dIrGAhne|dIrGAhoByAm|dIrGAhoByaH|dIrGAhnaH|dIrGAhoByAm|dIrGAhoByaH|dIrGAhnaH|dIrGAhnoH|dIrGAhnAm|dIrGAhni/dIrGAhani|dIrGAhnoH|dIrGAhaHsu/dIrGAhassu|dIrGAhaH|dIrGAhAnO|dIrGAhAnaH"),
+    ("nf", "m", "nA|narO|naraH|naram|narO|nFn|nrA|nfByAm|nfBiH|nre|nfByAm|nfByaH|nuH|nfByAm|nfByaH|nuH|nroH|nFRAm/nfRAm|nari|nroH|nfzu|naH|narO|naraH"),
+    ("pati", "m", "patiH|patI|patayaH|patim|patI|patIn|patyA|patiByAm|patiBiH|patye|patiByAm|patiByaH|patyuH|patiByAm|patiByaH|patyuH|patyoH|patInAm|patyO|patyoH|patizu|pate|patI|patayaH"),
+    ("paramatad", "m", "paramasaH|paramatO|paramate|paramatam|paramatO|paramatAn|paramatena|paramatAByAm|paramatEH|paramatasmE|paramatAByAm|paramateByaH|paramatasmAd/paramatasmAt|paramatAByAm|paramateByaH|paramatasya|paramatayoH|paramatezAm|paramatasmin|paramatayoH|paramatezu|||"),
+    ("paramatri", "m", "||paramatrayaH|||paramatrIn|||paramatriBiH|||paramatriByaH|||paramatriByaH|||paramatrayARAm|||paramatrizu|||paramatrayaH"),
+    ("paramatri", "f", "||paramatisraH|||paramatisraH|||paramatisfBiH|||paramatisfByaH|||paramatisfByaH|||paramatisfRAm|||paramatisfzu|||paramatisraH"),
+    ("paramadvi", "m", "|paramadvO|||paramadvO|||paramadvAByAm|||paramadvAByAm|||paramadvAByAm|||paramadvayoH|||paramadvayoH||||"),
+    ("paramapaYcan", "m", "||paramapaYca|||paramapaYca|||paramapaYcaBiH|||paramapaYcaByaH|||paramapaYcaByaH|||paramapaYcAnAm|||paramapaYcasu|||paramapaYca"),
+    ("paramazaz", "m", "||paramazaq/paramazaw|||paramazaq/paramazaw|||paramazaqBiH|||paramazaqByaH|||paramazaqByaH|||paramazaRRAm|||paramazawsu/paramazawtsu|||paramazaq/paramazaw"),
+    ("paramasaKi", "m", "paramasaKA|paramasaKAyO|paramasaKAyaH|paramasaKAyam|paramasaKAyO|paramasaKIn|paramasaKinA|paramasaKiByAm|paramasaKiBiH|paramasaKaye|paramasaKiByAm|paramasaKiByaH|paramasaKeH|paramasaKiByAm|paramasaKiByaH|paramasaKeH|paramasaKyoH|paramasaKInAm|paramasaKO|paramasaKyoH|paramasaKizu|paramasaKe|paramasaKAyO|paramasaKAyaH"),
+    ("paramAzwan", "m", "||paramAzwa/paramAzwO|||paramAzwa/paramAzwO|||paramAzwaBiH/paramAzwABiH|||paramAzwaByaH/paramAzwAByaH|||paramAzwaByaH/paramAzwAByaH|||paramAzwAnAm|||paramAzwasu/paramAzwAsu|||paramAzwa/paramAzwO"),
+    ("pipaWiz", "n", "pipaWIH|pipaWizI|pipaWizi|pipaWIH|pipaWizI|pipaWizi|pipaWizA|pipaWIrByAm|pipaWIrBiH|pipaWize|pipaWIrByAm|pipaWIrByaH|pipaWizaH|pipaWIrByAm|pipaWIrByaH|pipaWizaH|pipaWizoH|pipaWizAm|pipaWizi|pipaWizoH|pipaWIHzu/pipaWIzzu|pipaWIH|pipaWizI|pipaWizi"),
+    ("punarBU", "f", "punarBUH|punarBvO|punarBvaH|punarBvam|punarBvO|punarBvaH|punarBvA|punarBUByAm|punarBUBiH|punarBvE|punarBUByAm|punarBUByaH|punarBvAH|punarBUByAm|punarBUByaH|punarBvAH|punarBvoH|punarBURAm|punarBvAm|punarBvoH|punarBUzu|punarBu|punarBvO|punarBvaH"),
+    ("pums", "m", "pumAn|pumAMsO|pumAMsaH|pumAMsam|pumAMsO|puMsaH|puMsA|puMByAm/pumByAm|puMBiH/pumBiH|puMse|puMByAm/pumByAm|puMByaH/pumByaH|puMsaH|puMByAm/pumByAm|puMByaH/pumByaH|puMsaH|puMsoH|puMsAm|puMsi|puMsoH|puMsu|puman|pumAMsO|pumAMsaH"),
+    ("pratidivan", "m", "pratidivA|pratidivAnO|pratidivAnaH|pratidivAnam|pratidivAnO|pratidIvnaH|pratidIvnA|pratidivaByAm|pratidivaBiH|pratidIvne|pratidivaByAm|pratidivaByaH|pratidIvnaH|pratidivaByAm|pratidivaByaH|pratidIvnaH|pratidIvnoH|pratidIvnAm|pratidIvni/pratidivani|pratidIvnoH|pratidivasu|pratidivan|pratidivAnO|pratidivAnaH"),
+    ("pratyeka", "m", "pratyekam|pratyekam|pratyekam|pratyekam|pratyekam|pratyekam|pratyekena/pratyekam|pratyekAByAm/pratyekam|pratyekEH/pratyekam|pratyekam|pratyekam|pratyekam|pratyekasmAd/pratyekasmAt|pratyekAByAm|pratyekeByaH|pratyekam|pratyekam|pratyekam|pratyekasmin/pratyekam|pratyekayoH/pratyekam|pratyekezu/pratyekam|pratyekam|pratyekam|pratyekam"),
+    ("prAnc", "m", "prAN|prAYcO|prAYcaH|prAYcam|prAYcO|prAYcaH|prAYcA|prANByAm|prANBiH|prAYce|prANByAm|prANByaH|prAYcaH|prANByAm|prANByaH|prAYcaH|prAYcoH|prAYcAm|prAYci|prAYcoH|prANzu/prANkzu/prANKzu|prAN|prAYcO|prAYcaH"),
+    ("priyatri", "m", "priyatriH|priyatrI|priyatrayaH|priyatrim|priyatrI|priyatrIn|priyatriRA|priyatriByAm|priyatriBiH|priyatraye|priyatriByAm|priyatriByaH|priyatreH|priyatriByAm|priyatriByaH|priyatreH|priyatryoH|priyatrayARAm|priyatrO|priyatryoH|priyatrizu|priyatre|priyatrI|priyatrayaH"),
+    ("priyatri", "m", "priyatisA|priyatisrO|priyatisraH|priyatisram|priyatisrO|priyatisraH|priyatisrA|priyatisfByAm|priyatisfBiH|priyatisre|priyatisfByAm|priyatisfByaH|priyatisraH|priyatisfByAm|priyatisfByaH|priyatisraH|priyatisroH|priyatisfRAm|priyatisri|priyatisroH|priyatisfzu|priyatisaH|priyatisrO|priyatisraH"),
+    ("priyatri", "f", "priyatriH|priyatrI|priyatrayaH|priyatrim|priyatrI|priyatrIH|priyatryA|priyatriByAm|priyatriBiH|priyatraye/priyatryE|priyatriByAm|priyatriByaH|priyatreH/priyatryAH|priyatriByAm|priyatriByaH|priyatreH/priyatryAH|priyatryoH|priyatrayARAm|priyatrO/priyatryAm|priyatryoH|priyatrizu|priyatre|priyatrI|priyatrayaH"),
+    ("priyatri", "f", "priyatisA|priyatisrO|priyatisraH|priyatisram|priyatisrO|priyatisraH|priyatisrA|priyatisfByAm|priyatisfBiH|priyatisre|priyatisfByAm|priyatisfByaH|priyatisraH|priyatisfByAm|priyatisfByaH|priyatisraH|priyatisroH|priyatisfRAm|priyatisri|priyatisroH|priyatisfzu|priyatisaH|priyatisrO|priyatisraH"),
+    ("priyatri", "n", "priyatri/priyatisf|priyatisfRI|priyatisFRi|priyatri/priyatisf|priyatisfRI|priyatisFRi|priyatisfRA/priyatisrA|priyatisfByAm|priyatisfBiH|priyatisfRe/priyatisre|priyatisfByAm|priyatisfByaH|priyatisfRaH/priyatisraH|priyatisfByAm|priyatisfByaH|priyatisfRaH/priyatisraH|priyatisfRoH/priyatisroH|priyatisFRAm/priyatisfRAm|priyatisfRi/priyatisri|priyatisfRoH/priyatisroH|priyatisfzu|priyatri/priyatisf/priyatre|priyatisfRI|priyatisFRi"),
+    ("bahupAd", "m", "bahupAd/bahupAt|bahupAdO|bahupAdaH|bahupAdam|bahupAdO|bahupadaH|bahupadA|bahupAdByAm|bahupAdBiH|bahupade|bahupAdByAm|bahupAdByaH|bahupadaH|bahupAdByAm|bahupAdByaH|bahupadaH|bahupadoH|bahupadAm|bahupadi|bahupadoH|bahupAtsu|bahupAd/bahupAt|bahupAdO|bahupAdaH"),
+    ("bahuvftrahan", "n", "bahuvftraha|bahuvftraGnI/bahuvftrahaRI|bahuvftrahARi|bahuvftraha|bahuvftraGnI/bahuvftrahaRI|bahuvftrahARi|bahuvftraGnA|bahuvftrahaByAm|bahuvftrahaBiH|bahuvftraGne|bahuvftrahaByAm|bahuvftrahaByaH|bahuvftraGnaH|bahuvftrahaByAm|bahuvftrahaByaH|bahuvftraGnaH|bahuvftraGnoH|bahuvftraGnAm|bahuvftraGni/bahuvftrahaRi|bahuvftraGnoH|bahuvftrahasu|bahuvftrahan/bahuvftraha|bahuvftraGnI/bahuvftrahaRI|bahuvftrahARi"),
+    ("bahuSreyasI", "m", "bahuSreyasI|bahuSreyasyO|bahuSreyasyaH|bahuSreyasIm|bahuSreyasyO|bahuSreyasIn|bahuSreyasyA|bahuSreyasIByAm|bahuSreyasIBiH|bahuSreyasyE|bahuSreyasIByAm|bahuSreyasIByaH|bahuSreyasyAH|bahuSreyasIByAm|bahuSreyasIByaH|bahuSreyasyAH|bahuSreyasyoH|bahuSreyasInAm|bahuSreyasyAm|bahuSreyasyoH|bahuSreyasIzu|bahuSreyasi|bahuSreyasyO|bahuSreyasyaH"),
+    ("bahusaKi", "m", "bahusaKA|bahusaKAyO|bahusaKAyaH|bahusaKAyam|bahusaKAyO|bahusaKIn|bahusaKinA|bahusaKiByAm|bahusaKiBiH|bahusaKaye|bahusaKiByAm|bahusaKiByaH|bahusaKeH|bahusaKiByAm|bahusaKiByaH|bahusaKeH|bahusaKyoH|bahusaKInAm|bahusaKO|bahusaKyoH|bahusaKizu|bahusaKe|bahusaKAyO|bahusaKAyaH"),
+    ("buD", "m", "Bud/But|buDO|buDaH|buDam|buDO|buDaH|buDA|BudByAm|BudBiH|buDe|BudByAm|BudByaH|buDaH|BudByAm|BudByaH|buDaH|buDoH|buDAm|buDi|buDoH|Butsu|Bud/But|buDO|buDaH"),
+    ("Bavat", "m", "BavAn|BavantO|BavantaH|Bavantam|BavantO|BavataH|BavatA|BavadByAm|BavadBiH|Bavate|BavadByAm|BavadByaH|BavataH|BavadByAm|BavadByaH|BavataH|BavatoH|BavatAm|Bavati|BavatoH|Bavatsu|Bavan|BavantO|BavantaH"),
+    ("Bfsj", "m", "Bfq/Bfw|BfjjO|BfjjaH|Bfjjam|BfjjO|BfjjaH|BfjjA|BfqByAm|BfqBiH|Bfjje|BfqByAm|BfqByaH|BfjjaH|BfqByAm|BfqByaH|BfjjaH|BfjjoH|BfjjAm|Bfjji|BfjjoH|Bfwsu/Bfwtsu|Bfq/Bfw|BfjjO|BfjjaH"),
+    ("maGavan", "m", "maGavA/maGavAn|maGavAnO/maGavantO|maGavAnaH/maGavantaH|maGavAnam/maGavantam|maGavAnO/maGavantO|maGonaH/maGavataH|maGonA/maGavatA|maGavaByAm/maGavadByAm|maGavaBiH/maGavadBiH|maGone/maGavate|maGavaByAm/maGavadByAm|maGavaByaH/maGavadByaH|maGonaH/maGavataH|maGavaByAm/maGavadByAm|maGavaByaH/maGavadByaH|maGonaH/maGavataH|maGonoH/maGavatoH|maGonAm/maGavatAm|maGoni/maGavati|maGonoH/maGavatoH|maGavasu/maGavatsu|maGavan|maGavAnO/maGavantO|maGavAnaH/maGavantaH"),
+    ("marmaspfS", "n", "marmaspfg/marmaspfk|marmaspfSI|marmaspfMSi|marmaspfg/marmaspfk|marmaspfSI|marmaspfMSi|marmaspfSA|marmaspfgByAm|marmaspfgBiH|marmaspfSe|marmaspfgByAm|marmaspfgByaH|marmaspfSaH|marmaspfgByAm|marmaspfgByaH|marmaspfSaH|marmaspfSoH|marmaspfSAm|marmaspfSi|marmaspfSoH|marmaspfkzu|marmaspfg/marmaspfk|marmaspfSI|marmaspfMSi"),
+    ("mahat", "m", "mahAn|mahAntO|mahAntaH|mahAntam|mahAntO|mahataH|mahatA|mahadByAm|mahadBiH|mahate|mahadByAm|mahadByaH|mahataH|mahadByAm|mahadByaH|mahataH|mahatoH|mahatAm|mahati|mahatoH|mahatsu|mahan|mahAntO|mahAntaH"),
+    ("mAtfzvasf", "f", "mAtfzvasA|mAtfzvasArO|mAtfzvasAraH|mAtfzvasAram|mAtfzvasArO|mAtfzvasFH|mAtfzvasrA|mAtfzvasfByAm|mAtfzvasfBiH|mAtfzvasre|mAtfzvasfByAm|mAtfzvasfByaH|mAtfzvasuH|mAtfzvasfByAm|mAtfzvasfByaH|mAtfzvasuH|mAtfzvasroH|mAtfzvasFRAm|mAtfzvasari|mAtfzvasroH|mAtfzvasfzu|mAtfzvasaH|mAtfzvasArO|mAtfzvasAraH"),
+    ("yAt", "m", "yAn|yAntO|yAntaH|yAntam|yAntO|yAtaH|yAtA|yAdByAm|yAdBiH|yAte|yAdByAm|yAdByaH|yAtaH|yAdByAm|yAdByaH|yAtaH|yAtoH|yAtAm|yAti|yAtoH|yAtsu|yAn|yAntO|yAntaH"),
+    ("yuj", "m", "yuN|yuYjO|yuYjaH|yuYjam|yuYjO|yujaH|yujA|yugByAm|yugBiH|yuje|yugByAm|yugByaH|yujaH|yugByAm|yugByaH|yujaH|yujoH|yujAm|yuji|yujoH|yukzu|yuN|yuYjO|yuYjaH"),
+    ("yuvan", "m", "yuvA|yuvAnO|yuvAnaH|yuvAnam|yuvAnO|yUnaH|yUnA|yuvaByAm|yuvaBiH|yUne|yuvaByAm|yuvaByaH|yUnaH|yuvaByAm|yuvaByaH|yUnaH|yUnoH|yUnAm|yUni|yUnoH|yuvasu|yuvan|yuvAnO|yuvAnaH"),
+    ("viSvapA", "n", "viSvapam|viSvape|viSvapAni|viSvapam|viSvape|viSvapAni|viSvapena|viSvapAByAm|viSvapEH|viSvapAya|viSvapAByAm|viSvapeByaH|viSvapAd/viSvapAt|viSvapAByAm|viSvapeByaH|viSvapasya|viSvapayoH|viSvapAnAm|viSvape|viSvapayoH|viSvapezu|viSvapa|viSvape|viSvapAni"),
+    ("viSvarAj", "m", "viSvArAq/viSvArAw|viSvarAjO|viSvarAjaH|viSvarAjam|viSvarAjO|viSvarAjaH|viSvarAjA|viSvArAqByAm|viSvArAqBiH|viSvarAje|viSvArAqByAm|viSvArAqByaH|viSvarAjaH|viSvArAqByAm|viSvArAqByaH|viSvarAjaH|viSvarAjoH|viSvarAjAm|viSvarAji|viSvarAjoH|viSvArAwsu/viSvArAwtsu|viSvArAq/viSvArAw|viSvarAjO|viSvarAjaH"),
+    ("vIrahan", "m", "vIrahA|vIrahaRO|vIrahaRaH|vIrahaRam|vIrahaRO|vIraGnaH|vIraGnA|vIrahaByAm|vIrahaBiH|vIraGne|vIrahaByAm|vIrahaByaH|vIraGnaH|vIrahaByAm|vIrahaByaH|vIraGnaH|vIraGnoH|vIraGnAm|vIraGni/vIrahaRi|vIraGnoH|vIrahasu|vIrahan|vIrahaRO|vIrahaRaH"),
+    ("vftrahan", "m", "vftrahA|vftrahaRO|vftrahaRaH|vftrahaRam|vftrahaRO|vftraGnaH|vftraGnA|vftrahaByAm|vftrahaBiH|vftraGne|vftrahaByAm|vftrahaByaH|vftraGnaH|vftrahaByAm|vftrahaByaH|vftraGnaH|vftraGnoH|vftraGnAm|vftraGni/vftrahaRi|vftraGnoH|vftrahasu|vftrahan|vftrahaRO|vftrahaRaH"),
+    ("vyAGrapAd", "m", "vyAGrapAd/vyAGrapAt|vyAGrapAdO|vyAGrapAdaH|vyAGrapAdam|vyAGrapAdO|vyAGrapadaH|vyAGrapadA|vyAGrapAdByAm|vyAGrapAdBiH|vyAGrapade|vyAGrapAdByAm|vyAGrapAdByaH|vyAGrapadaH|vyAGrapAdByAm|vyAGrapAdByaH|vyAGrapadaH|vyAGrapadoH|vyAGrapadAm|vyAGrapadi|vyAGrapadoH|vyAGrapAtsu|vyAGrapAd/vyAGrapAt|vyAGrapAdO|vyAGrapAdaH"),
+    ("Samanasvasf", "f", "SamanasvasA|SamanasvasArO|SamanasvasAraH|SamanasvasAram|SamanasvasArO|SamanasvasFH|SamanasvasrA|SamanasvasfByAm|SamanasvasfBiH|Samanasvasre|SamanasvasfByAm|SamanasvasfByaH|SamanasvasuH|SamanasvasfByAm|SamanasvasfByaH|SamanasvasuH|SamanasvasroH|SamanasvasFRAm|Samanasvasari|SamanasvasroH|Samanasvasfzu|SamanasvasaH|SamanasvasArO|SamanasvasAraH"),
+    ("Svan", "m", "SvA|SvAnO|SvAnaH|SvAnam|SvAnO|SunaH|SunA|SvaByAm|SvaBiH|Sune|SvaByAm|SvaByaH|SunaH|SvaByAm|SvaByaH|SunaH|SunoH|SunAm|Suni|SunoH|Svasu|Svan|SvAnO|SvAnaH"),
+    ("saKi", "m", "saKA|saKAyO|saKAyaH|saKAyam|saKAyO|saKIn|saKyA|saKiByAm|saKiBiH|saKye|saKiByAm|saKiByaH|saKyuH|saKiByAm|saKiByaH|saKyuH|saKyoH|saKInAm|saKyO|saKyoH|saKizu|saKe|saKAyO|saKAyaH"),
+    ("saKI", "m", "saKA|saKAyO|saKAyaH|saKAyam|saKAyO|saKyaH|saKyA|saKIByAm|saKIBiH|saKye|saKIByAm|saKIByaH|saKyuH|saKIByAm|saKIByaH|saKyuH|saKyoH|saKyAm|saKyi|saKyoH|saKIzu|saKIH|saKAyO|saKAyaH"),
+    ("supaTin", "n", "supaTi|supaTI|supanTAni|supaTi|supaTI|supanTAni|supaTA|supaTiByAm|supaTiBiH|supaTe|supaTiByAm|supaTiByaH|supaTaH|supaTiByAm|supaTiByaH|supaTaH|supaToH|supaTAm|supaTi|supaToH|supaTizu|supaTin/supaTi|supaTI|supanTAni"),
+    ("supAd", "m", "supAd/supAt|supAdO|supAdaH|supAdam|supAdO|supadaH|supadA|supAdByAm|supAdBiH|supade|supAdByAm|supAdByaH|supadaH|supAdByAm|supAdByaH|supadaH|supadoH|supadAm|supadi|supadoH|supAtsu|supAd/supAt|supAdO|supAdaH"),
+    ("supums", "n", "supum|supuMsI|supumAMsi|supum|supuMsI|supumAMsi|supuMsA|supuMByAm/supumByAm|supuMBiH/supumBiH|supuMse|supuMByAm/supumByAm|supuMByaH/supumByaH|supuMsaH|supuMByAm/supumByAm|supuMByaH/supumByaH|supuMsaH|supuMsoH|supuMsAm|supuMsi|supuMsoH|supuMsu|supum|supuMsI|supumAMsi"),
+    ("susaKi", "m", "susaKA|susaKAyO|susaKAyaH|susaKAyam|susaKAyO|susaKIn|susaKinA|susaKiByAm|susaKiBiH|susaKaye|susaKiByAm|susaKiByaH|susaKeH|susaKiByAm|susaKiByaH|susaKeH|susaKyoH|susaKInAm|susaKO|susaKyoH|susaKizu|susaKe|susaKAyO|susaKAyaH"),
+    ("suhins", "m", "suhin|suhiMsO|suhiMsaH|suhiMsam|suhiMsO|suhiMsaH|suhiMsA|suhinByAm|suhinBiH|suhiMse|suhinByAm|suhinByaH|suhiMsaH|suhinByAm|suhinByaH|suhiMsaH|suhiMsoH|suhiMsAm|suhiMsi|suhiMsoH|suhinsu/suhintsu|suhin|suhiMsO|suhiMsaH"),
+    ("sva", "n", "svam|sve|svAni|svam|sve|svAni|svena|svAByAm|svEH|svasmE|svAByAm|sveByaH|svAd/svasmAd/svasmAt/svAt|svAByAm|sveByaH|svasya|svayoH|svezAm|sve/svasmin|svayoH|svezu|sva|sve|svAni"),
+    ("svasf", "f", "svasA|svasArO|svasAraH|svasAram|svasArO|svasFH|svasrA|svasfByAm|svasfBiH|svasre|svasfByAm|svasfByaH|svasuH|svasfByAm|svasfByaH|svasuH|svasroH|svasFRAm|svasari|svasroH|svasfzu|svasaH|svasArO|svasAraH"),
+    ("hAhA", "m", "hAhAH|hAhO|hAhAH|hAhAm|hAhO|hAhAn|hAhA|hAhAByAm|hAhABiH|hAhE|hAhAByAm|hAhAByaH|hAhAH|hAhAByAm|hAhAByaH|hAhAH|hAhOH|hAhAm|hAhe|hAhOH|hAhAsu|hAhAH|hAhO|hAhAH"),
+]
+
+# ---------------------------------------------------------------------------
+# Devanagari <-> SLP1 transliteration (display bridge; mirrors Rust translit.rs)
+# ---------------------------------------------------------------------------
+_DEV_VIRAMA = "\u094d"
+_DEV_AVAGRAHA = "\u093d"
+_DEV_ANUSVARA = "\u0902"
+_DEV_CANDRABINDU = "\u0901"
+DEV_VISARGA = "\u0903"
+DEV_INDEP_VOWELS: dict[str, str] = {
+    "अ": "a",
+    "आ": "A",
+    "इ": "i",
+    "ई": "I",
+    "उ": "u",
+    "ऊ": "U",
+    "ऋ": "f",
+    "ॠ": "F",
+    "ऌ": "x",
+    "ॡ": "X",
+    "ए": "e",
+    "ऍ": "e",
+    "ऎ": "e",
+    "ऐ": "E",
+    "ओ": "o",
+    "ऑ": "o",
+    "ऒ": "o",
+    "औ": "O",
+}
+DEV_MATRAS: dict[str, str] = {
+    "ा": "A",
+    "ि": "i",
+    "ी": "I",
+    "ु": "u",
+    "ू": "U",
+    "ृ": "f",
+    "ॄ": "F",
+    "ॢ": "x",
+    "ॣ": "X",
+    "े": "e",
+    "ॅ": "e",
+    "ॆ": "e",
+    "ै": "E",
+    "ो": "o",
+    "ॉ": "o",
+    "ॊ": "o",
+    "ौ": "O",
+}
+DEV_CONSONANTS: dict[str, str] = {
+    "क": "k",
+    "ख": "K",
+    "ग": "g",
+    "घ": "G",
+    "ङ": "N",
+    "च": "c",
+    "छ": "C",
+    "ज": "j",
+    "झ": "J",
+    "ञ": "Y",
+    "ट": "w",
+    "ठ": "W",
+    "ड": "q",
+    "ढ": "Q",
+    "ण": "R",
+    "त": "t",
+    "थ": "T",
+    "द": "d",
+    "ध": "D",
+    "न": "n",
+    "प": "p",
+    "फ": "P",
+    "ब": "b",
+    "भ": "B",
+    "म": "m",
+    "य": "y",
+    "र": "r",
+    "ल": "l",
+    "ळ": "L",
+    "व": "v",
+    "श": "S",
+    "ष": "z",
+    "स": "s",
+    "ह": "h",
+}
+SLP1_VOWELS: dict[str, tuple[str, str, str]] = {
+    "a": ("a", "अ", ""),
+    "A": ("A", "आ", "ा"),
+    "i": ("i", "इ", "ि"),
+    "I": ("I", "ई", "ी"),
+    "u": ("u", "उ", "ु"),
+    "U": ("U", "ऊ", "ू"),
+    "f": ("f", "ऋ", "ा"),
+    "F": ("F", "ॠ", "ॴ"),
+    "x": ("x", "ঌ", "ং"),
+    "X": ("X", "ঁ", "ঃ"),
+    "e": ("e", "ए", "े"),
+    "E": ("E", "ऐ", "ह"),
+    "o": ("o", "ओ", "ो"),
+    "O": ("O", "औ", "ौ"),
+}
+DEV_TO_SLP1_CONSONANT: dict[str, str] = {s: d for d, s in DEV_CONSONANTS.items()}
+DEV_TO_SLP1_INDEP: dict[str, str] = dict(DEV_INDEP_VOWELS)
+
+def contains_deva(s: str) -> bool:
+    """True when `s` contains any Devanagari codepoint (U+0900-U+097F)."""
+    return any("\u0900" <= c <= "\u097F" for c in s)
+
+def deva_to_slp1(text: str) -> Optional[str]:
+    """One Devanagari token (no separators) -> SLP1, e.g. deva_to_slp1("\u0926\u093e\u0935") -> "dAvA"."""
+    if not text:
+        return None
+    chars = list(text)
+    out: list[str] = []
+    idx = 0
+    while idx < len(chars):
+        ch = chars[idx]
+        if ch in DEV_INDEP_VOWELS:
+            out.append(DEV_INDEP_VOWELS[ch])
+            idx += 1
+        elif ch in DEV_CONSONANTS:
+            cons = DEV_CONSONANTS[ch]
+            nxt = chars[idx + 1] if idx + 1 < len(chars) else None
+            if nxt == _DEV_VIRAMA:
+                out.append(cons)
+                idx += 2
+            elif nxt is not None and nxt in DEV_MATRAS:
+                out.append(cons)
+                out.append(DEV_MATRAS[nxt])
+                idx += 2
+            else:
+                out.append(cons)
+                out.append("a")
+                idx += 1
+        elif ch == _DEV_ANUSVARA or ch == _DEV_CANDRABINDU:
+            out.append("M")
+            idx += 1
+        elif ch == DEV_VISARGA:
+            out.append("H")
+            idx += 1
+        elif ch == _DEV_AVAGRAHA:
+            out.append(chr(39))
+            idx += 1
+        elif ch == "_":
+            out.append("_")
+            idx += 1
+        elif ch == "-":
+            out.append("-")
+            idx += 1
+        else:
+            return None
+    return "".join(out)
+
+def slp1_to_deva(text: str) -> Optional[str]:
+    if not text or not all((c.isascii() and c.isalpha()) or c in (chr(39), "_", "-") for c in text):
+        return None
+    out: list[str] = []
+    idx = 0
+    chars = list(text)
+    while idx < len(chars):
+        ch = chars[idx]
+        if ch in DEV_TO_SLP1_CONSONANT:
+            deva = DEV_TO_SLP1_CONSONANT[ch]
+            out.append(deva)
+            nxt = chars[idx + 1] if idx + 1 < len(chars) else None
+            if nxt == "a":
+                idx += 2
+            elif nxt is not None and nxt in SLP1_VOWELS:
+                _v, _i, sign = SLP1_VOWELS[nxt]
+                out.append(sign)
+                idx += 2
+            elif nxt in ("M", "H"):
+                idx += 1
+            else:
+                out.append(_DEV_VIRAMA)
+                idx += 1
+        elif ch == "-":
+            out.append("-")
+            idx += 1
+        elif ch == "a":
+            out.append("\u0905")
+            idx += 1
+        elif ch in SLP1_VOWELS:
+            _v, _i, indep = SLP1_VOWELS[ch]
+            out.append(indep)
+            idx += 1
+        elif ch == "M":
+            out.append(_DEV_ANUSVARA)
+            idx += 1
+        elif ch == "H":
+            out.append(DEV_VISARGA)
+            idx += 1
+        elif ch == "'":
+            out.append(_DEV_AVAGRAHA)
+            idx += 1
+        elif ch == "_":
+            out.append("_")
+            idx += 1
+        else:
+            return None
+    return "".join(out)
+
+def deva_stack_to_slp1(stack: str) -> Optional[str]:
+    toks: list[str] = []
+    for part in stack.replace(";", "+").split("+"):
+        t = part.strip()
+        if not t:
+            continue
+        if "-" in t:
+            segs = []
+            for seg in t.split("-"):
+                v = deva_to_slp1(seg)
+                if v is None:
+                    return None
+                segs.append(v)
+            toks.append("-".join(segs))
+        else:
+            v = deva_to_slp1(t)
+            if v is None:
+                return None
+            toks.append(v)
+    if not toks:
+        return None
+    return ";".join(toks)
+
+def normalize_stack_slp1(stack_slp1: str) -> str:
+    return ";".join("AN" if tok == "A" else tok for tok in stack_slp1.split(";"))
+
+
+
+def _generic_cells(stem: str, lg: Linga) -> list[SubantaSlot]:
+    """Fallback generic consonant (halanta) paradigm for unmapped stems."""
+    tbl = _GENERIC_CONS_TABLE
+    cells: list[SubantaSlot] = []
+    idx = 0
+    for vib in VIBHAKTIS:
+        for vac_i, vac in enumerate(VACANAS):
+            suf = (tbl.get(vib) or ["-"])[vac_i] if vib in tbl else "-"
+            if suf == "-":
+                forms: list[str] = []
+            elif " / " in suf:
+                forms = [f.strip() for f in suf.split(" / ") if f.strip()]
+            else:
+                forms = [s.strip() for s in suf.split("/") if s.strip()]
+            cells.append(SubantaSlot(vibhakti=int(VIBHAKTI_INDEX[vib]), vacana=int(VACANA_INDEX[vac]), forms=forms))
+            idx += 1
+    return cells
+
+
+def _cells_for_paradigm(stem: str, paradigm: str) -> list[SubantaSlot]:
+    """Build the 24 SubantaSlots for a registered paradigm from its suffix table."""
+    tbl = _generate_noun(stem, paradigm)
+    cells: list[SubantaSlot] = []
+    for vib in VIBHAKTIS:
+        forms = tbl.get(vib) or []
+        for vac_i, vac in enumerate(VACANAS):
+            raw = forms[vac_i] if vac_i < len(forms) else "-"
+            if raw == "-":
+                cell_forms: list[str] = []
+            elif " / " in raw:
+                cell_forms = [f.strip() for f in raw.split(" / ") if f.strip()]
+            elif "/" in raw:
+                cell_forms = [f.strip() for f in raw.split("/") if f.strip()]
+            else:
+                cell_forms = [raw.strip()] if raw.strip() else []
+            cells.append(SubantaSlot(vibhakti=int(VIBHAKTI_INDEX[vib]), vacana=int(VACANA_INDEX[vac]), forms=cell_forms))
+
+    # Stems ending in -hna carry 3 locative alternants per P. 8.4.27 / ashtadhyayi.com (e.g. azwAhne / azwAhni / azwAhani)
+    if paradigm == "a_m" and stem.endswith("hna") and len(stem) > 3:
+        p = stem[:-1]
+        hna_base = stem[:-2]
+        for i, c in enumerate(cells):
+            if c.vibhakti == 7 and c.vacana == 1:
+                cells[i] = SubantaSlot(vibhakti=7, vacana=1, forms=[f"{p}e", f"{p}i", f"{hna_base}ani"])
+                break
+
+    return cells
+
+
+def generate_tables(stem: str, linga: "Linga | str") -> list[SubantaParadigm]:
+    """Generate all plausible nominal paradigms for (stem, linga).
+
+    Mirrors Rust `generate_tables(stem, linga) -> Vec<Paradigm>`: derived
+    classes first, then site-verbatim grids. Ambiguous stems yield several
+    paradigms (e.g. `vidvas` -> scholar + kvasu; `BU` -> BUti/bhu_f...).
+    """
+    lg = Linga.parse(linga) if not isinstance(linga, Linga) else linga
+    if lg is None:
+        raise ValueError(f"Invalid linga '{linga}'. Must be one of 'm', 'f', 'n'.")
+    stem_clean = stem.strip()
+    gender = _gender_of_liga(lg)
+
+    out: list[SubantaParadigm] = []
+
+    def add(cls_id: str, use_stem: str) -> None:
+        if cls_id.startswith("SiteGrid:"):
+            idx = int(cls_id.split(":", 1)[1])
+            grid_stem, grid_lg, spec = SITE_GRIDS[idx]
+            grid_linga = Linga.parse(grid_lg) or lg
+            out.append(SubantaParadigm(stem=grid_stem, linga=grid_linga, class_id=cls_id, cells=site_grid_cells(spec)))
+            return
+        if cls_id == "generic":
+            out.append(SubantaParadigm(stem=use_stem, linga=lg, class_id="generic", cells=_generic_cells(use_stem, lg)))
+            return
+        if cls_id.startswith("pronoun:"):
+            lemma = cls_id.split(":", 1)[1]
+            try:
+                res = decline_pronoun(lemma, gender)
+                forms_tbl = res.get("forms", {})
+                cells: list[SubantaSlot] = []
+                for vib in VIBHAKTIS:
+                    row = forms_tbl.get(vib, [])
+                    for vac_i, vac in enumerate(VACANAS):
+                        raw = row[vac_i] if vac_i < len(row) else "-"
+                        if raw == "-" or not raw:
+                            f_list = []
+                        elif " / " in raw:
+                            f_list = [f.strip() for f in raw.split(" / ") if f.strip()]
+                        else:
+                            f_list = [f.strip() for f in raw.split("/") if f.strip()]
+                        cells.append(SubantaSlot(vibhakti=VIBHAKTI_INDEX[vib], vacana=VACANA_INDEX[vac], forms=f_list))
+                out.append(SubantaParadigm(stem=lemma, linga=lg, class_id=cls_id, cells=cells))
+            except Exception:
+                pass
+            return
+        if cls_id.startswith("numeral:"):
+            lemma = cls_id.split(":", 1)[1]
+            try:
+                res = decline_numeral(lemma, gender)
+                forms_tbl = res.get("forms", {})
+                cells: list[SubantaSlot] = []
+                for vib in VIBHAKTIS:
+                    row = forms_tbl.get(vib, [])
+                    for vac_i, vac in enumerate(VACANAS):
+                        raw = row[vac_i] if vac_i < len(row) else "-"
+                        if raw == "-" or not raw:
+                            f_list = []
+                        elif " / " in raw:
+                            f_list = [f.strip() for f in raw.split(" / ") if f.strip()]
+                        else:
+                            f_list = [f.strip() for f in raw.split("/") if f.strip()]
+                        cells.append(SubantaSlot(vibhakti=VIBHAKTI_INDEX[vib], vacana=VACANA_INDEX[vac], forms=f_list))
+                out.append(SubantaParadigm(stem=lemma, linga=lg, class_id=cls_id, cells=cells))
+            except Exception:
+                pass
+            return
+        if cls_id not in PARADIGMS:
+            return
+        out.append(SubantaParadigm(stem=use_stem, linga=lg, class_id=cls_id, cells=_cells_for_paradigm(use_stem, cls_id)))
+
+    for cls_id in detect_paradigm(stem_clean, gender):
+        add(cls_id, stem_clean)
+
+    for i, (s, l, _spec) in enumerate(SITE_GRIDS):
+        if s == stem_clean and str(l) == str(lg):
+            add(f"SiteGrid:{i}", stem_clean)
+
+    # Alternate & pronominal candidate variants from ALL_VARIANT_GENERATORS
+    from .subanta_variants import ALL_VARIANT_GENERATORS
+
+    for gen in ALL_VARIANT_GENERATORS:
+        for cid, vcells in gen(stem_clean, gender):
+            out.append(SubantaParadigm(stem=stem_clean, linga=lg, class_id=cid, cells=vcells))
+
+    # td_slots for asmad and yuzmad
+    if stem_clean == "asmad":
+        td_tabs: list[SubantaParadigm] = []
+        for p in out:
+            c = [SubantaSlot(vibhakti=s.vibhakti, vacana=s.vacana, forms=list(s.forms)) for s in p.cells]
+            if len(c) > 14:
+                c[12].forms = ["mad", "mat"]
+                c[14].forms = ["asmad", "asmat"]
+            td_tabs.append(SubantaParadigm(stem=p.stem, linga=p.linga, class_id=f"{p.class_id}:td", cells=c))
+        out.extend(td_tabs)
+    elif stem_clean == "yuzmad":
+        td_tabs: list[SubantaParadigm] = []
+        for p in out:
+            c = [SubantaSlot(vibhakti=s.vibhakti, vacana=s.vacana, forms=list(s.forms)) for s in p.cells]
+            if len(c) > 14:
+                c[12].forms = ["tvad", "tvat"]
+                c[14].forms = ["yuzmad", "yuzmat"]
+            td_tabs.append(SubantaParadigm(stem=p.stem, linga=p.linga, class_id=f"{p.class_id}:td", cells=c))
+        out.extend(td_tabs)
+
+    # Apply word-level CELL_ALTS substitutions matching Rust reference engine
+    alts = CELL_ALTS.get((stem_clean, gender))
+    if alts:
+        alts_tabs: list[SubantaParadigm] = []
+        for p in out:
+            new_cells: list[SubantaSlot] = []
+            for idx, c in enumerate(p.cells):
+                if idx in alts:
+                    new_cells.append(SubantaSlot(vibhakti=c.vibhakti, vacana=c.vacana, forms=alts[idx]))
+                else:
+                    new_cells.append(c)
+            alts_tabs.append(SubantaParadigm(stem=p.stem, linga=p.linga, class_id=f"{p.class_id}:alts", cells=new_cells))
+        out.extend(alts_tabs)
+
+    if not out:
+        out.append(SubantaParadigm(stem=stem_clean, linga=lg, class_id="generic", cells=_generic_cells(stem_clean, lg)))
+    return out
+
+
+def classes_for(stem: str, linga: "Linga | str") -> list[str]:
+    """Strict-plausible class ids for (stem, linga) — derived + site grids."""
+    lg = Linga.parse(linga) if not isinstance(linga, Linga) else linga
+    stem_clean = stem.strip()
+    gender = _gender_of_liga(lg) if lg is not None else "m"
+    out: list[str] = []
+    for cls_id in detect_paradigm(stem_clean, gender):
+        if cls_id not in out:
+            out.append(cls_id)
+    for i, (s, l, _spec) in enumerate(SITE_GRIDS):
+        if s == stem_clean and str(l) == str(lg):
+            cid = f"SiteGrid:{i}"
+            if cid not in out:
+                out.append(cid)
+    return out
+
+
 # ---------------------------------------------------------------------------
 # Paninian Natva (r/f/F/z -> n becomes R)
 # ---------------------------------------------------------------------------
-def apply_natva(s: str) -> str:
+def apply_natva(s: str, min_index: int = 0) -> str:
     """Applies Paninian natva (r/f/F/z -> n becomes R) within a pada.
     Follows Panini 8.4.1 (raṣābhyāṁ no ṇaḥ samānapade) and 8.4.2 (aṭkupvāṅnumvyavāye'pi).
     Blocks when intervening consonants are not in aṭ, ku, pu, or num (M).
     Protects padānta n per Panini 8.4.37 (padāntasya).
+    `min_index`: only mutate n at or after `min_index`, preventing corruption of
+    pre-existing lexical n in base prātipadikas across compound boundaries.
     """
     triggers = {'r', 'f', 'F', 'z'}
     at_ku_pu = set('aAiIuUfFxXeEoO' + 'yvrh' + 'kKgGN' + 'pPbBm' + 'M')
@@ -79,6 +708,8 @@ def apply_natva(s: str) -> str:
         if c in triggers:
             last_trig = i
         elif c == 'n' and last_trig != -1:
+            if i < min_index:
+                continue
             blocked = False
             for j in range(last_trig + 1, i):
                 if chars[j] not in at_ku_pu:
@@ -119,7 +750,7 @@ _register("a_m", "a", "m", "a-kArAnta puMliNga (rAma)", {
     "dvitIyA": ["am", "O", "An"],
     "tftIyA": ["ena", "AByAm", "EH"],
     "caturTI": ["Aya", "AByAm", "eByaH"],
-    "paYcamI": ["At", "AByAm", "eByaH"],
+    "paYcamI": ["Ad / At", "AByAm", "eByaH"],
     "zazWI": ["asya", "ayoH", "AnAm"],
     "saptamI": ["e", "ayoH", "ezu"],
     "saMboDana": ["a", "O", "AH"],
@@ -131,7 +762,7 @@ _register("a_n", "a", "n", "a-kArAnta napuMsaka (Pala)", {
     "dvitIyA": ["am", "e", "Ani"],
     "tftIyA": ["ena", "AByAm", "EH"],
     "caturTI": ["Aya", "AByAm", "eByaH"],
-    "paYcamI": ["At", "AByAm", "eByaH"],
+    "paYcamI": ["Ad / At", "AByAm", "eByaH"],
     "zazWI": ["asya", "ayoH", "AnAm"],
     "saptamI": ["e", "ayoH", "ezu"],
     "saMboDana": ["a", "e", "Ani"],
@@ -147,6 +778,18 @@ _register("A_f", "A", "f", "A-kArAnta strIliNga (ramA)", {
     "zazWI": ["AyAH", "ayoH", "AnAm"],
     "saptamI": ["AyAm", "ayoH", "Asu"],
     "saMboDana": ["e", "e", "AH"],
+})
+
+# ambArtha strIliNga  ambA / akkA / allA / ammA (Panini 7.3.107 ambArthanadyorhrasvaH)
+_register("amba_f", "A", "f", "ambArtha strIliNga (ambA/akkA/allA) - hrasva saMboDana", {
+    "prathamA": ["A", "e", "AH"],
+    "dvitIyA": ["Am", "e", "AH"],
+    "tftIyA": ["ayA", "AByAm", "ABiH"],
+    "caturTI": ["AyE", "AByAm", "AByaH"],
+    "paYcamI": ["AyAH", "AByAm", "AByaH"],
+    "zazWI": ["AyAH", "ayoH", "AnAm"],
+    "saptamI": ["AyAm", "ayoH", "Asu"],
+    "saMboDana": ["a", "e", "AH"],
 })
 
 # i_kArAnta puMliNga  hari
@@ -207,6 +850,18 @@ _register("i_n", "i", "n", "i-kArAnta napuMsaka (vAri)", {
     "paYcamI": ["inaH", "iByAm", "iByaH"],
     "zazWI": ["inaH", "inoH", "InAm"],
     "saptamI": ["ini", "inoH", "izu"],
+    "saMboDana": ["i / e", "inI", "Ini"],
+})
+
+# i_kArAnta napuMsaka with optional pumvad-bhāva (Panini 7.1.74 iko'ci vibhaktau)
+_register("i_opt_n", "i", "n", "i-kArAnta napuMsaka (optional pumvad-bhAva - anAdi)", {
+    "prathamA": ["i", "inI", "Ini"],
+    "dvitIyA": ["i", "inI", "Ini"],
+    "tftIyA": ["inA", "iByAm", "iBiH"],
+    "caturTI": ["ine / aye", "iByAm", "iByaH"],
+    "paYcamI": ["inaH / eH", "iByAm", "iByaH"],
+    "zazWI": ["inaH / eH", "inoH / yoH", "InAm"],
+    "saptamI": ["ini / O", "inoH / yoH", "izu"],
     "saMboDana": ["i / e", "inI", "Ini"],
 })
 
@@ -306,6 +961,18 @@ _register("u_n", "u", "n", "u-kArAnta napuMsaka (maDu)", {
     "saMboDana": ["u / o", "unI", "Uni"],
 })
 
+# u_kArAnta napuMsaka with optional pumvad-bhāva (Panini 7.1.74 iko'ci vibhaktau)
+_register("u_opt_n", "u", "n", "u-kArAnta napuMsaka (optional pumvad-bhAva - anfju/atinu)", {
+    "prathamA": ["u", "unI", "Uni"],
+    "dvitIyA": ["u", "unI", "Uni"],
+    "tftIyA": ["unA", "uByAm", "uBiH"],
+    "caturTI": ["une / ave", "uByAm", "uByaH"],
+    "paYcamI": ["unaH / oH", "uByAm", "uByaH"],
+    "zazWI": ["unaH / oH", "unoH / voH", "UnAm"],
+    "saptamI": ["uni / O", "unoH / voH", "uzu"],
+    "saMboDana": ["u / o", "unI", "Uni"],
+})
+
 # U_kArAnta strI  vaDU
 _register("U_f", "U", "f", "U-kArAnta strIliNga (vaDU)", {
     "prathamA": ["UH", "vO", "vaH"],
@@ -327,6 +994,16 @@ _register("bhu_f", "BU", "f", "U-kArAnta strIliNga (BU/BrU) - uvaN-AdeSa", {
     "paYcamI": ["BuvaH / BuvAH", "BUByAm", "BUByaH"],
     "zazWI": ["BuvaH / BuvAH", "BuvoH", "BuvAm / BUnAm"],
     "saptamI": ["Buvi / BuvAm", "BuvoH", "BUzu"],
+    "saMboDana": ["BUH", "BuvO", "BuvaH"],
+})
+_register("bhu_m", "BU", "m", "U-kArAnta puMliNga (agniBU) - uvaN-AdeSa", {
+    "prathamA": ["BUH", "BuvO", "BuvaH"],
+    "dvitIyA": ["Buvam", "BuvO", "BuvaH"],
+    "tftIyA": ["BuvA", "BUByAm", "BUBiH"],
+    "caturTI": ["Buve", "BUByAm", "BUByaH"],
+    "paYcamI": ["BuvaH", "BUByAm", "BUByaH"],
+    "zazWI": ["BuvaH", "BuvoH", "BuvAm"],
+    "saptamI": ["Buvi", "BuvoH", "BUzu"],
     "saMboDana": ["BUH", "BuvO", "BuvaH"],
 })
 
@@ -378,16 +1055,16 @@ _register("svasf_f", "f", "f", "f-kArAnta strIliNga (svasf - vfdi Ar)", {
     "saMboDana": ["aH", "ArO", "AraH"],
 })
 
-# f_kArAnta napuMsaka  dAtf n.
+# f_kArAnta napuMsaka  dAtf n. (with optional bhāṣite puṁvad forms, Panini 7.1.74)
 _register("f_n", "f", "n", "f-kArAnta napuMsaka (dAtf)", {
-    "prathamA": ["f", "fnI", "FnI"],
-    "dvitIyA": ["f", "fnI", "FnI"],
-    "tftIyA": ["fnA", "fByAm", "fBiH"],
-    "caturTI": ["fne", "fByAm", "fByaH"],
-    "paYcamI": ["fnaH", "fByAm", "fByaH"],
-    "zazWI": ["fnaH", "fnoH", "FnAm"],
-    "saptamI": ["fni", "fnoH", "fzu"],
-    "saMboDana": ["f", "fnI", "FnI"],
+    "prathamA": ["f", "fnI", "Fni"],
+    "dvitIyA": ["f", "fnI", "Fni"],
+    "tftIyA": ["fnA / rA", "fByAm", "fBiH"],
+    "caturTI": ["fne / re", "fByAm", "fByaH"],
+    "paYcamI": ["fnaH / uH", "fByAm", "fByaH"],
+    "zazWI": ["fnaH / uH", "fnoH / roH", "FnAm"],
+    "saptamI": ["fni / ari", "fnoH / roH", "fzu"],
+    "saMboDana": ["f / aH", "fnI", "Fni"],
 })
 
 # ---------------------------------------------------------------------------
@@ -490,6 +1167,18 @@ _register("an_m", "an", "m", "an-kArAnta puMliNga (Atman/brahman m.)", {
     "saMboDana": ["an", "AnO", "AnaH"],
 })
 
+# an-stem mUrDan / aRiman (m) - single consonant before an: elision (Panini 6.4.134 allopo'naH)
+_register("an_drop_m", "an", "m", "an-kArAnta puMliNga (allopo'naH - mUrDan/aRiman)", {
+    "prathamA": ["A", "AnO", "AnaH"],
+    "dvitIyA": ["Anam", "AnO", "naH"],
+    "tftIyA": ["nA", "aByAm", "aBiH"],
+    "caturTI": ["ne", "aByAm", "aByaH"],
+    "paYcamI": ["naH", "aByAm", "aByaH"],
+    "zazWI": ["naH", "noH", "nAm"],
+    "saptamI": ["ni / ani", "noH", "asu"],
+    "saMboDana": ["an", "AnO", "AnaH"],
+})
+
 # an-stem nAman (n) - simple consonant before an: elision nAmnA, nAmne
 _register("an_n", "an", "n", "an-kArAnta napuMsaka (nAman)", {
     "prathamA": ["a", "nI / anI", "Ani"],
@@ -499,7 +1188,7 @@ _register("an_n", "an", "n", "an-kArAnta napuMsaka (nAman)", {
     "paYcamI": ["naH", "aByAm", "aByaH"],
     "zazWI": ["naH", "noH", "nAm"],
     "saptamI": ["ni / ani", "noH", "asu"],
-    "saMboDana": ["a", "nI / anI", "Ani"],
+    "saMboDana": ["an / a", "nI / anI", "Ani"],
 })
 
 # an-stem karman (n) - conjunct with m/v: no elision (karmaRA, karmaRe)
@@ -511,7 +1200,7 @@ _register("karman_n", "an", "n", "an-kArAnta napuMsaka (karman - no elision)", {
     "paYcamI": ["anaH", "aByAm", "aByaH"],
     "zazWI": ["anaH", "anoH", "anAm"],
     "saptamI": ["ani", "anoH", "asu"],
-    "saMboDana": ["a", "anI", "Ani"],
+    "saMboDana": ["an / a", "anI", "Ani"],
 })
 
 # in-stem yogin (m)
@@ -606,7 +1295,7 @@ _register("pathin_m", "paTin", "m", "in-kArAnta puMliNga (pathin) - irregular", 
     "caturTI": ["paTe", "paTiByAm", "paTiByaH"],
     "paYcamI": ["paTaH", "paTiByAm", "paTiByaH"],
     "zazWI": ["paTaH", "paToH", "paTAm"],
-    "saptamI": ["paTi", "paToH", "paTsu"],
+    "saptamI": ["paTi", "paToH", "paTizu"],
     "saMboDana": ["panTAH", "panTAnO", "panTAnaH"],
 })
 
@@ -665,7 +1354,7 @@ _register("yas_m", "yas", "m", "Iyas-kArAnta puMliNga comparative (Sreyas)", {
     "caturTI": ["yase", "yoByAm", "yoByaH"],
     "paYcamI": ["yasaH", "yoByAm", "yoByaH"],
     "zazWI": ["yasaH", "yasoH", "yasAm"],
-    "saptamI": ["yasi", "yasoH", "yaHsu"],
+    "saptamI": ["yasi", "yasoH", "yaHsu / yassu"],
     "saMboDana": ["yan", "yAMsO", "yAMsaH"],
 })
 
@@ -677,7 +1366,7 @@ _register("yas_n", "yas", "n", "Iyas-kArAnta napuMsaka comparative (Sreyas)", {
     "caturTI": ["yase", "yoByAm", "yoByaH"],
     "paYcamI": ["yasaH", "yoByAm", "yoByaH"],
     "zazWI": ["yasaH", "yasoH", "yasAm"],
-    "saptamI": ["yasi", "yasoH", "yaHsu"],
+    "saptamI": ["yasi", "yasoH", "yaHsu / yassu"],
     "saMboDana": ["yaH", "yasI", "yAMsi"],
 })
 
@@ -689,7 +1378,7 @@ _register("as_n", "as", "n", "as-kArAnta napuMsaka (manas)", {
     "caturTI": ["ase", "oByAm", "oByaH"],
     "paYcamI": ["asaH", "oByAm", "oByaH"],
     "zazWI": ["asaH", "asoH", "asAm"],
-    "saptamI": ["asi", "asoH", "aHsu"],
+    "saptamI": ["asi", "asoH", "aHsu / assu"],
     "saMboDana": ["aH", "asI", "AMsi"],
 })
 
@@ -701,7 +1390,7 @@ _register("as_m", "as", "m", "as-kArAnta puMliNga (sumanas - bahuvrIhi of manas)
     "caturTI": ["ase", "oByAm", "oByaH"],
     "paYcamI": ["asaH", "oByAm", "oByaH"],
     "zazWI": ["asaH", "asoH", "asAm"],
-    "saptamI": ["asi", "asoH", "aHsu"],
+    "saptamI": ["asi", "asoH", "aHsu / assu"],
     "saMboDana": ["aH", "asO", "asaH"],
 })
 
@@ -712,7 +1401,7 @@ _register("as_f", "as", "f", "as-kArAnta strIliNga (sumanas - bahuvrIhi f.)", {
     "caturTI": ["ase", "oByAm", "oByaH"],
     "paYcamI": ["asaH", "oByAm", "oByaH"],
     "zazWI": ["asaH", "asoH", "asAm"],
-    "saptamI": ["asi", "asoH", "aHsu"],
+    "saptamI": ["asi", "asoH", "aHsu / assu"],
     "saMboDana": ["aH", "asO", "asaH"],
 })
 
@@ -724,7 +1413,7 @@ _register("us_n", "us", "n", "us-kArAnta napuMsaka (danus)", {
     "caturTI": ["uze", "urByAm", "urByaH"],
     "paYcamI": ["uzaH", "urByAm", "urByaH"],
     "zazWI": ["uzaH", "uzoH", "uzAm"],
-    "saptamI": ["uzi", "uzoH", "uHsu"],
+    "saptamI": ["uzi", "uzoH", "uHzu / uzzu"],
     "saMboDana": ["uH", "uzI", "UMzi"],
 })
 
@@ -736,76 +1425,98 @@ _register("is_n", "is", "n", "is-kArAnta napuMsaka (havis)", {
     "caturTI": ["ize", "irByAm", "irByaH"],
     "paYcamI": ["izaH", "irByAm", "irByaH"],
     "zazWI": ["izaH", "izoH", "izAm"],
-    "saptamI": ["izi", "izoH", "iHsu"],
+    "saptamI": ["izi", "izoH", "iHzu / izzu"],
     "saMboDana": ["iH", "izI", "IMzi"],
 })
 
 # c-stem vAc (f)
 _register("c_f", "c", "f", "c-kArAnta strIliNga (vAc)", {
-    "prathamA": ["k", "cO", "caH"],
+    "prathamA": ["g / k", "cO", "caH"],
     "dvitIyA": ["cam", "cO", "caH"],
     "tftIyA": ["cA", "gByAm", "gBiH"],
     "caturTI": ["ce", "gByAm", "gByaH"],
     "paYcamI": ["caH", "gByAm", "gByaH"],
     "zazWI": ["caH", "coH", "cAm"],
     "saptamI": ["ci", "coH", "kzu"],
-    "saMboDana": ["k", "cO", "caH"],
+    "saMboDana": ["g / k", "cO", "caH"],
 })
 
 # t-stem marut (m), sarit (f), jagat (n)
 _register("t_m", "t", "m", "t-kArAnta puMliNga (marut)", {
-    "prathamA": ["t", "tO", "taH"],
+    "prathamA": ["d / t", "tO", "taH"],
     "dvitIyA": ["tam", "tO", "taH"],
     "tftIyA": ["tA", "dByAm", "dBiH"],
     "caturTI": ["te", "dByAm", "dByaH"],
     "paYcamI": ["taH", "dByAm", "dByaH"],
     "zazWI": ["taH", "toH", "tAm"],
     "saptamI": ["ti", "toH", "tsu"],
-    "saMboDana": ["t", "tO", "taH"],
+    "saMboDana": ["d / t", "tO", "taH"],
 })
 _register("t_f", "t", "f", "t-kArAnta strIliNga (sarit)", {
-    "prathamA": ["t", "tO", "taH"],
+    "prathamA": ["d / t", "tO", "taH"],
     "dvitIyA": ["tam", "tO", "taH"],
     "tftIyA": ["tA", "dByAm", "dBiH"],
     "caturTI": ["te", "dByAm", "dByaH"],
     "paYcamI": ["taH", "dByAm", "dByaH"],
     "zazWI": ["taH", "toH", "tAm"],
     "saptamI": ["ti", "toH", "tsu"],
-    "saMboDana": ["t", "tO", "taH"],
+    "saMboDana": ["d / t", "tO", "taH"],
 })
 _register("t_n", "t", "n", "t-kArAnta napuMsaka (jagat)", {
-    "prathamA": ["t", "tI", "nti"],
-    "dvitIyA": ["t", "tI", "nti"],
+    "prathamA": ["d / t", "tI", "nti"],
+    "dvitIyA": ["d / t", "tI", "nti"],
     "tftIyA": ["tA", "dByAm", "dBiH"],
     "caturTI": ["te", "dByAm", "dByaH"],
     "paYcamI": ["taH", "dByAm", "dByaH"],
     "zazWI": ["taH", "toH", "tAm"],
     "saptamI": ["ti", "toH", "tsu"],
-    "saMboDana": ["t", "tI", "nti"],
+    "saMboDana": ["d / t", "tI", "nti"],
 })
 
-# d-stem sampad / Apad / vipad (f)
+# d-stem sampad / Apad / vipad (f) & suhfd (m)
 _register("d_f", "d", "f", "d-kArAnta strIliNga (sampad)", {
-    "prathamA": ["t", "dO", "daH"],
+    "prathamA": ["d / t", "dO", "daH"],
     "dvitIyA": ["dam", "dO", "daH"],
     "tftIyA": ["dA", "dByAm", "dBiH"],
     "caturTI": ["de", "dByAm", "dByaH"],
     "paYcamI": ["daH", "dByAm", "dByaH"],
     "zazWI": ["daH", "doH", "dAm"],
     "saptamI": ["di", "doH", "tsu"],
-    "saMboDana": ["t", "dO", "daH"],
+    "saMboDana": ["d / t", "dO", "daH"],
+})
+_register("d_m", "d", "m", "d-kArAnta puMliNga (suhfd)", {
+    "prathamA": ["d / t", "dO", "daH"],
+    "dvitIyA": ["dam", "dO", "daH"],
+    "tftIyA": ["dA", "dByAm", "dBiH"],
+    "caturTI": ["de", "dByAm", "dByaH"],
+    "paYcamI": ["daH", "dByAm", "dByaH"],
+    "zazWI": ["daH", "doH", "dAm"],
+    "saptamI": ["di", "doH", "tsu"],
+    "saMboDana": ["d / t", "dO", "daH"],
+})
+
+# th-stem agnimaT (m)
+_register("th_m", "T", "m", "th-kArAnta puMliNga (agnimaT)", {
+    "prathamA": ["d / t", "TO", "TaH"],
+    "dvitIyA": ["Tam", "TO", "TaH"],
+    "tftIyA": ["TA", "dByAm", "dBiH"],
+    "caturTI": ["Te", "dByAm", "dByaH"],
+    "paYcamI": ["TaH", "dByAm", "dByaH"],
+    "zazWI": ["TaH", "ToH", "TAm"],
+    "saptamI": ["Ti", "ToH", "tsu"],
+    "saMboDana": ["d / t", "TO", "TaH"],
 })
 
 # j-stem Bizaj / ftvij (m)
 _register("j_m", "j", "m", "j-kArAnta puMliNga (Bizaj)", {
-    "prathamA": ["k", "jO", "jaH"],
+    "prathamA": ["g / k", "jO", "jaH"],
     "dvitIyA": ["jam", "jO", "jaH"],
     "tftIyA": ["jA", "gByAm", "gBiH"],
     "caturTI": ["je", "gByAm", "gByaH"],
     "paYcamI": ["jaH", "gByAm", "gByaH"],
     "zazWI": ["jaH", "joH", "jAm"],
     "saptamI": ["ji", "joH", "kzu"],
-    "saMboDana": ["k", "jO", "jaH"],
+    "saMboDana": ["g / k", "jO", "jaH"],
 })
 
 # palatal sibilant diS (f.) / viS (m.)
@@ -926,7 +1637,7 @@ _register("sudhi_m", "I", "m", "I-kArAnta puMliNga (suDI - iyaN-AdeSa)", {
     "saMboDana": ["IH", "iyO", "iyaH"],
 })
 
-# I-stem masculine (senAnI / grAmaRI - yaR-AdeSa per Panini 6.4.82)
+# I-stem masculine (senAnI / grAmaRI - yaR-AdeSa per Panini 6.4.82, 7.3.116 nerAm nIByaH)
 _register("I_m", "I", "m", "I-kArAnta puMliNga (senAnI - yaR-AdeSa)", {
     "prathamA": ["IH", "yO", "yaH"],
     "dvitIyA": ["yam", "yO", "yaH"],
@@ -934,7 +1645,7 @@ _register("I_m", "I", "m", "I-kArAnta puMliNga (senAnI - yaR-AdeSa)", {
     "caturTI": ["ye", "IByAm", "IByaH"],
     "paYcamI": ["yaH", "IByAm", "IByaH"],
     "zazWI": ["yaH", "yoH", "yAm"],
-    "saptamI": ["yi / yAm", "yoH", "Izu"],
+    "saptamI": ["yAm", "yoH", "Izu"],
     "saMboDana": ["IH", "yO", "yaH"],
 })
 
@@ -996,7 +1707,17 @@ _register("div_m", "div", "m", "v-kArAnta puMliNga (div/dyu - heaven/sky)", {
     "saMboDana": ["dyOH", "divO", "divaH"],
 })
 
-# Directional adjectives in -aYc (prAYc / pratyaYc / udaYc)
+# Directional adjectives in -aYc (prAYc / pratyaYc / udaYc / anvac)
+_register("anvac_m", "anvac", "m", "c-kArAnta puMliNga (anvac - following) - irregular", {
+    "prathamA": ["anvaN", "anvaYcO", "anvaYcaH"],
+    "dvitIyA": ["anvaYcam", "anvaYcO", "anUcaH"],
+    "tftIyA": ["anUcA", "anvagByAm", "anvagBiH"],
+    "caturTI": ["anUce", "anvagByAm", "anvagByaH"],
+    "paYcamI": ["anUcaH", "anvagByAm", "anvagByaH"],
+    "zazWI": ["anUcaH", "anUcoH", "anUcAm"],
+    "saptamI": ["anUci", "anUcoH", "anvakzu"],
+    "saMboDana": ["anvaN", "anvaYcO", "anvaYcaH"],
+})
 _register("pranc_m", "prAYc", "m", "c-kArAnta puMliNga (prAYc - eastern/forward)", {
     "prathamA": ["prAN", "prAYcO", "prAYcaH"],
     "dvitIyA": ["prAYcam", "prAYcO", "prAcaH"],
@@ -1068,24 +1789,24 @@ _register("yuj_m", "yuj", "m", "j-kArAnta puMliNga (yuj - companion/yoke) - irre
 
 # Buj (enjoyer / ruler / eater, m./f.) - regular j-stem with kutva
 _register("Buj_m", "Buj", "m", "j-kArAnta puMliNga (Buj - ruler/enjoyer)", {
-    "prathamA": ["Buk", "BujO", "BujaH"],
+    "prathamA": ["Bug / Buk", "BujO", "BujaH"],
     "dvitIyA": ["Bujam", "BujO", "BujaH"],
     "tftIyA": ["BujA", "BugByAm", "BugBiH"],
     "caturTI": ["Buje", "BugByAm", "BugByaH"],
     "paYcamI": ["BujaH", "BugByAm", "BugByaH"],
     "zazWI": ["BujaH", "BujoH", "BujAm"],
     "saptamI": ["Buji", "BujoH", "Bukzu"],
-    "saMboDana": ["Buk", "BujO", "BujaH"],
+    "saMboDana": ["Bug / Buk", "BujO", "BujaH"],
 })
 _register("Buj_f", "Buj", "f", "j-kArAnta strIliNga (Buj - ruler/enjoyer)", {
-    "prathamA": ["Buk", "BujO", "BujaH"],
+    "prathamA": ["Bug / Buk", "BujO", "BujaH"],
     "dvitIyA": ["Bujam", "BujO", "BujaH"],
     "tftIyA": ["BujA", "BugByAm", "BugBiH"],
     "caturTI": ["Buje", "BugByAm", "BugByaH"],
     "paYcamI": ["BujaH", "BugByAm", "BugByaH"],
     "zazWI": ["BujaH", "BujoH", "BujAm"],
     "saptamI": ["Buji", "BujoH", "Bukzu"],
-    "saMboDana": ["Buk", "BujO", "BujaH"],
+    "saMboDana": ["Bug / Buk", "BujO", "BujaH"],
 })
 
 # kzuD (hunger, f.) & dh-stems (samiD)
@@ -1280,48 +2001,58 @@ _register("snih_f", "snih", "f", "h-kArAnta strIliNga (snih - attached) - option
     "saMboDana": ["snik / snig / sniw / sniq", "snihO", "snihaH"],
 })
 
-# dfS (seeing, m/f) - Panini 8.2.36, 8.2.62 (velar k/g)
+# dfS (seeing, m/f/n) - Panini 8.2.36, 8.2.62 (velar g/K/k)
 _register("drs_m", "dfS", "m", "S-kArAnta puMliNga (dfS - seeing) - velar (Panini 8.2.36, 8.2.62)", {
-    "prathamA": ["dfk / dfg", "dfSO", "dfSaH"],
+    "prathamA": ["dfg / dfK / dfk", "dfSO", "dfSaH"],
     "dvitIyA": ["dfSam", "dfSO", "dfSaH"],
     "tftIyA": ["dfSA", "dfgByAm", "dfgBiH"],
     "caturTI": ["dfSe", "dfgByAm", "dfgByaH"],
     "paYcamI": ["dfSaH", "dfgByAm", "dfgByaH"],
     "zazWI": ["dfSaH", "dfSoH", "dfSAm"],
     "saptamI": ["dfSi", "dfSoH", "dfkzu"],
-    "saMboDana": ["dfk / dfg", "dfSO", "dfSaH"],
+    "saMboDana": ["dfg / dfK / dfk", "dfSO", "dfSaH"],
 })
 _register("drs_f", "dfS", "f", "S-kArAnta strIliNga (dfS - eye/sight) - velar (Panini 8.2.36, 8.2.62)", {
-    "prathamA": ["dfk / dfg", "dfSO", "dfSaH"],
+    "prathamA": ["dfg / dfK / dfk", "dfSO", "dfSaH"],
     "dvitIyA": ["dfSam", "dfSO", "dfSaH"],
     "tftIyA": ["dfSA", "dfgByAm", "dfgBiH"],
     "caturTI": ["dfSe", "dfgByAm", "dfgByaH"],
     "paYcamI": ["dfSaH", "dfgByAm", "dfgByaH"],
     "zazWI": ["dfSaH", "dfSoH", "dfSAm"],
     "saptamI": ["dfSi", "dfSoH", "dfkzu"],
-    "saMboDana": ["dfk / dfg", "dfSO", "dfSaH"],
+    "saMboDana": ["dfg / dfK / dfk", "dfSO", "dfSaH"],
+})
+_register("drs_n", "dfS", "n", "S-kArAnta napuMsaka (dfS) - velar (Panini 8.2.36, 8.2.62)", {
+    "prathamA": ["dfg / dfK / dfk", "dfSI", "dfMSi"],
+    "dvitIyA": ["dfg / dfK / dfk", "dfSI", "dfMSi"],
+    "tftIyA": ["dfSA", "dfgByAm", "dfgBiH"],
+    "caturTI": ["dfSe", "dfgByAm", "dfgByaH"],
+    "paYcamI": ["dfSaH", "dfgByAm", "dfgByaH"],
+    "zazWI": ["dfSaH", "dfSoH", "dfSAm"],
+    "saptamI": ["dfSi", "dfSoH", "dfkzu"],
+    "saMboDana": ["dfg / dfK / dfk", "dfSI", "dfMSi"],
 })
 
-# spfS (touching, m/f) - Panini 8.2.36, 8.2.62 (velar k/g)
+# spfS (touching, m/f) - Panini 8.2.36, 8.2.62 (velar g/K/k)
 _register("spfs_m", "spfS", "m", "S-kArAnta puMliNga (spfS - touching) - velar (Panini 8.2.36, 8.2.62)", {
-    "prathamA": ["spfk / spfg", "spfSO", "spfSaH"],
+    "prathamA": ["spfg / spfK / spfk", "spfSO", "spfSaH"],
     "dvitIyA": ["spfSam", "spfSO", "spfSaH"],
     "tftIyA": ["spfSA", "spfgByAm", "spfgBiH"],
     "caturTI": ["spfSe", "spfgByAm", "spfgByaH"],
     "paYcamI": ["spfSaH", "spfgByAm", "spfgByaH"],
     "zazWI": ["spfSaH", "spfSoH", "spfSAm"],
     "saptamI": ["spfSi", "spfSoH", "spfkzu"],
-    "saMboDana": ["spfk / spfg", "spfSO", "spfSaH"],
+    "saMboDana": ["spfg / spfK / spfk", "spfSO", "spfSaH"],
 })
 _register("spfs_f", "spfS", "f", "S-kArAnta strIliNga (spfS - touching) - velar (Panini 8.2.36, 8.2.62)", {
-    "prathamA": ["spfk / spfg", "spfSO", "spfSaH"],
+    "prathamA": ["spfg / spfK / spfk", "spfSO", "spfSaH"],
     "dvitIyA": ["spfSam", "spfSO", "spfSaH"],
     "tftIyA": ["spfSA", "spfgByAm", "spfgBiH"],
     "caturTI": ["spfSe", "spfgByAm", "spfgByaH"],
     "paYcamI": ["spfSaH", "spfgByAm", "spfgByaH"],
     "zazWI": ["spfSaH", "spfSoH", "spfSAm"],
     "saptamI": ["spfSi", "spfSoH", "spfkzu"],
-    "saMboDana": ["spfk / spfg", "spfSO", "spfSaH"],
+    "saMboDana": ["spfg / spfK / spfk", "spfSO", "spfSaH"],
 })
 
 # tiryac / tiraYc (transverse/animal, m/n) - Panini 6.4.113 tiryacas tiryateḥ
@@ -1374,7 +2105,7 @@ PRONOUNS["tad"] = {
         "dvitIyA": ["tam", "tO", "tAn"],
         "tftIyA": ["tena", "tAByAm", "tEH"],
         "caturTI": ["tasmE", "tAByAm", "teByaH"],
-        "paYcamI": ["tasmAt", "tAByAm", "teByaH"],
+        "paYcamI": ["tasmAd / tasmAt", "tAByAm", "teByaH"],
         "zazWI": ["tasya", "tayoH", "tezAm"],
         "saptamI": ["tasmin", "tayoH", "tezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1390,11 +2121,11 @@ PRONOUNS["tad"] = {
         "saMboDana": ["-", "-", "-"],
     }),
     "n": _pronoun_table({
-        "prathamA": ["tat", "te", "tAni"],
-        "dvitIyA": ["tat", "te", "tAni"],
+        "prathamA": ["tad / tat", "te", "tAni"],
+        "dvitIyA": ["tad / tat", "te", "tAni"],
         "tftIyA": ["tena", "tAByAm", "tEH"],
         "caturTI": ["tasmE", "tAByAm", "teByaH"],
-        "paYcamI": ["tasmAt", "tAByAm", "teByaH"],
+        "paYcamI": ["tasmAd / tasmAt", "tAByAm", "teByaH"],
         "zazWI": ["tasya", "tayoH", "tezAm"],
         "saptamI": ["tasmin", "tayoH", "tezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1405,32 +2136,32 @@ PRONOUNS["tad"] = {
 PRONOUNS["etad"] = {
     "m": _pronoun_table({
         "prathamA": ["ezaH", "etO", "ete"],
-        "dvitIyA": ["etam", "etO", "etAn"],
-        "tftIyA": ["etena", "etAByAm", "etEH"],
+        "dvitIyA": ["etam / enam", "etO / enO", "etAn / enAn"],
+        "tftIyA": ["etena / enena", "etAByAm", "etEH"],
         "caturTI": ["etasmE", "etAByAm", "eteByaH"],
-        "paYcamI": ["etasmAt", "etAByAm", "eteByaH"],
-        "zazWI": ["etasya", "etayoH", "etezAm"],
-        "saptamI": ["etasmin", "etayoH", "etezu"],
+        "paYcamI": ["etasmAd / etasmAt", "etAByAm", "eteByaH"],
+        "zazWI": ["etasya", "etayoH / enayoH", "etezAm"],
+        "saptamI": ["etasmin", "etayoH / enayoH", "etezu"],
         "saMboDana": ["-", "-", "-"],
     }),
     "f": _pronoun_table({
         "prathamA": ["ezA", "ete", "etAH"],
-        "dvitIyA": ["etAm", "ete", "etAH"],
-        "tftIyA": ["etayA", "etAByAm", "etABiH"],
+        "dvitIyA": ["etAm / enAm", "ete / ene", "etAH / enAH"],
+        "tftIyA": ["etayA / enayA", "etAByAm", "etABiH"],
         "caturTI": ["etasyE", "etAByAm", "etAByaH"],
         "paYcamI": ["etasyAH", "etAByAm", "etAByaH"],
-        "zazWI": ["etasyAH", "etayoH", "etAsAm"],
-        "saptamI": ["etasyAm", "etayoH", "etAsu"],
+        "zazWI": ["etasyAH", "etayoH / enayoH", "etAsAm"],
+        "saptamI": ["etasyAm", "etayoH / enayoH", "etAsu"],
         "saMboDana": ["-", "-", "-"],
     }),
     "n": _pronoun_table({
-        "prathamA": ["etat", "ete", "etAni"],
-        "dvitIyA": ["etat", "ete", "etAni"],
-        "tftIyA": ["etena", "etAByAm", "etEH"],
+        "prathamA": ["etad / etat", "ete", "etAni"],
+        "dvitIyA": ["etad / enad / enat / etat", "ete / ene", "etAni / enAni"],
+        "tftIyA": ["etena / enena", "etAByAm", "etEH"],
         "caturTI": ["etasmE", "etAByAm", "eteByaH"],
-        "paYcamI": ["etasmAt", "etAByAm", "eteByaH"],
-        "zazWI": ["etasya", "etayoH", "etezAm"],
-        "saptamI": ["etasmin", "etayoH", "etezu"],
+        "paYcamI": ["etasmAd / etasmAt", "etAByAm", "eteByaH"],
+        "zazWI": ["etasya", "etayoH / enayoH", "etezAm"],
+        "saptamI": ["etasmin", "etayoH / enayoH", "etezu"],
         "saMboDana": ["-", "-", "-"],
     }),
 }
@@ -1442,7 +2173,7 @@ PRONOUNS["yad"] = {
         "dvitIyA": ["yam", "yO", "yAn"],
         "tftIyA": ["yena", "yAByAm", "yEH"],
         "caturTI": ["yasmE", "yAByAm", "yeByaH"],
-        "paYcamI": ["yasmAt", "yAByAm", "yeByaH"],
+        "paYcamI": ["yasmAd / yasmAt", "yAByAm", "yeByaH"],
         "zazWI": ["yasya", "yayoH", "yezAm"],
         "saptamI": ["yasmin", "yayoH", "yezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1458,11 +2189,11 @@ PRONOUNS["yad"] = {
         "saMboDana": ["-", "-", "-"],
     }),
     "n": _pronoun_table({
-        "prathamA": ["yat", "ye", "yAni"],
-        "dvitIyA": ["yat", "ye", "yAni"],
+        "prathamA": ["yad / yat", "ye", "yAni"],
+        "dvitIyA": ["yad / yat", "ye", "yAni"],
         "tftIyA": ["yena", "yAByAm", "yEH"],
         "caturTI": ["yasmE", "yAByAm", "yeByaH"],
-        "paYcamI": ["yasmAt", "yAByAm", "yeByaH"],
+        "paYcamI": ["yasmAd / yasmAt", "yAByAm", "yeByaH"],
         "zazWI": ["yasya", "yayoH", "yezAm"],
         "saptamI": ["yasmin", "yayoH", "yezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1476,7 +2207,7 @@ PRONOUNS["tyad"] = {
         "dvitIyA": ["tyam", "tyO", "tyAn"],
         "tftIyA": ["tyena", "tyAByAm", "tyEH"],
         "caturTI": ["tyasmE", "tyAByAm", "tyeByaH"],
-        "paYcamI": ["tyasmAt", "tyAByAm", "tyeByaH"],
+        "paYcamI": ["tyasmAd / tyasmAt", "tyAByAm", "tyeByaH"],
         "zazWI": ["tyasya", "tyayoH", "tyezAm"],
         "saptamI": ["tyasmin", "tyayoH", "tyezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1492,11 +2223,11 @@ PRONOUNS["tyad"] = {
         "saMboDana": ["-", "-", "-"],
     }),
     "n": _pronoun_table({
-        "prathamA": ["tyat", "tye", "tyAni"],
-        "dvitIyA": ["tyat", "tye", "tyAni"],
+        "prathamA": ["tyad / tyat", "tye", "tyAni"],
+        "dvitIyA": ["tyad / tyat", "tye", "tyAni"],
         "tftIyA": ["tyena", "tyAByAm", "tyEH"],
         "caturTI": ["tyasmE", "tyAByAm", "tyeByaH"],
-        "paYcamI": ["tyasmAt", "tyAByAm", "tyeByaH"],
+        "paYcamI": ["tyasmAd / tyasmAt", "tyAByAm", "tyeByaH"],
         "zazWI": ["tyasya", "tyayoH", "tyezAm"],
         "saptamI": ["tyasmin", "tyayoH", "tyezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1510,7 +2241,7 @@ PRONOUNS["kim"] = {
         "dvitIyA": ["kam", "kO", "kAn"],
         "tftIyA": ["kena", "kAByAm", "kEH"],
         "caturTI": ["kasmE", "kAByAm", "keByaH"],
-        "paYcamI": ["kasmAt", "kAByAm", "keByaH"],
+        "paYcamI": ["kasmAd / kasmAt", "kAByAm", "keByaH"],
         "zazWI": ["kasya", "kayoH", "kezAm"],
         "saptamI": ["kasmin", "kayoH", "kezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1530,7 +2261,7 @@ PRONOUNS["kim"] = {
         "dvitIyA": ["kim", "ke", "kAni"],
         "tftIyA": ["kena", "kAByAm", "kEH"],
         "caturTI": ["kasmE", "kAByAm", "keByaH"],
-        "paYcamI": ["kasmAt", "kAByAm", "keByaH"],
+        "paYcamI": ["kasmAd / kasmAt", "kAByAm", "keByaH"],
         "zazWI": ["kasya", "kayoH", "kezAm"],
         "saptamI": ["kasmin", "kayoH", "kezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1544,7 +2275,7 @@ PRONOUNS["idam"] = {
         "dvitIyA": ["imam / enam", "imO / enO", "imAn / enAn"],
         "tftIyA": ["anena / enena", "AByAm", "eBiH"],
         "caturTI": ["asmE", "AByAm", "eByaH"],
-        "paYcamI": ["asmAt", "AByAm", "eByaH"],
+        "paYcamI": ["asmAd / asmAt", "AByAm", "eByaH"],
         "zazWI": ["asya", "anayoH / enayoH", "ezAm"],
         "saptamI": ["asmin", "anayoH / enayoH", "ezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1561,10 +2292,10 @@ PRONOUNS["idam"] = {
     }),
     "n": _pronoun_table({
         "prathamA": ["idam", "ime", "imAni"],
-        "dvitIyA": ["idam / enat", "ime / ene", "imAni / enAni"],
+        "dvitIyA": ["idam / enad / enat", "ime / ene", "imAni / enAni"],
         "tftIyA": ["anena / enena", "AByAm", "eBiH"],
         "caturTI": ["asmE", "AByAm", "eByaH"],
-        "paYcamI": ["asmAt", "AByAm", "eByaH"],
+        "paYcamI": ["asmAd / asmAt", "AByAm", "eByaH"],
         "zazWI": ["asya", "anayoH / enayoH", "ezAm"],
         "saptamI": ["asmin", "anayoH / enayoH", "ezu"],
         "saMboDana": ["-", "-", "-"],
@@ -1578,7 +2309,7 @@ PRONOUNS["adas"] = {
         "dvitIyA": ["amum", "amU", "amUn"],
         "tftIyA": ["amunA", "amUByAm", "amIBiH"],
         "caturTI": ["amuzmE", "amUByAm", "amIByaH"],
-        "paYcamI": ["amuzmAt", "amUByAm", "amIByaH"],
+        "paYcamI": ["amuzmAd / amuzmAt", "amUByAm", "amIByaH"],
         "zazWI": ["amuzya", "amuyoH", "amIzAm"],
         "saptamI": ["amuzmin", "amuyoH", "amIzu"],
         "saMboDana": ["-", "-", "-"],
@@ -1598,7 +2329,7 @@ PRONOUNS["adas"] = {
         "dvitIyA": ["adaH", "amU", "amUni"],
         "tftIyA": ["amunA", "amUByAm", "amIBiH"],
         "caturTI": ["amuzmE", "amUByAm", "amIByaH"],
-        "paYcamI": ["amuzmAt", "amUByAm", "amIByaH"],
+        "paYcamI": ["amuzmAd / amuzmAt", "amUByAm", "amIByaH"],
         "zazWI": ["amuzya", "amuyoH", "amIzAm"],
         "saptamI": ["amuzmin", "amuyoH", "amIzu"],
         "saMboDana": ["-", "-", "-"],
@@ -1611,7 +2342,7 @@ _SARVA_PRONOUN_M = {
     "dvitIyA": ["am", "O", "An"],
     "tftIyA": ["ena", "AByAm", "EH"],
     "caturTI": ["asmE", "AByAm", "eByaH"],
-    "paYcamI": ["asmAt", "AByAm", "eByaH"],
+    "paYcamI": ["asmAd / asmAt", "AByAm", "eByaH"],
     "zazWI": ["asya", "ayoH", "ezAm"],
     "saptamI": ["asmin", "ayoH", "ezu"],
     "saMboDana": ["a", "O", "e"],
@@ -1631,10 +2362,10 @@ _SARVA_PRONOUN_N = {
     "dvitIyA": ["am", "e", "Ani"],
     "tftIyA": ["ena", "AByAm", "EH"],
     "caturTI": ["asmE", "AByAm", "eByaH"],
-    "paYcamI": ["asmAt", "AByAm", "eByaH"],
+    "paYcamI": ["asmAd / asmAt", "AByAm", "eByaH"],
     "zazWI": ["asya", "ayoH", "ezAm"],
     "saptamI": ["asmin", "ayoH", "ezu"],
-    "saMboDana": ["am", "e", "Ani"],
+    "saMboDana": ["a", "e", "Ani"],
 }
 
 # ḍatara/ḍatama class words take -at/-ad in neuter prathamA/dvitIyA (Panini 7.1.25)
@@ -1645,10 +2376,10 @@ _PURVADI_WORDS = {"pUrva", "para", "avara", "dakziRa", "DakziRa", "uttara", "apa
 
 def _add_pronoun_suf(base: str, suf: str) -> str:
     if " / " in suf:
-        return " / ".join(apply_natva(base + p.strip()) for p in suf.split("/"))
-    return apply_natva(base + suf)
+        return " / ".join(apply_natva(base + p.strip(), len(base)) for p in suf.split("/"))
+    return apply_natva(base + suf, len(base))
 
-for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "dakziRa", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva", "antara", "sama", "sIma", "nema"]:
+for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyatara", "itara", "para", "apara", "dakziRa", "DakziRa", "pUrva", "avara", "uttara", "aDara", "alpa", "sva", "antara", "sama", "sIma", "nema", "aneka"]:
     if _w == "uBa":
         PRONOUNS[_w] = {
             "m": {"prathamA": ["-", "uBO", "-"], "dvitIyA": ["-", "uBO", "-"], "tftIyA": ["-", "uBAByAm", "-"], "caturTI": ["-", "uBAByAm", "-"], "paYcamI": ["-", "uBAByAm", "-"], "zazWI": ["-", "uBayoH", "-"], "saptamI": ["-", "uBayoH", "-"], "saMboDana": ["-", "uBO", "-"]},
@@ -1665,19 +2396,19 @@ for _w in ["sarva", "viSva", "uBa", "uBaya", "katara", "katama", "anya", "anyata
     n_table = dict(_SARVA_PRONOUN_N)
 
     if _w in _DATARA_WORDS:
-        n_table["prathamA"] = ["at", "e", "Ani"]
-        n_table["dvitIyA"] = ["at", "e", "Ani"]
-        n_table["saMboDana"] = ["at", "e", "Ani"]
+        n_table["prathamA"] = ["ad / at", "e", "Ani"]
+        n_table["dvitIyA"] = ["ad / at", "e", "Ani"]
+        n_table["saMboDana"] = ["ad / at", "e", "Ani"]
 
     if _w in _PURVADI_WORDS:
         # Panini 1.1.32 vibhāṣā jasi: prathamA bahuvacana e / AH
         m_table["prathamA"] = ["aH", "O", "e / AH"]
         m_table["saMboDana"] = ["a", "O", "e / AH"]
-        # Panini 1.1.34 pūrvaparāvara...: pañcamI ekavacana asmAt / At, saptamI asmin / e
-        m_table["paYcamI"] = ["asmAt / At", "AByAm", "eByaH"]
+        # Panini 1.1.34 pūrvaparāvara...: pañcamI ekavacana asmAd / asmAt / Ad / At, saptamI asmin / e
+        m_table["paYcamI"] = ["asmAd / asmAt / Ad / At", "AByAm", "eByaH"]
         m_table["saptamI"] = ["asmin / e", "ayoH", "ezu"]
 
-        n_table["paYcamI"] = ["asmAt / At", "AByAm", "eByaH"]
+        n_table["paYcamI"] = ["asmAd / asmAt / Ad / At", "AByAm", "eByaH"]
         n_table["saptamI"] = ["asmin / e", "ayoH", "ezu"]
 
         f_table["caturTI"] = ["asyE / AyE", "AByAm", "AByaH"]
@@ -1734,7 +2465,7 @@ NUMERALS["eka"] = {
         "dvitIyA": ["ekam", "-", "-"],
         "tftIyA": ["ekena", "-", "-"],
         "caturTI": ["ekasmE", "-", "-"],
-        "paYcamI": ["ekasmAt", "-", "-"],
+        "paYcamI": ["ekasmAd / ekasmAt", "-", "-"],
         "zazWI": ["ekasya", "-", "-"],
         "saptamI": ["ekasmin", "-", "-"],
         "saMboDana": ["eka", "-", "-"],
@@ -1754,7 +2485,7 @@ NUMERALS["eka"] = {
         "dvitIyA": ["ekam", "-", "-"],
         "tftIyA": ["ekena", "-", "-"],
         "caturTI": ["ekasmE", "-", "-"],
-        "paYcamI": ["ekasmAt", "-", "-"],
+        "paYcamI": ["ekasmAd / ekasmAt", "-", "-"],
         "zazWI": ["ekasya", "-", "-"],
         "saptamI": ["ekasmin", "-", "-"],
         "saMboDana": ["ekam", "-", "-"],
@@ -1886,14 +2617,14 @@ for _lem in ["paYcan", "paYca", "saptan", "sapta", "navan", "nava", "daSan", "da
 
 # zaz / zaR / zaw
 _zaz_table = {
-    "prathamA": ["-", "-", "zat / zaw"],
-    "dvitIyA": ["-", "-", "zat / zaw"],
-    "tftIyA": ["-", "-", "zaRBiH"],
-    "caturTI": ["-", "-", "zaRByaH"],
-    "paYcamI": ["-", "-", "zaRByaH"],
+    "prathamA": ["-", "-", "zaq / zaw"],
+    "dvitIyA": ["-", "-", "zaq / zaw"],
+    "tftIyA": ["-", "-", "zaqBiH"],
+    "caturTI": ["-", "-", "zaqByaH"],
+    "paYcamI": ["-", "-", "zaqByaH"],
     "zazWI": ["-", "-", "zaRRAm"],
-    "saptamI": ["-", "-", "zaTsu / zawsu"],
-    "saMboDana": ["-", "-", "zat / zaw"],
+    "saptamI": ["-", "-", "zawsu / zawtsu"],
+    "saMboDana": ["-", "-", "zaq / zaw"],
 }
 NUMERALS["zaz"] = NUMERALS["zaR"] = NUMERALS["zaw"] = {"m": _zaz_table, "f": _zaz_table, "n": _zaz_table}
 
@@ -1991,6 +2722,10 @@ def _generate_noun(word: str, paradigm: str) -> dict[str, list[str]]:
     # compute base
     if word.endswith(ending):
         base = word[: -len(ending)] if len(ending) <= len(word) else ""
+    elif paradigm == "us_n" and word.endswith("uz"):
+        base = word[:-2]
+    elif paradigm == "is_n" and word.endswith("iz"):
+        base = word[:-2]
     elif paradigm == "pad_m":
         if word.endswith("pada"):
             base = word[:-4]
@@ -2030,10 +2765,10 @@ def _generate_noun(word: str, paradigm: str) -> dict[str, list[str]]:
                 forms.append("-")
             else:
                 if " / " in suf:
-                    parts = [apply_natva(base + p.strip()) for p in suf.split("/")]
+                    parts = [apply_natva(base + p.strip(), len(base)) for p in suf.split("/")]
                     forms.append(" / ".join(parts))
                 else:
-                    forms.append(apply_natva(base + suf))
+                    forms.append(apply_natva(base + suf, len(base)))
         out[vib] = forms
     return out
 
@@ -2051,11 +2786,28 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return []
     candidates: list[str] = []
     # pronoun/numeral exact?
-    low = word.lower()
-    if low in PRONOUNS or word in PRONOUNS:
-        return [f"pronoun:{word}"]
-    if low in NUMERALS or word in NUMERALS:
-        return [f"numeral:{word}"]
+    if word in PRONOUNS:
+        cands = [f"pronoun:{word}"]
+        if word.endswith("a"):
+            if gender == "m":
+                cands.append("a_m")
+            elif gender == "n":
+                cands.append("a_n")
+        elif word.endswith("A") and gender == "f":
+            cands.append("A_f")
+        elif word.endswith("d"):
+            if gender == "m":
+                cands.append("d_m")
+            elif gender == "n":
+                cands.append("d_n")
+        return cands
+    if word in NUMERALS:
+        cands = [f"numeral:{word}"]
+        if word.endswith("i") and gender == "f":
+            cands.append("i_f")
+        elif word.endswith("t") and gender == "f":
+            cands.append("t_f")
+        return cands
 
     # asthy-adi irregular neuter i-stems (daDi, akzi, asTi, sakTi)
     if word in ("daDi", "akzi", "asTi", "sakTi"):
@@ -2075,6 +2827,10 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         if gender is None or gender == "m":
             return ["sakhi_m", "i_m"] if gender == "m" else ["sakhi_m"]
 
+    # ambArtha strIliNga (ambA / akkA / allA / ammA)
+    if word in ("akkA", "allA", "ammA", "ambA"):
+        return ["amba_f", "A_f"]
+
     # o-stem go (bull / cow)
     if word == "go" or word.endswith("go"):
         if gender == "f":
@@ -2091,12 +2847,12 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return ["sri_f"]
     if word in ("suDI", "praDI") or (word.endswith("DI") and word not in ("DI", "hrI", "SrI")):
         return ["sudhi_m", "I_m"] if gender in (None, "m") else ["sudhi_m", "I_f"]
-    if word in ("senAnI", "grAmaRI") or (word.endswith("nI") and gender == "m"):
+    if word in ("senAnI", "grAmaRI") or ((word.endswith("nI") or word.endswith("RI")) and gender == "m"):
         return ["I_m", "sudhi_m"]
     if word in ("viSvapA", "somapA", "DUpapA", "balapA") or (word.endswith("pA") and gender == "m"):
         return ["A_m"]
-    if word in ("BU", "BrU") or (word.endswith("BU") and len(word) <= 4):
-        return ["bhu_f"]
+    if word in ("BU", "BrU") or word.endswith("BU"):
+        return ["bhu_m"] if gender == "m" else (["bhu_f"] if gender == "f" else ["bhu_m", "bhu_f"])
     if word == "strI" or word.endswith("strI"):
         return ["stri_f"]
     if word == "lakzmI" or word.endswith("lakzmI"):
@@ -2128,6 +2884,10 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word in ("udaYc", "udIc") or word.endswith("udaYc") or word.endswith("udIc"):
         return ["udanc_m"]
     if word == "krozwu" or word.endswith("krozwu"):
+        if gender == "n":
+            return ["u_n"]
+        elif gender == "f":
+            return ["u_f"]
         return ["krozwu_m", "u_m"]
     if word == "candramas" or word.endswith("candramas"):
         return ["candramas_m", "as_m"]
@@ -2141,7 +2901,7 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return ["dh_f"]
     if word == "vftrahan" or word.endswith("vftrahan"):
         return ["vftrahan_m", "han_m"]
-    if word.endswith("han") and (gender is None or gender == "m"):
+    if word.endswith("han") and word != "plIhan" and (gender is None or gender == "m"):
         return ["han_m"]
     if word == "maGavan" or word.endswith("maGavan"):
         return ["maghavan_m"]
@@ -2151,7 +2911,7 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         return ["ahan_n"]
     if word in ("pums", "pumAMs") or word.endswith("pums"):
         return ["pums_m"]
-    if word == "Svan" or word.endswith("Svan"):
+    if word == "Svan" or (word.endswith("Svan") and word != "mAtariSvan"):
         return ["svan_m"]
     if word == "yuvan" or word.endswith("yuvan"):
         return ["yuvan_m"]
@@ -2192,11 +2952,13 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word == "snih" or word.endswith("snih"):
         return ["snih_m"] if gender == "m" else ["snih_f"] if gender == "f" else ["snih_m", "snih_f"]
 
-    # dfS, spfS, diS, viS
+    # dfS, spfS, diS, viS, anvac
+    if word == "anvac" or word.endswith("anvac"):
+        return ["anvac_m"]
     if word == "dfS" or word.endswith("dfS"):
-        return ["drs_m"] if gender == "m" else ["drs_f"] if gender == "f" else ["drs_m", "drs_f"]
+        return ["drs_m"] if gender == "m" else (["drs_f"] if gender == "f" else (["drs_n"] if gender == "n" else ["drs_m", "drs_f", "drs_n"]))
     if word == "spfS" or word.endswith("spfS"):
-        return ["spfs_m"] if gender == "m" else ["spfs_f"] if gender == "f" else ["spfs_m", "spfs_f"]
+        return ["spfs_m"] if gender == "m" else (["spfs_f"] if gender == "f" else ["spfs_m", "spfs_f"])
     if word == "diS" or word.endswith("diS"):
         return ["dis_f"] if gender != "m" else ["dis_m"]
     if word == "viS" or word.endswith("viS"):
@@ -2227,11 +2989,15 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word in ("Bizaj", "ftvij"):
         return ["j_m"]
 
-    # vidvas (scholar) & vas participles (kvasu)
+    # vidvas (scholar) & vas participles (kvasu) vs Sravas (fame / ears)
     if word in ("vidvas", "vidvAn") or word.endswith("vidvas"):
         return ["vidvas_m", "vas_m"]
+    if word.endswith("Sravas"):
+        if gender == "n":
+            return ["as_n"]
+        return ["as_m", "candramas_m"]
     if word.endswith("vas") and (gender is None or gender == "m"):
-        return ["vas_m"]
+        return ["vas_m", "as_m"]
 
     # mahat (great)
     if word == "mahat" or word.endswith("mahat"):
@@ -2261,17 +3027,32 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
         elif gender == "n":
             return ["yas_n", "as_n"]
 
-    # an-stem neuter karman (conjunct) vs nAman (simple) vs masculine rAjan vs Atman
-    if word == "rAjan" or word.endswith("rAjan"):
-        return ["rajan_m"]
-    if word in ("karman", "janman", "parvan", "varman", "carman", "veSman", "BAsman") or word.endswith("karman"):
-        return ["karman_n"] if gender in (None, "n") else ["karman_n", "an_m"]
-    if word in ("nAman", "brahman", "vyoman", "sAman", "DAman") or word.endswith("nAman"):
-        if word == "brahman" and gender == "m":
-            return ["an_m"]
-        return ["an_n", "an_m"] if gender == "n" else ["an_n"]
-    if word == "Atman" or word.endswith("Atman"):
-        return ["an_m"]
+    # an-stem neuter karman (conjunct) vs nAman (simple) vs masculine rAjan vs Atman vs mUrDan/aRiman
+    if word.endswith("an"):
+        p = word[:-2]
+        # Pāṇini 6.4.134 allopo'naḥ vs 6.4.135 na saṁyogād vamantāt
+        last = p[-1] if p else ""
+        if last in ('c', 'j'):
+            w = "y"
+        elif last in ('w', 'D', 'z'):
+            w = "drop"
+        elif len(p) >= 2 and p[-2] in "aAiIuUfFxXeEoO":
+            w = "drop"
+        else:
+            w = "keep"
+
+        if gender == "m":
+            if word == "rAjan" or word.endswith("rAjan") or w == "y":
+                return ["rajan_m", "an_drop_m", "an_m"]
+            elif w == "drop":
+                return ["an_drop_m", "an_m"]
+            else:
+                return ["an_m", "an_drop_m"]
+        elif gender in (None, "n"):
+            if w == "drop":
+                return ["an_n", "karman_n"]
+            else:
+                return ["karman_n", "an_n"]
 
     # f-stem: agent nouns in -tf (kartf, dAtf) take vṛddhi Ar (tf_m); kinship (pitf, BrAtf) take guṇa ar (f_m)
     if word.endswith("f"):
@@ -2293,11 +3074,20 @@ def detect_paradigm(word: str, gender: str | None = None) -> list[str]:
     if word.endswith("paTin") and (gender is None or gender == "m"):
         return ["pathin_m", "in_m"] if gender == "m" else ["pathin_m"]
 
+    if (word.endswith("us") or word.endswith("uz")) and gender in (None, "n"):
+        return ["us_n"]
+    if (word.endswith("is") or word.endswith("iz")) and gender in (None, "n"):
+        return ["is_n"]
+
     # check endings longest first
     for paradigm, meta in sorted(PARADIGMS.items(), key=lambda x: -len(x[1]["ending"])):
         ending = meta["ending"]
         g = meta["gender"]
         if gender and g != gender:
+            continue
+        if paradigm == "rajan_m" and not (word == "rAjan" or word.endswith("rAjan")):
+            continue
+        if paradigm == "amba_f" and word not in ("akkA", "allA", "ammA", "ambA"):
             continue
         if word.endswith(ending):
             candidates.append(paradigm)

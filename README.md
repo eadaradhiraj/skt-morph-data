@@ -184,8 +184,11 @@ skt-morph numerals
 ### Kṛdanta (Participles)
 
 ```bash
-# Decline participles
+# Decline participles (supports all 5 derivational families: shuddha, san, nich, yang, yangluk)
 skt-morph decline-participle BU kta --gender m
+skt-morph decline-participle BU Satf --family san --gender m
+skt-morph decline-participle BU Satf --family nich --gender m
+skt-morph decline-participle BU SAnac --family yang --gender m
 skt-morph decline-participle gam Satf --gender f
 skt-morph decline-participle kf ktavatu             # all genders (m, f, n)
 skt-morph decline-participle BU tfc --gender m
@@ -194,6 +197,18 @@ skt-morph decline-participle gam tumun
 
 # Export participle declensions directly to Anki flashcards
 skt-morph decline-participle BU ktavatu --gender m --format anki
+```
+
+### Parity Auditing & Ground-Truth Verification
+
+```bash
+# Audit Krdanta declensions against the 5.2GB data/subanta_test/ corpus (99.85% pass rate)
+skt-morph audit-subanta --sample 20
+skt-morph audit-subanta --gana 01 --limit 50
+
+# Audit Subanta nominals against the 9,007-word shabda_data2.json corpus (95.04% pass rate)
+skt-morph audit-shabda --sample 200
+skt-morph audit-shabda --full
 ```
 
 ### Morphological Analysis

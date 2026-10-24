@@ -449,6 +449,42 @@ def cmd_decline_participle(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_audit_subanta(args: argparse.Namespace) -> int:
+    import subprocess
+    script = Path(__file__).resolve().parents[1] / "tools" / "audit_subanta_test.py"
+    if not script.exists():
+        print(f"Audit tool not found at {script}", file=sys.stderr)
+        return 1
+    cmd = [sys.executable, str(script)]
+    if args.sample:
+        cmd.extend(["--sample", str(args.sample)])
+    if args.gana:
+        cmd.extend(["--gana", str(args.gana)])
+    if args.limit:
+        cmd.extend(["--limit", str(args.limit)])
+    if args.workers:
+        cmd.extend(["--workers", str(args.workers)])
+    if args.report:
+        cmd.extend(["--report", str(args.report)])
+    return subprocess.call(cmd)
+
+
+def cmd_audit_shabda(args: argparse.Namespace) -> int:
+    import subprocess
+    script = Path(__file__).resolve().parents[1] / "tools" / "audit_shabda.py"
+    if not script.exists():
+        print(f"Shabda audit tool not found at {script}", file=sys.stderr)
+        return 1
+    cmd = [sys.executable, str(script)]
+    if args.sample:
+        cmd.extend(["--sample", str(args.sample)])
+    if getattr(args, "full", False):
+        cmd.append("--full")
+    if args.report:
+        cmd.extend(["--report", str(args.report)])
+    return subprocess.call(cmd)
+
+
 def cmd_paradigms(args: argparse.Namespace) -> int:
     rows = list_paradigms()
     if args.json:
@@ -598,10 +634,26 @@ def build_parser() -> argparse.ArgumentParser:
     dp.add_argument("pratyaya", help="participle affix (e.g. kta, ktavatu, Satf, SAnac, tavya, anIyar, tfc, kvasu, ktvA, tumun)")
     dp.add_argument("--gender", help="gender: m|f|n (optional – all genders if omitted)", default=None)
     dp.add_argument("--prefix", help="upasarga / prefix (default: '')", default="")
-    dp.add_argument("--category", help="category: krut|san_krut|nich_krut|yang_krut|yangluk_krut", default="krut")
+    dp.add_argument("--category", "--family", dest="category", help="category/family: krut|san_krut|nich_krut|yang_krut|yangluk_krut", default="krut")
     dp.add_argument("--format", "-f", choices=["table", "markdown", "html", "csv", "latex", "anki", "json"], default="table", help="output format: table|markdown|html|csv|latex|anki|json (default: table)")
     dp.add_argument("--json", action="store_true", help="output JSON (equivalent to --format json)")
     dp.set_defaults(func=cmd_decline_participle)
+
+    # audit-subanta – mass verification against ground truth
+    aud = sub.add_parser("audit-subanta", aliases=["audit"], help="run mass verification audit against data/subanta_test/ ground truth")
+    aud.add_argument("--sample", type=int, default=None, help="sample N random dhatus")
+    aud.add_argument("--gana", default=None, help="filter to specific gana (e.g. 01)")
+    aud.add_argument("--limit", type=int, default=None, help="limit number of files")
+    aud.add_argument("--workers", type=int, default=None, help="worker processes")
+    aud.add_argument("--report", default=None, help="JSON report path")
+    aud.set_defaults(func=cmd_audit_subanta)
+
+    # audit-shabda – nominal verification against shabda_data2.json
+    aud_sh = sub.add_parser("audit-shabda", help="run nominal audit against shabda_data2.json oracle")
+    aud_sh.add_argument("--sample", type=int, default=None, help="sample N words to audit")
+    aud_sh.add_argument("--full", action="store_true", help="audit all 9,007 words")
+    aud_sh.add_argument("--report", default=None, help="JSON report path")
+    aud_sh.set_defaults(func=cmd_audit_shabda)
 
     # analyze – unified verb+nominal morphological analyzer
     an = sub.add_parser("analyze", aliases=["parse", "analyse"], help="analyze inflected form (verb or declension) → lemma, vibhakti/vacana or dhatu")
@@ -637,7 +689,7 @@ def main(argv: list[str] | None = None) -> None:
     else:
         args.db = None
         # trigger auto-download unless command is download/decline/paradigms/analyze which don't need DB (analyze can work nominal-only)
-        if args.cmd not in ("download", "decline", "declines", "declension", "subanta", "nominal", "paradigms", "pronouns", "numerals", "analyze", "parse", "analyse"):
+        if args.cmd not in ("download", "decline", "declines", "declension", "subanta", "nominal", "paradigms", "pronouns", "numerals", "analyze", "parse", "analyse", "audit-subanta", "audit", "audit-shabda"):
             # ensure DB exists before any query
             try:
                 ensure_db()

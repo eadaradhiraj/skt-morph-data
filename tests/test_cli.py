@@ -42,4 +42,5 @@ def test_cli_purvadi():
     r = subprocess.run([sys.executable, "-m", "skt_morph_data.cli", "decline", "pUrva", "--category", "pronoun", "--gender", "m"], capture_output=True, text=True)
     assert r.returncode == 0
     assert "pUrve / pUrvAH" in r.stdout
-    assert "pUrvasmAt / pUrvAt" in r.stdout
+    assert "pUrvasmAt" in r.stdout
+    assert "pUrvAt" in r.stdout

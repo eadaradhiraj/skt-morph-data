@@ -71,6 +71,9 @@ PRATYAYA_ALIASES: dict[str, str] = {
     "vasu": "kvasu",
     "ktin": "ktin",
     "namul": "Ramul",
+    "krtya": "kRtya",
+    "kftya": "kRtya",
+    "kRtya": "kRtya",
 }
 
 INDECLINABLE_PRATYAYAS: set[str] = {"ktvA", "lyap", "tumun", "Ramul", "naN"}
@@ -992,6 +995,13 @@ def _decline_participle_gender(
 
     # First try exact krt_table
     if val and pratyaya:
+        # If the pratyaya is a known nitya-linga affix in this family (e.g. 'a' in san/yang is feminine-only),
+        # prevent leaking to fallback heuristics in other genders.
+        any_slot = any(krt_ref_slot(family, pratyaya, x, dhatu_id) is not None for x in ("m", "f", "n"))
+        this_slot = krt_ref_slot(family, pratyaya, g, dhatu_id)
+        if any_slot and this_slot is None:
+            raise ValueError(f"Pratyaya '{pratyaya}' does not decline in gender '{g}'")
+
         # If alternants in value, take first for primary declension
         first_val = val.split("/")[0].strip()
         tab = krt_table(family, pratyaya, g, first_val, dhatu_id)
@@ -1175,6 +1185,26 @@ def decline_participle(
     cat_entries = part_dict.get(fam_norm, {}) or part_dict.get(category, {})
     if not cat_entries:
         raise KeyError(f"No {fam_norm} participles found for dhatu {dhatu_id} ({dhatu_lemma})")
+
+    if norm_p == "kRtya":
+        results = {}
+        for kp in ("tavya", "anIyar", "yat", "Ryat", "kyap"):
+            if kp in cat_entries:
+                results[kp] = decline_participle(dhatu, kp, gender=gender, prefix=prefix, category=category, db_path=db_path)
+        if not results:
+            raise KeyError(f"No kRtya participles found for {dhatu_id}")
+        return {
+            "word": f"{dhatu_lemma}+kRtya",
+            "dhatu": dhatu_lemma,
+            "dhatu_id": dhatu_id,
+            "pratyaya": "kRtya",
+            "category": fam_norm,
+            "prefix": prefix,
+            "is_collection": True,
+            "participles": results,
+            "type": "participle_collection",
+            "desc": f"kRtya participles of {dhatu_lemma} ({', '.join(results.keys())})",
+        }
 
     if norm_p not in cat_entries:
         available = sorted(cat_entries.keys())

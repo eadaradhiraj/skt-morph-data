@@ -149,6 +149,43 @@ class TestKrdanta(unittest.TestCase):
         self.assertEqual(fem_parts[0]["pratyaya"], "ktavatu")
         self.assertEqual(fem_parts[0]["vibhakti"], "saptamI")
 
+    def test_lyap_indeclinable(self):
+        # BU + lyap -> praBUya
+        res = decline_participle("BU", "lyap")
+        self.assertTrue(res["is_avyaya"])
+        self.assertEqual(res["form"], "praBUya")
+        self.assertEqual(res["forms"]["prathamA"], ["praBUya", "-", "-"])
+
+        # gam + lyap with prefix -> Agamya / Agatya
+        res_gam = decline_participle("gam", "lyap", prefix="AN")
+        self.assertTrue(res_gam["is_avyaya"])
+        self.assertIn(res_gam["form"], ("Agamya", "Agatya", "Agamya / Agatya"))
+
+    def test_a_feminine_action_noun(self):
+        # BU + a under san_krut -> buBUzA (feminine only, P. 3.3.102)
+        res = decline_participle("BU", "a", category="san_krut")
+        self.assertIn("f", res["genders"])
+        self.assertNotIn("m", res["genders"])
+        self.assertNotIn("n", res["genders"])
+        self.assertEqual(res["genders"]["f"]["prathamA"], ["buBUzA", "buBUze", "buBUzAH"])
+
+    def test_krtya_participles(self):
+        # Individual kRtyas
+        for kp in ("tavya", "anIyar", "yat", "Ryat"):
+            res = decline_participle("BU", kp)
+            self.assertIn("m", res["genders"])
+            self.assertIn("f", res["genders"])
+            self.assertIn("n", res["genders"])
+
+        # Collective kRtya query
+        res_coll = decline_participle("BU", "kRtya")
+        self.assertTrue(res_coll.get("is_collection"))
+        parts = res_coll["participles"]
+        self.assertIn("tavya", parts)
+        self.assertIn("anIyar", parts)
+        self.assertIn("yat", parts)
+        self.assertIn("Ryat", parts)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -3444,6 +3444,8 @@ def flatten_forms(result: dict[str, Any]) -> list[dict[str, str]]:
     return rows
 
 def to_table(result: dict[str, Any]) -> str:
+    if result.get("is_collection"):
+        return "\n\n".join(to_table(p_res) for p_res in result.get("participles", {}).values())
     if result.get("is_avyaya"):
         d = result.get("dhatu", "")
         p = result.get("pratyaya", "")
@@ -3473,6 +3475,8 @@ def to_table(result: dict[str, Any]) -> str:
 
 def to_markdown(result: dict[str, Any]) -> str:
     """Format declension result as a GitHub Flavored Markdown table."""
+    if result.get("is_collection"):
+        return "\n\n---\n\n".join(to_markdown(p_res) for p_res in result.get("participles", {}).values())
     if result.get("is_avyaya"):
         d = result.get("dhatu", "")
         p = result.get("pratyaya", "")

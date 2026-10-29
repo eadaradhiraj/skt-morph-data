@@ -252,6 +252,7 @@ def cmd_analyze(args: argparse.Namespace) -> int:
                 "type": "participle_decl",
                 "dhatu": h.get("participle_dhatu", "") or h.get("dhatu", ""),
                 "dhatu_id": h.get("participle_dhatu_id", "") or h.get("dhatu_id", ""),
+                "category": h.get("category", ""),
                 "pratyaya": h.get("pratyaya", ""),
                 "gender": h.get("gender", ""),
                 "vibhakti": h.get("vibhakti", ""),
@@ -275,7 +276,8 @@ def cmd_analyze(args: argparse.Namespace) -> int:
     # Show explanation for first hit
     for h in hits:
         if h.get("match_type") == "participle_declension":
-            print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} ({h.get('gender')}) of root \"{h.get('participle_dhatu')}\" + \"{h.get('pratyaya')}\" (nominal stem \"{h.get('lemma')}\")")
+            fam_str = f" [{h['category']}]" if h.get("category") and h.get("category") != "krut" else ""
+            print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} ({h.get('gender')}) of root \"{h.get('participle_dhatu')}\"{fam_str} + \"{h.get('pratyaya')}\" (nominal stem \"{h.get('lemma')}\")")
             break
         elif h.get("vibhakti"):
             print(f"→ \"{h.get('word')}\" = {h.get('vibhakti')} {h.get('vacana')} of \"{h.get('lemma')}\" [{h.get('paradigm')}] suffix \"{h.get('suffix')}\"")

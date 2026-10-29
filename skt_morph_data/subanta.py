@@ -3452,7 +3452,13 @@ def to_table(result: dict[str, Any]) -> str:
         form = result.get("form", "")
         return f"# {d} + {p} [avyaya] (indeclinable)\nform: {form}"
     lines = []
-    lines.append(f"# {result.get('word')}  [{result.get('type')}]  {result.get('desc','')}  gender={result.get('gender','') or ','.join(result.get('genders',{}))}  paradigm={result.get('paradigm','')}")
+    desc_items = []
+    if result.get("category") and result.get("category") != "krut":
+        desc_items.append(f"family={result['category']}")
+    if result.get("desc"):
+        desc_items.append(result["desc"])
+    desc_str = f"  {'  '.join(desc_items)}" if desc_items else ""
+    lines.append(f"# {result.get('word')}  [{result.get('type')}]{desc_str}  gender={result.get('gender','') or ','.join(result.get('genders',{}))}  paradigm={result.get('paradigm','')}")
     if "forms" in result:
         lines.append(f"{'vibhakti':12} | {'ekavacana':14} | {'dvivacana':14} | {'bahuvacana':14}")
         lines.append("-" * 60)
@@ -3485,6 +3491,8 @@ def to_markdown(result: dict[str, Any]) -> str:
     lines = []
     title = f"# {result.get('word', '')}"
     meta = []
+    if result.get("category") and result.get("category") != "krut":
+        meta.append(f"family: {result['category']}")
     if result.get("type"):
         meta.append(f"type: {result['type']}")
     if result.get("paradigm"):
@@ -4003,7 +4011,7 @@ def analyze(word: str, limit: int = 20, loose: bool = True, db_path=None, includ
 
             seen = set()
             for h in participle_hits + noun_hits:
-                key = (h.get("match_type"), h.get("dhatu_id"), h.get("lemma"), h.get("gender"), h.get("vibhakti"), h.get("vacana"))
+                key = (h.get("match_type"), h.get("dhatu_id"), h.get("category"), h.get("pratyaya"), h.get("lemma"), h.get("gender"), h.get("vibhakti"), h.get("vacana"))
                 if key in seen:
                     continue
                 seen.add(key)
